@@ -1,0 +1,30 @@
+{
+	"@context": {
+		"syllabus": "http://opendata.slo.nl/curriculum/schemas/syllabus.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"syllabus_specifieke_eindterm_id": {
+			"@container": "@set"
+		},
+		"syllabus_toelichting_id" : {
+			"@container": "@set"
+		},
+		"syllabus_vakbegrip_id": {
+			"@container": "@set"
+		},
+		"syllabus_specifieke_eindterm": {
+			"@id": "syllabus:#syllabus_specifieke_eindterm"
+		},
+		"syllabus_toelichting" : {
+			"@id": "syllabus:#syllabus_toelichting"
+		},
+		"syllabus_vakbegrip": {
+			"@id": "syllabus:#syllabus_vakbegrip"
+		}
+	}
+}
