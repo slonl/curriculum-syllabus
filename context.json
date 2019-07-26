@@ -6,7 +6,7 @@
 				"description": { "type": "string" },
 				"examenprogramma_eindterm_id" : {
 					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/uuidArray" },
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
 					]
 				}
@@ -30,7 +30,7 @@
 				"description": { "type": "string" },
 				"examenprogramma_eindterm_id" : {
 					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/uuidArray" },
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
 					]
 				}
@@ -94,21 +94,21 @@
 	"type": "object",
 	"properties": {
 		"syllabus_specifieke_eindterm": {
-			"#file": "data/specifieke_eindterm.json",
+			"#file": "data/specifieke_eindtermen.json",
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/syllabus_specifieke_eindterm"
 			}
 		},
 		"syllabus_toelichting" : {
-			"#file": "data/toelichting.json",
+			"#file": "data/toelichtingen.json",
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/syllabus_toelichting"
 			}
 		},
 		"syllabus_vakbegrip": {
-			"#file": "data/vakbegrip.json",
+			"#file": "data/vakbegrippen.json",
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/syllabus_vakbegrip"
