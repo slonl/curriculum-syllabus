@@ -67,7 +67,27 @@
 					]
 				}
 			}
-		}
+		},
+                "allEntities" : {
+                        "properties" : {
+                                "syllabus_id" : {
+                                        "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+                                        "itemTypeReference": "#/definitions/syllabus"
+                                },
+                                "syllabus_specifieke_eindterm_id" : {
+                                        "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+                                        "itemTypeReference": "#/definitions/syllabus_specifieke_eindterm"
+                                },
+                                "syllabus_toelichting_id" : {
+                                        "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+                                        "itemTypeReference": "#/definitions/syllabus_toelichting"
+                                },
+                                "syllabus_vakbegrip_id" : {
+                                        "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+                                        "itemTypeReference": "#/definitions/syllabus_vakbegrip"
+                                }
+                        }
+                }
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
 	"$schema": "http://json-schema.org/draft-07/schema#",
@@ -91,7 +111,7 @@
 			"#file": "data/vakbegrip.json",
 			"type" : "array",
 			"items": {
-				"$ref": "#/definitions/syllabus_vakbegrip
+				"$ref": "#/definitions/syllabus_vakbegrip"
 			}
 		},
 		"syllabus" : {
@@ -100,7 +120,7 @@
 			"items": {
 				"$ref": "#/definitions/syllabus"
 			}
-		}
+		},
 		"syllabus_deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
