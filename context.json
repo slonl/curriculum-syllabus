@@ -72,19 +72,19 @@
                         "properties" : {
                                 "syllabus_id" : {
                                         "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-                                        "itemTypeReference": "#/definitions/syllabus"
+                                        "items": { "itemTypeReference": "#/definitions/syllabus" }
                                 },
                                 "syllabus_specifieke_eindterm_id" : {
                                         "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-                                        "itemTypeReference": "#/definitions/syllabus_specifieke_eindterm"
+                                        "items": { "itemTypeReference": "#/definitions/syllabus_specifieke_eindterm" }
                                 },
                                 "syllabus_toelichting_id" : {
                                         "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-                                        "itemTypeReference": "#/definitions/syllabus_toelichting"
+                                        "items": {"itemTypeReference": "#/definitions/syllabus_toelichting" }
                                 },
                                 "syllabus_vakbegrip_id" : {
                                         "allOf": [ {"$ref": "#/definitions/uuidArray"} ],
-                                        "itemTypeReference": "#/definitions/syllabus_vakbegrip"
+                                        "items": {"itemTypeReference": "#/definitions/syllabus_vakbegrip" }
                                 }
                         }
                 }
