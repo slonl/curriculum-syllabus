@@ -1,0 +1,282 @@
+[
+	{
+		"id": "8125e6e4-c5bd-4d40-9c16-6796f6a468ad",
+		"prefix": "B1.1",
+		"title": "DNA, nucleïnezuren, helixstructuur, basenparing, nucleotide, enkelstrengs en dubbelstrengs DNA, chromosomen, nucleosomen, histonen, kernDNA, mitochondriaal en chloroplast DNA, RNA, genetische code, plasmide, primer, PCR, sequencen, restrictie-enzym, repetitief DNA.",
+		"tag_id": [
+			"0624a8d8-fc49-410f-a1d1-6ebd8f3f3248"
+		]
+	},
+	{
+		"id": "bb10b921-7a24-4a0a-98c3-cf71f8ec3897",
+		"prefix": "B1.2",
+		"title": "eiwitsynthese, aminozuur, primaire, secundaire, tertiaire en quaternaire structuur, proteïne, peptidebinding, transcriptie, translatie, mRNA, tRNA, rRNA, cytoplasma, ribosoom, golgi-systeem, (ruw) endoplasmatisch reticulum, tripletcode, codon, anticodon, coderende streng, afleesrichting, template/matrijsstreng, DNA-polymerase, startcodon, stopcodon, plasmide.",
+		"tag_id": [
+			"0626fac9-55d1-4672-8fe5-7c1d5f40165d"
+		]
+	},
+	{
+		"id": "f7b97a3c-c2a8-4e64-92f0-1bc72ce8e749",
+		"prefix": "B2.1",
+		"title": "homeostase, prokaryoot, eukaryoot, virus, bacterie, plasmide, celkern, kernlichaampje, kernporie, chromosoom, celwand, celmembraan, vacuole, cytoplasma, grondplasma, cytoskelet, centriolen, mitochondrie, (ruw) endoplasmatisch reticulum, golgi-systeem, ribosoom, lysosoom, chloroplast, chlorofyl, plastide, ciliën, flagellen, terugkoppeling, receptoreiwit, effector, cascade, ionenpomp, dynamisch evenwicht.",
+		"tag_id": [
+			"b7c95e33-1ac5-443e-9837-aa3770023de9"
+		]
+	},
+	{
+		"id": "9207893d-048e-4194-9c48-2aa0267c2605",
+		"prefix": "B2.2",
+		"title": "transport, diffusie, osmose, semi-permeabel membraan, selectief permeabel, fosfolipiden, hydrofoob, hydrofiel, receptoreiwit, ionentransport, ionenpomp, isotonisch, hypotonisch, hypertonisch, plasmolyse, turgor, osmotische druk, osmotische waarde, waterpotentiaal, actief transport, passief transport, endo- en exocytose, cytoplasmastroming, motoreiwit, cytoskelet.",
+		"tag_id": [
+			"205a1ef7-9e3b-4381-bf28-5dbe77c2789f"
+		]
+	},
+	{
+		"id": "864b9d31-176a-4350-9576-119e3cb2ea15",
+		"prefix": "B2.3",
+		"title": "assimilatie, dissimilatie, autotroof, heterotroof, fotosynthese, C-assimilatie, chloroplast, licht- en donkerreactie, chemosynthese verbranding, aeroob, anaeroob, glycolyse, citroenzuurcyclus, oxidatieve fosforylering, gisting, alcohol, melkzuur, methaan, ADP en ATP, NAD, NADP, bouwstoffen, brandstoffen, reservestoffen, enzymen, fosfolipiden, tussencelstof, koolhydraten (mono-, di- en polysachariden, zetmeel, glycogeen, cellulose), vet (vetzuren en glycerol), eiwit, aminozuren, DNA, recombinant-DNA, pH, denaturatie.",
+		"tag_id": [
+			"04d701f0-1d85-40b8-bfb7-1165619ed2c9"
+		]
+	},
+	{
+		"id": "fb4c3aad-7938-4f9f-a556-d38d6d14c7b1",
+		"prefix": "B3.1",
+		"title": "orgaan, hart, hartkleppen, slagader, ader, haarvat, lymfesysteem, huidmondjes, hout- en bastvaten, wortelharen, longen, luchtpijp, bronchiën, longblaasjes, kieuwen, tracheeën, huidmondjes, slokdarm, maag, twaalfvingerige darm, alvleesklier, lever, galblaas, dunne darm, dikke darm, endeldarm, darmvlokken, kring- en lengtespieren, nieren, nefron, zweetklieren.",
+		"tag_id": [
+			"4f1e6ed1-36b9-41c2-aa83-079e9ae5080b"
+		]
+	},
+	{
+		"id": "b6864fac-d359-4e60-a9d9-ec98c6466544",
+		"prefix": "B3.2.4",
+		"title": "fotosynthese, autotroof, heterotroof, (an)organische stoffen, chloroplasten, netto fotosynthesereactie, voortgezette assimilatie, beperkende factoren.",
+		"tag_id": [
+			"abc19e17-bd71-4394-9a65-af728d03ff8b"
+		]
+	},
+	{
+		"id": "70cd372d-b5cc-4c1b-a66f-17ddc523d797",
+		"prefix": "B3.3",
+		"title": "ademhaling, gaswisseling, ventilatiebewegingen, longcapaciteit, vitale capaciteit, dode ruimte, diffusie, wet van Fick, CO2-concentratie, O2-concentratie, buffers van hemoglobine en HCO3-, dissimilatie, assimilatie, beperkende factor.",
+		"tag_id": [
+			"9df34a2c-01be-4a70-88a3-a9311de96c88"
+		]
+	},
+	{
+		"id": "3eba3b16-5bd9-4cb0-b4ee-4d32e66b6780",
+		"prefix": "B3.4",
+		"title": "vertering, mechanische en chemische vertering, darmperistaltiek, voedingsstoffen, verteringssappen, gal, verteringsenzymen voor koolhydraten, eiwitten, vetten, vitamines, pH, temperatuur, verteringsproducten, emulgeren, resorptie, darmbacteriën.",
+		"tag_id": [
+			"24c10b14-0c40-4617-bf22-63591fcfb3e2"
+		]
+	},
+	{
+		"id": "2d228dea-1bee-4a8b-b1ae-15404e018f04",
+		"prefix": "B3.5",
+		"title": "uitscheiding, waterhuishouding, ultrafiltratie, reabsorptie/terugresorptie, voorurine, osmotische waarde, ADH, ureum, urine, buffers van HCO3-, galzouten, galkleurstoffen, zweet.",
+		"tag_id": [
+			"21641a12-48d2-4335-bee2-acdbaaa1c32e"
+		]
+	},
+	{
+		"id": "69b392bc-5b46-456b-a2ac-4279a1ad6ea2",
+		"prefix": "B3.6",
+		"title": "transport, open en gesloten bloedsomloop, enkele en dubbele bloedsomloop, grote bloedsomloop, kleine bloedsomloop, embryonale bloedsomloop, bloedplasma, weefselvloeistof, lymfe, beenmerg, bloedsamenstelling, rode bloedcellen, witte bloedcellen, bloedplaatjes, hartslagfrequentie, slagvolume, sinusknoop, AV-knoop, bundel van His, bloeddruk, diastole, systole, zuurstoftransport en koolstofdioxidetransport, voedings- en afvalstoffen, Bohr-effect, bufferende stoffen, HCO3-, hemoglobine, myoglobine, bloedstolling, cholesterol, tegenstroomprincipe, filtratiedruk, colloïd-osmotische druk, verdampingsstroom, cohesie, adhesie, worteldruk, oedeem.",
+		"tag_id": [
+			"205a1ef7-9e3b-4381-bf28-5dbe77c2789f"
+		]
+	},
+	{
+		"id": "61f9a9f6-e55b-4758-9e4e-ba303642dd23",
+		"prefix": "B4.1",
+		"title": "homeostase, zenuwstelsel, hormoonstelsel, receptoren, inwendig en uitwendig milieu, regelkring, positieve en negatieve terugkoppeling, dynamisch evenwicht, receptoren in celmembranen en cytoplasma, osmotische waarde, pH, temperatuur, chemische samenstelling, O2-concentratie, CO2-concentratie, buffers van hemoglobine en HCO3-, glucoseconcentratie, waterhuishouding , chemische en drukreceptoren in de aorta, pCO2, pO2.",
+		"tag_id": [
+			"b7c95e33-1ac5-443e-9837-aa3770023de9"
+		]
+	},
+	{
+		"id": "47e6449c-36cd-4157-a286-97aef4a84e13",
+		"prefix": "B4.2",
+		"title": "hormonale regulatie, hormoonklieren, hypofyse, hypothalamus, schildklier, nieren, bijnieren, ovaria, testes, eilandjes van Langerhans, exocrien, endocrien, doelwitorganen, receptor, hormoonconcentratie, insuline, glucagon, adrenaline, schildklierhormoon, spijsverteringshormonen, EPO.",
+		"tag_id": [
+			"5e1b9d4b-8d2f-4a5b-ae41-098881cf1117"
+		]
+	},
+	{
+		"id": "0abfcf4b-a997-4eee-88e1-47cdacd8d5ec",
+		"prefix": "B4.3",
+		"title": "neurale regulatie, centraal zenuwstelsel, perifeer zenuwstelsel, grote en kleine hersenen, centra in de hersenschors, witte stof, grijze stof, hersenstam, ruggenmerg, autonoom (vegetatief) zenuwstelsel, animaal zenuwstelsel, ortho- en parasympatisch, sensorische, schakel- en motorische neuronen, cellen van Schwann, myelineschede, synaps, Na/K-pomp, impulsgeleiding, saltatoire geleiding, reflexboog, neurotransmitter, rustpotentiaal, actiepotentiaal, prikkeldrempel, refractaire periode, exciterend, inhiberend, prikkels, mechanische, chemische, temperatuur-, licht-, tast- en pijnreceptoren",
+		"tag_id": [
+			"3ca70551-0210-4ea8-8050-4c7e37e57af0"
+		]
+	},
+	{
+		"id": "37b2a964-cf3c-4f56-813e-61d549a8f806",
+		"prefix": "B5.1",
+		"title": "afweer, huid en slijmvliezen, bloed, lymfe, milt, lymfeknopen, humorale en cellulaire respons, macrofagen, T- en B-cellen, mediatoren, antigenen en antistoffen, lichaamseigen, lichaamsvreemd, MHCI en MHCII receptoren, natuurlijke en kunstmatige immuniteit, actieve en passieve immuniteit, vaccinatie, transplantatie, bloedtransfusie, AB0systeem, resusfactor, donor, acceptor, mechanische en chemische afweer van planten, resistentie.",
+		"tag_id": [
+			"297e0aee-6dee-4ed8-86df-2a05f7a505bc"
+		]
+	},
+	{
+		"id": "ddbef08f-7fb0-4f43-be62-3b6b4b2d9ab7",
+		"prefix": "B8.1",
+		"title": "energiestroom, producent, consument, reducent, trofische niveaus, foto- en chemo-autotroof, heterotroof, (an)organische stoffen, BPP, NPP, productiviteit, fossiele brandstof, biobrandstof, biomassa.",
+		"tag_id": [
+			"0fa1ee69-c762-4b1b-bd2d-cc1390e85436"
+		]
+	},
+	{
+		"id": "12084649-8f6d-40f6-9e48-b1d43bb0003a",
+		"prefix": "B8.2",
+		"title": "kringloop, fotosynthese, dissimilatie, (de)nitrificatie, ammonificatie, stikstofbinding, (an)organische stof, uitspoeling, eutrofiering, biomassa, broeikaseffect, broeikasgassen.",
+		"tag_id": [
+			"4748d1e0-e8d3-411d-8245-b594076799c8"
+		]
+	},
+	{
+		"id": "0d378fa3-971e-42a8-9f6a-a23ac63a16f2",
+		"prefix": "B8.3",
+		"title": "dymamiek en evenwicht, niche, microklimaat, biodiversiteit, migratie, exoot",
+		"tag_id": [
+			"464c0916-541b-4acc-852c-543c7d7938ad"
+		]
+	},
+	{
+		"id": "8409f5cb-b0a9-449f-805c-a1c50609800f",
+		"prefix": "C1.1",
+		"title": "genexpressie, chromosoom, gen, DNA, RNA, eiwit, fenotype, genetische code, startcodon, stopcodon, transcriptiefactor, activator, RNA-polymerase, splicing, introns, exons, nucleosomen, niet-coderend DNA, cDNA, knock-out-gen.",
+		"tag_id": [
+			"5b43e401-560f-432a-81cb-64b423920401"
+		]
+	},
+	{
+		"id": "10151ba7-7e27-47a6-9601-309f6a767054",
+		"prefix": "C1.2",
+		"title": "celdifferentiatie, genoom, stamcellen, celtype, tussencelstof, apoptose, lysosoom, pluripotent, omnipotent, kanker.",
+		"tag_id": [
+			"328bc43b-65f7-4e3d-8848-31dded96f86e"
+		]
+	},
+	{
+		"id": "01fa111f-24ac-49a2-9220-19cc0521b88c",
+		"prefix": "C3.1",
+		"title": "dynaiek en evenwicht, successie, pioniersoort, climaxecosysteem, gradiëntecosysteem, indicatorsoort, biodiversiteit, genenpool, concurrentie, draagkracht, tolerantiegrenzen, exoot, omslagpunt, groeicurves",
+		"tag_id": [
+			"464c0916-541b-4acc-852c-543c7d7938ad"
+		]
+	},
+	{
+		"id": "f81797c2-f76e-4bdc-bee4-fb78c685ce27",
+		"prefix": "D1.1",
+		"title": "genregulatie en interactie met (a)biothische factoren, genoom, structuurgenen, regulatorgenen, recombinant DNA, proto-oncogenen, enzymen, virus, iRNA/RNAi, promotor, operator, repressor, suppressor, epigenetisch, cisgeen, transgeen.",
+		"tag_id": [
+			"c9b7cb2e-4715-4be9-9281-34029594f5e4"
+		]
+	},
+	{
+		"id": "2303bb7d-ffd6-403a-9e80-99cbbc53db62",
+		"prefix": "D2.1",
+		"title": "celcommunicatie en interactie met (a)biotische factoren, signaalstoffen, second messenger, synaps, cell junctions, receptor, respons, signaalcascade, Na/K-pomp.",
+		"tag_id": [
+			"e2b430f0-debd-42a1-9f3f-326fb8fa9f74"
+		]
+	},
+	{
+		"id": "f39a8bf3-03c4-4dbb-99ed-294cb3a92d54",
+		"prefix": "D5.1",
+		"title": "voedselrelatie, trofische niveaus, predatie, vraat, signaalstoffen, symbiose, parasitisme, mutualisme, commensalisme.",
+		"tag_id": [
+			"8386643c-87cf-4a88-a087-613db214b02f"
+		]
+	},
+	{
+		"id": "545e75e9-3399-47ff-9dd3-6f66647cbf9b",
+		"prefix": "D5.2",
+		"title": "Interactie met (a)biothische factoren, microklimaat, niche, indicatorsoort, beperkende factor, tolerantie, optimum, persistent, biologisch afbreekbaar, habitat.",
+		"tag_id": [
+			"71bdd358-bfde-42b3-a019-7e98adc60e3b"
+		]
+	},
+	{
+		"id": "2a103f4f-3a5e-48c3-8a02-feeba0a4c043",
+		"prefix": "E3.1",
+		"title": "voortplanting, levenscyclus, geslachtelijke en ongeslachtelijke voortplanting, voortplantingsorganen van eukaryoten, gameten, spore, mitose, meiose, haploïd, diploïd, polyploïd, bevruchting, eicel, spermacel, follikel, gele lichaam, zygote, klievingsdeling, poollichaampje, embryo, placenta, geslachtshormonen, FSH, LH, oestrogeen, progesteron, testosteron, HCG, menstruatiecyclus, anticonceptie, kunstmatige inseminatie, in vitro fertilisatie, embryonale ontwikkeling, klonen.",
+		"tag_id": [
+			"d12272ce-e78a-43f4-aa68-05b7fceb4240"
+		]
+	},
+	{
+		"id": "94ad3ef2-91b2-41b3-82ce-d5527258ff88",
+		"prefix": "E3.2",
+		"title": "erfelijke eigenschap, genoom, autosomen, X- en Y-chromosomen genotype, fenotype, allel, gen, mono- en dihybride kruising, (onvolledig) dominant, recessief, intermediair, multipele allelen, lethale factor, gekoppelde genen, stamboom, mitochondriaal DNA, epigenetica, methylering.",
+		"tag_id": [
+			"f4031fc2-f025-43c5-8207-3722efd48c69"
+		]
+	},
+	{
+		"id": "af669d42-358b-4432-b0a9-ba023103f0cd",
+		"prefix": "F1.1",
+		"title": "DNA, genetische code, genotype, fenotype",
+		"tag_id": [
+			"0624a8d8-fc49-410f-a1d1-6ebd8f3f3248"
+		]
+	},
+	{
+		"id": "e9bba6bd-5e63-4b26-9796-003b7470bf1e",
+		"prefix": "F1.2",
+		"title": "mutatie, chromosoom, mutagene stof, mutagene straling puntmutatie, deletie, insertie, genoommutatie, gen, allel, genetische modificatie, DNA-repairsysteem, leesraamverschuiving/frame shift mutatie.",
+		"tag_id": [
+			"d68e8cb7-b678-477e-be00-394943a80865"
+		]
+	},
+	{
+		"id": "14dc130c-bfa1-4e38-9ec9-8c8b9a87dc2f",
+		"prefix": "F1.3",
+		"title": "recombinatie, meiose, homologe chromosomen, autosomen, geslachtschromosomen, karyotype, haplotype, genoom, gekoppelde genen, crossing-over",
+		"tag_id": [
+			"d115024a-a204-4ce2-919a-db01dcee0d0d"
+		]
+	},
+	{
+		"id": "0c7827b2-54c3-41d2-9d42-46d7ccfd15c2",
+		"prefix": "F1.4",
+		"title": "genetische variatie, mutatie, recombinatie, fenotype, genotype, genenpoel/gene pool, genetische modificatie.",
+		"tag_id": [
+			"4a40ebe8-05f1-4c7b-895b-f7336fa347a7"
+		]
+	},
+	{
+		"id": "d13c7dbe-1269-43c7-b365-5cdfc62712b0",
+		"prefix": "F2.1",
+		"title": "populatie, genotype, fenotype, emergente eigenschap",
+		"tag_id": [
+			"6669d224-32ad-44f2-a1df-86873402db3d"
+		]
+	},
+	{
+		"id": "73a9d242-c278-4ca2-98af-8d0d0e0f6b22",
+		"prefix": "F2.2",
+		"title": "variatie, adaptatie, fitness, natuurlijke selectie, genetic drift, gene flow, allelfrequentie, HardyWeinberg.",
+		"tag_id": [
+			"69fd27d8-38bf-496d-91d5-2c1468e89cd3"
+		]
+	},
+	{
+		"id": "4c4cee14-03bf-4dab-a8c0-7aae9e0180c9",
+		"prefix": "F2.3",
+		"title": "selectie, adaptatie, fitness, selectiedruk, soort, natuurlijke selectie, seksuele selectie, eilandtheorie, stichter effect/founder effect, flessenhalseffect/bottleneck effect, inteelt",
+		"tag_id": [
+			"f6f0d241-783a-4b50-9703-534333f98842"
+		]
+	},
+	{
+		"id": "2c494b25-bade-413c-91c5-1cc973e97f4c",
+		"prefix": "F2.4",
+		"title": "soortvorming, soort, geslacht, cladogram, clade, taxon, homologie, analogie, genetic drift, coevolutie, sympatrische en allopatrische soortvorming",
+		"tag_id": [
+			"2fc80e9f-e600-4431-88fa-f4d423cb1b82"
+		]
+	}
+]

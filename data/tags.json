@@ -1,0 +1,154 @@
+[
+	{
+		"id": "1fd9b9bc-2e36-473a-8d15-921d15a54ee8",
+		"title": "natuurwetenschappelijke, wiskundige en technische vaardigheden"
+	},
+	{
+		"id": "e757005e-4751-4975-9203-209c2038b0ac",
+		"title": "Zelfregulatie"
+	},
+	{
+		"id": "0624a8d8-fc49-410f-a1d1-6ebd8f3f3248",
+		"title": "DNA"
+	},
+	{
+		"id": "0626fac9-55d1-4672-8fe5-7c1d5f40165d",
+		"title": "Eiwitsynthese"
+	},
+	{
+		"id": "b7c95e33-1ac5-443e-9837-aa3770023de9",
+		"title": "Homeostase"
+	},
+	{
+		"id": "205a1ef7-9e3b-4381-bf28-5dbe77c2789f",
+		"title": "Transport"
+	},
+	{
+		"id": "04d701f0-1d85-40b8-bfb7-1165619ed2c9",
+		"title": "Assimilatie, dissimilatie"
+	},
+	{
+		"id": "4f1e6ed1-36b9-41c2-aa83-079e9ae5080b",
+		"title": "Orgaan"
+	},
+	{
+		"id": "abc19e17-bd71-4394-9a65-af728d03ff8b",
+		"title": "Fotosynthese"
+	},
+	{
+		"id": "9df34a2c-01be-4a70-88a3-a9311de96c88",
+		"title": "Ademhaling"
+	},
+	{
+		"id": "24c10b14-0c40-4617-bf22-63591fcfb3e2",
+		"title": "vertering"
+	},
+	{
+		"id": "21641a12-48d2-4335-bee2-acdbaaa1c32e",
+		"title": "Uitscheiding"
+	},
+	{
+		"id": "5e1b9d4b-8d2f-4a5b-ae41-098881cf1117",
+		"title": "Hormonale regulatie"
+	},
+	{
+		"id": "3ca70551-0210-4ea8-8050-4c7e37e57af0",
+		"title": "Neurale regulatie"
+	},
+	{
+		"id": "297e0aee-6dee-4ed8-86df-2a05f7a505bc",
+		"title": "Afweer"
+	},
+	{
+		"id": "0fa1ee69-c762-4b1b-bd2d-cc1390e85436",
+		"title": "Energiestroom"
+	},
+	{
+		"id": "4748d1e0-e8d3-411d-8245-b594076799c8",
+		"title": "Kringloop"
+	},
+	{
+		"id": "464c0916-541b-4acc-852c-543c7d7938ad",
+		"title": "Dynamiek en evenwicht"
+	},
+	{
+		"id": "54048ae2-27e1-4dbd-b06e-ad2d068ee152",
+		"title": "Zelforganisatie"
+	},
+	{
+		"id": "5b43e401-560f-432a-81cb-64b423920401",
+		"title": "Genexpressie"
+	},
+	{
+		"id": "328bc43b-65f7-4e3d-8848-31dded96f86e",
+		"title": "Celdifferentiatie"
+	},
+	{
+		"id": "9ce57ae6-a98f-48b7-8a87-7fd34968851c",
+		"title": "Interactie"
+	},
+	{
+		"id": "c9b7cb2e-4715-4be9-9281-34029594f5e4",
+		"title": "Genregulatie en interactie met (a)biothische factoren"
+	},
+	{
+		"id": "e2b430f0-debd-42a1-9f3f-326fb8fa9f74",
+		"title": "celcommunicatie en interactie met (a)biotische factoren"
+	},
+	{
+		"id": "8386643c-87cf-4a88-a087-613db214b02f",
+		"title": "Voedselrelatie"
+	},
+	{
+		"id": "71bdd358-bfde-42b3-a019-7e98adc60e3b",
+		"title": "Interactie met (a)biothische factoren"
+	},
+	{
+		"id": "c3ffc3e9-03e7-4160-aab6-594b0a928947",
+		"title": "Reporductie"
+	},
+	{
+		"id": "261ef0ea-56e0-4641-886a-3898829b5fff",
+		"title": "Reproductie"
+	},
+	{
+		"id": "d12272ce-e78a-43f4-aa68-05b7fceb4240",
+		"title": "Voortplanting"
+	},
+	{
+		"id": "f4031fc2-f025-43c5-8207-3722efd48c69",
+		"title": "Erfelijke eigenschap"
+	},
+	{
+		"id": "62f5c141-9d4e-4ee6-892f-581b3e288d8e",
+		"title": "Evolutie"
+	},
+	{
+		"id": "d68e8cb7-b678-477e-be00-394943a80865",
+		"title": "Mutatie"
+	},
+	{
+		"id": "d115024a-a204-4ce2-919a-db01dcee0d0d",
+		"title": "Recombinatie"
+	},
+	{
+		"id": "4a40ebe8-05f1-4c7b-895b-f7336fa347a7",
+		"title": "Genetische variatie"
+	},
+	{
+		"id": "6669d224-32ad-44f2-a1df-86873402db3d",
+		"title": "Populatie"
+	},
+	{
+		"id": "69fd27d8-38bf-496d-91d5-2c1468e89cd3",
+		"title": "Variatie"
+	},
+	{
+		"id": "f6f0d241-783a-4b50-9703-534333f98842",
+		"title": "Selectie"
+	},
+	{
+		"id": "2fc80e9f-e600-4431-88fa-f4d423cb1b82",
+		"title": "Soortvorming"
+	}
+]
