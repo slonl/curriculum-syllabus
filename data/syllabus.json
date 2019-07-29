@@ -2,7 +2,9 @@
 	{
 		"id": "48343637-8b52-492f-b252-69d22113fd01",
 		"title": "Syllabus biologie vwo",
-		"examenprogramma_id": [],
+		"examenprogramma_id": [
+			"92f57200-9ac6-449c-964c-b18c8996df85"
+		],
 		"syllabus_specifieke_eindterm_id": [
 			"d2771335-16a3-4c63-9780-67c2a61c425a",
 			"9fe94ffc-e769-478c-aa3b-a901e2d81d53",
