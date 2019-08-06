@@ -91,7 +91,7 @@
 			"#file": "data/vakbegrip.json",
 			"type" : "array",
 			"items": {
-				"$ref": "#/definitions/syllabus_vakbegrip
+				"$ref": "#/definitions/syllabus_vakbegrip"
 			}
 		},
 		"syllabus" : {
