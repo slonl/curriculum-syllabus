@@ -100,7 +100,7 @@
 			"items": {
 				"$ref": "#/definitions/syllabus"
 			}
-		}
+		},
 		"syllabus_deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
