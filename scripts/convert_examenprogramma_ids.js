@@ -26,6 +26,9 @@ Object.keys(curriculum.data).forEach(function(dataset) {
 			delete entry.examenprogramma_id;
 			converting.forEach(function(id) {
 				var type = curriculum.types[id];
+				if (!type) {
+					type = "examenprogramma";
+				}
 				console.log(type);
 				var typeId = type + "_id";
 				entry[typeId] = [id];
