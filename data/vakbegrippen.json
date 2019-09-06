@@ -1,0 +1,901 @@
+[
+	{
+		"id": "bee44e51-7a8a-409c-80f3-544929057fc4",
+		"prefix": "B1.1",
+		"title": "DNA, nucleïnezuren, helixstructuur, basenparing, nucleotide, enkelstrengs en dubbelstrengs DNA, chromosomen, nucleosomen, histonen, kernDNA, mitochondriaal en chloroplast DNA, RNA, genetische code, plasmide, primer, PCR, sequencen, restrictie-enzym, repetitief DNA.",
+		"examenprogramma_id": [
+			"25d34c29-2d42-4f27-b903-b6c28928c016"
+		],
+		"tag_id": [
+			"dec0082e-2548-4944-ac3a-294e7b6961f1"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "b3e6e1c9-6209-46fd-936e-3c3a8306f351",
+		"prefix": "B1.2",
+		"title": "eiwitsynthese, aminozuur, primaire, secundaire, tertiaire en quaternaire structuur, proteïne, peptidebinding, transcriptie, translatie, mRNA, tRNA, rRNA, cytoplasma, ribosoom, golgi-systeem, (ruw) endoplasmatisch reticulum, tripletcode, codon, anticodon, coderende streng, afleesrichting, template/matrijsstreng, DNA-polymerase, startcodon, stopcodon, plasmide.",
+		"examenprogramma_id": [
+			"25d34c29-2d42-4f27-b903-b6c28928c016"
+		],
+		"tag_id": [
+			"1afdc463-68fc-4f4f-b5f2-161bbc288dd3"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "ed610f45-c8f8-49b7-b09e-c03333174738",
+		"prefix": "B2.1",
+		"title": "homeostase, prokaryoot, eukaryoot, virus, bacterie, plasmide, celkern, kernlichaampje, kernporie, chromosoom, celwand, celmembraan, vacuole, cytoplasma, grondplasma, cytoskelet, centriolen, mitochondrie, (ruw) endoplasmatisch reticulum, golgi-systeem, ribosoom, lysosoom, chloroplast, chlorofyl, plastide, ciliën, flagellen, terugkoppeling, receptoreiwit, effector, cascade, ionenpomp, dynamisch evenwicht.",
+		"examenprogramma_id": [
+			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
+		],
+		"tag_id": [
+			"f68ee998-1b68-4a92-a399-657eae509e3a"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "f8679993-4bea-484a-b037-ff6f7d735889",
+		"prefix": "B2.2",
+		"title": "transport, diffusie, osmose, semi-permeabel membraan, selectief permeabel, fosfolipiden, hydrofoob, hydrofiel, receptoreiwit, ionentransport, ionenpomp, isotonisch, hypotonisch, hypertonisch, plasmolyse, turgor, osmotische druk, osmotische waarde, waterpotentiaal, actief transport, passief transport, endo- en exocytose, cytoplasmastroming, motoreiwit, cytoskelet.",
+		"examenprogramma_id": [
+			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
+		],
+		"tag_id": [
+			"54a5fe8e-38c0-4a45-88cd-a1d607c15a0e"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "ae904615-f8d5-49a2-8fe9-bf99929f6c5a",
+		"prefix": "B2.3",
+		"title": "assimilatie, dissimilatie, autotroof, heterotroof, fotosynthese, C-assimilatie, chloroplast, licht- en donkerreactie, chemosynthese verbranding, aeroob, anaeroob, glycolyse, citroenzuurcyclus, oxidatieve fosforylering, gisting, alcohol, melkzuur, methaan, ADP en ATP, NAD, NADP, bouwstoffen, brandstoffen, reservestoffen, enzymen, fosfolipiden, tussencelstof, koolhydraten (mono-, di- en polysachariden, zetmeel, glycogeen, cellulose), vet (vetzuren en glycerol), eiwit, aminozuren, DNA, recombinant-DNA, pH, denaturatie.",
+		"examenprogramma_id": [
+			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
+		],
+		"tag_id": [
+			"478617a1-5fbb-4ade-a0f6-af4ff7eb7744"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "53f6fb02-1ebc-4531-a10a-e0416fae358b",
+		"prefix": "B3.1",
+		"title": "orgaan, hart, hartkleppen, slagader, ader, haarvat, lymfesysteem, huidmondjes, hout- en bastvaten, wortelharen, longen, luchtpijp, bronchiën, longblaasjes, kieuwen, tracheeën, huidmondjes, slokdarm, maag, twaalfvingerige darm, alvleesklier, lever, galblaas, dunne darm, dikke darm, endeldarm, darmvlokken, kring- en lengtespieren, nieren, nefron, zweetklieren.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"b690edc0-7cbf-47b0-8739-46cbca138ef6"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "2c5a5829-deb7-465a-a6fe-044416c3f89a",
+		"prefix": "B3.2.4",
+		"title": "fotosynthese, autotroof, heterotroof, (an)organische stoffen, chloroplasten, netto fotosynthesereactie, voortgezette assimilatie, beperkende factoren.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"6febe53f-80df-4fea-b01a-1200b5875435"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "c7518196-ad48-4b1b-a662-8eab7de491a5",
+		"prefix": "B3.3",
+		"title": "ademhaling, gaswisseling, ventilatiebewegingen, longcapaciteit, vitale capaciteit, dode ruimte, diffusie, wet van Fick, CO2-concentratie, O2-concentratie, buffers van hemoglobine en HCO3-, dissimilatie, assimilatie, beperkende factor.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"f020425f-7071-4e4e-97e2-aadedd970493"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "abed141e-acbe-470a-bcb2-a75d4ff0c332",
+		"prefix": "B3.4",
+		"title": "vertering, mechanische en chemische vertering, darmperistaltiek, voedingsstoffen, verteringssappen, gal, verteringsenzymen voor koolhydraten, eiwitten, vetten, vitamines, pH, temperatuur, verteringsproducten, emulgeren, resorptie, darmbacteriën.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"b8f67187-de6f-4992-8b65-47e09dbae4f2"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "976a72e2-4c1a-45f9-882c-6e35f8b77c31",
+		"prefix": "B3.5",
+		"title": "uitscheiding, waterhuishouding, ultrafiltratie, reabsorptie/terugresorptie, voorurine, osmotische waarde, ADH, ureum, urine, buffers van HCO3-, galzouten, galkleurstoffen, zweet.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"cd1b4b57-7782-4dd4-bded-fc9e32c239a2"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "b9a0188d-0361-42d1-90e0-02556a1aac0b",
+		"prefix": "B3.6",
+		"title": "transport, open en gesloten bloedsomloop, enkele en dubbele bloedsomloop, grote bloedsomloop, kleine bloedsomloop, embryonale bloedsomloop, bloedplasma, weefselvloeistof, lymfe, beenmerg, bloedsamenstelling, rode bloedcellen, witte bloedcellen, bloedplaatjes, hartslagfrequentie, slagvolume, sinusknoop, AV-knoop, bundel van His, bloeddruk, diastole, systole, zuurstoftransport en koolstofdioxidetransport, voedings- en afvalstoffen, Bohr-effect, bufferende stoffen, HCO3-, hemoglobine, myoglobine, bloedstolling, cholesterol, tegenstroomprincipe, filtratiedruk, colloïd-osmotische druk, verdampingsstroom, cohesie, adhesie, worteldruk, oedeem.",
+		"examenprogramma_id": [
+			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
+		],
+		"tag_id": [
+			"54a5fe8e-38c0-4a45-88cd-a1d607c15a0e"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "9d10f7f3-b595-4205-a1bb-1909f0526077",
+		"prefix": "B4.1",
+		"title": "homeostase, zenuwstelsel, hormoonstelsel, receptoren, inwendig en uitwendig milieu, regelkring, positieve en negatieve terugkoppeling, dynamisch evenwicht, receptoren in celmembranen en cytoplasma, osmotische waarde, pH, temperatuur, chemische samenstelling, O2-concentratie, CO2-concentratie, buffers van hemoglobine en HCO3-, glucoseconcentratie, waterhuishouding , chemische en drukreceptoren in de aorta, pCO2, pO2.",
+		"examenprogramma_id": [
+			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
+		],
+		"tag_id": [
+			"f68ee998-1b68-4a92-a399-657eae509e3a"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "7008b962-043f-4c33-ac04-ac93ecc5d98a",
+		"prefix": "B4.2",
+		"title": "hormonale regulatie, hormoonklieren, hypofyse, hypothalamus, schildklier, nieren, bijnieren, ovaria, testes, eilandjes van Langerhans, exocrien, endocrien, doelwitorganen, receptor, hormoonconcentratie, insuline, glucagon, adrenaline, schildklierhormoon, spijsverteringshormonen, EPO.",
+		"examenprogramma_id": [
+			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
+		],
+		"tag_id": [
+			"8e1e3ed7-6124-4112-aa2d-bb7ff8965c61"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "0f7079c0-6928-4e8b-be13-c6961a8824be",
+		"prefix": "B4.3",
+		"title": "neurale regulatie, centraal zenuwstelsel, perifeer zenuwstelsel, grote en kleine hersenen, centra in de hersenschors, witte stof, grijze stof, hersenstam, ruggenmerg, autonoom (vegetatief) zenuwstelsel, animaal zenuwstelsel, ortho- en parasympatisch, sensorische, schakel- en motorische neuronen, cellen van Schwann, myelineschede, synaps, Na/K-pomp, impulsgeleiding, saltatoire geleiding, reflexboog, neurotransmitter, rustpotentiaal, actiepotentiaal, prikkeldrempel, refractaire periode, exciterend, inhiberend, prikkels, mechanische, chemische, temperatuur-, licht-, tast- en pijnreceptoren",
+		"examenprogramma_id": [
+			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
+		],
+		"tag_id": [
+			"2dcebb7c-73b1-41ac-82df-291689819ba7"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "f5c21f9c-30d9-4d0c-8e2f-f230a5fff314",
+		"prefix": "B5.1",
+		"title": "afweer, huid en slijmvliezen, bloed, lymfe, milt, lymfeknopen, humorale en cellulaire respons, macrofagen, T- en B-cellen, mediatoren, antigenen en antistoffen, lichaamseigen, lichaamsvreemd, MHCI en MHCII receptoren, natuurlijke en kunstmatige immuniteit, actieve en passieve immuniteit, vaccinatie, transplantatie, bloedtransfusie, AB0systeem, resusfactor, donor, acceptor, mechanische en chemische afweer van planten, resistentie.",
+		"examenprogramma_id": [
+			"cea5ad1f-312a-4255-a1f4-c796532152b4"
+		],
+		"tag_id": [
+			"d7592e0f-4f5d-4833-aa7b-751a2973c612"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "baf7d76b-7500-448a-ab9b-d7a657b81a8d",
+		"prefix": "B8.1",
+		"title": "energiestroom, producent, consument, reducent, trofische niveaus, foto- en chemo-autotroof, heterotroof, (an)organische stoffen, BPP, NPP, productiviteit, fossiele brandstof, biobrandstof, biomassa.",
+		"examenprogramma_id": [
+			"e8a581b3-c05c-42db-9c0b-d935da62334f"
+		],
+		"tag_id": [
+			"049d8854-3d67-4812-93c7-bca49d61dcd7"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "4ff4ebf1-19a4-4fca-9992-efba3c3e396e",
+		"prefix": "B8.2",
+		"title": "kringloop, fotosynthese, dissimilatie, (de)nitrificatie, ammonificatie, stikstofbinding, (an)organische stof, uitspoeling, eutrofiering, biomassa, broeikaseffect, broeikasgassen.",
+		"examenprogramma_id": [
+			"e8a581b3-c05c-42db-9c0b-d935da62334f"
+		],
+		"tag_id": [
+			"8ba1656c-be10-4c83-918f-0627a5c586eb"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "851d03b2-b549-40aa-948d-e2c78d04624c",
+		"prefix": "B8.3",
+		"title": "dymamiek en evenwicht, niche, microklimaat, biodiversiteit, migratie, exoot",
+		"examenprogramma_id": [
+			"e8a581b3-c05c-42db-9c0b-d935da62334f"
+		],
+		"tag_id": [
+			"b2b405d6-1ce7-4c57-b474-22aab5a8059d"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "7dbc6cb4-da1b-4241-8bdd-3cb474a79bac",
+		"prefix": "C1.1",
+		"title": "genexpressie, chromosoom, gen, DNA, RNA, eiwit, fenotype, genetische code, startcodon, stopcodon, transcriptiefactor, activator, RNA-polymerase, splicing, introns, exons, nucleosomen, niet-coderend DNA, cDNA, knock-out-gen.",
+		"examenprogramma_id": [
+			"a429bb50-fe34-4c63-966f-0729283f6914"
+		],
+		"tag_id": [
+			"464e4032-ae95-45e7-bcf8-53287adf4ea4"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "f623e528-e5aa-4706-af47-d5aec074d368",
+		"prefix": "C1.2",
+		"title": "celdifferentiatie, genoom, stamcellen, celtype, tussencelstof, apoptose, lysosoom, pluripotent, omnipotent, kanker.",
+		"examenprogramma_id": [
+			"a429bb50-fe34-4c63-966f-0729283f6914"
+		],
+		"tag_id": [
+			"9568051f-ff19-41f8-aa98-23be43b64993"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "771350fe-161d-4338-a478-d120a80169a2",
+		"prefix": "C3.1",
+		"title": "dynaiek en evenwicht, successie, pioniersoort, climaxecosysteem, gradiëntecosysteem, indicatorsoort, biodiversiteit, genenpool, concurrentie, draagkracht, tolerantiegrenzen, exoot, omslagpunt, groeicurves",
+		"examenprogramma_id": [
+			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
+		],
+		"tag_id": [
+			"b2b405d6-1ce7-4c57-b474-22aab5a8059d"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "6c92a443-68a1-4422-b49b-ea47d3831efd",
+		"prefix": "D1.1",
+		"title": "genregulatie en interactie met (a)biothische factoren, genoom, structuurgenen, regulatorgenen, recombinant DNA, proto-oncogenen, enzymen, virus, iRNA/RNAi, promotor, operator, repressor, suppressor, epigenetisch, cisgeen, transgeen.",
+		"examenprogramma_id": [
+			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
+		],
+		"tag_id": [
+			"86cbf564-f77e-456b-951e-45598b47132a"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "bec978f5-56c8-4046-9764-a6d4a06fc5c1",
+		"prefix": "D2.1",
+		"title": "celcommunicatie en interactie met (a)biotische factoren, signaalstoffen, second messenger, synaps, cell junctions, receptor, respons, signaalcascade, Na/K-pomp.",
+		"examenprogramma_id": [
+			"002574b6-a3d3-4f1c-927d-8d8390a52068"
+		],
+		"tag_id": [
+			"da095af2-401c-49af-af93-e6f2c600560e"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "272f7b4e-8293-4fb0-9aeb-b7a4a6927842",
+		"prefix": "D5.1",
+		"title": "voedselrelatie, trofische niveaus, predatie, vraat, signaalstoffen, symbiose, parasitisme, mutualisme, commensalisme.",
+		"examenprogramma_id": [
+			"b737b775-4f95-4517-9966-c8971a34c8e4"
+		],
+		"tag_id": [
+			"94f7f8a1-4799-46cc-88e5-d8a4107f7c17"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "cdf02a75-82bc-450b-a565-b722a690ad59",
+		"prefix": "D5.2",
+		"title": "Interactie met (a)biothische factoren, microklimaat, niche, indicatorsoort, beperkende factor, tolerantie, optimum, persistent, biologisch afbreekbaar, habitat.",
+		"examenprogramma_id": [
+			"b737b775-4f95-4517-9966-c8971a34c8e4"
+		],
+		"tag_id": [
+			"56482332-c695-463e-81f9-912088f3a614"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "3bcf46ab-3c65-4597-9176-d8a39314fc79",
+		"prefix": "E3.1",
+		"title": "voortplanting, levenscyclus, geslachtelijke en ongeslachtelijke voortplanting, voortplantingsorganen van eukaryoten, gameten, spore, mitose, meiose, haploïd, diploïd, polyploïd, bevruchting, eicel, spermacel, follikel, gele lichaam, zygote, klievingsdeling, poollichaampje, embryo, placenta, geslachtshormonen, FSH, LH, oestrogeen, progesteron, testosteron, HCG, menstruatiecyclus, anticonceptie, kunstmatige inseminatie, in vitro fertilisatie, embryonale ontwikkeling, klonen.",
+		"examenprogramma_id": [
+			"7548ae2f-2150-4b52-96c6-893a81b2f709"
+		],
+		"tag_id": [
+			"52ed899e-a055-43bf-a40d-fe213751eb5f"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "cdfde1b3-1762-4cf5-9a5e-664f5a53dd33",
+		"prefix": "E3.2",
+		"title": "erfelijke eigenschap, genoom, autosomen, X- en Y-chromosomen genotype, fenotype, allel, gen, mono- en dihybride kruising, (onvolledig) dominant, recessief, intermediair, multipele allelen, lethale factor, gekoppelde genen, stamboom, mitochondriaal DNA, epigenetica, methylering.",
+		"examenprogramma_id": [
+			"7548ae2f-2150-4b52-96c6-893a81b2f709"
+		],
+		"tag_id": [
+			"6d24efba-93a4-4f73-ba86-8d79a95a29e1"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "82fbede5-934b-407f-ad33-3d31a74a0908",
+		"prefix": "F1.1",
+		"title": "DNA, genetische code, genotype, fenotype",
+		"examenprogramma_id": [
+			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
+		],
+		"tag_id": [
+			"dec0082e-2548-4944-ac3a-294e7b6961f1"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "90b969fa-36d9-4db3-ab41-c1023c78019a",
+		"prefix": "F1.2",
+		"title": "mutatie, chromosoom, mutagene stof, mutagene straling puntmutatie, deletie, insertie, genoommutatie, gen, allel, genetische modificatie, DNA-repairsysteem, leesraamverschuiving/frame shift mutatie.",
+		"examenprogramma_id": [
+			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
+		],
+		"tag_id": [
+			"38fa5ae8-57c9-443a-aa36-fa762ee062bb"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "4dbcc50c-2dbf-40b1-8155-a1e0d0baff53",
+		"prefix": "F1.3",
+		"title": "recombinatie, meiose, homologe chromosomen, autosomen, geslachtschromosomen, karyotype, haplotype, genoom, gekoppelde genen, crossing-over",
+		"examenprogramma_id": [
+			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
+		],
+		"tag_id": [
+			"ced756e1-8da8-4ac2-84a6-6a32f2fdf292"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "9a6ccbdf-53fc-4517-a2e2-f18bda5e730b",
+		"prefix": "F1.4",
+		"title": "genetische variatie, mutatie, recombinatie, fenotype, genotype, genenpoel/gene pool, genetische modificatie.",
+		"examenprogramma_id": [
+			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
+		],
+		"tag_id": [
+			"e25ac517-e4a2-4a21-8a3b-c77dba5e8f08"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "06d007e9-a381-45aa-b802-52fd2587cc80",
+		"prefix": "F2.1",
+		"title": "populatie, genotype, fenotype, emergente eigenschap",
+		"examenprogramma_id": [
+			"b525aa75-bdef-467d-990b-8efd1068da36"
+		],
+		"tag_id": [
+			"c78d6716-b0fb-48be-acac-53d4f38a1bd1"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "6963ccf2-2551-42e3-80af-887c403482f6",
+		"prefix": "F2.2",
+		"title": "variatie, adaptatie, fitness, natuurlijke selectie, genetic drift, gene flow, allelfrequentie, HardyWeinberg.",
+		"examenprogramma_id": [
+			"b525aa75-bdef-467d-990b-8efd1068da36"
+		],
+		"tag_id": [
+			"de29e5f0-92ba-4c7e-8d9d-139010771d95"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
+		"prefix": "F2.3",
+		"title": "selectie, adaptatie, fitness, selectiedruk, soort, natuurlijke selectie, seksuele selectie, eilandtheorie, stichter effect/founder effect, flessenhalseffect/bottleneck effect, inteelt",
+		"examenprogramma_id": [
+			"b525aa75-bdef-467d-990b-8efd1068da36"
+		],
+		"tag_id": [
+			"3e40b7d6-f4d7-4516-aaf5-f1d9a7c8810d"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "db34fc3d-7d7d-4025-812a-5594724a7880",
+		"prefix": "F2.4",
+		"title": "soortvorming, soort, geslacht, cladogram, clade, taxon, homologie, analogie, genetic drift, coevolutie, sympatrische en allopatrische soortvorming",
+		"examenprogramma_id": [
+			"b525aa75-bdef-467d-990b-8efd1068da36"
+		],
+		"tag_id": [
+			"be0d52d2-f8b3-4ad2-b0d0-6637d0cb1778"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e03dc13b-f25c-4fb7-9cb8-6fd3f58111b3",
+		"title": "s-Hertogenbosch, Afsluitdijk, Alkmaar, Almelo, Almere, Alphen a.d. Rijn, Ameland, Amersfoort, Amstelveen, Amsterdam, Amsterdam-Rijnkanaal, Apeldoorn, Arnhem, Assen, Bergen op Zoom, Biesbos, Breda, Delft, Delfzijl, Den Haag, Den Helder, Deventer, Doetinchem, Dordrecht, Drachten, Drenthe, Eindhoven, Emmeloord, Emmen, Enkhuizen, Enschede, Flevoland, Fryslân (Friesland), Gelderland, Gouda, Groningen (prov.), Groningen (stad), Haarlem, Haarlemmermeer, Heerenveen, Heerlen, Helmond, Hengelo, Hilversum, Hoogeveen, Ijssel, Ijsselmeer, Kampen, Leeuwarden, Leiden, Lek, Lelystad, Limburg, Maas, Maastricht, Markermeer, Meppel, Middelburg, Neder-Rijn, Nieuwe Waterweg, Nijmegen, Noord-Brabant, Noord-Holland, Noordzeekanaal, Oosterschelde, Oss, Overijssel, Purmerend, Randstad, Rijnmond, Roermond, Roosendaal, Rotterdam, Schiermonnikoog, Schiphol, Sneek, Terneuzen, Terschelling, Texel, Tilburg, Twente, Utrecht (prov.), Utrecht (stad), Vaalserberg, Veendam, Veluwe, Venlo, Vlieland, Vlissingen, Waal, Waddenzee, Wageningen, Westerschelde, Zaandam, Zeeland, Zeeuws-Vlaanderen, Zoetermeer, Zuid-Holland, Zutphen, Zwolle",
+		"examenprogramma_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		],
+		"tag_id": [
+			"940191ea-3d5c-4db5-9d6a-7ff6305267de"
+		]
+	},
+	{
+		"id": "91dce357-3509-4b29-9315-e74be379b641",
+		"title": "Albanië, Alpen, Antwerpen, Ardennen, Athene, Barcelona, België, Belgrado, Berlijn, Bern, Boekarest, Bordeaux, Bosnië-Hercegovina, Bratislava, Brussel, Budapest, Bulgarije, Cyprus, Denemarken, Donau, Dublin, Duitsland, Engeland, Estland, Finland, Frankrijk, Genève, Glasgow, Griekenland, Hamburg, Helsinki, Het Kanaal, Hongarije, Ierland, Ijsland, Istanbul, Italië, Kaspische Zee, Kaukasus, Keulen, Kopenhagen, Kroatië, Letland, Lissabon, Litouwen, Liverpool, Londen, Luxemburg (land), Luxemburg (stad), Lyon, Madrid, Malta, Marseille, Middellandse Zee, Milaan, Moskou, München, Nederland, Noordzee, Noorwegen, Oekraïne, Oostenrijk, Oostzee, Oslo, Parijs, Po, Polen, Portugal, Praag, Pyreneeën, Rhône, Rijn, Roemenië, Rome, Ruhrgebied, Rusland, Scandinavië, Schelde, Schotland, Seine, Servië, Sicilië, Sint Petersburg, Slovenië, Slowakije, Spanje, Stockholm, Straat van Gibraltar, Theems, Tsjechië, Ural (Oeral), Verenigd Koninkrijk, Vlaanderen, Volga (Wolga), Wallonië, Warschau, Wenen, Zwarte Zee, Zweden, Zwitserland",
+		"examenprogramma_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		],
+		"tag_id": [
+			"079fae08-6e04-46bf-9ebc-59b47daeef31"
+		]
+	},
+	{
+		"id": "3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+		"title": "Afghanistan, Afrika, Alaska, Amazone, Amerika, Andes, Ankara, Antarctica, Argentinië, Atlantische Oceaan, Australië, Azië, Bagdad, Bangkok, Bangladesh, Beijing (Peking), Brasilia, Brazilië, Buenos Aires, Cairo, Californië, Canada, Caribische Zee, Casablanca, Chang Jiang (Jangtsekiang), Chicago, Chili, China, Colombia, Curaçao, Delhi, Egypte, Ethiopië, Europa, Filipijnen, Ganges, Groenland, Grote (of Stille) Oceaan, Hawaii, Himalaya, India, Indische Oceaan, Indonesië, Irak, Iran, Israël, Jakarta, Japan, Java, Jeruzalem, Kaapstad, Kolkata (Calcutta), Kongo (Dem. Rep.), Lagos,Los Angeles, Marokko, Mekka, Mexico, Mexico-Stad, Midden-Oosten, Mississippi, Molukken, Montréal, Mumbai (Bombay), Nederlandse Antillen, New York, Nieuw-Zeeland, Nigeria, Nijl, Noordelijke Ijszee, Pakistan, Panamakanaal, Paramaribo, Perzische Golf, Rio de Janeiro, Rocky Mountains, Rode Zee, Sahara, Santiago, Saudi-Arabië, Seoul, Shanghai, Siberië, Singapore, Sudan (Noord- en Zuid- Sudan), Suezkanaal, Suriname, Sydney, Taiwan, Teheran, Thailand, Tokyo, Turkije, Venezuela, Verenigde Staten, Vietnam, Washington, Xianggang (Hongkong), Zuid-Afrika (rep.), Zuid-Korea",
+		"examenprogramma_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		],
+		"tag_id": [
+			"d753d80e-3ca7-4060-b476-eb9d380027bc"
+		]
+	},
+	{
+		"id": "513c0f1d-681a-4323-ac82-75352dd629eb",
+		"title": "Weer, Weerelementen, temperatuur, neerslag, luchtdruk, wind, bewolking, Temperatuur, thermometer, schaal van Celsius, UV-straling, Neerslag, luchtvochtigheid, droge en natte lucht, Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infilteren/afstromen, Ontstaan van neerslag, stuwingsneerslag, loefzijde, lijzijde/regenschaduw, frontale neerslag, stijgingsneerslag, neerslagverdeling, neerslagintensiteit, piekafvoer, Luchtdruk en wind, hoge druk, lage druk, barometer, isobaren, windkracht, windrichting, windsnelheid, landwind, zeewind, drukgordels, windsystemen, weer- en klimaatfactoren, breedteligging, zoninvalshoek en seizoenen, hoogteligging t.o.v. zeeniveau, afstand tot zee/oceaan en gesteldheid van het oppervlak (land/water), aanvoer van warmte en koe van elders door wind en water, Klimaat, Klimaatgrafiek, Waterbalans, Verdroging, Verwoestijning, Irrigatie, Drainage, Vegetatiezones, tropisch regenwoud, steppe, woestijn, altijdgroene mediterrane plantengroei, gemengd bos (loof- en naaldbomen), naaldbos (taiga), hooggebergtevegetatie",
+		"examenprogramma_id": [
+			"c341f2c1-59fc-41b8-ac56-f147b882711c"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "b7b3c426-667a-42c3-9ce5-69e55ba25c68",
+		"title": "Weer, Weerelementen, temperatuur, neerslag, luchtdruk, wind, bewolking, Temperatuur, thermometer, schaal van Celsius, zonnekracht, UV-straling, Neerslag, luchtvochtigheid, droge en natte lucht, Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infilteren/afstromen, Ontstaan van neerslag, stuwingsneerslag, loefzijde, lijzijde/regenschaduw, frontale neerslag, stijgingsneerslag, neerslagverdeling, neerslagintensiteit, piekafvoer, nuttige neerslag,  Luchtdruk en wind, hoge druk/maximum, lage druk/minimum/depressie, barometer, isobaren, windkracht, windrichting, windsnelheid, landwind/aflandige wind, zeewind/aanlandige wind, drukgordels, windsystemen, wet van Buys Ballot, Bewolking, bewolkingsgraad,  , weer- en klimaatfactoren, breedteligging, zoninvalshoek en seizoenen, hoogteligging t.o.v. zeeniveau, afstand tot zee/oceaan en gesteldheid van het oppervlak (land/water), aanvoer van warmte en koe van elders door wind en water, Klimaat, Klimaten, tropische regenklimaten, tropisch regenwoudklimaat, savanneklimaat, droge klimaten, steppeklimaat, woestijnklimaat, (gematigde) zeeklimaten, warm met droge zomer: mediterraan klimaat (Middellandse Zeeklimaat), met neerslag in alle jaargetijden, (gematigde) landklimaten, met neerslag in alle jaargetijden, met droge winter, sneeuw- en ijsklimaten, toendraklimaat, met eeuwige sneeuw/ijst: pool- en hooggebergteklimaat,  Klimaatgrafiek, Waterbalans, Verdroging, Verwoestijning, Irrigatie, Drainage, Vegetatiezones, tropisch regenwoud, savanne, steppe, woestijn, altijdgroene mediterrane plantengroei, gemengd bos (loof- en naaldbomen), naaldbos (taiga), hooggebergtevegetatie, Zeespiegelstijging, Natuurlijk broeikaseffect, Versterkt broeikaseffect, broeikasgassen, kooldioxide/CO2, methaan, waterdamp, Landbouw en visserij, Voedselgewassen, Handelsgewassen, Intensieve en extensieve landbouw, Voedselpiramide, duurzaamheid, ecologische voetafdruk, duurzaam consumeren, duurzaam produceren, hergebruik/recyclen, klimaatverdrag",
+		"examenprogramma_id": [
+			"c341f2c1-59fc-41b8-ac56-f147b882711c"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "d810a37d-5a92-40ff-8f20-407fdb213a17",
+		"title": "Spanje, Almeria, La Coruna, Zaragoza, Ebro, Duero (Douro), Tajo (Taag), Guadalquivir, Sierra Nevada, Cantabrisch gebergte, Kastiliaans Scheidingsgebergte, Spaanse Hoogvlakte",
+		"examenprogramma_id": [
+			"d67dcbfe-b0e5-46fc-9354-c40acb882c0c"
+		]
+	},
+	{
+		"id": "0e16818d-4331-4c87-a978-f31898f151a3",
+		"title": "V.S., New orleans, Golf van Mexico, Colorado, Rio Grande, Great Salt Lake, Appalachen, Kustgebergte, Great Basin (Grote Bekken), Great Plains (Prairiën)",
+		"examenprogramma_id": [
+			"74812d84-8450-49d0-a53c-94ea869a7c5c",
+			"5928455d-55b0-4ff3-bb78-56828cdba75f"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "ea60674d-16e8-4e71-960c-917422c88df3",
+		"title": "Nederland. Lobith, Haringvliet, Rijnmond, Oosterscheldekering, Haringvlietdam, Broouwersdam, Oostelijk Flevoland, Zuidelijk Flevoland",
+		"examenprogramma_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
+		"title": "Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infiltreren/afstromen, regenwater, smeltwater, grondwater, oppervlaktewater, brak water, drinkwater, Korte waterkringloop, Lange waterkringloop, Grondwater, waterput, bron, oase, stroomgebied, bovenloop, middenloop, benedenloop, waterscheiding, riviermonding, delta, Piekafvoer, Reliëf, hoogteligging, N.A.P., Grondsoorten, doorlaatbaarheid, filterende werking, Sedimentatie, Bodemerosie, Verdroging, Verzilting/ontzilting, vervuiling, rivierenlandschap, uiterwaard, zomerdijk, winterdijk, Waterbeheer, polder, boezem, spaarbekken, stuw/stuwdam, sluis, bemalen, draineren, kribben, nevengeul, dijkverhoging, dijkverlegging, uiterwaardafgraving, Rijkswaterstaat, Waterschap, Waterkwaliteit, Waterkantiteit, Drinkwaterwinning, waterwingebied, zoetwaterzak, irrigatie, Waterproblematiek, versterkt broeikaseffect, ontbossing, grijs water, Kust en kustverdediging, getijden, zeewering, rivierdelta, Deltawerken",
+		"examenprogramma_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8",
+			"7ff69461-6922-418f-9ae2-948a8a86936c"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e774d834-c713-409e-9546-1f09baf744bd",
+		"title": "Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infiltreren/afstromen, regenwater, smeltwater, grondwater, oppervlaktewater, brak water, drinkwater, Korte waterkringloop, Lange waterkringloop, Grondwater, aquifer, fossiel water, waterput, bron, oase, stroomgebied, bovenloop, middenloop, benedenloop, waterscheiding, riviermonding, delta, Stroomstelsel, debiet, regiem, Soorten rivieren, regenrivier, gletsjerrivier, gemengde rivier, wadi, Piekafvoer, Reliëf, hoogteligging, N.A.P., Grondsoorten, doorlaatbaarheid, filterende werking, Sedimentatie, Bodemerosie, Modderstromen, Verdroging, Verzilting/ontzilting, vervuiling, rivierenlandschap, oeverwal, komgrond, uiterwaard, zomerdijk, winterdijk, Waterbeheer, polder, boezem, overloop, spaarbekken, stuw/stuwdam, sluis, bemalen, draineren, kribben, nevengeul, dijkverhoging, dijkverlegging, uiterwaardafgraving, Rijkswaterstaat, Waterschap, Waterkwaliteit, Waterkantiteit, Drinkwaterwinning, waterwingebied, zoetwaterzak, irrigatie,  Industrieel watergebruik, koelwater, proceswater, Waterproblematiek, versterkt broeikaseffect, ontbossing, grijs water, Kust en kustverdediging, getijden, zeewering, rivierdelta, Deltawerken",
+		"examenprogramma_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8",
+			"db604333-19dd-4ed0-a91c-7b8490fdf921"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "8b11efc9-3c19-4212-b0b7-2e10577f31ed",
+		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit",
+		"examenprogramma_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "df4472b4-1885-4e4a-b348-d51d4a2af6f2",
+		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit, China, Huang He (Huangho), Drie-Klovendam, Grote Kanaal, Xi-Jiang, Himalaya, Hoogland van Tibet, Rode Bekken, Lössplateau",
+		"examenprogramma_id": [
+			"db604333-19dd-4ed0-a91c-7b8490fdf921"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "4a1f7479-30a9-4898-a416-d33c8d01260c",
+		"title": "Bevolkingsontwikkeling, natuurlijke bevolkingsgroei, sociale bevolkingsgroei, vergrijzing, ontgroening, transitiemodel, één-kind politiek, Natuurlijke bevolkingsgroei, geboortecijfer/geboorteoverschot, sterftecijfer/sterfteoverschot, Sociale bevolkingsgroei, migratie, immigratie, emigratie, remigratie, gezinshereniging, Migratiemotieven, aantrekkingsfactoren, afstotingsfactoren, Sociale verhoudingen, segregatie, sociale ongelijkheid, integratie, Bevolkingsopbouw, bevolkingspiramide/leeftijdsdiagram, Ruimte, ruimtegebruik, voorzieningen, bevolkingsdichtheid, bevolkingspreiding, bebouwingsdichtheid, Verstedelijking, urbanisatie, suburbanisatie, Stedelijke geleding, stratenpatronen, historische stadskern, Verkeer, infrastructuur, congestie, mobiliteit, forensisme, bereikbaarheid, Ruimtelijke kwaliteit, veiligheid, onderhoud, sociale controle/contacten, participatie, leefbaarheid, Voorzieningen, verzorgingsgebied, Ruimtelijke Ordening, bestemmingsplan",
+		"examenprogramma_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639",
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		]
+	},
+	{
+		"id": "b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
+		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg",
+		"examenprogramma_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "c488cee3-73fc-451b-9263-13078b930862",
+		"title": "Bevolkingsontwikkeling, natuurlijke bevolkingsgroei, sociale bevolkingsgroei, vergrijzing, ontgroening, levensverwachting, transitiemodel, één-kind politiek, Natuurlijke bevolkingsgroei, geboortecijfer/geboorteoverschot, sterftecijfer/sterfteoverschot, Sociale bevolkingsgroei, migratie, immigratie, emigratie, remigratie, gezinshereniging, Migratiemotieven, aantrekkingsfactoren, afstotingsfactoren, seizoensmigratie, gastarbeid, braindrain, hukou, Sociale verhoudingen, segregatie, sociale ongelijkheid, integratie, Bevolkingsopbouw, bevolkingspiramide/leeftijdsdiagram, Ruimte, ruimtegebruik, voorzieningen, bevolkingsdichtheid, bevolkingspreiding, bebouwingsdichtheid, Verstedelijking, urbanisatie, suburbanisatie, agglomeratievorming, hutongs, Stedelijke geleding, stratenpatronen, historische stadskern, concentrisch groeimodel, meerkernen groeimodel, sector groeimodel, agglomeratie, stedelijke zone, Verkeer, infrastructuur, congestie, mobiliteit, forensisme, bereikbaarheid, Ruimtelijke kwaliteit, veiligheid, onderhoud, sociale controle/contacten, participatie, leefbaarheid, Voorzieningen, verzorgingsgebied, drempelwaarde, reikwijdte, Ruimtelijke Ordening, bestemmingsplan, inspraak",
+		"examenprogramma_id": [
+			"4305c9f0-d5f4-47e1-855b-d99cb478adcf",
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		]
+	},
+	{
+		"id": "bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
+		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg, Duitsland, Düsseldorf, Duisburg, Essen, Dortmund, Leipzig, Dresden, Frankfurt, Stuttgart",
+		"examenprogramma_id": [
+			"4305c9f0-d5f4-47e1-855b-d99cb478adcf"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
+		"title": "China, Tianjin, Shenyang, Chongqing, Guangzhou (Kanton), Harbin, Wuhan, Xi’an",
+		"examenprogramma_id": [
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
+		"title": "Tropische orkaan/hurricane, Wervelwind/tornado, Tropische lage drukgordel, Passaatwind, Hazard management, Risicoperceptie",
+		"examenprogramma_id": [
+			"34618247-e404-4f12-9965-4a49b8c3e9e4"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "736e2078-8650-4393-90ad-adb54ca97de7",
+		"title": "Golf van Mexico, Appalachen, Atlantische Kustvlakte, Centraal Laagland, New Orleans, Cuba, Florida",
+		"examenprogramma_id": [
+			"34618247-e404-4f12-9965-4a49b8c3e9e4"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "75ba42b0-2c54-4815-ab56-7b823fde6acc",
+		"title": "Waterbouwkundige projecten, Zuidoost-Anatoliëproject, Aswandamproject, Waterconflict, Irrigatie, Beregening, Oppervlakte-irrigatie, Druppelirrigatie, Kanaal, Stuwdam, Stuwmeer",
+		"examenprogramma_id": [
+			"3c0d13c6-9474-4568-84d5-edf052993c72"
+		]
+	},
+	{
+		"id": "b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
+		"title": "Eufraat, Tigris, Syrië, Uganda, Aswandam, Atatürk-stuwmeer",
+		"examenprogramma_id": [
+			"3c0d13c6-9474-4568-84d5-edf052993c72"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		]
+	},
+	{
+		"id": "52ae6fb2-8e8d-44fd-a816-6140d8ca64b3",
+		"title": "Metropolitane gebieden, Megasteden, Arbeidsmigratie, Concessiegebieden, Gated communities (beveiligde wijken), Eénpartijstelsel",
+		"examenprogramma_id": [
+			"0198c336-b31b-48cb-9df7-18f9b412473c"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "afac2285-80a1-4dc6-a6a9-8e5ca0b54d46",
+		"title": "Guangzhou (Kanton), Shenzen, Foshan, Aomen (Macau), Chongqing, Xi-Jiang, Chang-Jiang, Suzhou, Hangzhou",
+		"examenprogramma_id": [
+			"0198c336-b31b-48cb-9df7-18f9b412473c"
+		],
+		"tag_id": [
+			"a63f4400-90d3-4015-9aee-f10af5ff1b75"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "56a96dcf-9641-488a-a316-e918436ea88b",
+		"title": "Beschrijvende vragen, verklarende vragen, voorspellende vragen, waarderende vragen, vragen gericht op het maken van keuzes en het oplossen van problemen",
+		"ce_se": "CE"
+	},
+	{
+		"id": "980471b7-ff71-45d6-b610-25aff4762cc8",
+		"title": "Globalisering, Global village,  Mondiale en transnationale netwerken,  Economische globalisering, kapitaalstromen, internationale arbeidsverdeling, multinationale onderneming, productieketen, WTO, zuid-zuid-investeringen, opkomende grootmachten (BRICS-landen), multipolaire wereld, amarikanisering, cultuurgebied, lingua franca, identiteit, (veranderende rol van de) staat, geopolitiek, blokvorming, regionalisme, burgerschap, anders-globalisten.",
+		"ce_se": "CE"
+	},
+	{
+		"id": "d0530f5e-b13e-472a-8422-e2ffe6829026",
+		"title": "Wereldsysteem,  Diffusie, Fragmentarische modernisering,  Regionale ongelijkheid, Sociale ongelijkheid,  Spread-effecten, Backwash-effecten, centrum, semi-periferie, periferie",
+		"ce_se": "CE"
+	},
+	{
+		"id": "663f6c2c-5aaa-4e10-8cdf-f9fcbfa55399",
+		"title": "Tijdruimtecompressie, Afstandsverval, Transporttechnologie, Transportnetwerk, Informatietechnologie, absolute en relatieve afstand, absolute en relatieve ligging",
+		"ce_se": "CE"
+	},
+	{
+		"id": "e688154c-7d57-42f9-b027-2abc2ff8d133",
+		"title": "Cultuurgebieden, bevolkingsspreiding en dichtheid, bevolkingsgroei (fase in de demografische transitie), demografisch druk, leeftijdsopbouw, kindersterfte, vruchtbaarheid, BBP/BRP, inkomen (per capita), koopkracht, beroepsbevolking, democratisch gehalte, mensenrechten, samenwerkingsverband, analfabetisme, verstedelijkingsgraag en -tempo",
+		"ce_se": "CE"
+	},
+	{
+		"id": "482fe927-b4a5-4119-b382-f13c5742effe",
+		"title": "Hegemoniale staat, Europeanisering, Kolonialisme, Imperialisme,  Dekolonisatie, Triade, Nieuwe industrielanden, Uitschuiving, Nieuwe internationale arbeidsverdeling, Global shift, Pacific Rim",
+		"ce_se": "CE"
+	},
+	{
+		"id": "5987615a-7632-4445-a45e-6700de2eddb4",
+		"title": "VN-ontwikkelingsindex, regionale ongelijkheid, spociale ongelijkheid",
+		"ce_se": "CE"
+	},
+	{
+		"id": "682e8f63-6832-4875-b485-d1b8a29ce0a5",
+		"title": "Megalopolis, Wereldstad/Metropool, Hub en spoke-netwerk, Mainportregio, Achterland, Stedelijke geleding, Gentrification, Stedelijk netwerk, (Economisch) cluster, Internationale dienstverlening, Mondiale financiële markten, Creatieve stad, Innovatie, Kosmopolitisme, edge city, CBD",
+		"ce_se": "CE"
+	},
+	{
+		"id": "8b867b50-42e8-4e72-9b5b-32b202f21a98",
+		"title": "Platentektoniek, asthenosfeer, convectiestromen, lithosfeer, (mid)oceanische rug, subductie, diepzeetrog, convergente plaatgrenzen, divergente plaatgrenzen, transforme plaatgrenzen, hotspot, vulkanisme, explosieve eruptie, stratovulkaan, caldera, effusieve eruptie, schildvulkaan, pyroklastica, aardbevingen, magnitude (schaal van Richter), intensiteit (schaal van Mercalli), tsunami, Gebergtevorming, breukgebergten, horsten en slenken, plooiingsgebergten, geologische tijdschaal.",
+		"ce_se": "CE"
+	},
+	{
+		"id": "61893603-f513-4c0b-9c7e-02e903f5df50",
+		"title": "stroomgebied, rivierstelsel, verwering, mechanisch (fysisch), chemisch, erosie, transport, sedimentatie, delta, morene, puinhelling, puinwaaier, massabewegingen",
+		"ce_se": "CE"
+	},
+	{
+		"id": "9d61cc98-2e27-4ed3-8477-2d7c860941cf",
+		"title": "Gesteentekringloop, stollingsgesteenten, basalt, graniet, sedimentgesteenten, kalksteen, zandsteen, metamorfe gesteenten, leisteen, marmer, hydrologische kringloop.",
+		"ce_se": "CE"
+	},
+	{
+		"id": "0f902c22-6491-4437-817b-06b43cd7ed35",
+		"title": "Atmosferische circulatie, hoge luchtdrukgebied, lage luchtdrukgebied, ITCZ, corioliseffect, wet van Buys Ballot, passaat en moesson, Oceanische circulatie, thermohaliene circulatie, diepwaterpomp, warme en koude zeestroom, stralingsbalans, klimaatgebied",
+		"ce_se": "CE"
+	},
+	{
+		"id": "da7cdff7-ec7d-4979-b1e3-d1654ececbed",
+		"title": "Landdegradatie, vormen van landdegradatie, (versnelde) bodemerosie, verzilting, verwoestijning, oorzaken van landdegradatie, overbeweiding, ontbossing, klimaatverandering",
+		"ce_se": "CE"
+	},
+	{
+		"id": "38671721-1223-40de-a277-2b8f8d110cb1",
+		"title": "ruimtelijke segregatie, sociale polarisatie, getto, ommuurde woonwijk (gated community), migranten netwerken",
+		"ce_se": "CE"
+	},
+	{
+		"id": "8c0c45ce-e1f8-48f6-a8eb-1ec744aeef2a",
+		"title": "Alpien plooiingsgebied, Subtropische landschapszone, Mediterrane vegetatie, Mediterrane landbouwtypen, (grond)Waterproblematiek, Waterbalans, Duurzaam water- en landgebruik, Natuurramp, Milieuramp, Hazard Management",
+		"ce_se": "CE"
+	},
+	{
+		"id": "dff92700-c8e5-4493-aef1-2b55f4aec783",
+		"title": "Geofactoren, gesteente en reliëf, klimaat en lucht, bodem, water, flora en fauna, de mens, Landschapszones, polaire zone, boreale zone, gematigde zone, subtropische zone, (semi)aride zone, tropische zone",
+		"ce_se": "CE"
+	},
+	{
+		"id": "4673b1c1-d64c-4060-963e-b977cc4fddec",
+		"title": "Perceptie, stereotypen, mental map, geografisch beeld",
+		"tag_id": [
+			"2b9b7bb1-f368-485a-a2f3-17451b8f74fd"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "4c9d870c-7f44-41eb-8661-07bfcbeedaf0",
+		"title": "Schild, hoogtezones, hoogvlakte/hoogland, ertsen/ertsvorming, fossiele energiebronnen, andesiet, tropisch regenwoud (selva), Savanne (Illanos, cerrado en caatinga), Steppe (pampa), Tropisch laagland, Mangrove, Bevolkingsdruk, Gezinsplanning, Natuurlijke bevolkingsgroei, Sociale bevolkingsgroei /migratie, Etniciteit, Mestizering, Latino, Bevolkingsparticipatie, Democratisering, Sociale polarisatie, Gini-coëfficiënt/Lorenzcurve, Elite, BBP per hoofd /BRP per hoofd, Import- en exportpakket, Handelsbalans, Megasteden, Sloppenwijken (favelas), Informal city, Informele sector, Cliëntelisme, Latifundia, Grondbezitverhouding, El Niño",
+		"tag_id": [
+			"2b9b7bb1-f368-485a-a2f3-17451b8f74fd"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "d2f957d6-3305-41bb-b434-088906bf753d",
+		"title": "Demografische transitie, Demografische druk, Etnische / religieuze conflicten, Informele en formele machtsstructuur",
+		"examenprogramma_id": [
+			"6001b9b6-7718-497b-aefe-9cee846ad13b"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "9193d525-e605-4b63-842e-9b1d76b98a95",
+		"title": "Dictatuur, Oligarchie, Populisme, Neoliberalisme, Good governance, De-agrarisatie, Industrialisatie, Tertiairisering, Landroof (landgrabbing), Duale economie, Exportvalorisatie, Importsubstitutie, Cashcrops/foodcrops, Waterkrachtcentrale, UNASUR, Buitenlandse investeringen (Foreign Direct Investments), BRIC(S), Etnische en culturele diversiteit, Bevolkingsparticipatie, Democratisering",
+		"examenprogramma_id": [
+			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
+		],
+		"tag_id": [
+			"2b9b7bb1-f368-485a-a2f3-17451b8f74fd"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "ebc73da6-195f-4198-a8f7-65ba157f1480",
+		"title": "Zachte kunsten, duinen, wadden, estuaria, harde kusten, zeedijken, waterkeringen, kustprocessen (opbouw en afbraak), zeestroming, getuidenstroming, eb en vloed, springtij en doodtij, wind, zeespiegelstijging, absolute zeespiegelstijging, bodemdaling, relatieve zeespiegelstijging, stroomgebied, stroomstelsel, waterscheiding, waterafvoer, debiet, regiem, vertragingstijd, (verhoogde) piekafvoer, verhang, verval, dwarsprofiel rivieren (benedenloop), uiterwaarden, zomerbed, winterbad, lengteprofiel rivieren, bovenloop, middenloop, benedenloop, klimaatverandering, temperatuurstijging, onregelmatiger neerslagregiem, menselijke ingrepen, verstening van het oppervlak, ontbossing, kanalisatie, stuw, krib, dijk (verzwaring)",
+		"examenprogramma_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e2e0b040-7168-4a6e-80e4-ab0e282fdde2",
+		"title": "Rijkswaterstaat, Waterschappen, Tweede Deltacommissie, Deltaprogramma, Deltafonds, Deltawet, Nationaal Waterplan, Integraal waterbeleid, Primaire waterkering, Noodoverloopgebied, Dynamisch handhaven, zandsuppletie, zandmotor, bolwerkvorming, slufter, Ruimte voor de rivier, Rivierbedverruiming, verdieping, verbreding/dijkverlegging, obstakels verwijderen, kribverlaging, nevengeulen aanleggen, uiterwaardvergraving, Drietrapsstrategie, vasthouden (retentie), bergen, avoer bevorderen, Rijnconferentie, Overstromingsrisicobewustzijn",
+		"examenprogramma_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "f3648277-1a3b-4186-95c9-e3654538b385",
+		"title": "Verzilting, Verdroging, Watertoets, Groene daken, Waterpleinen, Retentiebekkens",
+		"examenprogramma_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
+		"title": "Noordvleugel, Zuidvleugel, Mainports, Groene Hart, Stedelijk netwerk, Grootstedelijke functies, Metropoolvorming, Ruimtelijk beleid, ruimtelijke ordening, sectoraal beleid, groeikernen, VINEX-locaties, structuurvisies over de Randstad (zoals Randstad 2040)",
+		"ce_se": "CE"
+	},
+	{
+		"id": "baa7d31a-f3ec-4614-88ff-56c2e23daabb",
+		"title": "Creatieve stad, Kenniseconomie, Science Parks, Zakelijke dienstverlening, Duale arbeidsmarkt, Publiek-private samenwerking, Duurzame stad (sustainable city), Smart city",
+		"ce_se": "CE"
+	},
+	{
+		"id": "13f79a25-d6ef-4600-81e4-3a20efe32303",
+		"title": "Buurtprofiel, Woningkenmerken, naar ouderdom, naar eigendom, naar woningtype, naar onderhouw, Bewonerskenmerken, naar grootte van huishoudens, naar etniciteit, naar inkomen, naar gezinsfase, naar leeftijd, Woonomgeving, Buurt- / wijkvoorzieningen, Sociale cohesie, Sociale (on)veiligheid, objectieve (on)veiligheid, subjectieve (on)veiligheid, Openbare ruimte, toegankelijkheid, onderhoud, overzichtelijkheid, toezicht, Stadsvernieuwing, Herstructurering",
+		"examenprogramma_id": [
+			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "42840e4f-e15e-4045-8c56-a1415c5a08ac",
+		"title": "Economische indicatoren, BBP/BRP, (gemiddeld) inkomen (per capita), koopkracht, (samenstelling van) beroepsbevolking, Demografische indicatoren, bevolkingsspreiding en dichtheid, bevolingsgroei (fase in de demografische transitie), leefstijdsopbouw, verstedelijking, Sociaal-culturele indicatoren, analfabetisme, taal, godsdienst",
+		"ce_se": "CE"
+	},
+	{
+		"id": "0bce759d-ab7b-489e-98ca-1bcf2d9381da",
+		"title": "Platentektoniek, (mid)oceanische rug, subductie, diepzeetrog, lithosfeer, convergente plaatgrenzen, divergente plaatgrenzen, transforme plaatgrenzen, convectiestromen, hotspot, Vulkanisma, stratovulkaan, explosieve eruptie, caldera, schildvulkaan, effusieve eruptie, Aardbevingen, school van Richter, tsunamie, Gebergtevorming, breukgebergten (horsten en slenken), plooiingsgebergten, Geologische tijdschaal.",
+		"ce_se": "CE"
+	},
+	{
+		"id": "3e140f5b-74d2-496e-a637-a62c4d55b7d8",
+		"title": "Stroomgebied, verwerking, mechanisch, chemisch, Erosie, Transport, Sedimentatie, delta, morene, puinhelling, puinwaaier, Aardverschuiving",
+		"ce_se": "CE"
+	},
+	{
+		"id": "4f158721-ac9a-4621-ab65-0e02236777b4",
+		"title": "Tijd-ruimte compressie, Transporttechnologie, Communicatietechnologie, Economische glabalisering, global shift, nieuwe internationale, arbeidverdeling, productieketen, regionale en sociale ongelijkheid, WTO, culturele globalisering, Amerikanisering, Lingua franca, identiteit, Mondiale netwerken, Wereldstad.",
+		"ce_se": "CE"
+	},
+	{
+		"id": "9a8786ac-732e-488d-b6f7-64b5d507b00f",
+		"title": "Hydrologische kringloop, Gesteentekringloop, Stollings-/dieptegesteenten, graniet, basalt, Metamorfe gesteenten, marmer, leisteen, Sedimentgesteenten, zand(steen), kalksteen",
+		"ce_se": "CE"
+	},
+	{
+		"id": "11f28d26-afca-4d04-a52e-ca819f7bd90f",
+		"title": "Atmosferische circulatie/Grote windsystemen, ITCZ/zone van equatoriale lage luchtdruk, wet van Buys Ballot, passaat en moesson, Oceanische circulatie, warme zeestromen, koude zeestromen, Klimaatgebieden (volgens Köppen), Klimaatverandering (het gaat alleen om gevolgen voor het systeem).",
+		"ce_se": "CE"
+	},
+	{
+		"id": "9a455897-540f-4b7a-a949-b9663382f1bd",
+		"title": "Geofactoren, gesteente en reliëf, klimaat en lucht, bodem, water, plantenwereld, dierenwereld, de mens, Landschapszones, polaire zone, boreale zone, gematigde zone, subtropische zone, aride zone, tropische zone",
+		"ce_se": "CE"
+	},
+	{
+		"id": "cd6bc8a1-6740-4aa3-aec1-093fd234c9c4",
+		"title": "Landdegradatie, (versnelde) bodemerosie, verzilting, verwoestijning, overbeweiding, ontbossing, Irrigatie, Drainage, Duurzaam landgebruik",
+		"ce_se": "CE"
+	},
+	{
+		"id": "7bcc33de-6971-43b1-8ed0-0842cbe3286d",
+		"title": "Perceptie, Stereotype, Mental map, Geografisch beeld",
+		"tag_id": [
+			"1f5fea93-468a-4c90-af07-02b82e9ba2ab"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "59e71a6e-88f4-4109-af5c-7db62e1d8ce3",
+		"title": "Verstedelijkingsgraad, Verstedelijkingstempo, Stedelijk netwerk, Sloppenwijken (favelas), Ommuurde woonwijken (gated communities), Bevolkingsdruk, Gezinsplanning, Natuurlijke bevolkingsgroei, Sociale bevolkingsgroei/migratie, Etniciteit, Mestizering, Bevolkingsparticipatie, Democratisering, Good governance, BBP per hoofd/BRP per hoofd, Import- en exportpakket, Handelsbalans, Lorenzcurve, Informele sector, Grootgrootbezit, UNASUR",
+		"tag_id": [
+			"1f5fea93-468a-4c90-af07-02b82e9ba2ab"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "bb287cbf-8664-4814-9e01-164b55956e6f",
+		"title": "Industrialisatie, De-industrialisatie, zakelijke (en financiële) dienstverlening",
+		"ce_se": "CE"
+	},
+	{
+		"id": "b5fd8d5e-6ca3-4aa1-9c10-4b5d9f31ceb0",
+		"title": "Hoogvlakte/hoogland, Ertsen/ertsvorming, Fossiele energiebronnen, Tropisch regenwoud (selva), Savanne (cerrado en caatinga), Mangrove, Biodiversiteit, Landroof (landgrabbing)",
+		"tag_id": [
+			"1f5fea93-468a-4c90-af07-02b82e9ba2ab"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "915af81d-e1f8-4f8c-9a7e-b898710664be",
+		"title": "UNASUR, Etnische en culturele diversiteit, Buitenlandse investeringen (Foreign Direct Investments)",
+		"tag_id": [
+			"1f5fea93-468a-4c90-af07-02b82e9ba2ab"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "66765ded-47fc-494e-8f19-a753b7a2a330",
+		"title": "Triade, vrijhandel, ruilvoet, multinationale onderneming (MNO) / multinational, arbeidsmigratie, push en pull factoren",
+		"ce_se": "CE"
+	},
+	{
+		"id": "bd191a46-5e92-4133-90ec-7beeeb5c1e85",
+		"title": "Externe economische relaties, BRIC(S), Exportgerichtheid/handelsoriëntatie",
+		"tag_id": [
+			"1f5fea93-468a-4c90-af07-02b82e9ba2ab"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "834064b0-d932-492a-9baf-95f82466f958",
+		"title": "Economisch, wereldsysteem, centrum, semi-periferie, periferie, internationale arbeidsverdeling, vestigingskolonie, exploitatie kolonie, dekolonisatie, demografisch, demografische transitie, demografische druk, verstedelijking, sociaal-cultureel, cultuurgebied, diffusie",
+		"ce_se": "CE"
+	},
+	{
+		"id": "819dc797-44c8-4b5d-b91d-cc85bbfbb9bc",
+		"title": "Stroomgebied, Stroomstelsel, Waterscheiding, Waterafvoer, debiet, regiem, vertragingstijd, piekafvoer, verhang, verval, Dwarsprofiel rivieren (benedenloop), uiterwaarden, zomerbed, winterbed, Lengteprofiel rivieren, bovenloop, middenloop, benedenloop, Klimaatverandering, zeespiegelstijging, temperatuurstijging, onregelmatiger neerslagregiem, Menselijke ingrepen, verstening van het oppervlak, ontbossing, kanalisatie, stuw, krib, dijkverzwaring, waterkeringen",
+		"ce_se": "CE"
+	},
+	{
+		"id": "f99424ea-0a53-4d51-91e8-cb808e01178f",
+		"title": "Rijkswaterstaat, Waterschappen, Tweede Deltacommissie, Integraal waterbeleid, Watertoets, Ruimte voor de rivier, Noodoverloopgebied, Rivierbedverruiming, verdieping, verbreding/dijkverlegging, obstakels verwijderen, kribverlaging, nevengeulen aanleggen, uiterwaardvergraving, drietrapsstrategie, vasthouden (retentie), bergen, afvoeren bevorderen, Rijnconferentie, Overstromingsrisicobewustzijn",
+		"ce_se": "CE"
+	},
+	{
+		"id": "db13b92b-9115-46dc-ac65-96818b97d363",
+		"title": "Buurtprofiel, Woningkenmerken, naar ouderdom, naar eigendom, nar woningtype, naar onderhoud, Bewonerskenmerken, naar grootte van huishoudens, naar etniciteit, naar inkomen, naar gezinsfase, naar leeftijd, woonomgeving, Buurt-/Wijkvoorzieningen, Sociale cohesie, Sociale (on)veiligheid, objectieve (on)veiligheid, subjectieve (on)veiligheid, Openbare ruimte, toegankelijkheid, onderhoud, overzichtelijkheid, toezicht, Stadsvernieuwing, Herstructurering, Gentrification",
+		"ce_se": "CE"
+	}
+]
