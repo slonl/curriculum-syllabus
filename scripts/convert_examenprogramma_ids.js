@@ -35,4 +35,19 @@ Object.keys(curriculum.data).forEach(function(dataset) {
 		}
 	});
 });
-curriculum.exportFiles(schema, "output/");
+
+curriculum.data['syllabus_specifieke_eindterm'].map(function(entry) {
+	if (entry.syllabus_toelichting_id) {
+		entry.syllabus_toelichting_id.forEach(function(toelichtingId) {
+			var toelichting = curriculum.ids[toelichtingId];
+			if (!toelichting['syllabus_specifieke_eindterm_id']) {
+				toelichting['syllabus_specifieke_eindterm_id'] = [];
+			}
+			toelichting['syllabus_specifieke_eindterm_id'] = toelichting['syllabus_specifieke_eindterm_id'].concat(entry.id);
+		});
+		delete entry.syllabus_toelichting_id;
+	}
+});
+
+// curriculum.exportFiles(schema, "output/");
+curriculum.exportFiles(schema);

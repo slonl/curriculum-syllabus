@@ -2,9 +2,6 @@
 	{
 		"id": "fec8196b-7a2f-423c-94ae-ed49560387e3",
 		"title": "Syllabus Economie havo",
-		"examenprogramma_id": [
-			"e214f460-6c3d-4ddd-8009-5a0fdaf06d0c"
-		],
 		"syllabus_specifieke_eindterm_id": [
 			"1a8938c3-8f13-44b5-9d68-a94c5aeda50a",
 			"118fafc2-bbca-475b-b224-531ac608eff0",
@@ -229,7 +226,10 @@
 		"ingangsdatum": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vwo/2020/f=/economie_vwo_2020_versie_2.pdf",
-		"jaargang": "2018"
+		"jaargang": "2018",
+		"examenprogramma_id": [
+			"e214f460-6c3d-4ddd-8009-5a0fdaf06d0c"
+		]
 	},
 	{
 		"id": "7a95110b-9d2c-4afd-9f91-49a863d3a628",
@@ -298,9 +298,6 @@
 	{
 		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
 		"title": "Syllabus biologie vwo",
-		"examenprogramma_id": [
-			"92f57200-9ac6-449c-964c-b18c8996df85"
-		],
 		"syllabus_specifieke_eindterm_id": [
 			"2b50a822-fd44-4496-8f76-f7c75621e54f",
 			"25b9cf29-7367-4b82-825d-a41620e75a8e",
@@ -546,14 +543,14 @@
 		"ce_se": "CE",
 		"ingangsdatum": "2020",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-biologie-vwo/2020/f=/biologie_2_versie_vwo_2020.pdf",
-		"jaargang": "2020"
+		"jaargang": "2020",
+		"examenprogramma_id": [
+			"92f57200-9ac6-449c-964c-b18c8996df85"
+		]
 	},
 	{
 		"id": "a9f8ab5a-5998-48ba-a901-b273e6615ec3",
 		"title": "Syllabus aardrijkskunde vmbo",
-		"examenprogramma_id": [
-			"544a0293-a7e3-4f6b-a973-30af7627bdea"
-		],
 		"syllabus_specifieke_eindterm_id": [
 			"7f403e70-323c-4480-9d7e-e2846621d5b3",
 			"879bda9c-5a3c-444a-8138-187dcdaea563",
@@ -695,14 +692,14 @@
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vmbo/2020/f=/aardrijkskunde_vmbo_2020_versie_2.pdf",
 		"jaargang": "2020",
-		"status": "Def."
+		"status": "Def.",
+		"examenprogramma_id": [
+			"544a0293-a7e3-4f6b-a973-30af7627bdea"
+		]
 	},
 	{
 		"id": "5e0288e6-91be-4284-acef-d6ab9ae67228",
 		"title": "Syllabus aardrijks vwo",
-		"examenprogramma_id": [
-			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
-		],
 		"syllabus_specifieke_eindterm_id": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
 			"9cead215-9642-4f41-9cab-dec0d4a65fec",
@@ -795,14 +792,14 @@
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vwo/2020/f=/syllabus_aardrijkskunde_vwo_2_versie_2020_vermelding_gebied.pdf",
 		"jaargang": "2020",
-		"status": "def."
+		"status": "def.",
+		"examenprogramma_id": [
+			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
+		]
 	},
 	{
 		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
 		"title": "Syllabus aardrijkskunde havo",
-		"examenprogramma_id": [
-			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
-		],
 		"syllabus_specifieke_eindterm_id": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
 			"9cead215-9642-4f41-9cab-dec0d4a65fec",
@@ -863,6 +860,9 @@
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-havo/2020/f=/aardrijkskunde_havo_2020_versie_2.pdf",
 		"jaargang": "2020",
-		"status": "def."
+		"status": "def.",
+		"examenprogramma_id": [
+			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
+		]
 	}
 ]
