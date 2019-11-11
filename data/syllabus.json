@@ -699,7 +699,7 @@
 	},
 	{
 		"id": "5e0288e6-91be-4284-acef-d6ab9ae67228",
-		"title": "Syllabus aardrijks vwo",
+		"title": "Syllabus aardrijkskunde vwo",
 		"syllabus_specifieke_eindterm_id": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
 			"9cead215-9642-4f41-9cab-dec0d4a65fec",
@@ -795,7 +795,10 @@
 		"status": "def.",
 		"examenprogramma_id": [
 			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
-		]
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": 0
 	},
 	{
 		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
