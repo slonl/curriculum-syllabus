@@ -121,7 +121,7 @@
 				"$ref": "#/definitions/syllabus"
 			}
 		},
-		"syllabus_deprecated": {
+		"deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
 		}
