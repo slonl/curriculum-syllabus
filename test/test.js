@@ -17,14 +17,14 @@
 		}
 	});
 
-	var curriculum   = require('../curriculum-doelen/lib/curriculum.js');
+	var curriculum   = require('../curriculum-basis/lib/curriculum.js');
 	var schema       = curriculum.loadSchema('context.json');
-	var coreSchema   = curriculum.loadSchema('curriculum-doelen/context.json', 'curriculum-doelen/');
+	var basisSchema   = curriculum.loadSchema('curriculum-basis/context.json', 'curriculum-basis/');
 	var examenprogrammaSchema = curriculum.loadSchema('curriculum-examenprogramma/context.json', 'curriculum-examenprogramma/');
 
 	var valid = ajv
 		.addSchema(schema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json')
-		.addSchema(coreSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json')
+		.addSchema(basisSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
 		.addSchema(examenprogrammaSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json')
 		.validate('https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json', curriculum.data);
 
