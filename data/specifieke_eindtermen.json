@@ -2,38 +2,46 @@
 	{
 		"id": "1a8938c3-8f13-44b5-9d68-a94c5aeda50a",
 		"prefix": "A1",
-		"title": "De kandidaat kan (informatievaardigheden): \r\n- de benodigde informatie halen uit bronnen, zoals tekst, tabellen, grafieken en afbeeldingen\r\n- de aangeboden bronnen beoordelen op bruikbaarheid en relevantie;\r\n- met voorbeelden toelichten\r\n- feiten van meningen onderscheiden\r\n- gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen\r\n- randvoorwaarden en vooronderstellingen van een economisch model onderscheiden van gegevens uit realistische contexten;\r\n- rekenen en redeneren binnen de randvoorwaarden en vooronderstellingen van een model;\r\n- redeneren buiten de kaders van een economisch model, indien de context daartoe aanleiding geeft.\r\n- transfer: het toepassen van concepten in nieuwe contexten.",
+		"title": "De kandidaat kan (informatievaardigheden): de benodigde informatie halen uit bronnen, zoals tekst, tabellen, grafieken en afbeeldingen\n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "118fafc2-bbca-475b-b224-531ac608eff0",
 		"prefix": "A2",
-		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen):\r\n- basisrekenvaardigheden toepassen in economische vragenstukken \r\n- rekenregels optellen, aftrekken, vermenigvuldigen, delen\r\n- positieve en engatieve getallen/breuken/decimalen\r\n- procenten, promillen en perunages\r\n- onderscheid procentuele mutatie en procentpunt verandering\r\n- verhoudingen en schatting\r\n- rekenen met grote en kleine getallen\r\n- afrondingsregels\r\n- vergelijkingen, beschrijvende statistiek en grafieken gebruiken in economische vraagstukken\r\n- werken met eerstegraads – en tweedegraadsvergelijkingen\r\n- het bepalen van een eerstegraadsvergelijking als afgeleide van een tweedegraadsvergelijking\r\n- oplossen van een stelsel van vergelijkingen via substitutie\r\n- werken met assenstelsels (X en Y) en kwadranten\r\n- waardes bepalen en grafieken tekenen en/of bewerken\r\n- berekeningen maken op basis van grafieken bij domein D\r\n- oppervlaktes arceren\r\n- oppervlaktes berekenen: alléén driehoek en rechthoek\r\n- indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen\r\n- diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld\r\n- tabellen: rijen/kolommen, indeling in klassen (percentielen, decielen e.d.), cumuleren\r\n- gemiddeldes: gewogen en ongewogen\r\n- berekenen van contante waarde en eindwaarde (geen reeksen).",
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) basisrekenvaardigheden toepassen in economische vragenstukken \n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "ff4e2e88-4efe-4d9e-83d8-18085e43bab6",
 		"prefix": "A3",
-		"title": "De kandidaat kan (standpuntbepaling)\r\n- de rol en de perspectieven van de verschillende actoren (consumenten, producenten, werkgevers, werknemers, burgers, overheid, bankwezen);\r\n- een eventuele botsing van belangen;\r\n- oplossingen voor / reacties op mogelijk ongewenst gedrag;\r\n- een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro);\r\n- een standpunt relativeren / weerleggen (argumenten contra);\r\n- afwegingsvraagstukken beschrijven.",
+		"title": "De kandidaat kan (standpuntbepaling) de rol en de perspectieven van de verschillende actoren (consumenten, producenten, werkgevers, werknemers, burgers, overheid, bankwezen)\n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "4c869054-381b-45dd-9361-fc78151f2bfb",
 		"prefix": "A4",
-		"title": "De kandidaat kan (strategisch inzicht):\r\n- het herkennen van relevante economische aspecten (concepten) bij het analyseren van concrete maatschappelijke vraagstukken (contexten)\r\n- het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen / een model)\r\n- het onderscheiden van oorzaak en gevolg\r\n- het onderscheiden van probleem en oplossing\r\n- het onderscheiden van korte en lange termijn\r\n- het onderscheiden van evenwichtige situaties en onevenwichtige situaties",
+		"title": "De kandidaat kan (strategisch inzicht) het herkennen van relevante economische aspecten (concepten) bij het analyseren van concrete maatschappelijke vraagstukken (contexten)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c334e0be-f7e9-491d-af27-bbd5a0bac111",
@@ -2142,7 +2150,6 @@
 		"id": "2b50a822-fd44-4496-8f76-f7c75621e54f",
 		"prefix": "A5.1",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herkennen en specificeren",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2152,7 +2159,6 @@
 		"id": "25b9cf29-7367-4b82-825d-a41620e75a8e",
 		"prefix": "A5.2",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en)",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2162,7 +2168,6 @@
 		"id": "ab777bce-fae8-4754-abbd-29645446aadf",
 		"prefix": "A5.3",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2172,7 +2177,6 @@
 		"id": "eb630c11-df86-4328-94dd-6a06cddac672",
 		"prefix": "A5.4",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2182,7 +2186,6 @@
 		"id": "749f774b-7702-48f9-80a0-b39204b7b8d3",
 		"prefix": "A5.5",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een werkplan maken vor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoorden van een (of meerdere) onderzoeksvra(a)g(en)",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2192,7 +2195,6 @@
 		"id": "1c7d1729-440e-437e-8ad0-5aa44ae6d65a",
 		"prefix": "A5.7",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een onderzoeksvraag",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2202,7 +2204,6 @@
 		"id": "cfbac93d-a564-47f6-a0b2-048b484644f3",
 		"prefix": "A5.8",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten bij de onderzoeksvra(a)g(en) van het onderzoek",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2212,7 +2213,6 @@
 		"id": "42a1aaed-e9c5-4be9-beb4-f5bae8b1aa3c",
 		"prefix": "A5.9",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden de uitvoering van een onderzoek en de conclusies evalueren, gebruik makend van de begrippen validiteit en betrouwbaarheid",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2222,7 +2222,6 @@
 		"id": "556666c2-260a-4c15-9f02-988337c344c5",
 		"prefix": "A5.11",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken mogelijk zijn",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2232,7 +2231,6 @@
 		"id": "fc8592c8-eaab-4209-9355-dff3bf6573c8",
 		"prefix": "A5.12",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden  de aard van de opbrengst van onderzoek duiden en daarbij de begrippen onzekerheid en waarschijnlijkheid hanteren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
@@ -2242,7 +2240,6 @@
 		"id": "de273067-b5f4-4d56-818e-0739816cd334",
 		"prefix": "A6.1",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een technisch-ontwerpprobleem analyseren en beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2252,7 +2249,6 @@
 		"id": "897484df-50d8-4c3a-9ff5-a442e6cefbab",
 		"prefix": "A6.2",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voor een ontwerp een programma van eisen en wensen opstellen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2262,7 +2258,6 @@
 		"id": "044ca634-15ae-4ca2-9600-76a1a25781f2",
 		"prefix": "A6.3",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een ontwerp",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2272,7 +2267,6 @@
 		"id": "e40adf10-7295-49d8-ba83-4ac73b124355",
 		"prefix": "A6.4",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verschillende (deel)uitwerkingen geven voor taken en eigenschappen van een ontwerp",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2282,7 +2276,6 @@
 		"id": "44813a33-d500-4feb-a1b0-9cbd0aaa6023",
 		"prefix": "A6.5",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma van eisen, prioriteiten en randvoorwaarden",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2292,7 +2285,6 @@
 		"id": "1ad6faa1-d2ce-4663-b1b0-52fd80256640",
 		"prefix": "A6.7",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een ontwerpproces en -product testen en evalueren, rekening houdend met het programma van eisen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2302,7 +2294,6 @@
 		"id": "260313a8-01fb-4aeb-ab15-20fe3470567b",
 		"prefix": "A6.8",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voorstellen doen voor verbetering van een ontwerp",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
@@ -2312,7 +2303,6 @@
 		"id": "decf0946-2de4-4d53-a9f9-28e09be2885a",
 		"prefix": "A7.1",
 		"title": "De kandidaat kan relevante grootheden en relaties in een probleemsituatie identificeren en selecteren",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2322,7 +2312,6 @@
 		"id": "8325496d-4ad6-49b6-9e70-a335cd2c6d64",
 		"prefix": "A7.2",
 		"title": "De kandidaat kan door het doen van aannamen en het maken van vereenvoudigingen een natuurwetenschappelijk probleem inperken tot een onderzoekbare vraagstelling",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2332,7 +2321,6 @@
 		"id": "f00bdae3-e2de-44dd-9abd-668a61f96a39",
 		"prefix": "A7.3",
 		"title": "De kandidaat kan bij een natuurwetenschappelijk probleem een model selecteren dat geschikt is om het probleem te bestuderen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2342,7 +2330,6 @@
 		"id": "d9b77a06-2496-43f6-8741-105b04152b51",
 		"prefix": "A7.4",
 		"title": "De kandidaat kan een beargumenteerde schatting maken voor parameterwaarden van een model op basis van gegevens",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2352,7 +2339,6 @@
 		"id": "a57631f1-0e23-4313-bf80-c0046a1e7421",
 		"prefix": "A7.5",
 		"title": "De kandidaat kan toetsbare verwachtingen formeren over het gedrag an een model",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2362,7 +2348,6 @@
 		"id": "07434ca9-4d94-4f9d-a9f2-eea2d35c8884",
 		"prefix": "A7.7",
 		"title": "De kandidaat kan een model evalueren op basis van uitkomsten, verwachtingen en (meet)gegevens",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
@@ -2372,7 +2357,6 @@
 		"id": "6b0188df-f9f0-4f85-abf5-382aea1c8989",
 		"prefix": "A8.1",
 		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema's en diagrammen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2382,7 +2366,6 @@
 		"id": "c7926b9a-f22e-4b07-8ab4-ec06a6572f6a",
 		"prefix": "A8.1",
 		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2392,7 +2375,6 @@
 		"id": "b2e5e9e3-e8d5-412c-a38f-363b7fe017ef",
 		"prefix": "A8.2",
 		"title": "De kandidaat kan informatie, gegevens en meetresultaten analyseren, weergegeven en strutureren in grafieken, tekeningen, schema's, diagrammen en tabellen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2402,7 +2384,6 @@
 		"id": "8fbf75d3-c2bc-41a4-b31c-831b9cab47a3",
 		"prefix": "A8.3",
 		"title": "De kandidaat kan aangeven met welke technieken en apparaten de belangrijkste grootheden uit de natuurwetenschappen worden gemeten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2412,7 +2393,6 @@
 		"id": "69d05b6f-3948-4718-9644-9c235beffdd1",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met getallen in breuken en machten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2422,7 +2402,6 @@
 		"id": "b2425c62-285b-4742-8c73-b85a7905bb04",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met verhoudingen (ratio), percentages en gemiddelden",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2432,7 +2411,6 @@
 		"id": "01a01603-27d6-45e1-b805-bf90d1edb0e3",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met oppervlakte en volumes",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2442,7 +2420,6 @@
 		"id": "0be17845-78a5-4313-b5db-9cf8b2e15920",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, omwerken van formules",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2452,7 +2429,6 @@
 		"id": "db44d71c-33e6-4c1f-9ee9-799112c1baff",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken opstellen en daarbij rekening houden met de plaats van de afhnakelijke en de onafhankelijke variabele",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2462,7 +2438,6 @@
 		"id": "194be2bb-3eae-439c-a2de-646c07c9acf8",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, aflezen logaritmische grafiek",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2472,7 +2447,6 @@
 		"id": "6a7090ef-eac3-4c8a-8f8f-de082ed4b4e8",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, lineaire en exponentiële verbanden herkennen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2482,7 +2456,6 @@
 		"id": "8b90d21d-6981-4f32-94ec-ca94a037b3aa",
 		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken lezen (formuleloos), gericht op grafisch verloop en trends.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2492,7 +2465,6 @@
 		"id": "bfa0acf1-562e-4f73-a048-eaac531d48d8",
 		"prefix": "A8.6",
 		"title": "De kandidaat kan verbanden leggen op basis van tabel- en grafiekgegevens",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"4972c191-1d64-4590-aa9c-f377fec194b0"
@@ -2502,7 +2474,6 @@
 		"id": "7f7e9c2d-5b7a-4508-92d4-a3d48384de3c",
 		"prefix": "A9.1",
 		"title": "De kandidaat kan een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij vraagstukken van natuurwetenschappelijke aard",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"5ee131b3-947c-4dcd-81ee-ef04a4a5fbda"
@@ -2512,7 +2483,6 @@
 		"id": "a5927a80-5ec0-4851-b745-02bea82fc56a",
 		"prefix": "A9.2",
 		"title": "De kandidaat kan een ondersccheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"5ee131b3-947c-4dcd-81ee-ef04a4a5fbda"
@@ -2521,7 +2491,6 @@
 	{
 		"id": "295d45ef-6a5d-43b5-9ec4-992624051d4c",
 		"title": "De kandidaat kan in een context biologische eenheden herkennen en de kenmerken ervan beschrijven. Die biologische eenheden zijn moleculen, cellen, organen, organismen, populaties, ecosystemen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
@@ -2530,7 +2499,6 @@
 	{
 		"id": "41ca7f90-f6c6-42d9-93a8-b1067b096011",
 		"title": "De kandidaat kan in een context uitleggen dat er opname, verwerking en afgifte van energie en materie is, en daarbij de relaties binnen en tussen de verschillende biologische eenheden beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
@@ -2539,7 +2507,6 @@
 	{
 		"id": "603f9436-0246-41ba-a8ca-3d7d4780205b",
 		"title": "De kandidaat kan in een context redeneringen hanteren waarbij vanuit een gegeven vorm van een biologische eenheid naar een bijbehorende functie wordt gezocht, en andersom.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
@@ -2549,7 +2516,6 @@
 		"id": "b4aef026-afd8-438e-9b40-6b29c858ef2e",
 		"prefix": "B1.1.1",
 		"title": "De kandidaat kan in een context de bouw van DNA en RNA beschrijven en de verschillen toelichten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2559,7 +2525,6 @@
 		"id": "b10d0e2c-7a1c-4923-87c1-ec00e95ced91",
 		"prefix": "B1.1.2",
 		"title": "De kandidaat kan in een context de functies van DNA en van mRNA, tRNA en rRNA benoemen en het verband beschrijven met de bouw ervan",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2569,7 +2534,6 @@
 		"id": "dd9fee74-fe65-4d87-8c87-599f52dc9508",
 		"prefix": "B1.1.3",
 		"title": "De kandidaat kan in een context uitleggen op welke manieren de basenvolgorde in het DNA bepaald kan worden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2579,7 +2543,6 @@
 		"id": "ee50638a-bade-45f8-9954-1d53318f1944",
 		"prefix": "B1.2.1",
 		"title": "De kandidaat kan in een context op basis van de relatie tussen tripletcode en amninozuur toelichten hoe eiwitten gevormd worden",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2589,7 +2552,6 @@
 		"id": "fe1338d8-29d7-4397-a43e-d064505b38bf",
 		"prefix": "B1.2.2",
 		"title": "De kandidaat kan in een context het proces van transcriptie en translatie beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2599,7 +2561,6 @@
 		"id": "f7568eb9-7f9f-49c9-8651-244f4ee7acf1",
 		"prefix": "B1.2.3",
 		"title": "De kandidaat kan in een context uitleggen hoe de aminozuurvolgorde (primaire structuur) van een eiwit de bouw en werking van het eiwit bepaalt",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2609,7 +2570,6 @@
 		"id": "78a2a21d-c8d1-417b-a93e-67ff25fa56a8",
 		"prefix": "B1.2.4",
 		"title": "De kandidaat kan in een context  uitleggen hoe eiwitten de bouw en werking van biologische eenheden bepalen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -2619,7 +2579,6 @@
 		"id": "e2cd6c72-978c-4d38-b4b4-a7d3777030b7",
 		"prefix": "B2.1",
 		"title": "De kandidaat kan in een context kenmerken van bacteriën beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2629,7 +2588,6 @@
 		"id": "24e3767a-8176-4d2e-9303-45748e9661f7",
 		"prefix": "B2.1.1",
 		"title": "De kandidaat kan in een context een eukaryote cel beschrijven als een zelfstandig functionerende eenheid, de onderdelen van cellen herkennen en de functies ervan benoemen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2639,7 +2597,6 @@
 		"id": "72d6984d-a6b0-4f99-a1f0-905796b6df63",
 		"prefix": "B2.1.2",
 		"title": "De kandidaat kan in een context  uitleggen dat cellen zich in stand houden door het uitvoeren van chemische reacties",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2649,7 +2606,6 @@
 		"id": "108d6e2b-15c5-4613-8c8b-9272ac7e00ae",
 		"prefix": "B2.1.3",
 		"title": "De kandidaat kan in een context  toelichten dat het dynamisch evenwicht in de cel in stand wordt gehouden in een complex netwerk van celprocessen die uiteenlopende functies hebben",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2659,7 +2615,6 @@
 		"id": "2583255f-5e00-4b54-bd1f-ba747c311904",
 		"prefix": "B2.1.4",
 		"title": "De kandidaat kan in een context uitleggen hoe door het principe van terugkoppeling homeostase in de cel gerealiseerd wordt",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2669,7 +2624,6 @@
 		"id": "3c1eb0a2-97fe-47cd-a7a8-484fa82286ae",
 		"prefix": "B2.2.1",
 		"title": "De kandidaat kan in een context vormen van actief en passief transport beschrijven en de relatie beschrijven met de eigenschappen van de getransporteerde stoffen en de bouw en eigenschappen van membranen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2679,7 +2633,6 @@
 		"id": "1082f458-cb33-4b54-b415-2a492b286f94",
 		"prefix": "B2.2.2",
 		"title": "De kandidaat kan in een context toelichten dat effecten van osmotische werking verschillen bij plantaardige en dierlijke cellen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2689,7 +2642,6 @@
 		"id": "3800508d-59b5-42e2-be12-7a1d26f010ec",
 		"prefix": "B2.2.3",
 		"title": "De kandidaat kan in een context uitleggen dat door de aanwezigheid van een selectief doorlaatbaar celmembraan de celinhoud permanent verschilt van de celomgeving",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2699,7 +2651,6 @@
 		"id": "ef8eed65-73e7-4252-8c2e-a3e269109642",
 		"prefix": "B2.2.4",
 		"title": "De kandidaat kan de rol van het cytoskelet bij transportprocessen herkennen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2709,7 +2660,6 @@
 		"id": "b8b2b939-1774-432d-b792-e309bac5cbb9",
 		"prefix": "B2.3.1",
 		"title": "De kandidaat kan in een context beschrijven dat cellen stoffen opnemen en afgeven, dat de stoffen in de cellen verwerkt worden in chemische reacties (opbouw en afbraak), gekatalyseerd door enzymen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2719,7 +2669,6 @@
 		"id": "af5a9007-17ce-4b4d-ab27-26da86745719",
 		"prefix": "B2.3.2",
 		"title": "De kandidaat kan in een context beschrijven dat er verschillende vormen van energie zijn: chemische energie (zoals in ATP), lichtenergie, kinetische energie, warmte, en beschrijven dat deze vormen in elkaar kunnen overgaan",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2729,7 +2678,6 @@
 		"id": "50c62c53-9bf0-4294-a1d1-3c0496f1a2ab",
 		"prefix": "B2.3.3",
 		"title": "De kandidaat kan in een context het fotosynheseproces in cellen met chloroplasten beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2739,7 +2687,6 @@
 		"id": "761c7d2f-bd09-42b0-88b5-150d031e8298",
 		"prefix": "B2.3.4",
 		"title": "De kandidaat kan in een context assimilatieprocessen in planten en dieren beschrijven en toelichten dat deze processen leiden tot de aanmaak van bouwstoffen, brandstoffen, reservestoffen en enzymen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2749,7 +2696,6 @@
 		"id": "795ad2d3-d9ba-429e-9bf7-dac4fec39dc2",
 		"prefix": "B2.3.5",
 		"title": "De kandidaat kan in een context dissimilatieprocessen beschrijven. Hierbij anaerobe en aerobe dissimilatie onderscheiden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2759,7 +2705,6 @@
 		"id": "ac864d1c-5a3e-4565-911b-dca65aa60dc0",
 		"prefix": "B2.3.6",
 		"title": "De kandidaat kan in een context met behulp van reactievergelijkingen assimilatie- en dissimilatieprocessen (ook van de deelreacties daarvan) toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2769,7 +2714,6 @@
 		"id": "b261f0ad-84b6-448e-9cd8-4fa58bc52138",
 		"prefix": "B2.3.7",
 		"title": "De kandidaat kan in een context beschrijven waar en op welke wijze enzymen reacties, zoals assimilatie- en dissimilatie-processen, katalyseren en hoe de temperatuur en pH deze beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2779,7 +2723,6 @@
 		"id": "6c3b6aa5-f69d-475d-8dcd-83136dab2dd1",
 		"prefix": "B2.3.8",
 		"title": "De kandidaat kan in een context toelichten hoe in de biotechnologie gebruik gemaakt wordt van het metabolisme van micro-organismen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2789,7 +2732,6 @@
 		"id": "a716bc74-b5a6-4b05-a288-bce1e31f9b64",
 		"prefix": "B2.3.9",
 		"title": "De kandidaat kan in een context verschillen tussen fotosynthese en chemosynthese uitleggen en verklaren onder welke omstandigheden beide processen plaats kunnen vinden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -2799,7 +2741,6 @@
 		"id": "0a5ca995-a5f9-4740-add5-03819bd24682",
 		"prefix": "B3.1.1",
 		"title": "De kandidaat kan in een context beschrijven hoe groepen van cellen door hun rangschikking in een weefsel, orgaan of orgaanstelsel een gezamenlijke functie uitoefenen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2809,7 +2750,6 @@
 		"id": "102224a0-2545-43db-97b4-0d2306d64081",
 		"prefix": "B3.1.2",
 		"title": "De kandidaat kan in een context beschrijven wat bij de mens de kenmerken en functies zijn van orgaanstelsels voor transport, ademhaling, voedselverwerking en uitscheiding",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2819,7 +2759,6 @@
 		"id": "9b93814b-cc7d-4ae0-892d-24446ab446b5",
 		"prefix": "B3.1.3",
 		"title": "De kandidaat kan in een context verschillen en overeenkomsten tussen organen en orgaanstelsels van de mens en verschillende diersoorten herkennen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2829,7 +2768,6 @@
 		"id": "3e3144d2-81fb-4100-8ce5-c554192632e8",
 		"prefix": "B3.1.4",
 		"title": "De kandidaat kan in een context verschillen in gaswisseling, opname en transport bij prokaryoten, planten en dieren toelichten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2839,7 +2777,6 @@
 		"id": "452b60aa-7a24-4422-8603-6591fb319dd3",
 		"prefix": "B3.1.5",
 		"title": "De kandidaat kan in een context uitleggen hoe orgaanstelsels met elkaar samenhangen en beargumenteren hoe verstoring in het functioneren van een orgaan de samenwerking tussen organen beïnvloedt.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2849,7 +2786,6 @@
 		"id": "24392345-9cbc-4459-92e1-d759099d8ed6",
 		"prefix": "B3.2.1",
 		"title": "De kandidaat kan in een context beschrijven dat organismen door fotosynthese autotroof zijn",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2859,7 +2795,6 @@
 		"id": "2444c54b-2d3c-4b57-ae0b-ed1c1665f174",
 		"prefix": "B3.2.2",
 		"title": "De kandidaat kan in een context voorwaarden voor het fotosyntheseproces in planten benoemen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2869,7 +2804,6 @@
 		"id": "c24fd8a6-f65c-486e-a3de-e65d36ea919b",
 		"prefix": "B3.2.3",
 		"title": "De kandidaat kan in een context het belang van fotosynthese als basis voor de voortgezette assimiliatie en dissimilatie van het organisme beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2879,7 +2813,6 @@
 		"id": "6a618a4b-fda1-4928-953c-72bf2621badb",
 		"prefix": "B3.3.1",
 		"title": "De kandiaat kan in een context de bouw, werking en functie van gaswisselingsorganen van eukaryoten, in het bijzonder de mens beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2889,7 +2822,6 @@
 		"id": "70791187-2aeb-4498-ac69-d7268a3d1cbb",
 		"prefix": "B3.3.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van gaswisselingsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2899,7 +2831,6 @@
 		"id": "82bcfd7c-1b2b-487e-89b8-0d55c9527f5f",
 		"prefix": "B3.3.3",
 		"title": "De kandidaat kan in een context uitleggen op welke wijze longventilatie tot stand komt en geregeld wordt",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2909,7 +2840,6 @@
 		"id": "ee400f20-119e-4415-ba28-6eadf6751c7d",
 		"prefix": "B3.3.4",
 		"title": "De kandidaat kan in een context uitleggen hoe opname, transport en afgifte van CO2 en O2 plaatsvindt en wat de rol van hemoglobine en myoglobine daarbij is",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2919,7 +2849,6 @@
 		"id": "e5c1af5b-707e-49aa-b444-f3e7e445a787",
 		"prefix": "B3.3.5",
 		"title": "De kandidaat kan in een context de relatie tussen de gaswisseling van planten en fotosynthese en dissimilatie beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2929,7 +2858,6 @@
 		"id": "f36ec9fc-7b86-4211-adce-253168be3758",
 		"prefix": "B3.4.1",
 		"title": "De kandidaat kan in een context de  bouw, werking en functie van spijsverteringsorganen van eukaryoten, in het bijzonder van de mens, beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2939,7 +2867,6 @@
 		"id": "30ef5f25-ea9e-473b-a1d0-88484318a9e6",
 		"prefix": "B3.4.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van spijsverteringsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2949,7 +2876,6 @@
 		"id": "bf264ad0-0095-426c-b728-e8897ad5969e",
 		"prefix": "B3.4.3",
 		"title": "De kandidaat kan in een context beschrijven waar en op welke wijze voedingsstoffen verteerd en opgenomen worden en verklaren op welke wijze factoren dit kunnen beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2959,7 +2885,6 @@
 		"id": "e583b91f-cf69-4556-bc97-a68470ba669f",
 		"prefix": "B3.5.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van uitscheidingsorganen van eukaryoten, in het bijzonder van de mens beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2969,7 +2894,6 @@
 		"id": "dfd2797c-c8bf-43a8-a8ba-c98647540ad9",
 		"prefix": "B3.5.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van uitscheidingsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2979,7 +2903,6 @@
 		"id": "0c08fa0d-78c7-4a76-873f-55013a933da6",
 		"prefix": "B3.5.3",
 		"title": "De kandidaat kan in een context de rol van de lever, de nieren, de longen en de huid bij uitscheidingprocessen toelichten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2989,7 +2912,6 @@
 		"id": "a7caec29-c4ea-4c11-8185-496fd1692ae6",
 		"prefix": "B3.6.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van de bloedsomloop met hart en bloedvaten van eukaryoten, in het bijzonder van de mens beschrijven",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -2999,7 +2921,6 @@
 		"id": "9100f55d-5409-4ae4-a23e-2050eb065349",
 		"prefix": "B3.6.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van hart en bloedvaten en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -3009,7 +2930,6 @@
 		"id": "9d350ab5-170c-4cc1-858f-532c556089a5",
 		"prefix": "B3.6.3",
 		"title": "De kandidaat kan in een context de embryonale bloedsomloop van de mens toelichten en verschillen en overeenkomsten benoemen met de bloedsomloop na de geboorte",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -3019,7 +2939,6 @@
 		"id": "a19dbb6b-880a-47fb-8115-4417cea3614d",
 		"prefix": "B3.6.4",
 		"title": "De kandidaat kan in een context de functie van bestanddelen van bloed, bloedplasma, weefselvloeistof en lymfe beschrijven en de vorming van weefselvloeistof en lymfe toelichten",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -3029,7 +2948,6 @@
 		"id": "84171bbc-756e-45d8-a0df-7ad040192f24",
 		"prefix": "B3.6.5",
 		"title": "De kandidaat kan in een context het verband beschrijven tussen bloedvatenstelsel en lymfevatenstelsel",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -3039,7 +2957,6 @@
 		"id": "fb844472-ce4f-4970-b5ed-7bfe85249e34",
 		"prefix": "B3.6.6",
 		"title": "De kandidaat kan in een context het transport van water, zouten en assimilatieproducten in planten beschrijven en de relatie met fotosynthese, dissimilatie en opslag van stoffen beargumenteren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -3049,7 +2966,6 @@
 		"id": "8699d286-9027-4e22-8677-40b065025433",
 		"prefix": "B4.1.1",
 		"title": "De kandidaat kan in een context het belang van de longen, lever, nieren, huid, zenuw- en hormoonstelsel voor de homeostase bij de mens beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3059,7 +2975,6 @@
 		"id": "a0a58c95-ef5e-40a5-b7a4-0bb78e8a6760",
 		"prefix": "B4.1.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van de lever, longen, huid en nieren en de homeostase beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3069,7 +2984,6 @@
 		"id": "285abd4b-ebe8-4ba0-aff7-a22f81e3077b",
 		"prefix": "B4.1.3",
 		"title": "De kandidaat kan in een context een regelkring afleiden uit een beschrijving van de regulatie van lichaamsprocessen en de principes van een regelkring toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3079,7 +2993,6 @@
 		"id": "ed27d774-4415-457c-8dd5-adb6d93cdd0c",
 		"prefix": "B4.1.4",
 		"title": "De kandidaat kan in een context de samenhang van de regeling van lichaamsprocessen beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3089,7 +3002,6 @@
 		"id": "3ae5b304-5275-4024-8985-ee9b71dfd54c",
 		"prefix": "B4.1.5",
 		"title": "De kandidaat kan in een context beargumenteren op welke wijze verstoring van het dynamisch evenwicht kan ontstaan en hoe deze gereguleerd kan worden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3099,7 +3011,6 @@
 		"id": "03801a11-08f9-4438-9fc2-b8b0f49a2b27",
 		"prefix": "B4.2.1",
 		"title": "De kandidaat kan in een context de werking van een regelkring in het hormoonstelsel voorspellen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3109,7 +3020,6 @@
 		"id": "4604335f-2681-47f4-bd2a-b8d1e5fc71fb",
 		"prefix": "B4.2.2",
 		"title": "De kandidaat kan in een context de werking van hormoonklieren en de specifieke werking van hun hormonen beschrijven en afleiden hoe de doelorganen daarop reageren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3119,7 +3029,6 @@
 		"id": "ee0db6d7-940c-4918-ac07-352863d8f493",
 		"prefix": "B4.2.3",
 		"title": "De kandidaat kan in een context het verband beschrijven tussen hormonale regulatie en het handhaven van homeostase.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3129,7 +3038,6 @@
 		"id": "cc7499b2-7055-4914-a2d5-3575d2890c24",
 		"prefix": "B4.2.4",
 		"title": "De kandidaat kan in een context de relatie tussen het hormoonstelsel en het zintuig-, spier- en zenuwstelsel toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3139,7 +3047,6 @@
 		"id": "451686a2-37f0-40be-b485-6f068db98d32",
 		"prefix": "B4.3.1",
 		"title": "De kandidaat kan in een context de bouw en werking van het zenuwstelsel en de signaalverwerking beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3149,7 +3056,6 @@
 		"id": "981ce5a9-fa74-43b2-bc78-38a203f5063e",
 		"prefix": "B4.3.2",
 		"title": "De kandidaat kan in een context de werking van een regelkring in het zenuwstelsel uitleggen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3159,7 +3065,6 @@
 		"id": "c3239910-aeae-4fe5-9c90-70641172a6e7",
 		"prefix": "B4.3.3",
 		"title": "De kanidaat kan in een context het verband beschrijven tussen de werking van het zenuwstelsel en het functioneren van een organisme.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3169,7 +3074,6 @@
 		"id": "b124be21-4127-44de-ba04-91e124dfa357",
 		"prefix": "B4.3.4",
 		"title": "De kandidaat kan in een context de relatie tussen het zenuwstelsel en het zintuig-, spier- en hormoonstelsel toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -3179,7 +3083,6 @@
 		"id": "7eebab88-e3e7-448c-aff2-5a2f26edc094",
 		"prefix": "B5.1.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van organen en cellen betrokken bij de afweer van de mens beschrijven en hun onderlinge relatie toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cea5ad1f-312a-4255-a1f4-c796532152b4"
@@ -3189,7 +3092,6 @@
 		"id": "b96039bf-6286-46d0-875b-f95c0f37fc39",
 		"prefix": "B5.1.2",
 		"title": "De kandidaat kan in een context de werking van de specifieke en aspecifieke afweer beschrijven en de reactie op lichaamseigen en lichaamsvreemde stoffen en cellen te verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cea5ad1f-312a-4255-a1f4-c796532152b4"
@@ -3199,7 +3101,6 @@
 		"id": "5c46d0ce-91a3-4386-a4fc-98f0d8312a3d",
 		"prefix": "B5.1.3",
 		"title": "De kandidaat kan in een conext de afweermechanismen van planten herkennen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cea5ad1f-312a-4255-a1f4-c796532152b4"
@@ -3209,7 +3110,6 @@
 		"id": "63c3c70b-db9a-41d2-888b-6b8f0d228101",
 		"prefix": "B8.1.1",
 		"title": "De kandidaat kan in een context energiestromen in een ecosysteem beschrijven, toelichten welke factoren daarop van invloed zijn en uitleggen wat oorzaken en gevolgen zijn van verstoring.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3219,7 +3119,6 @@
 		"id": "7f525f57-4ffb-4a0d-9b2d-3ad962a75558",
 		"prefix": "B8.1.2",
 		"title": "De kandidaat kan in een context modellen van energiestromen beschrijven en uitleggen welke processen en organismen daarin een rol spelen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3229,7 +3128,6 @@
 		"id": "1ddf9ad8-06ab-4fb0-b211-1c3b6e7a9924",
 		"prefix": "B8.1.3",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens energiestromen kan beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3239,7 +3137,6 @@
 		"id": "9fe0decf-5e8e-454b-a893-c9620895e97d",
 		"prefix": "B8.2.1",
 		"title": "De kandidaat kan in een context de rol uitleggen van producenten, consumenten en reducenten in de kringlopen van koolstof en stikstof en de verbanden kwantificeren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3249,7 +3146,6 @@
 		"id": "35430f4f-2d3f-447f-833d-eb563ec6444d",
 		"prefix": "B8.2.2",
 		"title": "De kandidaat kan in een context kringlopen van elementen in een ecosysteem weergeven, toelichten welke factoren van invloed zijn op de verschillende stappen daarin en uitleggen wat oorzaken en gevolgen zijn van verstoring.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3259,7 +3155,6 @@
 		"id": "a0342a0d-631d-48c8-b411-fe7ce596a09e",
 		"prefix": "B8.2.3",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens nutriëntenkringlopen en daarmee het systeem Aarde kan beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3269,7 +3164,6 @@
 		"id": "209b7e1c-f2ce-475f-a630-b6e058ab3424",
 		"prefix": "B8.3.1",
 		"title": "De kandidaat kan in een context beschrijven wat onder een ecosysteem wordt verstaan en welke componenten daarvan deel uitmaken",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3279,7 +3173,6 @@
 		"id": "0a837d72-a77e-413d-8eac-5ee0d1d36b77",
 		"prefix": "B8.3.2",
 		"title": "De kandidaat kan in een context uitleggen welke rol concurrentie binnen en tussen populaties speelt bij de dynamiek (instandhouding en ontwikkeling) van een ecosysteem.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3289,7 +3182,6 @@
 		"id": "3887ef88-a77e-432d-98b6-200e82934d3d",
 		"prefix": "B8.3.3",
 		"title": "De kandidaat kan in een context uitleggen welke rol biotische en abiotische factoren spelen bij de dynamiek binnen een ecosysteem.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3299,7 +3191,6 @@
 		"id": "6c313054-166f-4eeb-ba28-643e88bdbb27",
 		"prefix": "B8.3.4",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens de zelfregulatie van ecosystemen kan beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -3308,7 +3199,6 @@
 	{
 		"id": "7828ff43-59ff-463b-ad20-484a05f69488",
 		"title": "De kandidaat kan in een context toelichten dat biologische eenheden van cellulair niveau tot en met het niveau van een populatie een zelforganiseren vermogen hebben.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c626c900-3729-44fa-89ce-b76213a7a569"
@@ -3317,7 +3207,6 @@
 	{
 		"id": "bf4eed8f-546d-4e53-a7f7-2066ac4b00d0",
 		"title": "De kandidaat kan in een context beargumenteren dat biologische eenheden nieuwe, emergente eigenschappen hebben vergeleken met de biologische eenheden van een niveau lager.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c626c900-3729-44fa-89ce-b76213a7a569"
@@ -3327,7 +3216,6 @@
 		"id": "3fed86cc-b4af-4d61-a972-f231d3b8004a",
 		"prefix": "C1.1.1",
 		"title": "De kandidaat kan in een context weergeven dat DNA bij eukaryoten voor het grootste deel niet coderend is en dat genen voor een groot gedeelte uit introns bestaan.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3337,7 +3225,6 @@
 		"id": "09ffad63-07f3-43df-8a08-d1af4060172a",
 		"prefix": "C1.1.2",
 		"title": "De kandidaat kan in een context het proces van genexpressie tot en met eiwitsynthese omschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3347,7 +3234,6 @@
 		"id": "be2026f3-8a78-49a3-a45d-ec23e0a89053",
 		"prefix": "C1.1.3",
 		"title": "De kandidaat kan in een context beschrijven dat genen afhankelijk van de omstandigheden tot expressie komen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3357,7 +3243,6 @@
 		"id": "4a3965d7-4dc6-4ccf-adad-6abe19f438ec",
 		"prefix": "C1.1.4",
 		"title": "De kandidaat kan in een context uitleggen dat in verschillende typen cellen verschillende eiwitten gemaakt worden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3367,7 +3252,6 @@
 		"id": "cb9d1b4a-25f0-4f88-add0-8f6e9a073640",
 		"prefix": "C1.1.5",
 		"title": "De kandidaat kan in een context verklaren hoe genexpressie en het functioneren van een organisme samenhangen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3377,7 +3261,6 @@
 		"id": "1f23b74f-8044-48f7-88c2-deeb93f1e016",
 		"prefix": "C1.2.1",
 		"title": "De kandidaat kan in een context beschrijven dat vrijwel alle cellen van een meercellig organisme hetzelfde genoom hebben.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3387,7 +3270,6 @@
 		"id": "8f3f92ac-fb1f-455d-94ca-31cb34d3ba16",
 		"prefix": "C1.2.2",
 		"title": "De kandidaat kan in een context beschrijven hoe door defferentiatie cellen ontstaan met een verschillende vorm en functie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3397,7 +3279,6 @@
 		"id": "31ea9e6d-d94c-44a6-bacc-57ade7ad3c33",
 		"prefix": "C1.2.3",
 		"title": "De kandidaat kan in een context beschrijven dat celdifferentiatie tot stand komt door het aan- en/of uitschakelen van genen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3407,7 +3288,6 @@
 		"id": "bc9d0518-d12b-44cd-9267-c604ea1ad9de",
 		"prefix": "C1.2.4",
 		"title": "De kandidaat kan in een context eigenschappen van stamcellen beschrijven en toelichten voor welke doelen stamcellen gebruikt kunnen worden;",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3417,7 +3297,6 @@
 		"id": "25713c69-827b-4628-bea2-62f15c28e688",
 		"prefix": "C1.2.5",
 		"title": "De kandidaat kan in een context toelichten dat een cel in staat is tot apoptose en dat deze een rol kan spelen tijdens de ontwikkeling van een meercellig organisme.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -3427,7 +3306,6 @@
 		"id": "d64e5bee-e9bf-404a-a059-525860e225cb",
 		"prefix": "C3.1.1",
 		"title": "De kandidaat kan in een context de ontwikkeling van een ecosysteem beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3437,7 +3315,6 @@
 		"id": "69470a8e-ae86-4c3d-b7dc-d64924b35622",
 		"prefix": "C3.1.2",
 		"title": "De kandidaat kan in een context opeenvolgende veranderingen in een ecosysteem beschrijven en verklaren hoe daarbij overgangen tot stand komen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3447,7 +3324,6 @@
 		"id": "d9f3d2b9-caae-4676-8498-160001fba66a",
 		"prefix": "C3.1.3",
 		"title": "De kandidaat kan in een context verschillen tussen ecosystemen benoemen op basis van verschillen in populaties (biotische) en abiotische factoren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3457,7 +3333,6 @@
 		"id": "c39f921b-a58e-487f-a1b7-0b71093a608f",
 		"prefix": "C3.1.4",
 		"title": "De kandidaat kan in een context de dynamiek in een ecosysteem beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3467,7 +3342,6 @@
 		"id": "c3ec2197-8fd1-4aed-9fc8-558bf533223c",
 		"prefix": "C3.1.5",
 		"title": "De kandidaat kan in een context herkennen dat een ecosysteem in verschillende evenwichtssituaties kan verkeren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3477,7 +3351,6 @@
 		"id": "b5c9e671-9d2c-4fd1-b973-b2d8c5dea840",
 		"prefix": "C3.1.6",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen en het systeem Aarde beïnvloedt.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -3486,7 +3359,6 @@
 	{
 		"id": "902a1c2a-c1c4-4a86-8c9a-a55653347875",
 		"title": "De kandidaat kan in een context beargumenteren dat een biologische eenheid, van welk organisatieniveau dan ook, voortdurend in interactie is met de omgeving waaronder andere biologische eenheden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
@@ -3495,7 +3367,6 @@
 	{
 		"id": "0e5151e3-6ba8-4de2-b010-133a35c98bc5",
 		"title": "De kandidaat kan in een context redeneringen hanteren waarbij uitgewerkt wordt wat interne of externe veranderingen in een biologische eenheid voor gevolgen hebben voor die biologische eenheid en voor de biologische eenheden op een hoger en lager organisatieniveau.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
@@ -3504,7 +3375,6 @@
 	{
 		"id": "7c963227-2143-4b49-8589-78ca5d0b52da",
 		"title": "De kandidaat kan in een context de complexiteit van relaties in en tussen biologische eenheden en van biologische eenheden met hun abiotisch milieu beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
@@ -3514,7 +3384,6 @@
 		"id": "57ea90c5-0424-4d63-9703-faad2d8f50af",
 		"prefix": "D1.1.1",
 		"title": "De kandidaat kan in een context mechanismen voor genregulatie noemen en het belang ervan toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -3524,7 +3393,6 @@
 		"id": "427ca53b-5d9d-4663-8719-a9a86df7e88f",
 		"prefix": "D1.1.2",
 		"title": "De kandiaat kan in een context uitleggen dat cellen voor hun functioneren gebruik maken van eiwitten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -3534,7 +3402,6 @@
 		"id": "93869a0a-9f30-4d38-b832-0a54ae19db5e",
 		"prefix": "D1.1.3",
 		"title": "De kandidaat kan in een context uitleggen dat (a)biotische factoren de variatie aan eiwitten beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -3544,7 +3411,6 @@
 		"id": "3102c779-c20d-4175-a7dd-0e1d70cfd5e2",
 		"prefix": "D1.1.4",
 		"title": "De kandidaat kan in een context uitleggen dat genexpressie een dynamisch proces is dat geregeld wordt door verschillende factoren waaronder epigenetische.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -3554,7 +3420,6 @@
 		"id": "dd2b8b73-5d5f-461f-83e5-bf384292a401",
 		"prefix": "D1.1.5",
 		"title": "De kandidaat kan in een context uitleggen dat mutagene factoren de genregulatie verstoren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -3564,7 +3429,6 @@
 		"id": "59538f7d-f414-4b72-bb25-267a06673b6c",
 		"prefix": "D2.1.1",
 		"title": "De kandidaat kan in een context beschrijven hoe cellen signalen ontvangen en verwerken, hoe cellen op signalen reageren, en deze processen aan elkaar relateren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"002574b6-a3d3-4f1c-927d-8d8390a52068"
@@ -3574,7 +3438,6 @@
 		"id": "2e6958ae-24f0-47ac-a2a7-bd7ad2d870ef",
 		"prefix": "D2.1.2",
 		"title": "De kandidaat kan in een context herkennen hoe cellen met elkaar communiceren over korte en over lange afstand via zenuwcellen en via hormonen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"002574b6-a3d3-4f1c-927d-8d8390a52068"
@@ -3584,7 +3447,6 @@
 		"id": "95a0f407-2377-4512-828b-41096172aa16",
 		"prefix": "D2.1.3",
 		"title": "De kandidaat kan in een context  onderscheiden dat er responsen in het celplasma zijn en dat er responsen zijn die genexpressie bevorderen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"002574b6-a3d3-4f1c-927d-8d8390a52068"
@@ -3594,7 +3456,6 @@
 		"id": "2c07c6bb-6b76-4552-abc9-e51691395ed9",
 		"prefix": "D2.1.4",
 		"title": "De kandidaat kan in een context afleiden welke effecten celcommunicatie op andere organisatieniveaus teweegbrengt.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"002574b6-a3d3-4f1c-927d-8d8390a52068"
@@ -3604,7 +3465,6 @@
 		"id": "e5dace91-e342-43a0-88a6-4c157f54eb74",
 		"prefix": "D5.1.1",
 		"title": "De kandidaat kan in een context voedselrelaties tussen organismen beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3614,7 +3474,6 @@
 		"id": "03df0c18-dad8-46c0-a405-42a5098458f5",
 		"prefix": "D5.1.2",
 		"title": "De kandidaat kan in een context relaties in een voedselketen benoemen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3624,7 +3483,6 @@
 		"id": "c33c8c63-3f13-46dc-b80a-4f19e12ec394",
 		"prefix": "D5.1.3",
 		"title": "De kandidaat kan in een context in een voedselweb voedselketens herkennen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3634,7 +3492,6 @@
 		"id": "6eb5ddc7-f87e-4ebc-a70d-62b6c037648d",
 		"prefix": "D5.1.4",
 		"title": "De kandidaat kan in een context de accumulatie van giftige stoffen in een voedselketen uitleggen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3644,7 +3501,6 @@
 		"id": "949c7b16-4932-4ecd-b364-bf9c4e468af1",
 		"prefix": "D5.2.1",
 		"title": "De kandidaat kan in een context veranderingen van abiotische en biotische factoren en hun onderlinge wisselwerking in een ecosysteem beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3654,7 +3510,6 @@
 		"id": "4cb3a4f2-3822-47d0-a030-03b168196b3f",
 		"prefix": "D5.2.2",
 		"title": "De kandidaat kan in een context beschrijven welke rol abiotische en biotische factoren spelen bij de instandhouding en ontwikkeling van een ecosysteem.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3664,7 +3519,6 @@
 		"id": "41e3f07d-7aaf-4590-826e-45f0b9f042a3",
 		"prefix": "D5.2.3",
 		"title": "De kandidaat kan in een context de accumulatie van giftig stoffen in een voedselketen uitleggen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3674,7 +3528,6 @@
 		"id": "d68d650c-2134-4842-a071-bcbf3452ec46",
 		"prefix": "D5.2.4",
 		"title": "De kandidaat kan in een context de rol van concurrentie binnen en tussen de populaties in een ecosysteem beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3684,7 +3537,6 @@
 		"id": "6660bffe-72c4-40ca-b623-20ea18258280",
 		"prefix": "D5.2.5",
 		"title": "De kandidaat kan in een context  beschrijven wat onder duurzame ontwikkeling wordt verstaan, in het bijzonder duurzame energie- en voedselproductie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3694,7 +3546,6 @@
 		"id": "8e1102c6-9083-46b9-a136-0f5b48438980",
 		"prefix": "D5.2.6",
 		"title": "De kandidaat kan in een context beargumenteren op welke wijze vraagstukken die betrekking hebben op duurzame ontwikkeling, kunnen worden benaderd.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -3703,7 +3554,6 @@
 	{
 		"id": "51ecdd00-8a40-4f05-8a15-58e89da79dfd",
 		"title": "De kandidaat kan in een context relaties beschrijven tussen replicatie die plaatsvindt op de verschillende organisatieniveaus.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"6644c5ee-ae3a-43d3-acba-4d2ac184da85"
@@ -3713,7 +3563,6 @@
 		"id": "c6ae8522-54e3-442e-8220-c0e1917cfdd6",
 		"prefix": "E3.1.1",
 		"title": "De kandidaat kan in een context de geslachtelijke en ongeslachtelijke voortplanting beschrijven en de daarmee de genetische variatie bij prokaryoten en eukaryoten verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3723,7 +3572,6 @@
 		"id": "93e726f9-129c-4cdf-a799-57ab8745ec21",
 		"prefix": "E3.1.2",
 		"title": "De kandidaat kan in een context bouw, vorming, ontwikkeling en functie beschrijven van gameten en de zygote.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3733,7 +3581,6 @@
 		"id": "ff21dac5-52db-40e6-9bd9-5bcf3b8e6ec3",
 		"prefix": "E3.1.3",
 		"title": "De kandidaat kan in een context bouw en werking van de voortplantingsorganen van de mens beschrijven en de rol van hormonen daarbij toelichten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3743,7 +3590,6 @@
 		"id": "78b48801-0f51-4a8d-bb57-922c7d713028",
 		"prefix": "E3.1.4",
 		"title": "De kandidaat kan in een context standpunten over het ingrijpen in het voortplantingsproces van organismen toelichten met ethische en biologische argumenten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3753,7 +3599,6 @@
 		"id": "46de1939-1faa-4546-8831-6d97c860c820",
 		"prefix": "E3.2.1",
 		"title": "De kandidaat kan in een context uitleggen dat een fenotype tot stand komt door de combinatie van genotype en de invloed van milieufactoren, en verschillen herkennen met de epigenetische overerving.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3763,7 +3608,6 @@
 		"id": "fbd99df1-3033-4f69-9179-3c5a69da14d4",
 		"prefix": "E3.2.2",
 		"title": "De kandidaat kan in een context  verschillen tussen autosomen en geslachtschromosomen benoemen en toelichten dat bij de mens de geslachtschromosomen het geslacht bepalen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3773,7 +3617,6 @@
 		"id": "d52cdde7-e92d-4fae-9f8c-2de6051ed7a6",
 		"prefix": "E3.2.3",
 		"title": "De kandidaat kan in een context de frequentie van genotypen en fenotypen van nakomelingen afleiden uit stambomen of kruisingsschema’s bij monohybride en dihybride kruisingen, zowel voor onafhankelijke als gekoppelde overerving, voor autosomale en Xchromosomale genen, multipele allelen en lethale factoren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3783,7 +3626,6 @@
 		"id": "a53f97ea-c92c-4f0f-8fb7-1c81d268034e",
 		"prefix": "E3.2.4",
 		"title": "De kandidaat kan in een context verklaren dat mitochondriale overerving en epigenetica kunnen leiden tot een ander overervingspatroon dan volgens de wetten van Mendel.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3793,7 +3635,6 @@
 		"id": "8401a1ed-9d4d-48d3-af29-e4ac32fa9c3c",
 		"prefix": "E3.2.5",
 		"title": "De kandidaat kan in een context standpunten over het ingrijpen in de erfelijkheid van pro- en eukaryote organismen toelichten met ethische en biologische argumenten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -3802,7 +3643,6 @@
 	{
 		"id": "d2ac99b4-8d84-46d2-bba8-19d024b0863b",
 		"title": "De kandidaat kan in een context toelichten hoe biodiversiteit van leven ontstaan is.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
@@ -3811,7 +3651,6 @@
 	{
 		"id": "d8f9e7f4-6ea5-4cb4-a3e9-d6e28651d66a",
 		"title": "De kandidaat kan in een context toelichten dat het bestaan van de universele genetische code opgevat wordt als een natuurwetenschappelijk argument voo een gemeenschappelijke oorsprong en verwantschap van al het leven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
@@ -3820,7 +3659,6 @@
 	{
 		"id": "e753f5c0-9046-4bfb-8e71-0ad6b7c46dd9",
 		"title": "De kandidaat kan in een context redeneringen hanteren waarbij de rol van adaptaties in biologische eenheden wordt uiteengezet.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
@@ -3829,7 +3667,6 @@
 	{
 		"id": "983a6519-2a12-45a9-999c-ce72168fc3ed",
 		"title": "De kandidaat kan in een context redeneringen hanteren waarbij vanuit een gegeven vorm van een biologische eenheid naar een bijbehorende functie wordt gezocht en toelichten dat een bepaalde functionaliteit langs verschillende wegen in de evolutie ontstaan kan zijn.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
@@ -3838,7 +3675,6 @@
 	{
 		"id": "c7a4486f-1dce-4647-b622-091d660eb0df",
 		"title": "De kandidaat kan in een context toelichten hoe evolutietheorie tot stand gekomen is en argumenteren over de wisselwerking van de evolutietheorie met wetenschap, maatschappij en levensovertuiging.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
@@ -3848,7 +3684,6 @@
 		"id": "c44e035c-357f-4a78-b9d9-9657c7741304",
 		"prefix": "F1.1.1",
 		"title": "De kandidaat kan in een context  benoemen dat DNA functioneert als universele drager van genetische informatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3858,7 +3693,6 @@
 		"id": "4054eeab-1a22-40aa-a51b-2bf2994901a1",
 		"prefix": "F1.1.2",
 		"title": "De kandidaat kan in een context uitleggen dat dezelfde genetische informatie in verschillende organismen voor kan komen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3868,7 +3702,6 @@
 		"id": "56543a7b-29b7-4f84-998d-eb8fb8d1da24",
 		"prefix": "F1.1.3",
 		"title": "De kandidaat kan in een context uitleggen hoe met gegevens verkregen door DNA-analyse de graad van verwantschap van soorten kan worden vastgesteld.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3878,7 +3711,6 @@
 		"id": "eadd676c-73ea-467e-952b-46f2efb75913",
 		"prefix": "F1.2.1",
 		"title": "De kandidaat kan in een context beschrijven welke typen mutatie er zijn.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3888,7 +3720,6 @@
 		"id": "db371634-a3dc-4e8f-818c-f529003bf781",
 		"prefix": "F1.2.2",
 		"title": "De kandidaat kan in een context uitleggen waardoor mutatie veroorzaakt kan worden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3898,7 +3729,6 @@
 		"id": "7b96aa4e-8b99-492f-bf98-1a5180ff74ed",
 		"prefix": "F1.2.3",
 		"title": "De kandidaat kan in een context uitleggen dat mutatie het fenotype kan beïnvloeden.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3908,7 +3738,6 @@
 		"id": "056b413d-dd6f-463a-a4c1-c2b6f7c5eebc",
 		"prefix": "F1.2.4",
 		"title": "De kandidaat kan in een context uitleggen dat mutatie plaatsvindt onafhankelijk van het mogelijke effect ervan op overlevingskans of voortplaning van de cel of het organisme.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3918,7 +3747,6 @@
 		"id": "271ccab5-62f7-429a-bbb8-307494b0a26e",
 		"prefix": "F1.3.1",
 		"title": "De kandidaat kan in een context uitleggen hoe bij geslachtelijke voortplanting voortplantingscellen met een unieke combinatie van genen ontstaan door recombinatie van chromosomen en delen daarvan.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3928,7 +3756,6 @@
 		"id": "13dca3fa-4c0e-4e8f-bc4e-90e7eaf148bc",
 		"prefix": "F1.4.1",
 		"title": "De kandidaat kan in een context uitleggen hoe genetische variatie in een populatie vergroot wordt door mutatie en recombinatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3938,7 +3765,6 @@
 		"id": "42b6998b-4fa8-4311-be24-603996650adb",
 		"prefix": "F1.4.2",
 		"title": "De kandidaat kan in een context uitleggen hoe door de mens gewenste genencombinaties verkregen worden door genetische modificatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -3948,7 +3774,6 @@
 		"id": "493b4692-ef0b-4624-8901-a17c90cf7d62",
 		"prefix": "F2.1.1",
 		"title": "De kandidaat kan in een context omschrijven wat onder een populatie wordt verstaan.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -3958,7 +3783,6 @@
 		"id": "71d953b1-a863-4eee-9144-82e7923af646",
 		"prefix": "F2.1.2",
 		"title": "De kandiddat kan in een context uitleggen hoe frequenties van genotypen en fenotypen in populaties in tijd en ruimte veranderen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -3968,7 +3792,6 @@
 		"id": "40f1a99c-9b67-4c8d-b0e0-f38383613423",
 		"prefix": "F2.1.3",
 		"title": "De kandidaat kan in een context uitleggen dat populaties emergente eigenschappen hebben.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -3978,7 +3801,6 @@
 		"id": "d817148b-7c68-4b0f-b3df-5514b57b8707",
 		"prefix": "F2.2.1",
 		"title": "De kandidaat kan in een context beschrijven wat onder genetische variatie in een populatie wordt verstaan.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -3988,7 +3810,6 @@
 		"id": "ff6b1751-2925-4851-9208-1c22c1fe59ce",
 		"prefix": "F2.2.2",
 		"title": "De kandidaat kan in een context uitleggen hoe allelfrequenties/genfrequenties in een populatie kunnen veranderen door random mutaties, genetic drift en gene flow.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -3998,7 +3819,6 @@
 		"id": "39892ad1-2d4c-4aea-aa05-8f272cf235e3",
 		"prefix": "F2.2.3",
 		"title": "De kandidaat kan in een context verbanden kwantificeren tussen allelfrequenties/genfrequenties en frequenties van genotypen van opeenvolgende generaties met gebruik van de regel van HardyWeinberg.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4008,7 +3828,6 @@
 		"id": "3e7f3443-210b-424b-a8ab-4721c9fbbd27",
 		"prefix": "F2.3.1",
 		"title": "De kandidaat kan in een context  uitleggen dat adaptatie van populaties door selectie van organismen tot stand komen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4018,7 +3837,6 @@
 		"id": "28a3d837-f6cf-443f-8933-0ddc9289866f",
 		"prefix": "F2.3.2",
 		"title": "De kandidaat kan in een context uitleggen dat selectiedruk adaptaties bijeen brengt die het voortplantingssucces van de soort vergroten.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4028,7 +3846,6 @@
 		"id": "2b1ad2df-84c7-4707-bf18-3bf2ab9a04a2",
 		"prefix": "F2.3.3",
 		"title": "De kandidaat kan in een context overeenkomsten en verschillen tussen natuurlijke en kunstmatige selectie beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4038,7 +3855,6 @@
 		"id": "208e069e-d4cc-415a-a4b9-914372da2a33",
 		"prefix": "F2.4.1",
 		"title": "De kandidaat kan in een context beschrijven dat soorten groepen individuen zijn die reproductief van elkaar geïsoleerd zijn.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4048,7 +3864,6 @@
 		"id": "12943e06-b5de-4f46-b113-b0daeb60240b",
 		"prefix": "F2.4.2",
 		"title": "De kandidaat kan in een context uitleggen dat populaties divergeren door genetic drift, mutatie en selectie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4058,7 +3873,6 @@
 		"id": "fafbbe28-b926-4e7f-a500-f854bbe2c9b4",
 		"prefix": "F2.4.3",
 		"title": "De kandidaat kan in een context uitleggen dat soorten ontstaan door reproductieve isolatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -4068,7 +3882,6 @@
 		"id": "c19aa139-b8f9-431c-b3d4-3bc98e88dc4f",
 		"prefix": "F2.4.4",
 		"title": "De kandidaat kan in een context uitleggen hoe de verwantschap en afstamming van soorten weergegeven kan worden in de vorm van een cladogram.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -5356,7 +5169,6 @@
 		"id": "aa6c62cb-7edf-4157-a5a2-c2e359e38849",
 		"prefix": "D1.7a.1",
 		"title": "De kandidaat kan eigen en andermans beelden van de regio Zuid-Amerika beschrijven en aangeven hoe die beelden tot stand komen en de invloed van beeldvorming op ruimtelijk handelen illustreren aan de hand van voorbeelden ten aanzien van Zuid-Amerika",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"42a530ea-fa30-4c34-a402-85bd0a3b30e4"
@@ -5366,7 +5178,6 @@
 		"id": "c2533654-0c74-40d0-817d-7567f5d11293",
 		"prefix": "D1.7a.2",
 		"title": "De kandidaat kan Zuid-Amerik beschrijven aan de hand van liggingskenmerken, typeren met behulp van fysisch-geografische en sociaalgeografische indicatoren, Zuid-Amerik afbakenen als formele regio aan de hand van verschillende criteria",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"42a530ea-fa30-4c34-a402-85bd0a3b30e4"
@@ -5403,7 +5214,6 @@
 		"id": "80722216-825e-4882-94ef-0df70d0f513d",
 		"prefix": "D1.7c.1a",
 		"title": "De kandidaat kan het ontwikkelings- en democratiseringsporces vanaf de jaren negentig op hoofdlijnen beschrijven in vergelijking met de voorgaande politieke ontwikkelingsfasen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -5412,7 +5222,6 @@
 	{
 		"id": "fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
 		"title": "De kandidaat kan de verstedelijkingsproblematiek beschrijven en analyseren en hierbij historische, economische, politieke en sociaal culturele factoren betrekken.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -5421,7 +5230,6 @@
 	{
 		"id": "160be35e-7518-4fb5-9746-89cd5b10e677",
 		"title": "De kandidaat kan de gevolgen van infrastructurele ontsluiting benoemen, waarbij voor- en nadelen op verschillende schaalniveaus en voor verschillende betrokkenen aan bod komen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -5430,7 +5238,6 @@
 	{
 		"id": "b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
 		"title": "De kandidaat kan de veranderende rol van Zuid-Amerika in de mondiale economie vanaf de jaren negentig beschrijven en verklaren, waarbij aandacht wordt besteed aan het belang van exportgewassen, grondstoffen- en energieproductie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -5439,7 +5246,6 @@
 	{
 		"id": "b129fee1-d5b3-452c-a157-02905344258d",
 		"title": "De kandidaat kan de verschillende toekomstscenario’s voor Zuid-Amerika schetsen en beargumenteren op basis van de bestudeerde ontwikkelingsprocessen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -5789,7 +5595,6 @@
 		"id": "9e59721f-052d-4597-819b-58f7fb3fb73c",
 		"prefix": "D1.9a.1",
 		"title": "De kandidaat kan een eigen en andermans beelden van Brazilië beschrijven en aangeven hoe die beelden tot stand komen",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5799,7 +5604,6 @@
 		"id": "171f2e3b-220b-4c38-9627-c4c243292b9c",
 		"prefix": "D1.9a.2a",
 		"title": "De kandidaat kan Economische, sociaal-culturele en politieke kenmerken van Brzalilë beschrijven en aan elkaar relateren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5809,7 +5613,6 @@
 		"id": "112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
 		"prefix": "D1.9a.2b",
 		"title": "De kandidaat kan het verstedelijkingsproces in Brazilië en de problematiek die dit met zich meebrengt beschrijven en analyseren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5819,7 +5622,6 @@
 		"id": "e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
 		"prefix": "D1.9a.2c",
 		"title": "De kandidaat kan regionale verschillen t.a.v. genoemde kenmerken binnen Brazilië beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5828,7 +5630,6 @@
 	{
 		"id": "89e22bea-f51a-46ea-bd2f-9748a9261694",
 		"title": "De kandidaat kan verschillende toekomstscenario’s van Brazilië beschrijven en onderbouwen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5838,7 +5639,6 @@
 		"id": "9ec21827-2435-436f-b1da-f9159d1da076",
 		"prefix": "D1.9a.3",
 		"title": "De kandidaat kan de (ruimtelijke spreiding van) klimaten, landschappen en vegetatietypen in Brazilië beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5847,7 +5647,6 @@
 	{
 		"id": "a81aa608-eea8-4809-be8d-a4c69e8522da",
 		"title": "De kandidaat kan het ontstaan en de ruimtelijke spreiding van natuurlijke hulpbronnen in Brazilië op hoofdlijnen beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5856,7 +5655,6 @@
 	{
 		"id": "1caec618-935d-473b-a189-8aabcce5038e",
 		"title": "De kandidaat kan de gebruiksmogelijkheden voor de mens van verschillende landschappen in Brazilië beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
@@ -5866,7 +5664,6 @@
 		"id": "7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
 		"prefix": "D1.9b.1",
 		"title": "De kandidaat kan de economische en politieke positie van Brazilië binnen Zuid-Amerika op hoofdlijnen beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
@@ -5876,7 +5673,6 @@
 		"id": "40751db4-5e29-42f8-8526-e70a4156a83e",
 		"prefix": "D1.9b.2a",
 		"title": "De kandidaat kan de veranderende economische, culturele en politieke relaties van Brazilië met andere grootmachten in de wereld op hoofdlijnen beschrijven.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
@@ -5886,7 +5682,6 @@
 		"id": "34499fbb-80b6-4c42-999a-ca02668a5346",
 		"prefix": "D1.9b.2b",
 		"title": "De kandidaat kan de effecten van globalisering op de Braziliaanse samenleving beschrijven en verklaren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
@@ -5896,7 +5691,6 @@
 		"id": "ceba831a-c62d-4ef0-83b3-e00f91adf105",
 		"prefix": "D1.9b.2c",
 		"title": "De kandidaat kan verschillende toekomstscenario’s voor de positie van Brazilië in de wereld beschrijven en onderbouwen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
@@ -5991,5 +5785,245 @@
 		"examenprogramma_id": [
 			"c0a6d118-9998-40bb-883a-4ae007397235"
 		]
+	},
+	{
+		"id": "3aba2567-78d7-404e-bfde-5316c33d01b9",
+		"title": "De kandidaat kan (informatievaardigheden): de aangeboden bronnen beoordelen op bruikbaarheid en relevantie",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "03e2b5ae-8aaa-4452-b1ec-c3e4666a7785",
+		"title": "De kandidaat kan (informatievaardigheden) de aangeboden bronnen met voorbeelden toelichten",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "b39d4cb8-95ff-4ef7-b611-9bf407128f00",
+		"title": "De kandidaat kan (informatievaardigheden): feiten van meningen onderscheiden",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "02ac04f5-3a06-40e8-ad09-10cb8f6121e4",
+		"title": "De kandidaat kan (informatievaardigheden) gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "c2e113ce-0611-44a9-83ca-a9661472e3c5",
+		"title": "De kandidaat kan (informatievaardigheden) het toepassen van concepten in nieuwe contexten (transfer).",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "82a001e2-6aa5-4692-8ea7-d1972380b214",
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) rekenregels optellen, aftrekken, vermenigvuldigen en delen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "6b7a9fb6-d5c4-44c8-9a44-7313bcdde605",
+		"title": "De kandidaat kan positieve en negatieve getallen, breuken en decimalen rekenkundig en/of grafisch onderbouwen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "ddb767f8-0d90-42fb-9648-2c08e76baa00",
+		"title": "De kandidaat kan procenten, promillen en perunages rekenkundig en/of grafisch onderbouwen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "4522442a-c5a0-4048-85b2-ad40caec976d",
+		"title": "De kandidaat kan onderscheid procentuele mutatie en procentpunt verandering onderbouwen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "100c2b25-4578-416a-b83c-1e13d13fe291",
+		"title": "De kandidaat kan verhoudingen en schatting rekenkundig en/of grafisch onderbouwen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "fee18b7d-79b1-4b50-8082-690d7d4e1563",
+		"title": "De kandidaat kan rekenen met grote en kleine getallen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "d0831486-1287-4c6c-9b5e-cfa7a4dafc99",
+		"title": "De kandidaat kan afrondingsregels rekenkundig en/of grafisch onderbouwen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "e7c98dcd-4926-4370-a193-9b0d652bedcf",
+		"title": "De kandidaat kan lineaire vergelijkingen (eerstegraadsvergelijkingen), beschrijvende statistiek en grafieken toepassen op economische relaties",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "e37d8c33-b14d-4124-ac66-7761c230fb24",
+		"title": "De kandidaat kan oplossen van een stelsel van vergelijkingen via substitutie",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "ce8e8322-8cc1-4ac0-8027-9762118a20aa",
+		"title": "De kandidaat kan werken met assenstelsels (X en Y) en kwadranten",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "d5647da2-87a6-444b-9e66-fca6ff3d817b",
+		"title": "De kandidaat kan oppervlaktes arceren",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "e1381c2b-9c08-4a1e-86ae-c6765de2d346",
+		"title": "De kandidaat kent indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "e06c7740-d797-48ed-8739-e56ed9e17e6f",
+		"title": "De kandidaat kent diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "ebfc5c74-894a-425f-873c-1e28d813c79b",
+		"title": "De kandidaat kent tabellen: rijen/kolommen, indeling in klassen (decielen e.d.), cumuleren",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "3e50e1ac-54dd-449d-9e88-c45e66a8b0f0",
+		"title": "De kandidaat kent gemiddeldes: gewogen en ongewogen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "650cd69c-ad31-48ba-9486-054c72f8b2cf",
+		"title": "De kandidaat (standpuntbepaling) kent eventuele botsing van belangen",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "adaf1d55-ad6c-49cc-aa6e-47cc1b38ec0d",
+		"title": "De kandidaat (standpuntbepaling) kent oplossingen voor / reacties op mogelijk ongewenst gedrag",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "bff36d1e-285b-4e87-956a-31b3a59a0d66",
+		"title": "De kandidaat ken een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro)",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "59cbb979-dd49-47f1-8614-cdeb0e62e51d",
+		"title": "De kandidaat kan een standpunt relativeren / weerleggen (argumenten contra)",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "00f71676-06cc-4b68-ad05-3aa83ef89ddf",
+		"title": "De kandidaat kan afwegingsvraagstukken beschrijven.",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "6c74e441-9e71-4a51-9223-f3f95f391b07",
+		"title": "De kandidaat kan (strategisch inzicht) het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen/een model)",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "c36d0f1f-3aa6-4405-bed5-6be55368c0c9",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "d4ece646-5fb3-4f20-8f00-8e4124bf33f3",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "d4c3fc58-5128-4783-98d7-ab375b3d4219",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
+	},
+	{
+		"id": "278f03bd-26a7-4837-a482-66987562f295",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"description": ""
 	}
 ]
