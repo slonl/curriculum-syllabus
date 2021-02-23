@@ -6025,5 +6025,1235 @@
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A1/1/1.1a",
+		"examenprogramma_eindterm_id": [
+			"581e037a-56f8-455d-b57b-f8712efdc6da"
+		],
+		"title": "De kandidaat kan in relatie tot een gegeven (onderzoeks)vraag informatie beoordelen en daarbij de informatiebehoefte noemen.",
+		"id": "71cff884-6e6b-43db-8944-d75bb967f75c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A1/1/1.1b",
+		"examenprogramma_eindterm_id": [
+			"581e037a-56f8-455d-b57b-f8712efdc6da"
+		],
+		"title": "De kandidaat kan in relatie tot een gegeven (onderzoeks)vraag informatie beoordelen en daarbij beschikbare en relevante informatiebronnen analyseren.",
+		"id": "73c6cd3e-a970-4436-a602-241beea6dc5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A1/1/1.2a",
+		"examenprogramma_eindterm_id": [
+			"581e037a-56f8-455d-b57b-f8712efdc6da"
+		],
+		"title": "De kandidaat kan verworven en/of gegeven informatie vanuit een gegeven (onderzoeks)vraag analyseren en daarbij informatie beoordelen op bruikbaarheid, betrouwbaarheid en representativiteit.",
+		"id": "28eaf755-318b-4397-b092-519a79e05c31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A1/1/1.2b",
+		"examenprogramma_eindterm_id": [
+			"581e037a-56f8-455d-b57b-f8712efdc6da"
+		],
+		"title": "De kandidaat kan verworven en/of gegeven informatie vanuit een gegeven (onderzoeks)vraag analyseren en daarbij informatie analyseren (eventueel rekenkundig), mede met behulp van ICT.",
+		"id": "2986c1bf-d0c3-4566-b784-ddc2069208a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/1a",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan verschillende typen (onderzoeks)vragen noemen en zelfstandig (onderzoeks)vragen opstellen en daarbij onderscheid maken tussen beschrijvende/beeldvormende (onderzoeks)vragen.",
+		"id": "8a20b720-23c0-4b96-8eca-c09118f3818b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/1b",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan verschillende typen (onderzoeks)vragen noemen en zelfstandig (onderzoeks)vragen opstellen en daarbij onderscheid maken tussen analytisch/verklarende (onderzoeks)vragen.",
+		"id": "1ad45617-2372-4a8d-9851-143695699371",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/1c",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan verschillende typen (onderzoeks)vragen noemen en zelfstandig (onderzoeks)vragen opstellen en daarbij onderscheid maken tussen (onderzoeks)vragen met het oog op waardering/standpuntbepaling.",
+		"id": "b8dfea9b-f006-4192-be90-dc36b06f847c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/2a",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan op basis van consistente redeneringen conclusies opstellen ten aanzien van een (onderzoeks)vraag en deze uitleggen.",
+		"id": "d58ed720-f410-4126-9b62-530bfd7fd2d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/2b1",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan op basis van consistente redeneringen een advies uitbrengen en dit uitleggen en daarbij onderscheid maken tussen gegevens (data) en informatie; feiten en meningen; oorzaak en gevolg; probleem en oplossing.",
+		"id": "1d3e2ad6-a35a-4954-a6be-7eb17bdfb858",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/2b2",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan op basis van consistente redeneringen een advies uitbrengen en dit uitleggen en daarbij onderscheid maken tussen in het geding zijnde waarden noemen; eigen opvattingen analyseren; mogelijke consequenties van een standpunt beoordelen en een beargumenteerd standpunt opstellen.",
+		"id": "f2a6f590-b4f1-4f12-b7ba-48f9fc5c3f95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/3a",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met verbale, grafische tabellarische en wiskundige/rekenkundige gegevens analyseren, mede met gerbuikmaking van ICT.",
+		"id": "2cf0107a-1291-4a66-b5db-cbe6e3a668f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/3b1",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met de gegevens rekenkundig en/of grafisch uitleggen - basisrekenvaardigheden in bedrijfseconomische vraagstukken zoals: rekenregels optellen, aftrekken, vermenigvuldigen, delen; positieve en negatieve getallen/breuken/decimalen; procenten, promillen en percentages; onderscheid procentuele verandering en procentpunt verandering.",
+		"id": "61840d27-a8c9-4402-9f27-90eab1f75430",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A5/5/3b2",
+		"examenprogramma_eindterm_id": [
+			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
+		],
+		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend de gegevens rekenkundig en/of grafisch uitleggen - vergelijkingen, beschrijvende statistiek en grafieken in bedrijfseconomische vraagstukken zoals werken met eerstegraagdsvergelijkingen; werken met assenstelsels (X en Y); waarden bepalen en grafieken tekenen en/of bewerken; berekeningen maken op basis van grafieken; indexcijfers; diagrammen; tabllen: rijen/kolommen; machten; gemiddelden: gewogen en ongewogen.",
+		"id": "ace69b8c-f993-4340-b42e-b9f6bf930569",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A6/9/1",
+		"examenprogramma_eindterm_id": [
+			"28c8c764-425b-469d-a2dc-a0101d6767c0"
+		],
+		"title": "De kandidaat kan bedrijfseconomische perspectieven noemen die de diverse betrokkenen bij de organisatie kunnen hebben.",
+		"id": "e006a482-ff4b-4d01-a7a2-07b0d7d5ac5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinA/A6/9/2",
+		"examenprogramma_eindterm_id": [
+			"28c8c764-425b-469d-a2dc-a0101d6767c0"
+		],
+		"title": "De kandidaat kan bedrijfseconomische belangen noemen die uit de verschillende perspectieven kunnen voortvloeien.",
+		"id": "cd2e458c-1eee-45d9-aa4e-b720597cf9d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/1a",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan bij de keuze voor een opleiding (niet-)financiële overwegingen als een opleiding is een investeringsvraagstuk.",
+		"id": "7a15fe78-f49e-4e09-968c-e43aeac5a0c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/1b",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan bij de keuze voor een opleiding (niet-)financiële overwegingen als het belang van een opleiding voor het individu en voor de samenleving uitleggen.",
+		"id": "80c5343c-d252-4493-b53a-0895a54e7a54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan financiële keuzes met betrekking tot verzekeren, lenen, sparen en beleggen uitleggen en berekenen.",
+		"id": "309d0759-dd45-45e3-aa5f-e86fa9d9294b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.1",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van zich wel of niet verzekeren uitleggen.",
+		"id": "bde0280f-8ca3-4c82-b225-501479b681aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.2",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan het onderscheid tussen een levensverzekering en een schadeverzekering noemen.",
+		"id": "dea38f51-6085-4f4b-9a64-ca775a26a011",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.3",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de verschillen tussen consumptief krediet en hypothecair krediet noemen.",
+		"id": "908f58ae-0187-4e3f-b096-5ac983319637",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.4",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de financiële gevolgen van krediet voor de kredietnemer noemen.",
+		"id": "c205f91f-191a-4124-bbdf-d8860531c120",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.5",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de periodieke interestbedragen, de periodieke aflossingsbedragen en de schuldrest bij de vormen van consumptief krediet en hypothecair krediet berekenen.",
+		"id": "827d5667-0490-4f45-9c8b-b0ec639dcc18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.6",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan het verschil tussen enkelvoudige en samengestelde interest uitleggen.",
+		"id": "9febcc3b-9773-4fe8-b266-318a539323cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.7",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de interest op basis van enkelvoudige interest berekenen.",
+		"id": "85d1e183-b60a-4e13-befc-7dcfe1b223ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.8",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de contante waarde en de eindwaarde van een kapitaal berekenen op basis van samengestelde interest.",
+		"id": "767a6358-879a-43b7-a58c-7f9db10116f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.9",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan  de voor- en nadelen van vrijwillig sparen en verplicht sparen uitleggen.",
+		"id": "8594ab2d-d39c-4db6-8fda-5dbcefa9affd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.10",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de verplichte spaarvorm van het bedrijfspensioen noemen.",
+		"id": "5acaf86c-5680-4cba-b6db-ed4d03e44ef6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.11",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de verschillende vrijwillige spaarvormen als vrij opneembaar en niet vrij opneembaar noemen.",
+		"id": "e4f68dc9-6c6e-4c09-b560-b59aec8866e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.12",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan  de vermogenstitels waarin belegd kan worden zoals aandelen- en obligaties noemen.",
+		"id": "7df30ac1-5db9-468a-aebb-90bcfbe9b8cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/2.13",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de verschillen in risico en rendement tussen de vermogenstitels uitleggen.",
+		"id": "253c8f65-8e77-4269-b118-7a1438f51de1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de keuze voor het huren of kopen van een woonhuis financieel uitleggen en berekenen.",
+		"id": "96afd9a3-5f9b-495a-b733-760273e1dbe1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3.1",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van huren vergelijken met kopen, noemen.",
+		"id": "c8db8107-5d8a-4dc8-b232-00f6700ebf1b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3.2",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de functie van de verschillende partijen op de hyptoheekmarkt noemen.",
+		"id": "b181759c-7911-423b-ad20-d39138a486b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3.3",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de vormen van hypothecair krediet: lineaire hypotheek en annuïtitenhypotheek noemen.",
+		"id": "86547464-d5a7-4838-b464-434676aa5d45",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3.4",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van de genoemde hypotheekvormen noemen en berekenen met betrekking tot de rente- en aflossingsverplichting voor de hypotheekgever.",
+		"id": "7e62503c-98a3-45b5-a897-2f7db67d1713",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/3.5",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de financiële gevolgen, inclusief de fiscale, van de genoemde hypotheekvormen voor de hypotheekgever uitleggen en berekenen.",
+		"id": "3c1c4e70-8031-43a3-8dcc-b1f5b72e1b0d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de financiële en wettelijke consequenties van samenwonen, trouwen, scheiden, schenken en erven noemen en berekenen.",
+		"id": "b124ef96-e1a6-4c82-ad84-02420cb623c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4.1",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de verschillende registratievormen voor samenwonen noemen.",
+		"id": "901e38cc-9b1c-4b47-ac09-ce5de8e42b6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4.2",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan  de verschillen tussen “huwelijkse voorwaarden” en “in -beperkte- gemeenschap van goederen” noemen.",
+		"id": "e05182c3-774b-4e16-a42d-8827a8d4fe65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4.3",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de financiële consequenties van scheiden op het gebied van scheidingsprocedure, partnerpensioenrechten, kinderalimentatie en partneralimentatie noemen en berekenen, gegeven de inhoud van de wet.",
+		"id": "002e0d42-4240-4506-80b0-a704feac6e7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4.4",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de wettelijke en fiscale consequenties inzake schenking als gevolg van de schenkovereenkomst noemen en berekenen.",
+		"id": "f235bf80-0b78-41f8-bb7c-59652918e789",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B1/11/4.5",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "De kandidaat kan de wettelijke en fiscale consequenties van erven noemen en berekenen.",
+		"id": "95b55c26-b8c3-4273-9dad-7adba1dc60f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/1",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van een arbeidsrelatie versus zelfstandig ondernemerschap beoordelen.",
+		"id": "cae722d9-8e8d-46bb-80bd-d7e2d502ad33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/2",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de rol van de ondernemer bij het (creatieve) proces voor de oprichting van een eenmanszaak uitleggen.",
+		"id": "ea9679a4-470d-4d34-b68b-444b51bfb0d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/2.1",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de benaderingswijzen van een cousation en effectuation uitleggen.",
+		"id": "68999b28-f4e6-4285-aebf-e11a3c72252b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/2.2",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de verschillende fasen noemen bij het proces van causation: marktdefinitie, segmentatie/richten en positioneren.",
+		"id": "a13e2386-3792-4db6-b8be-cc6c2ff3b64d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/2.3",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de verschillende fasen noemen bij het proces van effectuation: nieuwe markten, strategische partners toevoegen en stakeholders betrekken.",
+		"id": "c9b5bbc5-639a-40b9-8a96-4a1953e16c09",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/3",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan in de rol van ondernemer de verschillende onderdelen van een ondernemingsplan opstellen.",
+		"id": "00a66ef5-34df-4509-851c-86deeac8c1a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/3.1",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan een persoonlijk plan opstellen.",
+		"id": "94813db6-35b3-468e-900c-353020d7352e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/3.2",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan een marketingplan opstellen.",
+		"id": "bd75dac0-62fb-405f-8d08-ccb94e6f1b41",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/3.3",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan een financieel plan opstellen.",
+		"id": "c28ee899-0312-49d9-ac3d-82f6c20cb94e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B2/12/4",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "De kandidaat kan de verschillende verplichtingen met betrekking tot de opdrichting van een startende eenmanszaak door een ondernemer uitleggen.",
+		"id": "64a37680-0eae-4b5a-84c4-cc98a0762e92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan in de rol van ondernemer en/of bestuurder uitleggen wat een geschikte rechtsvorm voor de eigen organisatie is.",
+		"id": "d8a3ddfe-4784-437d-b742-93f8385d1819",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.1",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan het begrip rechtsvorm noemen.",
+		"id": "531a29c8-9850-4f9d-bd55-cc8bfd1d51e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.2",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan het verschil tussen natuurlijk persoon en rechtspersoon uitleggen.",
+		"id": "44d19ac1-07e2-422a-926f-f662802cd308",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.3",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de kenmerken van de rechtsvormen eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap, stichting en vereniging noemen met betrekking tot continuïteit, financiering, juridische aansprakelijkheid, belastingen, leiding, besluitvorming en zeggenschap.",
+		"id": "f5df8090-3856-4f84-9209-e4dd0841bfdd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.4",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de keuze voor een bepaalde rechtsvorm uitleggen.",
+		"id": "d578b76a-979f-497c-9242-635ffd88b89d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.5",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de belangrijkste bevoegdheden van de organen binnen een organisatie: bestuur, raad van commissarissen, algemene ledenvergadering en algemene vergadering van aandeelhouders noemen.",
+		"id": "b50055a3-648e-470c-a241-ce3e4f8ce615",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.6",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de redenen tot het beëindigen van een organisatie uitleggen.",
+		"id": "52746702-b31c-404e-bd36-d33273276bc5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.7",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de begrippen sureance van betaling en faillissement uitleggen.",
+		"id": "345de26d-bba7-4675-822e-c0794510432e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.8",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de gevolgen van een surseance van betaling voor de stakeholders uitleggen.",
+		"id": "7063ebef-42a0-4ce0-87b1-86ac8927b788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B3/13/1.9",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "De kandidaat kan de gevolgen van een faillessement voor de stakeholders uitleggen.",
+		"id": "4c781a02-491d-4f2e-8060-104ce8fb1496",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/1",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan de verschillende indelingscriteria voor een organisatie noemen.",
+		"id": "a07d296d-8473-46f7-ba72-5cc7760b1f8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/1.1",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan de absloute omvang en de relatieve omvang van een organisatie uitleggen en berekenen voor zover het afzet- en/of omzetaandeel betreft.",
+		"id": "80ee2a0c-44c3-4d25-8ec4-224eb67738b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/1.2",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan  het onderscheid uitleggen tussen een organisatie met een commerciële doelstelling en een organisatie met een niet-commerciële doelstelling.",
+		"id": "d46c5f94-d69c-404f-9b90-ca9640cdcc79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/2",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan het bestaansrecht van een organisatie uitleggen.",
+		"id": "964229a4-288f-4549-869a-f28e29ffd853",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/2.1",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan uitleggen in welke maatschappelijke behoeften de organisatie voorziet.",
+		"id": "ece7712b-525b-4fd1-a8c0-e0ae61dfe8cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/2.2",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan uitleggen welke kansen en bedreigingen vanuit de maatschappij op een organisatie afkomen.",
+		"id": "7fd1d0de-def4-467e-bedc-bd9faf2056b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinB/B4/14/2.3",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "De kandidaat kan de betekenis van de controleverklaring en de rol van de externe accountant in het maatschappelijk verkeer uitleggen.",
+		"id": "193f1ca5-a2b0-4942-b971-fa1bcf632fbe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/1",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de verschillende vormen van een arbeidsrelatie voor een organisatie noemen.",
+		"id": "b64b2742-f0bf-469c-aae4-86ab7c553c89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/2",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan uitleggen dat het personeel tot het human capital van de organisatie hoort.",
+		"id": "1b3a0a2f-fb29-4b5b-ae6a-ab43f45551e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/3",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de wettelijke eisen noemen opdat er sprake is van een individuele arbeidsovereenkomst.",
+		"id": "9dcb2b6f-e6ec-45fe-9978-c6bdb88b829f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/4",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de verschillen de overeenkomst van een ZZP'er en een individuele arbeidsovereenkomst uitleggen.",
+		"id": "e02333d2-0c78-444b-a4e8-e9ebb2833f79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/5",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de belangrijkste vormen van een individuele arbeidsovereenkomst noemen.",
+		"id": "1366439b-58d1-474e-8952-d6918ae1e21a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/6",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de verschillen tussen een CAO en individuele arbeidsovereenkomst noemen.",
+		"id": "aa8f0c5e-3bf9-4ed9-b5af-cd7dcd7272c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/7",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de gevolgen van wetgeving met betrekking tot ontslagrecht en Arbo voor de organisatie uitleggen.",
+		"id": "c855e15b-a596-46cb-bab4-81cdd402bb6c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/8",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan de bevoegdheden van de ondernemingsraad en van de vakbond noemen en de gevolgen ervan voor de organisatie uitleggen.",
+		"id": "a5a0c0f3-30e0-4b87-813b-5bf4fda2810d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinC/C2/16/9",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "De kandidaat kan beloningsvormen noemen.",
+		"id": "60d4e3c9-91b8-4c8c-801d-5de58b8d0bac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/1",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan de verschillende financieringsmogelijkheden voor een startende eenmanszaak analyseren.",
+		"id": "982df704-2e9e-4efe-9a32-0bd783b26068",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/1.1",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan de verschillende financieringswijzen noemen.",
+		"id": "7f628a80-b1f5-4d30-9a31-861d903dece5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/1.2",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan de voorwaarden die de financiers stellen, analyseren",
+		"id": "b5979822-5176-41ef-a423-5c3fd3910839",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/2",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan vanuit het perspectief van een organisatie de werking van de vermogensmarkt uitleggen.",
+		"id": "d489feb8-6d66-4a7c-a8c8-5dd04f12288b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/2.1",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan het belang van de vermogensmarkt voor een onderneming uitleggen.",
+		"id": "b0652483-1e31-4d87-8002-40646803ef1f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/2.2",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan de verschillen tussen de vermogenstitels noemen.",
+		"id": "ceba320b-cdca-4372-b465-42c32f61d126",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/18/2.3",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "De kandidaat kan de belangrijkste toezichthouders op de vermogensmarkt noemen en hun rol uitleggen.",
+		"id": "b9837d39-a82d-49cb-aa1b-9947b0637354",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/1",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan het verschil tussen het maatschappelijk aandelenkapitaal en het geplaatst aandelenkapitaal berekenen.",
+		"id": "a211ad92-9330-49f2-ab7e-49754ca274a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/2",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan het onderscheid tussen de nominale waarde, beurskoers, emissiekoers en intrinsieke waarde van een aandeel uitleggen.",
+		"id": "68f601e0-b18c-4a19-be63-b266cc497d99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/3",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan de invloed van het beursklimaat, de beurskoers en de toekomstverwachting op de emissiekoers uitleggen.",
+		"id": "2bcc3cea-693a-4447-bc51-cc339339e1bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/4",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan het agio op aandelen berekenen.",
+		"id": "6c341bb8-ba11-4dd8-995e-0b6ceb131a41",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/5",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan de verschillen tussen de vormen van lang vreemd vermogen, i.c. hypothecaire lening, obligatielening en onderhandse lening noemen.",
+		"id": "0f8ee92a-4acf-48ce-9d83-886a4a806181",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/19/6",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "De kandidaat kan de verschillen tussen vormen van kort vreemd vermogen, i.c. rekening-courant krediet, leverancierskrediet en afnemerskrediet noemen.",
+		"id": "2a48d1fe-f3df-4786-8768-0d5b525c6cf4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinD/D2/20/1",
+		"examenprogramma_eindterm_id": [
+			"a71428de-c563-4aa6-b71a-40109e9556a6"
+		],
+		"title": "De kandidaat kan de gevolgen  van de verhouding tussen eigen vermogen/vreemd vermogen voor het interestpercentage op vreemd vermogen en het faillissementsrisico analyseren.",
+		"id": "51a17442-a848-4db0-a64c-6de10bc2de54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinE/E2/22/1",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "De kandidaat kan de vier onderdelen van de marketingmix noemen.",
+		"id": "62d5e2c9-9390-4fc7-a22f-8abf9693d47f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinE/E2/22/2",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "De kandidaat kan de samenhang tussen de marketinginstrumenten uitleggen.",
+		"id": "7bc20bf4-a5c0-4fd9-a228-731c651ce1f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinE/E2/22/3",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van sponsoring door een organisatie noemen en uitleggen.",
+		"id": "afb413bc-d0df-4aa3-9eb0-a010f97f9a4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinE/E2/22/4",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "De kandidaat kan de verschillen tussen push- en pull-strategie noemen.",
+		"id": "d4682c35-beb8-4525-aabe-eb451fbfaeef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinE/E2/22/5",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "De kandidaat kan de verschillen tussen B2C-, B2B-, C2B- en C2C- marketing noemen en uitleggen.",
+		"id": "eec70b5d-152e-45b8-97b6-b28ed1d94fde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/23/1",
+		"examenprogramma_eindterm_id": [
+			"439b7592-f5e3-4941-a04f-341a73d6ae75"
+		],
+		"title": "De kandidaat kan de gevolgen van financiële feiten, voor de balans en winst- en verliesrekening analyseren. NB De kandidaat hoeft geen journaalposten op te stellen.",
+		"id": "688ed6c2-08f4-4f7a-963d-6d739262ed40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/23/2",
+		"examenprogramma_eindterm_id": [
+			"439b7592-f5e3-4941-a04f-341a73d6ae75"
+		],
+		"title": "De kandidaat kan de kosten op basis van gegeven uitgaven en de opbrengsten op basis van gegeven ontvangsten en vice versa, berekenen.",
+		"id": "b8abebef-f7cd-4a54-84ec-03d959e46aa1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/23/3",
+		"examenprogramma_eindterm_id": [
+			"439b7592-f5e3-4941-a04f-341a73d6ae75"
+		],
+		"title": "De kandidaat kan een beginbalans, een liquiditeitsbegroting, een exploitatiebegroting en een geprognosticeerde eindbalans ten dienste van de interne verslaggeving opstellen.",
+		"id": "cc1c201e-9802-41f3-91b3-8245a42cd3e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/23/4",
+		"examenprogramma_eindterm_id": [
+			"439b7592-f5e3-4941-a04f-341a73d6ae75"
+		],
+		"title": "De kandidaat kan de samenhang uitleggen tussen een exploitatiebegroting, een geprognosticeerde eindbalans en een liquiditeitsbegroting gegeven de beginbalans.",
+		"id": "692e8095-c308-4310-9a51-18288ef3c0ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/24/1",
+		"examenprogramma_eindterm_id": [
+			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
+		],
+		"title": "De kandidaat kan het onderscheid tussen financiële informatie en niet-financiële informatie uitleggen.",
+		"id": "8b086328-7f31-413b-a092-5b03369d57a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/24/2",
+		"examenprogramma_eindterm_id": [
+			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
+		],
+		"title": "De kandidaat kan uitleggen welke niet-financiële informatie als managementinformatie relevant is op het terrein van marktontwikkelingen, innovatie, klanten, efficiency en de kwaliteit van bedrijfsprocessen.",
+		"id": "9522cbea-36f5-40d2-a72c-df0bcbe092bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F1/24/3",
+		"examenprogramma_eindterm_id": [
+			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
+		],
+		"title": "De kandidaat kan kritische succesfactoren uitleggen aan de hand van prestatie-indicatoren.",
+		"id": "89b0ddf3-2e85-47d8-aa5a-d07eb9333b7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/1",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan de omzet berekenen op basis van een gegeven verkoopprijs.",
+		"id": "e9b16fe0-821e-4a84-a9bb-56f0d294e01d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/2",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan uitleggen wat het verschil is tussen constante en variabele kosten.",
+		"id": "552f2c47-7012-4e62-91a4-710d050d6ced",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/3",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan de break-even afzet en de break-even omzet berekenen.",
+		"id": "e947be14-b82c-4ea5-a64a-19823232c53e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/4",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan berekenen hoe groot de verkoopprijs inclusief btw is als de verkoopprijs exclusief btw bekend is (en vice versa).",
+		"id": "a7b30b6f-efd7-41a6-a128-edd9dbb01712",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/5",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan het onderscheid uitleggen tussen het periodetoerekeningstelsel en het kasstelsel.",
+		"id": "f893be37-2983-42b1-8479-d204abc80ae0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/6",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan financiële opbrengsten en kosten berekenen.",
+		"id": "e4e6f796-8f61-4cb1-84eb-85e50807f3d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/7",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan het begrote bedrijfsresultaat en het begrote resultaat voor en na winstbelastingen berekenen.",
+		"id": "710eb90d-d0ae-4fb5-bc41-a36622be9ac2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/8",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan het gerealiseerde bedrijfsresultaat en het gerealiseerde resultaat voor en na winstbelastingen berekenen.",
+		"id": "1193992c-1060-42e6-bf03-231503dbd372",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/9",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan de begrote en gerealiseerde resultaten berekenen.",
+		"id": "ded2cf08-5902-4356-9377-f1b7a518dbb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/10",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan berekenen of het resultaat na winstbelasting voldoende is om ondernemersbeloning en aflossingen op te brengen.",
+		"id": "7d48f43a-b175-4e51-b117-d2d36d25ba34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/11",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan berekenen welke invloed een verandering van de prijzen, hoeveelheden en kosten hebben op het bedrijfsresultaat.",
+		"id": "cff5a900-2f2c-4723-9c26-2c4d37da0f75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinF/F2/25/12",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "De kandidaat kan de winstverdeling opstellen.",
+		"id": "7f2ba787-334e-4ceb-ba19-f1b1b4e5e280",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/1",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan uitleggen wat de verschillende posten op de balans en winst- en verliesrekening van de jaarrekening inhouden.",
+		"id": "3ed60930-d1df-4d02-897b-03b6b3d173d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/2",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan uitleggen wat de relevantie is van “niet uit de balans blijkende verplichtingen en risico’s”.",
+		"id": "f7fe13ee-374d-47a5-94d6-9821a6815f57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/3",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan kengetallen ter beoordeling van de onderneming berekenen: liquiditeitsratio's: current ratio, quick ratio; - solvabiliteitsratio's: EV/VV, VV/TV; - rentabiliteitsratio's: resultaat per aandeel, REV, RTV, IVV, cash flow per aandeel.",
+		"id": "bb857dab-e9b2-4488-8638-e4605e746cc7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/4",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan uitleggen welke voor- en nadelen zijn verbonden aan het hanteren van kengetallen.",
+		"id": "c84efac3-8f51-40c3-bb63-549dc7a6ee3d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/5",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan aan de hand van kengetallen van twee opeenvolgende balansen en/of winst- en verliesrekeningen de ontwikkeling analyseren van de organisatie op het terrein van de financiële structuur, liquiditeit, solvabiliteit, rentabiliteit en cashflow.",
+		"id": "bf6d3d7f-46c7-4ce1-a388-65af5a41cfe3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/H/DomeinG/26/6",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "De kandidaat kan de betekenis van de accountantsverklaring en de rol van de externe accountant in het maatschappelijk verkeer uitleggen.",
+		"id": "bd964f12-ed05-4907-bb1a-f1687d926e51",
+		"unreleased": true
 	}
 ]
