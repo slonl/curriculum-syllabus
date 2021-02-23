@@ -19,6 +19,7 @@
 			"properties": {
 				"description": { "type": "string" },
 				"ce_se": { "type": "string" },
+				"prefix": { "type": "string" },
 				"syllabus_specifieke_eindterm_id" : {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
