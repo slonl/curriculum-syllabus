@@ -3,7 +3,6 @@
 		"id": "bee44e51-7a8a-409c-80f3-544929057fc4",
 		"prefix": "B1.1",
 		"title": "DNA, nucleïnezuren, helixstructuur, basenparing, nucleotide, enkelstrengs en dubbelstrengs DNA, chromosomen, nucleosomen, histonen, kernDNA, mitochondriaal en chloroplast DNA, RNA, genetische code, plasmide, primer, PCR, sequencen, restrictie-enzym, repetitief DNA.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -13,7 +12,6 @@
 		"id": "b3e6e1c9-6209-46fd-936e-3c3a8306f351",
 		"prefix": "B1.2",
 		"title": "eiwitsynthese, aminozuur, primaire, secundaire, tertiaire en quaternaire structuur, proteïne, peptidebinding, transcriptie, translatie, mRNA, tRNA, rRNA, cytoplasma, ribosoom, golgi-systeem, (ruw) endoplasmatisch reticulum, tripletcode, codon, anticodon, coderende streng, afleesrichting, template/matrijsstreng, DNA-polymerase, startcodon, stopcodon, plasmide.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"25d34c29-2d42-4f27-b903-b6c28928c016"
@@ -23,7 +21,6 @@
 		"id": "ed610f45-c8f8-49b7-b09e-c03333174738",
 		"prefix": "B2.1",
 		"title": "homeostase, prokaryoot, eukaryoot, virus, bacterie, plasmide, celkern, kernlichaampje, kernporie, chromosoom, celwand, celmembraan, vacuole, cytoplasma, grondplasma, cytoskelet, centriolen, mitochondrie, (ruw) endoplasmatisch reticulum, golgi-systeem, ribosoom, lysosoom, chloroplast, chlorofyl, plastide, ciliën, flagellen, terugkoppeling, receptoreiwit, effector, cascade, ionenpomp, dynamisch evenwicht.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -33,7 +30,6 @@
 		"id": "f8679993-4bea-484a-b037-ff6f7d735889",
 		"prefix": "B2.2",
 		"title": "transport, diffusie, osmose, semi-permeabel membraan, selectief permeabel, fosfolipiden, hydrofoob, hydrofiel, receptoreiwit, ionentransport, ionenpomp, isotonisch, hypotonisch, hypertonisch, plasmolyse, turgor, osmotische druk, osmotische waarde, waterpotentiaal, actief transport, passief transport, endo- en exocytose, cytoplasmastroming, motoreiwit, cytoskelet.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -43,7 +39,6 @@
 		"id": "ae904615-f8d5-49a2-8fe9-bf99929f6c5a",
 		"prefix": "B2.3",
 		"title": "assimilatie, dissimilatie, autotroof, heterotroof, fotosynthese, C-assimilatie, chloroplast, licht- en donkerreactie, chemosynthese verbranding, aeroob, anaeroob, glycolyse, citroenzuurcyclus, oxidatieve fosforylering, gisting, alcohol, melkzuur, methaan, ADP en ATP, NAD, NADP, bouwstoffen, brandstoffen, reservestoffen, enzymen, fosfolipiden, tussencelstof, koolhydraten (mono-, di- en polysachariden, zetmeel, glycogeen, cellulose), vet (vetzuren en glycerol), eiwit, aminozuren, DNA, recombinant-DNA, pH, denaturatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
@@ -53,7 +48,6 @@
 		"id": "53f6fb02-1ebc-4531-a10a-e0416fae358b",
 		"prefix": "B3.1",
 		"title": "orgaan, hart, hartkleppen, slagader, ader, haarvat, lymfesysteem, huidmondjes, hout- en bastvaten, wortelharen, longen, luchtpijp, bronchiën, longblaasjes, kieuwen, tracheeën, huidmondjes, slokdarm, maag, twaalfvingerige darm, alvleesklier, lever, galblaas, dunne darm, dikke darm, endeldarm, darmvlokken, kring- en lengtespieren, nieren, nefron, zweetklieren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -63,7 +57,6 @@
 		"id": "2c5a5829-deb7-465a-a6fe-044416c3f89a",
 		"prefix": "B3.2.4",
 		"title": "fotosynthese, autotroof, heterotroof, (an)organische stoffen, chloroplasten, netto fotosynthesereactie, voortgezette assimilatie, beperkende factoren.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -73,7 +66,6 @@
 		"id": "c7518196-ad48-4b1b-a662-8eab7de491a5",
 		"prefix": "B3.3",
 		"title": "ademhaling, gaswisseling, ventilatiebewegingen, longcapaciteit, vitale capaciteit, dode ruimte, diffusie, wet van Fick, CO2-concentratie, O2-concentratie, buffers van hemoglobine en HCO3-, dissimilatie, assimilatie, beperkende factor.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -83,7 +75,6 @@
 		"id": "abed141e-acbe-470a-bcb2-a75d4ff0c332",
 		"prefix": "B3.4",
 		"title": "vertering, mechanische en chemische vertering, darmperistaltiek, voedingsstoffen, verteringssappen, gal, verteringsenzymen voor koolhydraten, eiwitten, vetten, vitamines, pH, temperatuur, verteringsproducten, emulgeren, resorptie, darmbacteriën.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -93,7 +84,6 @@
 		"id": "976a72e2-4c1a-45f9-882c-6e35f8b77c31",
 		"prefix": "B3.5",
 		"title": "uitscheiding, waterhuishouding, ultrafiltratie, reabsorptie/terugresorptie, voorurine, osmotische waarde, ADH, ureum, urine, buffers van HCO3-, galzouten, galkleurstoffen, zweet.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -103,7 +93,6 @@
 		"id": "b9a0188d-0361-42d1-90e0-02556a1aac0b",
 		"prefix": "B3.6",
 		"title": "transport, open en gesloten bloedsomloop, enkele en dubbele bloedsomloop, grote bloedsomloop, kleine bloedsomloop, embryonale bloedsomloop, bloedplasma, weefselvloeistof, lymfe, beenmerg, bloedsamenstelling, rode bloedcellen, witte bloedcellen, bloedplaatjes, hartslagfrequentie, slagvolume, sinusknoop, AV-knoop, bundel van His, bloeddruk, diastole, systole, zuurstoftransport en koolstofdioxidetransport, voedings- en afvalstoffen, Bohr-effect, bufferende stoffen, HCO3-, hemoglobine, myoglobine, bloedstolling, cholesterol, tegenstroomprincipe, filtratiedruk, colloïd-osmotische druk, verdampingsstroom, cohesie, adhesie, worteldruk, oedeem.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
@@ -113,7 +102,6 @@
 		"id": "9d10f7f3-b595-4205-a1bb-1909f0526077",
 		"prefix": "B4.1",
 		"title": "homeostase, zenuwstelsel, hormoonstelsel, receptoren, inwendig en uitwendig milieu, regelkring, positieve en negatieve terugkoppeling, dynamisch evenwicht, receptoren in celmembranen en cytoplasma, osmotische waarde, pH, temperatuur, chemische samenstelling, O2-concentratie, CO2-concentratie, buffers van hemoglobine en HCO3-, glucoseconcentratie, waterhuishouding , chemische en drukreceptoren in de aorta, pCO2, pO2.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -123,7 +111,6 @@
 		"id": "7008b962-043f-4c33-ac04-ac93ecc5d98a",
 		"prefix": "B4.2",
 		"title": "hormonale regulatie, hormoonklieren, hypofyse, hypothalamus, schildklier, nieren, bijnieren, ovaria, testes, eilandjes van Langerhans, exocrien, endocrien, doelwitorganen, receptor, hormoonconcentratie, insuline, glucagon, adrenaline, schildklierhormoon, spijsverteringshormonen, EPO.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -133,7 +120,6 @@
 		"id": "0f7079c0-6928-4e8b-be13-c6961a8824be",
 		"prefix": "B4.3",
 		"title": "neurale regulatie, centraal zenuwstelsel, perifeer zenuwstelsel, grote en kleine hersenen, centra in de hersenschors, witte stof, grijze stof, hersenstam, ruggenmerg, autonoom (vegetatief) zenuwstelsel, animaal zenuwstelsel, ortho- en parasympatisch, sensorische, schakel- en motorische neuronen, cellen van Schwann, myelineschede, synaps, Na/K-pomp, impulsgeleiding, saltatoire geleiding, reflexboog, neurotransmitter, rustpotentiaal, actiepotentiaal, prikkeldrempel, refractaire periode, exciterend, inhiberend, prikkels, mechanische, chemische, temperatuur-, licht-, tast- en pijnreceptoren",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
@@ -143,7 +129,6 @@
 		"id": "f5c21f9c-30d9-4d0c-8e2f-f230a5fff314",
 		"prefix": "B5.1",
 		"title": "afweer, huid en slijmvliezen, bloed, lymfe, milt, lymfeknopen, humorale en cellulaire respons, macrofagen, T- en B-cellen, mediatoren, antigenen en antistoffen, lichaamseigen, lichaamsvreemd, MHCI en MHCII receptoren, natuurlijke en kunstmatige immuniteit, actieve en passieve immuniteit, vaccinatie, transplantatie, bloedtransfusie, AB0systeem, resusfactor, donor, acceptor, mechanische en chemische afweer van planten, resistentie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cea5ad1f-312a-4255-a1f4-c796532152b4"
@@ -153,7 +138,6 @@
 		"id": "baf7d76b-7500-448a-ab9b-d7a657b81a8d",
 		"prefix": "B8.1",
 		"title": "energiestroom, producent, consument, reducent, trofische niveaus, foto- en chemo-autotroof, heterotroof, (an)organische stoffen, BPP, NPP, productiviteit, fossiele brandstof, biobrandstof, biomassa.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -163,7 +147,6 @@
 		"id": "4ff4ebf1-19a4-4fca-9992-efba3c3e396e",
 		"prefix": "B8.2",
 		"title": "kringloop, fotosynthese, dissimilatie, (de)nitrificatie, ammonificatie, stikstofbinding, (an)organische stof, uitspoeling, eutrofiering, biomassa, broeikaseffect, broeikasgassen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -173,7 +156,6 @@
 		"id": "851d03b2-b549-40aa-948d-e2c78d04624c",
 		"prefix": "B8.3",
 		"title": "dymamiek en evenwicht, niche, microklimaat, biodiversiteit, migratie, exoot",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8a581b3-c05c-42db-9c0b-d935da62334f"
@@ -183,7 +165,6 @@
 		"id": "7dbc6cb4-da1b-4241-8bdd-3cb474a79bac",
 		"prefix": "C1.1",
 		"title": "genexpressie, chromosoom, gen, DNA, RNA, eiwit, fenotype, genetische code, startcodon, stopcodon, transcriptiefactor, activator, RNA-polymerase, splicing, introns, exons, nucleosomen, niet-coderend DNA, cDNA, knock-out-gen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -193,7 +174,6 @@
 		"id": "f623e528-e5aa-4706-af47-d5aec074d368",
 		"prefix": "C1.2",
 		"title": "celdifferentiatie, genoom, stamcellen, celtype, tussencelstof, apoptose, lysosoom, pluripotent, omnipotent, kanker.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a429bb50-fe34-4c63-966f-0729283f6914"
@@ -203,7 +183,6 @@
 		"id": "771350fe-161d-4338-a478-d120a80169a2",
 		"prefix": "C3.1",
 		"title": "dynaiek en evenwicht, successie, pioniersoort, climaxecosysteem, gradiëntecosysteem, indicatorsoort, biodiversiteit, genenpool, concurrentie, draagkracht, tolerantiegrenzen, exoot, omslagpunt, groeicurves",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
@@ -213,7 +192,6 @@
 		"id": "6c92a443-68a1-4422-b49b-ea47d3831efd",
 		"prefix": "D1.1",
 		"title": "genregulatie en interactie met (a)biothische factoren, genoom, structuurgenen, regulatorgenen, recombinant DNA, proto-oncogenen, enzymen, virus, iRNA/RNAi, promotor, operator, repressor, suppressor, epigenetisch, cisgeen, transgeen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
@@ -223,7 +201,6 @@
 		"id": "bec978f5-56c8-4046-9764-a6d4a06fc5c1",
 		"prefix": "D2.1",
 		"title": "celcommunicatie en interactie met (a)biotische factoren, signaalstoffen, second messenger, synaps, cell junctions, receptor, respons, signaalcascade, Na/K-pomp.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"002574b6-a3d3-4f1c-927d-8d8390a52068"
@@ -233,7 +210,6 @@
 		"id": "272f7b4e-8293-4fb0-9aeb-b7a4a6927842",
 		"prefix": "D5.1",
 		"title": "voedselrelatie, trofische niveaus, predatie, vraat, signaalstoffen, symbiose, parasitisme, mutualisme, commensalisme.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -243,7 +219,6 @@
 		"id": "cdf02a75-82bc-450b-a565-b722a690ad59",
 		"prefix": "D5.2",
 		"title": "Interactie met (a)biothische factoren, microklimaat, niche, indicatorsoort, beperkende factor, tolerantie, optimum, persistent, biologisch afbreekbaar, habitat.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b737b775-4f95-4517-9966-c8971a34c8e4"
@@ -253,7 +228,6 @@
 		"id": "3bcf46ab-3c65-4597-9176-d8a39314fc79",
 		"prefix": "E3.1",
 		"title": "voortplanting, levenscyclus, geslachtelijke en ongeslachtelijke voortplanting, voortplantingsorganen van eukaryoten, gameten, spore, mitose, meiose, haploïd, diploïd, polyploïd, bevruchting, eicel, spermacel, follikel, gele lichaam, zygote, klievingsdeling, poollichaampje, embryo, placenta, geslachtshormonen, FSH, LH, oestrogeen, progesteron, testosteron, HCG, menstruatiecyclus, anticonceptie, kunstmatige inseminatie, in vitro fertilisatie, embryonale ontwikkeling, klonen.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -263,7 +237,6 @@
 		"id": "cdfde1b3-1762-4cf5-9a5e-664f5a53dd33",
 		"prefix": "E3.2",
 		"title": "erfelijke eigenschap, genoom, autosomen, X- en Y-chromosomen genotype, fenotype, allel, gen, mono- en dihybride kruising, (onvolledig) dominant, recessief, intermediair, multipele allelen, lethale factor, gekoppelde genen, stamboom, mitochondriaal DNA, epigenetica, methylering.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7548ae2f-2150-4b52-96c6-893a81b2f709"
@@ -273,7 +246,6 @@
 		"id": "82fbede5-934b-407f-ad33-3d31a74a0908",
 		"prefix": "F1.1",
 		"title": "DNA, genetische code, genotype, fenotype",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -283,7 +255,6 @@
 		"id": "90b969fa-36d9-4db3-ab41-c1023c78019a",
 		"prefix": "F1.2",
 		"title": "mutatie, chromosoom, mutagene stof, mutagene straling puntmutatie, deletie, insertie, genoommutatie, gen, allel, genetische modificatie, DNA-repairsysteem, leesraamverschuiving/frame shift mutatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -293,7 +264,6 @@
 		"id": "4dbcc50c-2dbf-40b1-8155-a1e0d0baff53",
 		"prefix": "F1.3",
 		"title": "recombinatie, meiose, homologe chromosomen, autosomen, geslachtschromosomen, karyotype, haplotype, genoom, gekoppelde genen, crossing-over",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -303,7 +273,6 @@
 		"id": "9a6ccbdf-53fc-4517-a2e2-f18bda5e730b",
 		"prefix": "F1.4",
 		"title": "genetische variatie, mutatie, recombinatie, fenotype, genotype, genenpoel/gene pool, genetische modificatie.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
@@ -313,7 +282,6 @@
 		"id": "06d007e9-a381-45aa-b802-52fd2587cc80",
 		"prefix": "F2.1",
 		"title": "populatie, genotype, fenotype, emergente eigenschap",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -323,7 +291,6 @@
 		"id": "6963ccf2-2551-42e3-80af-887c403482f6",
 		"prefix": "F2.2",
 		"title": "variatie, adaptatie, fitness, natuurlijke selectie, genetic drift, gene flow, allelfrequentie, HardyWeinberg.",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -333,7 +300,6 @@
 		"id": "22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
 		"prefix": "F2.3",
 		"title": "selectie, adaptatie, fitness, selectiedruk, soort, natuurlijke selectie, seksuele selectie, eilandtheorie, stichter effect/founder effect, flessenhalseffect/bottleneck effect, inteelt",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -343,7 +309,6 @@
 		"id": "db34fc3d-7d7d-4025-812a-5594724a7880",
 		"prefix": "F2.4",
 		"title": "soortvorming, soort, geslacht, cladogram, clade, taxon, homologie, analogie, genetic drift, coevolutie, sympatrische en allopatrische soortvorming",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
@@ -352,7 +317,6 @@
 	{
 		"id": "e03dc13b-f25c-4fb7-9cb8-6fd3f58111b3",
 		"title": "s-Hertogenbosch, Afsluitdijk, Alkmaar, Almelo, Almere, Alphen a.d. Rijn, Ameland, Amersfoort, Amstelveen, Amsterdam, Amsterdam-Rijnkanaal, Apeldoorn, Arnhem, Assen, Bergen op Zoom, Biesbos, Breda, Delft, Delfzijl, Den Haag, Den Helder, Deventer, Doetinchem, Dordrecht, Drachten, Drenthe, Eindhoven, Emmeloord, Emmen, Enkhuizen, Enschede, Flevoland, Fryslân (Friesland), Gelderland, Gouda, Groningen (prov.), Groningen (stad), Haarlem, Haarlemmermeer, Heerenveen, Heerlen, Helmond, Hengelo, Hilversum, Hoogeveen, Ijssel, Ijsselmeer, Kampen, Leeuwarden, Leiden, Lek, Lelystad, Limburg, Maas, Maastricht, Markermeer, Meppel, Middelburg, Neder-Rijn, Nieuwe Waterweg, Nijmegen, Noord-Brabant, Noord-Holland, Noordzeekanaal, Oosterschelde, Oss, Overijssel, Purmerend, Randstad, Rijnmond, Roermond, Roosendaal, Rotterdam, Schiermonnikoog, Schiphol, Sneek, Terneuzen, Terschelling, Texel, Tilburg, Twente, Utrecht (prov.), Utrecht (stad), Vaalserberg, Veendam, Veluwe, Venlo, Vlieland, Vlissingen, Waal, Waddenzee, Wageningen, Westerschelde, Zaandam, Zeeland, Zeeuws-Vlaanderen, Zoetermeer, Zuid-Holland, Zutphen, Zwolle",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		]
@@ -360,7 +324,6 @@
 	{
 		"id": "91dce357-3509-4b29-9315-e74be379b641",
 		"title": "Albanië, Alpen, Antwerpen, Ardennen, Athene, Barcelona, België, Belgrado, Berlijn, Bern, Boekarest, Bordeaux, Bosnië-Hercegovina, Bratislava, Brussel, Budapest, Bulgarije, Cyprus, Denemarken, Donau, Dublin, Duitsland, Engeland, Estland, Finland, Frankrijk, Genève, Glasgow, Griekenland, Hamburg, Helsinki, Het Kanaal, Hongarije, Ierland, Ijsland, Istanbul, Italië, Kaspische Zee, Kaukasus, Keulen, Kopenhagen, Kroatië, Letland, Lissabon, Litouwen, Liverpool, Londen, Luxemburg (land), Luxemburg (stad), Lyon, Madrid, Malta, Marseille, Middellandse Zee, Milaan, Moskou, München, Nederland, Noordzee, Noorwegen, Oekraïne, Oostenrijk, Oostzee, Oslo, Parijs, Po, Polen, Portugal, Praag, Pyreneeën, Rhône, Rijn, Roemenië, Rome, Ruhrgebied, Rusland, Scandinavië, Schelde, Schotland, Seine, Servië, Sicilië, Sint Petersburg, Slovenië, Slowakije, Spanje, Stockholm, Straat van Gibraltar, Theems, Tsjechië, Ural (Oeral), Verenigd Koninkrijk, Vlaanderen, Volga (Wolga), Wallonië, Warschau, Wenen, Zwarte Zee, Zweden, Zwitserland",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		]
@@ -368,7 +331,6 @@
 	{
 		"id": "3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
 		"title": "Afghanistan, Afrika, Alaska, Amazone, Amerika, Andes, Ankara, Antarctica, Argentinië, Atlantische Oceaan, Australië, Azië, Bagdad, Bangkok, Bangladesh, Beijing (Peking), Brasilia, Brazilië, Buenos Aires, Cairo, Californië, Canada, Caribische Zee, Casablanca, Chang Jiang (Jangtsekiang), Chicago, Chili, China, Colombia, Curaçao, Delhi, Egypte, Ethiopië, Europa, Filipijnen, Ganges, Groenland, Grote (of Stille) Oceaan, Hawaii, Himalaya, India, Indische Oceaan, Indonesië, Irak, Iran, Israël, Jakarta, Japan, Java, Jeruzalem, Kaapstad, Kolkata (Calcutta), Kongo (Dem. Rep.), Lagos,Los Angeles, Marokko, Mekka, Mexico, Mexico-Stad, Midden-Oosten, Mississippi, Molukken, Montréal, Mumbai (Bombay), Nederlandse Antillen, New York, Nieuw-Zeeland, Nigeria, Nijl, Noordelijke Ijszee, Pakistan, Panamakanaal, Paramaribo, Perzische Golf, Rio de Janeiro, Rocky Mountains, Rode Zee, Sahara, Santiago, Saudi-Arabië, Seoul, Shanghai, Siberië, Singapore, Sudan (Noord- en Zuid- Sudan), Suezkanaal, Suriname, Sydney, Taiwan, Teheran, Thailand, Tokyo, Turkije, Venezuela, Verenigde Staten, Vietnam, Washington, Xianggang (Hongkong), Zuid-Afrika (rep.), Zuid-Korea",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		]
@@ -407,7 +369,6 @@
 	{
 		"id": "ea60674d-16e8-4e71-960c-917422c88df3",
 		"title": "Nederland. Lobith, Haringvliet, Rijnmond, Oosterscheldekering, Haringvlietdam, Broouwersdam, Oostelijk Flevoland, Zuidelijk Flevoland",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
 		]
@@ -432,7 +393,6 @@
 	{
 		"id": "8b11efc9-3c19-4212-b0b7-2e10577f31ed",
 		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
 		]
@@ -440,7 +400,6 @@
 	{
 		"id": "df4472b4-1885-4e4a-b348-d51d4a2af6f2",
 		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit, China, Huang He (Huangho), Drie-Klovendam, Grote Kanaal, Xi-Jiang, Himalaya, Hoogland van Tibet, Rode Bekken, Lössplateau",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c",
@@ -457,7 +416,6 @@
 	{
 		"id": "b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
 		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
 		]
@@ -472,7 +430,6 @@
 	{
 		"id": "bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
 		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg, Duitsland, Düsseldorf, Duisburg, Essen, Dortmund, Leipzig, Dresden, Frankfurt, Stuttgart",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
 		]
@@ -480,7 +437,6 @@
 	{
 		"id": "6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
 		"title": "China, Tianjin, Shenyang, Chongqing, Guangzhou (Kanton), Harbin, Wuhan, Xi’an",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
 		]
@@ -496,7 +452,6 @@
 	{
 		"id": "736e2078-8650-4393-90ad-adb54ca97de7",
 		"title": "Golf van Mexico, Appalachen, Atlantische Kustvlakte, Centraal Laagland, New Orleans, Cuba, Florida",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"34618247-e404-4f12-9965-4a49b8c3e9e4"
@@ -512,7 +467,6 @@
 	{
 		"id": "b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
 		"title": "Eufraat, Tigris, Syrië, Uganda, Aswandam, Atatürk-stuwmeer",
-		"tag_id": [],
 		"examenprogramma_eindterm_id": [
 			"3c0d13c6-9474-4568-84d5-edf052993c72"
 		]
@@ -528,7 +482,6 @@
 	{
 		"id": "afac2285-80a1-4dc6-a6a9-8e5ca0b54d46",
 		"title": "Guangzhou (Kanton), Shenzen, Foshan, Aomen (Macau), Chongqing, Xi-Jiang, Chang-Jiang, Suzhou, Hangzhou",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
@@ -617,13 +570,11 @@
 	{
 		"id": "4673b1c1-d64c-4060-963e-b977cc4fddec",
 		"title": "Perceptie, stereotypen, mental map, geografisch beeld",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
 		"id": "4c9d870c-7f44-41eb-8661-07bfcbeedaf0",
 		"title": "Schild, hoogtezones, hoogvlakte/hoogland, ertsen/ertsvorming, fossiele energiebronnen, andesiet, tropisch regenwoud (selva), Savanne (Illanos, cerrado en caatinga), Steppe (pampa), Tropisch laagland, Mangrove, Bevolkingsdruk, Gezinsplanning, Natuurlijke bevolkingsgroei, Sociale bevolkingsgroei /migratie, Etniciteit, Mestizering, Latino, Bevolkingsparticipatie, Democratisering, Sociale polarisatie, Gini-coëfficiënt/Lorenzcurve, Elite, BBP per hoofd /BRP per hoofd, Import- en exportpakket, Handelsbalans, Megasteden, Sloppenwijken (favelas), Informal city, Informele sector, Cliëntelisme, Latifundia, Grondbezitverhouding, El Niño",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -637,7 +588,6 @@
 	{
 		"id": "9193d525-e605-4b63-842e-9b1d76b98a95",
 		"title": "Dictatuur, Oligarchie, Populisme, Neoliberalisme, Good governance, De-agrarisatie, Industrialisatie, Tertiairisering, Landroof (landgrabbing), Duale economie, Exportvalorisatie, Importsubstitutie, Cashcrops/foodcrops, Waterkrachtcentrale, UNASUR, Buitenlandse investeringen (Foreign Direct Investments), BRIC(S), Etnische en culturele diversiteit, Bevolkingsparticipatie, Democratisering",
-		"tag_id": [],
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
@@ -728,13 +678,11 @@
 	{
 		"id": "7bcc33de-6971-43b1-8ed0-0842cbe3286d",
 		"title": "Perceptie, Stereotype, Mental map, Geografisch beeld",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
 		"id": "59e71a6e-88f4-4109-af5c-7db62e1d8ce3",
 		"title": "Verstedelijkingsgraad, Verstedelijkingstempo, Stedelijk netwerk, Sloppenwijken (favelas), Ommuurde woonwijken (gated communities), Bevolkingsdruk, Gezinsplanning, Natuurlijke bevolkingsgroei, Sociale bevolkingsgroei/migratie, Etniciteit, Mestizering, Bevolkingsparticipatie, Democratisering, Good governance, BBP per hoofd/BRP per hoofd, Import- en exportpakket, Handelsbalans, Lorenzcurve, Informele sector, Grootgrootbezit, UNASUR",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -745,13 +693,11 @@
 	{
 		"id": "b5fd8d5e-6ca3-4aa1-9c10-4b5d9f31ceb0",
 		"title": "Hoogvlakte/hoogland, Ertsen/ertsvorming, Fossiele energiebronnen, Tropisch regenwoud (selva), Savanne (cerrado en caatinga), Mangrove, Biodiversiteit, Landroof (landgrabbing)",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
 		"id": "915af81d-e1f8-4f8c-9a7e-b898710664be",
 		"title": "UNASUR, Etnische en culturele diversiteit, Buitenlandse investeringen (Foreign Direct Investments)",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -762,7 +708,6 @@
 	{
 		"id": "bd191a46-5e92-4133-90ec-7beeeb5c1e85",
 		"title": "Externe economische relaties, BRIC(S), Exportgerichtheid/handelsoriëntatie",
-		"tag_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -784,5 +729,167 @@
 		"id": "db13b92b-9115-46dc-ac65-96818b97d363",
 		"title": "Buurtprofiel, Woningkenmerken, naar ouderdom, naar eigendom, nar woningtype, naar onderhoud, Bewonerskenmerken, naar grootte van huishoudens, naar etniciteit, naar inkomen, naar gezinsfase, naar leeftijd, woonomgeving, Buurt-/Wijkvoorzieningen, Sociale cohesie, Sociale (on)veiligheid, objectieve (on)veiligheid, subjectieve (on)veiligheid, Openbare ruimte, toegankelijkheid, onderhoud, overzichtelijkheid, toezicht, Stadsvernieuwing, Herstructurering, Gentrification",
 		"ce_se": "CE"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "verzekeren, levensverzekering, schadeverzekering, lenen, consumptief krediet, hypothecair krediet, rente- en aflossingsverplichtingen, financiële gevolgen, sparen, enkelvoudige en samengestelde interest, contante waarde, eindwaarde, direct opneembare en niet-direct opneembare spaartegoeden, bedrijfspensioen als een vorm van verplicht sparen, beleggen, aandelen, obligaties, beleggingsfondsen, effectenbeurs.",
+		"id": "77b88ece-356b-48b5-8ad4-9e3ebbb71856",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "huren, kopen, partijen op hypotheekmarkt, bank, hypotheekadviseur, makelaar, notaris, hypothecair krediet, lineaire hypotheek, annuïteitenhypotheek.",
+		"id": "33601ce1-c1dd-410c-8f24-67aa85015564",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
+		],
+		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract, trouwen, geregistreerd partnerschap, scheiden, in -beperkte-gemeenschap van goederen, op huwelijkse voorwaarden/partnerschapsvoorwaarden, partnerpensioenrechten, alimentatie, schenken, overeenkomst om niet, schenkbelasting, belastingvrijstelling, verijstellingen bij schenkingen aan ANBI, erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving/beneficiair aanvaarden, zuiver aanvaarden, erfbelastingen en vrijstellingen.",
+		"id": "c26f5ec2-2999-4fae-8fe1-4aeb97ef1c8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "causation, marktdefinitie, segmentatie (geconcentreerd, gedifferentieerd, ongedifferentieerd), positioneren, effectuation, nieuwe markten en uitgaan van beschikbare middelen, strategische partners, stakeholders.",
+		"id": "5abb1bbd-4189-4614-b5cc-1d93c3e94f66",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "persoonlijk plan, persoonlijke gegevens, persoonlijke motieven, persoonlijke kwaliteiten, marketingplan, het idee, trends en ontwikkelingen, doelgroepen, concurrentie, SWOT analyse, product, prijs, promotie, plaats/distributie, doelstellingen. Financieel plan, investeringsbegroting, financieringsbegroting, exploitatiebegroting, liquiditeitsbegroting.",
+		"id": "a811226c-6289-4493-a040-d4ef43c9e5dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
+		],
+		"title": "oprichtingsverplichtingen, inschrijving bij Kamer van Koophandel, registratie bij de Belastingdienst, vergunningen.",
+		"id": "54fcd120-d9fa-4fde-bdd5-402017d98a75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"af1daaa8-cf10-4d96-91da-59225b8317c0"
+		],
+		"title": "rechtsvorm: natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap, stichting, vereniging, organen binnen organisatie: bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders, beëindigen organisatie: surseance van betaling, faillissement, zonder bedrijfsopvolging/verkoop.",
+		"id": "334ea6c3-08d5-40d1-bcb7-26cc2f4a3e0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
+		],
+		"title": "absolute omvang, relatieve omvang:  marktaandeel (afzet en omzet), doelstelling: commercieel, niet-commercieel, maatschappelijke behoeften: product of dienst, werkgelegenheid, innovatie, belastingopbrengsten, inkomen, controleverklaring: verslaggeving.",
+		"id": "ea93bd50-7676-4bd5-9fe7-992a8dc9fd39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"185cf54f-8835-4a27-af49-be9ed99f5a89"
+		],
+		"title": "arbeidsrelatie: individuele arbeidsovereenkomst, ZZP, voorwaarden individuele arbeidsovereenkomst: gezagsverhouding, arbeidsverplichting, loon, vormen individuele arbeidsovereenkomst:  voor onbepaalde tijd, voor bepaalde tijd, oproep, nul-uren, wetgeving: ontslagrecht, arbowetgeving, personeelsvertegenwoordiging, ondernemingsraad, vakbond, beloningsvormen, in geld, in aandelen, carrièreperspectief, mogelijk tot professionele ontwikkeling.",
+		"id": "b6184c12-c7ff-455d-9402-ee252a391fed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "Financieringswijzen, banken, overige vermogensverschaffers, eigen inbreng",
+		"id": "57af86ad-5429-473e-a682-37a0d8dcb5f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
+		],
+		"title": "vermogensmarkt, openbaar en onderhands vermogen, effectenbeurs, aandelen, obligaties, beleggingsfondsen, koersverloop, toezichthouders, AFM, DNB, ACM",
+		"id": "9a8cb35e-6ee2-4e3d-80e9-658382efe07f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
+		],
+		"title": "aandelenkapitaal: maatschappelijk aandelenkapitaal, geplaatst aandelenkapitaal, aandeel: nominale waarde, intrinsieke waarde, emissiekoers, agio op aandelen, beurskoers, lang vreemd vermogen: hypothecaire lening, onderhandse lening, obligatielening, kort vreemd vermogen: rekening-courantkrediet (bankkrediet), leverancierskrediet, afnemerskrediet.",
+		"id": "87089cec-63d2-4b29-a362-67b4a8cc6ac9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a71428de-c563-4aa6-b71a-40109e9556a6"
+		],
+		"title": "de verhouding eigen vermogen/vreemd vermogen, faillissementsrisico",
+		"id": "008696b5-3c38-4cff-82df-b48b57f0055f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
+		],
+		"title": "marketingmix, productbeleid, prijsbeleid, plaatsbeleid, promotiebeleid, marketingstrategie, push-strategie, pull-strategie, marketing, B2C (Business to Conumer), B2B (Business tot Business), C2B (consumer to Business), C2C (Consumer to Consumer).",
+		"id": "75d80f6a-6f82-4983-9b2e-34e48eafdaa0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"439b7592-f5e3-4941-a04f-341a73d6ae75"
+		],
+		"title": "financiële feiten: inkoop (en ontvangst) van goederen en diensten (contant en op rekening), verkoop (en aflevering) van goederen en diensten (contant en op rekening), aflossen van schulden, afschrijving (op basis van aanschafwaarde), btw aangifte, privéontvangsten en -uitgaven, overige ontvangsten per kas en bank, overige utigaven per kas en bank, financiële overzichten, beginbalans, liquiditeitsbegroting, exploitatiebegroting, geprognosticeerde eindbalans, winst- en verliesrekening, afzet, verkoopprijs, omzet, kosten, bedrijfsresultaat, financieringsresultaat, resultaat voor winstbelasting, resultaat na winstbelasting, eigen vermogen, verandering liquide middelen, liquide middelen, gerealiseerde balans, voorraadgrootheden, stroomgrootheden, overlopende posten, nog te betalen bedragen, nog te ontvangen bedragen, vooruit betaalde bedragen, vooruit ontvangen bedragen.",
+		"id": "9615ff1c-f0ff-481b-83a0-54269375e2f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
+		],
+		"title": "niet financiële informatie, kritische succesfactoren/prestatie-indicator, assortiment, innovatiekracht, leveringstermijn, efficiency, kwaliteit processen/trainingsdagen, klanttevredenheid/klachten, communicatie/frequentie interne communicatie.",
+		"id": "ad961f52-e045-48d8-b347-be7333721a57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
+		],
+		"title": "opbrengsten: omzet, constante/variabele kosten: proportionele kosten, BTW: te vorderen BTW, te betalen BTW, af te dragen BTW, break even omzet, break even afzet: afzet, verkoopprijs, dekkingsbijdrage per product, periodetoerekeningstelsel, kasstelsel: ontvangsten, opbrengsten, uitgaven, kosten, financiële opbrengsten en kosten, interestkosten, interestopbrengsten, bedrijfsresultaat, resultaat voor winsbelasting, resultaat na winstbelasting: vennootschapsbelasting, inkomstenbelasting, ondernemersinkomen/-beloning: ondernemersrisico, gewaardeerd loon, gederfde interest, winstverdeling: resultaat voor winstbelasting, dividend in euro's, dividendbelasting, winstreservering",
+		"id": "3704a62a-3b21-4037-b1bc-d205029b68b3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"13cd9721-b461-4e24-b227-5f40390f9f5a"
+		],
+		"title": "jaarverslag: bestuursverslag, jaarrekening: balans, winst- en verliesrekening,  vaste activa: immateriële vaste activia, materiële vaste activa, financiële vaste activa, vlottende activa: voorraad, debiteuren, effecten, overlopende posten/transitorische posten, liquide middelen, eigen vermogen: reserves, resultaat, verplichtingen op lange termijn: hypothecaire lening, onderhandse lening, voorziening, verplichtingen op korte termijn: crediteuren, rekening-courantkrediet, overlopende posten/transitorische posten, voorzieningen: onderbouwsvoorziening, garantievoorziening, pensioenvoorziening, niet uit de balans blijkende verplichtingen en risico's, winst- en verliesrekening: omzet, kosten, resultaat, financiële kengetallen: liduiditeitsratio - current ratio - quick ratio, solvabilieitsratio - EV/VV - VV/TV, rentabilieitsratio - resultaat per aandeel - cashflow per aandeel - REV - RTV - IVV, controleverklaring van de accountant, verkoopwinst",
+		"id": "e2289b48-af88-474e-a89e-9032de529213",
+		"unreleased": true
 	}
 ]
