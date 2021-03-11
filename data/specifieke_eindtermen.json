@@ -8760,5 +8760,1635 @@
 		"title": "De kandidaat kan de relatie tussen financiële en niet-financiële verslaggeving uitleggen.",
 		"id": "9585c734-9266-4f02-b7c1-33ade333f05e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a1",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) de benodigde informatie halen uit bronnen, zoals tekst, tabellen, grafieken en afbeeldingen.",
+		"id": "17959bb5-584f-4cfa-8516-132df9e9872b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a2",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) de aangeboden bronnen beoordelen op bruikbaarheid en relevantie.",
+		"id": "f52e527c-199e-4a5b-914f-bd8f2c4aa1c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a3",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden)  met voorbeelden toelichten",
+		"id": "4ae750e8-4718-4809-99c6-b6ada1516874",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a4",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) feiten van meningen onderscheiden",
+		"id": "4a57a97c-ccbc-4c6e-8744-c31109ed87fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a5",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen.",
+		"id": "eee9361d-38db-447a-878b-7ec477381485",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a6",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) randvoorwaarden en vooronderstellingen van een economisch model onderscheiden van gegevens uit realistische contexten.",
+		"id": "aa802714-7374-42a8-9413-a8166982c38a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a7",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) rekenen en redeneren binnen de randvoorwaarden en vooronderstellingen van een model.",
+		"id": "696696a8-edba-4a54-a728-acafa31fd22a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a8",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) redeneren buiten de kaders van een economisch model, indien de context daartoe aanleiding geeft.",
+		"id": "6d2088b3-3801-4705-b4fb-b60c2f75279e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A1.a9",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (informatievaardigheden) transfer: het toepassen van concepten in nieuwe contexten.",
+		"id": "43ae14b3-9f4c-4562-aec8-ad86c44d0a06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a1",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) basisrekenvaardigheden toepassen in economische vragenstukken.",
+		"id": "17be366f-67cd-4998-af0a-b9a0147b8bb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a2",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) rekenregels optellen, aftrekken, vermenigvuldigen, delen.",
+		"id": "9f16c05d-0c98-44e9-ba59-be29d77d422b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a3",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) positieve en negatieve getallen/breuken/decimalen.",
+		"id": "15dd3e88-46d9-4c00-a4df-483a76323c01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a4",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) procenten, promillen en perunages.",
+		"id": "bcea1065-bc75-43ba-8672-379ccba6ac43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a5",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) onderscheid procentuele mutatie en procentpunt verandering.",
+		"id": "b7fb1c04-793a-427b-9eea-4670dd1be273",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a6",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) verhoudingen en schatting.",
+		"id": "ab56066f-3e06-4503-b4ef-99f6d8827e99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a7",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) rekenen met grote en kleine getallen.",
+		"id": "a39c163e-8e39-4760-a792-8b0d5dba7e43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a8",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) afrondingsregels.",
+		"id": "d2c38ba7-4a2f-4741-bfb3-b5799ca00f76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a9",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) vergelijkingen, beschrijvende statistiek en grafieken gebruiken in economische vraagstukken.",
+		"id": "cf345768-c0a4-4b7e-823d-649757a5f842",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a10",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) werken met eerstegraads – en tweedegraadsvergelijkingen.",
+		"id": "fc6aaeab-ba2c-4eb4-b365-1186e6a64541",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a11",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) het bepalen van een eerstegraadsvergelijking als afgeleide van een tweedegraadsvergelijking.",
+		"id": "8f15a400-e4f4-4233-9c47-4add0e80bbe9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a12",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) oplossen van een stelsel van vergelijkingen via substitutie.",
+		"id": "f3721e4d-cf6a-49c3-b11c-9cd6871c1256",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a13",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) werken met assenstelsels (X en Y) en kwadranten.",
+		"id": "6b393c35-d957-4f8f-8655-aa79eb068b83",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a14",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) waardes bepalen en grafieken tekenen en/of bewerken.",
+		"id": "308008e2-64bf-46d3-887a-f675827b3167",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a15",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) berekeningen maken op basis van grafieken bij domein D.",
+		"id": "6a4bb8a7-f796-4fbb-a9dc-4128b13f864b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a16",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) oppervlaktes arceren.",
+		"id": "81ac4123-0686-4c6b-b671-dcd39f7e86f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a17",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) oppervlaktes berekenen: alléén driehoek en rechthoek.",
+		"id": "4cd65102-86b8-49b6-93ce-52bd622182ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a18",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen.",
+		"id": "ea6dfbf2-66b4-447b-b889-ed157bfc7f53",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a19",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld.",
+		"id": "2f0c1d51-d2e0-466b-9ed2-7b551b62a733",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a20",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) tabellen: rijen/kolommen, indeling in klassen (percentielen, decielen e.d.), cumuleren.",
+		"id": "1b6a4e6b-19d4-4954-b763-f4c4b265ff49",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a21",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) gemiddeldes: gewogen en ongewogen.",
+		"id": "9bc0adc0-fdaf-4477-b79e-f3cc7cc622f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2.a22",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) berekenen van contante waarde en eindwaarde (geen reeksen).",
+		"id": "5b8200ae-1606-4b5d-bd50-cfed37b26aab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a1",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling) de rol en de perspectieven van de verschillende actoren (consumenten, producenten, werkgevers, werknemers, burgers, overheid, bankwezen).",
+		"id": "e1d73449-d42a-496b-9942-130e79824959",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a2",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling) een eventuele botsing van belangen.",
+		"id": "314bbbcf-4613-4335-b4af-36404cb6d353",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a3",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling)  oplossingen voor / reacties op mogelijk ongewenst gedrag.",
+		"id": "1a2b989e-dcc0-49a3-a302-480c261860bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a4",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling) een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro).",
+		"id": "b7a48deb-701f-4cef-9aa9-22e912cb978f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a5",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling) een standpunt relativeren / weerleggen (argumenten contra).",
+		"id": "7e2a8a59-0b97-4953-a930-e51e67d2e97e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3.a6",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (standpuntbepaling) afwegingsvraagstukken beschrijven.",
+		"id": "63e69251-d173-42c7-ad9e-e3a043bccd46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a1",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het herkennen van relevante economische aspecten (concepten) bij het analyseren van concrete maatschappelijke vraagstukken (contexten).",
+		"id": "f9f64d78-7b88-4e6b-a28f-1c826ddca5df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a2",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen / een model.",
+		"id": "8eb8911a-3f44-4dda-909f-7248e75e00e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a3",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg.",
+		"id": "1ccc04a7-be89-4199-b065-3da624d86a2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a4",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing.",
+		"id": "055aa589-baeb-4479-9625-181b30e1cffa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a5",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn.",
+		"id": "89f61ca5-7ce4-4061-8b5e-7ae1c4dbbe62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A4.a6",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties.",
+		"id": "314d681b-5b8d-4dd4-8c47-2549385c26c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.1",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betalingsbereidheid als de maximale prijs die een vrager bereid is te betalen voor één eenheid van een goed.",
+		"id": "b3382b64-87d8-46e6-953d-6f2889f63a8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.2",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de individuele vraaglijn die het verband weergeeft tussen de gevraagde hoeveelheid van één vrager bij uiteenlopende prijzen.",
+		"id": "36590c39-4040-4893-9deb-ae441bd5705a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.3",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele vraaglijn en de collectieve vraaglijn.",
+		"id": "0af6c31b-47dc-4062-9276-9570213c1a02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.4a",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de betalingsbereidheid van alle vragers en het verloop van de collectieve vraaglijn.",
+		"id": "57165c59-f38f-4da2-97ad-7230b836fece",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.4b",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen verschrijving van de collectieve vraaglijn als gevolg van verandering van het inkomen, de behoeften, prijzen van andere goederen en het aantal vragers",
+		"id": "732037c7-1a28-4a04-803d-8743bc1e7619",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.5",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen prijselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve prijsverandering.",
+		"id": "050137d8-0ab3-4b44-988d-7f50b7d3e1cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.6",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen een prijselastische- en een prijsinelastische vraag.",
+		"id": "e1093b6f-1fdc-4baf-99ff-8f4c2a08adf6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.7",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen inkomenselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve inkomensverandering.",
+		"id": "c71c86d9-4dff-4289-9afe-0a5d7a7697e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.8",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen inferieure, normale en luxe goederen, in relatie met de waarde van de inkomenselasticiteit.",
+		"id": "3e11eb2b-0926-4dc6-8267-424c978d3341",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.9",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen substitueerbaarheid en complementariteit van goederen, in relatie tot de vraag naar een (ander) goed; kruislingse elasticiteit.",
+		"id": "d22d19e4-0125-4425-a075-db31e0841a64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.10",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de individuele aanbodlijn die het verband weergeeft tussen de aangeboden hoeveelheid van één aanbieder bij uiteenlopende prijzen.",
+		"id": "c836de31-afdc-4802-93e8-751a4f2186bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.11",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele aanbodlijn en de collectieve aanbodlijn.",
+		"id": "106f862d-f832-43ee-8213-a062b14f6654",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.12",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verschuiving van de collectieve aanbodlijn als gevolg van een verandering van de prijzen van productiefactoren, technische ontwikkeling en aantal aanbieders.",
+		"id": "1c68ba38-4028-484c-9c76-331afcd585a8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.13",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verschuiving van de collectieve aanbodlijn als gevolg van heffingen of subsidies.",
+		"id": "173806b9-50c1-4ab9-8ccc-a9662a0f304a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.14",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de samenhang tussen prijs, afzet en totale opbrengst (omzet).",
+		"id": "8262d26d-a8f8-4b73-849d-3abce159273f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.15",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van de prijselasticiteit van de vraag voor de verandering van de totale opbrengst (omzet) bij prijsveranderingen.",
+		"id": "84f44dc1-875e-43bd-8e18-ee7bf4f698ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.16",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de onderverdeling van totale kosten in vaste kosten en variabele kosten.",
+		"id": "f4cae795-71a3-47d2-bbd0-b33aae6a7cbf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.17",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid en de samenhang tussen totale, gemiddelde en marginale kosten.",
+		"id": "47a57026-a83e-4ccd-b013-1a73b991b162",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.18",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele aanbodlijn en het verloop van de marginale kosten(lijn) bij hoeveelheidsaanpassing.",
+		"id": "2df74887-87c6-41a6-9df7-86efe4bfaabb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.19",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van het verloop van opbrengst en kosten voor de omvang van de winst, zowel gemiddeld als totaal.",
+		"id": "46993bf7-3057-4cd4-a91d-20f7ad936ff5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.20",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de bepaling van de break-even-afzet bij een gelijkheid van totale kosten en totale opbrengsten",
+		"id": "08b05206-53b5-4b5a-a8cd-e58832d223cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.21",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marginale opbrengsten en marginale kosten op de (maximale) winst.",
+		"id": "95b35589-7c57-43fc-a475-6b87bbcab526",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.22",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van de markt als coördinatiemechanisme van vraag en aanbod.",
+		"id": "870611e2-b3a7-491d-af2b-8048f493b1af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.23",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen marktevenwicht als zijnde de gelijkheid van de gevraagde en aangeboden hoeveelheid bij de evenwichtsprijs.",
+		"id": "6a333452-9f47-4a32-a91c-8174cc29c0a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D1.24",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van veranderingen in vraag en aanbod op de evenwichtsprijs, de evenwichtshoeveelheid en de totale evenwichtsopbrengst (omzet).",
+		"id": "64e85ee6-ea6e-4833-a840-a9e114651658",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D2",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan analyseren welke invloed de kenmerken van de markt, zoals aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden, hebben op de marktmacht van de aanbieder en daardoor op het marktresultaat.",
+		"id": "e216e0c8-77db-4e2b-aafc-91b667b75c2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D2.1",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \r\nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \r\nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \r\nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \r\nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \r\nIV Monopolie: één aanbieder.",
+		"id": "cda7117e-9616-481b-a0f5-48f53736a5f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D2.2",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "Het bepalen van de prijs en afzet die bij volkomen concurrentie, monopolistische concurrentie, oligopolie of monopolie maximale totale winst opleveren.",
+		"id": "cf660c67-32bf-430b-acf9-c7da2c5f3147",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D2.3",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De mogelijkheden voor en gevolgen van prijsdiscriminatie voor de prijzen, afzet en winst bij monopolie.",
+		"id": "cd8e2cfb-ddbd-4c52-8199-1d29432965da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.1",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen consumentensurplus als het verschil tussen de marktprijs en de betalingsbereidheid van vragers die bereid zijn meer te betalen dan die marktprijs.",
+		"id": "73d0f4ca-0fd0-4417-8ba4-16d80f4aa6c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.2",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen producentensurplus als het verschil tussen de marktprijs en de prijs waartegen alle producenten bereid zijn aan te bieden.",
+		"id": "aea7ccc7-e12f-4dff-af61-b0efbd60c94e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.3",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het totale surplus als de optelsom van het consumentensurplus en het producentensurplus.",
+		"id": "c701b042-5b44-4e21-bf8f-a8fc69d4de44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.4",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het totale surplus als maat voor het marktresultaat",
+		"id": "e51971d3-a829-4243-996e-0cfc02ca8ebe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.5",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen pareto-efficiency als de optimale verdeling van consumenten- en producentensurplus.",
+		"id": "c475e1a0-d20a-4777-abc9-7522aadd0480",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.6",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het totale surplus als een indicator van maatschappelijke welvaart.",
+		"id": "8761a661-3b29-4d7c-81b5-70fd7d88b4bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.7",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marktmacht op de omvang van het totale surplus en het verloren surplus/Harberger-driehoek (dead weight loss).",
+		"id": "3ed6fb5d-bc57-4c3c-88d6-aa658e75f69e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.8",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marktmacht op de verdeling van het totale surplus tussen aanbieders en vragers.",
+		"id": "c26c629a-9774-464f-b6d8-30ce2734b392",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.9",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de manier waarop een monopolist via prijsdiscriminatie een deel van het consumentensurplus kan afromen.",
+		"id": "278b7ccf-f5a4-4a27-a88f-2a7cd0e67b33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.10",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van overheidsingrijpen via heffingen of subsidies op het marktresultaat en daardoor op de omvang en de verdeling van het totale surplus.",
+		"id": "d1d1e1a7-14e1-4e1e-b866-46c54d762efd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.11",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van prijsregulering door middel van minimumprijzen of maximumprijzen op het marktresultaat en daardoor op de omvang en verdeling van het totale surplus.",
+		"id": "3afb0ea5-5d86-4a76-abbc-3fa659dd737c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.12",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen effecten van octrooien/patenten op marktgedrag en marktresultaat.",
+		"id": "1772ecd1-a52b-4e7f-8c12-d0a8fb07052a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.1",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de intertemporele ruil waarbij niet in de tijd samenvallende rendementen vergeleken worden: afweging tussen individuele prijs van tijd en marktprijs van tijd.",
+		"id": "d11826ea-9325-4109-afdc-1bf4f9a34701",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.2",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen lenen en sparen door deelnemers aan intertemporele ruil als schuiven met koopkracht in de tijd.",
+		"id": "2adb5760-26d9-49f2-a9f2-e6e6153d349e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.3",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze om al dan niet vermogen te vragen of aan te bieden met daarbij argumenten als tijdsvoorkeur en risico-aversie.",
+		"id": "fe7da487-c011-42f9-8680-275dbf8b297b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.4",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen rente als de prijs voor sparen en lenen die op de vermogensmarkt tot stand komt.",
+		"id": "89ca8f62-ded1-4af6-8c5d-7712796d2158",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.5",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van risico’s als (dreiging van) wanbetaling en informatieasymmetrie en het risico omtrent inflatie op het gedrag van aanbieders en/of vragers van vermogen en daarmee op de rente.",
+		"id": "4575e3e8-e184-49c0-960f-9be33232e03a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.6",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid en de samenhang tussen nominale en reële grootheden.",
+		"id": "571084f2-7337-4271-95be-d2e90496299a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.7",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het belang van investeringen bij de vorming van publiek kapitaal zoals infrastructuur, of privaat kapitaal zoals menselijk kapitaal of kapitaalgoederen van bedrijven.",
+		"id": "82ea8232-7aaa-4b95-ae8f-69102af4fe19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.8",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen voorraad- en stroomgrootheden en hun onderlinge verband.",
+		"id": "e53274be-8aff-4262-8742-28bf48f9c479",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.9",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen intertemporele ruil door de overheid vergelijken met een dergelijke ruil in de private sector gelet op de staatsschuld en de bijzondere positie van het overheidstekort als uitgestelde belastingheffing.",
+		"id": "25350754-791d-4091-981b-14096963852c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.10",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen belastingspreiding in de tijd als methode om welvaartsverliezen als gevolg van belastingheffing te spreiden in de tijd.",
+		"id": "1872d529-cff8-4462-9c98-7e05bbf54dba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E2.1",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de levensloop binnen gezinshuishoudingen en de rol van de overheid met daarbij: \r\n- welvaartsvaste- of waardevaste pensioenen \r\n- het omslagstelsel en het kapitaaldekkingsstelsel als het gaat om de financiering van het pensioen \r\n- intergenerationele ruil.",
+		"id": "c679195c-2aad-4473-9352-8f06c1415395",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E2.2",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de elementaire balans en resultatenrekening van bedrijfshuishoudingen met daarbij:\r\n- Activa, eigen en vreemd vermogen als onderdelen van de elementaire balans (voorraadgrootheden) \r\n- Kosten, opbrengsten resultaat als onderdelen van de elementaire resultatenrekening (stroomgrootheden) \r\n- Afschrijvingen als waardeverlies van investeringen in vaste activa.",
+		"id": "4b715936-c260-4dc2-b141-dd2cc4198b0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E2.3",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de vermogenspositie van de overheid met daarbij: \r\n- de staatsschuld \r\n- het financieringstekort.",
+		"id": "fb59c3dd-df76-4ebe-80b6-1403b90818e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.1",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het belang van voldoende en van gelijke informatie voor de spelers.",
+		"id": "b321f83b-d1a5-4932-a018-b879c0998dab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.2",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de weergave van het spel in een pay-off matrix of een spelboom (beslisboom).",
+		"id": "56064ff9-138b-49db-95ea-c86838f1d02f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.3",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen een simultaan en een sequentieel spel.",
+		"id": "3953e1db-eedb-4d03-8791-577b2d1aae6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.4",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een Nash-evenwicht.",
+		"id": "e438a167-5dc1-4aa7-aa3a-4f95d8e991de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.5",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een gevangenendilemma waarin sprake is van een dominante strategie voor de spelers met daarbij het suboptimale Nash evenwicht.",
+		"id": "79492ef7-0119-4da9-a9d4-d24a031f5c62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.6",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen een spelsituatie waarbij niet altijd een dominante strategie aanwezig is.",
+		"id": "6e49cd9f-dbd4-4d90-915c-386795aa9cbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.7",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen zelfbinding als alternatief voor de eigen dominante strategie indien deze een lagere pay-off oplevert en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken",
+		"id": "b55f0200-5b86-4090-b798-96ebb3817fa2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.8",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van sociale normen op de pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"id": "4240e768-723a-46f3-ab3c-b2ee2bd4c208",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.9",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van de reputatie die de spelers in het verleden hebben opgebouwd op de pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"id": "b62818bd-dcdb-405b-b519-3a3c6af8d152",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.10",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van de reputatie die de spelers gedurende het spel opbouwen op de toekomstige pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"id": "5416c844-06e6-4815-a96c-36656f4c3788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.11",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van zelfbinding op de geloofwaardigheid van een dreiging, bijvoorbeeld de dreiging van een prijzenoorlog bij toetreding.",
+		"id": "61f78a5e-66e3-4365-b927-c7872305d473",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F2.1",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een berovingsprobleem indien er sprake is van verzonken kosten: kosten die al gemaakt zijn en niet kunnen worden teruggedraaid vanwege het specifieke karakter van de investering.",
+		"id": "ce151313-109d-45e8-a673-ba480f1bbe27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F2.2",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een tegenstelling tussen individueel en collectief belang bij collectieve goederen.",
+		"id": "18875be3-55a4-47ee-9a65-3ec0e3f8b25f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F2.3",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van meeliftersgedrag indien er sprake is van een dominante strategie van niet bijdragen aan een collectief goed.",
+		"id": "e3c91f6e-f2d6-4048-92e5-89cf473bf824",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F2.4",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van positieve of negatieve externe effecten.",
+		"id": "0b87ba6e-cd33-44ac-8e63-7705fdd003d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G1.1",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de aard en de omvang van het risico dat ontstaat bij het nemen van een beslissing in een situatie van onzekerheid (onzeker voorval).",
+		"id": "6e5d0565-3a8e-44af-a26d-713b4536d2b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G1.2",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen risicoaversie en verschillen daarin tussen transactiepartners.",
+		"id": "42c9b72c-028f-4e1b-bf4b-74c8d51b9b39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G2.1",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen onvolledige informatie leidt in een ruilsituatie tot transactiekosten",
+		"id": "811f3d31-c4e0-456a-8891-a9bf682f4161",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G2.2",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen informatieasymmetrie: informatieachterstand of informatievoorsprong van de ene transactiepartij t.o.v. de andere partij",
+		"id": "87f0659d-eefc-478b-bbd2-b60b5057f328",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G3.1",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze die een ondernemer maakt bij het verkrijgen van eigen en/of vreemd vermogen en de functie van onderpand bij het verkrijgen van krediet.",
+		"id": "41a28e03-7a10-4616-8bce-091011b2ec0e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G3.2",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen principaal-agentrelaties, het risico op averechtse selectie en moral hazard. \r\nTe denken valt aan: * opdrachtgever – opdrachtnemer * vermogensverschaffer(eigendom) – ondernemer(leiding) * kredietgever - kredietnemer",
+		"id": "4ae69f3b-7bb3-4c88-af1a-c1c4d7e9cba7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G3.3",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het hanteren van contracten in een principaal-agentrelatie en het inzetten van prikkels.",
+		"id": "812aa823-a611-4d57-bb49-07a9a5d0c6ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G3.4",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de rol van toezichthouders op financiële en op andere markten",
+		"id": "c54b1ae7-a5bd-4e99-b396-910755440db4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G4.1",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van risicoaversie met betrekking tot het afsluiten van een verzekering.",
+		"id": "670d4a00-96f0-40ff-b32d-9466b8cba745",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G4.2",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de afweging tussen kosten en risico bij verzekeren door beide transactiepartijen.",
+		"id": "30fb01bb-179b-4d75-90e5-2706050f83f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G4.3",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect dat (verplichte)solidariteit kan hebben op risicomanagement van verzekerden.",
+		"id": "ea449c82-55b7-45d9-9cf3-2ed535202da5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G4.4",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen averechtse selectie en middelen om dit te beperken: het verplicht voorschrijven van een verzekering; het instellen van een collectieve verzekering",
+		"id": "57ae9a1b-6153-4a0e-bd38-2f0b4b3a8820",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G4.5",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen moral hazard en middelen om dit te beperken: bijvoorbeeld eigen risico, bonus-malussysteem.",
+		"id": "c0a7d8cb-4a5b-494e-ab08-6cb0a2257d2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G5.1",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen de hoogte van het risico en het te verwachten rendement bij beleggingen.",
+		"id": "f02b1d67-dc51-46a6-9ecc-5b8eaa427f7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinG/7.G5.2",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen obligaties en aandelen ten aanzien van de mate van risico en het te verwachten rendement.",
+		"id": "67ac97c0-e957-4649-9edc-d4c6f73803f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.1",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen dat ontwikkelingen en gedragingen op een bepaalde markt gevolgen hebben voor andere markten.",
+		"id": "4682ed11-9963-4529-95e9-40b2f2a11a62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de reële en monetaire kringloop waarbij de volgende sectoren worden onderscheiden: gezinnen, ondernemingen, overheid, buitenland en financiële instellingen.",
+		"id": "36722acb-8926-44ed-b042-bf5eb70bc268",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.1",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen het BBP (als welvaartsmaatstaf) en de toegevoegde waarde; - bruto toegevoegde waarde - netto toegevoegde waarde - afschrijvingen.",
+		"id": "a0b81c66-8927-41ca-8a57-61696c6a7395",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.2",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: - de objectieve methode, - de bestedingsmethode - subjectieve methode.",
+		"id": "75498746-049e-47d1-b7c6-8a8cce8368ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.3",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen Nationaal Inkomen en Nationaal Product (bruto en netto).",
+		"id": "ef886541-7209-4342-accf-029519328bdb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.4",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de omvang van het BBP en NBP als een beperkte welvaartsmaatstaf, rekening houdend met; - nominaal en reëel - eng versus ruim welvaartsbegrip - welvaartsbegrip per capita - de rol en omvang van de informele sector - Human Development Index en groen BBP (inclusief externe effecten).",
+		"id": "007ddece-aed2-4842-96f8-9cc7438f7b24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.5",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren het systeem van de Nationale Rekeningen (inclusief de Staat van Middelen en Bestedingen), met in achtneming van de volgende sectoren: - gezinnen - ondernemingen - overheid - buitenland - financiële instellingen.",
+		"id": "f14a289b-6cb7-4709-8003-2d721cf81475",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.6",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de betalingsbalans (boekhoudkundig) als overzicht van de handel en betalingen tussen landen; - lopende rekening (inclusief saldi) - kapitaalrekening (inclusief saldi).",
+		"id": "5ff6c628-7869-4ee1-989f-7405a31d7935",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.7",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen het nationale spaarsaldo en het saldo op de lopende rekening.",
+		"id": "a308a361-8648-4017-aa17-6de377e81fcf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.8",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen de wisselkoers en de betalingsbalans en de wijze waarop een wisselkoers tot stand komt.",
+		"id": "25a09d3e-5e67-405e-9c77-77aee3ff4901",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.9",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de Lorenzcurve als weergave van de verdeling van het primaire inkomen en het secundaire inkomen; - Gini coëfficiënt - percentage, percentielen, kwintielen - nivelleren en denivelleren.",
+		"id": "b60f4f74-e05e-4005-91d6-f459c86cdf38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.10",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de categoriale inkomensverdeling, als de verdeling van het BBP over de verschillende inkomenscategorieën pacht, loon, rente/huur en winst, zijnde de beloningen voor de inzet van productiefactoren (arbeid, natuur, kapitaal, ondernemerschap) in het productieproces.",
+		"id": "9b92d62c-9b63-47d9-a6c5-39660fcda6ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.11",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de arbeidsinkomensquote (=AIQ) als het deel (of het percentage) van het nationaal inkomen dat dient als beloning voor de verschaffing van de productiefactor arbeid.",
+		"id": "68f44fc1-f1c4-4c53-ad4c-b1c48d976551",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.12",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren belastingstelsels als afspiegeling van de opvattingen over de gewenste mate van inkomens(on)gelijkheid tussen individuen en groepen;\r\n- marginaal belastingtarief - gemiddeld belastingtarief - heffingskortingen zoals de algemene korting en de arbeidskorting.",
+		"id": "81f53355-63e2-4735-b79e-7a3b3674f815",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.13",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren verschillende tariefstructuren binnen belastingstelsels zoals - boxenstelsel - progressief tarief - proportioneel tarief (vlaktaks) - degressief tarief.",
+		"id": "b634c175-a770-4033-93a3-a7cfde741393",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.1",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen structuurontwikkeling en de groei van het BBP door inzet van de productiefactoren arbeid , natuur, kapitaal, ondernemerschap en de relatie tussen de zowel de kwantitatieve als kwalitatieve veranderingen van deze productiefactoren (aanbodfactoren).",
+		"id": "8be67a19-1414-4480-8a6a-37fc218eb36c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwaliteit van de productiefactor arbeid en/of arbeidsproductiviteit bepalen, zoals: - scholing - knowhow / ervaring - gezondheid - specialisatie.",
+		"id": "df2b167f-31ac-480b-b191-b18cf4a9ba7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.3",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwantiteit van de productiefactor arbeid bepalen, zoals: \r\n- arbeidstijd en deeltijdwerk - personen en arbeidsjaren en/of arbeidsuren - arbeidsparticipatie - vergrijzing - wig - (potentiële) beroepsbevolking - leerplicht en pensioengerechtigde leeftijd - loonkosten per eenheid product.",
+		"id": "9d49c43f-e180-4f32-bb0e-f810296b8cb6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.4",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwaliteit van de productiefactor kapitaal en/of productiviteit bepalen, zoals:\r\n- onderzoek en ontwikkeling - internationalisering - creatieve destructie en (duurzame) innovatie.",
+		"id": "080f7f22-4a56-46b1-8eb1-fb749ced070b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.5",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwantiteit van de productiefactor kapitaal bepalen, zoals; \r\n- investeringen (uitbreiding- en/of vervangingsinvesteringen) - investeringsklimaat - stimuleringsmaatregelen.",
+		"id": "7abc8f42-70b9-40f1-85b0-f79114a157ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.6",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische motieven voor het al dan niet aangaan van internationale samenwerkingsvormen in relatie tot welvaart en economische groei; - vrijhandel - protectie (zoals invoerrechten, contingentering, dumping, infant industry).",
+		"id": "9fc27234-c2c7-493f-8eae-724cbb10c02e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.1",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen geaggregeerde vraag als de relatie tussen de gevraagde hoeveelheid productie en nationaal prijsniveau op alle markten samen (op de korte en lange termijn);\r\n- consumptieve bestedingen - investeringen - overheidsbestedingen - netto vraag uit het buitenland.",
+		"id": "ac7ad334-1879-4d96-8e65-c56573f64dca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.2",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het geaggregeerde aanbod als de relatie tussen de aangeboden hoeveelheid productie en nationaal prijsniveau op alle markten samen (op de korte en lange termijn).",
+		"id": "5edca880-40c0-466a-b12a-8db22b11904d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.3",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen evenwicht op de korte termijn en de lange termijn als de gelijkheid tussen geaggregeerde vraag en aanbod.",
+		"id": "9e130130-0c42-497b-9ba3-51a613d27dd4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.4",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen korte en lange termijn aanbod – en vraagveranderingen op nationaal niveau. \r\n- prijsrigiditeit - loonstarheid - productiecapaciteit.",
+		"id": "cb82a717-635a-40f2-801b-bd25ced4b1b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.5",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verkeersvergelijking van Fisher (MV = PT), waarbij M als de maatschappelijke geldhoeveelheid, V de omloopsnelheid van het geld, P het prijsniveau en T het aantal transacties.",
+		"id": "50890f3d-be8b-4152-bd51-24d1d1ea47eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.1",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen veranderingen van het evenwicht op de korte termijn en de lange termijn in relatie tot hoogconjunctuur, laagconjunctuur en trendmatige ontwikkelingen\r\n- Consumenten- en producentenvertrouwen - Werkloosheid en vacatures - Aantal uitzenduren - conjunctuurklok.",
+		"id": "ada7a8ec-8c46-4c41-9fdc-e8e26a173e16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.2",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van automatische stabilisatoren ten tijde van hoogconjunctuur en laagconjunctuur\r\n- sociale uitkeringen - belastingen.",
+		"id": "476236d7-d731-432a-91a4-1995fab08d36",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.3",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van de verandering van prijzen, inflatie, deflatie en stagflatie op de koopkracht van mensen.",
+		"id": "cb81712d-9abb-4ed6-a417-c409646e12ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.4",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen het prijsindexcijfer, koopkracht en inflatie/deflatie.",
+		"id": "ffcf1d1b-74ec-4ccc-b5e5-9c6d4264d680",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.5",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen nominale en reële grootheden - economische groei - uitkeringen (welvaartsvast en waardevast) - geldillusie",
+		"id": "5907a941-0c43-4147-9151-1f8e612cdcf9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.1",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen anticyclisch- en procyclisch conjunctuurbeleid.",
+		"id": "3de44269-a926-47c4-9cf1-6e23cabf4802",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.2",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen fiscaal beleid als het beïnvloeden van de conjunctuur middels de - belastingen - overheidsuitgaven - inverdieneffecten - uitverdieneffecten.",
+		"id": "0e260926-f277-4add-a774-afc8939e015c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen monetair beleid als het beïnvloeden van de conjunctuur middels; \r\n- rentebeleid - wisselkoersbeleid - geldhoeveelheidsbeleid.",
+		"id": "bdb1384a-e63c-4365-bc89-62915afc0fd9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.2",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de beperkingen die gesteld kunnen worden aan de effectiviteit van monetair beleid zoals de liquiditeitsval en de zero lower bound.",
+		"id": "7bc796f5-0084-4b2c-a85b-762d764a933a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de Europese Centrale Bank (ECB) of Centrale Banken van landen die niet onder de ECB vallen als: \r\n- toezichthouder op de infrastructuur van financiële markten en betalingsinstrumenten \r\n- beheerder van eigen externe reserves \r\n- uitgever van bankbiljetten\r\n- toezichthouder op aanbieders van risicomijdende en risicozoekende beleggingen.",
+		"id": "d94a6b7b-849f-4283-b95d-6504c4c8f3e5",
+		"unreleased": true
 	}
 ]
