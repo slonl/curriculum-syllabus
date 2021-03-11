@@ -1850,5 +1850,219 @@
 		"title": "Voor het centraal examen betekent dit dat de kandidaat een eenvoudige jaarrekening zoals van een MKB bedrijf kan analyseren",
 		"id": "3f377d29-d25c-42f3-9e80-3bf5b87f22da",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/6/toel.",
+		"examenprogramma_eindterm_id": [
+			"ff7585b9-b5fc-4d7a-a4e3-ba1445363348"
+		],
+		"title": "Voor het centraal examen betekent dit het noemen van bedrijfseconomische en organisatorische aspecten van een probleem, zowel binnen een organisatie als in het persoonlijk leven.",
+		"id": "99dfbd52-e790-4998-b2cb-96539e5fa304",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/7/toel.",
+		"examenprogramma_eindterm_id": [
+			"cf126395-d3c7-4bee-9692-08f08c51fa98"
+		],
+		"title": "Voor het centraal examen betekent dit het opstellen van een bedrijfseconomische denkwijze bij de oplossing van een bedrijfseconomisch of organisatorisch probleem.",
+		"id": "9659569c-1513-4812-83d6-a78f0c592a0e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/8a/toel.",
+		"examenprogramma_eindterm_id": [
+			"9011a16d-e675-482b-bf14-ab281d72422a"
+		],
+		"title": "Voor het centraal examen betekent dit het analyseren en beoordelen van de bedrijfseconomische en organisatorische dimensie van deze vraagstukken.",
+		"id": "5ce06441-7c12-4e71-99b1-8e9ca22481bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/8b/toel.",
+		"examenprogramma_eindterm_id": [
+			"e2da6114-f223-4988-987e-e30d96f65a69"
+		],
+		"title": "Voor het centraal examen betekent dit het analyseren en beoordelen van de bedrijfseconomische en organisatorische dimensie van deze vraagstukken.",
+		"id": "bdffe7fe-2f0a-4155-ab40-c5bee6636c18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/8c/toel.",
+		"examenprogramma_eindterm_id": [
+			"67ca8457-400e-4b7b-aa23-bde580aed9d2"
+		],
+		"title": "Voor het centraal examen betekent dit het analyseren en beoordelen van de bedrijfseconomische en organisatorische dimensie van deze vraagstukken.",
+		"id": "7ee7ac19-83cc-4f40-b7ea-1202a4b52790",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/8d/toel.",
+		"examenprogramma_eindterm_id": [
+			"8d4d6de1-608d-477f-b2d7-dcae2f2f664b"
+		],
+		"title": "Voor het centraal examen betekent dit het analyseren en beoordelen van de bedrijfseconomische en organisatorische dimensie van deze vraagstukken.",
+		"id": "e974ece6-b660-422d-8f33-c16cf05326b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/8e/toel.",
+		"examenprogramma_eindterm_id": [
+			"3b96caa8-0426-4d20-861f-4212f01d2b6f"
+		],
+		"title": "Voor het centraal examen betekent dit het analyseren en beoordelen van de bedrijfseconomische en organisatorische dimensie van deze vraagstukken.",
+		"id": "953a6f9f-df94-4e49-b9c5-3b2aa00dbbb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/10a/toel.",
+		"examenprogramma_eindterm_id": [
+			"73f5aac8-636f-492e-9cec-caf53075606c"
+		],
+		"title": "Voor het centraal examen gaat het daarbij om het opstellen van bedrijfseconomische werkwijzen, het uitleggen van bedrijfseconomische begrippen en grootheden en het analyseren van bedrijfseconomische relaties.",
+		"id": "b7af24e9-27f2-4870-9ebe-1af68f379341",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/10b/toel.",
+		"examenprogramma_eindterm_id": [
+			"61f2120c-bd0f-4b0b-89c3-b5afc042cf1b"
+		],
+		"title": "Voor het centraal examen gaat het daarbij om het opstellen van bedrijfseconomische werkwijzen, het uitleggen van bedrijfseconomische begrippen en grootheden en het analyseren van bedrijfseconomische relaties.",
+		"id": "8ac2ebf2-d3dd-4b5a-b5ce-e892dc7615a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/10c/toel.",
+		"examenprogramma_eindterm_id": [
+			"4efcace8-7339-47c9-a3de-b4fb78219c90"
+		],
+		"title": "Voor het centraal examen gaat het daarbij om het opstellen van bedrijfseconomische werkwijzen, het uitleggen van bedrijfseconomische begrippen en grootheden en het analyseren van bedrijfseconomische relaties.",
+		"id": "eaf795c1-c0e9-4a87-802f-70c6e7296fb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinA/A6/10d/toel.",
+		"examenprogramma_eindterm_id": [
+			"44375210-826e-4ed0-a516-69c6acbc22fc"
+		],
+		"title": "Voor het centraal examen gaat het daarbij om het opstellen van bedrijfseconomische werkwijzen, het uitleggen van bedrijfseconomische begrippen en grootheden en het analyseren van bedrijfseconomische relaties.",
+		"id": "2bf5a3e1-2389-47c2-8791-01e0051ec920",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinB/B1/11/toel.",
+		"examenprogramma_eindterm_id": [
+			"f54a0a2f-d5c0-46fb-933e-144890a1ce18"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat de financiële consequenties van persoonlijke vraagstukken kan uitleggen en berekenen (korte en lange termijn) en hierover een advies kan uitbrengen.",
+		"id": "7ddc6ffe-95b7-4614-9815-2e4663689163",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinB/B2/12/toel.",
+		"examenprogramma_eindterm_id": [
+			"36d62437-add2-4dbd-9141-2d799e83a3c7"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat het proces voor en rond de oprichting van een eenmanszaak kan uitleggen en in de rol (en de keuzes) van de ondernemer hierin kan beoordelen",
+		"id": "b55abbdd-17fd-4e19-afdb-68130b3c960f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinB/B3/13/toel.",
+		"examenprogramma_eindterm_id": [
+			"cc5a5987-5723-4040-8100-ca8185179a78"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat de verschillende rehtsvormen kan uitleggen.",
+		"id": "4c477d41-5cff-4ef0-ba1b-800c80ed673c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinB/B4/14/toel.",
+		"examenprogramma_eindterm_id": [
+			"c9238336-d24e-47ba-8a3d-d68eb0ac165b"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat de rol en de plaats van de organisatie in de maatschappij kan uitleggen.",
+		"id": "652ee62e-bafe-44d1-95a2-6eb5c9abf680",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BE/V/DomeinC/C2/17/toel.",
+		"examenprogramma_eindterm_id": [
+			"766fae65-5a7e-453e-b1f6-873944238c1b"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat het personeelsbeleid van een organisatie, met behulp van concrete voorbeelden, kan uitleggen in relatie tot de doelstelling en de aard van de organisatie (inclusief de relevante wet- en regelgeving).",
+		"id": "c0a2ea54-1a40-42a4-945d-963a7bd35692",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinD/D2/21/toel.",
+		"examenprogramma_eindterm_id": [
+			"f15aa5a8-61c5-4720-81a5-14d08b98a570"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat vanuit het perspectief van een organisatie (een onderneming met aandeelhouders, al dan niet beursgenoteerd) de redenen voor het aantrekken van verschillende types vermogen kan analyseren.",
+		"id": "75f682b0-9478-4169-af91-624e2d8ab831",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinD/D2/22/toel.",
+		"examenprogramma_eindterm_id": [
+			"0891eb25-13fa-4986-ab75-9b35a791d158"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat kan analyseren welke invloed de wijze van financieren heeft op het risico en geëist rendement van het eigen en vreemd vermogen.",
+		"id": "0605282c-d515-44fe-ae1a-b8e50c5b149d",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinE/E2/25/toel.",
+		"examenprogramma_eindterm_id": [
+			"22124844-67bc-4c3b-b216-2d9476777d16"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat het marketingbeleid kan beoordelen in relatie tot het begrip klantwaardepropositie.",
+		"id": "024728f0-4f1b-40a6-a934-ab62385c88d8",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinF/F1/28/toel.",
+		"examenprogramma_eindterm_id": [
+			"1c5e073f-361a-4bd1-8c94-1f0bd9a613ba"
+		],
+		"title": "Voor het centraal examen betekent dit dat de kandidaat financiële overzichten kan opstellen en analyseren.",
+		"id": "1316316f-fc99-47ee-aaa6-e0d47e387005",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinF/F1/29/toel.",
+		"examenprogramma_eindterm_id": [
+			"b1cfa131-e72f-4b11-8b1f-91f381a97af4"
+		],
+		"title": "Voor het centraal examen betekent dit het noemen van financiële en niet-financiële informatie en het belang ervan uitleggen voor het besturen van een organisatie.",
+		"id": "a00317b6-2751-44f9-b291-21d6e60c785c",
+		"unreleased": true
+	},
+	{
+		"prefix": "BE/V/DomeinG/32/toel.",
+		"examenprogramma_eindterm_id": [
+			"f0e575aa-be53-44e7-95d1-89ea67af73f9"
+		],
+		"title": "Voor het CE betekent dit dat de kandidaat een jaarrekening van een organisatie zoals een MKB bedrijf kan analyseren en beoordelen.",
+		"id": "a1bcb3b9-2839-4a41-af73-c46f08f6722a",
+		"unreleased": true
 	}
 ]
