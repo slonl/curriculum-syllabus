@@ -2064,5 +2064,45 @@
 		"title": "Voor het CE betekent dit dat de kandidaat een jaarrekening van een organisatie zoals een MKB bedrijf kan analyseren en beoordelen.",
 		"id": "a1bcb3b9-2839-4a41-af73-c46f08f6722a",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/A1/toel.",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "Uitwerking in examenvragen. Bij de informatievaardigheden gaat het om het toetsen van de economische begrippen die in gepresenteerde bronnen, al dan niet expliciet, aan de orde komen. Dit vereist een actieve beheersing van het begrippenapparaat. Tevens zal hier het onderscheid tussen havo en vwo inzichtelijker worden: leerlingen dienen uit de gepresenteerde bronnen, de benodigde gegevens en inzichten te halen die nodig zijn om problemen op te lossen of standpunten toe te lichten. Dit zijn bron-specifieke gegevens en/of economische begrippen zijn die de leerling ook in het antwoord moet gebruiken (de actieve beheersing: herkennen en toepassen). Bovendien kan het nodig zijn de gepresenteerde informatie te beoordelen op bruikbaarheid of relevantie (selecteren wat van belang is voor de gestelde vraag) en daarbij al dan niet te (her)ordenen en te bewerken (rekenkundig of grafisch). \r\nBij examenopgaven kunnen de volgende type informatievaardigheden voorkomen:\r\n- Informatie-selectievraag: het kunnen herkennen en selecteren van de economische begrippen die vallen onder de verschillende concepten.\r\n- informatiebegripsvraag: het kunnen herkennen van de economische begrippen die vallen onder de verschillende concepten en deze economische begrippen verbinden met andere begrippen (al dan niet expliciet benoemd)\r\n- informatiebewerkingsvraag het kunnen herkennen, selecteren en toepassen van de economische begrippen die vallen onder de verschillende concepten in dezelfde of een aanverwante context",
+		"id": "f53b0f7a-12e1-45f5-9e2d-16202385f544",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2/toel.",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "Bij rekenkundige vaardigheden gaat het om het toetsen van de beheersing van rekenkundige technieken en algoritmen. Het toetsen van begripsmatige kennis e.d. met een getallenvoorbeeld, wordt niet als rekenen aangemerkt omdat het rekenwerk daarbij geen doel is en uit zodanig elementaire bewerkingen bestaat dat het geen belemmering zou mogen opleveren.",
+		"id": "281a9752-f2ad-4200-af5f-f1c528d445d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A2/toel.",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "De grafische vaardigheden worden getoetst door bij voorkeur in elke context een of meer grafische elementen op te nemen (grafiek, figuur). Grafische vaardigheden worden weliswaar afzonderlijk genoemd, maar overlappen in het gebruik sterk met de informatie- en rekenkundige vaardigheden",
+		"id": "03244815-bcbd-4f1a-bce3-63f14731f748",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinA/1.A3/toel.",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.",
+		"id": "288e60f2-d984-4ad8-80cc-5a2ab925cf2e",
+		"unreleased": true
 	}
 ]
