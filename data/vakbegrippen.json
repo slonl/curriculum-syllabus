@@ -1018,5 +1018,227 @@
 		"title": "jaarverslag, bestuursverslag, jaarrekening, balans, winst- en verliesrekening, vaste activa, immateriële vaste activa, materiële vaste activa, financiële vaste activa, vlottende activa, voorraad, debiteuren, effecten, overlopende posten, liquide middelen, eigen vermogen, reserves, resultaat, schulden op lange termijn, hypothecaire lening, onderhandse lening, verplichtingen op korte termijn, crediteuren, rekening-courantkrediet, overlopende posten/transitorische posten, voorzieningen, onderhoudsvoorziening, garantievoorziening, pernsioenvoorziening, niet uit de balans blijkende verplichtingen en risico's, winst- en verliesrekening, omzet, kosten, resultaat, EBIT(DA), resultaat voor interest, belastingen (afschrijving en amortisatie), waardering en afschrijving, actuele waarde, herwaardering en afwaardering, financiële kengetallen, liquiditeitsratio, current ratio, quick ratio, solvabiliteitsratio's, EV, VV, TV, rentabiliteitsratio, resultaat per aandeel, cash flow per aandeel, REV, RTV, IVV, dividendrendement, beleggersrendement, hefboomwerking en interestmarge, DuPont schema, omloopsnelheid, resultaatmarge, controleverklaring van de accountant, wet- en regelgeving",
 		"id": "7c3f984d-68bb-49a7-801b-f44ade3ad382",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c4ff8f0c-2385-47f3-819b-651202b9b88d"
+		],
+		"title": "meetlint, maatglas, stopwatch, weegschaal, stemvork, toongenerator, luidspreker, microfoon, oscilloscoop, GM-teller, krachtmeter, heftboom, luchtkussenbaan, stroboscoop, (vloeistof)thermometer, joulemeter, veer, voedingsapparaat, regelbare weerstand",
+		"id": "004981cf-9c53-4fc1-8886-c56a15c75121",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c4ff8f0c-2385-47f3-819b-651202b9b88d"
+		],
+		"title": "computer met sensoren, lichtpoortje, videometen, meetprogrammatuur, programmatuur voor het verwerken en analyseren van meetgegevens",
+		"id": "ebb77ddc-c259-4f75-b597-bd73aa5fb5d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "uitwijking, amplitude, periode, harmonische trilling",
+		"id": "c04c05f7-ed02-44c7-9754-d05bf74868e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "eigenfrequentie, resonantie",
+		"id": "ea446e48-2ced-4645-831c-8a6c33c10db0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "lopende golf, voortplantingssnelheid, geluidsnelheid, lichtsnelheid, transversaal, longitudinaal",
+		"id": "0420c0fa-794b-49a8-896a-b0562b31946b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "knoop, buik, grondtoon, boventoon",
+		"id": "4503ac9d-7ee9-4dff-94bd-1588df5c6e18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "absorptie, emissie, elektromagnetische golf, foton",
+		"id": "eef1a2e9-04c9-4305-bae2-f091dd537f7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "stralingsbron, radioactief verval, isotoop, kern, proton, neutron, elektron, atomaire massaeenheid, ioniserend en doordringend vermogen, dracht, röntgenstraling, α-, β- en γ-straling, kosmische straling, achtergrondstraling, bestraling, besmetting, effectieve totale lichaamsdosis in relatie tot stralingsbeschermingsnormen, dosimeter, eV",
+		"id": "ed239876-7bd8-41d6-864e-00c3c639619e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "doorlaatkromme, vervalkromme",
+		"id": "776b92d9-e958-48e9-b6f1-66ab49d40466",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, echografie en nucleaire diagnostiek",
+		"id": "076caf9e-e6f2-49d9-b072-245fce5ef9e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "Natuurkundige achtergonden: halveringsdikte van menselijke weefsels, magnetisch veld en resonantie, ultrasone geluidsgolf, geluidsnelheid in menselijke weefsels, absorptie, transmissie, terugkaatsing, tracer",
+		"id": "46e0839d-a016-4e2c-83e3-45505378ee55",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "Krachten: zwaartekracht, schuifwrijvingskracht, rolweerstandskracht, luchtweerstandskracht, normaalkracht, spankracht, spierkracht, veerkracht",
+		"id": "44a27437-337e-432d-8082-ea5a0c6e0871",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "zwaartepunt, aangrijpingspunt, werklijn, arm, moment",
+		"id": "d9a17173-456c-43f3-a9ef-d2545edfed08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "gas, vloeistof, vaste stof, smelten, stollen, verdampen, condenseren, sublimeren",
+		"id": "569cc03d-b3b4-4d86-9708-8ab035239bac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "geleiding, stroming, straling",
+		"id": "bc30666e-95ee-4627-984e-8565ee726a35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "atomaire massa",
+		"id": "4e180ba7-71ea-4445-bb67-747f2413aea8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "geleidingselektron",
+		"id": "69bdc3ac-b3cf-43cf-ac86-01759e5882f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "treksterkte (de maximale spanning waarbij nog geen breuk optreedt)",
+		"id": "c6ae0088-7346-4c40-b47c-13f250fb2a1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "planeet, komeet, meteoriet",
+		"id": "3137b730-2419-47a4-be22-f7ebefc755b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "omlooptijd, baanstraal, baansnelheid",
+		"id": "ecae720e-123b-4ac9-90e5-480f6ca667f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "ellipsbaan, geostationaire baan",
+		"id": "6832031c-481c-4bfb-9fb9-3228103f835b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "oerknal, uitdijend heelal, lichtsnelheid, lichtjaar, Melkweg, zonnestelsel",
+		"id": "9a85345d-8930-4e43-ba15-b6a38a590d25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "vrij elektron, ion, afstotende en aantrekkende elektrische kracht, spanningsbron",
+		"id": "d028aea1-9b2d-4e74-9d99-135ba7f9bbfc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "stroomdeling, spanningsdeling, kortsluiting",
+		"id": "cb1cd925-80a1-4f7c-a43c-d32b05007155",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "energiedichtheid van een accu, capaciteit",
+		"id": "c4c6f762-2593-4d9b-b59f-8f434c6c3dfe",
+		"unreleased": true
 	}
 ]
