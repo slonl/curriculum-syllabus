@@ -10390,5 +10390,955 @@
 		"title": "De kandidaat kan in contexten herkennen en toepassen de Europese Centrale Bank (ECB) of Centrale Banken van landen die niet onder de ECB vallen als: \r\n- toezichthouder op de infrastructuur van financiële markten en betalingsinstrumenten \r\n- beheerder van eigen externe reserves \r\n- uitgever van bankbiljetten\r\n- toezichthouder op aanbieders van risicomijdende en risicozoekende beleggingen.",
 		"id": "d94a6b7b-849f-4283-b95d-6504c4c8f3e5",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.3",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis",
+		"id": "2eab8d17-096e-456c-8381-c9fa1038719e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.4",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, waar nodig een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren",
+		"id": "dbd34f89-1183-4f9f-aaf1-d0a3d1e6e454",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.5",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoording van een (of meer) onderzoeksvra(a)g(en)",
+		"id": "b21d392e-1bdf-40f7-9a91-3a74c8c57767",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.7",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een onderzoeksvraag",
+		"id": "b49b5dc9-4760-468d-88df-cae0d2d31d84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.8",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten bij de onderzoeksvra(a)g(en) van het onderzoek",
+		"id": "1aec8969-043a-4aef-9a3e-2ecb26b2a037",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A5/5.9",
+		"examenprogramma_eindterm_id": [
+			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, de uitvoering van een onderzoek en de conclusies evalueren, gebruik makend van de begrippen nauwkeurigheid, reproduceerbaarheid en betrouwbaarheid.",
+		"id": "64d6e8ce-0f37-467e-81a4-b6b0bc1c3590",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A6/6.3",
+		"examenprogramma_eindterm_id": [
+			"5ec04067-d8be-410f-a306-68b03921e76f"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen, kan verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een ontwerp",
+		"id": "93c81c69-1711-4172-81b8-041ba8a9ddbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A6/6.4",
+		"examenprogramma_eindterm_id": [
+			"5ec04067-d8be-410f-a306-68b03921e76f"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen, kan verschillende (deel)uitwerkingen geven voor taken en eigenschappen van een ontwerp.",
+		"id": "67551815-db2b-4845-ba22-1a6da18e9b78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A6/6.7",
+		"examenprogramma_eindterm_id": [
+			"5ec04067-d8be-410f-a306-68b03921e76f"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen, kan een ontwerpproces en -product evalueren, rekenening houden met het programma van eisen.",
+		"id": "607194a5-d140-45b5-a3fe-bc219598e6de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A6/6.8",
+		"examenprogramma_eindterm_id": [
+			"5ec04067-d8be-410f-a306-68b03921e76f"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen, kan voorstellen doen voor verbetering van een ontwerp.",
+		"id": "aefa3fa8-ac36-4a20-b21a-bbd148aa53d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A7/7.1",
+		"examenprogramma_eindterm_id": [
+			"e9b56f2d-57df-4109-bde8-65c335f1d5f4"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, kan relevante grootheden en relaties in een probleemsituatie identificeren en selecteren.",
+		"id": "1f85558b-1124-4756-9d46-4cd3c93037e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A7/7.2",
+		"examenprogramma_eindterm_id": [
+			"e9b56f2d-57df-4109-bde8-65c335f1d5f4"
+		],
+		"title": "De kandidaat kan gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden, kan door het doen van aannamen en het maken van vereenvoudigingen een natuurwetenschappelijk probleem inperken tot een onderzoekbare vraagstelling.",
+		"id": "7c240a0c-3477-4e77-9e0f-4bd4dcc7484d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.1.1",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen, gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema's en diagrammen",
+		"id": "4697093a-a5a9-4ea5-ae37-94486d8fcd5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.1.2",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen,  grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
+		"id": "a27f39c2-bcbb-4447-83e2-65c4f476f5f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.2",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan informatie, gegevens en meetresultaten analyseren, weergeven en structreren in grafieken, tekening, schema's, diagrammen en tabellen",
+		"id": "6f0e5c0a-0db9-4775-8f73-a198452b1521",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.3.1",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan uitleggen wat bedoeld wordt met de significantie van meetwaarden en uitkomsten van berekeningen weergeven in het juiste aantal significante cijfers bij het optellen en aftrekken van meetwaarden wordt de uitkomst gegeven met evenveel decimalen als de gegeven meetwaarde met het kleinste aantal decimalen",
+		"id": "d28ee449-1283-4ee1-a689-1e7bee6887ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.3.2",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan uitleggen wat bedoeld wordt met de significantie van meetwaarden en uitkomsten van berekeningen weergeven in het juiste aantal significante cijfers bij het delen en vermenigvuldigen wordt de uitkomst gegeven in evenveel significante cijfers als de gegeven meetwaarde met het kleinste aantal significante cijfers",
+		"id": "9977455a-d038-4fdf-8367-20445ee7ee34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.3.3",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan uitleggen wat bedoeld wordt met de significantie van meetwaarden en uitkomsten van berekeningen weergeven in het juiste aantal significante cijfers, gehele getallen die verkregen zijn door discrete objecten te tellen, vallen niet onder de regels van significante cijfers (dit geldt ook voor mathematische constanten en geldbedragen)",
+		"id": "43565a51-cb26-4b00-ae75-7cc694472e0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A8/8.4",
+		"examenprogramma_eindterm_id": [
+			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
+		],
+		"title": "De kandidaat kan aangeven met welke technieken en apparaten de belangrijkste grootheden uit de natuurwetenschappen worden gemeten.",
+		"id": "25e1a958-2488-4a46-8949-f19a6a6c1ee9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A9/9.1",
+		"examenprogramma_eindterm_id": [
+			"630de87f-a02d-433b-9c67-d4d26cd49a99"
+		],
+		"title": "De kandidaat kan een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij vraagstukken van natuurwetenschappelijke aard;",
+		"id": "de56911c-affe-44a2-8e16-ebf9634c6f6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A9/9.2",
+		"examenprogramma_eindterm_id": [
+			"630de87f-a02d-433b-9c67-d4d26cd49a99"
+		],
+		"title": "De kandidaat kan onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen;",
+		"id": "f4dfaf69-84f7-43c1-ac3c-56be3c4f9ee1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A9/9.3",
+		"examenprogramma_eindterm_id": [
+			"630de87f-a02d-433b-9c67-d4d26cd49a99"
+		],
+		"title": "De kandidaat kan feiten met bronnen verantwoorden",
+		"id": "0a9dbcda-ca82-405e-8e65-df03b29cc504",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A9/9.4",
+		"examenprogramma_eindterm_id": [
+			"630de87f-a02d-433b-9c67-d4d26cd49a99"
+		],
+		"title": "De kandidaat kan de betrouwbaarheid beoordelen van informatie en de waarde daarvan vaststellen voor de beantwoording van het betreffende vraagstuk.",
+		"id": "9728b24c-4111-47e8-b96d-8f78fd2cf7ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A11/11.1",
+		"examenprogramma_eindterm_id": [
+			"c4ff8f0c-2385-47f3-819b-651202b9b88d"
+		],
+		"title": "De kandidaat kan gebruik maken van kennis over materialen, meetinstrumenten en apparaten voor het uitvoeren van experimenten en technisch ontwerpen met betrekking tot de in de domeinen genoemde vakinhoud",
+		"id": "40613536-9b8a-4095-98be-478fb51d8bc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A11/11.2",
+		"examenprogramma_eindterm_id": [
+			"c4ff8f0c-2385-47f3-819b-651202b9b88d"
+		],
+		"title": "De kandidaat kan gebruik maken van kennis over ICT-toepassingen voor het uitvoeren van experimenten met betrekking tot de in de domeinen genoemde vakinhoud",
+		"id": "91876483-ddca-40cc-9c68-c861ca6f4348",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.1.1",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden uitvoeren, rekenen met verhoudingen, procenten, breuken, machten en wortels;",
+		"id": "b6075d7b-1c3c-44a6-876a-1cbe1c3aeb16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.1.2",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden uitvoeren, de omtrek en de oppervlakte berekenen van een cirkel, een driekhoek en een rechthoek",
+		"id": "bf150177-b35e-4538-b577-bc951b944ca0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.1.3",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden uitvoeren, het volume berekenen van een balk en een cilinder;",
+		"id": "91044b7d-038d-4f5c-bcf9-98df07afe800",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.1.4",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden uitvoeren, de oppervlakte van het volume berekenen van een bol.",
+		"id": "a4066d8d-afba-4fda-ada7-efa12ee0c002",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.1",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen herleiden van formules.",
+		"id": "1ec9d64e-7927-48f0-834d-b25f6b66c39a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.2",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, redeneren met evenredigheden (recht, omgekeerd, kwadratisch, omgekeerd kwadratisch).",
+		"id": "984f4b09-4a59-4436-9077-ded7d793f10a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.3",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, oplossen van lineaire en tweedegraads vergelijkingen.",
+		"id": "56ef1a76-54cd-4ad6-a358-4091c12344a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.4",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen van xn",
+		"id": "8d79fef0-d499-46bd-ad90-825b222b2177",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.5",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, in een rechthoekige driehoek met twee zijdes of met één zijde en één hoek gegeven, de overige zijdes en hoeken uitrekenen, gebruik makend van sinus, cosinus, tangens en de stelling van Pythagoras.",
+		"id": "e71f4bdf-8e51-426f-9b8c-bbbdc1114d32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.6",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, grafisch optellen en ontbinden van vectoren.",
+		"id": "034c078e-6f28-478b-a855-a0d1de322b35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.7",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, grafieken tekenen bij een meetserie.",
+		"id": "db6d0c09-4993-4398-8cf0-91b7a0343a7f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.8",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, functievoorschriften opstellen van lineaire verbanden.",
+		"id": "9049e000-af95-46a8-8a73-f72da4fdf857",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.9",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, grafieken tekenen met behulp van een functievoorschrift.",
+		"id": "93e1d6b3-fbba-4099-8b80-b96f8cf02ab0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.10",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, aflezen van diagrammen, waaronder diagrammen met asonderbrekingen.",
+		"id": "79c627e3-269d-40c0-9cb3-10ed3c193db3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.11",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, interpoleren en extrapoleren in diagrammen en tabellen.",
+		"id": "6618646d-e10a-44ae-9ed8-c2eccf4ae325",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.12",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, tekenen van de raaklijn aan een kromme en de steilheid bepalen.",
+		"id": "180f0945-f0f8-4d18-9519-58f7f8848d93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.2.13",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan wiskundige technieken toepassen, de oppervlakte onder een grafiek bepalen.",
+		"id": "4035bfc4-9070-4f1f-a5ff-342949e4bb12",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.3.1",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren met bekende grootheden en relaties en daarbij de juiste formules en eenheden hanteren, formules zoals vermeld bij de vakinhoudelijke subdomeinen of gegeven in het examen.",
+		"id": "eec68f4c-50ae-4676-873e-10799a6c0142",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.3.2",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren met bekende grootheden en relaties en daarbij de juiste formules en eenheden hanteren, substitueren van formules.",
+		"id": "e0b35ccb-8c33-424f-8cc2-3f82c70ec0ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A12/12.3.3",
+		"examenprogramma_eindterm_id": [
+			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren met bekende grootheden en relaties en daarbij de juiste formules en eenheden hanteren, eenheden omrekenen, afleiden en controleren.",
+		"id": "3b254fb1-3ba3-4682-a5d0-f30110e8abc4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A15/15.1",
+		"examenprogramma_eindterm_id": [
+			"8e6a420f-e84e-4370-95c6-0e74c720ad26"
+		],
+		"title": "De kandidaat kan gebruik maken van beredeneerde schattingen voor onbekende grootheden bij het oplossen van natuurkundige vraagstukken",
+		"id": "93099798-93fd-4695-8c8a-574b55f024f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A15/15.2",
+		"examenprogramma_eindterm_id": [
+			"8e6a420f-e84e-4370-95c6-0e74c720ad26"
+		],
+		"title": "De kandidaat kan vooraf de orde van grootte van een grootheid of uitkomst inschatten en achteraf beoordelen in hoeverre de uitkomst van een vraagstuk juist kan zijn",
+		"id": "397ca4a3-6838-4e63-88b0-57a4450d6165",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinA/A15/15.3",
+		"examenprogramma_eindterm_id": [
+			"8e6a420f-e84e-4370-95c6-0e74c720ad26"
+		],
+		"title": "De kandidaat kan redeneren met natuurkundige verbanden.",
+		"id": "fc8d4c3f-ece2-4e2c-ba4f-6aee16a065c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B1/16.1",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "De kandidaat kan trillingsverschijnselen analyseren",
+		"id": "6fdb9190-39ce-4945-881e-83d1a415f946",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B1/16.2",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "De kandidaat kan berekeningen maken aan de eigentrilling van een massa-veersysteem",
+		"id": "69c83788-6f50-4958-adae-36a6cb5a329b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B1/16.3",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "De kandidaat kan golfverschijnselen analyseren, minimaal in de context: Informatieoverdracht.",
+		"id": "dffb5333-a5bb-4e51-a9a8-2316523df1ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B1/16.4",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "De kandidaat kan bij een staande golf het verband tussen de golflengte en de lengte van het trillende medium met behulp van een tekening toelichten. Minimaal in de context: muziekinstrumenten.",
+		"id": "3c2e7323-4281-44e9-918e-55e2ad7f5cdd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B1/16.5",
+		"examenprogramma_eindterm_id": [
+			"374e603c-dd57-4e07-b057-99378756cb01"
+		],
+		"title": "De kandidaat kan uit (u,t) en (u,x)-diagrammen de fysische eigenschappen van de trillingen en golven bepalen. Minimaal in de context: cardiogram.",
+		"id": "e2fb2961-00a4-4479-8f56-d25f3e2bdbb9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B2/17.1",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "De kandidaat kan uitzending, voortplanting en opname van elektromagnetische straling beschrijven",
+		"id": "9142b8ae-f921-4eeb-aa30-6f70eadf9e6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B2/17.2.1",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "De kandidaat kan de verschillende soorten ioniserende straling, hun ontstaan en hun eigenschappen benoemen, evenals de risico's van deze soorten straling voor mens en milieu, en berekeningen maken met (equivalente) dosis, de activiteit op een bepaald moment bepalen uit een (N,t)-diagram en de gemiddelde activiteit berekenen. Minimaal in de context: nucleaire diagnostische geneeskunde. Minimaal in de context nucleaire diagnostische geneeskunde, stralingsbecherming.",
+		"id": "0b4f556e-bef0-4c4b-b196-c31d9683db9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B2/17.2.2",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "De kandidaat kan de verschillende soorten ioniserende straling, hun ontstaan en hun eigenschappen benoemen, evenals de risico's van deze soorten straling voor mens en milieu, en berekeningen maken met (equivalente) dosis,  de vergelijking opstellen van een vervalreactie (vergelijkingen van spontane vervalreacties). Minimaal in de context: nucleaire diagnostische geneeskunde. Minimaal in de context nucleaire diagnostische geneeskunde, stralingsbecherming.",
+		"id": "878a2d07-2670-4c8a-bf9b-dd52bda97406",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B2/17.3",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "De kandidaat kan problemen oplossen waarbij de halveringstijd of halveringsdikte een rol speelt, berekeningen maken alleen bij een geheel aantal halveringstijden of halveringsdiktes. Minimaal in de context: medische diagnostiek.",
+		"id": "7c918bea-daba-4381-9b92-f726c74bdb44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinB/B2/17.4",
+		"examenprogramma_eindterm_id": [
+			"2501e97c-8029-48d7-8064-b142bef10646"
+		],
+		"title": "De kandidaat kan medische beeldvormingstechnieken aan de hand van hun natuurkundige achtergrond beschrijven, voor- en nadelen van deze technieken noemen en op grond daarvan in gegeven situaties een keuze voor een techniek beargumenteren",
+		"id": "e96ad2b9-a770-438c-b98b-1ba922701f34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.1",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan berekeningen maken aan eenparige rechtlijnige bewegingen",
+		"id": "a83cdb51-c64a-4267-b301-768fe5feb39a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.2.1",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-tijddiagrammen de volgende bewegingen herkennen: eenparige rechtlijnige beweging, eenparig versnelde of vertraagde beweging, vrije val, valbeweging met wrijving",
+		"id": "0e738292-7ab5-4eb5-b396-5e3eb6b871d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.2.2",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-tijddiagrammen uit een (x, t)-diagram de gemiddelde snelheid bepalen",
+		"id": "d1daf086-cace-4333-b398-dc8c50065c97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.2.3",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-tijddiagrammen uit een (x, t)-diagram de snelheid op een bepaald moment bepalen, zo nodig met behulp van een raaklijn",
+		"id": "05fb2f99-37f0-4815-85ac-06eec3d84d9a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.2.4",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-tijddiagrammen uit een (v, t)-diagram de (val)versnelling op een bepaald moment bepalen, zo nodig met behulp van een raaklijn",
+		"id": "0dece572-5287-4a41-bcfd-1ccd071a6d8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.2.5",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan eigenschappen van bewegingen bepalen aan de hand van plaats-tijddiagrammen en snelheid-tijddiagrammen uit een (v,t)-diagram de verplaatsing en de gemiddelde snelheid bepalen met behulp van de oppervlakte onder de kromme",
+		"id": "7f74827d-ef09-4a05-9f51-2897d89c5efe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.3",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan krachten op een systeem aan de hand van een vectortekening analyseren, waaronder het samenstellen van en ontbinden in componenten met behulp van een parallellogram en het bepalen van de grootte en/of richting van krachten uit een vectortekening.",
+		"id": "1a9704e4-f702-4961-a711-3416e96a7c03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.4",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan de eerste wet van Newton uitleggen en toepassen",
+		"id": "4b56030e-7f5b-48c0-ae82-98b9b64c7a22",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.5",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan de tweede wet van Newton uitleggen en toepassen",
+		"id": "52e3eb32-937a-4f59-bc7d-9895a3a89759",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C1/19.6",
+		"examenprogramma_eindterm_id": [
+			"009237ba-6582-41ce-a2ad-d748c53184df"
+		],
+		"title": "De kandidaat kan de momentenwet/hefboomwet toepassen op stilstaande voorwerpen berekeningen alleen in situaties waarbij twee krachten werken waarvan de werklijnen niet door het draaipunt gaan. Minimaal in de context: menselijk lichaam.",
+		"id": "00005c3e-5cbe-4849-95aa-663dacd9b5a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C2/20.1",
+		"examenprogramma_eindterm_id": [
+			"88d5f97c-1c05-4401-814b-7e3fdca53a38"
+		],
+		"title": "De kandidaat kan berekeningen maken met betrekking tot kracht, verplaatsing, arbeid, snelheid en vermogen berekenen van arbeid uit kracht en verplaatsing alleen in situaties waarbij de richting van de kracht evenwijdig is aan de verplaatsing.",
+		"id": "dd32f632-0a75-4ebf-81ad-710df3da9ccb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C2/20.2.1",
+		"examenprogramma_eindterm_id": [
+			"88d5f97c-1c05-4401-814b-7e3fdca53a38"
+		],
+		"title": "De kandidaat kan energieomzettingen bij bewegingen analyseren, de wet van behoud van energie en de relatie tussen arbeid en kinetische energie toepassen. Minimaal in de contexten: energiegebruik en energiebesparing in het verkeer, de bewegende mens.",
+		"id": "87d54805-a02f-4c1e-b70a-550033813587",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C2/20.2.2",
+		"examenprogramma_eindterm_id": [
+			"88d5f97c-1c05-4401-814b-7e3fdca53a38"
+		],
+		"title": "De kandidaat kan energieomzettingen bij bewegingen analyseren, minimaal de bewegingen: vrije val, valbeweging met wrijving en verticale worp. Minimaal in de contexten: energiegebruik en energiebesparing in het verkeer, de bewegende mens.",
+		"id": "da4b116a-e5a5-411f-8b0e-0e30e1df0bdf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinC/C2/20.2.3",
+		"examenprogramma_eindterm_id": [
+			"88d5f97c-1c05-4401-814b-7e3fdca53a38"
+		],
+		"title": "De kandidaat kan energieomzettingen bij bewegingen analyseren, energieën: kinetische energie, waarte-energie, chemische energie, warmte, wrijvingsarbeid, energiegebruik en energiebesparing in het verkeer, de bewegende mens. Minimaal in de contexten: energiegebruik en energiebesparing in het verkeer, de bewegende mens.",
+		"id": "d5138405-e829-422e-b33a-b612e3f6934d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.1",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan het moleculaire model van materie gebruiken bij het verklaren van fasen en fasenovergangen",
+		"id": "0337b1de-7150-47ab-8209-6af47ad7dfe2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.2",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan warmtetransport verklaren met behulp van materiemodellen het verband tussen de warmtestroom en de thermische geleidbaarheid van een stof uitleggen en eenvoudige berekeningen aan de warmtestroom maken. Minimaal in de context: energiebesparing door isolatie.\r\nOnder warmtestroom wordt verstaan de hoeveelheid warmte die per tijdseenheid door een wand gaat. Hierbij mag de invloed van de luchtlagen aan weerszijden van de wand verwaarloosd worden.",
+		"id": "ecb8796a-7efa-42f9-81d9-053393f77a03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.3.1",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan termperatuurveranderingen van een stof beschrijven als gevolg van het toe- of afvoeren van warmte, temperatuur beschrijven in termen van beweging van deeltjes en uitleggen dat er een absoluut nulpunt bestaat.",
+		"id": "10eea658-a47d-45bf-8e24-39c045d41b5d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.3.2",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan termperatuurveranderingen van een stof beschrijven als gevolg van het toe- of afvoeren van warmte, soortelijke warmte als stofeigenschap",
+		"id": "58517431-00ad-4cec-8503-d77f84e7ee51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.3.3",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan termperatuurveranderingen van een stof beschrijven als gevolg van het toe- of afvoeren van warmte, omrekenen van graden celcius naar kelvin en omgekeerd.",
+		"id": "fdcc9e50-0838-4d05-95d6-681f06844119",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.4",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan het verband tussen de dichtheid en de soortelijke warmte bij metalen beschrijven en verklaren",
+		"id": "56ae012d-1803-45b8-9e31-635a706a58da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.5",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan het verband tussen de warmtegeleiding en elektrische geleiding bij metalen beschrijven en verklaren",
+		"id": "fc0cb6a9-4d91-46a7-a9bf-d8daff78baba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinD/D1/21.6",
+		"examenprogramma_eindterm_id": [
+			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
+		],
+		"title": "De kandidaat kan spanning-rekdiagrammen interpreterern in termen van elastische en plastische vervorming en berekeningen maken aan elastische vervormingen",
+		"id": "6e6fbf37-3c3e-4adc-a25d-cd1a6e9ccbf1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.1",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan de structuur van het zonnestelsel beschrijven, waarnemingen van maanfasen en de hemelbaan van zon, maan en sterren interpreteren",
+		"id": "6e0b495f-ed75-48b3-8464-9fae3784de06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.2",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan cirkelbewegingen met constante baansnelheid analyseren, berekeningen maken aan de middelpuntzoekende kracht alleen in situaties waarin slechts één kracht de rol van middelpuntzoekende kracht heeft.",
+		"id": "d392093a-a964-4ad6-b5e1-51365d871c4e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.3",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan de baan van planeten om de zon en van maan en satellieten om de aarde analyseren met behulp van de gravitatiekracht, uitleggen hoe de valversnelling aan het planeetoppervlak afhangt van de massa en de straal van de planeet.",
+		"id": "5d55b751-f1c8-43d9-86d2-ffebe285b5c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.4",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan de verschillen tussen het heliocentrisch en het geocentrisch wereldbeeld benoemen en daarbij aangeven wat de invloed van deze verandering van het wereldbeeld op het menselijk denken is geweest.",
+		"id": "b89f81af-3b9a-4fe9-b89c-0a5aa085ac63",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.5",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan het ontstaan, de structuur en de ontwikkeling van het heelal beschrijven, uitleggen hoe de afstand van een ster tot de waarnemer en de tijd tussen uitzenden en waarnemen van het licht van de ster met elkaar samenhangen. Structuren: cluster, sterrenstelsel, planetenstelsel.",
+		"id": "faa194c4-dc60-42c9-8f05-2dcab226295a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinE/E1/23.6",
+		"examenprogramma_eindterm_id": [
+			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
+		],
+		"title": "De kandidaat kan beschrijven hoe in het totale spectrum van elektromagnetische straling waarnemingen aan het heelal worden verricht vanaf de aarde en vanuit de ruimte en dat een deel van die elektromagnetische straling afkomstig is van de warmtestraling van de zon en andere sterren, de verschillende onderdelen van het elektromegnetisch spectrum en de eigenschappen van deze stralingssoorten beschrijven: gammastraling, röntgenstraling, ultraviolet, (zichtbaar) licht, infrarood, radiogolven, microgolven. De wet van Wien gebruiken. Instrumenten: optische telescoop, radiotelescoop, ruimtetelescoop",
+		"id": "d12e07ee-61e3-427b-a154-67e582c6fcdf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.1",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan het verschijnsel elektrische stroom uitleggen als verplaatsing van lading ten gevolge van een aangelegde spanning, de definities van stroomsterkte en soortelijke weerstand gebruiken.",
+		"id": "7ebcf505-1ed3-4155-8243-fed139450b18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.2.1",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan stroomkringen analyseren en daarbij voor serie- en parallelschakelingen van weerstanden berekingen maken over spanning, stroomsterkte, weerstand en geleidbaarheid bij gemengde schakelingen alleen beredeneren en eenvoudige berekeningen maken",
+		"id": "00b49ea7-692c-476f-9f87-89672e75be99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.2.2",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan stroomkringen analyseren en daarbij voor serie- en parallelschakelingen van weerstanden berekingen maken over spanning, stroomsterkte, weerstand en geleidbaarheid de juiste aansluitwijze van stroommeter en spanningsmeter toepassen",
+		"id": "3891e8e2-920e-42fe-a46a-5d4ed5b801da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.2.3",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan stroomkringen analyseren en daarbij voor serie- en parallelschakelingen van weerstanden berekingen maken over spanning, stroomsterkte, weerstand en geleidbaarheid de volgende coponenten toepassen binnen een schakeling: diode, LDR, NTC, PTC, ohmse weerstand, lamp, motor, verwarmingselement, zekering, aardlekschakelaar",
+		"id": "af0a98c3-09c8-471d-a905-444a84526315",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.3",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan het vermogen en het rendement van energieomzettingen in een elektrische stroomkring analyseren, berekeningen aan elektrische energie in houle en in kilowattuur. Minimaal in de context: lichtbronnen en apparaten in huis (gloeilamp, spaarlamp, LED, elektromotor, verwarmingselement en kWh-meter), energiegebruik, energiebesparing.",
+		"id": "7f80da60-bd7b-4eab-b0f0-dad392aa9431",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.4",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan de energie-omzetting bij verschillende opwekkingsvormen van elektriciteit beschrijven, en deze opwekkingsvormen vergelijken ten aanzien van duurzaamheid en energiedichtheid, opwekkingsvormen, kerncentrale, conventionele (fossiele brandstof), centrale, waterkrachtcentrale, zonnecel, waterstofcel, windturbine. Apparaat: generator.",
+		"id": "d32fec0b-42db-4e9b-825d-d531370e37b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinG/G1/26.5",
+		"examenprogramma_eindterm_id": [
+			"c7249681-88fe-40d6-b715-bef5413fcf90"
+		],
+		"title": "De kandidaat kan verschillende vormen van transport en opslag van elektriciteit beschrijven, opslagvormen, batterij, accu, waterstofcel, apparaat: transformator.",
+		"id": "00048d80-bf0a-426e-8b03-476bdd86fa6b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinH/28.1",
+		"examenprogramma_eindterm_id": [
+			"9d99bebf-ad0c-4bcb-a242-7e6e6ae8499c"
+		],
+		"title": "De kandidaat kan voorbeelden die passen bij de specificaties van de havodomeinen gebruiken om de wederzijdse beïnvloeding van technologie en natuurkundige kennis toe te lichten",
+		"id": "874d5c7e-20bd-4210-a9c9-e4ba0619e529",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NA/H/DomeinH/28.2",
+		"examenprogramma_eindterm_id": [
+			"9d99bebf-ad0c-4bcb-a242-7e6e6ae8499c"
+		],
+		"title": "De kandidaat kan fysische principes en wetmatigheden toepassen op technologische ontwikkelingen en daarbij de gespecificeerde natuurkundige kennis hanteren. Principes: model als vereenvoudigde weergave van de werkelijkheid, analogie denken in ordes van grootte.\r\nWetmatigheden: wet van behoud van energie, wetten van Newton (eerste en tweede)",
+		"id": "8385cd52-9e74-4b34-b13f-41fef98aa0b6",
+		"unreleased": true
 	}
 ]
