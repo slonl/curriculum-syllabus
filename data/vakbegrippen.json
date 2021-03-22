@@ -1498,5 +1498,392 @@
 		"title": "rekencapaciteit, stapgrootte, beginvoorwaarde",
 		"id": "18c65ad8-043d-49cc-8166-11548455815a",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3e864140-dd46-4a14-a3bb-977817f814b7"
+		],
+		"title": "tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding, tekeningen, schema's, diagrammen en tabellen, gegevensbestanden, cd-rom en internet",
+		"id": "113efd50-6e77-4a81-a5be-f4a3a3fef273",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3d8ae863-9c83-4449-a10a-e3796f386e5a"
+		],
+		"title": "lengte (weg, afstand), snelheid, oppervlakte, volume, massa, tijd, toonhoogte (frequentie), stroomsterkte, spanning, weerstand, vermogen, kracht, druk, energie, rendement, temperatuur, geluidssterkte (geluidsniveau)",
+		"id": "c3ccae61-b923-45fe-875a-c89c3ff798fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"b0970ffd-73a5-4afc-a5e8-834f57ba46d6"
+		],
+		"title": "krachtmeter/veerunster, stemvork, luidspreker, microfoon, geluidssterktemeter, brander, dompelaar, thermometer, meetlint, maatglas, stopwatch, weegschaal, voedingsapparaat, schuifweerstand, stroommeter, spanningsmeter, vermogensmeter, kWh-meter, multimeter, transformator",
+		"id": "d5d5b33a-5f62-4d0d-a7f9-c5e40ee226ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a7538e17-3768-4530-9b59-fc41bf8e961c"
+		],
+		"title": "druk = kracht/oppervlak, weerstand = spanning/stroomsterkte, vermogen = spanning x stroomsterkte, gemiddelde snelheid = afstand/tijd, vermogen = energie/tijd, zwaartekracht = massa x valversnelling, stopafstand = reactieafstand + remweg",
+		"id": "dacd1f9b-1799-4d4a-85a4-47f3e645d74a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fa833d9a-9666-4671-b162-e4b38ba63002"
+		],
+		"title": "hout, kunststof, textiel, metaal, steen, beton, glas",
+		"id": "60b264b5-2f38-4785-ae5b-3cc73755d0d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fa833d9a-9666-4671-b162-e4b38ba63002"
+		],
+		"title": "geleiding van warmte, geleiding van elektriciteit, geleiding van geluid, dichtheid (kwalitatief), uitzetting en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrosiebestendigheid",
+		"id": "13337897-27b7-41dd-9f50-b625b87091a4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fa833d9a-9666-4671-b162-e4b38ba63002"
+		],
+		"title": "woningen, apparaten, meubels, kleding, voertuigen",
+		"id": "69e38a35-fcfb-446f-8677-9fb961f15566",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fa833d9a-9666-4671-b162-e4b38ba63002"
+		],
+		"title": "fase (vast, vloeibaar of gasvorming) bij normale druk en temperatuur, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "caa46a0a-9c86-4a48-9afd-648f0ed32e40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fdd8a60d-8567-4e31-836e-7a54667949d1"
+		],
+		"title": "huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden",
+		"id": "5f1a0677-0e42-4f85-b6da-c2e96399addd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fdd8a60d-8567-4e31-836e-7a54667949d1"
+		],
+		"title": "weerstand, ntc, ldr, led en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, actuator, zoals motor of lamp, transformator",
+		"id": "58f34398-6091-4bf5-b825-a2f1afce8853",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fdd8a60d-8567-4e31-836e-7a54667949d1"
+		],
+		"title": "spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter",
+		"id": "cf0fd745-ab31-44c3-a02a-62d6e08bd3e5",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c6d1d4ef-3fc1-47d1-98c7-b046ee404273"
+		],
+		"title": "stemvorm, muziekinstrumenten luidspreker, oortelefoon, machines, verkeer",
+		"id": "893ba12a-0695-40c6-ac8b-3d3a815a5269",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c6d1d4ef-3fc1-47d1-98c7-b046ee404273"
+		],
+		"title": "oor, microfoon",
+		"id": "ec3124a1-9355-4401-b35f-7a59811a1618",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c6d1d4ef-3fc1-47d1-98c7-b046ee404273"
+		],
+		"title": "lucht, water",
+		"id": "524100e8-564b-4e5b-9977-e47fac01f6f2",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c6d1d4ef-3fc1-47d1-98c7-b046ee404273"
+		],
+		"title": "geluidssnelheid, echo, echolood, echoscopie",
+		"id": "a29b1d5c-0261-402f-bf59-21cc45bb7b41",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"163651a1-c8ca-4bc2-b706-f40a1a462c4c"
+		],
+		"title": "tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding, tekeningen, schema's, diagrammen en tabellen, gegevensbestanden, cd-rom en internet",
+		"id": "348e5709-18cb-43e2-9a9e-8aa6091f84c0",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"2ce02376-92ba-43bc-993a-747ccd6013ab"
+		],
+		"title": "lengte (weg, afstand, arm), snelheid, versnelling, oppervlakte, volume, massa, dichtheid, tijd (trillingstijd), toonhoogte (frequentie), stroomsterkte, spanning, weerstand, vermogen, kracht, druk, energie, rendement, temperatuur, geluidssterkte (geluidsniveau), bewegingsenergie, zwaarte-energie, elektrische energie, veer energie of elastische energie, arbeid, moment, capaciteit",
+		"id": "cda20b75-0480-47b8-afd4-dcba09ce3f06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"dc5b8278-0074-4d58-b798-982f3e4144d3"
+		],
+		"title": "krachtmeter/veerunster, stemvork, luidspreker, microfoon, geluidssterktemeter, brander, dompelaar, thermometer, meetlint, maatglas, stopwatch, weegschaal, voedingsapparaat, schuifweerstand, stroommeter, spanningsmeter, vermogensmeter, kWh-meter, multimeter, transformator",
+		"id": "0453da2e-56ed-4c89-a1d7-161789829cda",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"title": "hout, kunststof, textiel, metaal, steen, beton, glas",
+		"id": "72bd65b1-57e8-4ca2-a60e-fd20070ef181",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"title": "geleiding van warmte, geleiding van elektriciteit, geleiding van geluid, dichtheid (kwalitatief), uitzetting en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrosiebestendigheid",
+		"id": "41fbd301-5b5d-482d-8a71-15a960e29eb4",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"title": "geleiding van warmte, geleiding van elektriciteit, geleiding van geluid, dichtheid (kwalitatief), uitzetting en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrosiebestendigheid, vervormen",
+		"id": "316c0605-f101-4d49-8536-d72efcb28719",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"title": "woningen, apparaten, meubels, kleding, voertuigen",
+		"id": "3f07b3a8-dbbf-455c-a8c1-45602faf7cab",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"title": "fase (vast, vloeibaar of gasvorming) bij normale druk en temperatuur, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "741f82b3-9ce8-4235-af83-367138c155d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK1/K/4/6b.1c/bbvmbokgt",
+		"title": "De kandidaat kan uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren worden aangegeven en hoe deze gevaren zijn tegen te gaan door de gifwijzer, pictogrammen: schadelijk, explosief, bijtend, ontvlambaar,  giftig, niet mengen, brandbevorderend",
+		"id": "fb83b1c2-5cb9-481d-b060-e8e7c1f1171a",
+		"unreleased": true
+	},
+	{
+		"title": "faseovergangen",
+		"id": "ea252b52-4b5b-4180-866a-4af1943e0b3b",
+		"unreleased": true
+	},
+	{
+		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbid",
+		"id": "fa632137-a68f-43df-9ef3-0407e06d6528",
+		"unreleased": true
+	},
+	{
+		"title": "p = m / V",
+		"id": "135381a6-e11e-4efe-83b9-1bd9266f10b4",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"107a4daf-7af3-4a68-ad9b-27c9daabdc2d"
+		],
+		"title": "huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden",
+		"id": "685d4b6c-ce06-45f2-ab2e-cacb77071382",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"107a4daf-7af3-4a68-ad9b-27c9daabdc2d"
+		],
+		"title": "weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, actuator, zoals motor of lamp, transformator",
+		"id": "03e03f48-aafc-479f-9315-ac3ec0c5c041",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"107a4daf-7af3-4a68-ad9b-27c9daabdc2d"
+		],
+		"title": "weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, condensator, actuator, zoals motor of lamp, transformator",
+		"id": "d1c4bc17-146f-42dc-9ce8-b1a5f8e5c685",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"107a4daf-7af3-4a68-ad9b-27c9daabdc2d"
+		],
+		"title": "spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter",
+		"id": "32f63839-76c8-4e87-9d57-07107479992d",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"b7dae651-6b34-4aaf-80c9-81e2d11c6f27"
+		],
+		"title": "R = U / I, P = U . I, Eel = Pel . T, Serie: Rv = R1 + R2 +, Parallel: 1 / Rv = 1 / R1 + 1 / R2 +, Totale weerstand: Rt = Rv (=vervangingsweerstand), np / ns = Up / Us, C = I . T",
+		"id": "2d7afbe9-3104-4906-8fa6-1ba8564d7b05",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"f9a6deee-bb51-4876-9104-ec3b295f27e8"
+		],
+		"title": "kachel, c.v., fornuis, vloerverwarming, gasbrander, elektrische kookplaat, elektrische dompelaar, thermometer, temperatuursensor",
+		"id": "ee24051b-6abd-4797-aff4-9ffbbd6b1cb2",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"5c7d2111-de1d-443e-befe-feb2fe6ce33f"
+		],
+		"title": "T(K) = t (˚C) + 273, Ebew = ½ m · v2, Ez = m · g · h, Eel = Pel · t, η = Eaf / Eop = Paf / Pop",
+		"id": "9f4646e0-c10f-40fa-a506-9768fdd1036c",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"b9c57ddc-375e-446c-a7d7-32f14a844299"
+		],
+		"title": "stemvork, muziekinstrumenten, luidspreker, oortelefoon, machines, verkeer",
+		"id": "bd475770-15fd-4b48-82af-19f9c09d1f51",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"b9c57ddc-375e-446c-a7d7-32f14a844299"
+		],
+		"title": "oor, microfoon, geluidsensor",
+		"id": "625e4199-55c9-4d62-90fd-d153ad4fd2e7",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"b9c57ddc-375e-446c-a7d7-32f14a844299"
+		],
+		"title": "echo, echolood, echoscopie",
+		"id": "f26401cd-cf3c-404d-9796-beebc634c7c5",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"62718e86-ae27-4c14-9961-70c502244c4a"
+		],
+		"title": "s = vgeluid · t, f = 1 / T",
+		"id": "d4a4c0da-d836-4416-865f-670f0fde361e",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"bbeadcb7-b927-4e74-9c5a-36acda6401e2"
+		],
+		"title": "vgem = s / t, stopafstand = reactieafstand + remweg, p = F / A, Fz = m · g",
+		"id": "ec68e726-e271-4c43-a0fa-fc15179e3c5d",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"b5e3da50-ac88-44eb-8092-76ea6c5de95d"
+		],
+		"title": "snelheid, vertraging/versnelling, kracht, arbeid, bewegingsenergie, zwaarte-energie, vermogen, veiligheidsgordel, airbag, valhelm, kreukelzone, kooiconstructie, hoofdsteun",
+		"id": "fd03e276-39d2-4676-9d36-9c4e26b70eab",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"591d2e4f-b2c0-4e43-99e8-ff535f7233e2"
+		],
+		"title": "foto, videoregistratie, computersimulatie, gegevensbestand, internetpagina, applet, tekening, resultaten van proeven",
+		"id": "d3dc794a-2269-4310-8073-bcfafaf62897",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"591d2e4f-b2c0-4e43-99e8-ff535f7233e2"
+		],
+		"title": "meten, videometen, ontwerpen, berekenen, beredeneren, selecteren, tekenen, uitlezen",
+		"id": "b78a7b36-9a87-4d6c-b341-f8c3ed4b3d59",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"591d2e4f-b2c0-4e43-99e8-ff535f7233e2"
+		],
+		"title": "s = v · t, a = Δv / Δt, F = m · a, W = F . S, Ebew = ½ m · v2, Ez = m · g · h, P = E / t",
+		"id": "ffbf2765-b8be-4660-ad89-d49321d55963",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"668bb7b0-72b7-4745-bc98-8858c1c5f4b3"
+		],
+		"title": "veerkracht en zwaartekracht, spankracht, trekkracht, duwkracht, zwaartepunt/massamiddelpunt, moment van een kracht, momentenwet bij evenwicht",
+		"id": "89a190a4-818f-4153-bc96-c7a9fac4a887",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"668bb7b0-72b7-4745-bc98-8858c1c5f4b3"
+		],
+		"title": "woningbouw, voertuigen, bruggen, grote en kleine ophangsystemen",
+		"id": "272ac13d-d1e0-49d2-a722-d5bc38067072",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"668bb7b0-72b7-4745-bc98-8858c1c5f4b3"
+		],
+		"title": "foto, videoregistratie, computersimulatie, gegevensbestand, internetpagina, applet, tekening, resultaten van proeven",
+		"id": "eb078106-c87f-4e7a-ac29-21eaae0dbe47",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"668bb7b0-72b7-4745-bc98-8858c1c5f4b3"
+		],
+		"title": "meten, videometen, ontwerpen, berekenen, beredeneren, selecteren, tekenen, uitlezen",
+		"id": "d218afc4-067f-4b00-bf88-119b4e2b0f3c",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"668bb7b0-72b7-4745-bc98-8858c1c5f4b3"
+		],
+		"title": "Fz = m · g, M = F · l, M linksom = M rechtsom",
+		"id": "3395e13e-f1b8-4d7a-acb2-b91253b07241",
+		"unreleased": true
 	}
 ]
