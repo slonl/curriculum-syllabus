@@ -13718,5 +13718,902 @@
 		"title": "De kandidaat kan uit bronnen over constructies, gegevens verzamelen en verwerken",
 		"id": "cf5b0229-7701-43e0-85a3-4f6b27c83098",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.1a",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige begripskennis opbouwen en reflecteren op aanwezige denkbeelden.",
+		"id": "036fa421-ecbf-4ee8-9449-25234a7d986e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.1b",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige begripskennis opbouwen en onjuiste denkbeelden bijstellen of vervangen.",
+		"id": "1c58db43-fd85-48d3-8140-9290e21c2c32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.1c",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige begripskennis opbouwen door verbanden te leggen tussen begrippen en regels.",
+		"id": "7e0f861d-472c-460c-b83e-e40df9cf40fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.1d",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige begripskennis opbouwen, leren door te doen.",
+		"id": "c3335a11-ba67-4b31-84a6-02229a110dde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.1e",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige begripskennis opbouwen, leren door te ontdekken.",
+		"id": "de7b3f13-12fe-48c4-a7e8-9f8427884353",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3a.2",
+		"examenprogramma_eindterm_id": [
+			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
+		],
+		"title": "De kandidaat kan natuur- en scheikundig bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden:\r\n- studieboeken - naslagwerken - gegevensbestanden - technische handleidingen - cd-rom en internet",
+		"id": "cc9cf5b1-6658-41d1-ae5a-08175dcd2d68",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3b.1a",
+		"examenprogramma_eindterm_id": [
+			"b2bb1139-0568-4289-a857-520831be2c01"
+		],
+		"title": "De kandidaat kan informatie uit natuur- en scheikundig bronnenmateriaal verwerven, selecteren, verwerken en bewerken uit tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding.",
+		"id": "959da2b5-06fc-41de-be9f-5ad4b23af553",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3b.1b",
+		"examenprogramma_eindterm_id": [
+			"b2bb1139-0568-4289-a857-520831be2c01"
+		],
+		"title": "De kandidaat kan informatie uit natuur- en scheikundig bronnenmateriaal verwerven, selecteren, verwerken en bewerken via tekeningen, schema's, diagrammen en tabellen",
+		"id": "68d5f833-b0de-4a38-962e-8900b7135ae3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3b.2a",
+		"examenprogramma_eindterm_id": [
+			"b2bb1139-0568-4289-a857-520831be2c01"
+		],
+		"title": "De kandidaat kan eigen gedachten mondeling en schriftelijk formuleren over natuur- en scheikundige onderwerpen door vaktaal functioneel te gebruiken.",
+		"id": "628de452-71ae-4389-8e24-e0bcfa089748",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3b.2b",
+		"examenprogramma_eindterm_id": [
+			"b2bb1139-0568-4289-a857-520831be2c01"
+		],
+		"title": "De kandidaat kan eigen gedachten mondeling en schriftelijk formuleren over natuur- en scheikundige onderwerpen door verband te leggen tussen vakinhoudelijke begrippen en contexten waarin deze begrippen functioneel zijn.",
+		"id": "cfc2b093-0413-4b59-a796-42999649770b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.1a",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen natuur- en scheikunde toepassen, vooraf uitkomsten schatten bij het meten en rekenen en achteraf uitkomsten beoordelen.",
+		"id": "6dbbc124-4259-4e8e-9329-a443ac3a769b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.1b",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen natuur- en scheikunde toepassen, de zakrekenmachine gebruiken voor:  optellen,  aftrekken,  vermenigvuldigen,  delen.",
+		"id": "0606e4db-d3fc-4329-b48c-e1e833c74958",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.1c",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen natuur- en scheikunde toepassen de functietoetsen van de zakrekenmachine gebruiken voor:  omgekeerde,  kwadraat,  wortel.",
+		"id": "7422e48a-bfe2-4f8d-aeeb-9cd0a18b1b8d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.1d",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen natuur- en scheikunde toepassen door rekenregels gebruiken:  positieve machten van tien,  negatieve machten van tien,  decimale getallen,  verhoudingstabellen,  eenvoudige breuken,  percentages,  promillages.",
+		"id": "a240e50c-01be-4181-8e62-d8aa74029211",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2a",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden door het resultaat van een berekening afronden in overeenstemming met de gegeven situatie.",
+		"id": "f20a1ac2-1880-41df-b2ea-8a04e6ed155a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2b",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden door berekeningen uitvoeren met bekende grootheden en relaties:  woordformules,  formules.",
+		"id": "f6685846-2f2b-4a8b-8b71-40280cb9c025",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2c",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden door evenredige, lineaire en omgekeerd evenredige verbanden aangeven.",
+		"id": "78fcde31-774d-41af-b12f-e806f35695d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2d",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden de eenheid bij een gemeten of berekende grootheid aangeven.",
+		"id": "223b5847-1521-4f1d-a4b9-06c8580f6079",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2e",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden door afgeleide eenheden herleiden tot eenheden van het SI-eenhedenstelsel.",
+		"id": "8d28f9f7-1e57-4001-97d8-92ddc300ebbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.2f",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden door gebruik te maken van gangbare begrippen en voorvoegsels:  mega,  kilo,  milli,  micro",
+		"id": "3994b17c-c809-4a25-8e34-d27e64bf8fe9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.3",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan veilig, zinvol en doelmatig gebruik maken van stoffen, materialen, (meet)instrumenten, apparaten en software, zonder schade te berokkenen aan mensen, dieren en milieu",
+		"id": "97f2f8dc-c9cb-46d1-8235-5aac700bc2c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.4",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een technisch probleem herkennen en specificeren",
+		"id": "c8b9e88d-35da-4152-8553-ce3d2efd23f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.5a",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een ontwerpproces uitvoeren door een werkplan te maken voor het uitvoeren van een ontwerp.",
+		"id": "b6679f1e-af1d-4031-8e07-f2a884d4a6db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.5b",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een ontwerpproces uitvoeren door een ontwerp of een deel ervan bouwen.",
+		"id": "1f9dd2fc-edfb-4dd1-a587-f9ffdb5aa543",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.5c",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een ontwerpproces uitvoeren door ontwerpproces en product evalueren, rekening houdende met ontwerpeisen en randvoorwaarden",
+		"id": "507e5594-bab9-4c0a-ad77-3828b93b06fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.5d",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een ontwerpproces uitvoeren door voorstellen te doen voor verbetering.",
+		"id": "594692fa-e597-41f6-ad58-0e7a0d67cb0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.6a",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een onderzoekende houding en adequate onderzoeksvaardigheden tonen door onderzoek voorbereiden: een onderzoeksvraag formuleren,  benodigdheden verzamelen,  alternatieven bedenken voor de uitvoering.",
+		"id": "78eae94c-334d-43df-b5b1-dd4975d98d2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.6b",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een onderzoekende houding en adequate onderzoeksvaardigheden tonen door onderzoek uitvoeren:  een verwachting formuleren,  werken volgens plan,  waarnemingen verrichten,  gegevens verzamelen,  conclusies trekken,  uitspraken over de geldigheid van het onderzoek doen.",
+		"id": "0e885f62-2df9-45d8-bd06-f8846df173ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.6c",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan een onderzoekende houding en adequate onderzoeksvaardigheden tonen door onderzoek afsluiten:  onderzoek evalueren,  voorstellen voor verbetering doen,  aanbevelingen voor verder onderzoek doen,  de resultaten presenteren,  opruimen.",
+		"id": "acaf82b8-2688-4e41-8695-0f5a4976363f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.7",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige grootheden, eenheden en relaties gebruiken:  \r\n- lengte, massa, tijd, stroomsterkte, spanning, energie, vermogen,  temperatuur (in graden Celsius en Kelvin, inclusief het omrekenen tussen beide temperatuurschalen), druk, dichtheid.",
+		"id": "e390d514-5c71-4785-ab4f-f644b1a2ac99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.8",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan natuur- en scheikundige meetapparaten gebruiken in praktijksituaties:\r\n- liniaal, weegtoestel, klok, stroommeter, spanningsmeter, thermometer, barometer, maatcilinder, pipet, buret, injectiespuit als volumemeter, meten met behulp van de computer",
+		"id": "c2a9653c-005c-40a5-8391-1c1861ddb960",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/3/3c.9",
+		"examenprogramma_eindterm_id": [
+			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
+		],
+		"title": "De kandidaat kan op de juiste wijze omgaan met stoffen, materialen en hulpmiddelen in het laboratorium:\r\n- kwispelen bij schudden, ruiken met wuiven,  vlamsoort kiezen, brander gebruiken, gebruik van scheikundig glaswerk (zoals reageerbuis, bekerglas, trechter, erlenmeyer), zuinig met grondstoffen omgaan, verantwoord met afval(stoffen) omgaan, proper en veilig werken",
+		"id": "3f9f9ac0-e93a-49d4-b9f0-9f28d715c317",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6a.1",
+		"examenprogramma_eindterm_id": [
+			"e3a3da35-c4c5-473b-aca4-5c3dc44d1055"
+		],
+		"title": "De kandidaat kan de verschijnselen beschrijven, zie zich bij verbanding kunnen voordoen: \r\nrook, roet, vlam, vonk, warmteontwikkeling, verontreiniging van de lucht",
+		"id": "2527d9ad-6ec2-468d-b614-963b910c4cfe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6a.2",
+		"examenprogramma_eindterm_id": [
+			"e3a3da35-c4c5-473b-aca4-5c3dc44d1055"
+		],
+		"title": "De kandidaat kan de voorwaarden noemen voor het ontstaan van brand en toelichten dat het blussen of het voorkomen van brand berust op beïnvloeding van deze voorwaarden:\r\n- aanwezigheid van brandstof en zuurstof, ontbrandingstemperatuur, blusmiddelen:  water,  zand,  schuim,  koolstofdioxide,  blusdeken",
+		"id": "38c689d9-1cc3-48a9-b40a-110a5fd7540c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6b.1",
+		"examenprogramma_eindterm_id": [
+			"841134f0-78d3-44c9-959b-d85c774e46f8"
+		],
+		"title": "De kandidaat kan de milieu- en gezondheidseffecten kunnen noemen die kunnen optreden als gevolg van de uitstoot van de volgende schakelijke gassen:\r\nMilieueffecten: SO2: zure regen, Nox: zure regen, CO2: broeikaseffect, CFK's: aantasting ozonlaag\r\nGezondheidseffecten: aantasting van luchtwegen",
+		"id": "729e183f-f8ed-46cf-b746-91eb290e5530",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6b.2a",
+		"examenprogramma_eindterm_id": [
+			"841134f0-78d3-44c9-959b-d85c774e46f8"
+		],
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\n- (fossiele) brandstoffen:  steenkool, cokes, koolwaterstoffen: aardgas (met als belangrijkste deel methaan), benzine.",
+		"id": "0402fad9-e19b-4619-ba85-9b7d347de9fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6b.2b",
+		"examenprogramma_eindterm_id": [
+			"841134f0-78d3-44c9-959b-d85c774e46f8"
+		],
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\n- onvolledige verbranding:  reactieproducten, o.a. koolstofmono-oxide (giftig) en koolstof.",
+		"id": "47c98c20-6671-416d-99db-6ae179da9cb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6b.2c",
+		"examenprogramma_eindterm_id": [
+			"841134f0-78d3-44c9-959b-d85c774e46f8"
+		],
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\n- volledige verbranding:  reactieproducten, o.a. koolstofdioxide en water.",
+		"id": "92bcec18-1733-4e23-a2c9-0bca7f2a5ed6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/5/6c.1",
+		"examenprogramma_eindterm_id": [
+			"bab5edb3-3a65-4202-8d36-ca8d389bac32"
+		],
+		"title": "De kandidaat kan uitleggen dat aardolie in raffinaderijen bewerkt wordt tot allerlei soorten brandstoffen en andere producten:\r\n- destillatie,  kraken, brandstoffen:  LPG, benzine, kerosine, diesel, stookolie;\r\n- andere producten: asfaltbeton, kunststoffen (polymerisatie van monomeren tot polymeren, thermoharders en thermoplasten), smeermiddelen, medicijnen.",
+		"id": "e8f73ce8-73c5-4e87-b298-af3646bb1912",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/10.1",
+		"examenprogramma_eindterm_id": [
+			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
+		],
+		"title": "De kandidaat kan verschillen en overeenkomsten tussen drinkwater, zeewater, regenwater, oppervlaktewater en grondwater aangeven.",
+		"id": "fd4f11da-46db-476b-a240-04807d08e1d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/10.2",
+		"examenprogramma_eindterm_id": [
+			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
+		],
+		"title": "De kandidaat kan uitleggen waarom de concentratie waarin stoffen in drinkwater mogen voorkomen, per stof verschilt",
+		"id": "6ddf3fe3-113d-4fbe-b615-06e6ac38040e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/10.3",
+		"examenprogramma_eindterm_id": [
+			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
+		],
+		"title": "De kandidaat kan de betekenis en functie van het gebruik van water als oplosmiddel, als spoelmiddel en als middel bij de bereiding van voedsel beschrijven:\r\n- oplosbaarheid van krijt, suiker, keukenzout, olie, vet, alcohol, zuurstof en ammoniak\r\n- spoelmiddel bij gebruik van zeep en wasmiddelen.",
+		"id": "b04d4f30-5466-4914-8575-ace6bf023ead",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/10.4",
+		"examenprogramma_eindterm_id": [
+			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
+		],
+		"title": "De kandidaat kan uitleggen wat het verschil is tussen hard en zacht water, nadelen van het gebruik van hard water noemen en mogelijkheden noemen om water te ontharden:\r\n- ketelsteen, gebruik van wasmiddelen, vorming van kalkzeep\r\n- ontharden door: koken van water, ionenwisselaar, waterontharder, neerslagreactie.",
+		"id": "ecc0a13d-c0cc-4bf0-aba8-af987f789d57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/11a.1",
+		"examenprogramma_eindterm_id": [
+			"409af106-6490-4ddc-ad4d-31e51cd93261"
+		],
+		"title": "De kandidaat kan verwoorden dat zure stoffen (opgelost in water) H+ ionen kunnen afstaan en basische stoffen (opgelost in water) H+ ionen kunnen opnemen:\r\nZuren: HCI(g), HNO3(l), H2SO4(l), Hac(l); Basen: ammoniak: NH3(g), zouten met OH-, zouten met O2-, zouten met CO32-",
+		"id": "686473fb-414a-488c-a7ee-bb64cfd35f0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/11b.1",
+		"examenprogramma_eindterm_id": [
+			"3af3941c-5eb7-4312-b6c6-d32c5a813e84"
+		],
+		"title": "De kandidaat kan de naam van een aantal zure en basische oplossingen en de formules van de deeltjes die daarin voorkomen, geven:\r\n- zoutzuur: H+(aq) en Cl-(aq)\r\n- verdund salpeterzuur: H+(aq) en NO3- (aq)\r\n- verdund zwavelzuur (accuzuur): H+(aq) en SO42- (aq)\r\n- koolzuurhoudend water: H+(aq) en CO32-(aq)\r\n- azijn: H+(aq) en Ac- (aq)\r\n- natronloog: Na+(aq) en OH-(aq)\r\n- kalkwater: Ca2+(aq) en OH-(aq)\r\n- ammonia: NH3(aq)",
+		"id": "7b4c7756-7f90-4066-8eac-a1576e134c86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/11c.1a",
+		"examenprogramma_eindterm_id": [
+			"d3562fd8-90b5-4ecd-b532-ccc88b170fc6"
+		],
+		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\n- zure oplossingen: stroomgeleiding; vorming van waterstof aan de negatieve elektrode; etsende werking; kleuring van indicatoren; aantasting van kalksteen.",
+		"id": "2b170544-bdac-4b9c-b15a-4ae0ae2e992b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/11c.1b",
+		"examenprogramma_eindterm_id": [
+			"d3562fd8-90b5-4ecd-b532-ccc88b170fc6"
+		],
+		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\n- basische oplossingen: stroomgeleiding; ontvettende werking; irriterend voor de huid; kleuring van indicatoren.",
+		"id": "41905ceb-1d06-48ce-8464-3567938c1459",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/12.1a",
+		"examenprogramma_eindterm_id": [
+			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
+		],
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\n- lakmoespapier bevochtigen met vloeistof;  zuur: blauw wordt rood; basisch: rood wordt blauw;  neutraal: rood en blauw verkleuren niet.",
+		"id": "a182d912-879c-4c08-b6f5-9ce18e3ad8ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/12.1b",
+		"examenprogramma_eindterm_id": [
+			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
+		],
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\n- fenolftaleïen in vloeistof doen:  zuur: verkleurt niet;  basisch wordt paars;  neutraal: verkleurt niet.",
+		"id": "6712b47c-0a2e-43d7-8871-984f1f051717",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/12.1c",
+		"examenprogramma_eindterm_id": [
+			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
+		],
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\n- rode koolsap en universeel indicatorpapier.",
+		"id": "b5d32a82-c49e-4bf7-a6f0-160618ec26fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/7/12.2",
+		"examenprogramma_eindterm_id": [
+			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
+		],
+		"title": "De kandidaat kan de pH-schaal gebruiken om de mate van zuur of basisch zijn van een oplossing uit te drukken en het kwalitatief verband aangeven tussen de concentratie van H+ c.q. OH- ionen en de pH van een waterige oplossing",
+		"id": "0dd7cf7d-efd2-4df7-90cc-9fc21e7facba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/16.1a",
+		"examenprogramma_eindterm_id": [
+			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
+		],
+		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\n- fase bij normale druk en kamertemperatuur, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, elektrische geleiding.",
+		"id": "86d936bb-160e-410a-8e00-a5f6ecd80d8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/16.1b",
+		"examenprogramma_eindterm_id": [
+			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
+		],
+		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\n- van enkele stoffen / oplossingen de kleur en/of geur noemen:  koolstofdioxide: kleurloos en reukloos;  koolstofmono-oxide: kleurloos en reukloos;  oplossing van koper(II)zout: blauw.",
+		"id": "b43fafa6-0eaf-4eab-b78a-c33663e2e9ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/16.2",
+		"examenprogramma_eindterm_id": [
+			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
+		],
+		"title": "De kandidaat kan chemische reacties beschrijven als processen waarbij een of meer stoffen verdwijnen en een of meer stoffen ontstaan:\r\n- beginstoffen, reactieproducten.",
+		"id": "0906b19e-596f-489e-bb8f-e5bd9a5a5a6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/17.1",
+		"examenprogramma_eindterm_id": [
+			"e79b97da-ccbd-4e96-a26b-b50fa883f97c"
+		],
+		"title": "De kandidaat kan onderzoeken of een stof een zuivere stof is of een mengsel:\r\n- smelt- cq stol- en kookpunt, - smelt- cq stol- en kooktraject",
+		"id": "20b3f243-a312-487c-8e02-eb7895f709ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/17.2",
+		"examenprogramma_eindterm_id": [
+			"e79b97da-ccbd-4e96-a26b-b50fa883f97c"
+		],
+		"title": "De kandidaat kan van een aantal stoffen uitleggen of het zuivere stoffen of mengsels zijn en van de mengsels de hoofdbestanddelen noemen:\r\n- suiker, keukenzout, gedestilleerd water\r\n- drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo en lucht\r\n- legeringen:  amalgaam;  brons;  messing;  soldeer",
+		"id": "dbdf225b-28de-4981-ac63-012c20ae48bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18a.1",
+		"examenprogramma_eindterm_id": [
+			"e3568666-0638-4a65-8f59-f00cd606ce19"
+		],
+		"title": "De kandidaat kan enkele soorten mengsels uit het dagelijks leven onderscheiden:\r\n- emulsie: boter, meld, crème\r\n- suspensie: modder, verf\r\n- schuim; rook; nevel, levering, oplossing.",
+		"id": "13cbe018-c01d-4645-bac7-38a0f692c79e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18a.2",
+		"examenprogramma_eindterm_id": [
+			"e3568666-0638-4a65-8f59-f00cd606ce19"
+		],
+		"title": "De kandidaat kan processen uit het dagelijks leven herkennen als chemische reactie:\r\n- chemische processen bij de voedselbereiding, verteren van voedsel, rotten, bederven, verkleuren, haar permanenten, haar verven, ontsmetten, harden van cement.",
+		"id": "ac28b668-85c2-4eb4-8f79-b37b73dddd76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18b.1",
+		"examenprogramma_eindterm_id": [
+			"b5131df9-c93c-4bdb-bb2a-c0073b734c84"
+		],
+		"title": "De kandidaat kan van een reactie waarvan de formules van de beginstoffen en de formules van de reactieproducten gegeven zijn, de reactievergelijking opschrijven.",
+		"id": "da007a60-0b0d-4493-ab9e-8b86235a1204",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18b.2",
+		"examenprogramma_eindterm_id": [
+			"b5131df9-c93c-4bdb-bb2a-c0073b734c84"
+		],
+		"title": "De kandidaat kan van een reactie waarvan de triviale en/of rationele namen en formules van de beginstoffen en de reactieproducten gekend moeten worden, de reactievergelijking opschrijven:\r\n- water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide, zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose en elders in de syllabus genoemde stoffen.",
+		"id": "0006a282-c149-4b66-abec-0ab14b2b8572",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18b.3",
+		"examenprogramma_eindterm_id": [
+			"b5131df9-c93c-4bdb-bb2a-c0073b734c84"
+		],
+		"title": "De kandidaat kan toepassingen noemen van zuurbase reacties en hiervan de reactievergelijking opschrijven:\r\n- neutraliseren,  ontkalken.",
+		"id": "37793558-015e-422a-9a50-727fb99ce709",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.1",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan de massa van één van de stoffen die bij een reactie betrokken zijn, berekenen als de massa's van de andere stoffen gegeven zijn, in relatie met het doelmatig gebruik van stoffen.",
+		"id": "8dc87630-96aa-4a72-b795-60f9765681b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.2",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan de factoren noemen die invloed hebben op de snelheid van een reactie en uitleggen wat de invloed van die factoren is:\r\n- soort stof, temperatuur, verdelingsgraad, katalysator, concentratie.",
+		"id": "0e40e04e-23fc-49ef-bdcb-f53fee31cbbf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.3",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan met behulp van moleculen, atomen en ionen een aantal begrippen en processen beschrijven:\r\nBegrippen: toestand van een stof (s, l, g, aq); zuiverse stof; mengsel; niet-ontleedbare stof (verbinding); zouten: moleculaire stoffen; atomaire stoffen\r\nProcessen: scheiden van mengsels; elektrische geleiding; oplossen; smelten; chemische reactie; ontleden, verbranden; neerslaan en neutraliseren",
+		"id": "91841ba6-00af-4e99-b38d-5fa62c9fbba9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.4",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan uitleggen wat neerslagreacties zijn en hiervan toepassingen noemen.",
+		"id": "7b0c2d32-5560-40b1-be25-557c98f02981",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.5",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan met behulp van een gegeven oplosbaarheidstabel nagaan of een neerslag ontstaat bij het mengen van twee zoutoplossingen.",
+		"id": "023012fc-733e-4c44-bcc1-cd66bafc3e7f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/10/18c.6",
+		"examenprogramma_eindterm_id": [
+			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
+		],
+		"title": "De kandidaat kan met behulp van een gegeven oplosbaarheidstabel uitleggen hoe een slecht oplosbaar zout gemaakt kan worden of hoe een gegeven ionsoort uit een oplossing verwijderd kan worden.",
+		"id": "abd704cc-87b3-4970-be3a-97c39ecb527c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.1",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan uitleggen dat stoffen uit moleculen, atomen of ionenen zijn opgebouwd.",
+		"id": "650b200d-d457-479b-8996-e8925c3aa327",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.2",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan uitleggen dat moleculen zijn opbouwd uit atomen.",
+		"id": "28110121-ddd9-41e8-b550-c6934b1a5f5e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.3",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan uitleggen wat de formule van een moleculaire stof aangeeft en de aanduidingen mono, di, tri , tetra en penta gebruiken bij de naamgeving en het opstellen van molecuulformules.",
+		"id": "1d1426c3-0ca2-4c9b-8d50-ec5ebb876a18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.4",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan de naam en formule van een zout opschrijven als de namen of formules van de ionen gegeven zijn: zo nodig gebruik van een Romeins cijfer in de naam.",
+		"id": "88c58c82-dea9-4a75-9e65-0d789cb7cac3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.5",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan de formules van de ionen waaruit een zout bestaat, opschrijven als de naam of formule van het zout gegeven is.",
+		"id": "9b0261f6-1104-4a3d-be47-5f14a23e2578",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/19.6",
+		"examenprogramma_eindterm_id": [
+			"fa534adc-cb0f-4ab2-9920-8cf83607c7e5"
+		],
+		"title": "De kandidaat kan scheikundige reacties beschrijven als hergroepering van atomen of ionen.",
+		"id": "2e6a4f7b-0dfd-4285-b421-a204f6610f7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/20.1",
+		"examenprogramma_eindterm_id": [
+			"99b987fa-e153-4bf2-812d-47d562d954c6"
+		],
+		"title": "De kandidaat kan de notatie en namen van een aantal scheikundige symbolen geven:\r\n- Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg, N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
+		"id": "d5f56794-21e6-4efe-ae5c-fc7dd7a3e268",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/20.2",
+		"examenprogramma_eindterm_id": [
+			"99b987fa-e153-4bf2-812d-47d562d954c6"
+		],
+		"title": "De kandidaat kan uitleggen hoe in het Periodiek Systeem de atoomsoorten gerangschikt zijn:\r\n- groepen, perioden; namen groep 17 en 18; elementen in dezelfde groep hebben overeenkomstige chemische eigenschappen.",
+		"id": "eb58b060-a282-4759-a8cd-bdcd6e09e323",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/K/11/21.1",
+		"examenprogramma_eindterm_id": [
+			"d3106200-7b03-4bfa-9b08-6a05ee77853d"
+		],
+		"title": "De kandidaat kan de notaties en namen van een aantal ionen geven:\r\n- Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO32-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4+, NO3-, O2-, OH-, Pb2+, PO43-, S2-, Sn2+, SO42-, Zn2+",
+		"id": "ebbd951b-20b3-4ba8-8cf5-e43571d020a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.1a",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de voorbereidingsfase berekeningen uitvoeren bij een reactievergelijking die betrekking heeft op een productieproces.",
+		"id": "3800e28c-c793-4dca-a092-ad5695e474d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.2a",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de uitvoeringsfase een productieproces, een deel van een productieproces of een variatie op een productieproces uit de chemische industrie beschrijven.",
+		"id": "d99844ec-9aec-4e77-8fbb-de3c8c64c50d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.2b",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de uitvoeringsfase productketen schematisch weergeven, bijvoorbeeld in een blokschema.",
+		"id": "b22c5b68-dc98-4e0b-b136-731bd8736d5f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.2c",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de uitvoeringsfase een productieproces op kleine schaal uitvoeren en op basis van een onderzoeksvraag experimenteren.",
+		"id": "60d854fc-cbcf-4546-a601-9f29d5bd9685",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.3",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de afsluitingsfase:\r\n- de resultaten mondeling of schriftelijk op samenhangende wijze presenteren volgens tevoren gestelde criteria.",
+		"id": "a207247d-54a3-4e52-bf28-587057cc0809",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22.4",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "De kandidaat kan in de evaluatiefase de eigen resultaten en de resultaten van anderen beoordelen aan de hand van tevoren gestelde criteria.",
+		"id": "16dc1272-e790-4c08-ac73-bf8c4ffad2a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.1a",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de voorbereidingsfase uit het resultaat van een titratie het zuur- of basegehalte van een oplossing berekenen aan de hand van een ijkgegeven.",
+		"id": "6b2187a9-0a4f-41f7-9d02-a350d51bdb4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.1b",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de voorbereidingsfase verwoorden wat ontledingsreacties zijn, dat ontledingsreacties kunnen plaatsvinden onder invloed van elektriciteit, warmte en licht. Hij/ zij kan enkele toepassingen noemen.",
+		"id": "e9ebd7e9-9666-4bef-935c-3c2fdb3eadad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.1c",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de voorbereidingsfase met behulp van een gegeven oplosbaarheidstabel en waarnemingen uit een experiment uitspraken doen over de mogelijke aanwezigheid van ionen in een oplossing.",
+		"id": "8408f9c0-c21f-408c-b100-09347183cb00",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.2a",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de uitvoeringsfase de samenstelling van een product beschrijven aan de hand van gegevens op etiket of bijsluiter.",
+		"id": "6a209e01-1e72-490e-917c-2a67fa9c4714",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.2b",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de uitvoeringsfase door middel van een experiment de aanwezigheid van op een etiket of bijsluiter genoemde stoffen aantonen en de resultaten presenteren.",
+		"id": "c4432791-a5e3-4857-97b7-142dc33c281b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.3",
+		"title": "De kandidaat kan in de afsluitingsfase: rapporteren naar aanleiding van een onderzoek over een product door middel van een verslag en/of presentatie.",
+		"id": "b3b5aaef-4257-4555-892c-c1be6ca92e5d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25.4",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "De kandidaat kan in de evaluatiefase de eigen resultaten en de resultaten van anderen beoordelen aan de hand van tevoren gestelde criteria.",
+		"id": "963496a8-3b05-4a68-958d-7c4aa3b7fef3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/4/29.1",
+		"examenprogramma_eindterm_id": [
+			"37840752-4cbc-4345-8d65-2bd6ecd05c27"
+		],
+		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen",
+		"id": "4e5931ac-cede-41c8-be7d-259b40b525f3",
+		"unreleased": true
 	}
 ]
