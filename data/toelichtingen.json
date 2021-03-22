@@ -2104,5 +2104,45 @@
 		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.",
 		"id": "288e60f2-d984-4ad8-80cc-5a2ab925cf2e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22/toel.",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden scheikundige begrippen, symbolen en formules kwalitatief en kwantitatief gebruikt in relatie tot een of meer productieprocessen.\r\nHierbij gaat het om:\r\n- de vaste massaverhouding waarin stoffen bij een reactie betrokken zijn\r\n- berekeningen bij een reactievergelijking op basis van de massaverhouding waarin de stoffen bij de reactie betrokken zijn\r\n- het gebruik van diagram of tabel om de massaverhouding waarin twee stoffen bij een reactie betrokken zijn, af te leiden\r\n- op basis van een gegeven massaverhouding en gegeven massa's van twee beginstoffen te berekenen welke beginstof in overmaat aanwezig is\r\n- verspilling van grondstoffen als ze niet in de goede verhouding zijn gemengd\r\n- atoommassa\r\n- molecuulmassa\r\n- massapercentage\r\n- volumeprocenten\r\n- overmaat",
+		"id": "34574fb5-8898-4352-a025-c8574c443323",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/1/22/toel.",
+		"examenprogramma_eindterm_id": [
+			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
+		],
+		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden de vaardigheden uit NASK2/K/3 getoond. Hierbij ligt een nadruk op de strategische vaardigheden met betrekking tot onderzoeken en ontwerpen.",
+		"id": "8c078cb2-cde0-48f7-85c3-03c7d65313db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25/toel.",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden scheikundige begrippen, technieken, symbolen en formules kwalitatief en kwantitatief gebruikt in relatie tot een of meer producten. Hierbij gaat het om:  \r\n- scheidingsmethoden uitvoeren:  filtreren,  bezinken,  extraheren,  adsorptie,  destilleren,  indampen\r\n- ontledingsreacties uitvoeren:  elektrolyse,  thermolyse,  fotolyse\r\n- titreren:  eindpunt,  kleuromslag\r\n- pH meten en pH-schaal gebruiken\r\n- indicatoren gebruiken:  lakmoes,  fenolftaleïen,  rodekoolsap,  universeel indicator\r\n- indicatoren gebruiken met behulp van verstrekte gegevens:  omslagtraject,  kleur bij bepaalde pH\r\n- aantonen van de aanwezigheid van zuurstof, waterstof, water en koolstofdioxide\r\n- neerslagreacties\r\n- vlamkleuring toepassen\r\n- hulpstoffen herkennen: E-nummers opzoeken",
+		"id": "30509da1-f85e-412e-89cd-3a4b1c9916eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK2/V/2/25/toel.",
+		"examenprogramma_eindterm_id": [
+			"3d1dfe49-8d14-463c-8b81-9b75855ab48b"
+		],
+		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden de vaardigheden uit NASK2/K/3 getoond. Hierbij ligt een nadruk op de strategische vaardigheden met betrekking tot onderzoeken en ontwerpen.",
+		"id": "88c52e64-257e-419d-a39f-1b082d232103",
+		"unreleased": true
 	}
 ]
