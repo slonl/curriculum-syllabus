@@ -18265,5 +18265,285 @@
 		"title": "De kandidaat kan drogredenen herkennen (en vermijden in de eigen argumentatie) overtreding van een discussieregel: - de persoonlijke aanval; - het ontduiken van de bewijslast; - de cirkelredenering; - het vertekenen van een standpunt; - het bespelen van publiek.",
 		"id": "71b5f069-87dd-4198-becd-616eefd52501",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.1",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan vaststellen of een tekst of tekstgedeelte uiteenzettend, beschouwend of betogend is.",
+		"id": "cbb7ddeb-2f48-45ee-a6db-6af615e74a92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.2",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan bij uiteenzettende teksten of tekstgedeelten wordt iets uitgelegd, beschreven, verklaard of meegedeeld; de uiteenzetting heeft als doel de lezer te informeren over een stand van zaken of gang van zaken.",
+		"id": "c87d2c80-6a24-4927-bb2c-979a9cd4a7f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.3",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan bij beschouwende teksten of tekstgedeelten worden interpretaties, verklaringen en opinies ter overweging aangeboden; de beschouwing heeft als doel de lezer over een kwestie te laten nadenken, een beschouwing kan ook de argumenten voor en tegen een of meer standpunten behandelen, maar is er niet op gericht de lezer voor een van die standpunten te winnen.",
+		"id": "10023961-7645-4f29-b9de-6e145c3ba893",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.4",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan bij betogende teksten of tekstgedeelten wordt een beargumenteerd standpunt ingenomen; het betoog heeft als doel de lezer van het standpunt te overtuigen.",
+		"id": "07ea4484-b5d6-494d-86e5-114ace305860",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.5",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan het schrijfdoel van een tekst of tekstgedeelte vaststellen.",
+		"id": "3c866c34-6e73-41e3-ba68-69aa018f9ec9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1a.6",
+		"examenprogramma_eindterm_id": [
+			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		],
+		"title": "De kandidaat kan corresponderende schrijfdoelen bij uiteenzettende, beschouwende of betogende teksten zijn respectievelijk: informeren/uiteenzetten, ter overweging aanbieden en overtuigen / tot actie aanzetten. Deze schrijfdoelen kunnen in combinatie met elkaar voorkomen; de kandidaat kan dan vaststellen wat het belangrijkste schrijfdoel is, c.q. vaststellen of de tekst / het tekstgedeelte voornamelijk een uiteenzettend, beschouwend of betogend karakter draagt.",
+		"id": "654d7dd1-81c4-4b58-8432-72ab46ec2cd0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1b.1",
+		"examenprogramma_eindterm_id": [
+			"adade8c3-3020-4f90-8589-2ed13f8fd9de"
+		],
+		"title": "De kandidaat kan onderwerpen en hoofdgedachten van gehele teksten en tekstgedeelten aanwijzen of parafraseren voor zover expliciet aanwezig en verwoorden voor zover impliciet aanwezig.",
+		"id": "7f04a144-b99d-4c48-88f4-eb481c97d98e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1c.1",
+		"examenprogramma_eindterm_id": [
+			"65e66b3d-5aa6-42ce-ac8c-d9c5ddb9e5e5"
+		],
+		"title": "De kandidaat kan inhoudelijke en functionele relaties benoemen die ex- of impliciet tussen tekstonderdelen aanwezig zijn.",
+		"id": "9a0c558b-0392-4d04-89a1-970be042d57f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1c.2",
+		"examenprogramma_eindterm_id": [
+			"65e66b3d-5aa6-42ce-ac8c-d9c5ddb9e5e5"
+		],
+		"title": "Inhoudelijke en functionele relaties zijn bijvoorbeeld: - verwijzingsrelaties; - de relatie van oorzaak-gevolg; - de relatie doel-middel; - de relatie van standpunt-argument-subargument; - de relatie van algemene uitspraak-toelichting.",
+		"id": "754ad34e-8c5d-44f7-a01f-dc09368db065",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1e.1",
+		"examenprogramma_eindterm_id": [
+			"f534c214-5cc6-4b0e-ad67-62ccdb85b32f"
+		],
+		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden conform de eindterm onder domein D.",
+		"id": "5a0f68c1-76c6-459f-b830-9302be437e42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A1/1f.1",
+		"examenprogramma_eindterm_id": [
+			"115b0e6b-c859-4ea0-bd07-7e158469f577"
+		],
+		"title": "De kandidaat kan argumentatieschema’s herkennen conform de eindterm onder domein D.",
+		"id": "2f2e3b57-d70d-49fe-b4cc-84f369b391b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A2/2.1",
+		"examenprogramma_eindterm_id": [
+			"dc15494c-1d6c-4f4d-829b-87a028321ff9"
+		],
+		"title": "De kandidaat kan een betogende tekst of betogend tekstgedeelte op aanvaardbaarheid beoordelen en in deze tekst drogredenen herkennen conform de eindterm onder D.",
+		"id": "e9dd8ebe-3b4d-4b9a-833d-eac5a795978c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A3/3.1",
+		"examenprogramma_eindterm_id": [
+			"51ef2584-410f-4362-8bd8-9ca3014d7041"
+		],
+		"title": "De kandidaat kan teksten en tekstgedeelten reduceren tot de hoofduitspraak of hoofduitspraken met (belangrijke) ondergeschikte uitspraken.",
+		"id": "d2b513a0-9b34-4f61-9c89-114f18d523a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A3/3.2",
+		"examenprogramma_eindterm_id": [
+			"51ef2584-410f-4362-8bd8-9ca3014d7041"
+		],
+		"title": "De kandidaat kan informatie uit teksten en tekstgedeelten (her)ordenen tot hoofduitspraak of hoofduitspraken met (belangrijke) ondergeschikte uitspraken.",
+		"id": "292ae9f9-0732-4058-9ddf-264ff15e906f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinA/A3/3.3",
+		"examenprogramma_eindterm_id": [
+			"51ef2584-410f-4362-8bd8-9ca3014d7041"
+		],
+		"title": "De kandidaat kan beoordelen of een gegeven samenvatting de hoofduitspraak of hoofduitspraken van de tekst of het tekstgedeelte bevat met (belangrijke) ondergeschikte uitspraken.",
+		"id": "1f2e222f-8ebd-4c87-a7f1-395b61912da1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6a.1",
+		"examenprogramma_eindterm_id": [
+			"69ab8982-1ad6-4e1a-b54e-44e2637ebcc9"
+		],
+		"title": "De kandidaat kan standpunten en argumenten identificeren en interpreteren.",
+		"id": "183f68f1-60e5-43e0-8260-7d30db9cfbbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6a.2",
+		"examenprogramma_eindterm_id": [
+			"69ab8982-1ad6-4e1a-b54e-44e2637ebcc9"
+		],
+		"title": "De kandidaat kan argumentatiestructuren onderscheiden/herkennen: enkelvoudige, onder- en nevenschikkende argumentaties.",
+		"id": "d257b464-c45c-4ebb-a848-bbab073d2e93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6a.3",
+		"examenprogramma_eindterm_id": [
+			"69ab8982-1ad6-4e1a-b54e-44e2637ebcc9"
+		],
+		"title": "De kandidaat kan feitelijke en waarderende argumenten onderscheiden.",
+		"id": "254308aa-ef07-40ce-aa94-a3110d6f9059",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6a.4",
+		"examenprogramma_eindterm_id": [
+			"69ab8982-1ad6-4e1a-b54e-44e2637ebcc9"
+		],
+		"title": "De kandidaat kan de volgende argumentatieschema’s herkennen: op basis van: oorzaak en gevolg, kenmerk of eigenschap, voor- en nadelen, voorbeelden, vergelijking, autoriteit.",
+		"id": "edd9e1be-3476-41fd-84d4-ca41da9a9cd1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1a",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van aanvaardbaarheid en controleerbaarheid van feitelijke argumenten.",
+		"id": "70991428-600c-42c9-b6fe-efba6d83d6c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1b",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van aanvaardbaarheid en controleerbaarheid van feitelijke argumenten.",
+		"id": "f35cfe06-f5a1-4339-a0f8-020f40efcd96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1c",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van aanvaardbaarheid van waarderende argumenten.",
+		"id": "d429a573-9901-4929-abb8-cc0f903f3bee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1d",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van relevantie van argumenten.",
+		"id": "a246b7b0-480c-477a-a0d6-7ddaeed3a557",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1e",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "de kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van consistentie van de argumentatie.",
+		"id": "b05499d5-e77f-4571-8223-2945939321fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1f",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "de kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van toereikendheid van de argumentatie.",
+		"id": "fd8bf146-5363-4612-a57f-5e866f78dca3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.2a",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan drogredenen herkennen (en vermijden in de eigen argumentatie) drogreden: een onjuist gebruik van een argumentatieschema of het overtreden van een discussieregel",
+		"id": "278147b6-26d3-4d86-a79d-08c3540cba6f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.2b",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan drogredenen herkennen (en vermijden in de eigen argumentatie) onjuist gebruik van een argumentatieschema: - onjuist beroep op een oorzaak-gevolgschema; - onjuist beroep op een kenmerk- of eigenschapsschema; - onjuist beroep op een voor-en-nadelenschema: overdrijven van voor- of nadelen, vals dilemma; - onjuist beroep op een voorbeeldschema: overhaaste generalisatie; - onjuist beroep op een vergelijkingsschema: verkeerde vergelijking; - onjuist beroep op autoriteit.",
+		"id": "e34d4f5d-8dad-4df4-9086-2be1cf7fe5f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.2c",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan drogredenen herkennen (en vermijden in de eigen argumentatie) overtreding van een discussieregel: - de persoonlijke aanval; - het ontduiken van de bewijslast; - de cirkelredenering; - het vertekenen van een standpunt; - het bespelen van publiek.",
+		"id": "43925b32-f674-4cbb-9ee9-ce060dbcc7bb",
+		"unreleased": true
 	}
 ]
