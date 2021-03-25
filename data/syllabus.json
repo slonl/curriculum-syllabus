@@ -2380,5 +2380,43 @@
 		"title": "Syllabus scheikunde vwo",
 		"id": "e8db50bc-c29b-4dae-b0b6-400a337db13d",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"f514dd0f-c5ad-4ecf-9301-a62934316655"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7b9b0a85-89c4-4432-a644-2584040d2d34",
+			"ddbcb5de-fe60-4295-9a97-71c626a1b2c0",
+			"aaeb9bd3-8954-4d57-9613-514f930a6451",
+			"c83a797a-595d-4187-a4f7-f22f8a07296d",
+			"04f0d840-e23e-435c-96a2-3677ead0a15e",
+			"d49ffcc3-57da-46b6-a008-0745d8d5b41f",
+			"b1da5602-aa68-4048-89c5-438e6f112571",
+			"ff16b580-01e1-4571-b254-c6c81f842db6",
+			"12248e77-9e12-4d8e-a2bc-24a8b498cd7c",
+			"55f10a7e-278b-4391-835e-f3aea5c6586d",
+			"bcc4a29d-9783-4a3b-8e1a-bdc1953a0ab0",
+			"d1244e19-9f54-43e6-926b-af56ac0b7566",
+			"ebf327c5-74c7-4a19-854a-e4fea9797d33",
+			"b3667d94-53bb-4f0e-8b0b-3b1fde5a897e",
+			"5c37b8cf-900d-4679-8bed-3373f99deb28",
+			"d3ec1a0b-5109-408b-a9bc-dcf4f4b7c985",
+			"00cc5571-b0d3-422c-8258-8b1cbe056fef",
+			"708681cb-a4f7-46f6-b72f-a8e66abc3025",
+			"0a0fee46-b075-4dbb-a267-7f0c9415cb7d",
+			"3d7b53ef-95d2-46d8-a9e1-cde358cc9a17",
+			"87089db7-46f4-4b83-85c3-0496d986af79",
+			"fec9c710-9ca7-4ea7-a9e5-3c23b6b17b5f",
+			"cdd7e69a-e476-45b7-af31-f0ba55eef327",
+			"2f79f20a-2eb7-46ba-b389-1049222c29e2",
+			"407c678b-f695-4e92-af83-e68e79fc3820",
+			"29f95e3a-eb79-44ef-a340-4d84f71c5410",
+			"2df8d982-8483-4450-a3a8-eee30367b832",
+			"71b5f069-87dd-4198-becd-616eefd52501"
+		],
+		"title": "Syllabus Nederlandse taal",
+		"id": "efbaa1f6-ec25-4482-be23-46cb74ab82f3",
+		"unreleased": true
 	}
 ]
