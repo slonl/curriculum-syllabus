@@ -2415,9 +2415,11 @@
 			"2df8d982-8483-4450-a3a8-eee30367b832",
 			"71b5f069-87dd-4198-becd-616eefd52501"
 		],
-		"title": "Syllabus Nederlandse taal",
+		"title": "Syllabus Nederlandse taal havo",
 		"id": "efbaa1f6-ec25-4482-be23-46cb74ab82f3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -2453,8 +2455,10 @@
 			"e34d4f5d-8dad-4df4-9086-2be1cf7fe5f2",
 			"43925b32-f674-4cbb-9ee9-ce060dbcc7bb"
 		],
-		"title": "Syllabus Nederlandse taal",
+		"title": "Syllabus Nederlandse taal vwo",
 		"id": "ba789609-e0ba-4a79-9926-eb1cef208f12",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	}
 ]
