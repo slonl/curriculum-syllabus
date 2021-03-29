@@ -2144,5 +2144,215 @@
 		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden de vaardigheden uit NASK2/K/3 getoond. Hierbij ligt een nadruk op de strategische vaardigheden met betrekking tot onderzoeken en ontwerpen.",
 		"id": "88c52e64-257e-419d-a39f-1b082d232103",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Onderwerpen van de teksten. De teksten hebben betrekking op alledaagse onderwerpen, die veelal aansluiten bij de leefwereld en de intellectuele en emotionele ontwikkeling van de kandidaten. Bij de tekstkeuze is rekening gehouden met de variatie in culturele achtergrond van de kandidaten.",
+		"id": "f4cb3c52-a267-4a29-a41a-c8691191aec8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Tekstkenmerken. De teksten zijn bescheiden van omvang en eenvoudig qua opbouw. De structuur is helder, waarbij verbanden en denkstappen duidelijk worden aangegeven. De teksten kunnen redelijk informatiedicht zijn.",
+		"id": "81638861-3f98-42b6-9e42-359814bcbd24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Tekstkenmerken. De teksten voor de KB-kandidaten zijn ten opzichte van de teksten voor de BB-kandidaten wat meer complex qua opbouw. De structuur is helder, waarbij verbanden en denkstappen duidelijk worden aangegeven. De teksten kunnen redelijk informatiedicht zijn.",
+		"id": "c0c5bf5c-2819-41ec-8e3d-f017e85def0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Tekstsoorten. Kandidaten luisteren en kijken naar teksten zoals uitleg en instructies voordrachten of toespraken (nieuws)berichten, documentaires, reclameboodschappen en discussieprogramma’s films en televisieseries.",
+		"id": "1dd0d516-fd98-4c67-8451-22f3f7173f6f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Opdrachten. De opdrachten bieden de kandidaten steun door een grote mate van voorstructurering.",
+		"id": "8be6d9d9-8262-4bf7-a6d8-235dbad8bcf7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/toel.",
+		"examenprogramma_domein_id": [
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20"
+		],
+		"title": "Opdrachten. De opdrachten bieden de kandidaten steun door een zekere mate van voorstructurering.",
+		"id": "fcb9bb54-9568-4ae9-b0c2-5de5cf9a576b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Onderwerpen van de teksten. De teksten hebben betrekking op alledaagse onderwerpen, die veelal aansluiten bij de leefwereld en de intellectuele en emotionele ontwikkeling van de kandidaten. Bij de tekstkeuze is rekening gehouden met de variatie in culturele achtergrond van de kandidaten.",
+		"id": "30df99b4-be3b-4a23-8ae2-a9d2c7231312",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Onderwerpen van de teksten. De teksten hebben betrekking op alledaagse onderwerpen en onderwerpen die iets verder van de leerling afstaan. Ze sluiten aan bij de intellectuele en emotionele ontwikkeling van de kandidaten. Bij de tekstkeuze is rekening gehouden met de variatie in culturele achtergrond van de kandidaten.",
+		"id": "8f0f5407-2831-4881-9c64-00c8e1ff8eb9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstkenmerken. De teksten zijn eenvoudig qua woordenschat, zinsbouw en opbouw. Ze hebben een heldere structuur: verbanden in de tekst worden duidelijk aangegeven. De teksten hebben overwegend een lage informatiedichtheid, en zijn niet te lang.",
+		"id": "9f8e1c3e-aeae-44d0-8161-7a0e7c42c7e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstkenmerken. De teksten voor KB-kandidaten zijn ten opzichte van de teksten voor de BB-kandidaten wat meer complex qua woordenschat, zinsbouw en opbouw. De teksten hebben een heldere structuur: verbanden worden duidelijk aangegeven. De teksten hebben overwegend een lage informatiedichtheid en ze zijn niet te lang.",
+		"id": "b81ea7b2-3608-4049-86ca-d5f834029bab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstkenmerken. De teksten voor GL/TL-kandidaten zijn ten opzichte van de teksten voor de KB-kandidaten wat complexer qua woordenschat, zinsbouw en opbouw. De teksten hebben een heldere structuur: verbanden worden duidelijk aangegeven. De teksten hebben overwegend een lage informatiedichtheid en ze zijn niet te lang.",
+		"id": "9b97cf9e-bf5b-42ea-8c5f-12926dc737ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstsoorten. Kandidaten lezen informatieve teksten zoals artikelen uit kranten en populaire tijdschriften, het alledaagse nieuws in de krant, standaardformulieren, schema's en schematische informatie, notities, teksten van internet met doorklikpunten (hyperlinks).",
+		"id": "c2f8563d-2fec-48e4-8cc5-8f5fd4bc19d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstsoorten. Kandidaten lezen instructieve teksten zoals korte instructieteksten, aanwijzingen en gebruiksaanwijzingen, recepten.",
+		"id": "9895d242-3a7f-410e-86b3-6dafcb4452c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Tekstsoorten. Kandidaten lezen betogende teksten zoals artikelen uit kranten en populaire tijdschriften, reclameteksten, advertenties, folders.",
+		"id": "6345c0da-9c6c-4a50-a077-353ad1926502",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Opdrachten. De opdrachten bieden de kandidaten steun door een grote mate van voorstructurering.",
+		"id": "7a4a6205-a017-45d7-8a92-36f730920438",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/toel.",
+		"examenprogramma_domein_id": [
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8"
+		],
+		"title": "Opdrachten. De opdrachten bieden de kandidaten steun door een zekere mate van voorstructurering.",
+		"id": "bcef7211-8af7-42ec-be0b-200289e8a8aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/7/toel.",
+		"examenprogramma_domein_id": [
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315"
+		],
+		"title": "Opdrachten. De opdrachten hebben betrekking op herkenbare onderwerpen van maatschappelijke en beroepsmatige aard. De opdrachten bieden de kandidaten steun door een grote mate van sturing met betrekking tot doel, publiek, vorm en inhoud van de te produceren teksten.",
+		"id": "758e4e6a-f960-4e12-b85c-392480f44376",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/7/toel.",
+		"examenprogramma_domein_id": [
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315"
+		],
+		"title": "Opdrachten. De opdrachten hebben betrekking op herkenbare onderwerpen van maatschappelijke en beroepsmatige aard. De opdrachten bieden de kandidaten steun door een zekere mate van sturing met betrekking tot doel, publiek, vorm en inhoud van de te produceren teksten.",
+		"id": "79e4956e-d3f4-4671-b057-b787d330699f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/7/toel.",
+		"examenprogramma_domein_id": [
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315"
+		],
+		"title": "Kenmerken van de taakuitvoering. De teksten van de kandidaten brengen het beoogde schrijfdoel tot uitdrukking en zijn qua woordkeuze, toon en zinsbouw afgestemd op het beoogde publiek. In de teksten is structuur aangebracht zowel op tekst- als op alineaniveau. De teksten voldoen aan\r\neisen op het gebied van spelling, interpunctie, grammaticaliteit en uiterlijke verzorging.",
+		"id": "7247c5a1-5173-4496-876f-059421e7a992",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/7/toel.",
+		"examenprogramma_domein_id": [
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315"
+		],
+		"title": "Tekstsoorten. De kandidaten schrijven informatieve, overtuigende, opiniërende en activerende teksten zoals informele en formele brieven en e-mails, formulieren, korte instructieteksten, aanwijzingen en gebruiksaanwijzingen, verslagen, ingezonden stukken of bijdragen, bijvoorbeeld voor de schoolkrant, advertenties, schriftelijke verzoeken.",
+		"id": "4e488d21-f65b-4748-8e3f-9faefc048698",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/7/toel.",
+		"examenprogramma_domein_id": [
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315"
+		],
+		"title": "Tekstsoorten. De kandidaten schrijven informatieve, overtuigende, opiniërende en activerende teksten zoals informele en formele brieven en e-mails, formulieren, korte instructieteksten, aanwijzingen en gebruiksaanwijzingen, verslagen, artikelen bijvoorbeeld voor de schoolkrant, voor een jongerentijdschrift of voor een dagblad, advertenties, schriftelijke verzoeken.",
+		"id": "ecbd2ec0-9a91-4c95-b92b-07e9c629ff9f",
+		"unreleased": true
 	}
 ]
