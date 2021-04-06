@@ -18835,5 +18835,41 @@
 		"title": "De kandidaat kan beschikbare elektronische hulpmiddelen in het schrijfproces gebruiken.",
 		"id": "4897a628-093f-49c9-b365-9d18f32095a8",
 		"unreleased": true
+	},
+	{
+		"prefix": "FR/V/DomeinA/1a.1",
+		"examenprogramma_eindterm_id": [
+			"6cbedc58-ac8f-44af-aa11-0c02d58830c7"
+		],
+		"title": "De kandidaat kan onderwerpen en hoofdgedachten van gehele teksten en tekstgedeelten aanwijzen of parafraseren voor zover expliciet aanwezig en verwoorden voor zover impliciet aanwezig;",
+		"id": "46dcbe47-b88e-4921-bbaf-07fb82752e1b",
+		"unreleased": true
+	},
+	{
+		"prefix": "FR/V/DomeinA/1a.2",
+		"examenprogramma_eindterm_id": [
+			"6cbedc58-ac8f-44af-aa11-0c02d58830c7"
+		],
+		"title": "De kandidaat kan teksten en tekstgedeelten beknopt samenvatten, d.w.z. reduceren tot de hoofduitspraak of hoofduitspraken met bijbehorende ondersteuning of (belangrijke) ondergeschikte uitspraken;",
+		"id": "7a797c5d-a8bb-4492-b2a9-365607d6d3c7",
+		"unreleased": true
+	},
+	{
+		"prefix": "FR/V/DomeinA/1b.1",
+		"examenprogramma_eindterm_id": [
+			"6a554970-cd05-4051-b776-6a3a36f3e6f0"
+		],
+		"title": "De kandidaat kan inhoudelijke en functionele relaties benoemen die ex- of impliciet tussen tekstonderdelen aanwezig zijn; inhoudelijke en functionele relaties zijn bijvoorbeeld: verwijzingsrelaties, de relatie van oorzaak-gevolg, de relatie doel-middel, de relatie van stelling-argument-subargument, de relatie van algemene uitspraak-toelichting.",
+		"id": "531a7db8-b630-4424-8160-669c3677b123",
+		"unreleased": true
+	},
+	{
+		"prefix": "FR/V/DomeinA/1d.1",
+		"examenprogramma_eindterm_id": [
+			"7b1500e3-a0b6-47c5-bdc6-6c181db30153"
+		],
+		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden.",
+		"id": "406c819f-f0a5-4144-95cc-59915389907c",
+		"unreleased": true
 	}
 ]
