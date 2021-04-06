@@ -2522,5 +2522,19 @@
 		"title": "Syllabus Nederlandse taal vmbo",
 		"id": "ff8ea612-0010-443d-a4df-bcfd31d838d8",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"46dcbe47-b88e-4921-bbaf-07fb82752e1b",
+			"7a797c5d-a8bb-4492-b2a9-365607d6d3c7",
+			"531a7db8-b630-4424-8160-669c3677b123",
+			"406c819f-f0a5-4144-95cc-59915389907c"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo",
+		"id": "b24a305a-cc34-4325-8250-085e8386a63a",
+		"unreleased": true
 	}
 ]
