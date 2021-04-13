@@ -18871,5 +18871,955 @@
 		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden.",
 		"id": "406c819f-f0a5-4144-95cc-59915389907c",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A1/1.1",
+		"examenprogramma_eindterm_id": [
+			"abd7ec15-0bdf-4c92-ad23-78e344178992"
+		],
+		"title": "De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken",
+		"id": "df16c5c5-41b5-4a69-9a71-dd013a10a375",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A1/1.2",
+		"examenprogramma_eindterm_id": [
+			"abd7ec15-0bdf-4c92-ad23-78e344178992"
+		],
+		"title": "De kandidaat kan adequaat schriftelijk, mondeling en digitaal communiceren over onderwerpen",
+		"id": "14cd73fe-0f69-4b0c-979a-f1b9bf7a7aea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A1/1.3",
+		"examenprogramma_eindterm_id": [
+			"abd7ec15-0bdf-4c92-ad23-78e344178992"
+		],
+		"title": "De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces",
+		"id": "1de76bdd-9680-427c-abc9-a1140cd8ca6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A1/1.4",
+		"examenprogramma_eindterm_id": [
+			"abd7ec15-0bdf-4c92-ad23-78e344178992"
+		],
+		"title": "De kandidaat kan toepassingen en effecten van wiskunde in het dagelijks leven en in verschillende vervolgopleidingen en beroepssituaties herkennen en benoemen.",
+		"id": "fffeae05-822b-40aa-a187-3d7f0569de57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A2/2.1",
+		"examenprogramma_eindterm_id": [
+			"5aad61f5-8356-482d-a2e5-d8a1ee255ae6"
+		],
+		"title": "De kandidaat kan een probleemsituatie in de context interpreteren, structureren en vertalen naar een model waarin wiskundig gereedschap kan worden ingezet",
+		"id": "5c6dbf86-410b-4b71-a2a2-76e6df8f2b78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A2/2.2",
+		"examenprogramma_eindterm_id": [
+			"5aad61f5-8356-482d-a2e5-d8a1ee255ae6"
+		],
+		"title": "De kandidaat kan wiskundige methoden toepassen op probleemsituaties, de resultaten van een wiskundige handeling terugvertalen naar de context en daaruit conclusies trekken",
+		"id": "903260d6-c546-46cc-b180-3b228fa43ba9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.1",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat beheerst de rekenregels",
+		"id": "feec79f4-c1f8-433d-9b2b-3544900fe7b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.2",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat beheerst de specifieke algebraïsche vaardigheden",
+		"id": "7097864d-75ad-4646-874b-c7c81d09e300",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.3",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat heeft inzicht in wiskundige notaties en formules en kan daarmee kwalitatief redeneren",
+		"id": "7d79ee76-af2d-42a1-a550-aea567e1b4b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.4",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan wiskundige informatie ordenen en in probleemsituaties de wiskundige structuur onderkennen",
+		"id": "b4fd3dc8-ef8e-4c08-b772-dedb271e74c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.5",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan bij een gegeven probleemsituatie een model opstellen in wiskundige termen",
+		"id": "08b59e9f-e132-482f-93df-5319edd3adc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.6",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan een oplossingsstrategie kiezen, deze correct toepassen en de gevonden oplossing controleren binnen de context",
+		"id": "dd230d37-2d32-4de1-965a-6abdbe637883",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.7",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan vakspecifieke taal interpreteren en gebruiken",
+		"id": "38bf5ba2-0f48-4b26-9094-9ccc0db7b36c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.8",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan de correctheid van wiskundige redeneringen verifiëren",
+		"id": "4d5e9a86-98f9-4d26-8161-4d0080ae1166",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.9",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan eenvoudige wiskundige redeneringen correct onder woorden brengen",
+		"id": "32875dff-a181-4449-812b-5e563157338c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.10",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan bij het raadplegen van wiskundige informatie, bij het verkennen van wiskundige situaties, bij het geven van wiskundige redeneringen en bij het uitvoeren van wiskundige berekeningen gebruik maken van geschikte ICTmiddelen",
+		"id": "f6b71aa6-4749-4b89-97bf-4cc4083b83c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinA/A3/3.11",
+		"examenprogramma_eindterm_id": [
+			"6c9d607a-023a-4f22-92f2-fd24071cd999"
+		],
+		"title": "De kandidaat kan antwoorden afronden op een voorgeschreven nauwkeurigheid dan wel op een nauwkeurigheid die past bij de probleemsituatie",
+		"id": "095a5f09-1a42-4ecd-adf3-2072addd7169",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.1",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kan berekeningen maken waarbij gebruik gemaakt wordt van verschillende rekenregels, inclusief die van machten en wortels.",
+		"id": "57feca30-1a34-4854-ac84-323244afb0c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.2",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kan berekeningen maken met verhoudingen en breuken.",
+		"id": "3af3eb6b-c1c8-44cf-822d-5b65a69dd579",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.3",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kan werken met haakjes en vereenvoudigen door haakjes weg te werken.",
+		"id": "72fb8ba5-beab-4203-a41a-d3f42ca8bfe1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.4",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kan gebruik maken van de begrippen absoluut en relatief.",
+		"id": "5a770cb8-acb0-410f-b0a0-fdeff3679219",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.5",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kan berekeningen met procenten uitvoeren.",
+		"id": "44976554-231e-4b5c-a310-aa196f827572",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B1/4.6",
+		"examenprogramma_eindterm_id": [
+			"65b1f27d-c3d8-497d-b29c-0943881865a9"
+		],
+		"title": "De kandidaat kande relatie leggen tussen breuken, decimale notatie en afrondingen.",
+		"id": "f48bab91-d91f-430f-bf6b-756129fe887a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B2/5.1",
+		"examenprogramma_eindterm_id": [
+			"a68e6911-11c5-4908-8ca3-d9aabdb7568c"
+		],
+		"title": "De kandidaat kan berekeningen maken met variabelen waarbij gebruik gemaakt wordt van verschillende rekenregels, inclusief die van machten en wortels.",
+		"id": "d0c7a3f3-65b3-423b-b077-463010728403",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B2/5.2",
+		"examenprogramma_eindterm_id": [
+			"a68e6911-11c5-4908-8ca3-d9aabdb7568c"
+		],
+		"title": "De kandidaat kan berekeningen maken met verhoudingen, percentages en breuken met daarin een of meer variabelen",
+		"id": "1bc64e3e-0463-4cbf-88c0-a485598abf16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B2/5.3",
+		"examenprogramma_eindterm_id": [
+			"a68e6911-11c5-4908-8ca3-d9aabdb7568c"
+		],
+		"title": "De kandidaat kan werken met haakjes bij variabelen, waaronder het vereenvoudigen door haakjes wegwerken",
+		"id": "5855523f-911d-44e1-8550-dfdc6fc91c8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinB/B2/5.4",
+		"examenprogramma_eindterm_id": [
+			"a68e6911-11c5-4908-8ca3-d9aabdb7568c"
+		],
+		"title": "De kandidaat kan  werken met grootheden, samengestelde grootheden en maatsystemen, en eenheden omrekenen",
+		"id": "8a8cdd13-621c-40a8-befe-1ba4f0b390f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.1",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan in een probleemsituatie de relevante variabelen vaststellen.",
+		"id": "d1ba0738-bf09-4f13-8b85-d1cefefdf022",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.2",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan bijzonderheden van een tabel beschrijven met woorden.",
+		"id": "94660ca6-7aed-4a39-9d09-55516b6b2add",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.3",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan waarden aflezen uit een tabel en daaruit conclusies trekken.",
+		"id": "7fa0acb3-f409-4a94-bf81-d0984374ef2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.4",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan twee of meer tabellen van eenzelfde variabele vergelijken en conclusies trekken over de probleemsituaties die deze tabellen beschrijven.",
+		"id": "abaaade0-aa6e-4898-abfb-2aed0a52a19e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.5",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan een tabel in verband brengen met een grafiek, formule of tekst.",
+		"id": "bcfd69ed-567f-41d8-9f33-0bfaf7513bd9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.6",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan een tabel opstellen aan de hand van andere tabellen, een grafiek, een formule of een tekst.",
+		"id": "be0f25fc-6ae3-4590-ba8d-7ad1e301c0b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.7",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan binnen de probleemsituatie een verband, weergegeven door een tabel, doelgericht gebruiken.",
+		"id": "9f3e3f2e-4418-41bc-a30a-30e3f3662e26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C1/7.8",
+		"examenprogramma_eindterm_id": [
+			"778df9ec-482e-4bf4-830d-db34327d7bbd"
+		],
+		"title": "De kandidaat kan een verband tussen (recht en omgekeerd) evenredige grootheden in een tabel herkennen.",
+		"id": "1f19a74a-3488-4676-a149-a5ec7cc57324",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8a",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kent de volgende typen standaardverbanden inclusief de bijbehorende namen:\r\ny=ax + b (lineair verband),\r\ny=b·gx (exponentieel verband),\r\ny=ax (recht evenredig verband),\r\ny=a/x (omgekeerd evenredig verband)",
+		"id": "a4f0a79a-6fe0-4a89-b658-de0801d47381",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8b",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kent de volgende bij de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\n- (constant, toenemend of afnemend) stijgen\r\n- (constant, toenemend of afnemend) dalen",
+		"id": "bc2fac57-26ef-4145-ae01-19c5630e54b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8c",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\n- snijpunt(en) met de x-as en met de y-as,\r\n- asymptotisch gedrag",
+		"id": "61addac4-5bc9-48d8-8728-101fd92ab4ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.1",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan van de standaardverbanden een globale grafiek tekenen zonder ICT.",
+		"id": "161e9cbf-bcee-4f4a-807d-ff75ab52126a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.2",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan in een gegeven probleemsituatie de parameters van een standaardverband berekenen.",
+		"id": "53922c36-e86a-4a28-8aaa-523baf0b8ac4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.3",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan een logaritmische schaalverdeling aflezen.",
+		"id": "0a0eb1fa-4f88-4a19-a11d-9033090e812e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.4",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan in een probleemsituatie de relevante variabelen vaststellen.",
+		"id": "a0527a4d-bcf7-4bbd-a7ee-06e3e37146af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.5",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan bijzonderheden van een grafiek met woorden beschrijven.",
+		"id": "64302a7e-38aa-4ecd-8ba3-b5169c59be15",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.6",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan waarden aflezen uit een grafiek en daaruit conclusies trekken.",
+		"id": "0bf8b706-faad-42ee-819c-5ba8414ca666",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.7",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan een grafiek tekenen aan de hand van andere grafieken, een tabel, een formule of een tekst.",
+		"id": "d6f4aea5-7ad4-40fe-b648-9a206c80c8e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.8",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan een grafiek schetsen, interpreteren en ermee redeneren.",
+		"id": "f928a0b4-4cd7-40fa-b16b-36f6d4591de6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.9",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan twee of meer grafieken vergelijken en conclusies trekken over de probleemsituaties die deze grafieken beschrijven.",
+		"id": "8e635fd7-e947-40c5-879d-6cd19b96efe6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.10",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan de coördinaten van snijpunten van grafieken aflezen, berekenen en interpreteren binnen de gegeven probleemsituatie.",
+		"id": "71e86e3e-8c2e-469e-b55b-2c5ab7a9621f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.11",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan een vergelijking of een ongelijkheid opstellen aan de hand van een tabel, formule, grafiek of tekst.",
+		"id": "a8ce3811-a414-415c-a7df-c0de0e39bb05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.12",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan conclusies trekken uit grafieken in verband met vergelijkingen en ongelijkheden.",
+		"id": "a559df09-bb4a-4751-986b-44b4db470d08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.13",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan gebieden begrensd door grafieken interpreteren en gebruiken om conclusies te trekken.",
+		"id": "1313fe35-16b2-4a36-b743-d1b8769d4135",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.14",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan vergelijkingen en ongelijkheden oplossen met behulp van numerieke of grafische methoden.",
+		"id": "a31213dc-be2a-40b6-95dd-eaa0197b319a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C2/8.15",
+		"examenprogramma_eindterm_id": [
+			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
+		],
+		"title": "De kandidaat kan de maximum- of minimumwaarde van een formule berekenen.",
+		"id": "a232916b-58c5-495d-b055-0c8e9ec8929c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C3/9.1",
+		"examenprogramma_eindterm_id": [
+			"085f3b01-96a9-4d7a-ab92-8d6f52877dfd"
+		],
+		"title": "De kandidaat kan door substitutie in een formule waarden berekenen.",
+		"id": "c9e43c76-ee03-4b1d-9c68-a80546cc003b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C3/9.2",
+		"examenprogramma_eindterm_id": [
+			"085f3b01-96a9-4d7a-ab92-8d6f52877dfd"
+		],
+		"title": "De kandidaat kan een formule opstellen aan de hand van andere formules.",
+		"id": "32c3d8a7-9d06-48d2-901e-e67d0c71be29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C3/9.3",
+		"examenprogramma_eindterm_id": [
+			"085f3b01-96a9-4d7a-ab92-8d6f52877dfd"
+		],
+		"title": "De kandidaat kan een formule opstellen of wijzigen op grond van in een tekst gegeven informatie.",
+		"id": "b15aa40c-5c1f-4f8b-b35e-59deb8267509",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinC/C3/9.4",
+		"examenprogramma_eindterm_id": [
+			"085f3b01-96a9-4d7a-ab92-8d6f52877dfd"
+		],
+		"title": "De kandidaat kan een variabele in een formule vervangen door een eenvoudige expressie en het resultaat vereenvoudigen.",
+		"id": "d745883c-034d-46b4-ac4a-80bed3fb5de3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.1",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan een verband tussen recht evenredige grootheden uitdrukken in een formule.",
+		"id": "7d0575e3-781d-48bc-b3e0-bb26b6469bc1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.2",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan vergelijkingen van de vorm px + qy = r herleiden tot een vergelijking van de vorm y = ax + b.",
+		"id": "4d259641-f3da-4af9-b310-c5c1a3b9eee9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.3",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan een formule opstellen bij een lineair verband dat in een tabel, grafiek of tekst gegeven is.",
+		"id": "57e9f383-c355-448b-acbb-3ebe9d8927fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.4",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan grafieken tekenen en interpreteren bij formules van de vorm y = ax + b.",
+		"id": "ab8fc890-7439-4cd1-8cd4-3167acd9cc60",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.5",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan waarden vinden door lineair interpoleren of lineair extrapoleren.",
+		"id": "4ab9cfa2-941d-4808-be7a-bdd5825cb49c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.6",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan lineaire vergelijkingen en ongelijkheden oplossen en interpreteren.",
+		"id": "df20a726-18e5-4236-bad5-fcada74fbcd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.7",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan de coördinaten van het snijpunt van twee lijnen berekenen en interpreteren.",
+		"id": "580ad1fb-1766-4226-a3dc-87ec4312caeb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C4/10.8",
+		"examenprogramma_eindterm_id": [
+			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
+		],
+		"title": "De kandidaat kan gebieden begrensd door ongelijkheden van de vorm px + qy >= r of px + qy <= r tekenen en interpreteren.",
+		"id": "7ef367b8-2bb4-4446-9977-e13239116be8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C5/11.1",
+		"examenprogramma_eindterm_id": [
+			"7813ce75-a5f2-48d3-8d1a-c48571219980"
+		],
+		"title": "De kandidaat kent de begrippen grondtal en exponent",
+		"id": "2079ec4a-5bbe-438f-b904-26f9c0ec3316",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C5/11.2",
+		"examenprogramma_eindterm_id": [
+			"7813ce75-a5f2-48d3-8d1a-c48571219980"
+		],
+		"title": "De kandidaat kan vaststellen of een groeiproces bij benadering exponentieel is.",
+		"id": "09a38b6b-6dd7-48cb-a26d-e411a9e6468e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C5/11.3",
+		"examenprogramma_eindterm_id": [
+			"7813ce75-a5f2-48d3-8d1a-c48571219980"
+		],
+		"title": "De kandidaat kan met beginwaarde, groeifactor, groeipercentage, halveringstijd of verdubbelingstijd berekeningen uitvoeren.",
+		"id": "17ee5c94-01e6-4d1a-b7e2-109511206a87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C5/11.4",
+		"examenprogramma_eindterm_id": [
+			"7813ce75-a5f2-48d3-8d1a-c48571219980"
+		],
+		"title": "De kandidaat kan een formule opstellen bij een exponentieel verband tussen twee grootheden dat in een tabel, grafiek of tekst gegeven is.",
+		"id": "0f8f9595-7d61-45ac-a3b3-59c835faaa7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinC/C5/11.5",
+		"examenprogramma_eindterm_id": [
+			"7813ce75-a5f2-48d3-8d1a-c48571219980"
+		],
+		"title": "De kandidaat kan  grafieken tekenen en interpreteren bij formules van het type y = b . g^x.",
+		"id": "243aefa4-f37e-4aa3-906e-344f391408f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinE/1",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kent de regel dat een steekproevenverdeling van een proportie of van een gemiddelde bij voldoende grote steekproefomvang bij benadering normaal verdeeld is.",
+		"id": "b0fe06e7-a61a-4144-931d-8a4ad7121365",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinE/2",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kent de volgende vuistregels voor de normale verdeling met gemiddelde μ en standaardafwijking σ:\r\n- tussen μ–σ en μ+σ ligt ongeveer 68% van de waarnemingen,\r\n- tussen μ–2σ en μ+2σ ligt ongeveer 95% van de waarnemingen,\r\n- tussen μ–3σ en μ+3σ ligt nagenoeg 100% van de waarnemingen.",
+		"id": "51346e07-2581-4cf0-9506-3a9d37604176",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/A/H/DomeinE/3",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kent het begrip betrouwbaarheidsinterval.",
+		"id": "82b616aa-84b7-441e-bb2b-b7291888bd3b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.1",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan een gegeven onderzoeksopzet of –vraag kritisch beoordelen",
+		"id": "57eefe39-af69-4fd5-8be9-b969f7deb6c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.2",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan een gegeven presentatie van data kritisch beoordelen in relatie tot het doel waartoe deze is gemaakt",
+		"id": "0b918c2b-a7a0-41bf-96c4-61bf2a938f95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.3",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan beoordelen of er sprake is van een representatieve en/of aselecte steekproef",
+		"id": "8d334aec-ba83-48a4-81b5-1088959d2fe6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.4",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan bij een gegeven presentatie van data de begrippen centrum en spreiding gebruiken en aangeven of deze zinvol zijn",
+		"id": "0d7ccb68-b72b-4b55-9697-9df656ffea08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.5",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan beoordelen of een variabele kwalitatief of kwantitatief, discreet of continu, ordinaal of nominaal is",
+		"id": "373ad9e5-8a5b-4828-8556-7eef26060dd4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.6",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan bij een gegeven presentatie van data beoordelen of uitspraken voldoende zijn onderbouwd",
+		"id": "9baf83f6-d376-4b4b-bb68-70e0b4362af0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/A/H/DomeinE/E1/13.7",
+		"examenprogramma_eindterm_id": [
+			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
+		],
+		"title": "De kandidaat kan uit gegeven presentaties van data of uit samenvattingen relevante informatie afleiden",
+		"id": "df111a5c-0900-4ba8-aeeb-9d0313ef9222",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E2/14.1",
+		"examenprogramma_eindterm_id": [
+			"f2381eb1-cc30-4817-a943-47689bb350e5"
+		],
+		"title": "De kandidaat kan geschikte representaties kiezen. Het betreft een of meer van de volgende representaties (al of niet ingedeeld in klassen): dotplot, staafdiagram, cirkeldiagram, steelbladdiagram, lijndiagram, cumulatief en relatief frequentiepolygoon, boxplot, puntenwolk of spreidingsdiagram, (cumulatieve) frequentietabel en kruistabel",
+		"id": "3a04283c-04bb-419c-a144-5f904dae382a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E2/14.2",
+		"examenprogramma_eindterm_id": [
+			"f2381eb1-cc30-4817-a943-47689bb350e5"
+		],
+		"title": "De kandidaat kan bij een gegeven representatie een andere maken",
+		"id": "ce5b155d-61de-4447-a594-0e0861d561ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E2/14.3",
+		"examenprogramma_eindterm_id": [
+			"f2381eb1-cc30-4817-a943-47689bb350e5"
+		],
+		"title": "De kandidaat kan beargumenteren welke centrummaat (gemiddelde, mediaan of modus) en welke spreidingsmaat (standaardafwijking, interkwartielafstand, spreidingsbreedte) geschikt zijn om een dataset te karakteriseren",
+		"id": "7a570e4a-9ba8-42f8-8740-6a91f7c94392",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E2/14.4",
+		"examenprogramma_eindterm_id": [
+			"f2381eb1-cc30-4817-a943-47689bb350e5"
+		],
+		"title": "De kandidaat kan de samenhang tussen statistische variabelen beschrijven met behulp van een kruistabel of puntenwolk",
+		"id": "28027017-2a46-4190-88c3-1e43513eeafb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E2/14.5",
+		"examenprogramma_eindterm_id": [
+			"f2381eb1-cc30-4817-a943-47689bb350e5"
+		],
+		"title": "De kandidaat kan uit gegeven data andere data afleiden en de mogelijke gevolgen daarvan beredeneren voor de centrummaten en/of spreidingsmaten",
+		"id": "4ad7ed1d-9603-432d-8ae9-acf56d7835ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E3/15.1",
+		"examenprogramma_eindterm_id": [
+			"f998e5fc-6f9a-44b3-95ff-552b151fbea7"
+		],
+		"title": "De kandidaat kan verdelingen kwalitatief beschrijven en/of kwalitatief vergelijken, waarbij gebruik gemaakt wordt van klokvormige, meertoppige, uniforme en scheve verdelingen, centrum en spreiding, staarten en uitschieters.",
+		"id": "106cbb13-8d26-4fbb-aef2-b59f03707025",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E3/15.2",
+		"examenprogramma_eindterm_id": [
+			"f998e5fc-6f9a-44b3-95ff-552b151fbea7"
+		],
+		"title": "De kandidaat kan gebruik maken van de drie vuistregels bij een (bij benadering) normale verdeling.",
+		"id": "924af2f3-bbc0-4f8b-bf1d-7f8754df09a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E3/15.3",
+		"examenprogramma_eindterm_id": [
+			"f998e5fc-6f9a-44b3-95ff-552b151fbea7"
+		],
+		"title": "De kandidaat kan bij een gegeven probleemstelling de omvang van de steekproef berekenen met gegeven berekeningswijze.",
+		"id": "1788fa2a-2252-419d-8553-f1356320e799",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.1",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan groepen vergelijken op een gegeven kenmerk",
+		"id": "48b43888-b157-43c9-a6e0-5972aae13e6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.2",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan aan de hand van een gegeven berekeningswijze het verschil tussen twee groepen kwantificeren",
+		"id": "2c42110a-08db-48e0-b734-a7f1c4669a73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.3",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan op basis van een steekproefproportie of steekproefgemiddelde uitspraken doen over de populatieproportie of het populatiegemiddelde en aan de hand van een gegeven berekeningswijze de betrouwbaarheid kwantificeren",
+		"id": "40fa09a2-d2ba-42b8-97c1-58f14872cc6d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.4",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan een statistisch verband tussen twee variabelen beschrijven",
+		"id": "9461cf56-9781-4cf0-bc35-0a38052449ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.5",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan onderscheid maken tussen statistische samenhang en oorzakelijk verband",
+		"id": "e1b49482-8de0-4b0e-9860-8ee03ed893f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.6",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan de statistische samenhang tussen twee variabelen, beschreven met behulp van een kruistabel of puntenwolk, interpreteren in termen van de probleemsituatie",
+		"id": "968332da-7991-4497-b9dc-80315c83b908",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/A/H/DomeinE/E4/16a.7",
+		"examenprogramma_eindterm_id": [
+			"94d81374-dcf3-4f76-837f-7693faebf105"
+		],
+		"title": "De kandidaat kan conclusies uit statistisch onderzoek met behulp van kwalitatieve en kwantitatieve argumenten kritisch beoordelen, al dan niet in het kader van de empirische cyclus (onderzoeksvraag, data verzamelen, data analyseren, conclusies trekken)",
+		"id": "8c08487f-e72a-4404-b47c-6801b94ddab8",
+		"unreleased": true
 	}
 ]
