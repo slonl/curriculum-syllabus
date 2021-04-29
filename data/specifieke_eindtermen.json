@@ -21653,5 +21653,1449 @@
 		"title": "De kandidaat kan een optimaliseringsprobleem vertalen in een formule en dit probleem vervolgens met behulp van de afgeleide of numeriek-grafisch oplossen.",
 		"id": "357f6a42-834f-47fe-953a-ffd6c316d489",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/1",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herkennen",
+		"id": "95fe5216-a126-423e-8c12-4e6ec9548a34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/2",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en)",
+		"id": "5c7d99f4-c810-42a4-b9b6-6d2cfb3f8475",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/3",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis",
+		"id": "0936265d-6278-4719-863c-c967aae966ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/4",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren",
+		"id": "0f882fcb-50e5-4fc8-86a4-6920baf23bb5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/5",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoording van een (of meerdere) onderzoeksvra(a)g(en)",
+		"id": "1973b119-6ba9-4119-937b-66e9f2581489",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/6",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruikmakend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden beantwoording van een (of meerdere) onderzoeksvra(a)g(en)",
+		"id": "1985aaec-0e18-4e62-bf33-f9314387a8f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/7",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een onderzoeksvraag",
+		"id": "b6433218-d845-4106-86c2-943db137b2e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/8",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten bij de onderzoeksvra(a)g(en) van het onderzoek",
+		"id": "d84d2532-29ea-41c5-96dc-05fc5d0fd597",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/9",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden de uitvoering van een onderzoek en de conclusies evalueren, gebruik makend van de begrippen validiteit en betrouwbaarheid",
+		"id": "6f430fdc-b97b-4097-adf6-ef1d03d83f8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A5/5a/11",
+		"examenprogramma_eindterm_id": [
+			"e3abbbcd-fe65-45dc-90b6-d2109fd202de"
+		],
+		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken zijn",
+		"id": "7d5c2da8-eae0-4b56-aad3-134b1fa1ec92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/1",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een technisch-ontwerpprobleem analyseren en beschrijven",
+		"id": "daed8334-deb2-46c9-831a-2a9cd3b2e23c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/2",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voor een ontwerp een programma van eisen en wensen opstellen",
+		"id": "883bed64-f7a0-4e23-8559-f8c5aa993833",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/3",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een ontwerp",
+		"id": "a9aa08a2-3200-4388-9a58-3e0748b74c2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/4",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verschillende (deel)uitwerkingen geven voor taken en eigenschappen van een ontwerp",
+		"id": "d8286d40-4972-464f-9343-15a64891bc4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/5",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma van eisen, prioriteiten en randvoorwaarden",
+		"id": "6448ecd9-8d6d-4b52-b2cd-2232f823e4de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A6/6/8",
+		"examenprogramma_eindterm_id": [
+			"fa474649-98d9-4ccf-8079-605b1a364858"
+		],
+		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voorstellen doen voor verbetering van een ontwerp",
+		"id": "fba7b27f-2fab-4b36-9afe-5444bf46432d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/1",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan relevante grootheden en relaties in een probleemsituatie identificeren en selecteren",
+		"id": "041107eb-a609-4f15-8482-7bdc0310e3c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/2",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan door het doen van aannamen en het maken van vereenvoudigingen een natuurwetenschappelijk probleem inperken tot een onderzoekbare vraagstelling",
+		"id": "dd6e027a-e1cf-4342-8a19-019d655d966d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/3",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan bij een natuurwetenschappelijk probleem een model selecteren dat geschikt is om het probleem te bestuderen",
+		"id": "296826e4-c8e7-4e6d-a550-7ebb01eb3e56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/4",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan een beargumenteerde schatting maken voor parameterwaarden van een model op basis van gegevens",
+		"id": "76c860d6-6353-4e31-96ec-88acf4cf2967",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/5",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan toetsbare verwachtingen formuleren over het gedrag an een model",
+		"id": "7aefda76-5ff8-4f3e-afef-589f7683221a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A7/7a/7",
+		"examenprogramma_eindterm_id": [
+			"a70b9394-c42b-4ed9-bf0e-b03585154a0c"
+		],
+		"title": "De kandidaat kan een model evalueren op basis van uitkomsten, verwachtingen en (meet)gegevens",
+		"id": "72fe3ebc-af6c-44f1-9226-da44968624fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/1a",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema's en diagrammen.",
+		"id": "9d9825f4-5816-4d26-b4d5-7f4897eea025",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/1b",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
+		"id": "d2e9fd84-2aa6-44b4-8c3c-a5166ebad495",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/2",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan informatie, gegevens en meetresultaten analyseren, weergegeven en structureren in grafieken, tekeningen, schema's, diagrammen en tabellen.",
+		"id": "bb25c15e-979f-4d00-ada3-97887f1adab7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/3",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan aangeven met welke technieken en apparaten de belangrijkste grootheden uit de natuurwetenschappen worden gemeten",
+		"id": "9fe794f0-fabf-4eba-9841-e6c6f3b65d05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5a",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met getallen in breuken en machten",
+		"id": "6067d873-49d2-4152-ad60-5137dfe3ba8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5b",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met verhoudingen, percentages en gemiddelden",
+		"id": "dd2e02d3-7a4e-4264-bafb-900a1c7a7a60",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5c",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met oppervlakte en volume",
+		"id": "b681ddb1-89bb-4615-b231-b97db9f104b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5d",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken opstellen en daarbij rekening houden met de plaats van de afhankelijke en de onafhankelijke variabele",
+		"id": "f0d2a9b1-ce4e-4262-92c5-5d3aa653ea8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5e",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, lineaire en exponentiële verbanden herkennen in grafieken",
+		"id": "25e31923-657d-4c1a-a004-1609d20136c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5f",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken lezen (formuleloos), gericht op grafisch verloop en trends.",
+		"id": "056e957e-8aeb-4772-af56-8a1b914cdd21",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A8/8/5g",
+		"examenprogramma_eindterm_id": [
+			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, verbanden leggen op basis van tabel- en grafiekgegevens",
+		"id": "57599891-abad-4965-92b8-2abd876f041b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A9/9/1",
+		"examenprogramma_eindterm_id": [
+			"28fe4ea1-8b9b-41df-b30c-94c0167149e7"
+		],
+		"title": "De kandidaat kan een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij vraagstukken van natuurwetenschappelijke aard",
+		"id": "65289d94-45dd-4a2d-92fb-f010ca53f0d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "BIO/H/DomeinA/A9/9/2",
+		"examenprogramma_eindterm_id": [
+			"28fe4ea1-8b9b-41df-b30c-94c0167149e7"
+		],
+		"title": "De kandidaat kan een ondersccheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen",
+		"id": "e15485b8-21e1-49f0-aa5b-06dd8e4380ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/1a",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context kenmerken van bacteriën beschrijven",
+		"id": "3bf1fb3e-6073-4bc5-b6b1-5300a4bd8e17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/1b",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context een eukaryote cel beschrijven als een zelfstandig functionerende eenheid, de onderdelen van cellen herkennen en de functies ervan benoemen",
+		"id": "952d44dd-ce1f-452d-96ed-fc5b6cbd40c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/1c",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context  uitleggen dat cellen zich in stand houden door het uitvoeren van chemische reacties",
+		"id": "c46c93f9-c2fa-4e58-a434-26d30d75130d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/1d",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context  beschrijven dat cellen zichzelf reguleren en daarbij een dynamisch evenwicht in stand houden",
+		"id": "d4f02eb4-363d-4d22-a221-566729a5eed1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/1e",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context toelichten hoe door het principe van terugkoppeling homeostase in de cel gerealiseerd wordt",
+		"id": "b35f6f6f-1de5-4530-80aa-2c1fad77d9f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/2a",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat bepaalde stofen door passief transport en andere door actief transport membranen kunnen passeren",
+		"id": "3d251879-d14a-461b-bc52-461caaac7252",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/2b",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context een relatie beschrijven tussen de osmotische waarde binnen en buiten een cel en de invloed daarvan op de stevigheid",
+		"id": "fd61aeb0-e63a-4191-b532-d87b9e166ea5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3a",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat cellen stoffen opnemen, transporteren, omzetten en afgeven met behulp van energie, gekatalyseerd door enzymen",
+		"id": "8e81af15-c137-4cff-b5e1-3310ba1650b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3b",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat er verschillende vormen van energie zijn: chemische energie (zoals in ATP), lichtenergie, kinetische energie, warmte, en beschrijven dat deze vormen in elkaar kunnen overgaan",
+		"id": "eaa55d57-3631-457e-abc6-8e5cb954cbbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3c",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context het fotosynheseproces in cellen met bladgroenkorrels beschrijven",
+		"id": "952620e2-288a-494b-9993-3025a7112cbd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3d",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context assimilatieprocessen in planten en dieren beschrijven en toelichten dat deze processen leiden tot de aanmaak van bouwstoffen, brandstoffen, reservestoffen en enzymen",
+		"id": "c7bf847b-ee9e-40b1-8d32-a98cf502b647",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3e",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "De kandidaat kan in een context dissimilatieprocessen beschrijven en hierbij onderscheid maken tussen  anaerobe en aerobe dissimilatie",
+		"id": "9b6aed86-5492-41eb-be1b-f2d2bca2cf67",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3f",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "assimilatie- en dissimilatieprocessen beschrijven met behulp van de reactievergelijkingen",
+		"id": "65e49e87-37ae-41fb-8ec0-473bfe69f03f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3g",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "beschrijven waar en op welke wijze enzymen reacties katalyseren, en hoe temperatuur en pH die processen beïnvloeden",
+		"id": "e1bc4d74-b340-4212-b53a-853c289bc7ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B2/18/3h",
+		"examenprogramma_eindterm_id": [
+			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
+		],
+		"title": "beschrijven hoe in de biotechnologie gebruikgemaakt wordt van het metabolisme van micro-organismen",
+		"id": "e43647f4-0ea2-4449-b6e8-ccc64b8d9f2a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/1a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat groepen van cellen door hun rangschikking in een weefsel, orgaan of orgaanstelsel een gezamenlijke functie uitoefenen",
+		"id": "704bf41e-5953-48c0-8bd5-d95b84433459",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/1b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven wat bij de mens de kenmerken en functies zijn van orgaanstelsels voor transport, ademhaling, voedselverwerking en uitscheiding",
+		"id": "1a0e810f-4927-45f2-bb00-01c04a883f17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/1c",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context verschillen en overeenkomsten herkennen tussen organen en orgaanstelsels van de mens en van verschillende diersoorten",
+		"id": "ce190b30-9369-42ee-ba03-8163c4ef526f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/1d",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context organen voor gaswisseling, opname en transport bij planten beschrijven",
+		"id": "fc1b94f2-e9b2-4ce9-8135-0ebb48564b76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/1e",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven hoe orgaanstelsels met elkaar samenhangen en benoemen hoe verstoring in het functioneren van een orgaan de samenwerking tussen organen beïnvloedt.",
+		"id": "b92bbc11-13de-496e-a65b-fecc2e5fd635",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/2a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat organismen door fotosynthese autotroof zijn",
+		"id": "e7db1ffb-7819-4610-8a10-6c8edc7630f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/2b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context voorwaarden voor het fotosyntheseproces in planten benoemen",
+		"id": "65018ccc-e1f4-404c-b858-f3bc88feddb4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/2c",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context het belang van fotosynthese als basis voor de voortgezette assimiliatie en dissimilatie van het organisme beschrijven",
+		"id": "4468532a-17f4-4c95-940c-00b5d2f1079d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/3a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandiaat kan in een context de bouw, werking en functie van de gaswisselingsorganen van de mens beschrijven",
+		"id": "81e3aeac-cc17-4d3a-96c1-975d5e488f48",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/3b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de relatie tussen de bouw van gaswisselingsorganen en hun functie beschrijven",
+		"id": "8f2ca952-f53b-4be0-9a04-3cbf3a8af442",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/3c",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context uitleggen op welke wijze longventilatie tot stand komt",
+		"id": "e484f18f-1de9-4943-8038-67ac353d4675",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/3d",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven op welke wijze opname, transport en afgifte van CO2 en O2 plaatsvindt en wat de rol van hemoglobine daarbij is",
+		"id": "dd58cab7-d485-4a28-855e-889da99e9ee1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/3e",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de relatie tussen de gaswisseling van planten en fotosynthese en dissimilatie herkennen",
+		"id": "de990793-6af2-4047-8647-af578e0e2657",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/4a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de  bouw, werking en functie van verteringsorganen van de mens beschrijven en de relatie herkennen tussen de bouw van spijsverteringsorganen ne hun functie",
+		"id": "b8d774c0-c0fa-4718-b768-03c37490cce1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/4b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context beschrijven waar en op welke wijze voedingsstoffen verteerd en opgenomen worden en welke factoren daarop van invloed zijn",
+		"id": "6efa8c15-aebc-4ba3-8cb3-b63039420d8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/5a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de bouw, werking en functie van uitscheidingsorganen van de mens beschrijven",
+		"id": "81102765-a388-4875-85a5-83f2dae3b36a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/5b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de relatie tussen de bouw van uitscheidingsorganen en hun functie herkennen",
+		"id": "ae09124f-b79a-4d7e-bb79-c3ac7047e76a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/5c",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de rol van de lever, de nieren, de longen en de huid bij uitscheidingprocessen toelichten",
+		"id": "705a3cfe-0e82-4b93-8b26-0808437b2a3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/6a",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de bouw, werking en functie van de bloedsomloop met hart en bloedvaten van van de mens beschrijven",
+		"id": "d419aa04-1e59-4911-b27f-9d8c4619823e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/6b",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de relatie tussen de bouw van hart en bloedvaten en hun functie  en werking herkennen",
+		"id": "e9658f46-18a9-41f4-8f7d-30154c1591b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/6c",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de functie van bestanddelen van bloed, bloedplasma, weefselvloeistof en lymfe beschrijven en de vorming van weefselvloeistof en lymfe toelichten",
+		"id": "3d46d24b-6520-4bcf-bbdd-ee598167ad56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/6d",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context het verband herkennen tussen bloedvatenstelsel en lymfevatenstelsel",
+		"id": "5b9ab822-37d4-426f-9738-c626435aa668",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B3/19/6e",
+		"examenprogramma_eindterm_id": [
+			"106e2e52-a220-49a9-b440-4c0233c81c58"
+		],
+		"title": "De kandidaat kan in een context de bouw en werking van het transportstelsel in plantel beschrijven",
+		"id": "4ee327e9-990c-44cd-b29a-017df32ab9c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/1a",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context het belang van de longen, lever, nieren, huid, zenuw- en hormoonstelsel voor de homeostase bij de mens beschrijven.",
+		"id": "13228522-d1c9-4fd6-8d1f-c512e2ac46b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/1b",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de relatie tussen de bouw van de lever, longen, huid en nieren en de homeostase beschrijven.",
+		"id": "76d3c41c-fa0e-46d4-a4c8-0afa2225b9bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/1c",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de principes van een regelkring toelichten.",
+		"id": "1002864d-ab28-43a7-a3ed-c73b24b3510e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/1d",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de samenhang van de regeling van lichaamsprocessen beschrijven.",
+		"id": "deebeeda-879c-4297-822b-c1cc5cf48e75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/2a",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de principes van een regelkring in het hormoonstelsel toelichten",
+		"id": "3b248779-607e-4266-adaa-af690c4e7809",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/2b",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de werking van hormoonklieren en hun specifieke hormonen beschrijven en afleiden hoe de doelorganen daarop reageren",
+		"id": "7b9d15dd-8a83-4d11-8dcd-c82a0026893b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/2c",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context het verband beschrijven tussen hormonale regulatie en het handhaven van homeostase.",
+		"id": "f21f6ee8-2614-42c0-b6c5-9eb302860772",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/3a",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de bouw en werking van het zenuwstelsel en de signaalverwerking beschrijven.",
+		"id": "570724c5-f430-4b55-8d3c-a0f604fc88a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/3b",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kandidaat kan in een context de werking van een regelkring in het zenuwstelsel toelichten",
+		"id": "1f4bd9d8-0cc2-4a7f-9992-71ab98c90518",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B4/20/3c",
+		"examenprogramma_eindterm_id": [
+			"23bb1875-62af-4fff-9890-1edbe6b0442e"
+		],
+		"title": "De kanidaat kan in een context het verband beschrijven tussen de werking van het zenuwstelsel en het functioneren van een organisme.",
+		"id": "060f3c30-6dce-411e-88b8-ed6ab4cc877a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B5/21/1a",
+		"examenprogramma_eindterm_id": [
+			"6ca20d4c-ac8c-4944-90d7-9bbdecaabe82"
+		],
+		"title": "De kandidaat kan in een context de bouw, werking en functie van organen en cellen betrokken bij de afweer van de mens beschrijven",
+		"id": "0e38a124-53b7-490e-95ce-a300596beaa2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B5/21/1b",
+		"title": "De kandidaat kan in een context de specifieke en aspecifieke afweer als reactie op lichaamsvreemde en lichaamseigen stoffen en cellen beschrijven",
+		"id": "0b78fea7-f7fb-43fe-8369-82f814527d0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B5/21/1c",
+		"title": "De kandidaat kan in een conext de afweermechanismen van planten herkennen.",
+		"id": "27a451e7-8636-4ea8-94a6-47253cf75713",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/1a",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context de werking an een zintuig in het algemeen beschrijven en toelichten wat daarbij de rol van de hersencentra is",
+		"id": "0100aa7d-934e-4953-a99d-33baff218d16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/1b",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context de bouw van het oog beschrijven",
+		"id": "9d2f0c62-aa3c-4421-ac0a-9f552db6c562",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/2a",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context de werking van het oog toelichten",
+		"id": "019e2a20-1d81-424c-ae49-e2bb713c8fcf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/2b",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context het verband tussen adequeate prikkel en reactie beschrijven",
+		"id": "7e315dcb-988d-42c8-aa94-e01649e4f8fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/3a",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context de principes van een regelkring herkennen bij de werking van het zintuigstelsel",
+		"id": "61584003-9eed-4b48-84da-9a2910d73ae9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/3b",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context de relatie van het zintuigstelsel met het spier-, zenuw- en hormoonstelsel beschrijven",
+		"id": "fb425cbd-ccb5-4db2-a445-69dd12a13fe6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B7/23/3d",
+		"examenprogramma_eindterm_id": [
+			"2a2cd20b-e33f-4450-8142-e166b449bf01"
+		],
+		"title": "De kandidaat kan in een context verbanden beschrijven tussen het gebruik van de zintuigen en het functioneren van een organisme",
+		"id": "e357aaca-0800-4a28-8cda-6484cde1034a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/1a",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context energiestromen in een ecosysteem beschrijven en toelichten welke factoren daarop van invloed zijn",
+		"id": "1ef2de3d-31d1-47f3-9ab8-bde37a8a0780",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/1b",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context modellen van energiestromen beschrijven en benoemen welke processen en organismen daarin een rol spelen.",
+		"id": "d78376b5-74ec-450f-800c-379a782651a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/1c",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens energiestromen kan beïnvloeden.",
+		"id": "040d42b1-fc82-4266-be33-79683587d894",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/2a",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context de rol uitleggen van producenten, consumenten en reducenten in de kringlopen van koolstof en stikstof",
+		"id": "2c25c72d-34f2-45ff-a482-ed80bfa45820",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/2b",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context kringlopen van elementen in een ecosysteem beschrijven en benoemen welke factoren daarop van invloed zijn",
+		"id": "a3e71071-5724-4a7a-b755-72b06d5e16fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/2c",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens nutriëntenkringlopen en daarmee het systeem Aarde kan beïnvloeden.",
+		"id": "503a4364-9b11-4355-be7e-d10e93c4cd12",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/3a",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context beschrijven wat onder een ecosysteem wordt verstaan en welke componenten daarvan deel uitmaken",
+		"id": "07b202c9-a338-4645-bd86-24f2b195086f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/3b",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context uitleggen welke rol concurrentie binnen en tussen populaties speelt bij de dynamiek (instandhouding en ontwikkeling) van een ecosysteem.",
+		"id": "0145f61d-903b-4dba-b74c-df9c20c82836",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/3c",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context uitleggen welke rol biotische en abiotische factoren spelen bij de dynamiek binnen een ecosysteem.",
+		"id": "ee8da85d-e497-4199-aaf7-6731d4f692c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinB/B8/24/3d",
+		"examenprogramma_eindterm_id": [
+			"78c16470-2136-4d88-9d95-def5238043a8"
+		],
+		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens de zelfregulatie van ecosystemen kan beïnvloeden.",
+		"id": "4216a2d2-c7e8-4c73-8054-3681d8c1c31e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/1a",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context herkennen dat er een relatie is tussen DNA en eiwit",
+		"id": "d0ff765c-34f4-4e63-ae1e-8968758eea31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/1b",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat in verschillende typen cellen verschillende eiwitten gemaakt worden",
+		"id": "d71f81b2-d3ff-486a-a451-554a58369a3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/1c",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat eiwitten verschillende functies hebben",
+		"id": "2ac5dc17-1ef6-4822-beb5-b4aaed8f347e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/1d",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context uitleggen beschrijven dat door eiwitten het fenotype bepaald wordt",
+		"id": "3d3625ca-add1-4662-98c1-8a048ccd54a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/2a",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context herkennen dat vrijwel alle cellen van een meercellig organisme hetzelfde genoom hebben.",
+		"id": "dfc3e1ac-bb6d-4a20-9e3d-7f0353c4070a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/2b",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat door differentiatie cellen ontstaan die een verschillende vorm en functie hebben",
+		"id": "fe2977f6-9d8d-4032-b058-b19c352dad34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/2c",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat celdifferentiatie tot stand komt doordat alleen bepaalde genen tot expressie komen",
+		"id": "005431a8-2d93-4c0a-a31b-d55351a135f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinC/C1/25/2d",
+		"examenprogramma_eindterm_id": [
+			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
+		],
+		"title": "De kandidaat kan in een context eigenschappen van stamcellen beschrijven en benoemen voor welke doelen stamcellen gebruikt kunnen worden;",
+		"id": "eda833d4-fcea-435b-bb27-9e72fff10fd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/1a",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context voedselrelaties tussen organismen beschrijven.",
+		"id": "5287090e-cdd4-47af-b116-de994bee2513",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/1b",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context relaties in een voedselketen benoemen.",
+		"id": "a632cdd9-4d8c-45ec-81a6-3675f9d3b165",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/1c",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context in een voedselweb voedselketens herkennen.",
+		"id": "d3783179-3327-4085-a592-eb8e12f59582",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/1d",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context de accumulatie van giftige stoffen in een voedselketen uitleggen.",
+		"id": "535392a5-ceb2-4140-87c7-0126747b2fdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2a",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context veranderingen van abiotische en biotische factoren in een ecosysteem beschrijven",
+		"id": "0b5cad5d-9b24-49ae-b0be-bccbcb784400",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2b",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context  beschrijven welke rol abiotische en biotische factoren spelen bij de instandhouding en ontwikkeling van een ecosysteem",
+		"id": "6b5212fe-3b13-4563-8672-d4de6e4e2037",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2c",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context de accumulatie van schadelijke stoffen in een voedselketen uitleggen",
+		"id": "2a1ae0d8-11b0-45e7-b24e-9a2625c41ad3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2d",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context de rol van concurrentie binnen en tussen de populaties in een ecosysteem beschrijven.",
+		"id": "b7f1172e-7c69-4c43-855f-ba8fa8f2e798",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2e",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaat kan in een context beschrijven wat onder duurzame ontwikkeling wordt verstaan, in het bijzonder duurzame energie- en voedselproductie",
+		"id": "08726813-5aa5-4b26-996d-749917e631b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinD/D4/31/2f",
+		"examenprogramma_eindterm_id": [
+			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
+		],
+		"title": "De kandidaa kan in een context beargumenteren op welke wijze vraagsukken die betrekking hebben op duurzame ontwikkeling, kunnen worden benaderd",
+		"id": "6140e11d-8d50-4cef-a7f0-49c138883332",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinE/E4/35/1a",
+		"examenprogramma_eindterm_id": [
+			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat een fenotype tot stand komt door de combinatie van genotype en de invloed van milieufactoren",
+		"id": "825a75a9-af32-40ba-ad0a-2565a232e98e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinE/E4/35/1b",
+		"examenprogramma_eindterm_id": [
+			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
+		],
+		"title": "De kandidaat kan in een context  verschillen tussen autosomen en geslachtschromosomen benoemen en toelichten dat bij de mens de geslachtschromosomen het geslacht bepalen.",
+		"id": "4807aa4f-5dac-46ef-8017-2900c48dbe0d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinE/E4/35/1c",
+		"examenprogramma_eindterm_id": [
+			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
+		],
+		"title": "De kandidaat kan in een context afleiden uit stambomen of kruisingsschema’s hoe groot de kans is op het\r\nvoorkomen van genotypen en fenotypen van nakomelingen bij monohybride\r\nkruisingen, voor autosomale en X-chromosomale genen en multipele allelen en\r\nlethale factoren",
+		"id": "a033e5dd-7d01-4b6e-80e5-1253372c4c26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinE/E4/35/1d",
+		"examenprogramma_eindterm_id": [
+			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
+		],
+		"title": "De kandidaat kan in een context overerving die anders verloopt dan volgens de wetten van Mendel herkennen",
+		"id": "5a3a5a58-4a2d-4adb-a577-83518671e349",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinE/E4/35/1e",
+		"examenprogramma_eindterm_id": [
+			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
+		],
+		"title": "De kandidaat kan in een context ethische en biologische argumenten onderscheiden over het ingrijpen van de mens in de erfelijkheid van mens, dier en plant",
+		"id": "606b5fa8-844c-4ca3-9925-2e87bf6563fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/1a",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context  benoemen dat DNA functioneert als universele drager van genetische informatie.",
+		"id": "0ced59cc-db55-43de-9c9a-477cddd1d54c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/1b",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat dezelfde genetische informatie in verschillende organismen voor kan komen.",
+		"id": "579b489b-56ed-477c-a1c6-55f773b50d32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/1c",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat met gegevens verkregen door DNA-analyse de graad van verwantschap van soorten kan worden vastgesteld.",
+		"id": "d403522f-6731-49ae-b352-15b88410ec83",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/2a",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context beschrijven welke typen mutatie er zijn.",
+		"id": "80f9033f-3f83-4172-8c7b-b2cbea121fcc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/2b",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen waardoor mutatie veroorzaakt kan worden.",
+		"id": "a059fbd7-220b-438a-88e2-7d79cd1b4d15",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/2c",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat mutatie het fenotype kan beïnvloeden.",
+		"id": "e59fcf9e-9b5a-47c6-9247-80916834e663",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/2d",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat mutatie plaatsvindt onafhankelijk van het mogelijke effect ervan op overlevingskans of voortplaning van de cel of het organisme.",
+		"id": "081473f6-b9b1-4249-b025-7d27d2e67407",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/3a",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat bij geslachtelijke voortplanting voortplantingscellen met een unieke combinatie van genen ontstaan door recombinatie van chromosomen",
+		"id": "d410a654-618f-45ec-baf5-a4656a7bea3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/4b",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat genetische variatie in een populatie vergroot wordt door mutatie en recombinatie.",
+		"id": "169711eb-ef6f-4cd8-8738-bd30219040f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F1/36/4a",
+		"examenprogramma_eindterm_id": [
+			"d4ac182f-f956-423a-9edc-f693e55d6dee"
+		],
+		"title": "De kandidaat kan in een context uitleggen hoe door de mens gewenste genencombinaties verkregen worden door genetische modificatie.",
+		"id": "2c6da15e-914b-486e-a985-1ce4e08d7b7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/1a",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context omschrijven wat onder een populatie wordt verstaan.",
+		"id": "b9672f60-ff31-48d5-9759-5e3e2a8da27e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/1b",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat frequenties van genotypen en fenotypen in populaties in tijd en ruimte veranderen.",
+		"id": "5a77b3ed-f8fe-46ef-8b67-2be7d31aa661",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/2a",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context beschrijven wat onder genetische variatie in een populatie wordt verstaan.",
+		"id": "14329149-08c7-4070-bb46-0b64b7cbcfcf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/2b",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat allelfrequenties/genfrequenties in een populatie kunnen veranderen door random mutatie",
+		"id": "8839e06f-b548-4afa-9f52-fefa42d1b2c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/3a",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context  uitleggen dat adaptaties van populaties door selectie van organismen tot stand komen.",
+		"id": "c4fb4c91-92ee-4cbb-889c-502e3990f989",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/3b",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context overeenkomsten en verschillen tussen natuurlijke en kunstmatige selectie beschrijven",
+		"id": "78a88d9b-954c-4358-ae35-5c14828cc30d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/4a",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context beschrijven dat soorten groepen individuen zijn die reproductief van elkaar geïsoleerd zijn.",
+		"id": "fbfe2473-7597-4e53-bdd3-34fe1e8edba2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/4b",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat soorten ontstaan door reproductieve isolatie.",
+		"id": "458b79fe-89f3-4f98-b4eb-629cb2ee125d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/H/DomeinF/F2/37/4c",
+		"examenprogramma_eindterm_id": [
+			"9a041bd9-7e08-45c7-a428-407559a5e338"
+		],
+		"title": "De kandidaat kan in een context uitleggen dat de verwantschap en afstamming van soorten weergegeven kan worden in de vorm van een stamboom",
+		"id": "acd67397-a722-4499-b862-c6323be7fa36",
+		"unreleased": true
 	}
 ]
