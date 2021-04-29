@@ -2354,5 +2354,58 @@
 		"title": "Tekstsoorten. De kandidaten schrijven informatieve, overtuigende, opiniërende en activerende teksten zoals informele en formele brieven en e-mails, formulieren, korte instructieteksten, aanwijzingen en gebruiksaanwijzingen, verslagen, artikelen bijvoorbeeld voor de schoolkrant, voor een jongerentijdschrift of voor een dagblad, advertenties, schriftelijke verzoeken.",
 		"id": "ecbd2ec0-9a91-4c95-b92b-07e9c629ff9f",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_domein_id": [
+			"cd589d1d-a2ec-42a6-a350-2ae291c16c7c"
+		],
+		"title": "De biologie, de leer van het leven, bestudeert het leven op verschillende niveaus. Op elk niveau zijn er systemen met een eigen organisatie, de biologische eenheden: de moleculen, de cel, het orgaan, het organisme, de populatie, het ecosysteem. Elke biologische eenheid is een complex dynamisch systeem, erop gebouwd om effectief met de eigen omgeving om te gaan. Elke biologische eenheid is een complex systeem dat zichzelf reguleert. Biologische eenheden, op welk organisatieniveau dan ook, houden zichzelf in stand door het opnemen van stoffen c.q. energie uit hun omgeving, door het herstellen van opgelopen schade, door zich te verdedigen tegen belagers en tegen schadelijke stoffen en door het aanpassen aan of het veranderen van de omgeving. Onderdelen van een biologische eenheid kunnen gespecialiseerd zijn voor een bepaalde functie. Biologische eenheden kunnen met elkaar op een hoger niveau een nieuwe biologische eenheid vormen met een eigen organisatiestructuur.",
+		"id": "e37908c6-caf0-4c49-8f06-5ae8d549474b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_domein_id": [
+			"734c159c-4634-4977-ac5d-ef7cb30abf0b"
+		],
+		"title": "Biologische eenheden kunnen beschouwd worden als systemen met een organisatie. Biologische eenheden onderscheiden zich van de niet levende systemen doordat zijzelf het enige product van hun organisatie zijn, dat wil zeggen: er bestaat geen scheiding tussen producent en product. Ze organiseren zichzelf.",
+		"id": "b8b9a693-f48e-42b4-a157-e0b750011bab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_domein_id": [
+			"734c159c-4634-4977-ac5d-ef7cb30abf0b"
+		],
+		"title": "Door zelforganisatie kunnen nieuwe structuren ‘biologische eenheden van een hogere orde’ ontstaan. Op het hogere organisatieniveau zijn nieuwe eigenschappen te zien, die de biologische eenheid van het lagere organisatieniveau niet heeft, de zogenoemde emergente eigenschappen",
+		"id": "431b67bd-b068-4d4e-8544-c191f47dad25",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"6cefdb9a-fa5d-483f-94f9-abab806c8f50"
+		],
+		"title": "Biologische eenheden worden beïnvloed door hun omgeving, die zowel biotisch als abiotisch van aard kan zijn. Op deze beïnvloeding kunnen de biologische eenheden reageren door zich aan te passen, te verplaatsen of andere reacties te vertonen. Omgekeerd hebben biologische eenheden ook invloed op hun biotische en abiotische omgeving. Interactie verwijst naar het open karakter van de biologische systemen.",
+		"id": "1e4fdefc-95bf-49d7-964a-8060e020d5c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_domein_id": [
+			"11b7ba3f-bb5e-407d-96cf-0950fa9a996e"
+		],
+		"title": "Biologische eenheden, zoals celorganellen, cellen en organismen, repliceren zich.",
+		"id": "4d56040b-4a66-4c32-ab63-0eacb5134144",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_domein_id": [
+			"eed4cb84-c049-429a-ad9c-54b4f036bb02"
+		],
+		"title": "Biologische eenheden zijn op alle organisatieniveaus met elkaar in interactie, beïnvloed door biotische en abiotische factoren. Daarbij is er concurrentie om ruimte, licht, voedsel enzovoorts. De kans om te overleven en nakomelingen te krijgen is het grootst voor biologische eenheden die het best passen bij de omstandigheden, die de omstandigheden kunnen aanpassen of die de beste omstandigheden kunnen opzoeken.  Evolutie laat zien hoe toeval, mutatie, recombinatie, variatie, adaptatie en selectiedruk hebben geleid tot de nu aanwezige biodiversiteit",
+		"id": "715e4304-96a0-4a42-a61b-bab51138b9ff",
+		"unreleased": true
 	}
 ]
