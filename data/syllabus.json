@@ -233,7 +233,7 @@
 	},
 	{
 		"id": "7a95110b-9d2c-4afd-9f91-49a863d3a628",
-		"title": "Syllabus economie vmbo",
+		"title": "Syllabus Economie vmbo",
 		"syllabus_specifieke_eindterm_id": [
 			"9ae29f0e-2eca-4d46-8123-d898ea88b930",
 			"d142cc4f-53d3-4471-b2b3-bb0d5095bb48",
@@ -292,7 +292,9 @@
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vmbo/2020/f=/economie_vmbo_2020_versie_2.pdf",
 		"jaargang": "2020",
-		"status": "def."
+		"status": "def.",
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
