@@ -23097,5 +23097,1631 @@
 		"title": "De kandidaat kan in een context uitleggen dat de verwantschap en afstamming van soorten weergegeven kan worden in de vorm van een stamboom",
 		"id": "acd67397-a722-4499-b862-c6323be7fa36",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A1/1.1",
+		"examenprogramma_eindterm_id": [
+			"4ce6a196-b00d-4b92-84fa-9445a95a4ca0"
+		],
+		"title": "De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken",
+		"id": "8b9841a9-baaf-4f7a-b66e-bea8388f514e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A1/1.2",
+		"examenprogramma_eindterm_id": [
+			"4ce6a196-b00d-4b92-84fa-9445a95a4ca0"
+		],
+		"title": "De kandidaat kan adequaat schriftelijk rapporteren over onderwerpen uit de wiskunde.",
+		"id": "aa5ee4b3-c996-4799-b797-129180806b48",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A2/2.1",
+		"examenprogramma_eindterm_id": [
+			"02ecb9f4-4b46-4fe4-b687-b1cad75611fb"
+		],
+		"title": "De kandidaat kan een probleemsituatie in een wiskundige, natuurwetenschappelijke of maatschappelijke context analyseren, gebruik makend van relevante begrippen en theorie vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken.",
+		"id": "745271e3-6ed1-4d1c-9f57-8f5072a89f75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A2/2.2",
+		"examenprogramma_eindterm_id": [
+			"02ecb9f4-4b46-4fe4-b687-b1cad75611fb"
+		],
+		"title": "De kandidaat kan een realistisch probleem in een context analyseren, inperken tot een hanteerbaar probleem, vertalen naar een wiskundig model, modeluitkomsten genereren en interpreteren en het model toetsen en beoordelen.",
+		"id": "6f15f992-6a7e-40d2-bc95-bebea892d038",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A2/2.3",
+		"examenprogramma_eindterm_id": [
+			"02ecb9f4-4b46-4fe4-b687-b1cad75611fb"
+		],
+		"title": "De kandidaat kan met gegevens van wiskundige en natuurwetenschappelijke aard consistente redeneringen opzetten.",
+		"id": "96dc42cd-d0c9-4e1d-b882-9bcc550fc67b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.1",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat beheerst de rekenregels.",
+		"id": "68f33d03-8ea7-40bf-8cb3-b35a5c77244b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.2",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat beheerst de specifieke algebraïsche vaardigheden.",
+		"id": "2f784c06-b372-4214-ac93-968473938729",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.3",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat heeft inzicht in wiskundige notaties en formules en kan daarmee kwalitatief redeneren.",
+		"id": "f1b9a655-b877-4aa0-899f-1431ce136a76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.4",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan wiskundige informatie ordenen en in probleemsituaties de wiskundige structuur onderkennen.",
+		"id": "8b4cf702-75de-464e-9656-b74731910e91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.5",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan bij een gegeven probleemsituatie een model opstellen in wiskundige termen.",
+		"id": "b816fd8a-5adb-49b6-9d3c-b032f44b187e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.6",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan op basis van een gegeven probleemsituatie een schatting maken van de uitkomst zonder deze uitkomst exact te berekenen.",
+		"id": "0ef1e9cb-2c5c-40a3-9f4f-93a70338d305",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.7",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan een oplossingsstrategie kiezen, deze correct toepassen en de gevonden oplossing controleren binnen de context.",
+		"id": "c8116d46-8835-4f87-a100-0eb1be9a9569",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.8",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan vakspecifieke taal interpreteren en gebruiken.",
+		"id": "8ef7ed1f-021f-4cf7-a9ad-781c63f5db5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.9",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan de correctheid van wiskundige redeneringen verifiëren.",
+		"id": "25f577d4-2e0c-4b99-8d8b-6ceb4c7eb654",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.10",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan eenvoudige wiskundige redeneringen correct onder woorden brengen.",
+		"id": "b6cfb564-9c4d-43fe-863c-d6b9d488e83d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.11",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan bij het raadplegen van wiskundige informatie, bij het verkennen van wiskundige situaties, bij het geven van wiskundige redeneringen en bij het uitvoeren van wiskundige berekeningen gebruik maken van geschikte ICTmiddelen.",
+		"id": "df8e044f-574f-47d9-b1c6-d2ce1ea9bf98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE;SE",
+		"prefix": "WI/B/V/DomeinA/A3/3.12",
+		"examenprogramma_eindterm_id": [
+			"6e9a518d-4a04-432b-b58b-8d088a296cff"
+		],
+		"title": "De kandidaat kan antwoorden afronden op een voorgeschreven nauwkeurigheid dan wel op een nauwkeurigheid die past bij de probleemsituatie.",
+		"id": "4d39f8f0-b2e6-4e31-bf16-6fbebc8254d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.1",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kent de voorwaarden waaronder een verband een functie is",
+		"id": "9315e0a6-755a-4b4d-9b91-0e2616a85060",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.2",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kan een formule herschrijven tot een gelijkwaardige formule.",
+		"id": "ce1c4621-2551-41d3-8bb2-65b79f58182b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.3",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kan een formule - indien mogelijk - herleiden tot een functievoorschrift.",
+		"id": "406854bc-f0e6-43ef-8d86-9a55d13c32d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.4",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kan bij een verband tussen twee variabelen een grafiek tekenen.",
+		"id": "f1d17e7f-41ae-428d-a35b-514397a92305",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.5",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kan formules combineren tot een nieuwe formule.",
+		"id": "9af1708b-021b-4b0f-bcc6-669a41ceebb5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B1/4.6",
+		"examenprogramma_eindterm_id": [
+			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
+		],
+		"title": "De kandidaat kan aan de hand van een formule uitspraken doen over de bijbehorende probleemsituaties.",
+		"id": "9bb43062-82fe-4896-89b3-477060d8d4d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.1",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de grafieken en karakteristieke eigenschappen van machtsfuncties met rationale exponenten f(x) = x^p, in het bijzonder die van de wortelfunctie….",
+		"id": "9843e26a-d4ee-44d6-ad78-49caa3d8af4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.2",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de grafieken en karakteristieke eigenschappen van exponentiële functies ( ) x f x a en van logaritmische functies ( ) log( ) a f x x , beide ook met grondtal e en in verband hiermee de begrippen grondtal en exponent;",
+		"id": "73f84cbe-f85e-4a8f-b4f1-818b96fb77cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.3",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de grafieken en karakteristieke eigenschappen van goniometrische functies, te weten f x x f x x f x x ( ) sin( ), ( ) cos( ) en ( ) tan( ) , en in verband hiermee de begrippen radiaal, periode, amplitude en evenwichtsstand;",
+		"id": "75a4767e-2996-40a5-96bb-c4707bdda868",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.4",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de grafiek en karakteristieke eigenschappen van de absolute-waardefunctie f x x ( ) ;",
+		"id": "a4cf7bca-5d24-4c8c-8f7e-b76198efa121",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.5",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de karakteristieke eigenschappen van functies: domein, bereik, nulpunt, extreem, minimum, maximum, stijgen, dalen, toenemend of afnemend stijgen of dalen;",
+		"id": "e78c9b33-313e-470a-9576-ca13fd37b6e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.6",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kent de karakteristieke eigenschappen van grafieken: snijpunt met de x-as, snijpunt met de y-as, top, buigpunt, symmetrie en asymptotisch gedrag inclusief horizontale, verticale en scheve asymptoot.",
+		"id": "8e3d3233-f3dd-4a2d-929d-41d79d55f834",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.7",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan van een standaardfunctie de grafiek tekenen en daarbij gebruik maken van de karakteristieke eigenschappen van de functie en haar grafiek.",
+		"id": "e4de8d91-0d14-4ca3-b60f-77c9a2f7aebb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.8",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan de verschillende schrijfwijzen van tweedegraads functies gebruiken.",
+		"id": "50dfd3da-617a-4451-8678-73885e8b83da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.9",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan bij een grafiek of een tabel van een standaardfunctie, een lineaire functie of een kwadratische functie het functievoorschrift opstellen.",
+		"id": "7e0d37f8-93de-436b-80b1-7913b0e72ba0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.10",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan karakteristieke eigenschappen van een standaardfunctie en haar grafiek gebruiken bij het oplossen van problemen.",
+		"id": "fd20fccd-02cb-44ec-ae21-1c96c97a561e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.11",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan een exponentiële functie beschrijven met behulp van de termen beginwaarde en groeifactor.",
+		"id": "75469ab2-af2b-497b-89b1-160d4302fc57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B2/5.12",
+		"examenprogramma_eindterm_id": [
+			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
+		],
+		"title": "De kandidaat kan bij exponentiële groeiprocessen de verdubbelingstijd en de halveringstijd bepalen.",
+		"id": "90af8e92-5d1b-4d6b-9cd3-6237d415b7b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.1",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan op een grafiek een translatie en/of vermenigvuldiging ten opzichte van x- of y-as uitvoeren.",
+		"id": "57ef502a-1acd-4b11-b5bd-4ca1bf9f466f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.2",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan het functievoorschrift opstellen dat hoort bij een nieuwe grafiek die is ontstaan na translatie en/of vermenigvuldiging ten opzichte van x- of y-as van een gegeven grafiek.",
+		"id": "1ec67cc1-33c1-4c37-9836-fedab3b3a534",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.3",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan de samenhang tussen een translatie en/of vermenigvuldiging ten opzichte van x- of y-as van een grafiek en de verandering van het bijbehorende functievoorschrift gebruiken.",
+		"id": "32ce7ff7-74ff-4879-9dbc-39e065015e2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.4",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan functievoorschriften combineren door middel van optellen, aftrekken, vermenigvuldigen en/of delen.",
+		"id": "a15cf49b-6e69-4807-8c6c-2dda8432bb9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.5",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan functies samenstellen door middel van een ketting en het functievoorschrift opstellen van de samengestelde functie.",
+		"id": "59ad3be9-ed70-4500-824c-37e82367f379",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.6",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan van functies en hun grafieken karakteristieke eigenschappen bepalen.",
+		"id": "88b2f4d5-218c-4abc-87c3-dfea43df8cf7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.7",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan bij een gegeven machtsverband een formule opstellen, ermee rekenen en over het machtsverband redeneren.",
+		"id": "554fcab7-08d9-49c4-a34b-41c23d228118",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.8",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan bij een in een probleemsituatie beschreven verband een passend functievoorschrift opstellen.",
+		"id": "fe79ca25-011f-4fbd-a45a-0b8a57e67b1c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B3/6.9",
+		"examenprogramma_eindterm_id": [
+			"000606a4-a735-44fd-9962-1664fb6a629f"
+		],
+		"title": "De kandidaat kan een functievoorschrift dat een parameter bevat hanteren als een verzameling van functievoorschriften.",
+		"id": "c3d0cdf7-e27a-499a-98cc-39213bd95126",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B4/7.1",
+		"examenprogramma_eindterm_id": [
+			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
+		],
+		"title": "De kandidaat kent de voorwaarden waaronder een functie een inverse functie heeft.",
+		"id": "3c880719-8079-49ff-81af-f12603223dd8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B4/7.2",
+		"examenprogramma_eindterm_id": [
+			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
+		],
+		"title": "De kandidaat kan van de machtsfuncties, de exponentiële functies en de logaritmische functies het functievoorschrift van de inverse functie opstellen.",
+		"id": "e097d70e-f574-4fac-b481-973868b0bfa0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B4/7.3",
+		"examenprogramma_eindterm_id": [
+			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
+		],
+		"title": "De kandidaat kan bij de grafiek van een functie de grafiek van de inverse functie tekenen.",
+		"id": "d0af7470-348f-4a4a-8f6c-141d02dedce5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B4/7.4",
+		"examenprogramma_eindterm_id": [
+			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
+		],
+		"title": "De kandidaat kan van een samengestelde functie het functievoorschrift van de inverse functie opstellen.",
+		"id": "e8664c1f-c1fd-401a-8434-43474bed8ff8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B4/7.5",
+		"examenprogramma_eindterm_id": [
+			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
+		],
+		"title": "De kandidaat kan de eigenschappen van de inverse functie en haar grafiek interpreteren in een gegeven probleemsituatie.",
+		"id": "f4d9f345-5800-4891-96bb-8e5f702fb376",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.1",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kent het begrip stelsel van vergelijkingen.",
+		"id": "f9e7e5d5-6534-4d91-aaf8-0d7112b5d969",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.2",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kent de abc-formule.",
+		"id": "0635879b-9065-4a3a-aabf-aa54159a1564",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.3",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking oplossen die te herleiden is tot een lineaire vergelijking.",
+		"id": "0aa8da35-3bd0-4e4c-adf9-11af34d619f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.4",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking oplossen die te herleiden is tot een kwadratische vergelijking.",
+		"id": "f66576ad-ab8d-4c81-9cda-90627225595a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.5",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking oplossen die te herleiden is tot het type x^a = c of x = c.",
+		"id": "73472a81-6ac6-45ee-bf82-8d7051c97736",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.6",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking oplossen die te herleiden is tot het type ^g log(x) = c of a^x = c.",
+		"id": "66a0ec75-0c6f-41c5-b440-218afe3cad30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.7",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking oplossen van het type f(x) = g(x) waarbij f en g functies zijn zoals genoemd in subdomein B2.",
+		"id": "1c95c434-0b0f-4781-8e18-73d255af16f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.8",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een ongelijkheid oplossen van het type f(x) >  g(x), f(x) > g (x) of f(x) <  g(x),  f(x) < g(x) waarbij f en g functies zijn zoals genoemd in subdomein B2.",
+		"id": "37bbecb0-56c3-41e2-ba9a-364f51cf1505",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.9",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een stelsel van twee lineaire vergelijkingen met twee onbekenden oplossen.",
+		"id": "f21c4133-2aa6-4b23-ae79-13a7194fa808",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.10",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking dan wel een ongelijkheid opstellen aan de hand van een gegeven probleemsituatie, de vergelijking of ongelijkheid oplossen en de oplossingen van deze vergelijking of ongelijkheid interpreteren.",
+		"id": "badbcd72-ea59-438f-bc36-de83a34d6ddd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.11",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een vergelijking met een parameter oplossen en de oplossing schrijven als functie van de parameter.",
+		"id": "7a9f87e3-e874-4e4a-9cc8-19e7c77642ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B5/8.12",
+		"examenprogramma_eindterm_id": [
+			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
+		],
+		"title": "De kandidaat kan een ongelijkheid oplossen van de vorm f(x) < c,  f(x) < c of f(x) > c,  f(x) > c, waarbij f een samengestelde functie is, zoals bedoeld in domein B3.5.",
+		"id": "b7fe9572-3ce0-4ea2-ae25-2367bdc7081b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B6/9.1",
+		"examenprogramma_eindterm_id": [
+			"74e90e3c-5f49-4698-acef-53dfefdf2923"
+		],
+		"title": "De kandidaat kent het begrip limiet in verband met het gedrag van een functie en de bijbehorende notatie.",
+		"id": "d2476895-0fea-4889-b3ed-66a5a621b2ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B6/9.2",
+		"examenprogramma_eindterm_id": [
+			"74e90e3c-5f49-4698-acef-53dfefdf2923"
+		],
+		"title": "De kandidaat kent de begrippen linker- en rechterlimiet en de bijbehorende notatie.",
+		"id": "c67ba3b9-5c2d-42e8-98ed-bd9d1df0daeb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B6/9.3",
+		"examenprogramma_eindterm_id": [
+			"74e90e3c-5f49-4698-acef-53dfefdf2923"
+		],
+		"title": "De kandidaat kan asymptoten van de grafieken van standaardfuncties bepalen.",
+		"id": "0137e87e-7d27-4c2b-a883-02e1e8d8cdbe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B6/9.4",
+		"examenprogramma_eindterm_id": [
+			"74e90e3c-5f49-4698-acef-53dfefdf2923"
+		],
+		"title": "De kandidaat kan met behulp van limieten onderzoek doen naar horizontale, verticale en scheve asymptoten van grafieken van functies.",
+		"id": "6bfd32ea-57b1-43ff-9ded-bffb0f801103",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinB/B6/9.5",
+		"examenprogramma_eindterm_id": [
+			"74e90e3c-5f49-4698-acef-53dfefdf2923"
+		],
+		"title": "De kandidaat kan onderzoek doen naar linker- en rechterlimieten en naar perforaties.",
+		"id": "4575365a-80de-4219-9cee-2b6dbcaa3f2a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.1",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kent notaties voor de afgeleide en de tweede afgeleide van een functie.",
+		"id": "76ce407c-d1e5-4ebe-88a8-a5866d71a18e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.2",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de afgeleide gebruiken bij het opstellen van de vergelijking van de raaklijn in een punt van de grafiek van een functie.",
+		"id": "8f40dd4f-cb17-4124-85ef-96e90cdb1a4b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.3",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan een lokale afgeleide interpreteren als de helling of steilheid van een grafiek in een punt.",
+		"id": "f7216859-0fc3-4c95-bd8d-6c72a2bcd1b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.4",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de afgeleide gebruiken voor het bestuderen van stijgen of dalen van functiewaarden.",
+		"id": "cd870e22-a3f6-46c5-a635-2674d0a32c59",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.5",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de afgeleide gebruiken bij het verifiëren en bij het bepalen van extremen van een functie.",
+		"id": "69829119-0ab3-42c5-bb61-ce41545f7f2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.6",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de grafiek van de afgeleide schetsen indien de grafiek van de functie is gegeven.",
+		"id": "54fceb45-12e5-47e2-8cc6-3d81d7f92388",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.7",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de grafiek van de functie schetsen indien de grafiek van de afgeleide is gegeven.",
+		"id": "5dee9827-14b4-46a5-8c7b-1904311d3a39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.8",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de tweede afgeleide gebruiken voor het bestuderen van toenemend of afnemend stijgen of dalen van functiewaarden.",
+		"id": "2db19fab-2001-4402-b569-bd1306973892",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.9",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan de tweede afgeleide gebruiken om buigpunten te berekenen.",
+		"id": "0c33a207-41a3-4535-9d73-4efcb556f993",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.10",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan gebruik maken van de relatie tussen afgeleide en raaklijn in een probleemsituatie.",
+		"id": "8c55c3a9-ab92-4a6f-9bf7-ea0b6a1a1a51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C1/10.11",
+		"examenprogramma_eindterm_id": [
+			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
+		],
+		"title": "De kandidaat kan een optimaliseringsprobleem vertalen in een formule en dit probleem vervolgens met behulp van de afgeleide functie of numeriek-grafisch oplossen.",
+		"id": "5eba9575-2ee9-4ab3-9f90-b1c9b742e421",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.1",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kent de afgeleide van de standaardfuncties.",
+		"id": "abea89bd-bd10-4bc2-8434-3d1d90838717",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.2",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kent het begrip differentiëren voor het bepalen van de afgeleide.",
+		"id": "01b8440a-ef7c-456a-9da1-898ea1e27a79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.3",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan bij het bepalen van de afgeleide gebruik maken van de afgeleide van de standaardfuncties.",
+		"id": "b8d04171-d2a1-47e1-9a20-41fd76661c27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.4",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan bij het bepalen van de afgeleide van exponentiële en logaritmische functies het getal e en de natuurlijke logaritme gebruiken.",
+		"id": "76754661-7644-447d-bb12-bc4152f3e395",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.5",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan voor het bepalen van de afgeleide de som-, verschil-, product-, quotiënt- en kettingregel gebruiken.",
+		"id": "22db0145-7c54-42ee-8db3-7d6d4d265ba5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.6",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan het verband gebruiken tussen de afgeleide van een functie f(x) en de afgeleide van c. f(x) + d of de afgeleide van f(c. x + d).",
+		"id": "e44229ba-9eff-4cd0-9c2f-09e4eaba4941",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.7",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan een combinatie van som-, verschil-, product- en/of quotiëntregel gebruiken bij het bepalen van een afgeleide.",
+		"id": "b4f60eff-a69c-41ed-96a1-3099ffb9898b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C2/11.8",
+		"examenprogramma_eindterm_id": [
+			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
+		],
+		"title": "De kandidaat kan de kettingregel gebruiken in combinatie met de som-, verschil-, product- en/of quotiëntregel bij het bepalen van een afgeleide.",
+		"id": "383fbe8e-820c-4f44-8323-542beb16da1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.1",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kent de begrippen integrand, primitieve functie en bepaalde integraal.",
+		"id": "536e1418-e74f-49f1-ae40-579e2edb55f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.2",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kent de notatie (formule volgt nog)",
+		"id": "2d1abf70-d22d-4961-9d9d-addf1b8e81b3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.3",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kent de hoofdstelling van de integraalrekening: ….. f(x)dx = F(b) - F(a), waarbij F een primitieve functie van f is.",
+		"id": "cc38400a-509c-4291-97c1-0650ccb98c27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.4",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan een bepaalde integraal exact berekenen indien de integrand de gedaante c. f(x) + d of f(c. x + d) heeft, waarbij f een machtsfunctie, een exponentiële functie, de functie sinus of de functie cosinus is en indien de integrand de som van twee of meer van deze functies is.",
+		"id": "6b1d40c2-a253-4c34-b582-27cc990d2834",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.5",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan een bepaalde integraal benaderen met behulp van ICT.",
+		"id": "221c3fe9-c791-473e-a790-1484745c8180",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.6",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan controleren of een gegeven functie F een primitieve is van een functie f .",
+		"id": "b4bda8de-e012-4b2e-8999-441422557cab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.7",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan voor de berekening van de oppervlakte van een vlakdeel een bepaalde integraal opstellen.",
+		"id": "58032213-710d-4d00-bf02-246cf647fb97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.8",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan voor de berekening van de inhoud van een omwentelingslichaam dat ontstaat door een vlakdeel te wentelen om de x-as of de y-as een bepaalde integraal opstellen.",
+		"id": "ffdb6704-1b42-4d9e-bc39-6c648b84d3bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinC/C3/12.9",
+		"examenprogramma_eindterm_id": [
+			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
+		],
+		"title": "De kandidaat kan de uitkomst van een bepaalde integraal interpreteren.",
+		"id": "84eeee99-6195-4e96-986e-164309e54151",
+		"unreleased": true
+	},
+	{
+		"prefix": "WI/B/V/DomeinC/C3/12.10",
+		"title": "De kandidaat kan F(x) = ….. F(t) dt interpreteren als functie van x.",
+		"id": "783327ae-1ff0-44f0-961e-8815a6162851",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.1",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kent het  sinusmodel in de vormen f(x) = d + a.sin(b( x-c)) en f(x) =  d + a.cos (b(x - c)) met als grafiek een sinusoïde.",
+		"id": "12fdd963-494c-4016-b76a-224e0c1944de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.2",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kent de exacte waarden van sin(x), cos(x ) en tan(x) waarbij x een veelvoud van 1/6π of 1/4 π is.",
+		"id": "46953a33-29eb-4f79-8293-a6ebf9abfc6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.3",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kent formules die de symmetrie-eigenschappen weergeven van de sinus-, cosinus- en tangens grafiek.",
+		"id": "e43e40f7-ff7f-4566-a6ee-7fc2b9e8c8f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.4",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kent formules die weergeven hoe de sinus- en cosinusgrafiek door translatie uit elkaar ontstaan.",
+		"id": "2d14702c-1300-45dd-b2b1-27087372afec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.5",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan graden omrekenen in radialen en omgekeerd.",
+		"id": "439425c5-ec3d-4fdf-9e9c-9255fa1c17f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.6",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan de grafiek tekenen van een sinusmodel.",
+		"id": "96f49de9-5380-4837-9a6b-f2338b8f4ec1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.7",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan van een sinusoïde het bijbehorende functievoorschrift opstellen.",
+		"id": "0b156a77-b64e-4ced-87bd-9f1955ed615e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.8",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan formules herleiden met behulp van de symmetrie-eigenschappen van de sinus-, cosinus- en tangensgrafiek.",
+		"id": "a46fad95-e53e-47b9-baa9-9ff1bf382717",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.9",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan formules herleiden met behulp van translaties waarbij de sinus- en cosinusgrafiek uit elkaar ontstaan.",
+		"id": "70f7ce5e-4be0-416c-ae77-a3c53604ddb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.10",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan vergelijkingen oplossen van de vorm sin(x) = c , cos(x) = c , tan(x) = c en hierbij periodiciteit en symmetrie gebruiken.",
+		"id": "fa44560a-3b7d-4125-a6fa-583cb9808045",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.11",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan vergelijkingen oplossen van de vorm f(x) = c met f (x) een sinusmodel en hierbij periodiciteit en symmetrie gebruiken.",
+		"id": "8c91e2bf-3168-48e2-9f8b-e7b21f51a6df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.12",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan vergelijkingen oplossen van het type sin(f(x) = sin(g(x)), cos (f(x)) = cos (g(x)) en tan(f(x)) = tan(g(x)), waarbij f en g lineaire functies van x zijn en hierbij periodiciteit en symmetrie gebruiken.",
+		"id": "94357ca7-92ae-4b31-a854-efa2b5b1d249",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.13",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan ongelijkheden oplossen van het type sin(f(x)) < c, sin(f(x)) < c, sin(f(x)) > c, sin(f(x)) > c, cos(f(x)) < c, cos(f(x)) < c, cos(f(x)) > c, cos(f(x)) > c tan(f(x)) < c, tan(f(x)) < c, tan(f(x)) > c, tan(f(x)) > c  waarbij f en g lineaire functies zijn.",
+		"id": "d3148582-771f-4f70-bd25-f76c8b83fad9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.14",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan in een gegeven probleemsituatie voor een periodiek verschijnsel een sinusmodel opstellen, de bijbehorende sinusoïde tekenen, berekeningen uitvoeren aan dit model en de resultaten terugvertalen naar de probleemsituatie.",
+		"id": "8ecd4a72-5b74-4586-aa05-6d21427a0786",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.15",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan een harmonische trilling opvatten als een sinusoïde, er een passend functievoorschrift voor opstellen en de begrippen frequentie en trillingstijd daarbij correct hanteren.",
+		"id": "4102f787-29d8-4f15-a860-9ac6b852cb8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.16",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan de som- en verschilformules en de verdubbelingsformules gebruiken bij het herleiden van formules en het oplossen van vergelijkingen.",
+		"id": "77ea8472-0179-417d-b684-5754213223ad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.17",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan de formules sin^2 (x) + cos^2 (x) = 1 en sin(x) /cos(x) = tan(x) gebruiken bij het herleiden van formules en het oplossen van vergelijkingen.",
+		"id": "b6be4bf9-c475-44b6-a283-25fe7db4d176",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinD/13.18",
+		"examenprogramma_eindterm_id": [
+			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
+		],
+		"title": "De kandidaat kan symmetrie-eigenschappen en translaties gebruiken bij het oplossen van vergelijkingen.",
+		"id": "b7526ad3-b931-4379-a1f9-921a52ed92ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.1",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent het begrip afstand als de lengte van het kortste verbindingslijnstuk tussen twee meetkundige figuren.",
+		"id": "f0fa08a8-6f5a-4655-9a2c-10d07a1d7038",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2a",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen van een rechthoekige driehoek is het midden van de schuine zijde het middelpunt van de omgeschreven cirkel.",
+		"id": "a51ababa-b6d6-49d9-99e5-fe8f509328fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2b",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen een driehoek waarvan een zijde de middellijn van de omgeschreven cirkel is, is rechthoekig.",
+		"id": "17587e7a-90c3-4f4c-bd09-c78859a675e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2c",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen een raaklijn aan een cirkel staat loodrecht op de straal naar het raakpunt.",
+		"id": "7e7dc9df-2d70-4921-9c42-daf052298d78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2d",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen als vanuit een punt twee raaklijnen aan een cirkel getrokken worden, dan zijn de afstanden van dat punt tot de twee raakpunten gelijk.",
+		"id": "0f17a90f-c55f-4595-8eb8-6c9d7d3f59b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2e",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen de raaklijn in het gemeenschappelijke raakpunt van twee elkaar rakende cirkels staat loodrecht op de verbindingslijn van de middelpunten.",
+		"id": "16e53ba0-619a-4926-b43c-83bc098eb99e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2f",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen voor elk punt op de middelloodlijn van een lijnstuk AB geldt: de afstand van dat punt tot A is gelijk aan de afstand van dat punt tot B.",
+		"id": "1da6c92c-6a6c-4187-8c8a-bced42a69d4b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.2g",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kent de volgende meetkundige stellingen voor elk punt op de bissectrice (deellijn) van twee lijnen l en m geldt: de afstand van dat punt tot lijn l is gelijk aan de afstand van dat punt tot lijn m.",
+		"id": "c758c3c5-a366-4ddf-b4b8-7740b40ed8c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.3",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan de stelling van Pythagoras gebruiken om de afstand tussen twee punten te berekenen.",
+		"id": "10d8fa8d-963f-4583-aad4-875b4adac5fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.4",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan met gelijkvormigheid de lengte van lijnstukken berekenen.",
+		"id": "6db0aa90-3d97-4cf3-bc5f-019dd8fcf402",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.5",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan sinus, cosinus en tangens gebruiken voor het berekenen van de grootte van hoeken en de lengte van zijden in een rechthoekige driehoek.",
+		"id": "838e53de-23c3-494d-a808-25c718193b06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.6",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan de sinus- en cosinusregel gebruiken voor het berekenen van de lengte van lijnstukken en de grootte van hoeken in een driehoek.",
+		"id": "86066482-3699-4f1f-a4d1-614f14f356da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.7",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan (een gedeelte van) een meetkundige figuur algebraïsch beschrijven.",
+		"id": "2ae26380-c358-493b-aae6-988ec29d0454",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.8",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan van een beschreven meetkundig probleem een tekening maken met daarin verwerkt de relevante gegevens.",
+		"id": "0201ea5b-6c7d-44b9-b3ea-a3bb2285c047",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.9",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan meetkundige technieken gebruiken om eigenschappen van figuren te onderzoeken en te bewijzen.",
+		"id": "75641f5c-d984-4b77-969d-2f80f512c18d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"prefix": "WI/B/V/DomeinE/E1/14.10",
+		"examenprogramma_eindterm_id": [
+			"a925804d-282e-49d1-9789-31263c68aab8"
+		],
+		"title": "De kandidaat kan algebraïsche technieken gebruiken om eigenschappen van figuren te onderzoeken en te bewijzen.",
+		"id": "6e2ed63a-ad32-40e1-a9df-c90f571ca9c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.1",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de vergelijking van een lijn in de vorm y = mx + n en in de vorm ax + by = c.",
+		"id": "09d289ce-4b3c-472e-996d-e86cbce2151c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.2",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de begrippen richtingscoëfficiënt en loodlijn.",
+		"id": "27dd0ee3-2fe8-4de8-92b7-f6e21719ad81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.3",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de eigenschap dat het product van de richtingscoëfficiënten van twee loodrecht op elkaar staande lijnen gelijk is aan –1 en omgekeerd.",
+		"id": "9c6a6d2d-aa06-40f9-b40b-d20e5ef000d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.4",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de begrippen stelsel van twee vergelijkingen, strijdig stelsel en afhankelijk stelsel.",
+		"id": "fa68edab-feac-4d0c-94ba-42addc78becf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.5",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent van een cirkel de vergelijking in de vorm (x - a)^2 + (y - b)^2 en in de vorm x^2  + y^2 + ax + by + c = 0.",
+		"id": "8bce2627-889c-43ac-b539-2f31dbb51e70",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.6",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de parametervoorstelling van een lijn x(t) = a.t + c en y(t) = b.t + d.",
+		"id": "4a805e64-1137-459c-8841-da5ce54887b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.7",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kent de parametervoorstelling van een cirkel x(t) = p + r . cos(t) en y(t) =  q + r . sin(t).",
+		"id": "85a89eac-0063-469e-b73f-21895de0f739",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.8",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de afstand tussen punten, lijnen en cirkels berekenen.",
+		"id": "bd7271ee-2513-4945-988c-3ac7f0e047fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.9",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de hoek tussen twee lijnen berekenen.",
+		"id": "6f22ca0a-8ee6-44b7-9dd2-fdd3217cc374",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.10",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de vergelijking of de parametervoorstelling van een lijn opstellen.",
+		"id": "a13ff277-38bc-431f-b903-41f444416749",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.11",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de vergelijking of de parametervoorstelling van een cirkel opstellen.",
+		"id": "cd3488db-a32b-4743-a80b-db2ce8fe851b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.12",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan uit de vergelijking van een cirkel de straal van de cirkel en de coördinaten van het middelpunt afleiden.",
+		"id": "002a0f37-23e2-4d3d-a7d2-b859b059eebc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.13",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan vanuit een parametervoorstelling van een lijn of cirkel een vergelijking opstellen en vanuit een gegeven vergelijking van een lijn of cirkel een parametervoorstelling opstellen.",
+		"id": "b6522abe-b022-4e5a-bf19-285b750524bb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.14",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de coördinaten van de snijpunten van twee lijnen, van twee cirkels en van een lijn en een cirkel berekenen.",
+		"id": "76c1625b-a5f2-47b2-8d99-770f46b7313e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.15",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de oplosbaarheid van een stelsel van twee lineaire vergelijkingen in verband brengen met de onderlinge ligging van rechte lijnen in het platte vlak.",
+		"id": "8827e189-0b22-46b2-93e5-2ff2d36db3a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.16",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan onderzoeken hoeveel gemeenschappelijke punten een lijn en een cirkel hebben.",
+		"id": "94d6bb11-1f75-4937-ae16-187135c13fdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.17",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de vergelijking van een raaklijn met gegeven richting aan een cirkel opstellen.",
+		"id": "0911a229-0507-4377-b176-6946db43fedc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.18",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan de vergelijking van een raaklijn door een gegeven punt (op of buiten de cirkel) aan een cirkel opstellen.",
+		"id": "58b0a2b6-2c92-467c-a383-367b06247704",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.19",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan het verband gebruiken tussen een transformatie van een lijn of een cirkel en een substitutie in de bijhorende vergelijking of parametervoorstelling.",
+		"id": "cf3ffc98-0fe9-4e1b-8d98-58a5991882f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E2/15.20",
+		"examenprogramma_eindterm_id": [
+			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
+		],
+		"title": "De kandidaat kan meetkundige problemen oplossen met gebruikmaking van bovengenoemde algebraïsche technieken.",
+		"id": "ff505728-b703-4501-ad0c-e57f566ff7d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.1",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kent het begrip vector als grootheid met lengte en richting en als getallenpaar, notatie: volgt nog.",
+		"id": "8bfe9aef-6970-470e-b2b9-2258011f13d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.2",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kent de begrippen lengte, richtingshoek, kentallen en componenten van een vector.",
+		"id": "64af2a3c-52be-4ac3-aca7-6409cab62caf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.3",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kent het begrip inproduct (of inwendig product) van twee vectoren als (formule volgt nog)",
+		"id": "b21d347f-f30f-4529-a703-29c5a4ccfebe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.4",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kent de vectorvoorstelling van een lijn (formulie volgt nog) met steunvector en richtingsvector.",
+		"id": "04f68e79-0434-40c5-a4e6-bcae17116be0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.5",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kent het zwaartepunt van een aantal punten als eindpunt van de plaatsvector die het gewogen gemiddelde is van de plaatsvectoren van de punten.",
+		"id": "dce6ab20-cb03-4a25-917c-516de2ba3439",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.6",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan de vectorvoorstelling van een lijn opstellen.",
+		"id": "63c2d665-7e3b-44e3-9c7f-40485ab09a86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.7",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan rekenen en redeneren met vectoren die beschreven zijn door grootte en richting of door middel van kentallen.",
+		"id": "c3b82faf-7580-4313-a0f5-0b4c64ad05ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.8",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan vectoren ontbinden in componenten, scalair vermenigvuldigen, bij elkaar optellen of van elkaar aftrekken, zowel meetkundig als met behulp van berekening.",
+		"id": "b2575678-22ca-4e84-8a30-05d9ace5068b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.9",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan het inproduct gebruiken voor de berekening van hoeken en afstanden.",
+		"id": "b773b789-671f-4cb1-81d8-5e181c4e78a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.10",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan de vergelijking, de parametervoorstelling en de vectorvoorstelling van een lijn in elkaar omrekenen.",
+		"id": "980c1cf3-4753-41f7-8b60-222163243c15",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.11",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren aan de baan van een bewegend punt die beschreven is door een tijdsafhankelijke vectorvoorstelling (formule volgt nog).",
+		"id": "e8736ea0-129b-443c-851b-fa5e08e4c266",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.12",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan de vectoriële snelheid en versnelling alsook de baansnelheid en baanversnelling van een bewegend punt berekenen.",
+		"id": "9d75dbf6-ccdd-4076-872d-0d43c9bdfbd1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.13",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan een vergelijking van de raaklijn opstellen aan de baan van een bewegend punt.",
+		"id": "5e3cbcbd-a824-4d38-b146-67fd37d5d85e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/B/V/DomeinE/E3/16.14",
+		"examenprogramma_eindterm_id": [
+			"114d71c5-a305-45b6-86cf-3c9e193f3042"
+		],
+		"title": "De kandidaat kan met behulp van vectoren zwaartepunten bepalen.",
+		"id": "3a12e1be-079f-4663-8d29-e83b5d05b7f6",
+		"unreleased": true
 	}
 ]
