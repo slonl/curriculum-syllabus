@@ -24723,5 +24723,61 @@
 		"title": "De kandidaat kan met behulp van vectoren zwaartepunten bepalen.",
 		"id": "3a12e1be-079f-4663-8d29-e83b5d05b7f6",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.1",
+		"title": "De kandidaat kan relevante gegevens uit een situatie weergeven in een geschikte wiskundige representatie (model).",
+		"id": "a8fa78ba-7624-4256-9d30-0ce24f094e13",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.2",
+		"title": "De kandidaat kan wiskundige informatie identificeren, beoordelen en gebruiken om een probleem op te lossen.",
+		"id": "c9e2c995-d008-45ee-a490-3f29534257ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.3",
+		"title": "De kandidaat kan zich bedienen van adequate onderzoeks- en redeneerstrategieën.",
+		"id": "de390528-40e5-4666-a5b3-bbbc3fcd5f45",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.4",
+		"title": "De kandidaat kan bij berekeningen een bij de situatie passend rekenmodel kiezen.",
+		"id": "6e0bf34e-48b8-4a2f-8084-07414616cc4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.5",
+		"title": "De kandidaat kan  efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen.",
+		"id": "4090b42c-d351-4c88-9fdb-976b1393836a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.6",
+		"title": "De kandidaat kan op basis van verwerkte informatie verwachtingen uitspreken en conclusies trekken.",
+		"id": "be5d09de-f2b5-474d-aa0b-a9461ca81c05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.7",
+		"title": "De kandidaat kan adequate (wiskunde)taal gebruiken als communicatiemiddel.",
+		"id": "f5f534b9-fd0d-4a42-a68e-ebe89554a5e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.8",
+		"title": "De kandidaat kan situaties waarin wiskundige presentaties, redeneringen of berekeningen voorkomen kritisch beschouwen en beoordelen.",
+		"id": "82d64b49-e6da-4cda-a6f2-89c09f78a955",
+		"unreleased": true
 	}
 ]
