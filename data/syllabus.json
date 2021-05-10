@@ -3218,5 +3218,23 @@
 		"title": "Syllabus wiskunde B vwo",
 		"id": "3398fa1c-0689-4412-9871-37e2fc6dd70e",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"a8fa78ba-7624-4256-9d30-0ce24f094e13",
+			"c9e2c995-d008-45ee-a490-3f29534257ee",
+			"de390528-40e5-4666-a5b3-bbbc3fcd5f45",
+			"6e0bf34e-48b8-4a2f-8084-07414616cc4d",
+			"4090b42c-d351-4c88-9fdb-976b1393836a",
+			"be5d09de-f2b5-474d-aa0b-a9461ca81c05",
+			"f5f534b9-fd0d-4a42-a68e-ebe89554a5e0",
+			"82d64b49-e6da-4cda-a6f2-89c09f78a955"
+		],
+		"title": "Syllabus Wiskunde vmbo",
+		"id": "01d251b8-677c-4286-8f5a-cd39d0fac9d7",
+		"unreleased": true
 	}
 ]
