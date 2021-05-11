@@ -25884,5 +25884,2252 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.1",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan relevante gegevens uit een situatie weergeven in een geschikte wiskundige representatie (model).",
+		"id": "22cb7e92-58e7-463f-8216-1becfeeb522c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.2",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan wiskundige informatie identificeren, beoordelen en gebruiken om een probleem op te lossen.",
+		"id": "160b084b-0c22-4c61-821d-028b0b41ac6f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.3",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan zich bedienen van adequate onderzoeks- en redeneerstrategieën.",
+		"id": "6b4d6751-f356-4347-9834-191a90956595",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.4",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan bij berekeningen een bij de situatie passend rekenmodel kiezen.",
+		"id": "39eda413-fec7-4d79-9d2d-d0c4153e88b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.5",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan  efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen.",
+		"id": "d927ea9f-94f8-4262-b760-32a6fd88dcba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.6",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan op basis van verwerkte informatie verwachtingen uitspreken en conclusies trekken.",
+		"id": "1fc07013-dd9c-40c7-99bf-c578c3920bde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.7",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan adequate (wiskunde)taal gebruiken als communicatiemiddel.",
+		"id": "29193132-6269-425d-89ca-fb0b6f9f26e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/3.8",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		],
+		"title": "De kandidaat kan situaties waarin wiskundige presentaties, redeneringen of berekeningen voorkomen kritisch beschouwen en beoordelen.",
+		"id": "9655dc21-c561-4f22-9d83-688dca025aca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.1a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan lineaire verbanden kennen, herkennen en gebruiken:  een bijbehorende tabel herkennen, opstellen en gebruiken.",
+		"id": "3a7c375a-8a84-41d5-a6e8-479c4d96e06f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.1b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan lineaire verbanden kennen, herkennen en gebruiken:  in een gegeven assenstelsel een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "c274d392-19d3-4e71-852c-85e1bae9384d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.1c",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan lineaire verbanden kennen, herkennen en gebruiken:  in een gegeven situatie een woordformule opstellen.",
+		"id": "a6d6ccff-1331-4f3b-a58b-0576da831aa0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.1d",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan lineaire verbanden kennen, herkennen en gebruiken: in een woordformule een variabele vervangen door een getal en de waarde van de andere variabele berekenen.",
+		"id": "6e443fe1-e670-4d32-a44c-56e1c397f832",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: een tabel maken van het verband tussen variabelen in een gegeven situatie.",
+		"id": "33ac53ca-680b-4b4c-8694-d9e52f80f9be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: regelmatigheden in een tabel vaststellen.",
+		"id": "1d67ded5-20ee-4b7b-975d-27254ecc0b79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2c",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: grootste of kleinste waarde vaststellen in een tabel.",
+		"id": "8d81f09a-a684-49b0-b26c-4c3327a8fbb4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2d",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: controleren of een gegeven verband bij een gegeven tabel hoort.",
+		"id": "e8847076-9a19-400f-87bc-723acd5b18d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2e",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel conclusies trekken over de bijbehorende situatie.",
+		"id": "4c53154f-4ead-4c3b-807c-7e141c500d21",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.2f",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel vaststellen welke waarden bij de context zinvol zijn.",
+		"id": "faa951c8-462f-454a-84b2-03e0c38b904b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: in een gegeven assenstelsel een grafiek tekenen van het verband tussen variabelen in een gegeven situatie.",
+		"id": "aa7cdafe-bd0d-4f6b-b041-6b6d21b67f16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij een gegeven grafiek vaststellen welke waarden van de variabelen bij de context zinvol zijn.",
+		"id": "64a82449-6841-44eb-b02d-3b3a8af06594",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3c",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: het verloop van een grafiek of interval beschrijven met de termen constant, stijgend of dalend.",
+		"id": "c339d44f-2b84-46ce-88fa-c6e5b0959ef3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3d",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: controleren of een gegeven verband bij een gegeven grafiek hoort.",
+		"id": "be1536c9-9b0a-4077-8cab-3878fc2e2271",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3e",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: aflezen welke minima en maxima er op een gegeven interval zijn.",
+		"id": "b05f54d1-76ec-469b-9826-03669c0c01b3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3f",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: uit het verloop, de vorm en de plaats van punten van een grafiek conclusies trekken over de bijbehorende situatie.",
+		"id": "1073695d-7dc6-40d0-ba35-dc50fa8a1cfd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3g",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: twee grafieken vergelijken en de verschillen interpreteren.",
+		"id": "2620b6be-3d76-495d-a8c9-965749b32bae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3h",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt vaststellen en het snijpunt interpreteren.",
+		"id": "4ce2cddf-0588-4c73-b3a5-2a355fa8c769",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.3i",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: coördinaten van punten van een grafiek aflezen, berekenen of benaderen.",
+		"id": "47a970ff-446c-4cb4-a0f5-eddb105b37e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.4a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan werken met woordformules: bij een gegeven woordformule vaststellen, of daarmee in een gegeven situatie het verband tussen de variabelen beschreven is.",
+		"id": "0222ed3d-888b-421e-bdaa-da1d01af8683",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.4b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan werken met woordformules: in een gegeven situatie vaststellen welke variabelen met elkaar in verband staan.",
+		"id": "0e5e5f99-e31d-42eb-aa7e-39073356baf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.5a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan rekenen met woordformules: in een woordformule de invoervariabele vervangen door een getal en de waarde van de uitvoervariabele berekenen.",
+		"id": "15f55278-c9af-4869-a33f-8de0882cb2cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.5b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan rekenen met woordformules: onderzoeken of twee woordformules hetzelfde verband beschrijven.",
+		"id": "4d64910b-1d2b-4a48-8e33-65c4695fe446",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.6a",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, woordformule of verwoordingen met elkaar in verband brengen: bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde verband beschrijven.",
+		"id": "cb1b773f-a510-4e2b-aea9-60c32395b979",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.6b",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, woordformule of verwoordingen met elkaar in verband brengen: vaststellen of bepaalde waarden van variabelen zinvol zijn voor de gegeven situatie.",
+		"id": "52dcd393-7cba-45d4-b279-acde8d74624c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.6c",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, woordformule of verwoordingen met elkaar in verband brengen: vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven in een andere.",
+		"id": "eeb693e5-5a08-4784-8642-3762b3825bbf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/4.6d",
+		"examenprogramma_eindterm_id": [
+			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, woordformule of verwoordingen met elkaar in verband brengen: vaststellen in welk opzicht een verandering in één voorstellingsvorm invloed heeft op een andere.",
+		"id": "c8e207b9-b536-495c-96fa-8beefc4d1e4c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-1",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, een bijbehorende tabel herkennen, opstellen en interpreteren.",
+		"id": "23c73633-ac85-4ca9-a4a0-50a8513df5a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-2",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, regelmatigheden in een bijbehorende tabel vaststellen en beschrijven met een (woord)formule.",
+		"id": "eb3e1974-f125-4625-bff7-a88e5ab7c706",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-3",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "18f26584-edb0-4df4-adbb-ab865ba6765f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-4",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, bij een gegeven (woord)formule vaststellen of hiermee een lineair verband tussen de variabelen beschreven is.",
+		"id": "6ca3fe6f-0a95-42b5-9744-a6b151fea02c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-5",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, in een gegeven situatie een (woord)formule opstellen.",
+		"id": "6f9afbaa-d019-4a6e-a209-b075991a6857",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1a-6",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a, in een (woord)formule een variabele vervangen door een getal en de waarde van de andere variabele berekenen.",
+		"id": "3b0e683f-7b81-44d5-9a4f-a6270e9c45f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1b-1",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende tabel opstellen en interpreteren.",
+		"id": "0221c253-b40c-44fc-9f48-faa0789c2860",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1b-2",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: regelmatigheden in een bijbehorende tabel vaststellen en beschrijven in woorden.",
+		"id": "c9a652a4-0281-4845-8e15-68068ab75a86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1b-3",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "feeb427f-38cf-4665-a023-5e8a44550b4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1b-4",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: termen als groeifactor, respectievelijk beginwaarde hanteren.",
+		"id": "2c8c70d1-9949-4750-b177-3579cbc94bcc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1c-1",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: een formule van de vorm y =  (wortelteken)X herkennen en gebruiken.",
+		"id": "c521ca57-1a71-4b16-b3d3-a3f8010adcee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1c-2",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: een bijbehorende tabel opstellen en interpreteren.",
+		"id": "e172fc66-3337-4211-8385-95b6b78e6e5f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1c-3",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "183d4864-957f-47f1-befd-de6a364f5700",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1d-1",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan verbanden van de vorm y = a/x herkennen en gebruiken een bijbehorende tabel opstellen.",
+		"id": "13f81563-c2a1-4782-8a1f-68248f26c6e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1d-2",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan verbanden van de vorm y = a/x herkennen en gebruiken in een gegeven assenstelsel een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "8e18ff82-438b-4ac2-9f5e-cc2f244632ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.1e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: periodieke verbanden herkennen en beschrijven in termen als “een regelmatig terugkerende gebeurtenis”.",
+		"id": "ac5ec586-2f90-406e-a1c6-73f82fa5fe01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2a",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: een tabel maken van het verband tussen variabelen in een gegeven situatie.",
+		"id": "b1fd4621-9d3f-4dee-83b5-be2ea4d69592",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2b",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: regelmatigheden in een tabel vaststellen en beschrijven.",
+		"id": "fcbe09c2-5181-4af8-9fdc-9c55edb3125b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2c",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: grootste of kleinste waarde vaststellen in een tabel.",
+		"id": "1f606101-d550-4d30-8d68-33178eb8af60",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2d",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: controleren of een gegeven verband bij een gegeven tabel hoort.",
+		"id": "c5ca6e15-6448-4c47-a079-c9826c757c73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel conclusies trekken over de bijbehorende situatie.",
+		"id": "7c8c81cf-c49f-475e-b96f-b60d888d0e97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2f",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel vaststellen welke waarden bij de context zinvol zijn.",
+		"id": "a0ecc7ca-491a-4779-9817-f21f59821c4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2g",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel beschrijven of het globale verloop van het bijbehorende verband stijgt, daalt, dan wel periodiek lijkt te zijn.",
+		"id": "ce92f332-9ab4-4535-8b5c-fa4296945b3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2h",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: het globale verloop van een verband uit een bijbehorende tabel beschrijven.",
+		"id": "3eeb87e1-d6e8-41b6-9aa5-1cdace32a60b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.2i",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: twee verbanden met behulp van de bijbehorende tabellen vergelijken en bepalen of benaderen waar de variabelen een gelijke waarde hebben.",
+		"id": "817f7d11-a72f-47c9-8976-b59c2cc6eb43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3a",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: een grafiek tekenen van het verband tussen variabelen in een gegeven situatie.",
+		"id": "2d5eb2c9-eb65-4e7f-9024-269ea39b4f30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3b",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij een gegeven grafiek vaststellen welke waarden van de variabelen bij de context zinvol zijn.",
+		"id": "04877a2c-edea-496a-92c8-a62f540143ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3c",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: het verloop van een grafiek of interval beschrijven met de termen constant, stijgend, dalend of periodiek.",
+		"id": "97bd4f0b-141d-416e-b233-349cc386df73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3d",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: controleren of een gegeven verband bij een gegeven grafiek hoort.",
+		"id": "a3446369-c76e-4379-aad1-25858e5277bb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: aflezen welke minima en maxima er op een gegeven interval zijn.",
+		"id": "2d7eb828-ee08-44e4-8fa3-e52ba744e79c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3f",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: uit het verloop, de vorm en de plaats van punten van een grafiek conclusies trekken over de bijbehorende situatie.",
+		"id": "fbdcf1ca-b039-498e-8a03-a1a148aec70b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3g",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: twee grafieken vergelijken en de verschillen interpreteren.",
+		"id": "92660fe3-1fec-46e7-98b5-75c83994fa33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3h",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt aflezen, benaderen of berekenen en het snijpunt interpreteren.",
+		"id": "5eb38754-8c24-4721-8758-4056395edd6b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3i",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: coördinaten van punten van een grafiek aflezen, berekenen of benaderen.",
+		"id": "c7f572de-2c1c-4fa3-87f1-44be8da4215b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3j",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: een grafiek tekenen en analyseren; in het bijzonder hierbij een passende schaalverdeling kiezen en coördinaten van punten bepalen.",
+		"id": "d699080e-630e-4164-a814-f41e256db1e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.3k",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: vaststellen hoe een verandering in de situatie doorwerkt in de grafiek, gewoonlijk in samenhang met tabel en/ of (woord)formule.",
+		"id": "95e6bdbc-d9d5-4cb8-9267-05addbed32f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4a",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: bij een gegeven (woord)formule vaststellen, of daarmee in een gegeven situatie het verband tussen de variabelen beschreven is.",
+		"id": "303574cd-8d5a-4d73-bbaf-1d23bc9ccb0e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4b",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: in een gegeven situatie vaststellen welke variabelen met elkaar in verband staan.",
+		"id": "a3930efc-1f43-4b7d-bf39-d35e438c1702",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4c",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: bij een verandering in een variabele het effect aangeven op de andere variabele.",
+		"id": "2e8394cb-c863-462d-9bb6-d5cb829f1027",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4d",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: bij twee functionele verbanden aangeven, eventueel in benadering, waar functiewaarden gelijk zijn en op welke intervallen de ene groter is dan de andere.",
+		"id": "6f3c30db-6232-44cd-a642-5605b72bd913",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: vaststellen hoe een verandering in de situatie doorwerkt in de formule en omgekeerd.",
+		"id": "d8cbdefa-ca2f-4e0c-ad56-5b801f6cce83",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.4f",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan werken met (woord)formules: uit een formule conclusies trekken over de bijbehorende situatie.",
+		"id": "2eea8d14-a4d7-4545-96fd-99fa1cb6cab1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.5a",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan rekenen met (woord)formules: in een (woord)formule een variabele vervangen door een getal en de waarde van de andere variabele berekenen.",
+		"id": "c9609a2f-52e5-4f37-9f32-4c7704582842",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.5b",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan rekenen met (woord)formules: onderzoeken of twee (woord)formules hetzelfde verband beschrijven.",
+		"id": "ba3127e8-3314-4fb3-9995-04b7827e4774",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.5c",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan rekenen met (woord)formules: woordformules omzetten in formules waarin variabelen door één letter worden weergegeven.",
+		"id": "4d22497d-ea4d-42fc-8afe-11a49ace0515",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.5d",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan rekenen met (woord)formules: een (woord)formule vervangen door een gelijkwaardige (woord)formule.",
+		"id": "1ac66fbc-3d9d-4a37-8ede-ee8c2aa64bae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.5e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan rekenen met (woord)formules: een schakeling van elementaire rekenacties omzetten in een (woord)formule en omgekeerd.",
+		"id": "9db2496c-dd0b-422c-ac3e-b4769f23ea95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6a",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde verband beschrijven.",
+		"id": "22ea07f2-9d67-45a9-8896-647f07d98555",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6b",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: een voorstellingsvorm vervangen door een andere voorstellingsvorm die hetzelfde verband beschrijft.",
+		"id": "19de7726-7ab9-40ce-99c9-2c44b9ac3ad6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6c",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: formuleringen bij de ene voorstellingsvorm vervangen door formuleringen bij een andere voorstellingsvorm.",
+		"id": "668d7121-3fcf-4a68-9a26-c34435c8d336",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6d",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: vaststellen of bepaalde waarden van variabelen zinvol zijn voor de gegeven situatie.",
+		"id": "0b93bdf7-f657-4a3a-8284-a88cd8dd9d5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6e",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven in een andere.",
+		"id": "062f2655-c23d-41ee-8536-37b98dfb7391",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6f",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: vaststellen in welk opzicht een verandering in één voorstellingsvorm invloed heeft op een andere.",
+		"id": "cfa7c5cf-bd28-4d00-9287-f22668d4d212",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6g",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: bij twee functionele verbanden hun som en hun verschil beschrijven met één of meer voorstellingsvormen, mits dat in de gegeven situatie zinvol is.",
+		"id": "b9bfc1e8-fb87-4907-9def-9f018762bf45",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/5.6f",
+		"examenprogramma_eindterm_id": [
+			"7d1cab76-38dd-4503-a2ab-2db951cb1091"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, (woord)formule of verwoording met elkaar in verband brengen: als bij een functioneel verband een uitgangsvariabele gegeven is, de bijbehorende ingangsvariabele vinden of berekenen.",
+		"id": "6afc6071-1aa6-4439-a25c-ee79d80136ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1a-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - een formule van de vorm y = ax + b herkennen, opstellen en gebruiken,",
+		"id": "cd116f33-dfad-4e70-906b-9ccbadc7f86d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1a-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - een bijbehorende tabel herkennen, opstellen en interpreteren.",
+		"id": "5da8c588-5db0-45cb-b45d-03b93acbcfef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1a-3",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - regelmatigheden in een bijbehorende tabel vaststellen en beschrijven met een (woord)formule.",
+		"id": "821be397-c414-421a-bfb9-77326e65529f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1a-4",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "3903b031-b76e-4cf5-9163-596cf4875263",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1a-5",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - de parameters e en b herkennen als steilheid, respectievelijk verticale verschuiving",
+		"id": "e157bdff-8bd1-4a59-9bbf-044bed9486ac",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een formule van de vorm y = b gt herkennen en gebruiken",
+		"id": "a6a31e84-1ca9-46a6-ae22-8715d37cd5da",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende tabel herkennen, opstellen en interpreteren",
+		"id": "a2893c1e-1e58-4fcb-813e-16d571792ea6",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-3",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren",
+		"id": "ce954294-3537-45a8-b751-2e875837ba83",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-4",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: de parameters g en b herkennen als groeifactor, respectievelijk beginwaarde",
+		"id": "ce18e263-580e-46cc-b4b2-e9b5eef39b8e",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-5",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: de begrippen verdubbelingstijd en halveringstijd gebruiken.",
+		"id": "18324537-5163-4b11-b526-cd7c7d4962d3",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1b-6",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een rente op rente berekening maken.",
+		"id": "7c258e11-35b2-43d8-b58d-2113b1abcc13",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1c-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: een formule van de vorm y = (wortelteken)x herkennen en gebruiken.",
+		"id": "11614288-d0ec-4bf3-ada9-48eddc8ae770",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1c-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: ee bijbehorende tabel opstellen en interpreteren.",
+		"id": "9f4b0d52-3657-47b9-a5b6-4bb922bdb491",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1c-3",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: wortelverbanden herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "42fce109-ab9f-484d-97d0-c62fba7314bf",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1d-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden met exponent 2 of 3 herkennen en gebruiken: een bijbehorende tabel opstellen en interpreteren.",
+		"id": "79b3602c-06d6-4390-8ed2-32bb6ddc971d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1d-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden met exponent 2 of 3 herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "858f4f64-e246-4b08-9c2d-a8c244171768",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1e-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a xn waarbij n een positief en geheel getal is herkennen en gebruiken: een bijbehorende tabel opstellen.",
+		"id": "75516110-6f34-444f-bbc4-6322756355d7",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1e-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a x^n waarbij n een positief en geheel getal is herkennen en gebruiken: som en verschilverbanden interpreteren.",
+		"id": "60d239c5-9eac-415d-8bad-d37df4ebb5da",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1e-3",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a x^n waarbij n een positief en geheel getal is herkennen en gebruiken: een grafiek van de vorm y = a x^n + b tekenen.",
+		"id": "82a30266-a803-4c68-9093-a5a6489f5e6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1f-1",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: verbanden van de vorm y = a/x herkennen en gebruiken: een bijbehorende tabel opstellen.",
+		"id": "da7aaea1-aa67-421e-af0b-fa2823fe8227",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1f-2",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: verbanden van de vorm y = a/x herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren.",
+		"id": "530396a6-37f1-411a-a7b9-c22f9b6cabe7",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.1g",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: periodieke verband herkennen en gebruiken: de begrippen amplitude, periode en frequentie herkennen en gebruiken.",
+		"id": "2b0493fc-dd02-4775-b33f-a430efcec732",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2a",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: een tabel maken van het verband tussen variabelen in een gegeven situatie.",
+		"id": "cacd7ae7-682c-46e1-bee0-fb59aa5264ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2b",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: regelmatigheden in een tabel vaststellen en beschrijven.",
+		"id": "1ffa03bb-c286-4a37-b0c4-2994c8cd0a47",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2c",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: grootste of kleinste waarde vaststellen in een tabel.",
+		"id": "b307b40a-bcfc-4913-8458-4f5b10c5cfc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2d",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: controleren of een gegeven verband bij een gegeven tabel hoort.",
+		"id": "a11b1e4b-6ec4-4abc-ba24-d38a6c203c00",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2e",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel conclusies trekken over de bijbehorende situatie.",
+		"id": "b066e8d2-69ff-4b66-962f-a37f24c0f90b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2f",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel vaststellen welke waarden bij de context zinvol zijn.",
+		"id": "c37ac415-e7b6-4c6d-9784-ff531905f3b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2g",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: bij een gegeven tabel beschrijven of het globale verloop van het bijbehorende verband stijgt, daalt, dan wel periodiek lijkt te zijn.",
+		"id": "a574ffb3-cfb7-47e6-826d-07f40c8acf14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2h",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: het globale verloop van een verband uit een bijbehorende tabel beschrijven.",
+		"id": "f930069c-3cab-4616-8cd1-ef4cd4da3730",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.2i",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan tabellen maken, aflezen, vergelijken en interpreteren: twee verbanden met behulp van de bijbehorende tabellen vergelijken en bepalen of benaderen waar de variabelen een gelijke waarde hebben.",
+		"id": "3042db64-7342-456d-ac06-927f77cd2ea9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3a",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: een grafiek tekenen van het verband tussen variabelen in een gegeven situatie.",
+		"id": "5a8091fb-51a7-4dfa-908a-ce299285e91a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3b",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij een gegeven grafiek vaststellen welke waarden van de variabelen bij de context zinvol zijn.",
+		"id": "c69f57d0-c90b-402e-8c12-0b98f36ad0cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3c",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: het verloop van een grafiek of interval beschrijven met de termen constant, stijgend, dalend of periodiek.",
+		"id": "ddb730b9-75e0-494c-b2f6-1e8c6912d3f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3d",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: controleren of een gegeven verband bij een gegeven grafiek hoort.",
+		"id": "99757ab4-f322-4739-9b4f-99009d6e4a77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3e",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: aflezen welke minima en maxima er op een gegeven interval zijn.",
+		"id": "554a5a5d-fd02-4054-8d7f-728f15111d51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3f",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: uit het verloop, de vorm en de plaats van punten van een grafiek conclusies trekken over de bijbehorende situatie.",
+		"id": "a99f8e0a-f472-4421-a189-e9fb1ea70b14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3g",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: twee grafieken vergelijken en de verschillen interpreteren.",
+		"id": "fff6306e-b6b4-4821-91f3-d58737707ebd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3h",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: bij twee grafieken die elkaar snijden de coördinaten van dat snijpunt aflezen, benaderen of berekenen en het snijpunt interpreteren.",
+		"id": "ca55a6df-f918-4c1e-bd17-2d3fdfebb2ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3i",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: coördinaten van punten van een grafiek aflezen, berekenen of benaderen.",
+		"id": "6ce0e1c7-3969-4895-bbb2-8e2f8e5a73fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3j",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: een grafiek tekenen en analyseren; in het bijzonder hierbij een passende schaalverdeling kiezen en coördinaten van punten bepalen.",
+		"id": "b029970a-9fea-41b8-9eb3-a51d0a7fdf20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.3k",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan grafieken tekenen, aflezen, interpreteren en vergelijken: vaststellen hoe een verandering in de situatie doorwerkt in de grafiek, gewoonlijk in samenhang met tabel en/ of formule.",
+		"id": "79189101-425f-4180-a53e-6ef35541c7d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4a",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules: bij een gegeven formule vaststellen, of daarmee in een gegeven situatie het verband tussen de variabelen beschreven is.",
+		"id": "2dd60e3c-2bfe-4df0-a09a-7ffcb54fe7d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4b",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules:  in een gegeven situatie vaststellen welke variabelen met elkaar in verband staan.",
+		"id": "fb7b66d7-8e43-48c6-b75c-162ad7922787",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4c",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules: bij een verandering in een variabele het effect aangeven op de andere variabele.",
+		"id": "8dfbbf6b-a13b-4a3c-84d3-b6b5f809d875",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4d",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules: bij twee functionele verbanden aangeven, eventueel in benadering, waar functiewaarden gelijk zijn en op welke intervallen de ene groter is dan de andere.",
+		"id": "c3e3aa21-5b62-4979-af15-9f8f1b09907b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4e",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules: vaststellen hoe een verandering in de situatie doorwerkt in de formule en omgekeerd.",
+		"id": "39b1d368-bb73-48ce-8feb-9401668249fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.4f",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan werken met formules: uit een formule conclusies trekken over de bijbehorende situatie.",
+		"id": "509ed2d5-219c-4839-807c-a2cc5eeaf9da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5a",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: in een formule een variabele vervangen door een getal en de waarde van de andere variabele berekenen.",
+		"id": "8cd921d0-7bdb-4fb7-bd3e-a979af0b4119",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5b",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: in een formule of vuistregel een variabele vervangen door een expressie.",
+		"id": "651a3f52-71d9-49f3-b5e8-00fb485fb7ac",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5c",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: in een formule of vuistregel een expressie vervangen door een variabele.",
+		"id": "2825d6c3-ad22-4a39-8e89-5d1dc79f08c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5d",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: onderzoeken of twee formules hetzelfde verband beschrijven.",
+		"id": "f9b99b26-693a-49d5-b8a8-eccfe3e0736b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5e",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules:  woordformules omzetten in formules waarin variabelen door één letter worden weergegeven.",
+		"id": "d5f808ce-03a6-4fa4-887e-a50ea2a726a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5f",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: een formule vervangen door een gelijkwaardige formule.",
+		"id": "b969cf3f-055c-419a-9216-f9aca2caee67",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.5g",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan rekenen met formules: een schakeling van elementaire rekenacties omzetten in een formule en omgekeerd.",
+		"id": "62420cfa-1fed-4d12-aba8-d89dc081eb6f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6a",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: bij twee verschillende voorstellingsvormen vaststellen of zij hetzelfde verband beschrijven.",
+		"id": "1d1ab1fc-0e2b-4514-bd46-3ed60c2e74c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6b",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen:  een voorstellingsvorm vervangen door een andere voorstellingsvorm die hetzelfde verband beschrijft.",
+		"id": "ab5cc747-989c-4fcf-bdaa-e1d67d2188a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6c",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: formuleringen bij de ene voorstellingsvorm vervangen door formuleringen bij een andere voorstellingsvorm.",
+		"id": "585507dd-5c4b-45d4-a925-02dd9cdde8c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6d",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen:  vaststellen of bepaalde waarden van variabelen zinvol zijn voor de gegeven situatie.",
+		"id": "51ba6632-65b3-4047-8fa3-b8f29bc052f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6e",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: vaststellen of bepaalde waarden in een voorstellingsvorm zinvol blijven in een andere.",
+		"id": "971352c1-b29d-48e0-8b86-87044cfcc6c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6f",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: vaststellen in welk opzicht een verandering in één voorstellingsvorm invloed heeft op een andere.",
+		"id": "530e9aef-5b45-4080-9feb-d9806f47ebb7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6g",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: bij twee functionele verbanden hun som en hun verschil beschrijven met één of meer voorstellingsvormen, mits dat in de gegeven situatie zinvol is.",
+		"id": "64a00605-d34b-475b-b7ef-cfe53fee45a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/4/6.6h",
+		"examenprogramma_eindterm_id": [
+			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5"
+		],
+		"title": "De kandidaat kan in een gegeven situatie de voorstellingsvormen tabel, grafiek, formule of verwoording met elkaar in verband brengen: als bij een functioneel verband een uitgangsvariabele gegeven is, de bijbehorende ingangsvariabele vinden of berekenen.",
+		"id": "83a92585-b494-447e-bb39-c326174969d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.1a",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan handig rekenen in alledaagse situaties: schattingen maken over afmetingen en hoeveelheden.",
+		"id": "4fc16752-5c41-462f-b512-8a67fdd173b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.1b",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan handig rekenen in alledaagse situaties: rekenen met gangbare maten voor lengte, oppervlakte, inhoud, gewicht, tijd, temperatuur, geld en snelheid.",
+		"id": "28dd8a45-5770-45d8-a05f-e72dfef6f98a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.1c",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan handig rekenen in alledaagse situaties: bij het rekenen en vermelden van resultaten gebruik maken van gangbare begrippen en voorvoegsels zoals miljoen, miljard en milli-, centi-, kilo-.",
+		"id": "f8576d5b-465b-4e72-927a-8a6075e6c828",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.1d",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan handig rekenen in alledaagse situaties: het resultaat van een berekening afronden in overeenstemming met de gegeven situatie.",
+		"id": "71bb8af0-3d2d-4b46-b6e8-68ade868a39f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.1e",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan handig rekenen in alledaagse situaties: bij het oplossen van problemen, enkelvoudige en eenvoudig samengestelde grootheden herkennen en gebruiken, in elk geval grootheden die te maken hebben met lengte, oppervlakte, inhoud, gewicht, tijd, temperatuur, geld en snelheid.",
+		"id": "ce6eae55-e3cc-4dbb-bf3a-9fb10c005f0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2a",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: met een rekenmachine optellen, aftrekken, vermenigvuldigen en delen.",
+		"id": "b8cce3e1-e60c-479e-b538-b205e0a99b91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2b",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: met een rekenmachine breuken, procenten, machten en wortels berekenen of benaderen als eindige decimale getallen.",
+		"id": "8e5cbba1-8043-42f0-a9cd-068526db49e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2c",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: gebruik maken van de functietoetsen voor omgekeerde, kwadraat, wortel, y^x en van de +/- toets.",
+		"id": "e7cdcb90-6f38-4741-8b96-60b4351af5ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2c",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: gebruik maken van de functietoetsen voor omgekeerde, kwadraat, wortel, y^x en INV-y^x, en van de +/- toets.",
+		"id": "27046e48-3595-443d-aa28-7c0013e3c4b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2d",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: berekeningen met een groeifactor of –percentage uitvoeren.",
+		"id": "d3ac4cdd-7d9f-40d7-885d-038e7371f8e0",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.2e",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: wetenschappelijke notatie kennen en gebruiken bij vermenigvuldigen met en delen door machten van 10.",
+		"id": "b7ee4d35-2466-42c7-bf66-348d8049f98a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.3a",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan meten en schatten: gangbare maten en referentiematen hanteren.",
+		"id": "4250e126-c3c4-43cd-b96e-c6b74d03badc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.3b",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan meten en schatten: vooraf uitkomsten schatten van berekeningen en meetresultaten.",
+		"id": "fb1cae16-eb47-423f-b09a-04512b04637b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.3c",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan meten en schatten: schalen aflezen.",
+		"id": "cc2d0fcc-0e07-4630-93bf-c8156c269113",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.3d",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan meten en schatten: uitspraken doen over de orde van grootte en de nauwkeurigheid.",
+		"id": "d57c806c-060a-4a7c-8e1a-8b7770b69e33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4a",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties gelijknamige breuken optellen en aftrekken.",
+		"id": "53b1abed-01c2-47de-bff5-87ec3c0a0f2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4a",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties gelijknamige breuken optellen en aftrekken, eenvoudige bruken vermenigvuldigen en delen.",
+		"id": "7fb671ff-d09e-48bb-9114-bc0c3d6052a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4b",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties eenvoudige breuken vermenigvuldigen met een geheel getal.",
+		"id": "bf99327a-5c06-4cfd-a22b-6076ca87746e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4b",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties eenvoudige en samengestelde breuken vermenigvuldigen met een geheel getal.",
+		"id": "ee66426f-7eed-4bbe-941a-07fbde6f32aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4c",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: verhoudingen vergelijken.",
+		"id": "729d27e8-183d-4bce-91eb-c9ce30f98498",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4d",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: een verhouding omzetten in een breuk, decimaal getal of percentage.",
+		"id": "8ca91990-83ab-44c9-acb0-3b4fabefb553",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4e",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: bij berekeningen een verhoudingstabel gebruiken.",
+		"id": "91f00d54-6b08-4b32-8422-0844dc921f71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4f",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties negatieve getallen ordenen, optellen en aftrekken.",
+		"id": "d4a37797-70f6-4fde-9f4c-c426383aa1e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4f",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties negatieve getallen ordenen, optellen en aftrekken, vermenigvuldigen en delen.",
+		"id": "a34ac793-fd40-4f09-aaeb-4b6fe215f197",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4f",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: negatieve getallen ordenen, optellen, aftrekken, vermenigvuldigen en delen.",
+		"id": "e6ddcb0b-73e9-4a25-b4a9-789495164bfb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4g",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: hoofdbewerkingen in de afgesproken volgorde toepassen.",
+		"id": "977feaa4-408e-4f7f-a9ce-f5efabe293c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/5/7.4h",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		],
+		"title": "De kandidaat kan basistechnieken gebruiken: bij het berekenen en bij het vermelden van resultaten gebruik maken van de wetenschappelijke notatie.",
+		"id": "20cd39ba-8aab-4bba-af6f-7cf76a71eef8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.1a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: vlakke tekeningen van ruimtelijke situaties interpreteren en bewerken, zoals foto’s, plattegronden, patroontekeningen, landkaarten, bouwtekeningen. Daarbij kan de kandidaat onder andere gebruik maken van kijklijnen, aanzichten, uitslagen, doorsneden, projecties, plattegronden.",
+		"id": "0291c68e-1745-4ffd-8972-cf374b13976f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.1b",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: - met woorden; - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol\r\n- met coördinaten, alleen in het platte vlak; - met behulp van richting of hoek en afstand.",
+		"id": "3b8cf645-b24f-45f3-b186-7bae02897bdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.1c",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: ruimtelijke voorstellingen, al dan niet op schaal, weergeven al dan niet met concreet materiaal.",
+		"id": "cbb69417-e2ac-41ba-ba6e-49903e5a9035",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.1d",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: uit de hierboven genoemde voorstellingen en beschrijvingen conclusies trekken over de bijbehorende objecten en hun plaats in de ruimte.",
+		"id": "84ebfd67-5080-477a-918b-4f9575cdc655",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: schattingen en metingen doen van hoeken, lengten en oppervlakten van objecten in de ruimte.",
+		"id": "6d6d6576-b553-45f9-a461-545d39d3ff38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: lengten in vlakke en ruimtelijke figuren berekenen met behulp van schaal.",
+		"id": "7680f55e-2f34-4771-9c2a-4a21e47da1a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: oppervlakte en omtrek berekenen van driehoek, rechthoek en figuren die daaruit samengesteld zijn, zoals een parallellogram.",
+		"id": "a272d4d2-0004-4d70-9eac-bdada7b81e8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: omtrek en oppervlakte van een cirkel berekenen met behulp van gegeven woordformules.",
+		"id": "3df51dbd-9ca9-4ffd-bbaf-c79d213a7e70",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: inhoud van kubus en balk berekenen.",
+		"id": "fd2d7b13-ae57-4fb4-830d-e106a1d10562",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: inhoud van ruimtelijke figuren berekenen met behulp van gegeven, simpele, woordformules.",
+		"id": "03807965-d25f-41ee-b489-3d31f715cd24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.3a",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder:\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - regelmatige patronen, - eigenschappen van hoeken.",
+		"id": "a9d755c1-e60f-4c16-8121-28775856ba31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/8.3b",
+		"examenprogramma_eindterm_id": [
+			"c8477483-78ba-4cea-8778-354c534e8dc2"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: gebruik maken van instrumenten en apparaten, in het bijzonder: liniaal, gradenboog, rechthoekige driehoek, passer, zelfgemaakt gereedschap, rekenmachine en computer.",
+		"id": "d5e860da-5544-46c1-81e6-ed1b0af4b0df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.1a",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: vlakke tekeningen van ruimtelijke situaties interpreteren en bewerken, zoals foto’s, plattegronden, patroontekeningen, landkaarten, bouwtekeningen. Daarbij kan de kandidaat onder andere gebruik maken van kijklijnen, aanzichten, uitslagen, doorsneden, projecties, plattegronden.",
+		"id": "0116f7c4-2d36-420d-b098-2591c9ec38f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.1b",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: \r\n- met woorden, - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol, - met coördinaten, zowel in het platte vlak als in de ruimte, - met behulp van richting of hoek en afstand.",
+		"id": "1a3f21e4-5d30-4732-8f94-38f1ff743dbc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.1c",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: ruimtelijke voorstellingen, al dan niet op schaal, weergeven al dan niet met concreet materiaal.",
+		"id": "aeae341a-f051-415e-b9d5-ec98bded7918",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.1d",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: uit de hierboven genoemde voorstellingen en beschrijvingen conclusies trekken over de bijbehorende objecten en hun plaats in de ruimte.",
+		"id": "bfd5165f-df8e-4728-a5cf-30c517ce16e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2a",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: schattingen en metingen doen van hoeken, lengten, oppervlakten en inhouden van objecten in de ruimte.",
+		"id": "b9a9cbff-9981-4dd5-8c8d-b78c814f0d99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2b",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: lengten in vlakke en ruimtelijke figuren berekenen met behulp van schaal.",
+		"id": "fc73bdeb-e3b8-4303-9152-2fc0b1f8889b",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2b",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: grootte van hoeken en afstanden in 2- en 3-dimensionale figuren berekenen.",
+		"id": "e5036ca9-1896-453e-a41b-bc4584887139",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2c",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: oppervlakte en omtrek berekenen van driehoek, rechthoek en figuren die daaruit samengesteld zijn, zoals een parallellogram.",
+		"id": "63b334cd-a74c-48a7-a234-863bddc8fbf2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2d",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: omtrek en oppervlakte van een cirkel berekenen met behulp van gegeven (woord)formules.",
+		"id": "5ddeb6e7-6278-4024-a711-6270f179b2ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2e",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: inhoud van kubus en balk berekenen.",
+		"id": "f1902aa4-cc4a-466e-a9db-5e1e8d327e36",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2f",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: inhoud van prisma, kegel, piramide, bol en cilinder berekenen met behulp van gegeven (woord)formules.",
+		"id": "600a0f18-a496-497c-98ac-34688c784d52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.2f",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: inhoud van prisma, kegel, piramide, bol en cilinder berekenen met behulp van gegeven formules.",
+		"id": "6543d388-2f9d-4f4d-bdad-581b757581ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.3a",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"id": "a4b5a325-d438-45a3-b265-d07f7a58f8e1",
+		"unreleased": true
+	},
+	{
+		"description": "Verrijkingsdeel",
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.3a",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"id": "4790ffbd-8d19-4b9a-8f33-9ce05cc90bd4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/K/6/9.3b",
+		"examenprogramma_eindterm_id": [
+			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: gebruik maken van instrumenten en apparaten, in het bijzonder: liniaal, gradenboog, rechthoekige driehoek, passer, zelfgemaakt gereedschap, rekenmachine en computer.",
+		"id": "7485ea8e-9394-4913-a33f-790c1131d317",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.1",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: lineair verband en de algebraïsche weergave voor de horizontale lijn y = a en de verticale lijn x = a - de parameters e en b herkennen als steilheid, respectievelijk verticale verschuiving",
+		"id": "983182dc-b528-4991-a870-3b7972acb6d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.2",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een formule van de vorm y = b gt herkennen en gebruiken",
+		"id": "dac8a3c5-3073-4c8c-824d-cba8ab621e71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.3",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende tabel herkennen, opstellen en interpreteren",
+		"id": "e1347ea9-8bd1-4f1d-8a50-f4d143f7b16d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.4",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een bijbehorende grafiek tekenen en interpreteren",
+		"id": "8f5488fb-cda4-42f0-9776-ab4075b4d28a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.5",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: de parameters g en b herkennen als groeifactor, respectievelijk beginwaarde",
+		"id": "01b3a64a-de4c-4caf-b1ff-5b3d41c2feb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.6",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: de begrippen verdubbelingstijd en halveringstijd gebruiken.",
+		"id": "702bac37-f022-4bfd-b8e3-f316886aa3af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.7",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: exponentiële verbanden herkennen en gebruiken: een rente op rente berekening maken.",
+		"id": "68451a0d-0697-4621-91e7-21e4eef9b332",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.8",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a xn waarbij n een positief en geheel getal is herkennen en gebruiken: een bijbehorende tabel opstellen.",
+		"id": "9c4ca398-fe0c-41d5-9275-e6843489d1cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.9",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a x^n waarbij n een positief en geheel getal is herkennen en gebruiken: som en verschilverbanden interpreteren.",
+		"id": "48a2476b-f1a5-4a58-bbab-db8e44cfd174",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.10",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: eenvoudige machtsverbanden van de vorm y = a x^n waarbij n een positief en geheel getal is herkennen en gebruiken: een grafiek van de vorm y = a x^n + b tekenen.",
+		"id": "fdb6cf84-f997-480c-a509-c03a01dda0b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.11",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan de volgende verbanden kennen, herkennen en gebruiken: periodieke verband herkennen en gebruiken: de begrippen amplitude, periode en frequentie herkennen en gebruiken.",
+		"id": "60a3623c-3945-4816-bb6e-ee7745ae7d43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.12",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan rekenen met formules: in een formule of vuistregel een variabele vervangen door een expressie.",
+		"id": "57ee541f-6472-446e-9b24-c75c04a3bfb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.13",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan rekenen met formules: in een formule of vuistregel een expressie vervangen door een variabele.",
+		"id": "593aecc0-5ad0-495d-a113-362d32ba2669",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.14",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan een rekenmachine gebruiken: wetenschappelijke notatie kennen en gebruiken bij vermenigvuldigen met en delen door machten van 10.",
+		"id": "fbbaae39-b7ef-4c8b-a8ee-bce62836c979",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.15",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan schatten, meten en berekenen: grootte van hoeken en afstanden in 2- en 3-dimensionale figuren berekenen.",
+		"id": "bd5bcd41-4d36-4c1e-955a-9855f5ec8231",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "WI/V/12.16",
+		"examenprogramma_eindterm_id": [
+			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
+		],
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"id": "609c2e54-f2b9-4f9c-93e0-55819bfa9503",
+		"unreleased": true
 	}
 ]
