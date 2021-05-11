@@ -4841,11 +4841,11 @@
 		"title": "De leerling kan kaarten zoeken en de juiste kaart kiezen door de geografische informatiewaarde en cartografische geschiktheid van de kaart te beoordelen. Bij het beoordelen van de cartografische geschiktheid betrekt de leerling de projectie, schaal en de mate en wijze van generalisatie en symbolisatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"examenprogramma_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "9cead215-9642-4f41-9cab-dec0d4a65fec",
@@ -4853,11 +4853,11 @@
 		"title": "De leerling kan elementen in de kaart identificeren en benoemen, en de kenmerken van de elementen beschrijven. De leerling kan ook de kaarten bevragen: hij kan zoeken welke kenmerken bepaalde elementen bezitten en welke elementen bepaalde kenmerken bezitten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"examenprogramma_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
@@ -4865,11 +4865,11 @@
 		"title": "De leerling kan patronen (spreidingen en geledingen) in de kaart herkennen en beschrijven, en kan correlaties tussen twee patronen herkennen en beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"examenprogramma_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "2bcf086c-c39d-4dde-a36b-d411d8ae281d",
@@ -4877,20 +4877,23 @@
 		"title": "De leerling kan verklaringen geven voor de kenmerken en patronen van elementen en de aanwezigheid van correlaties, en kan voorspellingen doen voor veranderingen in de kenmerken en patronen van elementen. Hierbij maakt de leerling gebruik van achtergrondkennis.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"examenprogramma_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "1b9d4ac0-d346-4575-84f3-0530244248b0",
 		"prefix": "A1.1a.1e",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal - kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen - kiest de leerling voor een geschikte klassenindeling - kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd - kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. De keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
@@ -5542,9 +5545,11 @@
 		"prefix": "C2.7a.1",
 		"title": "De kandidaat kan de endogene krachten die samenhangen met de platentektoniek beschrijven en verklaren.",
 		"ce_se": "CE",
-		"examenprogramma_id": [
-			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
-		]
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"8449c9ce-f8ca-49eb-9c4b-a3468b663dd1"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e81a3043-a7e7-4520-8d74-a902e222eb0f",
@@ -25772,5 +25777,41 @@
 		"title": "De kandidaat kan een éénpuntsperspectieftekening en een tweepuntsperspectieftekening maken van een veelhoek.",
 		"id": "8ec7dbda-ec7e-4b81-93d6-7b726949f747",
 		"unreleased": true
+	},
+	{
+		"id": "f3db6c3a-b989-4c79-b308-521ad185218b",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		]
+	},
+	{
+		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor een geschikte klassenindeling.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		]
+	},
+	{
+		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		]
+	},
+	{
+		"id": "4fef2d14-596a-4eba-a392-c0df3e26ce7a",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.  ",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		]
 	}
 ]
