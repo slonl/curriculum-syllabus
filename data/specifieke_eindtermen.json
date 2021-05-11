@@ -25813,5 +25813,2915 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.1",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologisch bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden in: foldermateriaal, studieboeken, naslagwerken, cd-rom/internet, bijsluiters, kranten/tijdschriften",
+		"id": "82d902e5-0c33-413f-86a3-0b19a83315f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.2a",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan uit biologisch bronnenmateriaal verwerven, selecteren, verwerken en bewerken:  tabellenboek, gegevensbank, gebruiksaanwijzing",
+		"id": "b970dbb7-159c-4b4f-9fba-12d7a1f283c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.2b",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan uit biologisch bronnenmateriaal verwerven, selecteren, verwerken en bewerken:  tekeningen, schema's diagrammen, tabellen, beeldmateriaal",
+		"id": "06cada1c-133d-425d-9d55-f1cfa96b9946",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.3a",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eigen gedachten mondeling en schriftelijk formuleren over biologische onderwerpen: vaktaal funtioneel gebruiken",
+		"id": "3d1b9117-88d5-4a95-82c8-a1c37d184068",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.3b",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eigen gedachten mondeling en schriftelijk formuleren over biologische onderwerpen: relaties leggen tussen vakinhoudelijke begrippen en contexten waarin deze begrippen functioneel zijn",
+		"id": "0b6a56ae-9248-418f-9be1-87ecf49af419",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.4a",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen biologie toepassen: schatten en afronden",
+		"id": "2f77f362-735a-4242-bc99-53de53ea37b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.4b",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen biologie toepassen: efficiënt rekenen",
+		"id": "48b4674f-5208-43d3-9889-3e10be91181c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.4c/1",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen biologie toepassen: rekenregels gebruiken: verhoudingstabllen",
+		"id": "52aa7125-df03-40d6-9e5c-a5dc80fc4b4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.4c/2",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan basisrekenvaardigheden binnen biologie toepassen: rekenregels gebruiken: decimale getallen, verhoudingstabllen, eenvoudige brueken en percentages",
+		"id": "f5507bec-875d-4c65-9abf-bc4492544a68",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.5",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan rekenen met grootheden en eenheden: eenheid bij gemeten of berekende grootheid aangeven",
+		"id": "b43da9f6-9bbd-4953-8586-53e7f0de50cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.6",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan veilig, zinvol en doelmatig gebruikmaken van stoffen, materialen, organismen, (meet)instrumenten, apparaten en software, zonder schade te berokkenen aan organismen en milieu",
+		"id": "5d0ce005-a394-4e98-8028-ca9d18bad609",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7a",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: onjuiste denkbeelden bijstellen of vervangen",
+		"id": "1b70dd99-5608-4cbb-8106-136243798e78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7b",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: verbanden leggen tussen begrippen",
+		"id": "bc2db7c4-ff5f-4c43-a1c7-ec5710f3769c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7c",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: leren door te doen",
+		"id": "d08efca3-5c06-4811-b58a-cba8faaa31c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7d",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: leren door te ontdekken",
+		"id": "a462ab3e-5a10-4fd7-aead-595e4c1c4a73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7e",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: multicausale verbanden herkennen",
+		"id": "a7eae2f0-c15d-4963-9696-af9811ce06f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7f",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: verschillende organisatieniveaus: cel, weefsel, orgaan, orgaanstelsel, organisme, ecosysteem",
+		"id": "6c5facdd-9ac0-4d63-b8b7-3702200bfef1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.7g",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan biologische begripskennis opbouwen, uitgaande van aanwezige denkbeelden: een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken.",
+		"id": "739f4c4a-87ea-4bf8-ad14-c2a451760074",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.8",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan specifieke hulpmiddelen gebruiken zoals loep, microscoop, indicatoren (jodium en kalkwater) en determineertabel en determineerkaart",
+		"id": "9fda4b9f-1907-4c67-b89c-f8841a8836ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9a",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: bij een biologisch schoolpracticum en/of veldpracticum",
+		"id": "4000ba4a-331a-4dbd-820e-91960005a0ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9b",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: een biologische probleemstelling herkennen en specificeren",
+		"id": "9ae25370-07da-4dd8-935d-aa01602cf7e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9c",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: een biologisch probleem herleiden tot een onderzoeksvraag",
+		"id": "76df5d53-c7dd-4859-9414-6e40f959d8e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9d",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: verwachtingen formuleren",
+		"id": "7c78b39b-e6af-4a8d-8366-0e77397de466",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9e",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: relevante waarnemingen verrichten en gegevens verzamelen",
+		"id": "136a4818-9e4b-46b1-80bb-cb09ce4401df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9f",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: conclusies trekken op grond van verzamelde gegevens",
+		"id": "712d506e-1326-40b8-b605-876d6c6246e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.9g",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan eenvoudige opdrachten en eenvoudig onderzoek waarin de actieve en praktische zelfwerkzaamheid op de voorgrond staat, voorbereiden, uitvoeren en de resultaten vastleggen en evalueren: oplossing, onderzoek en conclusies evalueren.",
+		"id": "57321aa5-e0c3-46b6-9c83-34dd519eec43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.10",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan gegevens verwerken in een verslaggeving naar aanleiding van een bezoek aan een instelling waar levensprocessen een belangrijke rol spelen",
+		"id": "3f3d5701-546d-4de8-ada2-419f2fb341e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.11",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan een studie van een zelf gekozen biologisch onderwerp uitvoeren en in een verslaggeving verwerken",
+		"id": "9307d1b6-c567-44b4-9732-5f295c513933",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/3/3.12",
+		"examenprogramma_eindterm_id": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"title": "De kandidaat kan ICT-hulpmiddelen en gangbare software gebruiken om te schrijven, te rekenen, informatie te verzamelen, te bewerken en te presenteren en toetsen te maken",
+		"id": "3a904707-36cb-47af-9c99-6046e821511d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.1",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan levenskenmerken noemen: \r\n- stofwisseling (ademhaling, voeding, uitscheiding), groei (ontwikkeling), voortplanting, reageren op prikkels (beweging)",
+		"id": "010ae85b-01b9-44c6-a173-4e0d2839525f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.2",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan delen waaruit een cel is opgebouwd en delen waardoor een cel kan zijn omgeven, benoemen en in afbeeldingen of in modellen aanwijzen en van deze delen de functie(s) beschrijven:\r\n- celkern, cytoplasma, celmembraa, vacuole, bladgroenkorrels, celwand",
+		"id": "59f8fd7e-3c8d-4abf-a5f1-e43336fc83f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.3a",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën noemen: \r\n- verschillen in bouw met betrekking tot de aanwezigheid van een kern, de aanwezigheid van bladgroenkorrels, de aanwezigheid van een celwand",
+		"id": "cee01c4a-5582-4694-8d2e-d6f83d247b72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.3b",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën noemen: \r\n- overeenkomsten in de bouw met betrekking tot celmembraan en cytoplasma",
+		"id": "8d3825cc-62c6-488f-8d6f-e1e5f2908713",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.4",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan beschrijven wat de stofwisselingsprocessen, verbranding en fotosynthese voor betekenis hebben voor de instandhouding van een organisme en wat de correlatie ervan is met de stoffen die een organisme in- en uitgaan",
+		"id": "28a828e2-5af8-4fdc-80a9-8e9e6e3c5375",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.5a",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- de aanwezigheid van weefsels en organen bij meercellige organismen",
+		"id": "015a73eb-c6a5-4f7d-8347-d857ebc65c5f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.5b",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- weefsel: een aantal aaneengesloten cellen met gelijke vorm en functie; in veel gevallen is er tussencelstof",
+		"id": "27107a1b-44e4-4766-bcc0-6b031bf5b4e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.5c",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- orgaan: een uit een aantal typen weefsel opgebouwd deel van een organisme met één of meer functies",
+		"id": "383b9e77-36f4-4b84-b07b-dc2b2b324fba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.5d",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- orgaanstelsel: een uit een aantal organen opgebouwd deel van een organisme met één of meer functies (verteringsselsel, bloedvatenstelsel, geraamte/bottenstelse, zenuwstelsel, zintuigenstelsel, voortplantingsstelsel, ademhalingsstelsel, spierstelsel, hormoonstelsel, uitscheidingsstelsel)",
+		"id": "0cdfc717-b60d-4476-aace-5374e01fd2f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/4.6",
+		"examenprogramma_eindterm_id": [
+			"1659d249-5043-4b8f-8f92-3dcc17ffde15"
+		],
+		"title": "De kandidaat kan toelichten dat een organisme als een geheel beschouwd kan worden waarbij voor instandhouding en gezondheid van het organisme processen in onderlinge samenhang plaatsvinden:\r\n- voedsleopname, gasisseling, tranpsort, uitscheiding, stofwisseling in relatie tot energiegebruik, groei en vervanging",
+		"id": "f90d4e7a-f8c7-4074-8387-71cf0c9888bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.1",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan levenskenmerken noemen en toelichten: \r\n- stofwisseling (ademhaling, voeding, uitscheiding), groei (ontwikkeling), voortplanting, reageren op prikkels (beweging)",
+		"id": "868dbeb1-ad03-4dda-9bc3-96a6f7489107",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.2",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan delen waaruit een cel is opgebouwd en delen waardoor een cel kan zijn omgeven, benoemen en in afbeeldingen of in modellen aanwijzen en van deze delen de functie(s) beschrijven:\r\n- celkern, cytoplasma, celmembraan, vacuole, bladgroenkorrels, zetmeelkorrels, kleurstofkorrels, celwand",
+		"id": "9f87d56e-e855-499d-8790-3790c48d6eef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.3a",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën noemen: \r\n- verschillen in bouw met betrekking tot de aanwezigheid van een kern, de aanwezigheid van bladgroenkorrels, de aanwezigheid van een celwand, relatieve grootte",
+		"id": "0aa352fa-4da4-4033-be50-87d611a0c2ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.3b",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan kenmerkende eigenschappen van cellen van dieren, planten, schimmels en bacteriën noemen: \r\n- overeenkomsten in de bouw met betrekking tot celmembraan en cytoplasma",
+		"id": "5541a291-5dc9-41d2-b14f-8edbc482066b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.4",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan beschrijven wat de stofwisselingsprocessen, verbranding en fotosynthese voor betekenis hebben voor de instandhouding van een organisme en wat de correlatie ervan is met de stoffen die een organisme in- en uitgaan",
+		"id": "8649ca73-3d1c-4606-9afc-98182dd31388",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.5a",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- de aanwezigheid van weefsels en organen bij meercellige organismen",
+		"id": "f19668e8-389c-497c-8116-a7b442b79169",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.5b",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- weefsel: een aantal aaneengesloten cellen met gelijke vorm en functie; in veel gevallen is er tussencelstof",
+		"id": "30565dc5-7954-4c90-94a9-38bf555b8a85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.5c",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: \r\n- orgaan: een uit een aantal typen weefsel opgebouwd deel van een organisme met één of meer functies",
+		"id": "a1ea1a6a-d566-4685-be2c-0cd0d72c8c29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.5d",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan delen waaruit een weefsel, orgaan of orgaanstelsel is opgebouwd benoemen en in afbeeldingen of modellen aanwijzen en functie(s) van deze delen beschrijven: - orgaanstelsel: een uit een aantal organen opgebouwd deel van een organisme met één of meer functies (verteringsselsel, bloedvatenstelsel, geraamte/bottenstelse, zenuwstelsel, zintuigenstelsel, voortplantingsstelsel, ademhalingsstelsel, spierstelsel, hormoonstelsel, uitscheidingsstelsel)",
+		"id": "12ddadda-f641-4108-9672-b8d9d1992839",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BIO/K/4/5.6",
+		"examenprogramma_eindterm_id": [
+			"4df5d02c-779c-485b-aded-f22483097653"
+		],
+		"title": "De kandidaat kan toelichten dat een organisme als een geheel beschouwd kan worden waarbij voor instandhouding en gezondheid van het organisme processen in onderlinge samenhang plaatsvinden:\r\n- voedsleopname, gasisseling, tranpsort, uitscheiding, stofwisseling in relatie tot energiegebruik, groei en vervanging",
+		"id": "852d1d22-31d9-4283-9871-b20d2686609d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.1",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan via determineren de naam opzoeken van organismen",
+		"id": "9cdfe75e-de51-402c-be62-360dafa51bf6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2a",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– aanpassing aan droge, natte, hete en koude omstandigheden",
+		"id": "34e36461-c6c1-4374-ac54-17234fa8d670",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2b",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– kenmerken van bloemen met windbestuiving en van bloemen met insectenbestuiving,\r\nmet name:\r\n- verschillen in vorm en kleur, geur, aanwezigheid van nectar en de aanwezigheid en plakkerigheid van stuifmeel\r\n- vorm van de meeldraden en stampers",
+		"id": "6f1d2ae4-d43b-467e-a1d2-698a8ff20eb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2c",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– de organen via welke zuurstof wordt opgenomen en koolstofdioxide wordt afgegeven bij dieren, met name:\r\n- tracheeën bij insecten\r\n- kieuwen bij vissen\r\n- longen, kieuwen en huid bij amfibieën\r\n- longen bij reptielen, vogels en zoogdieren",
+		"id": "d9f68a55-4d82-44c0-bdcd-272b972bba20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2d",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– de poten van teengangers, hoefgangers en zoolgangers",
+		"id": "530f1ba2-1756-4b89-b546-af11d1041cf0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2e",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– de functie van zwemvliezen bij watervogels, de functie van lange poten en gedeeltelijke zwemvliezen bij steltlopers en de functie van klauwen bij roofvogels",
+		"id": "c1f07281-0869-4df5-921f-59fd428f47a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2f",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– bij zoogdieren de vorm en de functie van plooikiezen (bij planteneters), knipkiezen (bij vleeseters) en knobbelkiezen (bij alleseters)",
+		"id": "505748fc-b002-4d0d-b6c2-27ca44de0be5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2g",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– bij planten- en vleeseters de relatie tussen het soort voedsel en de lengte van het darmkanaal",
+		"id": "37c5eab4-1c73-44df-abed-effe4736ae02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.2h",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan verbanden aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n– de functie van bepaalde snavelvormen, met name:\r\n- een puntige snavel bij insectenetende vogels\r\n- een kegelvormige snavel bij zaadetende vogels\r\n- een haakvormige snavel bij roofvogels",
+		"id": "c2e61c9d-1926-4193-a0a7-06de8a6b1d88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3a",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– stengels: transport via houtvaten en bastvaten en stevigheid",
+		"id": "df27dcb9-e4ba-4643-9f90-fed53d09ca08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3b",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– bladeren met huidmondjes: fotosynthese",
+		"id": "92102394-b105-4844-a48d-33625c300e08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3c",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– opname en afgifte van koolstofdioxide en zuurstof, verdamping van water",
+		"id": "c71cac09-b282-4258-b82b-648da0099705",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3d",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– wortels: bevestiging in de bodem, opname van water en mineralen (voedingszouten) met behulp van wortelharen, opslag van vooral zetmeel als reservestof",
+		"id": "4a08b7ad-c364-41c9-a105-85f424e25e2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3e",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– bloemen met kelkbladeren, kroonbladeren, meeldraden, stamper(s) (met vruchtbeginsel): voortplanting",
+		"id": "afe86e8c-2af5-4b36-879e-b0d9055502e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3f",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– vrucht met een of meer zaden: geslachtelijke voortplanting",
+		"id": "367b6bcf-0086-4129-9825-332a721951ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3g",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– een zaad bestaat uit een zaadhuid, kiempje en reservestoffen",
+		"id": "45faf5b2-81bf-45c8-95b4-37303e9b7167",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3h",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– bollen met rokken: ongeslachtelijke voortplanting en opslag van reservestoffen",
+		"id": "2753a1c4-a6f8-40f0-8f35-dbf35ca72bad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3i",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– knollen: ongeslachtelijke voortplanting en opslag van reservestoffen",
+		"id": "ad865308-b100-44fd-834a-2ff486b88a4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.3j",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n– alle genoemde delen kunnen voedingsmiddelen voor de mens leveren",
+		"id": "b34b0067-5b06-4e00-bf20-a938b08d87e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.5a",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan noemen welke relaties er zijn tussen organismen bij de energiestromen in een  ecosysteem:\r\n– planten- en diersoorten noemen die een voedselketen vormen",
+		"id": "5c111976-503d-4b3e-8b45-46ad12c9cd1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/8.5b",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"title": "De kandidaat kan noemen welke relaties er zijn tussen organismen bij de energiestromen in een  ecosysteem:\r\n– in een beschreven ecosysteem producenten, consumenten en reducenten onderscheiden:\r\n- planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese\r\n- dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere organismen\r\n- dood materiaal in de natuur, wordt door reducenten (zoals schimmels en bacteriën) opgeruimd\r\n- consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor de verbranding en voor de opbouw van het eigen lichaam",
+		"id": "415d7117-2769-4a9e-8433-080b8706fdd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.1",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan via determineren de naam opzoeken van organismen en verwoorden dat aan het onderling verschillen van soorten erfelijke factoren ten grondslag liggen",
+		"id": "41fd3b7d-266f-4638-b9f3-119989a875e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2a",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- aanpassing aan droge, natte, hete en koude omstandigheden",
+		"id": "23f9d7ed-3822-4214-a029-7c69e03aae0d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2b",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- kenmerken van bloemen met windbestuiving en van bloemen met insectenbestuiving, met name verschillen in vorm en kleur, geur, aanwezighed van nectar en de aanwezigheid en plakkerigheid van stuifmeel; vorm van de meeldraden en stampers",
+		"id": "ddcd4f8a-ca95-4162-93cf-7c21520df8ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2c",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- klimplanten, voorjaarsbloeiers, rozetvormende planten, waterplanten met drijvende bladeren",
+		"id": "f53d3131-2045-4a4b-b0e5-ebe2e21a17d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2d",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- de organen via welke zuurstof wordt opgenomen en koolstofdioxide wordt afgegeven bij dieren, met name tracheeën bij insecten, kieuwen bij vissen, longen, kieuwen en huis bij amfibieën, longen bij reptielen, vogels en zoogdieren",
+		"id": "98e9eff6-b032-4476-b40e-3afafe7fb473",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2e",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- de poten van teengangers, hoefgangers en zoolgangers",
+		"id": "515e53a1-7270-4eeb-bdc9-7c949ba369b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2f",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- de functie van zwemvliezen bij watervogels, de functie van lange poten en gedeeltelijke zemvliezen bij steltlopers en de functie van klauwen bij roofvogels",
+		"id": "252aa034-da0c-47eb-8928-95fbbdc7b6ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2g",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- bij zoogdieren de vorm en de functie van plooikiezen (bij planteneters), knipkiezen (bij vleeseters) en knobbelkiezen (bij alleseters)",
+		"id": "3932c129-4b81-4b42-8e0b-44ec891c70ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2h",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- bij planten- en vleeseters de relatie tussen het soort voedsel en de lengte van het darmkanaal",
+		"id": "9232724f-3a3f-4c38-9a12-587a3fbea30f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2i",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- de functie van bepaalde snavelvormen, met name een puntige snavel bij insectenetende vogels, een kegelvormige snavel bij zaadetende vogels, een haakvormige snavel bij roofvogels",
+		"id": "004a63ae-ef7e-4fd6-a950-cb4c9030fed2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.2j",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan aangeven tussen vorm, bouw en leefwijze van organismen en de omgeving waarin deze organismen leven, en aangeven hoe planten en dieren zijn aangepast aan hun leefomgeving:\r\n- verschillen tussen individuen van een soort kunnen het gevolg zijn van verschillen in erfelijke aanleg en/ of verschillen in milieufactoren waaraan die individuen hebben blootgestaan.",
+		"id": "e317e66f-4ea9-441a-bf25-1aca231881c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3a",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- stengels: transport via houtvaten en bastvaten en stevigheid",
+		"id": "e32e637a-46af-4d18-87e8-0061da579e94",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3b",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- bladeren met huidmondjes: fotosynthese",
+		"id": "b5f667af-9d33-46f5-9895-6d96d33ccd0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3c",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- opname en afgifte van koolstofdioxide en zuurstof, verdamping van water",
+		"id": "1d502e92-0810-429c-8011-ebee128706fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3d",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- wortels: bevestiging in de bodem, opname van water en mineralen (voedingszouten) met behulp van wortelharen, opslag van vooral zetmeel als reservestof",
+		"id": "1e63839a-48c2-4245-ba44-4ba2c0d4e287",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3e",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- bloemen met kelkbladeren, kroonbladeren, meeldraden (met helmdraden en helmknoppen), stamper(s) (met stempel(s), stijl, vruchtbeginsel en zaadbeginsel(s)): voortplanting",
+		"id": "2a00e330-b715-456c-9ae6-7c719faf30d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3f",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- vrucht met een of meer zaden: geslachtelijke voortplanting",
+		"id": "1017582b-4597-495b-86da-fe734e6c6b0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3g",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- een zaad bestaat uit een zaadhuid, kiempje en reservestoffen vooral eiwitten, vetten en zetmeel, en manieren van zaadverspreiding (m.b.v. wind, dieren, \"wegschieten\")",
+		"id": "d1324a14-2558-4e09-801d-85fd541f425e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3h",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- bollen met rokken: ongeslachtelijke voortplanting en opslag van reservestoffen",
+		"id": "df115b4c-94a2-4c58-addd-9882ebb60aaf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3i",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- knollen: ongeslachtelijke voortplanting en opslag van reservestoffen",
+		"id": "8d22136b-b075-441c-8a9c-1c72e1dacb1e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.3j",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan delen waaruit zaadplanten zijn opgebouwd benoemen, hun functie(s) beschrijven en aangeven welke delen van planten voedingsmiddelen en/of grondstoffen leveren voor de mens:\r\n- alle genoemde delen kunnen voedingsmiddelen voor de mens leveren",
+		"id": "c5de760e-d7e3-40fb-b7ff-cc0e969fc73e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4a",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- weefsels met onder andere fotosynthese en opslag",
+		"id": "7110ac08-b9f3-46ea-bb74-c1ffa26b7ac4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4b",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- vaatbundels met houtvaten (transport van water en mineralen/voedingszouten) en met bastvaten (transport van water en energierijke stoffen)",
+		"id": "2dd2742d-55e1-4543-8d46-7768e61ca158",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4c",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- opperhuid van stengels en bladeren met huidmondjes voor opname en afgifte van gassen en een waslaagje voor bescherming tegen uitdroging en beschadiging",
+		"id": "e2688841-8491-49db-aa87-c62fb3006fad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4d",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- openen van huidmondjes in het licht en sluiten in het donker",
+		"id": "66d082b1-949d-40d6-aaab-22b25ff8e94f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4e",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- openen en sluiten van huidmondjes in relatie tot opname en afgifte van water door planten",
+		"id": "118dbf09-6804-4172-8451-97996aa3945e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.4f",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan enkele typen weefsel(s) van planten met functie(s) en bouw beschrijven:\r\n- opperhuid van wortels met wortelharen: opname van water en mineralen (voedingszouten)",
+		"id": "0ead6440-84a8-435c-a252-e96d2c480b27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.5a.1",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen organismen bij de energiestromen in een ecosysteem:\r\n– planten- en diersoorten noemen die een voedselketen/voedselweb of een piramide van biomassa/aantallen vormen",
+		"id": "db083327-d304-4c69-87cd-1cadbb4b1d19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.5b.1",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen organismen bij de energiestromen in een ecosysteem:\r\n– in een beschreven ecosysteem producenten, consumenten en reducenten onderscheiden:\r\n- planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese\r\n- dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere organismen\r\n- dood materiaal in de natuur, onverteerde delen, afvalstoffen en restanten van planten en dieren, wordt door reducenten (zoals schimmels en bacteriën) opgeruimd /omgezet in koolstofdioxide, water en zouten, die planten kunnen opnemen;\r\n- de koolstofkringloop\r\n- consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor de verbranding en voor de opbouw van het eigen lichaam\r\n- bij het in stand houden van een organisme gaat energie verloren in afvalproducten en door verlies van warmte",
+		"id": "f66d784f-beca-4309-951e-820c373a261e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.5a.2",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen organismen bij de energiestromen in een ecosysteem:\r\n– planten- en diersoorten noemen die een voedselketen/voedselweb of een piramide van biomassa/aantallen vormen",
+		"id": "44e188b0-50f2-4d86-9fc7-8999b85724c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.5b.2",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan uitleggen wat een ecosysteem is en uitleggen/noemen welke relaties er zijn tussen organismen bij de energiestromen in een ecosysteem:\r\n– in een beschreven ecosysteem producenten, consumenten en reducenten onderscheiden:\r\n- planten zijn producenten die zelf energierijke stoffen maken d.m.v. fotosynthese\r\n- dieren zijn consumenten die voor hun voedsel afhankelijk zijn van andere organismen\r\n- dood materiaal in de natuur, onverteerde delen, afvalstoffen en restanten van planten en dieren, wordt door reducenten (zoals schimmels en bacteriën) opgeruimd /omgezet in koolstofdioxide, water en zouten, die planten kunnen opnemen\r\n- de koolstofkringloop\r\n- de stikstofkringloop\r\n- consumenten en reducenten gebruiken de energierijke stoffen uit hun voedsel voor de verbranding en voor de opbouw van het eigen lichaam\r\n- bij het in stand houden van een organisme gaat energie verloren in afvalproducten en door verlies van warmte",
+		"id": "5e758cf5-37b1-46ad-89b5-3b9c6fb4da06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/6/9.6",
+		"examenprogramma_eindterm_id": [
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"title": "De kandidaat kan in een beschreven ecosysteem biotische en abiotische milieufactoren noemen en toelichten dat individuen en populaties in een ecosysteem afhankelijk zijn van en beïnvloed worden door biotische en abiotische factoren",
+		"id": "134a2e93-bc7b-474b-88c3-e97c895fd7f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.1/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de functie van het verteringsstelsel beschrijven: \r\n- eiwitten, koolhydraten en vetten worden verteerd; stoffen uit het verteringskanaal worden opgenomen in het bloed",
+		"id": "7d4abcb1-08eb-45c6-a68f-e3e4c1176fc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functie(s) van: mond met tong, speekselklieren, tanden en kiezen, slokdarm, maag, twaalfvingerige darm, dunne darm, dikke darm,  endeldarm met anus",
+		"id": "2c7a9130-42cf-4553-a663-7cd0f9ee24ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functies alvleesklier",
+		"id": "6be0ef1a-7a25-4958-9d66-b92c87ebb3b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2c/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- productie van verteringssappen in speekselklieren, maagsapklieren, alvleesklier en dunne darm",
+		"id": "d511a171-b469-471c-8425-9def0cd1ed75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2d/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- speeksel en maagzuur beschermen tegen infecties via het voedsel",
+		"id": "98075f56-452b-4981-81ef-e65702f5ae57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2e/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- functie van darmperistaltiek",
+		"id": "60ba5330-add5-4fb1-b1c5-ef39bb0d2455",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2f/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functies lever, met name:  afbraak van afval- en gifstoffen, productie van gal",
+		"id": "bce2f532-42dd-4ac6-8dff-b512fb29cc29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2g/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functie galblaas: opslag van gal",
+		"id": "d47553d1-c884-469c-a8ef-c4b9201510b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2h/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- de bouw van tanden en kiezen met glazuur, tandbeen, wortel, cement, zenuw, en bloedvaten",
+		"id": "728996b5-62db-4ab1-8bf3-9ba1e7d5f871",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2i/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- tegengaan tandbederf, met name de rol van: speeksel, tandenpoetsen, fluorbehandeling",
+		"id": "6b66a9b3-3108-42da-b2f5-50d00cd0e20c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten: \r\n- op te nemen (groepen van) stoffen: water, eiwitten, vetten, koolhydraten (zetmeel en suikers), mineralen (zouten, met name kalkzouten en ijzerzouten) en vitamines",
+		"id": "9e1fa913-bf13-40c0-8e0d-481479560fe8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten: \r\n- groepen voedingsstoffen worden gebruikt als bouwstoffen, als brandstoffen, als beschermende stoffen en/of als reservestoffen",
+		"id": "b4fe66a6-515d-46e6-802e-e12004e435c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3c/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten: \r\n- met behulp van de schijf van vijf of een voedingsmiddelentabel de kwaliteit/voedingswaarde van verschillende maaltijden vergelijken",
+		"id": "20baeef4-33fa-4229-b2ba-e684bbb30970",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3d/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten: \r\n- invloed van vezels in het voedsel op de darmperistaltiek",
+		"id": "3ceccaea-c6c2-4ef9-93ab-89fa782910bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.4a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol en medicijnen, en bij gebruik van tabak en drugs: \r\n- overgewicht en vermagering als gevolg van over- en ondervoeding",
+		"id": "2afaec50-648e-47dd-8642-52ce01db6a93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.4b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol en medicijnen, en bij gebruik van tabak en drugs: \r\n- energieverbruik hangt af van factoren als activiteit en omgevingstemperatuur",
+		"id": "cc0d4abb-499b-4e8c-92ae-a91e8d72b9d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- aan- en afvoer van stoffen en warmte door bloed",
+		"id": "82c2538b-62a4-426e-9942-16a9ae608890",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- van slagaders, aders en haarvaten: functies; onderscheid naar ligging, bloeddruk, bouw van de wand, aan- of afwezigheid van kleppen en samenstelling van het bloed in deze vaten",
+		"id": "d4f68353-4a5e-46e6-9341-6d1c4eda1ddd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5c/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- naamgeving van aders en slagaders naar of bij bepaalde delen van het lichaam met daarnaast de aorta, holle aders, kransslagaders en kransaders",
+		"id": "096fca45-6757-4f2b-8c90-e3283fce3c1c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5d/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- grote en kleine bloedsomloop",
+		"id": "6e3c9e03-be6a-4040-a446-7671905583f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5e/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- de bouw, ligging, functie en werking van het hart met kamders, boezems en kleppen",
+		"id": "b881ac54-944f-4367-9419-ddf95aa9e833",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5f/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van problemen met de bloedsomloop: \r\n- veel voorkomende oorzaken van hartinfarct en hartritmestoornissen, met name: stress, overgewicht, roken, te grote inspanning, erfelijke aanleg.",
+		"id": "a8483f9e-dbfc-41c0-aaaf-05eb79848e17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- vorm, functies en voorkomen van bloedplasma met onder andere: zuurstof, koolstofdioxide, water, voedingsstoffen en hormonen",
+		"id": "5067d454-771a-4478-bf06-f05370356793",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- vorm, functies en plaats van vorming van rode bloedcellen, witte bloedcellen en bloedplaatjes",
+		"id": "f39c77b9-0795-4ea9-b619-f48b9be0806f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6c/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- transport van stoffen tussen bloed en cellen",
+		"id": "ac111a32-e6c7-4aae-a482-c6ce01dbedac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7a/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- naam, ligging, bouw en functie van delen van het ademhalingsstelsel, met name: mondholte, neusholte en keelholte (met huig en strotklepje); luchtpijp met kraakbeenringen, slijmvlies met trilharen; bronchiën; longblaasjes",
+		"id": "56995550-252f-406e-abff-88eb4e92d6a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7b/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- verschillen tussen borst- en buikademhaling",
+		"id": "5915ace5-e5de-4d35-9dd0-c1feca5671ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7c/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- functie van hoesten",
+		"id": "3673fccb-72fb-48dc-b615-43ac8696b333",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7d/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- voordelen van ademhalen via de neus in vergelijking met ademhalen via de mond",
+		"id": "a2a9944e-fd18-4a03-b810-5a516a1f97e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7e/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- kwaliteit van ingeademde lucht i.v.m. astma, bronchitis, longemfyseem en hooikoorts",
+		"id": "894d6372-b297-464c-8015-99be4e2025d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.8/1",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lever en nieren met urineleiders, urineblaas en urinebuis noemen, in afbeeldingen aanwijzen en de functie ervan noemen: \r\n- nierschors, niermerg, nierbekken",
+		"id": "5bc65046-ec45-4265-9c3d-36cd74e20e92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.1/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de functie van het verteringsstelsel beschrijven: \r\n- voedingsmiddelen worden bewerkt zodat eiwitten, koolhydraten en vetten bereikbaar worden voor enzymen en worden verteerd; stoffen uit het verteringskanaal worden opgenomen in het bloed",
+		"id": "f9499da3-d736-445a-a5c4-09cb24810c03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functie(s) van: mond met tong, speekselklieren, tanden en kiezen, slokdarm, maag, twaalfvingerige darm, dunne darm, dikke darm,  endeldarm met anus",
+		"id": "085d594c-0932-494b-9b87-2bca11bd6509",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functies alvleesklier",
+		"id": "4e845ee4-b4f6-46b7-adbb-b8e57243f1eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- productie en functies van verteringssappen met verteringsenzymen in speekselklieren, maagsapklieren, alvleesklier en dunne darm",
+		"id": "e310f27f-5a70-4bb9-b8dd-8c5afb51421e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2d/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- algemene functie verteringsenzymen",
+		"id": "ea9f90b1-2b03-433a-8891-d12f7e1aa02a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2e/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- speeksel en maagzuur beschermen tegen infecties via het voedsel",
+		"id": "79e1e5b9-7d46-43ad-bb50-9a69b49d3d1e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2f/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- functie van darmperistaltiek",
+		"id": "1ff734f8-a94b-4932-b352-2dd3e28d9310",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2g/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functies lever, met name:  afbraak van afval- en gifstoffen, bewerking van voedingsstoffen, opslag van glycogeen gevormd uit glucose, productie van gal",
+		"id": "72a299fa-e93c-479e-b855-559843402527",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2h/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- ligging en functie galblaas: opslag van gal",
+		"id": "f1f3c147-065a-4063-8467-6086ea26d490",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2i/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- functie gal: met name emulgeren van vetten",
+		"id": "f1cf0aee-1630-4375-987e-aef761e3d813",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2j/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- afvoer van bloed met voedingsstoffen via de poortader naar de lever",
+		"id": "858fe119-1641-4c81-8fca-25fff391ce87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2k/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- de bouw van tanden en kiezen met glazuur, tandbeen, wortel, cement, zenuw, en bloedvaten",
+		"id": "5ac2ea55-7c89-406c-9ee0-cc366b9c236f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.2l/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan de delen van het verteringsstelsel noemen, in afbeeldingen aanwijzen en functie(s) en werking ervan beschrijven: \r\n- tegengaan tandbederf, met name de rol van: speeksel, tandenpoetsen, fluorbehandeling",
+		"id": "dc2ac637-980f-4894-876d-f8607fd0bdcb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten inclusief evenwicht tussen opname en gebruik, verbruik en verlies van stoffen bij een constante lichaamsmassa: \r\n- op te nemen (groepen van) stoffen: water, eiwitten, vetten, koolhydraten (zetmeel en suikers), mineralen (zouten, met name kalkzouten en ijzerzouten) en vitamines",
+		"id": "5dd99705-f361-4e37-9230-607bf425cdb6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten inclusief evenwicht tussen opname en gebruik, verbruik en verlies van stoffen bij een constante lichaamsmassa: \r\n- groepen voedingsstoffen worden gebruikt als bouwstoffen (voor de opbouw van het lichaam), als brandstoffen (voor het vrijmaken van energie), als beschermende stoffen en/of als reservestoffen",
+		"id": "8db30f0b-ae0a-46ea-8c39-8207aa8c70b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten inclusief evenwicht tussen opname en gebruik, verbruik en verlies van stoffen bij een constante lichaamsmassa: \r\n- met behulp van de schijf van vijf of een voedingsmiddelentabel de kwaliteit/voedingswaarde van verschillende maaltijden vergelijken",
+		"id": "1b6e43b2-9ca6-4144-8763-937574bfbe8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.3d/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan voedingsstoffen en hun functie(s) voor het lichaam noemen en de relatie ervan met voedingsadviezen toelichten inclusief evenwicht tussen opname en gebruik, verbruik en verlies van stoffen bij een constante lichaamsmassa: \r\n- invloed van vezels in het voedsel op de darmperistaltiek",
+		"id": "d397f317-fb23-4461-bebe-7649891758ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.4a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol en medicijnen, en bij gebruik van tabak en drugs en hierbij abstracte relaties leggen: \r\n- overgewicht en vermagering als gevolg van over- en ondervoeding",
+		"id": "7740a09e-95aa-4d38-b993-031a39c1f4be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.4b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol en medicijnen, en bij gebruik van tabak en drugs en hierbij abstracte relaties leggen: \r\n- energieverbruik hangt, en opslag of verbruik van reservestoffen hangt eveneens af van factoren als activiteit en omgevingstemperatuur",
+		"id": "015e14a4-3f36-4805-a9e4-9c954c7ca3b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.4c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan uitleggen wat er kan gebeuren bij ondervoeding, bij overmatig gebruik van voedsel, alcohol en medicijnen, en bij gebruik van tabak en drugs en hierbij abstracte relaties leggen: \r\n- grondstofwisseling",
+		"id": "73f9ba9a-eadf-45d9-a818-aa172830adda",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- ligging en functies van lymfevaten, functie van kleppen",
+		"id": "986a2481-bedb-4a84-aadc-9170705c7ccc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- aan- en afvoer van stoffen en warmte door bloed",
+		"id": "8e2ca9fb-59d7-4c9b-a9ff-0cb4ae776bf8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- van slagaders, aders en haarvaten: functies; onderscheid naar ligging, bloeddruk, bouw van de wand, aan- of afwezigheid van kleppen en samenstelling van het bloed in deze vaten",
+		"id": "94fe7806-2e3d-4a69-b2ac-095611989737",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5d/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- naamgeving van aders en slagaders naar of bij bepaalde delen van het lichaam met daarnaast de aorta, poortader, holle aders, kransslagaders en kransaders",
+		"id": "5fd110ce-3883-4865-b1d0-15b3bf712609",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5e/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- grote en kleine bloedsomloop",
+		"id": "83499d7b-5e0b-4cdd-8f59-eb211a112b71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5f/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- de bouw, ligging, functie en werking van het hart met kamers, boezems, hartkleppen en halvemaanvormige (hart)kleppen",
+		"id": "92adb099-2695-467b-aba9-8c575b5f1534",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5g/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- dikte van de wanden van de kamers in relatie tot hun functie",
+		"id": "1b3e6fdc-ff58-4697-914b-51c336bc8b4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5h/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- dikte van de wanden van boezems ten opzichte van de wanden van kamers in relatie tot hun functie",
+		"id": "245de01e-dec3-49be-a9b2-29f4e0083d3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5i/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- principe van verandering van druk in de kamers en slagaders tijdens de hartwerking",
+		"id": "b50f9b14-75ff-4494-aa78-bdb5fc24c75f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5j/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- veel voorkomende oorzaken van hartinfarct en hartritmestoornissen, met name: stress, overgewicht, roken, te grote inspanning, erfelijke aanleg",
+		"id": "e6996819-ec5c-4b30-bbbf-4194c2559645",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.5k/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lymfevaten, bloedvaten en delen van het hart noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven, met inbegrip van enkele macroscopische details en problemen met de bloedsomloop: \r\n- gevolgen van een te hoge en een te lage bloeddruk",
+		"id": "b4d2bb8b-69be-46fa-8cd0-4f77faed8870",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed, lymfe en weefselvloeistof van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- vorm, functies en voorkomen van bloedplasma met onder andere: zuurstof, koolstofdioxide, water, voedingsstoffen en eiwitten zoals antistoffen en hormonen",
+		"id": "d7e06e6c-9555-4cd6-a233-1a0b5f54e2f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed, lymfe en weefselvloeistof van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- vorm, functies en plaats van vorming van rode bloedcellen (met hemoglobine), witte bloedcellen en bloedplaatjes",
+		"id": "1869db75-b88c-40db-bc1d-fe30b4a7d931",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed, lymfe en weefselvloeistof van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- transport van stoffen tussen bloed, weefselvloeistof en cellen",
+		"id": "0e274d86-33b5-402e-ae6f-315f88942035",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.6d/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan van bloed, lymfe en weefselvloeistof van de mens de samenstellende delen noemen en de functie van de delen beschrijven:\r\n- weefselvloeistof stroomt als lymfe in de lymfevaten.",
+		"id": "0b1ba8ef-1dbd-4954-9dbc-30b5681c68d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- naam, ligging, bouw, werking en functie van delen van het ademhalingsstelsel, met name: mondholte, neusholte en keelholte (met huig en strotklepje); luchtpijp met kraakbeenringen, slijmvlies met trilharen; bronchiën; longblaasjes",
+		"id": "d2224a09-eb61-4229-9e4f-a88ff63f245d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- verschillen tussen borst- en buikademhaling/ventilatiebewegingen door veranderingen van borstkas, middenrifspieren, buikspieren en tussenribspieren",
+		"id": "1dbe6adc-c3ed-4260-89f1-34587619e183",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7c/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- functie van hoesten",
+		"id": "5a1e9bf6-5bb7-4dd8-8a5a-5c2bea91f506",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7d/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- voordelen van ademhalen via de neus in vergelijking met ademhalen via de mond",
+		"id": "04c3b7af-4afc-4c8c-aef3-d5b48f894bff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.7e/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan delen van het ademhalingsstelsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- kwaliteit van ingeademde lucht i.v.m. astma, bronchitis, longemfyseem en hooikoorts",
+		"id": "15bd1ec1-f164-4346-a4dd-c935f2341f0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.8a/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lever en nieren met urineleiders, urineblaas en urinebuis noemen, in afbeeldingen aanwijzen en de functie ervan noemen, de bouw en werking van de nier beschrijven en beschrijven dat omzetting van afvalstoffen en niet-bruikbare stoffen in de lever plaatsvindt en dat deze daarna uitgescheiden worden: \r\n- wisselende gehaltes aan water en afvalstoffen (zoals ureum) in urine",
+		"id": "8efcdb78-90b0-463a-af3f-aab5616db73f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/9/13.8b/2",
+		"examenprogramma_eindterm_id": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"title": "De kandidaat kan lever en nieren met urineleiders, urineblaas en urinebuis noemen, in afbeeldingen aanwijzen en de functie ervan noemen, de bouw en werking van de nier beschrijven en beschrijven dat omzetting van afvalstoffen en niet-bruikbare stoffen in de lever plaatsvindt en dat deze daarna uitgescheiden worden: \r\n- nierschors, niermerg, nierbekken",
+		"id": "b8ae35d6-04d5-496b-aad8-fdc8ec9eb1ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.2a",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven:\r\n- ligging en functie van delen van het centraal zenuwstelsel, met name: grote hersenen: bewustzijn, zintuiglijke waarneming en bewuste beweging, kleine hersenen: coördinatie van bewegingen, hersenstam: verbinding tussen grote hersenen en ruggenmerg en een rol bij reflexen in hoofd- en halsgebied, ruggenmerg: verbinding van organen met hersenen en een rol bij reflexen van romp en ledematen",
+		"id": "d8fdcc10-1dd4-48b0-bd82-f5bef4722074",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.2b",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven:\r\n- bouw van een zenuwcel met cellichaam en uitlopers",
+		"id": "556c2ae0-21a4-4a84-bd22-563aab0e59eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.2c",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven:\r\n- reflex is een vaste, onbewuste reactie op een bepaalde prikkel",
+		"id": "7580beeb-c0e8-4f60-a2f1-187a28a3da8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.2d",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven:\r\n- functie van een reflex: snel reageren bij kans op onverwachte beschadiging van het lichaam",
+		"id": "7f35694b-a0df-4e15-bd82-322043d95694",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.3",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan ervaringen/waarnemingen van zintuig-practicumproeven in biologische termen weergeven",
+		"id": "47a9a017-5f2c-4bac-8375-5b7a3f52a9c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.4a",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:\r\n- van het gehoororgaan, met name: oorschelp, gehoorgang, trommelvlies, gehoorbeentjes, slakkenhuis met zintuigcellen, gehoorzenuw, evenwichtsorgaan",
+		"id": "51c45d9b-c291-47b3-a4df-e2fa3e777dd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.4b",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:\r\n- van de ogen, met name: wenkbrauw, wimper, traanklier, traanbuis, oogspier, harde oogvlies, hoornvlies, vaatvlies, iris, pupil: de opening in de iris, lens, glasachtig lichaam, netvlies oogzenuw",
+		"id": "a5ab68fe-e37e-4459-8ac5-af420116d41b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.5",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan uitleggen dat prikkels uit de omgeving door zintuigen omgezet worden in impulsen die naar het centraal zenuwstelsel geleid worden, waardoor waarneming kan plaatsvinden",
+		"id": "6d02a36f-bd40-4b2a-8584-b647f9e99791",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.7a",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- bouw, ligging en functies van de delen van de huid, met name: opperhuid met hoornlaag met dode cellen en kiemlaag met delende cellen, lederhuid met bloedvaten, haarzakjes, talgklieren, haarspieren, zweetklieren en zintuigen, haren",
+		"id": "5136cefe-554b-40c5-8710-a07826cd722e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.7b",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- onderhuids bindweefsel met vetcellen",
+		"id": "ef2753a1-930c-45c6-84ee-944518b4178f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.7c",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van de doorbloeding, vet en de mate van zweten bij de temperatuurregeling",
+		"id": "bd276714-16b3-4910-aa71-0cb1ace050f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.7d",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van de hoornlaag bij de bescherming tegen infecties, uitdroging en beschadigingen",
+		"id": "34ce685c-b368-46f2-afae-61f9b1002e53",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.7e",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van pigment (in de kiemlaag) bij de bescherming tegen ultraviolette straling",
+		"id": "566c5381-3742-44c9-85d6-6e2abced923d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.9a",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies beschrijven, met name van:\r\n- eilandjes van Langerhans (in de alvleesklier): productie van hormonen die het suikergehalte in het bloed regelen",
+		"id": "4c5b94b1-0c2f-490a-8fdd-6b1ca9f28f42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.9b",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies beschrijven, met name van:\r\n- bijnieren: productie van het hormoon dat de activiteit van spieren, de ademhaling en de bloedsomloop versnelt en het glucosegehalte van het bloed verhoogt",
+		"id": "eba0362b-3afc-4a74-a212-c52ec7e7bdb9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/15.9c",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies beschrijven, met name van:\r\n- eierstokken en teelballen: productie van geslachtshormoon voor het ontstaan van secundaire geslachtskenmerken; productie van geslachtscellen",
+		"id": "45eac5b5-e062-4e7c-980e-81e5f8dd9339",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.1",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan toelichten dat gedrag bij dieren uit een reeks samenhangende handelingen bestaat, en kan aan de hand van concrete voorbeelden uitleggen dat gedrag afhankelijk is van inwendige en uitwendige prikkels",
+		"id": "ea360815-3052-4c34-8e7b-c4a6e8834766",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2a",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- bouw, ligging en functie van delen van het centraal zenuwstelsel, met name: grote hersenen: bewustzijn, zintuiglijke waarneming en bewuste beweging;  kleine hersenen: coördinatie van bewegingen;  hersenstam: verbinding tussen grote hersenen en ruggenmerg en een rol bij reflexen in hoofd- en halsgebied; ruggenmerg: verbinding van organen met hersenen en een rol bij reflexen van romp en ledematen",
+		"id": "b3ab6d19-4c40-4c59-9655-39cb3c27020c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2b",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- bouw van een zenuwcel met cellichaam en uitlopers",
+		"id": "c71dbf24-1e11-4ba7-a300-e7928db4c873",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2c",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- ligging en functies van typen zenuwcellen: schakelcel; gevoelszenuwcel; bewegingszenuwcel",
+		"id": "a0695331-f998-4c3e-9818-1843d2033594",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2d",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- gevoelszenuw, bewegingszenuw, gemengde zenuw",
+		"id": "957dfb1d-b34c-48d0-a65d-873ee5f47e9c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2e",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- reflex is een vaste, onbewuste reactie op een bepaalde prikkel: terugtrekreflex, strekreflex, kniepeesreflex, pupilreflex",
+		"id": "0ba82da7-4c6d-489d-8737-c6b93c4fc1ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.2f",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen van het zenuwstelsel noemen, in afbeeldingen aanwijzen, en functie(s) en werking beschrijven; soorten zenuwcellen benoemen en onderverdelen:\r\n- functies van een reflex: onbewust regelen van motoriek, snel reageren bij kans op onverwachte beschadiging van het lichaam",
+		"id": "8f9db3c4-e653-4e8d-a313-4b98b7d3d3ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.3",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan ervaringen/waarnemingen van zintuig-practicumproeven in biologische termen weergeven",
+		"id": "9c2b9898-e2c5-48a7-9452-8c55d003a91a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.4a",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:\r\n- van het gehoororgaan, met name: oorschelp, gehoorgang, trommelvlies, trommelholte/middenoor, buis van Eustachius, gehoorbeentjes: hamer, aambeeld, stijgbeugel, slakkenhuis met zintuigcellen, gehoorzenuw, evenwichtsorgaan",
+		"id": "0cfc4149-3c00-404d-b97e-6e18607cce65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.4b",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan delen en omringende delen van de gehoororganen, van de ogen en van zintuigelementen in huid, neus en tong in afbeeldingen aanwijzen en functie en werking ervan beschrijven:\r\n- van de ogen, met name: wenkbrauw, wimper, traanklier, traanbuis, oogspier, harde oogvlies, hoornvlies, vaatvlies, iris met kringspieren en lengtespieren, pupil: de opening in de iris, lens: accommoderen, glasachtig lichaam, netvlies met gele vlek en blinde vlek,  oogzenuw, ligging en functie van staafjes en kegeltjes",
+		"id": "ee7fbe8a-39d5-4773-9459-3c531932282c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.5",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan op abstracte wijze uitleggen dat prikkels uit de omgeving door zintuigen omgezet worden in impulsen die naar het centraal zenuwstelsel geleid worden, waardoor waarneming kan plaatsvinden:\r\n- drempelwaarde, adequate prikkel, gewenning, motivatie",
+		"id": "b2001d26-e7c3-43f9-afd5-0f2871f033e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.6",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan beschrijven dat bewust gedrag vanuit de hersenen gestuurd wordt",
+		"id": "464230e2-8355-41ca-a6a9-aafb34944e2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.7a",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- bouw, ligging en functies van de delen van de huid, met name: opperhuid met hoornlaag met dode cellen en kiemlaag met delende cellen en zenuwuiteinden (‘pijnzintuig’), lederhuid met bloedvaten, haarzakjes, talgklieren, haarspieren, zweetklieren en zintuigen, haren",
+		"id": "5ee7b37f-27e5-4fc7-82ab-997908d3b43a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.7b",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- onderhuids bindweefsel met vetcellen",
+		"id": "9cf0700d-7f50-4208-8bfd-bde00727246b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.7c",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van de doorbloeding, vet en de mate van zweten bij de temperatuurregeling",
+		"id": "16bcda80-2817-477f-9f0f-ae50c4d151cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.7d",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van de hoornlaag bij de bescherming tegen infecties, uitdroging en beschadigingen",
+		"id": "6e3ad7aa-dadb-468a-a42a-125295df389e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.7e",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan de samenstellende delen van de huid en het onderhuids bindweefsel noemen, in afbeeldingen aanwijzen en functie(s) beschrijven:\r\n- de rol van pigment (in de kiemlaag) bij de bescherming tegen ultraviolette straling",
+		"id": "d183c738-4286-4787-8c85-7779cf703599",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.8",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan het principe van de werking van hormonen beschrijven\r\n- beïnvloeding van groei, ontwikkeling en stofwisseling",
+		"id": "9e694a2f-9136-41fe-9ef8-bbfeecb531f6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.9a",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige detaillering beschrijven, met name van:\r\n- hypofyse: productie van hormonen voor regeling groei, beïnvloeden van andere hormoonklieren",
+		"id": "6a79c2bd-dc79-49a5-8dad-d09e64bb1f89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.9b",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige detaillering beschrijven, met name van:\r\n- schildklier: stimulering van verbranding in cellen",
+		"id": "5552393d-fdaf-444a-8f57-6eb00f0632fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.9c",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige detaillering beschrijven, met name van:\r\n- eilandjes van Langerhans (in de alvleesklier): productie van de hormonen insuline en glucagon die het suikergehalte in het bloed regelen; diabetes",
+		"id": "4721e1ee-7979-4baf-b366-6b783e3019c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.9d",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige detaillering beschrijven, met name van:\r\n- bijnieren: productie van het hormoon adrenaline dat de activiteit van spieren, de ademhaling en de bloedsomloop versnelt en het glucosegehalte van het bloed verhoogt",
+		"id": "f4a3354a-3e7c-4c9d-a0a6-11a70973f1be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/11/16.9e",
+		"examenprogramma_eindterm_id": [
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"title": "De kandidaat kan hormoonklieren noemen, in afbeeldingen aanwijzen en functies en werking met de nodige detaillering beschrijven, met name van:\r\n- eierstokken en teelballen: productie van geslachtshormoon voor het ontstaan van secundaire geslachtskenmerken; productie van geslachtscellen",
+		"id": "a09c8449-9db6-43b9-b68f-3b0bebab7947",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.1",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan fasen in de lichamelijke en geestelijke groei en ontwikkeling van mensen noemen",
+		"id": "21aabc5c-5c35-47b5-b765-f3529cd30a29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.2a",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven:\r\n- ligging en functie van eierstokken, eileiders, baarmoeder, schede (= vagina), grote en kleine schaamlippen, kittelaar (= clitoris)",
+		"id": "b7a87720-683e-443d-a3e7-c1cc4ca59257",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.2b",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven:\r\n- ligging en functie van balzak, teelballen/zaadballen, bijballen, zaadblaasjes, zaadleiders, prostaat, penis, zwellichamen, urinebuis, voorhuid, eikel",
+		"id": "8c341cdd-af41-4b5d-983e-638ce7e4cba2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.3",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan functies van seksualiteit verwoorden en verschillen in opvattingen, normen en waarden daarover formuleren",
+		"id": "212901be-f092-4e64-8e98-97bde2672228",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4a",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- primaire en secundaire geslachtskenmerken bij de vrouw en de man",
+		"id": "1b490a18-94b8-4d7a-8bed-fba74e9ac3fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4b",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- verloop van de menstruatiecyclus, met name: ontwikkeling van eicel in eierstok, ovulatie, opbouw baarmoederslijmvlies, menstruatie (verval baarmoederslijmvlies)",
+		"id": "77bf9ae6-56b0-4d37-a251-816089332293",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4c",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- bouw en functie van een eicel en een zaadcel",
+		"id": "04d58971-356b-4f78-b650-bd32d42999a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4d",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- processen tijdens de zwangerschap, met name: bevruchting in de eileider, delingen in de eileider, innesteling in baarmoederslijmvlies, ontwikkeling embryo/foetus",
+		"id": "fdae97ec-3cf8-4452-88b2-e3dae7f250fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4e",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- ligging en functies van vruchtvliezen, vruchtwater, navelstreng en placenta (moederkoek)",
+		"id": "aa7bdff4-275b-439c-a234-9a593143654e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4f",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- het verloop van zwangerschap en geboorte met indalen, ontsluiting met weeën, uitdrijving met persweeën en nageboorte",
+		"id": "89a8c4ae-5444-4aca-a643-67f7f0d7e1c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.4g",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- vormen en functie van prenataal onderzoek met name echoscopie, vruchtwaterpunctie en vlokkentest",
+		"id": "e00dd8c2-32b9-459e-9163-37949ac513c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.5",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan de werking van voorbehoedmiddelen beschrijven:\r\n- condoom, spiraaltje, sterilisatie, pessarium, invloed van de \"pil\" als ovulatieremmer",
+		"id": "113ebe5b-652b-4e2e-a5ec-056773f4d270",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.6a",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen:\r\n- ontkieming, groei en bloei",
+		"id": "5b3157ba-07a2-4bc9-be84-446cde23624a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.6b",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen:\r\n- bestuiving en bevruchting",
+		"id": "5571b58c-f43d-4b3c-a49c-33c292fcffb7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.6c",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen:\r\n- ontwikkeling van een kiempje uit een bevruchte eicel en een vrucht met zaden uit een vruchtbeginsel",
+		"id": "c5a05817-f200-4dd9-83cf-3a4fa3b30447",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/17.7",
+		"examenprogramma_eindterm_id": [
+			"cc463fdb-3886-47f7-8023-5d071679fb00"
+		],
+		"title": "De kandidaat kan aan de hand van voorbeelden geslachtelijke en ongeslachtelijke voortplanting bij zaadplanten herkennen",
+		"id": "39facb14-b174-440b-ba82-c36286c9a5aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.1",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan fasen in de lichamelijke en geestelijke groei en ontwikkeling van mensen noemen",
+		"id": "ac875e1e-70b3-450c-bee6-e84d46c16be2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.2a",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven:\r\n- ligging, bouw en functie van eierstokken, eileiders, baarmoeder, schede (= vagina), grote en kleine schaamlippen, kittelaar (= clitoris)",
+		"id": "5ae7b302-d755-440b-a635-c09a386bfc0d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.2b",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan delen van de voortplantingsstelsels noemen, in afbeeldingen aanwijzen en functie(s) en werking beschrijven:\r\n- ligging, bouw en functie van balzak, teelballen/zaadballen, bijballen, zaadblaasjes, zaadleiders, prostaat, penis, zwellichamen, urinebuis, voorhuid, eikel",
+		"id": "61b892a7-462e-4e89-819f-06ee4ef50cc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.3",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan functies van seksualiteit verwoorden en verschillen in opvattingen, normen en waarden daarover formuleren",
+		"id": "2f34e339-e143-4409-9675-f9fb39c256ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4a",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- primaire en secundaire geslachtskenmerken bij de vrouw en de man",
+		"id": "eb626860-420c-41af-a99b-b05bbd043faa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4b",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- verloop van de menstruatiecyclus, met name: ontwikkeling van eicel in eierstok, ovulatie, opbouw baarmoederslijmvlies, menstruatie (verval baarmoederslijmvlies)",
+		"id": "1d2250ff-ab2e-4700-93e4-02f6406ba656",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4c",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- bouw en functie van een eicel en een zaadcel",
+		"id": "bf9a68ff-89e0-46ed-b261-61cb8d67b0e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4d",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- processen tijdens de zwangerschap, met name: bevruchting in de eileider, delingen in de eileider, innesteling in baarmoederslijmvlies, ontwikkeling embryo/foetus",
+		"id": "e4c3aad9-8931-49fd-b785-ccdfcc8935c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4e",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- ligging en functies van vruchtvliezen, vruchtwater, navelstreng en placenta (moederkoek)",
+		"id": "70c48d23-faf5-4f1a-aed6-234eb092dae0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4f",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- het verloop van zwangerschap en geboorte met indalen, ontsluiting met weeën, uitdrijving met persweeën en nageboorte",
+		"id": "d72d7a83-c80b-4e87-bc54-bc1a117cc795",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4g",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- eeneiige tweelingen, twee-eiige tweelingen",
+		"id": "5a7065a2-bda7-4fe9-aa77-0ffe97ded65c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.4h",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan beschrijven hoe de voortplanting van mensen verloopt:\r\n- vormen en functie van prenataal onderzoek met name echoscopie, vruchtwaterpunctie en vlokkentest",
+		"id": "0282a8a3-944c-4eb5-a62f-dfa5b36b14c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.5",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan de werking van voorbehoedmiddelen beschrijven:\r\n- condoom, spiraaltje, sterilisatie, pessarium, invloed van de \"pil\" als ovulatieremmer",
+		"id": "db352581-9a8f-4185-bae7-58d954be6376",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.6a",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen, inclusief aspecten van het overwinteren van een plant:\r\n- ontkieming, groei en bloei",
+		"id": "a6c5477c-05ca-4e08-b5ac-1e0e3cbdad98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.6b",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen, inclusief aspecten van het overwinteren van een plant:\r\n- bestuiving en bevruchting",
+		"id": "3241bc0f-f45d-4e6d-9276-bc0bf0b8881e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.6c",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen, inclusief aspecten van het overwinteren van een plant:\r\n- ontwikkeling van een kiempje uit een bevruchte eicel, een zaad uit een zaadbeginsel en een vrucht met zaden uit een vruchtbeginsel",
+		"id": "900739dd-2c3e-4cd5-bf69-2ab762d09d53",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.6d",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan stadia in de levenscyclus van zaadplanten met geslachtelijke voortplanting noemen, inclusief aspecten van het overwinteren van een plant:\r\n- aspecten van het overwinteren van een plant: als zaad, alleen afsterven van de bovengrondse delen, opslag van reservestoffen in de wortels, met blijvende bovengrondse delen met of zonder bladeren",
+		"id": "2f474273-4a3a-4c05-8336-3a3759bf719e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/12/18.7",
+		"examenprogramma_eindterm_id": [
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa9"
+		],
+		"title": "De kandidaat kan aan de hand van voorbeelden geslachtelijke en ongeslachtelijke voortplanting bij zaadplanten herkennen en toelichten",
+		"id": "f06637d1-1fcc-4340-a71b-222218e6ed6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.1",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan enkele situaties noemen waarin het relevant is enige kennis te hebben van de erfelijkheidsleer en situaties noemen waarin het relevant is om genetisch advies in te winnen en in dit verband vormen van prenataal onderzoek beschrijven",
+		"id": "421ef36d-c7ac-4360-ba9a-14507b0c060d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2a",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- chromosomen bestaan o.a. uit DNA",
+		"id": "ff27e5a2-3d32-46b1-b70e-022888df6f5d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2b",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- chromosomen bevatten genen, een gen is een stukje chromosoom dat de informatie voor één erfelijke eigenschap bevat",
+		"id": "23faae64-980c-4a75-91d2-861955cd8ec6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2c",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- erfelijke informatie voor kenmerken is in enkelvoud aanwezig in geslachtscellen met een enkelvoudige set chromosomen",
+		"id": "d4dc2bb5-ba45-4bae-bc9e-a04500fc57eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2d",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- overige lichaamscellen met paren chromosomen",
+		"id": "bb6d1173-d0db-4470-b407-48f9178b9a02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2e",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- overdracht van erfelijke informatie via geslachtscellen",
+		"id": "7881e247-bcab-4c9b-b389-170597dc95d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2f",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- vorming paren chromosomen bij bevruchting",
+		"id": "556e5afa-ba8c-4272-992c-54a445c5e1b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2g",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- X- en Y-chromosoom als geslachtschromosomen; vrouw XX, man XY",
+		"id": "e923dfa1-58ef-42b8-8257-b698c3f314c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2h",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- dominant gen, recessief gen, genotype, fenotype, homozygoot, heterozygoot",
+		"id": "ebd2612c-b78a-43b6-83e3-755b40be8fcd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2i",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- mutaties",
+		"id": "3255a90f-5c1a-4dec-b3e5-2e3a4cf55170",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.2j",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat individuen informatie over erfelijke eigenschappen overdragen aan hun nakomelingen en welke rol chromosomen en geslachtscellen hierbij spelen: \r\n- intermediaire erfelijkheid",
+		"id": "e2862d3b-e833-41bf-bd8f-ef3a15cd3a0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.3",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan het proces en de betekenis van de gewone celdeling (mitose) en de reductiedeling (meiose) beschrijven:\r\n- gevolgen van mitose en meiose voor het aantal chromosomen en de erfelijke informatie",
+		"id": "476a3c16-0bd2-421c-a2e7-81bb0a0607a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.4a",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan conclusies trekken uit gegevens bij monohybride kruisingen over het genotype en fenotype van ouders en/of hun directe nakomelingen: \r\n- berekenen van kans op een bepaalde eigenschap (bij een kruising met één eigenschap en met twee generaties)",
+		"id": "1897c395-0c97-43b1-a70f-80f7c99182a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.4b",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan conclusies trekken uit gegevens bij monohybride kruisingen over het genotype en fenotype van ouders en/of hun directe nakomelingen: \r\n- stamboom",
+		"id": "c1a0a535-70d5-472f-9e8d-f5b524aec888",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.5",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat onder andere bepaalde stoffen en straling invloed kunnen hebben op de frequentie waarmee mutaties plaatsvinden",
+		"id": "74572387-99e4-4243-a006-09944c4263f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.6a",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat volgens de evolutietheorie in de loop van de tijd nieuwe rassen en soorten zijn ontstaan, mede onder invloed van mutatie en selectie: \r\n- natuurlijke en kunstmatige selectie",
+		"id": "cc1b2c83-4b64-4857-9404-eedead43e45f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/K/13/19.6b",
+		"examenprogramma_eindterm_id": [
+			"c7318dac-13d8-4da7-bd05-de7751d84085"
+		],
+		"title": "De kandidaat kan toelichten dat volgens de evolutietheorie in de loop van de tijd nieuwe rassen en soorten zijn ontstaan, mede onder invloed van mutatie en selectie: \r\n- stambomen",
+		"id": "26f36612-d208-4d24-878b-1bb5b7c1464a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.1",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan antigenen onderscheiden die de vorming van antistoffen tot gevolg hebben: \r\n- virussen, bacteriën, lichaamsvreemde cellen en stoffen, bloedgroepantigenen (ABO-systeem en resus)",
+		"id": "238fa86e-8483-4ee6-86d8-6febaecde7da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.2",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan de aanwezigheid van antistoffen in verband brengen met een besmetting van mens of (landbouwhuis)dier",
+		"id": "cad2e554-6f71-4c39-a3a0-903c9282174c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.3a",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan antistoffen als diagnostisch middel toepassen bij een op schrift aangeboden biologische probleemstelling en hierbij relevante gegevens verwerken en presenteren: \r\n- bloedgroepbepaling en bloedtransfusie (ABO-systeem en resus)",
+		"id": "0bd65775-61e6-4e09-96bf-cb97ed5cf6e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.3b",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan antistoffen als diagnostisch middel toepassen bij een op schrift aangeboden biologische probleemstelling en hierbij relevante gegevens verwerken en presenteren: \r\n- verwantschapsstudies",
+		"id": "694bfbcb-d3fe-4d4a-8d29-be073bc99ed0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.3c",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan antistoffen als diagnostisch middel toepassen bij een op schrift aangeboden biologische probleemstelling en hierbij relevante gegevens verwerken en presenteren: \r\n- identificatie en karakterisering van onbekende antigenen",
+		"id": "7c523be9-8b27-4ffc-bcf2-086bb392face",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.4a",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan aangeven hoe de bescherming van het lichaam kunstmatig kan worden verhoogd: \r\n- actieve en passieve immunisatie",
+		"id": "69001d91-de20-4330-93a6-6788a1473169",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.4b",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan aangeven hoe de bescherming van het lichaam kunstmatig kan worden verhoogd: \r\n- toepassing van vaccins en sera bij mensen en (landbouwhuis)dieren",
+		"id": "4f19ea73-ea82-456f-8bec-da19bc9c6028",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.4c",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan aangeven hoe de bescherming van het lichaam kunstmatig kan worden verhoogd: \r\n- gebruik van antibiotica",
+		"id": "0fd326b6-b487-4944-a14e-ffc236a0b59d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/1/20.5",
+		"examenprogramma_eindterm_id": [
+			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
+		],
+		"title": "De kandidaat kan binnen de context van bescherming en antistoffen uitleg geven bij transplantaties en auto-immuunziekten",
+		"id": "ed89bda9-1f1d-41bb-a2a2-1f0384508bfa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.1a",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan aangeboden problemen oplossen binnen de context van gedrag, gebruikmakend van biologische begrippen: \r\n- begrippen: uitwendige prikkel zoals temperatuur, licht geluid, inwendige prikkel zoals hormonen, honger, dorst, sleutelprikkel, supranormale prikkel, respons",
+		"id": "f67cb082-528d-4fd1-bdd1-3b8d8b2dbc99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.1b",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan aangeboden problemen oplossen binnen de context van gedrag, gebruikmakend van biologische begrippen: \r\n- contexten:  consumentengedrag, (verantwoorde) behuizing voor (landbouw)huisdieren",
+		"id": "aef181c3-5f55-45f5-9d87-e698e64f039e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.2a",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan ethogrammen en protocollen van gedrag van dieren of mensen maken en/of interpreteren, gebruikmakend van: \r\n- veldwaarnemingen",
+		"id": "6a8ab533-10de-42a5-8ad6-06b386dcc455",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.2b",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan ethogrammen en protocollen van gedrag van dieren of mensen maken en/of interpreteren, gebruikmakend van: \r\n- practicum",
+		"id": "b35a62bf-fe56-4995-84fe-a728ec9e6ccb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.2c",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan ethogrammen en protocollen van gedrag van dieren of mensen maken en/of interpreteren, gebruikmakend van: \r\n- visueel materiaal",
+		"id": "a3822cb2-74fb-4ac3-9b83-e1fc7a6ff082",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.3",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan aan de hand van concrete voorbeelden verschillende vormen van leren, sociaal gedrag en communicatie noemen en de functie(s) daarvan aangeven",
+		"id": "6d86c948-73a7-4c73-ae70-412c7213abe6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4a",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- inprenten, trial & error, conditionering",
+		"id": "29c7665e-96f0-4df3-903d-cf056eca1cc1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4b",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- erfelijk / aangeleerd gedrag",
+		"id": "5ab5e369-0395-4c29-bf0f-77bf20f05086",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4c",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- dreig- en imponeergedrag",
+		"id": "3c886927-7071-4119-8ca3-3498217cea91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4d",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- taakverdeling binnen groepen",
+		"id": "35561413-6dd9-4d34-8b6c-882253383a3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4e",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- balts, paringsgedrag, broedzorg",
+		"id": "8688835e-e622-4412-926d-3ac5a220a786",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4f",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- territoriumgedrag",
+		"id": "53fa056a-f1ef-4f14-8364-e63f1eb3e0a4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4g",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- rolpatronen, normen en waarden",
+		"id": "0de2b79d-9dc3-42f7-9595-d8e030c97bec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4h",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- rangorde",
+		"id": "db3150c1-d66b-41c6-a44a-3015dc0853bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4i",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- voedingsgedrag",
+		"id": "489d5b0c-56f1-4b1a-8528-d5741a8ad763",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.4j",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan in concrete (beschreven) situaties de rol beoordelen van leren, sociaal gedrag en communicatie bij mensen en dieren bij taakverdeling en coördinatie, in het bijzonder bij: \r\n- verzorgingsgedrag",
+		"id": "a5a2c545-17c9-4bad-bbf0-e4d5b3ddd1a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BI/V/2/21.5",
+		"examenprogramma_eindterm_id": [
+			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
+		],
+		"title": "De kandidaat kan een standpunt over de vergelijking van het gedrag van mensen en dieren bediscussiëren en beargumenteren",
+		"id": "e125a784-b3d6-407c-a704-b1cb0a497232",
+		"unreleased": true
 	}
 ]
