@@ -3322,8 +3322,10 @@
 			"75639f1f-1ac5-4821-9c4a-7f3078a2bc2d",
 			"8ec7dbda-ec7e-4b81-93d6-7b726949f747"
 		],
-		"title": "Syllabus Wiskunde C vwo",
+		"title": "Syllabus wiskunde C vwo",
 		"id": "195c38bb-fd1c-45bc-a96e-9113db377f42",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	}
 ]
