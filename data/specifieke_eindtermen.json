@@ -4844,7 +4844,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"description": "",
+		"description": "Kaarten selecteren",
 		"dirty": "1"
 	},
 	{
@@ -4856,7 +4856,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"description": "",
+		"description": "Kaarten lezen",
 		"dirty": "1"
 	},
 	{
@@ -4868,7 +4868,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"description": "",
+		"description": "Kaarten analyseren",
 		"dirty": "1"
 	},
 	{
@@ -4880,7 +4880,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"description": "",
+		"description": "Kaarten interpreteren",
 		"dirty": "1"
 	},
 	{
@@ -4892,7 +4892,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		],
-		"description": "",
+		"description": "Kaarten maken",
 		"dirty": "1"
 	},
 	{
@@ -5087,20 +5087,22 @@
 	{
 		"id": "42caabce-6edf-4124-bdfb-7bc88e0d2a3a",
 		"prefix": "B1.3b.3",
-		"title": "De kandidaat kan uitleggen hoe demografische kenmerken en verdelijking samenhangen met het sociaal-economisch ontwikkelingspeil van een land.",
+		"title": "De kandidaat kan uitleggen hoe demografische kenmerken en verstedelijking samenhangen met het sociaal-economisch ontwikkelingspeil van een land. Deze samenhang toepassen op drie typen landen: een centrumland, een semiperifeer land en een perifeer land.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0cc2c6d7-94d6-45c7-852d-9c405701703f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "20143cd2-da3a-44e0-b4a6-1380d1a65e72",
 		"prefix": "B1.3c.1",
-		"title": "De kandidaat kan de posities van New Yor, Washington en Los Angeles als machtscentra en als knoopputen van informatie-, geld- en goederenstromen beschrijven en verklaren, de ruimtelijke kenmerken van deze steden benoemen die samenhangen met hun positie als mondiaal knooppunt.",
+		"title": "De kandidaat kan de posities van New York, Washington en Los Angeles als machtscentra en als knooppunten van informatie-, geld- en goederenstromen beschrijven en verklaren, de ruimtelijke kenmerken van deze steden benoemen die samenhangen met hun positie als mondiaal knooppunt.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e74cf7d2-0fb9-4c69-b006-8ccb22779b87"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "add18b1f-7d39-4991-8c0a-fd028cbc1593",
@@ -5186,11 +5188,12 @@
 	{
 		"id": "c2533654-0c74-40d0-817d-7567f5d11293",
 		"prefix": "D1.7a.2",
-		"title": "De kandidaat kan Zuid-Amerik beschrijven aan de hand van liggingskenmerken, typeren met behulp van fysisch-geografische en sociaalgeografische indicatoren, Zuid-Amerik afbakenen als formele regio aan de hand van verschillende criteria",
+		"title": "De kandidaat kan Zuid-Amerika beschrijven aan de hand van liggingskenmerken, typeren met behulp van fysisch-geografische en sociaalgeografische indicatoren, Zuid-Amerika afbakenen als formele regio aan de hand van verschillende criteria",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"42a530ea-fa30-4c34-a402-85bd0a3b30e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f0c02b0c-6f14-41fa-a3b2-2db835a9355d",
@@ -5204,11 +5207,12 @@
 	{
 		"id": "87610bed-d96c-49d0-beb7-8209a5051d89",
 		"prefix": "D1.7b.1b",
-		"title": "De kandidaat kan verschillen en overeenkomsten tussen Zuid-Amerika en een andere ontwikkelingsregio ten aanzien van sociaal economische en sociaal-culturele kenmerken verklaren.",
+		"title": "De kandidaat kan verschillen en overeenkomsten tussen Zuid-Amerika en een andere ontwikkelingsregio ten aanzien van sociaaleconomische en sociaal-culturele kenmerken verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6001b9b6-7718-497b-aefe-9cee846ad13b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "86bbf5f6-6f77-49b1-b592-c92aaf1e5e42",
@@ -5222,11 +5226,12 @@
 	{
 		"id": "80722216-825e-4882-94ef-0df70d0f513d",
 		"prefix": "D1.7c.1a",
-		"title": "De kandidaat kan het ontwikkelings- en democratiseringsporces vanaf de jaren negentig op hoofdlijnen beschrijven in vergelijking met de voorgaande politieke ontwikkelingsfasen.",
+		"title": "De kandidaat kan het ontwikkelings- en democratiseringsproces vanaf de jaren negentig op hoofdlijnen beschrijven in vergelijking met de voorgaande politieke ontwikkelingsfasen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
@@ -5362,11 +5367,12 @@
 	{
 		"id": "9535d99e-a398-491e-a61e-71b128135d87",
 		"prefix": "E1.9a.3a",
-		"title": "De kandidaat kan De invloed van het veranderende klimaat en meer extreme weersomstandigheden relateren aan wateroverlast en watertekorten in laag gelegen gebieden.",
+		"title": "De kandidaat kan de invloed van het veranderende klimaat en meer extreme weersomstandigheden relateren aan wateroverlast en watertekorten in laag gelegen gebieden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "174b5468-00f4-428d-a432-5037dc0359a4",
@@ -25852,7 +25858,7 @@
 	{
 		"id": "f3db6c3a-b989-4c79-b308-521ad185218b",
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen.",
-		"description": "",
+		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
@@ -25861,7 +25867,7 @@
 	{
 		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor een geschikte klassenindeling.",
-		"description": "",
+		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
@@ -25870,7 +25876,7 @@
 	{
 		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd.",
-		"description": "",
+		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
@@ -25879,7 +25885,7 @@
 	{
 		"id": "4fef2d14-596a-4eba-a392-c0df3e26ce7a",
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.  ",
-		"description": "",
+		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
@@ -25889,81 +25895,113 @@
 		"ce_se": "CE",
 		"prefix": "WI/K/3.1",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan relevante gegevens uit een situatie weergeven in een geschikte wiskundige representatie (model).",
 		"id": "22cb7e92-58e7-463f-8216-1becfeeb522c",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.2",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan wiskundige informatie identificeren, beoordelen en gebruiken om een probleem op te lossen.",
 		"id": "160b084b-0c22-4c61-821d-028b0b41ac6f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.3",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan zich bedienen van adequate onderzoeks- en redeneerstrategieën.",
 		"id": "6b4d6751-f356-4347-9834-191a90956595",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.4",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan bij berekeningen een bij de situatie passend rekenmodel kiezen.",
 		"id": "39eda413-fec7-4d79-9d2d-d0c4153e88b7",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.5",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan  efficiënt rekenen en cijfermatige uitkomsten kritisch beoordelen.",
 		"id": "d927ea9f-94f8-4262-b760-32a6fd88dcba",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.6",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan op basis van verwerkte informatie verwachtingen uitspreken en conclusies trekken.",
 		"id": "1fc07013-dd9c-40c7-99bf-c578c3920bde",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.7",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan adequate (wiskunde)taal gebruiken als communicatiemiddel.",
 		"id": "29193132-6269-425d-89ca-fb0b6f9f26e1",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "WI/K/3.8",
 		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3"
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
 		],
 		"title": "De kandidaat kan situaties waarin wiskundige presentaties, redeneringen of berekeningen voorkomen kritisch beschouwen en beoordelen.",
 		"id": "9655dc21-c561-4f22-9d83-688dca025aca",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
