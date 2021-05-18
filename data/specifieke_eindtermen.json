@@ -3890,20 +3890,22 @@
 	{
 		"id": "7f403e70-323c-4480-9d7e-e2846621d5b3",
 		"prefix": "AK/K/3.1",
-		"title": "De kandidaat kan de verschillende typen aardrijkskundige vragen hanteren",
+		"title": "De kandidaat kan verschillende soorten digitale en papieren kaarten gebruiken, waaronder topografische kaarten, overzichtskaarten en thematische kaarten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "879bda9c-5a3c-444a-8138-187dcdaea563",
 		"prefix": "AK/K/3.1",
-		"title": "De kandidaat kan bij gegeven contexten en vraagstukken een passende vraag kiezen/formuleren",
+		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse toepassen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "79183393-789c-41f0-bb9a-e9b7ddecd899",
@@ -4169,11 +4171,12 @@
 	{
 		"id": "e9ca0afd-cdfe-44a5-90b8-4f3bcdef8994",
 		"prefix": "AK/K/4/5.1",
-		"title": "De kandidaat kan het weer in Nederland beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren.",
+		"title": "De kandidaat kan het weer in Nederland beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren.\nOntstaan en vormen van neerslag, uv-straling en wet van Buys Ballot.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5b2af51a-14be-4250-883e-ea1ac96e2da9",
@@ -4181,17 +4184,21 @@
 		"title": "De kandidaat kan weerkaarten van standaard weersituaties in Nederland (West-Europa) gebruiken bij het opstellen van een weerbericht voor Nederland door een gegeven weerkaart aan te vullen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "1a798fdc-7b1e-483e-ac22-aa0f7e05906a",
 		"prefix": "AK/K/4/5.3",
-		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.",
+		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.\nGematigd zeeklimaat",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "2b058050-cd08-4ae2-995e-91ec55383487",
@@ -4199,8 +4206,10 @@
 		"title": "De kandidaat kan voorbeelden van de invloed van weer en klimaat op menselijke activiteiten in Nederland beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "9a551f5d-ea1f-4129-8a8f-398833709c6d",
@@ -4208,8 +4217,10 @@
 		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "6a878036-c7e1-4ec6-b56e-38e1e196e7e3",
@@ -4218,34 +4229,40 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
 		"prefix": "AK/K/4/5.1",
-		"title": "De kandidaat kan het weer in Nederland en Spanje beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren en verschillen tussen het weer in beide gebieden beschrijven en verklaren.",
+		"title": "De kandidaat kan het weer in Nederland beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren.\nOntstaan en vormen van neerslag.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "5f9d21ff-ac69-4d8c-be6d-b35b59fa60b5",
 		"prefix": "AK/K/4/5.2",
-		"title": "De kandidaat kan weerkaarten, satellietbeelden en luchtfoto’s van standaard weersituaties in Nederland (West-Europa) en Spanje (Zuid-Europa) gebruiken bij het opstellen van een weerbericht voor Nederland en Spanje door een gegeven weerkaart aan te vullen en aan de hand van een schrijfkader een weerbericht te schrijven bij een gegeven weerkaart.",
+		"title": "De kandidaat kan weerkaarten, satellietbeelden van standaard weersituaties in Nederland (West-Europa) en Spanje (Zuid-Europa) gebruiken bij het opstellen van een weerbericht voor Nederland en Spanje door een gegeven weerkaart aan te vullen en aan de hand van een schrijfkader een weerbericht te schrijven bij een gegeven weerkaart.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2ed6d35f-d1d8-4061-9a37-053187ac4b21",
 		"prefix": "AK/K/4/5.3",
-		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) en Spanje (Zuid-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.",
+		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) en Spanje (Zuid-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.\nGematigd zeeklimaat, globale windsysteem (alleen beschrijven), hooggebergte klimaat, Mediterraan/Middellandse zeeklimaat, landklimaat en steppeklimaat.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b6462cc7-1f1d-407f-8813-48434d501e63",
@@ -4259,124 +4276,142 @@
 	{
 		"id": "6470175f-6fff-4e93-a3e3-a4e273cd0f12",
 		"prefix": "AK/K/4/5.5",
-		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland en Spanje beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland (West-Europa) en Spanje (Zuid-Europa) beschrijven en verklaren.\nDrainage, intensieve en extensieve landbouw, neerslagverdeling, vormen van irrigatie, waterbalans: (neerlag- verdamping) + (aanvoer - afvoer) en verwoestijning.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6d573c26-c5e3-48de-a057-f277ac88aa44",
 		"prefix": "AK/K/4/5.6",
-		"title": "De kandidaat kan de mogelijke samenhang tussen het versterkt broeikaseffect en klimaatverandering voor Nederland en Spanje beschrijven.",
+		"title": "De kandidaat kan de mogelijke samenhang tussen het versterkt broeikaseffect en klimaatverandering voor Nederland en Spanje beschrijven.\nBroeikasgassen, natuurlijk broeikaseffect en neerslagintensiteit.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "feba7a18-7b4c-4ec4-a742-53269f6dc328",
 		"prefix": "AK/K/4/5.7",
-		"title": "De kandidaat kan de mogelijke gevolgen van klimaatveranderingen in Nederland en Spanje voor natuurlijke vegetatie, landbouwgewassen, waterhuishouding en klimaatgebonden ziekten en plagen in Nederland beschrijven en verklaren",
+		"title": "De kandidaat kan de mogelijke gevolgen van klimaatveranderingen in Nederland en Spanje voor natuurlijke vegetatie, landbouwgewassen en waterhuishouding beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ab370215-fa35-4505-a31f-2b35a3fce4bc",
 		"prefix": "AK/K/4/5.8",
-		"title": "De kandidaat kan mogelijke maatregelen tegen de gevolgen van het versterkt broeikaseffect voor Nederland en Spanje beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.",
+		"title": "De kandidaat kan mogelijke maatregelen tegen de gevolgen van het versterkt broeikaseffect voor Nederland en Spanje beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.\nDuurzaamheid en klimaatverdrag.",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ca19e3c0-dcd5-43ec-b7df-1af4ff247459",
 		"prefix": "AK/K/4/6",
-		"title": "De kandidaat kan weer en klimaat in de V.S. beschrijven en verklaren.",
+		"title": "De kandidaat kan weerkaarten van de Verenigde Staten voor standaardsituaties beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"74812d84-8450-49d0-a53c-94ea869a7c5c"
-		]
+			"74812d84-8450-49d0-a53c-94ea869a7c5c",
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "16cb7de8-afe4-4491-be09-09fb331227b6",
 		"prefix": "AK/K/4/6.1",
-		"title": "De kandidaat kan weerkaarten van de V.S. voor standaardsituaties in zomer en winter beschrijven en verklaren.",
+		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.\nGematigd zeeklimaat, hooggebergte klimaat, landklimaat, Mediterraan/Middellandse zeeklimaat, steppeklimaat, (sub)tropische klimaten, toendraklimaat en woestijnklimaat.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
 		"prefix": "AK/K/4/6.2",
-		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de V.S. met behulp van de klimaatfactoren beschrijven en verklaren.",
+		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.\nDroge klimaten, koud klimaat/hooggebergte klimaat, landklimaat en tropisch klimaat.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "8a0e84f4-2b1c-448e-83c8-8471de322a22",
 		"prefix": "AK/K/4/6.3",
-		"title": "De kandidaat kan de samenhang tussen klimaatzones enerzijds en vegetatiezones en agrarisch bodemgebruik anderzijds in de V.S. beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\nLoef- en lijzijde (regenschaduw).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e372077c-89d2-411b-ae7a-6328d6e4ec68",
 		"prefix": "AK/K/4/6",
-		"title": "De kandidaat kan weer en klimaat, klimaatverandering en klimaatbeleid in de V.S. beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\nLoef- en lijzijde (regenschaduw).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
 		"prefix": "AK/K/4/6.4",
-		"title": "De kandidaat kan mogelijke gevolgen van het versterkt broeikaseffect en daaruit voortvloeiende dilemma’s voor de V.S. beschrijven.",
+		"title": "De kandidaat kan mogelijke gevolgen van het versterkt broeikaseffect voor de Verenigde Staten beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
 		"prefix": "AK/K/4/6.5",
-		"title": "De kandidaat kan voorbeelden van maatregelen in de V.S. om oorzaken van het versterkt broeikaseffect tegen te gaan en effecten te verminderen beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.",
+		"title": "De kandidaat kan voorbeelden van maatregelen in de Verenigde Staten om oorzaken van het versterkt broeikaseffect aan te pakken en effecten te verminderen beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "a11d098a-ea88-41f0-b88d-de4f01042612",
 		"prefix": "AK/K/6/11.1",
-		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven.",
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven.\nKringloop van het water.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "62d1e847-0b3d-41e6-b56b-45aae2e50dee",
 		"prefix": "AK/K/6/11.1",
-		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven en verklaren",
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven en verklaren.\nDebiet, Kringloop van het water en regiem.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8787dc0a-5c86-4da4-a1f6-23fcdbf73d00",
 		"prefix": "AK/K/6/11.2",
-		"title": "De kandidaat kan drinkwaterwinning en watergebruik in Nederland beschrijven en verklaren",
+		"title": "De kandidaat kan drinkwaterwinning en watergebruik in Nederland beschrijven en verklaren.\nDuinwater, grondwater en oppervlaktewater.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f2cbf239-75ce-4c6e-92d2-6ce1fda9e196",
@@ -4405,26 +4440,29 @@
 	{
 		"id": "abbf8427-5b56-4c74-bc94-36b8c92f3b14",
 		"prefix": "AK/K/6/11.5",
-		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.",
+		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.\nBodemerosie, delta en piekafvoer.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "58843a76-d3d2-4e95-9f6d-679bbfa7269e",
 		"prefix": "AK/K/6/11.6",
-		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in Nederland beschrijven.",
+		"title": "De kandidaat kan waterbeheer en (duurzame) maatregelen tegen wateroverlast en watertekort in Nederland beschrijven.\nDeltawerken en Ruimte voor de Rivier.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7a6b4b28-1b0a-4596-b925-22eeba55c091",
 		"prefix": "AK/K/6/11.6",
-		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in Nederland en de ruimtelijke effecten daarvan beschrijven en de voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"title": "De kandidaat kan waterbeheer en (duurzame) maatregelen tegen wateroverlast en watertekort in Nederland en de ruimtelijke effecten daarvan beschrijven en de voor- en nadelen vanuit verschillende dimensies beschrijven.\nDeltawerken en Ruimte voor de Rivier.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "586bb26b-d1c1-4927-8088-ca8c440b55eb",
@@ -4432,7 +4470,9 @@
 		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water in Nederland beschrijven",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "c384e856-f0bd-4b72-9141-8444312c01cf",
@@ -4440,7 +4480,9 @@
 		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water en de ruimtelijke effecten daarvan in Nederland beschrijven en voor- en nadelen van maatregelen vanuit verschillende dimensies beschrijven.",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "3ba7ecd7-4fdb-4c84-a53e-bc6c2a263caa",
@@ -4448,7 +4490,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "19d045b3-e595-453b-ab50-c9a6cb381938",
@@ -4475,7 +4519,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b4586d6b-5e98-4467-ae82-dc1667cbbd13",
@@ -4489,20 +4535,22 @@
 	{
 		"id": "26ed3cf1-7ecc-4a03-af1e-e79e6d637e16",
 		"prefix": "AK/K/6/12.5",
-		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en de ruimtelijke gevolgen daarvan beschrijven en verklaren.",
+		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en de ruimtelijke gevolgen daarvan beschrijven en verklaren.\nVerdroging en verzilting.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "40e73201-e611-44f4-84b5-7ed5154eacc1",
 		"prefix": "AK/K/6/12.6",
-		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in het Midden-Oosten.",
+		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in het Midden-Oosten beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ecea0c72-9d5e-4ec3-82e3-5244debb36b6",
@@ -4518,19 +4566,21 @@
 		"title": "De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in het Midden Oosten en China beschrijven en verklaren, en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven en de situatie in beide gebieden vergelijken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "dc72efcf-5fa3-4db4-a40a-4cf3dbd2cff8",
 		"prefix": "AK/K/6/12.1",
-		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren",
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.\nAquifer en fossiel water.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "f00bbfe5-e2f3-4f71-b471-cb6048610abb",
@@ -4538,19 +4588,21 @@
 		"title": "De kandidaat kan drinkwaterwinning en watergebruik in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "00a8ee11-7e95-4e37-aaa4-e3f3131746b8",
 		"prefix": "AK/K/6/12.3",
-		"title": "De kandidaat kan het belang van water voor transport in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"title": "De kandidaat kan het belang van waterwegen voor transport in China beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "4f3887f2-d1dc-4e6d-a330-d2ba10c96e13",
@@ -4558,19 +4610,21 @@
 		"title": "De kandidaat kan het toenemende watergebruik en de gevolgen daarvan in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c9880213-c2b5-4bed-b552-2049bcb6ef45",
 		"prefix": "AK/K/6/12.5",
-		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en China en de ruimtelijke gevolgen daarvan beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en China en de ruimtelijke gevolgen daarvan beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.\nVerdroging en verzilting.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "ba885bc9-31f0-496f-b069-3efcc52defb4",
@@ -4578,9 +4632,10 @@
 		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in het Midden-Oosten en China en de ruimtelijke effecten daarvan beschrijven en de voor- en nadelen vanuit verschillende dimensies beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "d0a75f5b-a00d-48d8-9f1e-3c5b3781bd31",
@@ -4588,54 +4643,60 @@
 		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water en de ruimtelijke effecten daarvan in het Midden-Oosten en China beschrijven en voor- en nadelen vanuit verschillende dimensies beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "2f13db25-edba-49c1-a0f8-cb467915cd5b",
 		"prefix": "AK/K/8/17.1",
-		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland vanaf 1950 op hoofdlijnen beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland vanaf 1945 op hoofdlijnen beschrijven en verklaren.\nNatuurlijke bevolkingsgroei, ontgroening, sociale bevolkingsgroei, vergrijzing en vormen van migratie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "202b14fa-a0b7-4ed4-827d-d1e89dd44179",
 		"prefix": "AK/K/8/17.2",
-		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1950 in Nederland op hoofdlijnen beschrijven.",
+		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1945 in Nederland beschrijven.\nMigratiemotieven. ",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9a96feca-7bb6-442d-afdb-74c59825f3c9",
 		"prefix": "AK/K/8.17.4",
-		"title": "De kandidaat kan de veranderingen vanaf 1950 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden in Nederland op hoofdlijnen beschrijven.",
+		"title": "De kandidaat kan de veranderingen vanaf 1945 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden en leefbaarheid in Nederland op hoofdlijnen beschrijven.\nBestemmingsplan, forensisme, groeiregio, herinrichting, krimpregio, verzorgingsgebied.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9b91b8bd-fc10-4e97-8169-9c94b20adfda",
 		"prefix": "AK/K/8/17.1",
-		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland en Duitsland vanaf 1950 op hoofdlijnen beschrijven en verklaren en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland en Duitsland vanaf 1945 op hoofdlijnen beschrijven en verklaren en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.\nDemografische transitie, natuurlijke bevolkingsgroei, ontgroening, sociale bevolkingsgroei, vergrijzing en vormen van migratie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c504a1b4-80ea-42e8-8400-28fa222e75a1",
 		"prefix": "AK/K/8/17.2",
-		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1950 in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1945 in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.\nIntegratie, migratiemotieven en segregatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2cade244-786b-48be-9fb4-8a471d6c2431",
@@ -4649,20 +4710,22 @@
 	{
 		"id": "151e4732-3abc-4dc4-a840-dca1ea58b389",
 		"prefix": "AK/K/8/17.4",
-		"title": "De kandidaat kan de veranderingen vanaf 1950 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"title": "De kandidaat kan de veranderingen vanaf 1945 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden en leefbaarheid in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.\nBestemmingsplan, congestie, forensisme, groeiregio, herinrichting, krimpregio, reikwijdte en verzorgingsgebied.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4134ad35-fedb-42d6-bfb0-c8f83677a82e",
 		"prefix": "AK/K/8/17.5",
-		"title": "De kandidaat kan de woonkwaliteit, infrastructuur, bereikbaarheid en voorzieningen in twee stedelijke gebieden in Nederland en Duitsland beschrijven en de verschillen en overeenkomsten tussen beide gebieden beschrijven en verklaren.",
+		"title": "De kandidaat kan de woonkwaliteit, infrastructuur, bereikbaarheid en voorzieningen in stedelijke gebieden in Nederland en Duitsland beschrijven en de verschillen en overeenkomsten tussen beide gebieden beschrijven en verklaren.\nAgglomeratie(vorming) en stedelijke zone.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b53ddd3c-e9c4-4223-8969-7742bc9a3b9e",
@@ -4676,29 +4739,32 @@
 	{
 		"id": "d69d3481-e7ef-417a-979d-a1b085e0dd9c",
 		"prefix": "AK/K/8/18.1",
-		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking vanaf 1980 in China op hoofdlijnen beschrijven en verklaren.",
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking vanaf 1980 in China op hoofdlijnen beschrijven en verklaren.\nEénkindpolitek.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "72d36aaf-77e5-4db2-b057-33ec9d82fd3a",
 		"prefix": "AK/K/8/18.2",
-		"title": "De kandidaat kan de omvang en de richting van binnenlandse migratie en de ontwikkeling daarin vanaf 1980 op hoofdlijnen in China beschrijven en verklaren.",
+		"title": "De kandidaat kan de omvang en de richting van binnenlandse migratie en de ontwikkeling daarin vanaf 1980 op hoofdlijnen in China beschrijven en verklaren.\nHuskou.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "516a3caf-b559-4d57-8027-f288098ec4df",
 		"prefix": "AK/K/8/18.3",
-		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.",
+		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.\nBraindrain.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2fe7596f-bb7b-43b4-a920-9c7ef580b069",
@@ -4712,11 +4778,12 @@
 	{
 		"id": "2b7cfa13-50db-4a33-b5cf-ab1e43bb5b56",
 		"prefix": "AK/K/8/18.5",
-		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking vanaf 1980 in China voor wonen, werken, verkeer en milieu beschrijven.",
+		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking vanaf 1980 in China voor wonen, werken, verkeer en milieu beschrijven.\nHutong.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "25d059a6-32f2-4ed0-a593-34ae5212607a",
@@ -4730,47 +4797,52 @@
 	{
 		"id": "e1c35956-ec69-47ae-ad25-56a541ea38cc",
 		"prefix": "AK/V/1/22.1",
-		"title": "De kandidaat kan kenmerken van tropische stormen en tropische orkanen in het zuidoosten van de V.S. beschrijven.",
+		"title": "De kandidaat kan kenmerken van tropische orkanen en tornado's in de Verenigde Staten beschrijven.\nHurricane.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"34618247-e404-4f12-9965-4a49b8c3e9e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "67be68c8-0a7c-4016-90df-ab98fbbaf192",
 		"prefix": "AK/V/1/22.2",
-		"title": "De kandidaat kan het veelvuldig voorkomen van tropische stormen en tropische orkanen in het zuidoosten van de V.S. verklaren.",
+		"title": "De kandidaat kan het veelvuldig voorkomen van tropische orkanen en van tornado's de Verenigde Staten verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"34618247-e404-4f12-9965-4a49b8c3e9e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "520a317a-db63-4966-9c9b-b2d979b7c071",
 		"prefix": "AK/V/1/22.3",
-		"title": "De kandidaat kan gevolgen van deze tropische stormen en tropische orkanen in het zuidoosten van de V.S. beschrijven voor wonen, werken en verkeer.",
+		"title": "De kandidaat kan gevolgen van deze tropische orkanen en van tornado's de Verenigde Staten beschrijven voor wonen, werken en verkeer.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"34618247-e404-4f12-9965-4a49b8c3e9e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5a597a10-db9e-4ef1-b824-05c5e26959c6",
 		"prefix": "AK/V/1/22.4",
-		"title": "De kandidaat kan maatregelen om gevolgen van tropische stormen en orkanen in het zuidoosten van de V.S. te voorkomen of te verzachten of om de samenleving daarop voor te bereiden dan wel daaraan aan te passen, beschrijven en verklaren en voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"title": "De kandidaat kan maatregelen om gevolgen van orkanen in het zuidoosten van de Verenigde Staten en van tornado's te voorkomen of te verzachten of om de samenleving daarop voor te bereiden dan wel daaraan aan te passen, beschrijven en verklaren en voor- en nadelen vanuit verschillende dimensies beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"34618247-e404-4f12-9965-4a49b8c3e9e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3e5ab581-abd5-43b6-8521-e833568a39fe",
 		"prefix": "AK/V/3/24.1",
-		"title": "De kandidaat kan de ligging van grote waterbouwkundige projecten in het Midden-Oosten beschrijven en verklaren.",
+		"title": "De kandidaat kan de ligging van grote waterbouwkundige projecten in het Midden-Oosten beschrijven en verklaren.\nZuidoost-Anatoliëproject.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"3c0d13c6-9474-4568-84d5-edf052993c72"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4ba4d83b-bccd-4b46-b5de-e0b3424bbdc8",
@@ -4779,7 +4851,8 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"3c0d13c6-9474-4568-84d5-edf052993c72"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f064ac05-8e34-4ad4-96ae-5971b546f1dc",
@@ -4802,38 +4875,42 @@
 	{
 		"id": "3416a2d6-37f0-44d0-8f85-4ebb76fcc4f9",
 		"prefix": "AK/V/5/26.1",
-		"title": "De kandidaat kan de ligging van de betreffende stedelijke zones in China op kaarten en lucht- of satellietfoto’s herkennen, beschrijven en verklaren.",
+		"title": "De kandidaat kan de ligging van de stedelijke zones Guangzhou en Shanghai beschrijven en verklaren. Megastad.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "bc66d184-1cd9-42f2-a023-c47fa0ac605e",
 		"prefix": "AK/V/5/26.2",
-		"title": "De kandidaat kan de groei van desbetreffende stedelijke zones in China beschrijven en verklaren met behulp van de factoren natuurlijke aanwas en migratie.",
+		"title": "De kandidaat kan de groei van stedelijke zones Guangzhou en Shanghai beschrijven en verklaren met behulp van de factoren natuurlijke en sociale bevolkingsgroei.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0feb2069-1136-41b1-b136-ce8c4fc5f678",
 		"prefix": "AK/V/5/26.3",
-		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking voor de inrichting en de ruimtelijke kwaliteit van de betreffende stedelijke zones beschrijven en verklaren en de overeenkomsten en verschillen tussen de betreffende regio’s beschrijven.",
+		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking voor de inrichting en de ruimtelijke kwaliteit van de stedelijke zones Guangzhou en Shanghai beschrijven en verklaren en de overeenkomsten en verschillen tussen de betreffende regio’s beschrijven. \nGated communities (beveiligde wijken).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7cf3f067-7754-479c-aa66-df3cff0cd147",
 		"prefix": "AK/V/5/26.4",
-		"title": "De kandidaat kan de maatregelen ter verbetering van de ruimtelijke kwaliteit in de betreffende stedelijke zones in China beschrijven en vergelijken en bij deze maatregelen voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"title": "De kandidaat kan de maatregelen ter verbetering  in de stedelijke zones Guangzhou en Shanghai beschrijven en vergelijken en bij deze maatregelen voor- en nadelen vanuit verschillende dimensies beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5b009673-0c33-4be1-8e4f-25c213b7e5a9",
@@ -31089,5 +31166,189 @@
 		"title": "De kandidaat kan een standpunt over de vergelijking van het gedrag van mensen en dieren bediscussiëren en beargumenteren",
 		"id": "c56865ba-ffdb-4c23-bd75-3667d52f52ae",
 		"unreleased": true
+	},
+	{
+		"id": "add5027e-f5ce-4520-9912-7732b99e224e",
+		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.\nBodemerosie, delta, kwelwater en piekafvoer.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		]
+	},
+	{
+		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
+		"title": "De kandidaat kan oorzaken van het versterkt broeikaseffect beschrijven en maatregelen om het versterkt broeikaseffect aan te pakken.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		]
+	},
+	{
+		"id": "305a57c4-9077-4f4d-a604-f9fa6d9a9681",
+		"title": "De kandidaat kan verschillende typen aardrijkskundige vragen hanteren; daarbij kan hij/zij onderscheid maken in vragen die beschrijven: wat is daar? Waar is dat?",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "7ba8c446-db56-43aa-83ca-e3ed3f19e1d8",
+		"title": "De kandidaat kan verschillende typen aardrijkskundige vragen hanteren; daarbij kan hij/zij onderscheid maken in vragen die verklaren: waarom is dat daar? Waarom is dat daar zo? Wie krijgt wat, waar en waarm?",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "af6ceb62-0f65-4e3d-9147-d1f76592cdf8",
+		"title": "De kandidaat kan de verschillende typen aardrijkskundige vragen hanteren; daarbij kan hij/zij onderscheid maken in vragen die waarderen: is dat daar gewenst? is dat daar zo gewenst? hoe beleeft men dat daar?",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "a83514db-6d87-4b95-9b08-b8034b427bb3",
+		"title": "De kandidaat kan de verschillende typen aardrijkskundige vragen hanteren; daarbij kan hij/zij onderscheid maken in vragen die probleem oplossen/adviseren: wat kan daar? Waar kan dat?",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "268689a3-87a1-45d3-882a-dc74fa5697da",
+		"title": "De kandidaat kan de verschillende typen aardrijkskundige vragen hanteren; daarbij kan hij/zij onderscheid maken in vragen die voorspellen: waar kan dat toe leiden? Waartoe kan dat daar leiden?",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "22c220bf-3b12-4678-ba45-0f5ac9248a46",
+		"title": "De kandidaat kan bij gegeven contexten en vraagstukken een passende vraag kiezen/formuleren",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "5dd70fb2-a3d7-4825-9a22-659a39fb9d23",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: verschijnselen en gebieden vergelijken in ruimte en tijd.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "2ef7f52e-b4bd-41d7-8313-3c58f32482f6",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: enkelvoudige verbanden leggen binnen een gebied en tussen gebieden.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "49f8628a-fd52-4002-b7ad-9d1309f14d95",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: gebieden en verschijnselen vanuit een dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "29b87b92-1a3b-428a-88db-3efc0b179cf3",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "419a6d2f-9b83-4111-9b79-d0939a4cdbcf",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "048736de-9aaf-44dc-9372-390be8b8b61d",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: verschijnselen en gebieden vergelijken in ruimte en tijd.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "edb2c8d2-48dd-406b-8210-83f8587e93bf",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: enkelvoudige/meervoudige verbanden leggen binnen een gebied en tussen gebieden.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "5f24b268-3d45-4c49-8e55-4da6ada94639",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen vanuit een of meer dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "b3c69ec6-3b43-4762-a66c-ecd70655c736",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "d0a66a89-de3f-4e50-a57e-26eba9d454ef",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "95028b4e-2ff4-40b6-a33c-74c90f01d4f8",
+		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: bij gebieden en verschijnselen onderscheid maken tussen het algemene en het bijzondere.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		]
+	},
+	{
+		"id": "7f05788e-c028-4d16-9e8f-f77722fc1370",
+		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse en kaartinterpretatie toepassen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		]
+	},
+	{
+		"id": "ae8ec050-425a-4401-b464-5f0b3217c793",
+		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		]
+	},
+	{
+		"id": "e11242e8-1371-43f2-9d55-94b4083fe7c2",
+		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen / maken.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		]
+	},
+	{
+		"id": "38a20e6a-c241-4a49-a5c7-6b91215f4b48",
+		"title": "De kandidaat kan verschijnselen op luchtfoto’s en satellietbeelden herkennen en met kaarten vergelijken.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		]
 	}
 ]
