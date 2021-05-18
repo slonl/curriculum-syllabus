@@ -319,14 +319,18 @@
 		"title": "s-Hertogenbosch, Afsluitdijk, Alkmaar, Almelo, Almere, Alphen a.d. Rijn, Ameland, Amersfoort, Amstelveen, Amsterdam, Amsterdam-Rijnkanaal, Apeldoorn, Arnhem, Assen, Bergen op Zoom, Biesbos, Breda, Delft, Delfzijl, Den Haag, Den Helder, Deventer, Doetinchem, Dordrecht, Drachten, Drenthe, Eindhoven, Emmeloord, Emmen, Enkhuizen, Enschede, Flevoland, Fryslân (Friesland), Gelderland, Gouda, Groningen (prov.), Groningen (stad), Haarlem, Haarlemmermeer, Heerenveen, Heerlen, Helmond, Hengelo, Hilversum, Hoogeveen, Ijssel, Ijsselmeer, Kampen, Leeuwarden, Leiden, Lek, Lelystad, Limburg, Maas, Maastricht, Markermeer, Meppel, Middelburg, Neder-Rijn, Nieuwe Waterweg, Nijmegen, Noord-Brabant, Noord-Holland, Noordzeekanaal, Oosterschelde, Oss, Overijssel, Purmerend, Randstad, Rijnmond, Roermond, Roosendaal, Rotterdam, Schiermonnikoog, Schiphol, Sneek, Terneuzen, Terschelling, Texel, Tilburg, Twente, Utrecht (prov.), Utrecht (stad), Vaalserberg, Veendam, Veluwe, Venlo, Vlieland, Vlissingen, Waal, Waddenzee, Wageningen, Westerschelde, Zaandam, Zeeland, Zeeuws-Vlaanderen, Zoetermeer, Zuid-Holland, Zutphen, Zwolle",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "91dce357-3509-4b29-9315-e74be379b641",
 		"title": "Albanië, Alpen, Antwerpen, Ardennen, Athene, Barcelona, België, Belgrado, Berlijn, Bern, Boekarest, Bordeaux, Bosnië-Hercegovina, Bratislava, Brussel, Budapest, Bulgarije, Cyprus, Denemarken, Donau, Dublin, Duitsland, Engeland, Estland, Finland, Frankrijk, Genève, Glasgow, Griekenland, Hamburg, Helsinki, Het Kanaal, Hongarije, Ierland, Ijsland, Istanbul, Italië, Kaspische Zee, Kaukasus, Keulen, Kopenhagen, Kroatië, Letland, Lissabon, Litouwen, Liverpool, Londen, Luxemburg (land), Luxemburg (stad), Lyon, Madrid, Malta, Marseille, Middellandse Zee, Milaan, Moskou, München, Nederland, Noordzee, Noorwegen, Oekraïne, Oostenrijk, Oostzee, Oslo, Parijs, Po, Polen, Portugal, Praag, Pyreneeën, Rhône, Rijn, Roemenië, Rome, Ruhrgebied, Rusland, Scandinavië, Schelde, Schotland, Seine, Servië, Sicilië, Sint Petersburg, Slovenië, Slowakije, Spanje, Stockholm, Straat van Gibraltar, Theems, Tsjechië, Ural (Oeral), Verenigd Koninkrijk, Vlaanderen, Volga (Wolga), Wallonië, Warschau, Wenen, Zwarte Zee, Zweden, Zwitserland",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
@@ -341,7 +345,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c341f2c1-59fc-41b8-ac56-f147b882711c"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b7b3c426-667a-42c3-9ce5-69e55ba25c68",
@@ -349,53 +355,67 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c341f2c1-59fc-41b8-ac56-f147b882711c"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "d810a37d-5a92-40ff-8f20-407fdb213a17",
 		"title": "Spanje, Almeria, La Coruna, Zaragoza, Ebro, Duero (Douro), Tajo (Taag), Guadalquivir, Sierra Nevada, Cantabrisch gebergte, Kastiliaans Scheidingsgebergte, Spaanse Hoogvlakte",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "0e16818d-4331-4c87-a978-f31898f151a3",
-		"title": "V.S., New orleans, Golf van Mexico, Colorado, Rio Grande, Great Salt Lake, Appalachen, Kustgebergte, Great Basin (Grote Bekken), Great Plains (Prairiën)",
+		"title": "Kaartbeeld Nederland: Noordzee",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
-		]
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9",
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "ea60674d-16e8-4e71-960c-917422c88df3",
 		"title": "Nederland. Lobith, Haringvliet, Rijnmond, Oosterscheldekering, Haringvlietdam, Broouwersdam, Oostelijk Flevoland, Zuidelijk Flevoland",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
-		"title": "Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infiltreren/afstromen, regenwater, smeltwater, grondwater, oppervlaktewater, brak water, drinkwater, Korte waterkringloop, Lange waterkringloop, Grondwater, waterput, bron, oase, stroomgebied, bovenloop, middenloop, benedenloop, waterscheiding, riviermonding, delta, Piekafvoer, Reliëf, hoogteligging, N.A.P., Grondsoorten, doorlaatbaarheid, filterende werking, Sedimentatie, Bodemerosie, Verdroging, Verzilting/ontzilting, vervuiling, rivierenlandschap, uiterwaard, zomerdijk, winterdijk, Waterbeheer, polder, boezem, spaarbekken, stuw/stuwdam, sluis, bemalen, draineren, kribben, nevengeul, dijkverhoging, dijkverlegging, uiterwaardafgraving, Rijkswaterstaat, Waterschap, Waterkwaliteit, Waterkantiteit, Drinkwaterwinning, waterwingebied, zoetwaterzak, irrigatie, Waterproblematiek, versterkt broeikaseffect, ontbossing, grijs water, Kust en kustverdediging, getijden, zeewering, rivierdelta, Deltawerken",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
-	},
-	{
-		"id": "e774d834-c713-409e-9546-1f09baf744bd",
-		"title": "Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infiltreren/afstromen, regenwater, smeltwater, grondwater, oppervlaktewater, brak water, drinkwater, Korte waterkringloop, Lange waterkringloop, Grondwater, aquifer, fossiel water, waterput, bron, oase, stroomgebied, bovenloop, middenloop, benedenloop, waterscheiding, riviermonding, delta, Stroomstelsel, debiet, regiem, Soorten rivieren, regenrivier, gletsjerrivier, gemengde rivier, wadi, Piekafvoer, Reliëf, hoogteligging, N.A.P., Grondsoorten, doorlaatbaarheid, filterende werking, Sedimentatie, Bodemerosie, Modderstromen, Verdroging, Verzilting/ontzilting, vervuiling, rivierenlandschap, oeverwal, komgrond, uiterwaard, zomerdijk, winterdijk, Waterbeheer, polder, boezem, overloop, spaarbekken, stuw/stuwdam, sluis, bemalen, draineren, kribben, nevengeul, dijkverhoging, dijkverlegging, uiterwaardafgraving, Rijkswaterstaat, Waterschap, Waterkwaliteit, Waterkantiteit, Drinkwaterwinning, waterwingebied, zoetwaterzak, irrigatie,  Industrieel watergebruik, koelwater, proceswater, Waterproblematiek, versterkt broeikaseffect, ontbossing, grijs water, Kust en kustverdediging, getijden, zeewering, rivierdelta, Deltawerken",
+		"title": "Kaartbeeld Nederland: Eems, Maas, IJssel, IJsselmeer, Rijn, Schelde, Waal",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": ""
+	},
+	{
+		"id": "e774d834-c713-409e-9546-1f09baf744bd",
+		"title": "Kaartbeeld Midden-Oosten: Dode Zee, Eufraat, Jordaan, Nijl, Tigris.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"description": ""
 	},
 	{
 		"id": "8b11efc9-3c19-4212-b0b7-2e10577f31ed",
-		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit",
+		"title": "Kaartbeeld China: Chang Jiang, Drieklovendam, Grote Kanaal, Himalaya, Huang He, Lössplateau, Xi-Jiang",
 		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "df4472b4-1885-4e4a-b348-d51d4a2af6f2",
@@ -404,42 +424,51 @@
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c",
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "4a1f7479-30a9-4898-a416-d33c8d01260c",
-		"title": "Bevolkingsontwikkeling, natuurlijke bevolkingsgroei, sociale bevolkingsgroei, vergrijzing, ontgroening, transitiemodel, één-kind politiek, Natuurlijke bevolkingsgroei, geboortecijfer/geboorteoverschot, sterftecijfer/sterfteoverschot, Sociale bevolkingsgroei, migratie, immigratie, emigratie, remigratie, gezinshereniging, Migratiemotieven, aantrekkingsfactoren, afstotingsfactoren, Sociale verhoudingen, segregatie, sociale ongelijkheid, integratie, Bevolkingsopbouw, bevolkingspiramide/leeftijdsdiagram, Ruimte, ruimtegebruik, voorzieningen, bevolkingsdichtheid, bevolkingspreiding, bebouwingsdichtheid, Verstedelijking, urbanisatie, suburbanisatie, Stedelijke geleding, stratenpatronen, historische stadskern, Verkeer, infrastructuur, congestie, mobiliteit, forensisme, bereikbaarheid, Ruimtelijke kwaliteit, veiligheid, onderhoud, sociale controle/contacten, participatie, leefbaarheid, Voorzieningen, verzorgingsgebied, Ruimtelijke Ordening, bestemmingsplan",
+		"title": "Kaartbeeld Nederland: 12 Nederlandse provincies, Amsterdam, Den Haag, Groene Hart, Randstad, Rotterdam, Utrecht.",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
 		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg",
 		"examenprogramma_eindterm_id": [
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "c488cee3-73fc-451b-9263-13078b930862",
-		"title": "Bevolkingsontwikkeling, natuurlijke bevolkingsgroei, sociale bevolkingsgroei, vergrijzing, ontgroening, levensverwachting, transitiemodel, één-kind politiek, Natuurlijke bevolkingsgroei, geboortecijfer/geboorteoverschot, sterftecijfer/sterfteoverschot, Sociale bevolkingsgroei, migratie, immigratie, emigratie, remigratie, gezinshereniging, Migratiemotieven, aantrekkingsfactoren, afstotingsfactoren, seizoensmigratie, gastarbeid, braindrain, hukou, Sociale verhoudingen, segregatie, sociale ongelijkheid, integratie, Bevolkingsopbouw, bevolkingspiramide/leeftijdsdiagram, Ruimte, ruimtegebruik, voorzieningen, bevolkingsdichtheid, bevolkingspreiding, bebouwingsdichtheid, Verstedelijking, urbanisatie, suburbanisatie, agglomeratievorming, hutongs, Stedelijke geleding, stratenpatronen, historische stadskern, concentrisch groeimodel, meerkernen groeimodel, sector groeimodel, agglomeratie, stedelijke zone, Verkeer, infrastructuur, congestie, mobiliteit, forensisme, bereikbaarheid, Ruimtelijke kwaliteit, veiligheid, onderhoud, sociale controle/contacten, participatie, leefbaarheid, Voorzieningen, verzorgingsgebied, drempelwaarde, reikwijdte, Ruimtelijke Ordening, bestemmingsplan, inspraak",
+		"title": "Kaartbeeld Duitsland: Berlijn, Hamburg, Frankfurt, München, Ruhrgebied.",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
 		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg, Duitsland, Düsseldorf, Duisburg, Essen, Dortmund, Leipzig, Dresden, Frankfurt, Stuttgart",
 		"examenprogramma_eindterm_id": [
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
-		"title": "China, Tianjin, Shenyang, Chongqing, Guangzhou (Kanton), Harbin, Wuhan, Xi’an",
+		"title": "Kaartbeeld China: Beijing, Guangzhou (Kanton), Hongkong, Shanghai",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
@@ -460,32 +489,32 @@
 	{
 		"id": "75ba42b0-2c54-4815-ab56-7b823fde6acc",
 		"title": "Waterbouwkundige projecten, Zuidoost-Anatoliëproject, Aswandamproject, Waterconflict, Irrigatie, Beregening, Oppervlakte-irrigatie, Druppelirrigatie, Kanaal, Stuwdam, Stuwmeer",
-		"examenprogramma_eindterm_id": [
-			"3c0d13c6-9474-4568-84d5-edf052993c72"
-		]
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
-		"title": "Eufraat, Tigris, Syrië, Uganda, Aswandam, Atatürk-stuwmeer",
+		"title": "Kaartbeeld: Aswandam en Atatürkdam",
 		"examenprogramma_eindterm_id": [
 			"3c0d13c6-9474-4568-84d5-edf052993c72"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "52ae6fb2-8e8d-44fd-a816-6140d8ca64b3",
-		"title": "Metropolitane gebieden, Megasteden, Arbeidsmigratie, Concessiegebieden, Gated communities (beveiligde wijken), Eénpartijstelsel",
+		"title": "Kaartbeeld: Shenzen en Macau.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "afac2285-80a1-4dc6-a6a9-8e5ca0b54d46",
 		"title": "Guangzhou (Kanton), Shenzen, Foshan, Aomen (Macau), Chongqing, Xi-Jiang, Chang-Jiang, Suzhou, Hangzhou",
 		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"0198c336-b31b-48cb-9df7-18f9b412473c"
-		]
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "56a96dcf-9641-488a-a316-e918436ea88b",
@@ -2188,5 +2217,23 @@
 		"title": "soort, geslacht, stamboom, homologie, analogie, kenmerk, reproductieve isolatie",
 		"id": "eb2ccc71-dda1-47a9-b779-df63cc640aac",
 		"unreleased": true
+	},
+	{
+		"id": "3c6d0d2e-d8d7-488d-989a-4bef8c9942a4",
+		"title": "Kaartbeeld Spanje: Cantabrisch Gebergte, Middellandse Zee, Pyreneeën, Sierra Nevada",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9",
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		]
+	},
+	{
+		"id": "c40f37a9-b50b-42d7-8685-b99d17a6be41",
+		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9",
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		]
 	}
 ]
