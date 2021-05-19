@@ -3910,38 +3910,42 @@
 	{
 		"id": "79183393-789c-41f0-bb9a-e9b7ddecd899",
 		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: verschijnselen en gebieden vergelijken in ruimte en tijd",
+		"title": "De kandidaat kan voorbewerkte informatie uit verschillende bronnen gebruiken, namelijk: informatie uit papieren en digitale kaarten, atlassen, teksten, figuren, tabellen, animaties.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
 		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: verschijnselen en gebieden vergelijken in ruimte en tijd",
+		"title": "De kandidaat kan voorbewerkte informatie uit verschillende bronnen selecteren en gebruiken, namelijk: informatie uit papieren en digitale kaarten, atlassen, teksten, figuren, tabellen, animaties, luchtfoto’s en satellietbeelden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
 		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: enkelvoudige verbanden leggen binnen een gebied en tussen gebieden",
+		"title": "De kandidaat kan deze voorbewerkte informatie uit verschillende bronnen ordenen, analyseren en daarover conclusies trekken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "71cc1ba5-d6b9-498e-9642-93553d2fb7c6",
 		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: enkelvoudige/meervoudige verbanden leggen binnen een gebied en tussen gebieden.",
+		"title": "De kandidaat kan deze voorbewerkte informatie uit verschillende bronnen ordenen, analyseren en daarover conclusies trekken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b37340d8-fb82-460e-a97e-93f1313dd4be",
@@ -3950,7 +3954,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "c2970072-ada5-4b23-99c1-f85ab6586ee4",
@@ -3959,7 +3965,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "ec8ae704-3248-4a34-90bb-a3d79a621054",
@@ -3968,7 +3976,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "c90ac4c7-c75e-413d-b2ea-e074a6cbafc3",
@@ -3977,7 +3987,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "a614410b-26e0-4491-bdf7-24c8d61de0c1",
@@ -3986,7 +3998,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "d945865d-7478-4831-9cbd-f909b6308348",
@@ -3995,7 +4009,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "6dc7cbb3-1689-4b1b-a75e-09e0d93b10f7",
@@ -4004,43 +4020,49 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
 		"prefix": "AK/K/3.3",
-		"title": "De kandidaat kan verschillende soorten digitale en papieren kaarten gebruiken, waaronder topografische kaarten, overzichtskaarten en thematische kaarten",
+		"title": "De kandidaat kan aan de hand van een gegeven stappenplan met opties en enkelvoudige aardrijkskundige vragen een werkplan opstellen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "836458b7-bbb9-4e11-a95f-7245e8b3a578",
 		"prefix": "AK/K/3.3",
-		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse toepassen",
+		"title": "De kandidaat kan gegevens uit de eerste hand (primaire data) verzamelen in de de omgeving van de school of eigen woning of tijdens een excursie via observaties, metingen, enquêtes en/of interviews.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e4feb30e-f9c6-4d77-98a2-4fad54dca628",
 		"prefix": "AK/K/3.3",
-		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse en kaartinterpretatie toepassen",
+		"title": "De kandidaat kan aangereikte gegevens uit de tweede hand (secundaire data bestaande uit bijv. kaarten, figuren, beelden, cijfers, statistieken, beschrijvingen) analyseren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2a140987-3760-45cf-ac04-b5c5dfe06ab0",
 		"prefix": "AK/K/3.3",
-		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
+		"title": "De kandidaat kan aan de hand van gegeven richtlijnen de resultaten presenteren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
@@ -4054,11 +4076,12 @@
 	{
 		"id": "8e6153de-3e72-4c1a-b8ad-2785a581a7c1",
 		"prefix": "AK/K/3.3",
-		"title": "De kandidaat kan verschijnselen op luchtfoto’s en satellietbeelden herkennen en met kaarten vergelijken.",
+		"title": "De kandidaat kan aan de hand van gegeven richtlijnen sterke en zwakke punten van het onderzoek verwoorden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8ad176d8-7308-4fd8-8628-fa4002989a88",
@@ -31349,6 +31372,22 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		]
+	},
+	{
+		"id": "07aedfda-1934-479e-961b-adcfc2f7eeb0",
+		"title": "De kandidaat kan aan de hand van een gegeven stappenplan met opties en enkelvoudige/meervoudige aardrijkskundige vragen een werkplan opstellen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"b762a819-386a-49aa-9665-ad4e0ee964bc"
+		]
+	},
+	{
+		"id": "a5c8b42d-4ef3-443a-973c-053cf5e4c27c",
+		"title": "De kandidaat kan aangereikte gegevens uit de tweede hand (secundaire data bestaande uit bijv. kaarten, figuren, beelden, cijfers, statistieken, beschrijvingen) analyseren en aanvullen met relevant materiaal.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		]
 	}
 ]
