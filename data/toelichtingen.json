@@ -1081,11 +1081,13 @@
 	},
 	{
 		"id": "e440bbfc-c6ca-4bfb-b52d-46f98d1b4102",
-		"title": "Daarbij kan hij/zij onderscheid maken in vragen die: \r\n- beschrijven : wat is daar? waar is dat? (een voorstelling geven van een aardrijkskundig verschijnsel, proces en/of vraagstuk in woord, cijfers en/of beeld (inclusief kaarten). Onder beschrijven valt ook herkennen.\r\n- verklaren : waarom is dat daar? waarom is dat daar zo? wie krijgt wat, waar en waarom? uitleg geven van samenhangen tussen aardrijkskundige verschijnselen en hoe aardrijkskundige processen werken. Het kan gaan om oorzaak-gevolg relaties (causale verklaring), functionele relaties (functionele verklaring) of om ontwikkelingen in de tijd (historische verklaring).\r\n- waarderen : is dat daar gewenst? is dat daar zo gewenst? hoe beleeft men dat daar? bij ontwikkeling(en), plan(nen) en maatregel(en) voor- en nadelen herkennen vanuit verschillende dimensies en argumenten geven bij het maken van keuzen.\r\n- probleem oplossen/adviseren : wat kan daar? waar kan dat? een gewenste aanpak (plan, maatregel) voor een vraagstuk voorstellen en daarvoor argumenten geven.\r\n - voorspellen : waar kan dat toe leiden? waartoe kan dat daar leiden? een verwachting uitspreken omtrent een aardrijkskundig verschijnsel, proces of vraagstuk en daarvoor argumenten geven.",
+		"title": "Daarbij kan hij/zij onderscheid maken in vragen die: \n- beschrijven : wat is daar? waar is dat? (een voorstelling geven van een aardrijkskundig verschijnsel, proces en/of vraagstuk in woord, cijfers en/of beeld (inclusief kaarten). Onder beschrijven valt ook herkennen.\n- verklaren : waarom is dat daar? waarom is dat daar zo? wie krijgt wat, waar en waarom? uitleg geven van samenhangen tussen aardrijkskundige verschijnselen en hoe aardrijkskundige processen werken. Het kan gaan om oorzaak-gevolg relaties (causale verklaring), functionele relaties (functionele verklaring) of om ontwikkelingen in de tijd (historische verklaring).\n- waarderen : is dat daar gewenst? is dat daar zo gewenst? hoe beleeft men dat daar? bij ontwikkeling(en), plan(nen) en maatregel(en) voor- en nadelen herkennen vanuit verschillende dimensies en argumenten geven bij het maken van keuzen.\n- probleem oplossen/adviseren : wat kan daar? waar kan dat? een gewenste aanpak (plan, maatregel) voor een vraagstuk voorstellen en daarvoor argumenten geven.\n - voorspellen : waar kan dat toe leiden? waartoe kan dat daar leiden? een verwachting uitspreken omtrent een aardrijkskundig verschijnsel, proces of vraagstuk en daarvoor argumenten geven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1d2dce87-2fae-4829-8faf-d36bc4e62e2a",
