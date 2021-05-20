@@ -31718,21 +31718,21 @@
 		"ce_se": "ce",
 		"prefix": "MVT/AR/V/DomeinA/1a.1",
 		"examenprogramma_eindterm_id": [
-			"82a57889-3b27-4768-b663-ab5a45eea210"
+			"82a57889-3b27-4768-b663-ab5a45eea210",
+			"0b5b9bcf-fcc9-4321-b71c-45d5b88d1e28",
+			"00bf697d-b19a-430d-a987-79a4c79871ca",
+			"0b46fd6b-98dd-4c6d-8f5e-c96133ac8015",
+			"2545e2e6-175b-4278-aadf-220b411c2253"
 		],
-		"title": "De kandidaat kan  een korte, eenvoudige brief of e-mail begrijpen.",
+		"title": "De kandidaat kan een korte, eenvoudige brief of e-mail begrijpen.",
 		"id": "8bb2b0ce-ec62-4d1e-9f84-5c86eeba3ee1",
 		"unreleased": true,
-		"description": ""
-	},
-	{
-		"ce_se": "ce",
-		"prefix": "MVT/AR/V/DomeinA/2a.1",
-		"examenprogramma_eindterm_id": [
-			"82a57889-3b27-4768-b663-ab5a45eea210"
+		"description": "",
+		"examenprogramma_id": [
+			"ddc10650-6c3d-4666-8727-e895e0a9bf03"
 		],
-		"title": "De kandidaat kan elementaire soorten standaardbrieven, faxen of een algemene kennisgeving over vertrouwde onderwerpen begrijpen.",
-		"id": "f7f3819c-68ce-496f-9e37-86d714011c51",
-		"unreleased": true
+		"examenprogramma_domein_id": [
+			"7df1f753-a43d-4ec7-809f-47341f61447c"
+		]
 	}
 ]
