@@ -31713,5 +31713,15 @@
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
 		]
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/AR/V/DomeinA/1a.1",
+		"examenprogramma_eindterm_id": [
+			"82a57889-3b27-4768-b663-ab5a45eea210"
+		],
+		"title": "De kandidaat kan een korte, eenvoudige brief of e-mail begrijpen.",
+		"id": "8bb2b0ce-ec62-4d1e-9f84-5c86eeba3ee1",
+		"unreleased": true
 	}
 ]
