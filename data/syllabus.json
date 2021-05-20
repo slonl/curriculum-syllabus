@@ -559,13 +559,6 @@
 			"fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
 			"b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
 			"71cc1ba5-d6b9-498e-9642-93553d2fb7c6",
-			"b37340d8-fb82-460e-a97e-93f1313dd4be",
-			"c2970072-ada5-4b23-99c1-f85ab6586ee4",
-			"ec8ae704-3248-4a34-90bb-a3d79a621054",
-			"c90ac4c7-c75e-413d-b2ea-e074a6cbafc3",
-			"a614410b-26e0-4491-bdf7-24c8d61de0c1",
-			"d945865d-7478-4831-9cbd-f909b6308348",
-			"6dc7cbb3-1689-4b1b-a75e-09e0d93b10f7",
 			"b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
 			"836458b7-bbb9-4e11-a95f-7245e8b3a578",
 			"e4feb30e-f9c6-4d77-98a2-4fad54dca628",
@@ -589,7 +582,6 @@
 			"1a798fdc-7b1e-483e-ac22-aa0f7e05906a",
 			"2b058050-cd08-4ae2-995e-91ec55383487",
 			"9a551f5d-ea1f-4129-8a8f-398833709c6d",
-			"6a878036-c7e1-4ec6-b56e-38e1e196e7e3",
 			"b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
 			"5f9d21ff-ac69-4d8c-be6d-b35b59fa60b5",
 			"2ed6d35f-d1d8-4061-9a37-053187ac4b21",
@@ -614,17 +606,12 @@
 			"abbf8427-5b56-4c74-bc94-36b8c92f3b14",
 			"58843a76-d3d2-4e95-9f6d-679bbfa7269e",
 			"7a6b4b28-1b0a-4596-b925-22eeba55c091",
-			"586bb26b-d1c1-4927-8088-ca8c440b55eb",
-			"c384e856-f0bd-4b72-9141-8444312c01cf",
-			"3ba7ecd7-4fdb-4c84-a53e-bc6c2a263caa",
 			"19d045b3-e595-453b-ab50-c9a6cb381938",
 			"df36ddb4-dedc-401b-a66f-faf618e582e7",
-			"20cca5e7-18b4-45a0-9ed6-df5f62f78f70",
 			"b4586d6b-5e98-4467-ae82-dc1667cbbd13",
 			"26ed3cf1-7ecc-4a03-af1e-e79e6d637e16",
 			"40e73201-e611-44f4-84b5-7ed5154eacc1",
 			"ecea0c72-9d5e-4ec3-82e3-5244debb36b6",
-			"9b4aacaa-f3ed-4f20-bc1c-0fcda2da0ffa",
 			"dc72efcf-5fa3-4db4-a40a-4cf3dbd2cff8",
 			"f00bbfe5-e2f3-4f71-b471-cb6048610abb",
 			"00a8ee11-7e95-4e37-aaa4-e3f3131746b8",
@@ -660,33 +647,19 @@
 			"0feb2069-1136-41b1-b136-ce8c4fc5f678",
 			"7cf3f067-7754-479c-aa66-df3cff0cd147"
 		],
-		"syllabus_toelichting_id": [
-			"e440bbfc-c6ca-4bfb-b52d-46f98d1b4102"
-		],
 		"syllabus_vakbegrip_id": [
-			"e03dc13b-f25c-4fb7-9cb8-6fd3f58111b3",
-			"91dce357-3509-4b29-9315-e74be379b641",
 			"3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
-			"513c0f1d-681a-4323-ac82-75352dd629eb",
-			"b7b3c426-667a-42c3-9ce5-69e55ba25c68",
-			"d810a37d-5a92-40ff-8f20-407fdb213a17",
 			"0e16818d-4331-4c87-a978-f31898f151a3",
-			"ea60674d-16e8-4e71-960c-917422c88df3",
 			"fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
 			"e774d834-c713-409e-9546-1f09baf744bd",
 			"8b11efc9-3c19-4212-b0b7-2e10577f31ed",
-			"df4472b4-1885-4e4a-b348-d51d4a2af6f2",
 			"4a1f7479-30a9-4898-a416-d33c8d01260c",
-			"b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
 			"c488cee3-73fc-451b-9263-13078b930862",
-			"bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
 			"6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
 			"9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
 			"736e2078-8650-4393-90ad-adb54ca97de7",
-			"75ba42b0-2c54-4815-ab56-7b823fde6acc",
 			"b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
-			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3",
-			"afac2285-80a1-4dc6-a6a9-8e5ca0b54d46"
+			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3"
 		],
 		"ce_se": "CE",
 		"ingangsdatum": "2018",
@@ -3860,6 +3833,14 @@
 		],
 		"title": "Syllabus wiskunde vmbo",
 		"id": "61c66644-fb98-4d89-9e6f-1e0214010801",
+		"unreleased": true
+	},
+	{
+		"syllabus_specifieke_eindterm_id": [
+			"2a28f463-3915-4223-afad-6cb75a5210b9"
+		],
+		"title": "Syllabus moderne vreemde talen Arabisch vwo",
+		"id": "c642c322-2934-4453-b69b-f7aa4b5447dc",
 		"unreleased": true
 	}
 ]
