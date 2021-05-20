@@ -36,28 +36,25 @@
 	{
 		"id": "3336bc6d-5b27-4131-9121-e31568091d22",
 		"prefix": "D2.1",
-		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \r\nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \r\nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \r\nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \r\nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \r\nIV Monopolie: één aanbieder.",
+		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \nIV Monopolie: één aanbieder.",
 		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "a8502ebd-92bf-4d0c-b351-9cdf644aa9a4",
 		"prefix": "D2.2",
 		"title": "Het bepalen van de prijs en afzet die bij volkomen concurrentie, monopolistische concurrentie, oligopolie of monopolie maximale totale winst opleveren.",
 		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "d411ca5c-36d0-486a-b1d0-bb5674d9d0b5",
 		"prefix": "D2.3",
 		"title": "De mogelijkheden voor en gevolgen van prijsdiscriminatie voor de prijzen, afzet en winst bij monopolie.",
-		"examenprogramma_eindterm_id": [
-			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "d0196048-1a66-409b-bf45-feea0eb0fbbd",
@@ -1026,11 +1023,10 @@
 	},
 	{
 		"id": "81b40e43-492c-4f1a-a127-6bf3f7eea679",
-		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \r\n- de objectieve methode, \r\n- subjectieve methode",
+		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \n- de objectieve methode, \n- subjectieve methode",
 		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
-		]
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "ba3e81d8-86d5-46f7-9532-93c2deaa932c",
@@ -1087,7 +1083,10 @@
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_toelichting"
+		]
 	},
 	{
 		"id": "1d2dce87-2fae-4829-8faf-d36bc4e62e2a",
