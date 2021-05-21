@@ -65,11 +65,12 @@
 	{
 		"id": "c7518196-ad48-4b1b-a662-8eab7de491a5",
 		"prefix": "B3.3",
-		"title": "ademhaling, gaswisseling, ventilatiebewegingen, longcapaciteit, vitale capaciteit, dode ruimte, diffusie, wet van Fick, CO2-concentratie, O2-concentratie, buffers van hemoglobine en HCO3-, dissimilatie, assimilatie, beperkende factor.",
+		"title": "ademhaling, gaswisseling, ventilatiebewegingen, longcapaciteit, vitale capaciteit, dode ruimte, diffusie, wet van Fick, CO2-concentratie, O2-concentratie, bufferende werking van hemoglobine en HCO3-, dissimilatie, assimilatie, beperkende factor.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "abed141e-acbe-470a-bcb2-a75d4ff0c332",
@@ -83,29 +84,32 @@
 	{
 		"id": "976a72e2-4c1a-45f9-882c-6e35f8b77c31",
 		"prefix": "B3.5",
-		"title": "uitscheiding, waterhuishouding, ultrafiltratie, reabsorptie/terugresorptie, voorurine, osmotische waarde, ADH, ureum, urine, buffers van HCO3-, galzouten, galkleurstoffen, zweet.",
+		"title": "uitscheiding, waterhuishouding, ultrafiltratie, reabsorptie/terugresorptie, voorurine, osmotische waarde, ADH, ureum, urine, bufferende werking van HCO3-, galzouten, galkleurstoffen, zweet.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b9a0188d-0361-42d1-90e0-02556a1aac0b",
 		"prefix": "B3.6",
-		"title": "transport, open en gesloten bloedsomloop, enkele en dubbele bloedsomloop, grote bloedsomloop, kleine bloedsomloop, embryonale bloedsomloop, bloedplasma, weefselvloeistof, lymfe, beenmerg, bloedsamenstelling, rode bloedcellen, witte bloedcellen, bloedplaatjes, hartslagfrequentie, slagvolume, sinusknoop, AV-knoop, bundel van His, bloeddruk, diastole, systole, zuurstoftransport en koolstofdioxidetransport, voedings- en afvalstoffen, Bohr-effect, bufferende stoffen, HCO3-, hemoglobine, myoglobine, bloedstolling, cholesterol, tegenstroomprincipe, filtratiedruk, colloïd-osmotische druk, verdampingsstroom, cohesie, adhesie, worteldruk, oedeem.",
+		"title": "transport, open en gesloten bloedsomloop, enkele en dubbele bloedsomloop, grote bloedsomloop, kleine bloedsomloop, embryonale bloedsomloop, bloedplasma, weefselvloeistof, lymfe, beenmerg, bloedsamenstelling, rode bloedcellen, witte bloedcellen, bloedplaatjes, hartslagfrequentie, slagvolume, sinusknoop, AV-knoop, bundel van His, bloeddruk, diastole, systole, zuurstoftransport en koolstofdioxidetransport, voedings- en afvalstoffen, Bohr-effect, bufferende werking stoffen, HCO3-, hemoglobine, myoglobine, bloedstolling, cholesterol, tegenstroomprincipe, filtratiedruk, colloïd-osmotische druk, verdampingsstroom, cohesie, adhesie, worteldruk, oedeem.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9d10f7f3-b595-4205-a1bb-1909f0526077",
 		"prefix": "B4.1",
-		"title": "homeostase, zenuwstelsel, hormoonstelsel, receptoren, inwendig en uitwendig milieu, regelkring, positieve en negatieve terugkoppeling, dynamisch evenwicht, receptoren in celmembranen en cytoplasma, osmotische waarde, pH, temperatuur, chemische samenstelling, O2-concentratie, CO2-concentratie, buffers van hemoglobine en HCO3-, glucoseconcentratie, waterhuishouding , chemische en drukreceptoren in de aorta, pCO2, pO2.",
+		"title": "homeostase, zenuwstelsel, hormoonstelsel, receptoren, inwendig en uitwendig milieu, regelkring, positieve en negatieve terugkoppeling, dynamisch evenwicht, receptoren in celmembranen en cytoplasma, osmotische waarde, pH, temperatuur, chemische samenstelling, O2-concentratie, CO2-concentratie, bufferende werking van hemoglobine en HCO3-, glucoseconcentratie, waterhuishouding , chemische en drukreceptoren in de aorta, pCO2, pO2.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7008b962-043f-4c33-ac04-ac93ecc5d98a",
@@ -182,20 +186,22 @@
 	{
 		"id": "771350fe-161d-4338-a478-d120a80169a2",
 		"prefix": "C3.1",
-		"title": "dynaiek en evenwicht, successie, pioniersoort, climaxecosysteem, gradiëntecosysteem, indicatorsoort, biodiversiteit, genenpool, concurrentie, draagkracht, tolerantiegrenzen, exoot, omslagpunt, groeicurves",
+		"title": "dynamiek en evenwicht, successie, pioniersoort, climaxecosysteem, gradiëntecosysteem, indicatorsoort, biodiversiteit, genenpoel/genepool, concurrentie, draagkracht, tolerantiegrenzen, exoot, omslagpunt, groeicurves",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6c92a443-68a1-4422-b49b-ea47d3831efd",
 		"prefix": "D1.1",
-		"title": "genregulatie en interactie met (a)biothische factoren, genoom, structuurgenen, regulatorgenen, recombinant DNA, proto-oncogenen, enzymen, virus, iRNA/RNAi, promotor, operator, repressor, suppressor, epigenetisch, cisgeen, transgeen.",
+		"title": "genregulatie en interactie met (a)biothische factoren, genoom, structuurgenen, regulatorgenen, recombinant DNA, proto-oncogenen, enzymen, virus, RNAi, promotor, operator, repressor, suppressor, epigenetisch, cisgeen, transgeen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "bec978f5-56c8-4046-9764-a6d4a06fc5c1",
@@ -299,11 +305,12 @@
 	{
 		"id": "22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
 		"prefix": "F2.3",
-		"title": "selectie, adaptatie, fitness, selectiedruk, soort, natuurlijke selectie, seksuele selectie, eilandtheorie, stichter effect/founder effect, flessenhalseffect/bottleneck effect, inteelt",
+		"title": "selectie, adaptatie, fitness, selectiedruk, soort, natuurlijke selectie, seksuele selectie, eilandtheorie, stichter effect/founder effect, flessenhalseffect/bottleneck effect, veredeling, inteelt",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b525aa75-bdef-467d-990b-8efd1068da36"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "db34fc3d-7d7d-4025-812a-5594724a7880",
@@ -321,7 +328,10 @@
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "91dce357-3509-4b29-9315-e74be379b641",
@@ -330,7 +340,10 @@
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
@@ -347,7 +360,10 @@
 			"c341f2c1-59fc-41b8-ac56-f147b882711c"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "b7b3c426-667a-42c3-9ce5-69e55ba25c68",
@@ -357,7 +373,10 @@
 			"c341f2c1-59fc-41b8-ac56-f147b882711c"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "d810a37d-5a92-40ff-8f20-407fdb213a17",
@@ -366,7 +385,10 @@
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "0e16818d-4331-4c87-a978-f31898f151a3",
@@ -386,7 +408,10 @@
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
@@ -426,7 +451,10 @@
 			"f2531523-a977-4a13-9a70-6c247ff70f3b"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "4a1f7479-30a9-4898-a416-d33c8d01260c",
@@ -443,7 +471,10 @@
 			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "c488cee3-73fc-451b-9263-13078b930862",
@@ -460,7 +491,10 @@
 			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
@@ -490,7 +524,10 @@
 		"id": "75ba42b0-2c54-4815-ab56-7b823fde6acc",
 		"title": "Waterbouwkundige projecten, Zuidoost-Anatoliëproject, Aswandamproject, Waterconflict, Irrigatie, Beregening, Oppervlakte-irrigatie, Druppelirrigatie, Kanaal, Stuwdam, Stuwmeer",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
@@ -514,7 +551,10 @@
 		"title": "Guangzhou (Kanton), Shenzen, Foshan, Aomen (Macau), Chongqing, Xi-Jiang, Chang-Jiang, Suzhou, Hangzhou",
 		"ce_se": "CE",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"id": "56a96dcf-9641-488a-a316-e918436ea88b",
