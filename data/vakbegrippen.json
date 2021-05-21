@@ -2279,67 +2279,81 @@
 	{
 		"description": "Centrale begrippen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinB/B1",
 		"examenprogramma_eindterm_id": [
-			"b1ee8895-91bf-49f3-96e6-afdb1a146639"
+			"58e35aac-c580-4da3-9d68-bcd12fb0a42b"
 		],
-		"title": "bewustzijn, rede (Kant), emotie, identiteit, subject, intersubjectiviteit, lichamelijkheid, gender, transcendentie;",
-		"id": "fe22cf13-aacd-4583-a28e-89a12e86cd35",
+		"title": "rede, subjectiviteit, intersubjectiviteit, zelfbewustzijn, identiteit, lichamelijkheid, excentriciteit, macht, disciplinering, arbeid, communicatie, seksualiteit;",
+		"id": "e8d80f28-9f20-4c13-8d89-c3dd4bab416b",
 		"unreleased": true
 	},
 	{
 		"description": "Begrippenparen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinB/B1",
 		"examenprogramma_eindterm_id": [
-			"b1ee8895-91bf-49f3-96e6-afdb1a146639"
+			"58e35aac-c580-4da3-9d68-bcd12fb0a42b"
 		],
-		"title": "geest (ziel) en lichaam, gevoel en verstand, mens en dier, mens en machine, monisme en dualisme, vrijheid en determinisme, cultuur en natuur, taal en symbool",
-		"id": "88972650-22e1-49f4-8277-9b05c8e35815",
+		"title": "cultuur en natuur, emotie en verstand, geest (ziel) en lichaam, monisme en dualisme/pluralisme, mens en dier, bewust en onbewust, vrijheid en determinisme, doel- en waardegericht handelen",
+		"id": "9e32d1f9-1330-4a9b-81a7-3ba28a0b1ffc",
 		"unreleased": true
 	},
 	{
 		"description": "Centrale begrippen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinC/C1",
 		"examenprogramma_eindterm_id": [
-			"deff0c06-8a57-46f2-a0f5-cc0d71d8d080"
+			"edc6eeb8-9db0-4fcb-a9de-6472bb5b0460"
 		],
-		"title": "het goede, geluk, deugd (Aristoteles), rechtvaardigheid, nut (utilisme), genot (hedonisme), autonomie, plicht (Kant), moraal",
-		"id": "ace5dec6-caa2-4ab6-8ac1-21d53a4788fe",
+		"title": "goed, waarde, norm, geluk, deugd, moraal, rechtvaardigheid, verantwoordelijkheid;",
+		"id": "424d3f94-bda6-48e6-94d4-5478e9b8adea",
 		"unreleased": true
 	},
 	{
 		"description": "Begrippenparen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinC/C1",
 		"examenprogramma_eindterm_id": [
-			"deff0c06-8a57-46f2-a0f5-cc0d71d8d080"
+			"edc6eeb8-9db0-4fcb-a9de-6472bb5b0460"
 		],
-		"title": "egoïsme en altruïsme, goed en kwaad, waarden en normen, descriptief en prescriptief, intrinsieke en instrumentele waarde, universalisme en relativisme",
-		"id": "fc968f55-98b2-44e7-a99e-0ac6c58b82c3",
+		"title": "wil en verstand, waarden en normen, 'is' en 'ought', intrinsiek en instrumenteel handelen, macht en belangen, ethiek en moraal, rechten en plichten.",
+		"id": "d83fb47e-469d-4037-aec9-d29e02cbba28",
 		"unreleased": true
 	},
 	{
 		"description": "Centrale begrippen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinD/D1",
 		"examenprogramma_eindterm_id": [
-			"090914a1-c3b4-4545-96a2-6128958ff361"
+			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
 		],
-		"title": "staat, legitimiteit, natuurtoestand, maatschappelijk verdrag, schaarste, vervreemding, ideologie, rechtvaardigheid, gelijkheid, macht, disciplinering, utopie",
-		"id": "6fa44632-7396-44c8-8eae-56bde3ab8284",
+		"title": "a priori, a posteriori, universeel, particulier, idealisme, objectief, subjectief, intersubjectief;",
+		"id": "1e572da4-1618-4f7f-a531-f80969793dc2",
 		"unreleased": true
 	},
 	{
 		"description": "Begrippenparen",
 		"ce_se": "CE",
-		"prefix": "FI/H/DomeinD/D1",
 		"examenprogramma_eindterm_id": [
-			"090914a1-c3b4-4545-96a2-6128958ff361"
+			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
 		],
-		"title": "macht en recht, recht en plicht, natuurrecht en positief recht, negatieve en positieve vrijheid",
-		"id": "6a6d968c-41fa-4c28-b55f-ed1ebbb5b5eb",
+		"title": "zelfbewustzijn en hersenen, schijn en werkelijkheid, begrip en waarneming, waar en vals, feit en fictie, kennis en geloof, kennis en kunde.",
+		"id": "3dfd3955-353b-4b0d-9dfd-33f6a805952f",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"835eb209-797f-47d9-b48c-2ee0c50f6980"
+		],
+		"title": "theorie, grondslagen, axioma, hypothese, empirische basis, demarcatie, empirische cyclus, paradigma, positivisme;",
+		"id": "fb8e808e-92ba-4ba8-8346-6967ccc53e29",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"835eb209-797f-47d9-b48c-2ee0c50f6980"
+		],
+		"title": "wetenschappelijke en common-sense kennis, formele en empirische wetenschappen, feit en theorie, wetmatigheid en toeval, verklaren en verstaan, inductie en deductie, waardevrijheid en waardegebondenheid, techniek en technologie",
+		"id": "9f98f101-a855-4cfc-a132-ae8db5bcdc2b",
 		"unreleased": true
 	}
 ]
