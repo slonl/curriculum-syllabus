@@ -2275,5 +2275,71 @@
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9",
 			"74812d84-8450-49d0-a53c-94ea869a7c5c"
 		]
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinB/B1",
+		"examenprogramma_eindterm_id": [
+			"b1ee8895-91bf-49f3-96e6-afdb1a146639"
+		],
+		"title": "bewustzijn, rede (Kant), emotie, identiteit, subject, intersubjectiviteit, lichamelijkheid, gender, transcendentie;",
+		"id": "fe22cf13-aacd-4583-a28e-89a12e86cd35",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinB/B1",
+		"examenprogramma_eindterm_id": [
+			"b1ee8895-91bf-49f3-96e6-afdb1a146639"
+		],
+		"title": "geest (ziel) en lichaam, gevoel en verstand, mens en dier, mens en machine, monisme en dualisme, vrijheid en determinisme, cultuur en natuur, taal en symbool",
+		"id": "88972650-22e1-49f4-8277-9b05c8e35815",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinC/C1",
+		"examenprogramma_eindterm_id": [
+			"deff0c06-8a57-46f2-a0f5-cc0d71d8d080"
+		],
+		"title": "het goede, geluk, deugd (Aristoteles), rechtvaardigheid, nut (utilisme), genot (hedonisme), autonomie, plicht (Kant), moraal",
+		"id": "ace5dec6-caa2-4ab6-8ac1-21d53a4788fe",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinC/C1",
+		"examenprogramma_eindterm_id": [
+			"deff0c06-8a57-46f2-a0f5-cc0d71d8d080"
+		],
+		"title": "egoïsme en altruïsme, goed en kwaad, waarden en normen, descriptief en prescriptief, intrinsieke en instrumentele waarde, universalisme en relativisme",
+		"id": "fc968f55-98b2-44e7-a99e-0ac6c58b82c3",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/D1",
+		"examenprogramma_eindterm_id": [
+			"090914a1-c3b4-4545-96a2-6128958ff361"
+		],
+		"title": "staat, legitimiteit, natuurtoestand, maatschappelijk verdrag, schaarste, vervreemding, ideologie, rechtvaardigheid, gelijkheid, macht, disciplinering, utopie",
+		"id": "6fa44632-7396-44c8-8eae-56bde3ab8284",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/D1",
+		"examenprogramma_eindterm_id": [
+			"090914a1-c3b4-4545-96a2-6128958ff361"
+		],
+		"title": "macht en recht, recht en plicht, natuurrecht en positief recht, negatieve en positieve vrijheid",
+		"id": "6a6d968c-41fa-4c28-b55f-ed1ebbb5b5eb",
+		"unreleased": true
 	}
 ]
