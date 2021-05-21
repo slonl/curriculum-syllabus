@@ -3874,5 +3874,24 @@
 		"title": "Syllabus Filosofie vwo",
 		"id": "65b04e56-8792-41a8-9091-a256a86b592a",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170"
+		],
+		"syllabus_toelichting_id": [
+			"98914fc3-52ee-4235-8fcb-9311e73e0b57"
+		],
+		"syllabus_vakbegrip_id": [
+			"fd2b45b8-bd17-4c31-82d6-e2e8c1dec7b9",
+			"c7699cb2-23e4-4a1a-b12e-dbd01ad666c7",
+			"3e66bd08-08a5-434b-a8d9-0cd784f2c1de",
+			"1ff53686-8a1f-419d-953c-5071b17b1434",
+			"47adcfe6-a084-4582-be2e-2b5bbbe47584",
+			"2a1c24ca-0265-45cf-8bf6-d900ea44bbba"
+		],
+		"title": "Syllabus filosofie havo",
+		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
+		"unreleased": true
 	}
 ]
