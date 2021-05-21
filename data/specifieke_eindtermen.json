@@ -1333,42 +1333,74 @@
 	{
 		"id": "0968d8b6-0157-488d-841b-abd26e7d9f15",
 		"prefix": "EC/V/1.1",
-		"title": "De kandidaat kan in samenhang met exameneenheden 1, 2, 3, 4A, 5A, 6, 7 aan de hand van een actuele context ontstaan, ontwikkeling en vermindering van het begrotingstekort en de staatsschuld beschrijven"
+		"title": "De kandidaat kan in samenhang met exameneenheden 1, 2, 3, 4A, 5A, 6, 7 aan de hand van een actuele context ontstaan, ontwikkeling en vermindering van het begrotingstekort en de staatsschuld beschrijven.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "c2f9a492-9791-439d-af0d-862158f44bbb",
 		"prefix": "EC/V/1.2",
-		"title": "De kandidaat kan de systematiek van loon- en inkomstenbelasting beschrijven"
+		"title": "De kandidaat kan de systematiek van loon- en inkomstenbelasting beschrijven.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "94c32a84-5080-4326-9cd1-8bfe84798d3c",
 		"prefix": "EC/V/1.3",
-		"title": "De kandidaat kan oorzaken en functies van inkomensverschillen beschrijven"
+		"title": "De kandidaat kan oorzaken en functies van inkomensverschillen beschrijven.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "2acb168b-d0a9-4b92-ade6-e39a0cc7c4ec",
 		"prefix": "EC/V/1.4",
-		"title": "De kandidaat kan de werking van de instrumenten die de overheid heeft om inkomensverschillen te beïnvloeden uitleggen"
+		"title": "De kandidaat kan de werking van de instrumenten die de overheid heeft om inkomensverschillen te beïnvloeden uitleggen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "ca67964b-8287-4da4-8e4b-7b9364bf8a44",
 		"prefix": "EC/V/1.5",
-		"title": "De kandidaat kan oorzaken en gevolgen van de waardeverandering van geld beschrijven"
+		"title": "De kandidaat kan oorzaken en gevolgen van de waardeverandering van geld beschrijven.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "6e37578e-a489-4581-bea9-1b485627cb16",
 		"prefix": "EC/V/1.6",
-		"title": "De kandidaat kan prijscompensatie beschrijven als middel om koopkrachtverlies tegen te gaan"
+		"title": "De kandidaat kan prijscompensatie beschrijven als middel om koopkrachtverlies tegen te gaan",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "16088996-6331-4761-a3ac-4d7fafe8ff04",
 		"prefix": "EC/V/1.7",
-		"title": "De kandidaat kan markten en marktvormen"
+		"title": "De kandidaat kent markten en marktvormen.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "5682d03a-3995-4cbe-99bb-bafe5be0c0c0",
 		"prefix": "EC/V/1.8",
-		"title": "De kandidaat kan Nederland als georiënteerde, sociale markteconomie versus een volkomen vrije economie of een planeconomie"
+		"title": "De kandidaat kent Nederland als georiënteerde, sociale markteconomie versus een volkomen vrije economie of een planeconomie.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		]
 	},
 	{
 		"id": "24c16902-abaa-4c37-bdf5-e001895bb68d",
@@ -31712,27 +31744,6 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		]
-	},
-	{
-		"ce_se": "ce",
-		"prefix": "MVT/AR/V/DomeinA/1a.1",
-		"examenprogramma_eindterm_id": [
-			"82a57889-3b27-4768-b663-ab5a45eea210",
-			"0b5b9bcf-fcc9-4321-b71c-45d5b88d1e28",
-			"00bf697d-b19a-430d-a987-79a4c79871ca",
-			"0b46fd6b-98dd-4c6d-8f5e-c96133ac8015",
-			"2545e2e6-175b-4278-aadf-220b411c2253"
-		],
-		"title": "De kandidaat kan een korte, eenvoudige brief of e-mail begrijpen.",
-		"id": "8bb2b0ce-ec62-4d1e-9f84-5c86eeba3ee1",
-		"unreleased": true,
-		"description": "",
-		"examenprogramma_id": [
-			"ddc10650-6c3d-4666-8727-e895e0a9bf03"
-		],
-		"examenprogramma_domein_id": [
-			"7df1f753-a43d-4ec7-809f-47341f61447c"
 		]
 	}
 ]
