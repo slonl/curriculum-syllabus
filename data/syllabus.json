@@ -3843,5 +3843,24 @@
 		"title": "Syllabus moderne vreemde talen Arabisch vwo",
 		"id": "c642c322-2934-4453-b69b-f7aa4b5447dc",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170"
+		],
+		"syllabus_toelichting_id": [
+			"12019e90-54cc-4887-bccc-5329d6a9a545"
+		],
+		"syllabus_vakbegrip_id": [
+			"fe22cf13-aacd-4583-a28e-89a12e86cd35",
+			"88972650-22e1-49f4-8277-9b05c8e35815",
+			"ace5dec6-caa2-4ab6-8ac1-21d53a4788fe",
+			"fc968f55-98b2-44e7-a99e-0ac6c58b82c3",
+			"6fa44632-7396-44c8-8eae-56bde3ab8284",
+			"6a6d968c-41fa-4c28-b55f-ed1ebbb5b5eb"
+		],
+		"title": "Syllabus filosofie havo",
+		"id": "1aab18e5-c233-4de7-8df8-fb24fd43353d",
+		"unreleased": true
 	}
 ]
