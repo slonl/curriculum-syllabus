@@ -2873,11 +2873,12 @@
 	{
 		"id": "6a618a4b-fda1-4928-953c-72bf2621badb",
 		"prefix": "B3.3.1",
-		"title": "De kandiaat kan in een context de bouw, werking en functie van gaswisselingsorganen van eukaryoten, in het bijzonder de mens beschrijven",
+		"title": "De kandidaat kan in een context de bouw, werking en functie van gaswisselingsorganen van eukaryoten, in het bijzonder de mens beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "70791187-2aeb-4498-ac69-d7268a3d1cbb",
@@ -3453,11 +3454,12 @@
 	{
 		"id": "427ca53b-5d9d-4663-8719-a9a86df7e88f",
 		"prefix": "D1.1.2",
-		"title": "De kandiaat kan in een context uitleggen dat cellen voor hun functioneren gebruik maken van eiwitten.",
+		"title": "De kandidaat kan in een context uitleggen dat cellen voor hun functioneren gebruik maken van eiwitten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "93869a0a-9f30-4d38-b832-0a54ae19db5e",
@@ -3554,9 +3556,7 @@
 		"prefix": "D5.1.4",
 		"title": "De kandidaat kan in een context de accumulatie van giftige stoffen in een voedselketen uitleggen.",
 		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"b737b775-4f95-4517-9966-c8971a34c8e4"
-		]
+		"description": ""
 	},
 	{
 		"id": "949c7b16-4932-4ecd-b364-bf9c4e468af1",
