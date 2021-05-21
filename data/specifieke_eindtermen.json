@@ -31745,5 +31745,44 @@
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinB/B1/3.1",
+		"examenprogramma_eindterm_id": [
+			"58e35aac-c580-4da3-9d68-bcd12fb0a42b"
+		],
+		"title": "De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de wijsgerige antropologie herkennen, uitleggen en in een filosofische context toepassen en evalueren. Het gaat daarbij om de volgende begrippen en toonaangevende visies.",
+		"id": "53a99a18-7071-4522-a688-d2492e88897c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/C1/6.1",
+		"examenprogramma_eindterm_id": [
+			"edc6eeb8-9db0-4fcb-a9de-6472bb5b0460"
+		],
+		"title": "De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de ethiek herkennen, uitleggen en in een filosofische context toepassen en evalueren. Het gaat daarbij om de volgende begrippen en toonaangevende visies.",
+		"id": "0ebf16d9-fcc0-4f5b-9e6a-688d188e4ada",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinD/D1/9.1",
+		"examenprogramma_eindterm_id": [
+			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
+		],
+		"title": "De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de kennisleer herkennen, uitleggen en in een filosofische context toepassen en evalueren. Het gaat daarbij om de volgende begrippen en toonaangevende visies.",
+		"id": "b6a03aed-96fc-488e-bfcc-117cfcded78c",
+		"unreleased": true
+	},
+	{
+		"prefix": "FI/V/DomeinE/E1/12.1",
+		"examenprogramma_eindterm_id": [
+			"835eb209-797f-47d9-b48c-2ee0c50f6980"
+		],
+		"title": "De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie herkennen, uitleggen en in een filosofische context toepassen en evalueren. Het gaat daarbij om de volgende begrippen en toonaangevende visies.",
+		"id": "cb962abc-6450-42a1-9050-c2559fdcf3bb",
+		"unreleased": true
 	}
 ]
