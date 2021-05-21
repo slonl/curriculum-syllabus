@@ -3846,21 +3846,33 @@
 	},
 	{
 		"examenprogramma_id": [
-			"0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170"
+			"2cca3c55-97fd-4b32-a9eb-1d6c42a314e2"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"53a99a18-7071-4522-a688-d2492e88897c",
+			"0ebf16d9-fcc0-4f5b-9e6a-688d188e4ada",
+			"b6a03aed-96fc-488e-bfcc-117cfcded78c",
+			"cb962abc-6450-42a1-9050-c2559fdcf3bb"
 		],
 		"syllabus_toelichting_id": [
-			"12019e90-54cc-4887-bccc-5329d6a9a545"
+			"a8d1d6a8-5d78-4cac-ae98-a3333a10f682",
+			"1e7c043a-c4a4-4624-ac3e-8c28f1a4c674",
+			"2d2da5c1-8b9a-415e-8c45-ab19d6089e2c",
+			"49c71f54-e546-47aa-8a2c-3efb02f346d0",
+			"5bf097c3-40f2-4658-a7c3-2708bbb1be6f"
 		],
 		"syllabus_vakbegrip_id": [
-			"fe22cf13-aacd-4583-a28e-89a12e86cd35",
-			"88972650-22e1-49f4-8277-9b05c8e35815",
-			"ace5dec6-caa2-4ab6-8ac1-21d53a4788fe",
-			"fc968f55-98b2-44e7-a99e-0ac6c58b82c3",
-			"6fa44632-7396-44c8-8eae-56bde3ab8284",
-			"6a6d968c-41fa-4c28-b55f-ed1ebbb5b5eb"
+			"e8d80f28-9f20-4c13-8d89-c3dd4bab416b",
+			"9e32d1f9-1330-4a9b-81a7-3ba28a0b1ffc",
+			"424d3f94-bda6-48e6-94d4-5478e9b8adea",
+			"d83fb47e-469d-4037-aec9-d29e02cbba28",
+			"1e572da4-1618-4f7f-a531-f80969793dc2",
+			"3dfd3955-353b-4b0d-9dfd-33f6a805952f",
+			"fb8e808e-92ba-4ba8-8346-6967ccc53e29",
+			"9f98f101-a855-4cfc-a132-ae8db5bcdc2b"
 		],
-		"title": "Syllabus filosofie havo",
-		"id": "1aab18e5-c233-4de7-8df8-fb24fd43353d",
+		"title": "Syllabus Filosofie vwo",
+		"id": "65b04e56-8792-41a8-9091-a256a86b592a",
 		"unreleased": true
 	}
 ]
