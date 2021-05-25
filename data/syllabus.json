@@ -3842,7 +3842,10 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch vwo",
 		"id": "c642c322-2934-4453-b69b-f7aa4b5447dc",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_id": [
