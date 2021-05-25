@@ -3845,7 +3845,10 @@
 		"unreleased": true,
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3895,6 +3898,75 @@
 		],
 		"title": "Syllabus filosofie havo",
 		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"a9a3ba23-bf44-43f1-a40d-1bf368d39470"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"444566fd-a978-4b91-a459-e8fe14217ce5",
+			"b9242b47-a5f3-4370-88f9-b4d3616ec193",
+			"3bf7eedd-2dcb-44d8-bd75-f2bba2cc0832",
+			"b9676c55-8aa2-4522-9e83-6eb88332c1db",
+			"2b7a6476-8c6c-4eeb-8501-217f192a1598",
+			"a4713735-874f-4f6e-8f20-4d7c1616e719",
+			"f587609f-5d50-43a8-80ad-729780322b7f",
+			"3a8049f5-d791-4a61-88a3-9d10ff36d30e",
+			"cc4c2778-a2d7-49a7-a524-668df7be1451",
+			"e6745aaf-f6e4-4585-a6e5-669976496da7",
+			"803314fe-0b8b-41dc-9cb6-874cbbbed0cd",
+			"a8f430d5-6bba-4f2d-8034-54f8a962e781",
+			"9bd20e34-ff3c-46ca-aea2-36a99028072b",
+			"bc91595c-7ac8-4d4a-be48-52098bcecc06",
+			"fef3e0f0-37d2-40ed-9cc1-19b351f9b7d8",
+			"552d7e58-8906-4dc4-b35b-ef0581687e81",
+			"5fe1472b-87d7-4769-b65e-c65968794f84",
+			"0469a25f-ba5b-4d06-b939-81a50cae41a5",
+			"7b3733bd-f796-4363-a26e-96ef753be136",
+			"d0d33a31-ac4f-4cd1-b469-c33a9ff5c024",
+			"daa63d73-6ff6-4860-8179-da9393773d3a",
+			"530e2e80-5a8a-4097-b1ce-944f75761fe2",
+			"7e51d512-498e-40d4-b9db-5b3abd09d030",
+			"f0d9baf2-899e-4186-89b0-b1103368898f",
+			"d3abdf76-40ae-43d9-811a-7dcf13e4f01f",
+			"dffd2f3f-c06d-45c0-8dff-11191d092b57",
+			"3aa10fd3-70d9-4c3c-9626-6ac43b14ede5",
+			"569b9e8a-d578-4605-8ed5-2b285ba53d80",
+			"5f30a787-a680-4854-a051-650374b6c16d",
+			"79c576d2-9095-4677-a773-2b367e77a6fe",
+			"d8a6cca4-3d31-45c4-8438-1a2262a3995b",
+			"d7092aa5-1e52-4af1-926d-9c9de4f14c9e",
+			"b289b6da-1a20-4449-a482-69e11672cba3",
+			"70fbd4fa-15e1-46d3-ae44-135ede4a92e2",
+			"dd6807d2-4c59-4196-98dc-dc082601240d",
+			"8c8be0c3-895d-4b0a-84cd-b66b2038a271",
+			"4d44a43c-28ce-4359-ab0b-60b0389a17f5",
+			"019dd5c5-8ef3-4ff7-9ae0-0c5f2eacebbf",
+			"425ff841-0ed2-4cf9-9030-9dd017e309a2",
+			"6f4b29c5-18f0-4c6b-b7ad-b6759edcb451",
+			"0f38ed23-83c2-4733-9aab-13dd0f7c70e9",
+			"fb5ee949-fc42-47de-86b7-5f1464988df8",
+			"3e0fdb73-bf16-4ad4-9ed3-2f68aa68a0e9",
+			"c5ee27e3-17dd-4181-8e80-7e650f6695e3",
+			"4611a425-60fd-4076-b2f9-91caed3e21ca",
+			"0ed59887-4da6-466b-8ee9-fb2bb27cff19",
+			"0e525735-ed26-445a-8a54-7d2aeadb6f97",
+			"cd3d1e92-8de2-4543-8fe2-05964abc90f0",
+			"6695e7d5-fecf-41da-833d-40aee974a300",
+			"cc5ac4c8-32b0-4ad1-8589-08bb2ad2127f",
+			"7fcd827b-23ee-4b15-8aed-85abfa9e90c3",
+			"a43d5cba-6f05-4ece-8b9c-b67116728fb4",
+			"76817c30-e4de-4f8d-ac0c-5b8ba64c2e55",
+			"6da1a00c-229a-467c-89a1-bbf4fb0ac2f5"
+		],
+		"syllabus_toelichting_id": [
+			"96a36d0e-8edf-427d-af5a-6944edfb30cf",
+			"6d8fbf68-32d7-42a4-ae14-66db3da82f61",
+			"4d218aa7-a117-4e82-ace2-3833fc7ca9cf"
+		],
+		"title": "Syllabus Kunst algemeen",
+		"id": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
 		"unreleased": true
 	}
 ]
