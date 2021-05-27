@@ -3968,5 +3968,24 @@
 		"title": "Syllabus Kunst algemeen",
 		"id": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"74f5153b-7b26-4b3a-88a9-380c0a6d7a96"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"740dad14-376b-44aa-bc33-9c40a59205b8",
+			"73543cc1-3e18-4066-ab8b-871206a4b377",
+			"600a1555-fe4c-455d-9c31-8ea6f04b0103",
+			"a9235871-710f-49ca-b101-06635ab7a004",
+			"4200dc46-d433-48a8-bb97-4833677df028",
+			"eaadaeee-0f9e-4ec1-89c9-ddebbd96f374",
+			"2e340188-e9b8-4888-9329-c2899a10d04c",
+			"bbf98f18-03dd-4ad5-9f68-9fa201c69b77",
+			"45cef3f7-b4a0-49da-b6e6-9d16984ff400"
+		],
+		"title": "Syllabus Beeldende vakken - Handvaardigheid havo",
+		"id": "19dd736c-6416-4ac1-8cea-da8bde2e3725",
+		"unreleased": true
 	}
 ]
