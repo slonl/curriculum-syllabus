@@ -31796,5 +31796,95 @@
 		"title": "De kandidaat kan een aantal centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie herkennen, uitleggen en in een filosofische context toepassen en evalueren. Het gaat daarbij om de volgende begrippen en toonaangevende visies.",
 		"id": "cb962abc-6450-42a1-9050-c2559fdcf3bb",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A1/1",
+		"examenprogramma_eindterm_id": [
+			"75ae4c8a-a19f-49a2-968c-10fb14d7bdc1"
+		],
+		"title": "De kandidaat is in staat kenmerkende aspecten van de voorstelling en vormgeving van beeldend werk van kunstenaars en vormgevers waar te nemen en te benoemen.",
+		"id": "740dad14-376b-44aa-bc33-9c40a59205b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A1/2",
+		"examenprogramma_eindterm_id": [
+			"75ae4c8a-a19f-49a2-968c-10fb14d7bdc1"
+		],
+		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Daarvoor is nodig: kennis van en inzicht in de geschiedenis van de beeldende kunst, architectuur en vormgeving en enige bekendheid met verschillende visies op deze gebieden. Verschillen in visie komen aan het licht bij vergelijkingen van kunst en cultuur in verschillende tijdperken.",
+		"id": "73543cc1-3e18-4066-ab8b-871206a4b377",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A1/3",
+		"examenprogramma_eindterm_id": [
+			"75ae4c8a-a19f-49a2-968c-10fb14d7bdc1"
+		],
+		"title": "Een aandachtspunt is het westerse karakter dat veelal in kunsthistorische overzichten is ‘ingebakken’. Het is van belang dat dit beseft wordt. Daarom wordt er - waar mogelijk - aandacht besteed aan relevante niet-westerse kunstvormen.",
+		"id": "600a1555-fe4c-455d-9c31-8ea6f04b0103",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A1/4",
+		"examenprogramma_eindterm_id": [
+			"75ae4c8a-a19f-49a2-968c-10fb14d7bdc1"
+		],
+		"title": "De leerlingen moeten vooral kijkstrategieën beheersen om de vragen te kunnen beantwoorden.",
+		"id": "a9235871-710f-49ca-b101-06635ab7a004",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A1/5",
+		"examenprogramma_eindterm_id": [
+			"2df5b95c-a324-409e-a139-7a715ad2727a"
+		],
+		"title": "Het centraal examen heeft betrekking op de periode van het romaans tot heden, met nadruk op de periode vanaf 1800. Beeldende kunst, architectuur en (ambachtelijke en industriële) vormgeving vanaf het neo-classicisme in de 19de eeuw tot heden komen derhalve in het examen aan de orde.",
+		"id": "4200dc46-d433-48a8-bb97-4833677df028",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A2/1",
+		"examenprogramma_eindterm_id": [
+			"bff26e6e-beaa-4f01-bd20-b75ae05b2714"
+		],
+		"title": "Onder beelden verstaan we in het kader van het CE werk (2- en 3-dimensionaal) van beeldende kunstenaars, (ambachtelijke en industriële) vormgevers en architecten.",
+		"id": "eaadaeee-0f9e-4ec1-89c9-ddebbd96f374",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A2/2",
+		"examenprogramma_eindterm_id": [
+			"bff26e6e-beaa-4f01-bd20-b75ae05b2714"
+		],
+		"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+		"id": "2e340188-e9b8-4888-9329-c2899a10d04c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A2/3",
+		"examenprogramma_eindterm_id": [
+			"bff26e6e-beaa-4f01-bd20-b75ae05b2714"
+		],
+		"title": "In deze eindterm gaat het om beschouwen met een bepaalde kwaliteit, namelijk het vermogen tot kritisch beoordelen. ‘Kritisch’ houdt in dat de kandidaat in staat is om op basis van onderzoek binnen subdomein A1 (beschrijven, onderzoeken en interpreteren) tot een beargumenteerd oordeel te komen.",
+		"id": "bbf98f18-03dd-4ad5-9f68-9fa201c69b77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/H/H/A/A2/4",
+		"examenprogramma_eindterm_id": [
+			"bff26e6e-beaa-4f01-bd20-b75ae05b2714"
+		],
+		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
+		"id": "45cef3f7-b4a0-49da-b6e6-9d16984ff400",
+		"unreleased": true
 	}
 ]
