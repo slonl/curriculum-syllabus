@@ -31886,5 +31886,247 @@
 		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
 		"id": "45cef3f7-b4a0-49da-b6e6-9d16984ff400",
 		"unreleased": true
+	},
+	{
+		"description": "Dansontwerp",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/1",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "De kandidaat is zich bewust van de zeggingskracht van het resultaat en kan dit in relatie tot het gegeven uitleggen.",
+		"id": "e1cbfc0e-bd13-4a05-94da-0c2186d89967",
+		"unreleased": true
+	},
+	{
+		"description": "Exploreren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/2",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat onderzoekt en ontwikkelt naar aanleiding van het gegeven nieuwe ideeën.",
+		"id": "349331ad-283c-4810-87af-451ec93777ea",
+		"unreleased": true
+	},
+	{
+		"description": "Improviseren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/3",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat gaat gericht variëren met de verschillende mogelijkheden",
+		"id": "48d24cd0-dadb-45d7-986e-660b1ea13353",
+		"unreleased": true
+	},
+	{
+		"description": "Structureren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/4",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat maakt een definitieve keuze die een samenhangend geheel vormt.",
+		"id": "df07c1b7-224f-4175-9e87-576df1ca6860",
+		"unreleased": true
+	},
+	{
+		"description": "Functioneel en verantwoord gebruik maken van theatrale middelen",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3d/1",
+		"examenprogramma_eindterm_id": [
+			"3266a570-e410-4e61-9cdb-1ce8b89f88b0"
+		],
+		"title": "de kandidaat gebruikt de (aangeboden) mogelijkheden met betrekking tot een of meer theatrale middelen zo dat de inhoud / betekenis en/of de vorm van de dans wordt versterkt.",
+		"id": "2e78091a-4227-46db-a6d5-2a3281d39d29",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"title": "Danssoorten",
+		"id": "a79054e6-f80f-4b80-9253-d68f569d42a4",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"title": "Danselementen",
+		"id": "3ec35e9c-4a68-4801-8242-509cfeb34562",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a",
+		"examenprogramma_eindterm_id": [
+			"cce9e56f-d4e3-4a88-abb3-8f48be3d1574"
+		],
+		"title": "Dansfuncties",
+		"id": "45218bd5-9b72-4b83-b823-2eca7fd568f6",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"title": "Dans, cultuur en tijd",
+		"id": "26d1559f-32a5-4bbe-bde0-131f66c18612",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en andere kunsten",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a",
+		"examenprogramma_eindterm_id": [
+			"a0dda683-8495-410c-a1d7-ff3149e1e469"
+		],
+		"title": "dansproductie",
+		"id": "a3328b97-be22-463b-a106-87dc6cec43d1",
+		"unreleased": true
+	},
+	{
+		"description": "Vaardigheden in samenhang",
+		"ce_se": "CE",
+		"prefix": "DA/V/3/12",
+		"examenprogramma_eindterm_id": [
+			"0a028f4d-71fb-4049-a14d-dd967959cf72"
+		],
+		"title": "Samenhang",
+		"id": "bf53165c-7f44-4b9d-b52c-6fbbd99895f0",
+		"unreleased": true
+	},
+	{
+		"description": "Dansontwerp",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/1",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "De kandidaat is zich bewust van de zeggingskracht van het resultaat en kan dit in relatie tot het gegeven uitleggen.",
+		"id": "b1a54cd1-e5dc-4ee8-b126-1e419c87a467",
+		"unreleased": true
+	},
+	{
+		"description": "Exploreren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/2",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat onderzoekt en ontwikkelt naar aanleiding van het gegeven nieuwe ideeën.",
+		"id": "4e342726-ef3b-450e-b31b-18d11ec1b450",
+		"unreleased": true
+	},
+	{
+		"description": "Improviseren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/3",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat gaat gericht variëren met de verschillende mogelijkheden",
+		"id": "25475913-b0ee-461b-99df-58a4e641ae4c",
+		"unreleased": true
+	},
+	{
+		"description": "Structureren",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/4",
+		"examenprogramma_eindterm_id": [
+			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
+		],
+		"title": "de kandidaat maakt een definitieve keuze die een samenhangend geheel vormt.",
+		"id": "6b0a66dd-c0da-44f1-b655-dab70e5955c1",
+		"unreleased": true
+	},
+	{
+		"description": "Functioneel en verantwoord gebruik maken van theatrale middelen",
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3d/1",
+		"examenprogramma_eindterm_id": [
+			"3266a570-e410-4e61-9cdb-1ce8b89f88b0"
+		],
+		"title": "de kandidaat gebruikt de (aangeboden) mogelijkheden met betrekking tot een of meer theatrale middelen zo dat de inhoud / betekenis en/of de vorm van de dans wordt versterkt.",
+		"id": "aea9b7a1-8d20-4b26-a0ef-8a3703150490",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"title": "Danssoorten",
+		"id": "2d7065d7-deb8-465e-be5e-8eb6b4a97b32",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"title": "Danselementen",
+		"id": "ab3a000c-f086-4954-bf76-540750e9c8fb",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a",
+		"examenprogramma_eindterm_id": [
+			"cce9e56f-d4e3-4a88-abb3-8f48be3d1574"
+		],
+		"title": "Dansfuncties",
+		"id": "3d31285f-d3cb-4a70-9243-96c6c8655552",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"title": "Dans, cultuur en tijd",
+		"id": "81b298fa-5498-4d20-9b10-d6b7bc250e49",
+		"unreleased": true
+	},
+	{
+		"description": "Dans en andere kunsten",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a",
+		"examenprogramma_eindterm_id": [
+			"a0dda683-8495-410c-a1d7-ff3149e1e469"
+		],
+		"title": "dansproductie",
+		"id": "0c9add4a-b9cb-470f-b7d8-d57e297e9065",
+		"unreleased": true
+	},
+	{
+		"description": "Vaardigheden in samenhang",
+		"ce_se": "CE",
+		"prefix": "DA/V/3/12",
+		"examenprogramma_eindterm_id": [
+			"0a028f4d-71fb-4049-a14d-dd967959cf72"
+		],
+		"title": "Samenhang",
+		"id": "cfc8f9f3-d148-4bc7-963a-e85f8fed215f",
+		"unreleased": true
 	}
 ]
