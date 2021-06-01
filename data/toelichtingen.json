@@ -2488,5 +2488,803 @@
 		"title": "Accenten binnen het onderwerp:\r\n- popart en massamedia;\r\n- soaps, comedy, tv-drama, videoclips;\r\n- musical;\r\n- mainstream en subculturen;\r\n- popmuziek, filmmuziek, elektronische muziek;\r\n- fusion en cross over;\r\n- multidisciplinaire kunst;\r\n- postmodernistische kunst in relatie tot massacultuur.",
 		"id": "4d218aa7-a117-4e82-ace2-3833fc7ca9cf",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"e1cbfc0e-bd13-4a05-94da-0c2186d89967"
+		],
+		"title": "Het centraal examen dans bestaat uit een aantal blokken met vragen. In deze blokken hebben enkele vragen betrekking op exploreren, improviseren en structureren. Uitgangspunt voor dergelijke vragen is een gegeven. Een gegeven kan zijn een thema, een dansfrase, een compositie. Het antwoord kan alleen beschrijvend zijn, of ook zichtbaar gemaakt  worden via een stilstaand digitaal beeld.",
+		"id": "68fed672-337a-450c-8145-c89e776eb6a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3d/1",
+		"syllabus_specifieke_eindterm_id": [
+			"2e78091a-4227-46db-a6d5-2a3281d39d29"
+		],
+		"title": "Deze eindterm met betrekking tot theatrale middelen wordt in het centraal schriftelijk examen dans geoperationaliseerd in eenzelfde soort vraag / vragen als bij de vorige eindterm DA/K/3 door middel van exploreren, improviseren en structureren een dansontwerp maken. (zie DA/K/3 door middel van exploreren, improviseren en structureren een dansontwerp maken). Een of meer theatrale middelen vormen het gegeven.",
+		"id": "f063e2e3-4739-4469-8a75-3c2fb8bfff9a",
+		"unreleased": true
+	},
+	{
+		"description": "Dansexpressie",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "Ook wel dansimprovisatie of educatieve dans genoemd. Dansexpressie komt voort uit de expressionistische dans. De danssoort wordt vooral toegepast in het basis en voortgezet onderwijs om tot een eigen dansstijl te komen. Improvisatie wordt ook veel door hedendaagse choreografen gebruikt om tot  nieuw eigentijds dansmateriaal te komen.",
+		"id": "2ae88d3e-a1b5-4d4a-9419-ae9e65f654e6",
+		"unreleased": true
+	},
+	{
+		"description": "Werelddans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "dans die behoort tot de cultuur van een bepaald volk, een bepaalde streek of land. Het omvat al die dansvormen die cultuurgebonden zijn en gebaseerd zijn op traditionele dansvormen.",
+		"id": "017e5a78-598a-4cb2-afa7-347d2698dedc",
+		"unreleased": true
+	},
+	{
+		"description": "Jazzdans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "Jazzdans is een samensmelting van Afro-Amerikaanse dans, ballet, hedendaagse dans en tapdans. Jazzdans wordt onder andere gebruikt in musical, film en t.v. (showmusicaldans).",
+		"id": "eebab0d6-9085-42c2-a099-bea4789db5da",
+		"unreleased": true
+	},
+	{
+		"description": "Afrikaanse dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "De basis voor de Jazzdans is de Afrikaanse dans. Met Afrikaanse dans wordt bedoeld: dansen van de culturen ten zuiden van de Sahara.",
+		"id": "c2dc3c1f-bff3-451a-a519-a2b74ad69488",
+		"unreleased": true
+	},
+	{
+		"description": "Klassieke dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/5",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "Ook wel academisch ballet, academische dans of klassiek ballet genoemd. Theaterdansvorm die ontstaat in de 17e eeuw. Tot de 20e eeuw stond de klassieke dans centraal in de westerse theaterdans.",
+		"id": "343112a5-7a19-4490-9c16-b47b44aa3bc9",
+		"unreleased": true
+	},
+	{
+		"description": "Moderne dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/6",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "Ontstaan begin 20e eeuw als reactie op klassieke dans.",
+		"id": "87cf2871-8b2f-467d-9ac4-9d612a720e09",
+		"unreleased": true
+	},
+	{
+		"description": "Urban dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/7",
+		"syllabus_specifieke_eindterm_id": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
+		],
+		"title": "Urban dans is de verzamelnaam voor breakdance en verschillende vormen van streetdance. Breakdance behoort samen met o.a. rap en graffiti tot de hiphop cultuur, ontstaan als straatcultuur in de jaren 80 in New York en Los Angeles. Streetdance wordt soms onderverdeeld in de stijlen popping en locking. Het lijkt erop dat urban dans nog blijvend in ontwikkeling is.",
+		"id": "fd970296-9427-4c55-af37-bb743dbb6ab8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "Deze eindterm richt zich op geclusterde onderdelen die betrekking hebben op inhoud en vorm van het dansproduct. De kandidaat moet binnen een geclusterd onderdeel zoals “danser” zelfstandig alle informatie die daarop van toepassing is, kunnen benoemen, en de samenhang kunnen aangeven en beargumenteren. Vervolgens moet de kandidaat ook de relatie tussen verschillende onderdelen (bijvoorbeeld “danser” en “geluid”) kunnen beargumenteren en daarmee tot een conclusie kunnen komen over inhoud, vorm en samenhang in de dans.",
+		"id": "e9f3c40a-7655-4fd3-ae77-4f4ea13c23cd",
+		"unreleased": true
+	},
+	{
+		"description": "Danser",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/2",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "Het betreft vragen zoals: - hoeveel dansers / danseressen? - mannen en/of vrouwen? - wat voor rol of karakter dansen ze? - dansen ze solo, duet, in groep, of wisselt dit? - welke samenwerkingsvormen gebruiken ze? Leiden – volgen, spiegelen, synchroon, unisono, actie – reactie, leunen – ondersteunen, tillen. - welke invloed hebben de dansers op elkaar?",
+		"id": "14c25089-79f7-4af8-b695-f2eafad2026f",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Danselementen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/3",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "De kandidaat kan naar aanleiding van de danselementen en de bijbehorende aspecten dansproducten analyseren in relatie tot de dansinhoud / betekenis. 1 Aspecten van Ruimte: – richtingen (hoog, laag, voor, achter, links, rechts, diagonaal) – vlakken (sagittaal, verticaal, horizontaal) – lagen (hoog, midden, diep / laag) – vorm van het lichaam (bijvoorbeeld rond, hoekig, open, groot, klein) – vormverandering – patronen (vloerpatronen) – op de plek – verplaatsend 2 Aspecten van Tijd: – tempo (snel, langzaam) – duur (kort, lang) – maat / ritme (bijvoorbeeld regelmatig, onregelmatig) – frasering (danszinnen, begin, verloop, einde) – versnellen / vertragen, stops, herhaling Dans vmbo gt | syllabus centraal examen 2021 Versie 2, juni 2019 pagina 18 van 23 3 Aspecten van Kracht – spanning - ontspanning – krachtig - licht, zwaar",
+		"id": "92b5e04c-838b-48e2-8922-44ca0a187d2d",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Lichaam",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/4",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "totaal - isolatie – vorm van het lichaam – aanzet van beweging – symmetrie - asymmetrie – acties alle bewegingen die in een bewegingswerkwoord te vatten zijn. Dansacties kunnen op de plaats of verplaatsend zijn. De basis dansacties zijn draaien, glijden, lopen, rennen, rollen, springen, vallen.",
+		"id": "a5d1e435-efd9-49ef-b3dd-28437ddcff92",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Structuur",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/5",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "De kandidaat kan de volgende structuurmogelijkheden herkennen en benoemen in dansproducten: - herhaling - omkering - opeenstapeling - opeenvolging - canon / echo",
+		"id": "d48483bb-2351-48b8-93b5-ce8aad97ffe4",
+		"unreleased": true
+	},
+	{
+		"description": "Geluid",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/6",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "Het betreft hier de relatie tussen dans en geluid, waarmee de betekenis of de sfeer wordt benadrukt, ondersteund, gecontrasteerd of ontkend. Geluid kan ook duiden op bijvoorbeeld live of opgenomen muziek, een combinatie van die twee, een collage van verschillende muziekstukken, verschillende muziekstukken door elkaar heen laten gaan.",
+		"id": "6a0b68db-88f8-4e7b-97fe-60ab9ea3de1f",
+		"unreleased": true
+	},
+	{
+		"description": "Ruimte / locatie",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/7",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. Gebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
+		"id": "00f7df34-b306-4372-a1ad-e1f69e5b724b",
+		"unreleased": true
+	},
+	{
+		"description": "Theatrale middelen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/8",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "De kandidaat moet kunnen herkennen en benoemen hoe de theatrale middelen zijn toegepast, vaak in relatie tot de dansinhoud / betekenis. Theatrale middelen zijn: - decor: alles wat zich op het dansvlak / podium bevindt, zoals neutraal of beschilderd achterdoek, coulissen, decorstukken, installaties (waar je in, op, onder en/of doorheen kunt), filmprojecties, video- en computerprojecties. Ook ballonnen, confetti of bijvoorbeeld bellenblaasbellen die naar beneden komen dwarrelen behoren tot het decor. - geluid: muziek: tempo, melodie, ritme, instrumentatie / geluid. Maar ook stilte, stem, door de dansers gemaakte geluiden als klappen en stampen, live en/of opgenomen. - grime: make-up op het gezicht, body-paint, gelakte nagels van handen en voeten, speciale kapsels (ingevlochten haar, opgediste haarcoupes e.d.); nepbloed, nepwimpers, gebruik van poeder. - belichting / licht: kleurgebruik, waar het licht vandaan komt (voor, zij, achter, boven, onder), sterkte van het licht, en soort licht zoals spots. - rekwisieten: attributen waar de dansers gebruik van maken, zoals stoelen, tafels, waaiers, stokken, elastiek e.d. waarmee gedanst wordt. Dans vmbo gt | syllabus centraal examen 2021 Versie 2, juni 2019 pagina 19 van 23 - kostuums: kleding van de dansers, accessoires: sieraden, corsages, linten in het haar, om de polsen, hoofdtooien, schoenen enz. Bij theatrale middelen horen ook: audiovisuele middelen zoals foto-, film- en videoprojecties. Het verschil tussen decor en rekwisiet / attribuut Stoelen en tafels bijvoorbeeld kunnen zowel decor als attribuut zijn. Als het gehanteerd wordt (overgooien, erop leunen e.d.) zijn het attributen, als ze een duidelijke plek op het podium hebben en deel uitmaken van het toneelbeeld is het (ook) decor.",
+		"id": "e327084c-6272-4436-aa4c-1c6f8f8ff09e",
+		"unreleased": true
+	},
+	{
+		"description": "Dansinhoud / betekenis",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/9",
+		"syllabus_specifieke_eindterm_id": [
+			"3ec35e9c-4a68-4801-8242-509cfeb34562"
+		],
+		"title": "Het betreft vragen zoals: - waar gaat de dans over? - wat is het thema? - is de dans verhalend of abstract? - welke middelen zijn gebruikt om de betekenis te verduidelijken? - is er een ontwikkeling te zien in dans?",
+		"id": "710e1ac9-e90d-45a3-8d6a-e76ca855971b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "Dans vervult verschillende functies in onze maatschappij. Dansers en danseressen verdienen hun brood met dansen, in de disco wordt voor de lol gedanst, in een videoclip wordt dans gebruikt ter ondersteuning van de zang en de muziek en in het theater kijken mensen naar een dansvoorstelling. Dans kan op verschillende manieren ervaren worden, afhankelijk van de manier waarop men ermee in aanraking komt. Zo kan een dansstuk voor verschillende mensen verschillende functies hebben. Een dansstuk wordt door een toeschouwer anders ervaren dan door de danser die in het stuk danst. Het dansstuk heeft voor beiden een andere functie. Uitgaande van de eigen achtergrond / cultuur van de kandidaat komt deze op verschillende manieren met dans in aanraking in zijn dagelijks leven. Het is de bedoeling dat de kandidaat zich hiervan bewust wordt.",
+		"id": "461f279f-2964-4b7d-a38a-34b3d4b4e6a4",
+		"unreleased": true
+	},
+	{
+		"description": "Decoratieve functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "de dans wordt gebruikt als decoratie. Bijvoorbeeld een dansgroepje bij het optreden van een popgroep.",
+		"id": "6d7307a1-9548-414f-b616-4295b3bd8703",
+		"unreleased": true
+	},
+	{
+		"description": "Economische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "de dans wordt gebruikt voor reclame of werk",
+		"id": "9f8a69d9-3b94-4bc7-98a8-6e7202915234",
+		"unreleased": true
+	},
+	{
+		"description": "Educatieve functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "het is de bedoeling dat de toeschouwer tot nieuwe inzichten komt, iets leert",
+		"id": "81349c06-071a-4531-ac49-cea17ad7d02d",
+		"unreleased": true
+	},
+	{
+		"description": "Esthetische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/5",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "het dansstuk is gemaakt om schoonheid te tonen, of juist het tegengestelde: anti-schoonheid (vervreemding, confrontatie). Bij de toeschouwer gaat het om inleven en genieten van schoonheid.",
+		"id": "6ba6cbb9-46f1-4737-b68d-e555a5c7f1b1",
+		"unreleased": true
+	},
+	{
+		"description": "Levensbeschouwelijke functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/6",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "de dans wordt gebruikt bij religieuze of rituele vieringen",
+		"id": "52009481-c647-44d3-92d9-efdbae6dc6df",
+		"unreleased": true
+	},
+	{
+		"description": "Maatschappijkritische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/7",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "via dans reageren op maatschappelijke en/of politieke toestanden of verhoudingen bijvoorbeeld via parodie. Recreatieve functie: dansen als vrijetijdsbesteding",
+		"id": "0a1c3c01-b8f6-4082-a7a0-64b0991c597e",
+		"unreleased": true
+	},
+	{
+		"description": "Sociale functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/8",
+		"syllabus_specifieke_eindterm_id": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		],
+		"title": "het dansen is gericht op het samen dansen, gericht op het samenzijn in een groep",
+		"id": "b39fbe17-6c04-445f-b9b9-b4b4a7a6f5b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "De samenleving en ook de cultuur van de samenleving verandert voortdurend. Mensen verbinden en onderscheiden zich. Cultuur verbindt en laat onderscheid zien. Iedere groep heeft zijn eigen cultuur en wil die laten zien aan elkaar en aan anderen. Mensen onderling en groepen mensen beïnvloeden elkaar, nemen uitingen van elkaar over. Danssoorten beïnvloeden elkaar en er ontstaan nieuwe danssoorten. Zo verandert dans ook voortdurend. Zie voor danssoorten de toelichting bij eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven.",
+		"id": "d79a6666-7ead-42cb-9991-5f21a409b338",
+		"unreleased": true
+	},
+	{
+		"description": "Rituele dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/2",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "De oudste dans waar wij kennis over hebben is de rituele dans. De rituele dans werd al in de oudheid uitgevoerd bij gebeurtenissen die van groot belang zijn voor de stam, zoals geboorte, huwelijk, oorlog, planten en oogsten. Iedere belangrijke fase werd ingewijd met een magische rite om het kwade af te weren en het goede aan te moedigen. Deze dans is bij vele culturen terug te vinden. Het is vrijwel altijd gemeenschapsdans en de oorsprong van werelddans.",
+		"id": "d7d40b72-658e-4078-a35e-bb7bc010d063",
+		"unreleased": true
+	},
+	{
+		"description": "Klassieke dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/3",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "De mensen van adel en de rijken dansten in de 17e eeuw op een andere manier dan de gewone burgers en de boeren. De adel kwam aan het hof van de koning. Hun dans heet daarom hofdans. Vooral in Frankrijk werd er veel gedanst aan het hof. Koning Lodewijk XIV stimuleerde dit en danste zelf ook. De dans werd voor publiek opgevoerd in balzalen. In die tijd is het klassieke ballet ontstaan, met een aantal uitgangspunten, dat ook nu nog terug te zien zijn in het huidige klassieke ballet zoals de uitgedraaide benen en voeten en het “opgestrekt lichaam”. Alle danspassen en lichaamshoudingen van het klassieke ballet hebben daarom een Franse naam die nu nog over de hele wereld gebruikt worden, bijvoorbeeld: arabesque, pirouette, plié, relevé (zie begrippenlijst).",
+		"id": "6143ffa8-8c19-4e0d-b4ae-a39fc92e63f6",
+		"unreleased": true
+	},
+	{
+		"description": "Moderne dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/4",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "Rond 1900 vond er een revolutie plaats op het gebied van alle kunst. In dans betekende dat dat men niet meer in het strakke keurslijf van tutu en spitzen wilde dansen, maar veel natuurlijker, met vrije, losse bewegingen. Ook mocht de eigen emotie getoond worden in dans, in plaats van bestaande verhalen zoals sprookjes uit te beelden. Zo is in de eerste helft van de twintigste eeuw de moderne dans ontstaan. In Noord-Amerika zijn de belangrijke vernieuwers van de dans Isadora Duncan en Martha Graham met haar sterk dramatisch getinte dansen (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven). In de periode tussen de twee wereldoorlogen ontwikkelt zich in Europa onder invloed van Rudolf von Laban, Mary Wigman en Kurt Jooss de Ausdruckstanz, de expressionistische dans. Dit is een vorm van moderne dans waarin uitdrukking wordt gegeven aan emoties, waarbij de persoonlijke lichaamstaal van de danser belangrijk is. Hieruit is dansexpressie ontstaan (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "a57f24bb-d9db-4ca1-9bdb-68d7a1b16aa6",
+		"unreleased": true
+	},
+	{
+		"description": "Urban dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/5",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "In onze multiculturele maatschappij ontstaan nieuwe dansstijlen, in deze syllabus met de verzamelnaam urban dans aangegeven. In deze ontwikkeling is “fusion” een belangrijk begrip. Zowel in urban dans als in andere danssoorten speelt vermenging van culturen en stijlen (fusion) een grote rol. Deze ontwikkeling kan leiden tot nieuwe trends met bijbehorende nieuwe termen.",
+		"id": "12582478-2a2f-4a4b-b16d-d6ab3008eef8",
+		"unreleased": true
+	},
+	{
+		"description": "Afrikaanse dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/6",
+		"syllabus_specifieke_eindterm_id": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		],
+		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de zwarte en de blanke bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "a45c0601-8f51-453e-94be-2335f0cf14f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"a3328b97-be22-463b-a106-87dc6cec43d1"
+		],
+		"title": "Een dansproductie omvat naast het dansstuk publiciteitszaken, zoals het programmaboekje en poster. De kandidaat kent de verschillende kunstvormen en weet hoe deze in combinatie met dans gebruikt kunnen worden.",
+		"id": "4bfc4928-9b52-4bb4-ba4b-a76123fc93c4",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstvormen",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"a3328b97-be22-463b-a106-87dc6cec43d1"
+		],
+		"title": "Kunstvormen zijn: - beeldende kunst, waaronder: film / video, fotografie, grafische kunst, mode, schilderkunst - dans - drama - literatuur - muziek",
+		"id": "e42240d7-f69d-4fe8-a3af-79ce3604893d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"a3328b97-be22-463b-a106-87dc6cec43d1"
+		],
+		"title": "De bedoeling is dat de kandidaat bekijkt hoe de verschillende kunstvormen samengaan in de dansproductie en welke functie ze in het geheel vervullen: Wat dragen de toegepaste kunstvormen bij aan de dans? Hoe ondersteunen ze de dans? Wat is het effect op de dans van de specifieke manier waarop de verschillende kunstvormen samen gebruikt worden? Hoe worden deze gebruikt door de dansers en wat draagt dit bij aan de dans?",
+		"id": "455056d1-31c5-4174-9964-c2e96635862e",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"a3328b97-be22-463b-a106-87dc6cec43d1"
+		],
+		"title": "De kandidaat kent ook de verschillende functies: - ondersteunende functie in technische zin - ondersteunende functie in inhoudelijke zin - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning.",
+		"id": "32180bde-1dcf-427e-bb23-d27dfbc32efe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/V/3/12/1",
+		"syllabus_specifieke_eindterm_id": [
+			"bf53165c-7f44-4b9d-b52c-6fbbd99895f0"
+		],
+		"title": "De domeinen: Leervaardigheden in het vak dans, Beschouwen, Dans en maatschappij en Dans en andere kunsten kunnen in samenhang in het centraal schriftelijk examen aan de orde komen.",
+		"id": "7d156978-5529-4522-b911-f5a6ec07ca72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"b1a54cd1-e5dc-4ee8-b126-1e419c87a467"
+		],
+		"title": "Het centraal examen dans bestaat uit een aantal blokken met vragen. In deze blokken hebben enkele vragen betrekking op exploreren, improviseren en structureren. Uitgangspunt voor dergelijke vragen is een gegeven. Een gegeven kan zijn een thema, een dansfrase, een compositie. Het antwoord kan alleen beschrijvend zijn, of ook zichtbaar gemaakt  worden via een stilstaand digitaal beeld.",
+		"id": "ac02dc70-25f3-4c85-965c-02de09477edf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/3/3d/1",
+		"syllabus_specifieke_eindterm_id": [
+			"aea9b7a1-8d20-4b26-a0ef-8a3703150490"
+		],
+		"title": "Deze eindterm met betrekking tot theatrale middelen wordt in het centraal schriftelijk examen dans geoperationaliseerd in eenzelfde soort vraag / vragen als bij de vorige eindterm DA/K/3 door middel van exploreren, improviseren en structureren een dansontwerp maken. (zie DA/K/3 door middel van exploreren, improviseren en structureren een dansontwerp maken). Een of meer theatrale middelen vormen het gegeven.",
+		"id": "9b7c3cea-a733-43a9-8946-2527d09693e6",
+		"unreleased": true
+	},
+	{
+		"description": "Dansexpressie",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "Ook wel dansimprovisatie of educatieve dans genoemd. Dansexpressie komt voort uit de expressionistische dans. De danssoort wordt vooral toegepast in het basis en voortgezet onderwijs om tot een eigen dansstijl te komen. Improvisatie wordt ook veel door hedendaagse choreografen gebruikt om tot  nieuw eigentijds dansmateriaal te komen.",
+		"id": "c286ede5-3c9d-4b49-af27-961b43b6cc73",
+		"unreleased": true
+	},
+	{
+		"description": "Werelddans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "dans die behoort tot de cultuur van een bepaald volk, een bepaalde streek of land. Het omvat al die dansvormen die cultuurgebonden zijn en gebaseerd zijn op traditionele dansvormen.",
+		"id": "05bbabea-7dbe-49a7-918b-8885029f11a3",
+		"unreleased": true
+	},
+	{
+		"description": "Jazzdans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "Jazzdans is een samensmelting van Afro-Amerikaanse dans, ballet, hedendaagse dans en tapdans. Jazzdans wordt onder andere gebruikt in musical, film en t.v. (showmusicaldans).",
+		"id": "45da4504-f9b0-4edb-8b7d-065acadac0e4",
+		"unreleased": true
+	},
+	{
+		"description": "Afrikaanse dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "De basis voor de Jazzdans is de Afrikaanse dans. Met Afrikaanse dans wordt bedoeld: dansen van de culturen ten zuiden van de Sahara.",
+		"id": "9dea3ff0-9747-41df-b293-6e9685add28b",
+		"unreleased": true
+	},
+	{
+		"description": "Klassieke dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/5",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "Ook wel academisch ballet, academische dans of klassiek ballet genoemd. Theaterdansvorm die ontstaat in de 17e eeuw. Tot de 20e eeuw stond de klassieke dans centraal in de westerse theaterdans.",
+		"id": "5453b3b7-1507-43b6-87cb-b9c2a5deff26",
+		"unreleased": true
+	},
+	{
+		"description": "Moderne dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/6",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "Ontstaan begin 20e eeuw als reactie op klassieke dans.",
+		"id": "b069623c-c104-4f7a-be88-6519fde39212",
+		"unreleased": true
+	},
+	{
+		"description": "Urban dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7a/7",
+		"syllabus_specifieke_eindterm_id": [
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32"
+		],
+		"title": "Urban dans is de verzamelnaam voor breakdance en verschillende vormen van streetdance. Breakdance behoort samen met o.a. rap en graffiti tot de hiphop cultuur, ontstaan als straatcultuur in de jaren 80 in New York en Los Angeles. Streetdance wordt soms onderverdeeld in de stijlen popping en locking. Het lijkt erop dat urban dans nog blijvend in ontwikkeling is.",
+		"id": "a14f5020-7884-470e-af6a-1879ae18ed20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "Deze eindterm richt zich op geclusterde onderdelen die betrekking hebben op inhoud en vorm van het dansproduct. De kandidaat moet binnen een geclusterd onderdeel zoals “danser” zelfstandig alle informatie die daarop van toepassing is, kunnen benoemen, en de samenhang kunnen aangeven en beargumenteren. Vervolgens moet de kandidaat ook de relatie tussen verschillende onderdelen (bijvoorbeeld “danser” en “geluid”) kunnen beargumenteren en daarmee tot een conclusie kunnen komen over inhoud, vorm en samenhang in de dans.",
+		"id": "344de566-f325-4b64-8adc-5f47cb8107c6",
+		"unreleased": true
+	},
+	{
+		"description": "Danser",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/2",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "Het betreft vragen zoals: - hoeveel dansers / danseressen? - mannen en/of vrouwen? - wat voor rol of karakter dansen ze? - dansen ze solo, duet, in groep, of wisselt dit? - welke samenwerkingsvormen gebruiken ze? Leiden – volgen, spiegelen, synchroon, unisono, actie – reactie, leunen – ondersteunen, tillen. - welke invloed hebben de dansers op elkaar?",
+		"id": "ddc6a1ef-c826-474d-9ff2-f1ed4c551906",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Danselementen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/3",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "De kandidaat kan naar aanleiding van de danselementen en de bijbehorende aspecten dansproducten analyseren in relatie tot de dansinhoud / betekenis. 1 Aspecten van Ruimte: – richtingen (hoog, laag, voor, achter, links, rechts, diagonaal) – vlakken (sagittaal, verticaal, horizontaal) – lagen (hoog, midden, diep / laag) – vorm van het lichaam (bijvoorbeeld rond, hoekig, open, groot, klein) – vormverandering – patronen (vloerpatronen) – op de plek – verplaatsend 2 Aspecten van Tijd: – tempo (snel, langzaam) – duur (kort, lang) – maat / ritme (bijvoorbeeld regelmatig, onregelmatig) – frasering (danszinnen, begin, verloop, einde) – versnellen / vertragen, stops, herhaling Dans vmbo gt | syllabus centraal examen 2021 Versie 2, juni 2019 pagina 18 van 23 3 Aspecten van Kracht – spanning - ontspanning – krachtig - licht, zwaar",
+		"id": "b9e35337-e4e5-48c3-be04-398ba3d0ec19",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Lichaam",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/4",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "totaal - isolatie – vorm van het lichaam – aanzet van beweging – symmetrie - asymmetrie – acties alle bewegingen die in een bewegingswerkwoord te vatten zijn. Dansacties kunnen op de plaats of verplaatsend zijn. De basis dansacties zijn draaien, glijden, lopen, rennen, rollen, springen, vallen.",
+		"id": "6a26dba7-0f9d-4939-9596-a6f4cbfbc528",
+		"unreleased": true
+	},
+	{
+		"description": "Dans: Structuur",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/5",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "De kandidaat kan de volgende structuurmogelijkheden herkennen en benoemen in dansproducten: - herhaling - omkering - opeenstapeling - opeenvolging - canon / echo",
+		"id": "13c1ef55-dabe-4a10-a975-2191f20f3478",
+		"unreleased": true
+	},
+	{
+		"description": "Geluid",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/6",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "Het betreft hier de relatie tussen dans en geluid, waarmee de betekenis of de sfeer wordt benadrukt, ondersteund, gecontrasteerd of ontkend. Geluid kan ook duiden op bijvoorbeeld live of opgenomen muziek, een combinatie van die twee, een collage van verschillende muziekstukken, verschillende muziekstukken door elkaar heen laten gaan.",
+		"id": "58504cc5-7c58-4083-866b-08e59e1161a9",
+		"unreleased": true
+	},
+	{
+		"description": "Ruimte / locatie",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/7",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. Gebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
+		"id": "a31e991d-f134-43cc-ab20-44a4cf6fdb8f",
+		"unreleased": true
+	},
+	{
+		"description": "Theatrale middelen",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/8",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "De kandidaat moet kunnen herkennen en benoemen hoe de theatrale middelen zijn toegepast, vaak in relatie tot de dansinhoud / betekenis. Theatrale middelen zijn: - decor: alles wat zich op het dansvlak / podium bevindt, zoals neutraal of beschilderd achterdoek, coulissen, decorstukken, installaties (waar je in, op, onder en/of doorheen kunt), filmprojecties, video- en computerprojecties. Ook ballonnen, confetti of bijvoorbeeld bellenblaasbellen die naar beneden komen dwarrelen behoren tot het decor. - geluid: muziek: tempo, melodie, ritme, instrumentatie / geluid. Maar ook stilte, stem, door de dansers gemaakte geluiden als klappen en stampen, live en/of opgenomen. - grime: make-up op het gezicht, body-paint, gelakte nagels van handen en voeten, speciale kapsels (ingevlochten haar, opgediste haarcoupes e.d.); nepbloed, nepwimpers, gebruik van poeder. - belichting / licht: kleurgebruik, waar het licht vandaan komt (voor, zij, achter, boven, onder), sterkte van het licht, en soort licht zoals spots. - rekwisieten: attributen waar de dansers gebruik van maken, zoals stoelen, tafels, waaiers, stokken, elastiek e.d. waarmee gedanst wordt. Dans vmbo gt | syllabus centraal examen 2021 Versie 2, juni 2019 pagina 19 van 23 - kostuums: kleding van de dansers, accessoires: sieraden, corsages, linten in het haar, om de polsen, hoofdtooien, schoenen enz. Bij theatrale middelen horen ook: audiovisuele middelen zoals foto-, film- en videoprojecties. Het verschil tussen decor en rekwisiet / attribuut Stoelen en tafels bijvoorbeeld kunnen zowel decor als attribuut zijn. Als het gehanteerd wordt (overgooien, erop leunen e.d.) zijn het attributen, als ze een duidelijke plek op het podium hebben en deel uitmaken van het toneelbeeld is het (ook) decor.",
+		"id": "9ee8a364-6a8f-425e-b90e-2a0612222451",
+		"unreleased": true
+	},
+	{
+		"description": "Dansinhoud / betekenis",
+		"ce_se": "CE",
+		"prefix": "DA/K/7/7b/9",
+		"syllabus_specifieke_eindterm_id": [
+			"ab3a000c-f086-4954-bf76-540750e9c8fb"
+		],
+		"title": "Het betreft vragen zoals: - waar gaat de dans over? - wat is het thema? - is de dans verhalend of abstract? - welke middelen zijn gebruikt om de betekenis te verduidelijken? - is er een ontwikkeling te zien in dans?",
+		"id": "7586dd6d-52c4-4415-bf52-ba07a8a356c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "Dans vervult verschillende functies in onze maatschappij. Dansers en danseressen verdienen hun brood met dansen, in de disco wordt voor de lol gedanst, in een videoclip wordt dans gebruikt ter ondersteuning van de zang en de muziek en in het theater kijken mensen naar een dansvoorstelling. Dans kan op verschillende manieren ervaren worden, afhankelijk van de manier waarop men ermee in aanraking komt. Zo kan een dansstuk voor verschillende mensen verschillende functies hebben. Een dansstuk wordt door een toeschouwer anders ervaren dan door de danser die in het stuk danst. Het dansstuk heeft voor beiden een andere functie. Uitgaande van de eigen achtergrond / cultuur van de kandidaat komt deze op verschillende manieren met dans in aanraking in zijn dagelijks leven. Het is de bedoeling dat de kandidaat zich hiervan bewust wordt.",
+		"id": "27031c07-03c7-4ad4-ad2d-6e058d917217",
+		"unreleased": true
+	},
+	{
+		"description": "Decoratieve functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "de dans wordt gebruikt als decoratie. Bijvoorbeeld een dansgroepje bij het optreden van een popgroep.",
+		"id": "6b3eaf27-82e8-4f71-812d-90b612547cce",
+		"unreleased": true
+	},
+	{
+		"description": "Economische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "de dans wordt gebruikt voor reclame of werk",
+		"id": "45c85b5a-cf84-4ff3-bc26-8ef751ddbeac",
+		"unreleased": true
+	},
+	{
+		"description": "Educatieve functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "het is de bedoeling dat de toeschouwer tot nieuwe inzichten komt, iets leert",
+		"id": "a819758f-138b-43aa-a62e-623602823d6d",
+		"unreleased": true
+	},
+	{
+		"description": "Esthetische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/5",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "het dansstuk is gemaakt om schoonheid te tonen, of juist het tegengestelde: anti-schoonheid (vervreemding, confrontatie). Bij de toeschouwer gaat het om inleven en genieten van schoonheid.",
+		"id": "f8b192f8-6dd4-46a3-9d2d-52b5249e6904",
+		"unreleased": true
+	},
+	{
+		"description": "Levensbeschouwelijke functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/6",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "de dans wordt gebruikt bij religieuze of rituele vieringen",
+		"id": "de085ade-d340-41b3-9137-25c5ec6aa000",
+		"unreleased": true
+	},
+	{
+		"description": "Maatschappijkritische functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/7",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "via dans reageren op maatschappelijke en/of politieke toestanden of verhoudingen bijvoorbeeld via parodie. Recreatieve functie: dansen als vrijetijdsbesteding",
+		"id": "6282a6f4-e7b5-4107-a1a1-e96331a6957c",
+		"unreleased": true
+	},
+	{
+		"description": "Sociale functie",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8a/8",
+		"syllabus_specifieke_eindterm_id": [
+			"3d31285f-d3cb-4a70-9243-96c6c8655552"
+		],
+		"title": "het dansen is gericht op het samen dansen, gericht op het samenzijn in een groep",
+		"id": "cbbf84fa-9509-424c-b855-214aed9b06f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/1",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "De samenleving en ook de cultuur van de samenleving verandert voortdurend. Mensen verbinden en onderscheiden zich. Cultuur verbindt en laat onderscheid zien. Iedere groep heeft zijn eigen cultuur en wil die laten zien aan elkaar en aan anderen. Mensen onderling en groepen mensen beïnvloeden elkaar, nemen uitingen van elkaar over. Danssoorten beïnvloeden elkaar en er ontstaan nieuwe danssoorten. Zo verandert dans ook voortdurend. Zie voor danssoorten de toelichting bij eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven.",
+		"id": "43794b5f-b69f-46cd-bf7b-c40dc6e98023",
+		"unreleased": true
+	},
+	{
+		"description": "Rituele dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/2",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "De oudste dans waar wij kennis over hebben is de rituele dans. De rituele dans werd al in de oudheid uitgevoerd bij gebeurtenissen die van groot belang zijn voor de stam, zoals geboorte, huwelijk, oorlog, planten en oogsten. Iedere belangrijke fase werd ingewijd met een magische rite om het kwade af te weren en het goede aan te moedigen. Deze dans is bij vele culturen terug te vinden. Het is vrijwel altijd gemeenschapsdans en de oorsprong van werelddans.",
+		"id": "d4d521c4-9bb4-4daa-859f-a5cc543fcfcc",
+		"unreleased": true
+	},
+	{
+		"description": "Klassieke dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/3",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "De mensen van adel en de rijken dansten in de 17e eeuw op een andere manier dan de gewone burgers en de boeren. De adel kwam aan het hof van de koning. Hun dans heet daarom hofdans. Vooral in Frankrijk werd er veel gedanst aan het hof. Koning Lodewijk XIV stimuleerde dit en danste zelf ook. De dans werd voor publiek opgevoerd in balzalen. In die tijd is het klassieke ballet ontstaan, met een aantal uitgangspunten, dat ook nu nog terug te zien zijn in het huidige klassieke ballet zoals de uitgedraaide benen en voeten en het “opgestrekt lichaam”. Alle danspassen en lichaamshoudingen van het klassieke ballet hebben daarom een Franse naam die nu nog over de hele wereld gebruikt worden, bijvoorbeeld: arabesque, pirouette, plié, relevé (zie begrippenlijst).",
+		"id": "c9acbe64-3c96-41b6-8419-ad30fb9848fb",
+		"unreleased": true
+	},
+	{
+		"description": "Moderne dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/4",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "Rond 1900 vond er een revolutie plaats op het gebied van alle kunst. In dans betekende dat dat men niet meer in het strakke keurslijf van tutu en spitzen wilde dansen, maar veel natuurlijker, met vrije, losse bewegingen. Ook mocht de eigen emotie getoond worden in dans, in plaats van bestaande verhalen zoals sprookjes uit te beelden. Zo is in de eerste helft van de twintigste eeuw de moderne dans ontstaan. In Noord-Amerika zijn de belangrijke vernieuwers van de dans Isadora Duncan en Martha Graham met haar sterk dramatisch getinte dansen (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven). In de periode tussen de twee wereldoorlogen ontwikkelt zich in Europa onder invloed van Rudolf von Laban, Mary Wigman en Kurt Jooss de Ausdruckstanz, de expressionistische dans. Dit is een vorm van moderne dans waarin uitdrukking wordt gegeven aan emoties, waarbij de persoonlijke lichaamstaal van de danser belangrijk is. Hieruit is dansexpressie ontstaan (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "05151149-ec23-4f44-86cd-378e65cfb078",
+		"unreleased": true
+	},
+	{
+		"description": "Urban dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/5",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "In onze multiculturele maatschappij ontstaan nieuwe dansstijlen, in deze syllabus met de verzamelnaam urban dans aangegeven. In deze ontwikkeling is “fusion” een belangrijk begrip. Zowel in urban dans als in andere danssoorten speelt vermenging van culturen en stijlen (fusion) een grote rol. Deze ontwikkeling kan leiden tot nieuwe trends met bijbehorende nieuwe termen.",
+		"id": "a71641a5-2b3a-4dc8-a651-349e85b9f894",
+		"unreleased": true
+	},
+	{
+		"description": "Afrikaanse dans",
+		"ce_se": "CE",
+		"prefix": "DA/K/8/8b/6",
+		"syllabus_specifieke_eindterm_id": [
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49"
+		],
+		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de zwarte en de blanke bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "93402443-0eb4-47d0-8d90-78d538e38699",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"0c9add4a-b9cb-470f-b7d8-d57e297e9065"
+		],
+		"title": "Een dansproductie omvat naast het dansstuk publiciteitszaken, zoals het programmaboekje en poster. De kandidaat kent de verschillende kunstvormen en weet hoe deze in combinatie met dans gebruikt kunnen worden.",
+		"id": "5723d7b0-3b32-45c8-addb-beaec29a6b07",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstvormen",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"0c9add4a-b9cb-470f-b7d8-d57e297e9065"
+		],
+		"title": "Kunstvormen zijn: - beeldende kunst, waaronder: film / video, fotografie, grafische kunst, mode, schilderkunst - dans - drama - literatuur - muziek",
+		"id": "6ef1ba1e-3e8d-4386-8b98-d09d42ab5eba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/3",
+		"syllabus_specifieke_eindterm_id": [
+			"0c9add4a-b9cb-470f-b7d8-d57e297e9065"
+		],
+		"title": "De bedoeling is dat de kandidaat bekijkt hoe de verschillende kunstvormen samengaan in de dansproductie en welke functie ze in het geheel vervullen: Wat dragen de toegepaste kunstvormen bij aan de dans? Hoe ondersteunen ze de dans? Wat is het effect op de dans van de specifieke manier waarop de verschillende kunstvormen samen gebruikt worden? Hoe worden deze gebruikt door de dansers en wat draagt dit bij aan de dans?",
+		"id": "44c69305-43a7-451e-a15f-51cbe6c74726",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "DA/K/9/9a/4",
+		"syllabus_specifieke_eindterm_id": [
+			"0c9add4a-b9cb-470f-b7d8-d57e297e9065"
+		],
+		"title": "De kandidaat kent ook de verschillende functies: - ondersteunende functie in technische zin - ondersteunende functie in inhoudelijke zin - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning.",
+		"id": "9cc13323-16f4-4d0e-9ec9-44e287ff665c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DA/V/3/12/1",
+		"syllabus_specifieke_eindterm_id": [
+			"cfc8f9f3-d148-4bc7-963a-e85f8fed215f"
+		],
+		"title": "De domeinen: Leervaardigheden in het vak dans, Beschouwen, Dans en maatschappij en Dans en andere kunsten kunnen in samenhang in het centraal schriftelijk examen aan de orde komen.",
+		"id": "51d367a8-50bd-455f-b3fb-fc2e5ffe535e",
+		"unreleased": true
 	}
 ]
