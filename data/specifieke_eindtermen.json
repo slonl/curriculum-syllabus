@@ -32668,5 +32668,125 @@
 		"title": "Onderwerp 3: Massacultuur vanaf 1950",
 		"id": "6da1a00c-229a-467c-89a1-bbf4fb0ac2f5",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/3/3/a",
+		"examenprogramma_eindterm_id": [
+			"99dad2fd-e85c-4da3-a274-be8e42cb9451"
+		],
+		"title": "De kandidaat kan in beeldende processen van anderen keuzes herkennen en benoemen",
+		"id": "0a0b98b4-557a-463d-9ac1-7b045b756a94",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/3/3/b",
+		"examenprogramma_eindterm_id": [
+			"99dad2fd-e85c-4da3-a274-be8e42cb9451"
+		],
+		"title": "De kandidaat kan op beelden van anderen reflecteren",
+		"id": "e90ff464-419b-4250-a286-9805c50d31b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/8/10/a",
+		"examenprogramma_eindterm_id": [
+			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
+		],
+		"title": "De kandidaat kan in autonome beelden en toegepast werk van anderen de aspecten van de voorstelling benoemen en toelichten",
+		"id": "9d22e895-e94d-45dc-9bce-a2646c1f390e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/8/10/b",
+		"examenprogramma_eindterm_id": [
+			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
+		],
+		"title": "De kandidaat kan in autonome beelden en toegepast werk van anderen de aspecten van de vormgeving/beeldende aspecten benoemen en toelichten",
+		"id": "999c4126-73ac-4d11-9fdf-42d8b9dc1c95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/8/10/c",
+		"examenprogramma_eindterm_id": [
+			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
+		],
+		"title": "De kandidaat kan in autonome beelden en toegepast werk van anderen de technieken en de daarbij behorende materialen, apparatuur, gereedschappen benoemen en toelichten",
+		"id": "533abb64-32a5-4468-b5b4-c7360000625e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/8/10/d",
+		"examenprogramma_eindterm_id": [
+			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
+		],
+		"title": "De kandidaat kan in autonome beelden en toegepast werk van anderen de functionaliteit benoemen en toelichten",
+		"id": "709f86d0-61a7-403e-a864-d29a1e30aeab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/8/10/e",
+		"examenprogramma_eindterm_id": [
+			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
+		],
+		"title": "De kandidaat kan in autonome beelden en toegepast werk van anderen de aspecten van de culturele en/of kunsthistorische context benoemen en toelichten",
+		"id": "abd8fa64-a120-439f-8cf0-47bdf3b301db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/V/1/a",
+		"examenprogramma_domein_id": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		],
+		"title": "De kandidaat kan zelfstandig een probleemstelling formuleren en komen tot autonoom of toegepast beeldend werk\r\n- voor kandidaten in het vak tekenen betekent dit komen tot tweedimensionale beelden\r\n- voor kandidaten in het vak handenarbeid betekent dit komen tot driedimensionale beelden\r\n- voor kandidaten in het vak textiele werkvormen betekent dit komen tot twee- of driedimensionale beelden in textiel\r\n- voor kandidaten in het vak audiovisuele vormgeving betekent dit komen tot een geënsceneerde sb/ bg (stilstaand beeld/bewegend beeld) of een documentaire",
+		"id": "195b89ea-a487-47e3-b33e-e05065d0c381",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/V/1/b",
+		"examenprogramma_domein_id": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		],
+		"title": "De kandidaat kan diverse fases van het werkproces zelfstandig doorlopen en het tijdpad ervan zelf bewaken.",
+		"id": "c6b33032-c5fc-4ed1-a4f4-71f1d45e704a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/V/1/c",
+		"examenprogramma_domein_id": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		],
+		"title": "De kandidaat kan aspecten van de voorstelling en aspecten van de vormgeving (beeldende aspecten, technieken en de daarbij behorende materialen, apparatuur en gereedschappen) zelfstandig kiezen en zo toepassen dat ze een bijdrage leveren aan de zeggingskracht van het eigen autonome werk en/of het eigen toegepaste werk.",
+		"id": "bba8dee6-a8ec-4cf8-9d82-c770554a8ea2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/V/1/d",
+		"examenprogramma_domein_id": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		],
+		"title": "De kandidaat kan het eigen beeldend werk en het doorlopen proces zelfstandig presenteren en er zelfstandig op reflecteren",
+		"id": "3a6043cf-aa3f-47b8-a438-ea650cd7095b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/V/1/e",
+		"examenprogramma_domein_id": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		],
+		"title": "De kandidaat kan aan de hand van de probleemstelling zelfstandig een relatie leggen tussen het eigen beeldend werk en het beeldend werk van anderen aan de hand van aspecten van de voorstelling, beeldende aspecten, technieken met de daarbij behorende materialen, apparatuur, gereedschappen, aspecten van de culturele en/of kunsthistorische context",
+		"id": "10fbfab6-e202-4b9c-82a2-146be432f285",
+		"unreleased": true
 	}
 ]
