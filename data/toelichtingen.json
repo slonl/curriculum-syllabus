@@ -3548,5 +3548,545 @@
 		"title": "Functies kunnen bijvoorbeeld zijn: - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning Bijvoorbeeld: Dans: de dans in een videoclip, waarin de dans een decoratieve functie heeft Drama: de dramatische structuur in een musical om een verhaallijn weer te geven (verhalende functie). Beeldende kunst: in een opera, waarin de beeldende kunst (het decor) bijvoorbeeld een decoratieve functie heeft. Filmprojectie om de dramatische en emotionele impact te versterken.",
 		"id": "957d30fc-e057-45ff-803f-eae3a034794c",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A2/toel.",
+		"examenprogramma_subdomein_id": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"title": "Theorieën kunnen gegroepeerd worden tot een beperkt aantal theoretische tradities, ook wel paradigma’s genoemd. De hoofdconcepten en kernconcepten kunnen in verschillende paradigma’s een andere betekenis hebben. De vier te onderscheiden theoretische tradities werken tot op heden door maar worden door weinig wetenschappers in pure vorm aangehangen. Hedendaagse theorieën en empirische studies combineren vaak inzichten uit deze verschillende paradigma’s.\r\nKort worden de vier paradigma's samengevat in 4 aparte toelichtingen.",
+		"id": "0c518a2d-92b0-4b72-b7f1-88c4f1f5ad4e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A2/toel.1",
+		"examenprogramma_subdomein_id": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"title": "Functionalisme-paradigma. \r\nAanhangers van het functionalisme-paradigma willen het functioneren van een samenleving als systeem verklaren en leggen daarbij de nadruk op de functies die een samenleving ontwikkelt om te kunnen voortbestaan. Ze zien de samenleving als een op consensus georiënteerd sociaal systeem.\r\nBij zich veranderende externe omstandigheden zal het systeem zich geleidelijk aanpassen aan die omstandigheden en opnieuw op zoek gaan naar het hervinden van het evenwicht. Gemeenschappelijke morele overtuigingen en sociale instituties functioneren hierbij als sociale stabilisatoren. Alle actoren in de samenleving (leden en instituties) dragen met een bij hen passende taak bij aan het voortbestaan van die samenleving. Doordat de mate van beloning en aanzien voor de verschillende taken in de samenleving varieert naar gelang ze meer of minder van belang zijn voor de samenleving als geheel, ontstaat er sociale ongelijkheid. Sociale ongelijkheid wordt door aanhangers van het functionalisme-paradigma gezien als noodzakelijk om de samenleving goed te kunnen laten functioneren en als functioneel om de leden van de samenleving de bij hen passende taken te laten vervullen. De verschillen in beloning voor deze taken wordt in grote mate gesteund door de samenleving.",
+		"id": "f99ecaf6-2995-4f2c-ad59-b84cec271c96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A2/toel.2",
+		"examenprogramma_subdomein_id": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"title": "Conflict-paradigma.\r\nAanhangers van het conflict-paradigma gaan ervan uit dat maatschappelijke tegenstellingen en de daaruit voortvloeiende conflicten bepalend zijn voor een alsmaar veranderende maatschappij, die steeds opnieuw maatschappelijke tegenstellingen en daaruit voortvloeiende conflicten voortbrengt. Overeenstemming over waarden en normen is veelal afwezig en voor zover wel aanwezig, opgelegd door de dominante maatschappelijke groepering. \r\nOngelijkheid is voor aanhangers van het conflict-paradigma de kern van de samenleving: de samenleving is de resultante van conflicten tussen verschillende groeperingen binnen die samenleving. Ongelijkheid berust op machtsverschillen, die het gevolg zijn van het feit dat actoren in verschillende mate over hulpbronnen en sociale contacten beschikken. Actoren zijn in meerdere of mindere mate in staat, daar waar met anderen geconcurreerd wordt om schaarse en hooggewaardeerde goederen, een gunstig resultaat te bereiken. Dit geldt zowel voor mensen als voor bv. staten en bedrijven.",
+		"id": "f7de07a1-6960-4b03-bbf2-529f0b035119",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A2/toel.3",
+		"examenprogramma_subdomein_id": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"title": "Sociaalconstructivisme-paradigma. \r\nAanhangers van het sociaalconstructivisme-paradigma onderzoeken de wijze waarop mensen samen de maatschappelijke werkelijkheid definiëren. Zij gaan ervan uit dat menselijke handelingen en sociale interacties altijd berusten op interpretaties en dat de sociale werkelijkheid door symbolische betekenisgeving gestalte krijgt, ‘geconstrueerd’ wordt.\r\nBindingen worden gezien als noodzakelijk om een gemeenschappelijke oriëntatie en gemeenschappelijk handelen mogelijk te maken. Deze bindingen zijn echter grotendeels ter keuze van de individuen zelf en niet afgedwongen door de gemeenschap (zoals functionalisten betogen).\r\nSociale ongelijkheid wordt beschouwd als een gevolg van het beeld dat mensen zich samen vormen van (de capaciteiten van) de verschillende groepen in de samenleving. Zo berust de sociale ongelijkheid tussen mannen en vrouwen of tussen verschillende etnische groeperingen volgens dit paradigma voornamelijk op de beelden die door mensen samen met betrekking tot die groepen zijn geconstrueerd.",
+		"id": "2fcd8111-e341-43f9-9d84-71a6529a4376",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A2/toel.4",
+		"examenprogramma_subdomein_id": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"title": "Rationele actor-paradigma\r\nAanhangers van het rationele actor-paradigma (dat ook in de economische wetenschap grote invloed heeft) leggen de nadruk op (individuele) actoren (maar ook op collectieve actoren als ondernemingen of staten) en hun streven naar nutsmaximalisatie. Doelen kunnen op verschillende manier worden gerealiseerd.\r\nDe keuze tussen alternatieven wordt door actoren op rationele wijze gemaakt, namelijk door de kosten en baten die aan die alternatieven zijn verbonden tegen elkaar af te wegen. Actoren zullen vooral actief die (politieke) oriëntaties kiezen die gericht zijn op maximalisering van het eigenbelang. Sociale en politieke verhoudingen zijn dan ook het resultaat van rationele keuzes die door de actoren gemaakt worden. En ook bij bindingen geldt dat actoren die aangaan als ze daar voordeel bij denken te hebben. Dilemma’s kunnen ontstaan als het eigenbelang van actoren op korte termijn strijdig is\r\nmet het collectieve belang op de lange termijn.\r\nEr wordt verondersteld dat verandering in een samenleving zal plaatsvinden als actoren verwachten dat de baten van de verandering, opwegen tegen de verwachte kosten. Of als het bestaande evenwicht in de samenleving wordt verstoord, doordat de belangen van actoren veranderen of er nieuwe spelers verschijnen met nieuwe belangen.",
+		"id": "d83b493c-65fe-4078-b7f2-315fa7a51bf4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.1/toel.1",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Socialisatie is “het proces van overdracht en verwerving van de cultuur van de groep(en) en de samenleving waar mensen toe behoren. Het proces bestaat uit opvoeding, opleiding en andere vormen van omgang met anderen”. Culturen zijn tijden plaatsgebonden. Ze zijn dynamisch van karakter omdat ze veranderen onder invloed van gewijzigde omstandigheden, zoals veranderingen in de politieke of economische situatie. Deze nieuwe omstandigheden en veranderingen worden weer onderdeel van de socialisatieprocessen.",
+		"id": "37a41e33-46db-451a-8d9c-506f29e734e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.1/toel.2",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "De andere vorm is acculturatie: “het aanleren en verwerven van een andere cultuur of elementen daaruit, dan die waarin iemand is opgegroeid”. Bij acculturatie gaat hetbom individuen die reeds in een andere cultuur zijn gevormd, zoals buitenlanders die zich in Nederland vestigen en volwassenen die een geheel nieuwe levensbeschouwing overnemen.",
+		"id": "ee661cf9-2f7a-4d0f-b14b-5c0e85627743",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.1/toel.3",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Nature/nurture invloeden\r\nDe jarenlange discussie over de vraag of eigenschappen van individuen meer door nurture\r\n(opvoeding en omgevingsfactoren) dan door nature (biologische of erfelijke factoren) bepaald\r\nworden is nog niet beslecht. Wel gaat men ervan uit dat beide van belang zijn.",
+		"id": "09e0b349-a1b8-465a-b04b-80eb09292d35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Primaire socialisatie speelt zich af binnen kleine groepen, waarin mensen directe persoonlijke relaties met elkaar hebben. Het proces verloopt informeel en vanzelfsprekend. Gezin en peergroup zijn socialisatoren in primaire socialisatie. Primaire socialisatie wordt wel je ‘sociale huid’ genoemd, omdat mensen ermee vergroeid zijn en het deel uitmaakt van hun persoonlijke leven.",
+		"id": "99a9deb8-1c2b-4d1b-b7e8-b69862143bb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Bij secundaire socialisatie leren mensen hoe zij zich moeten gedragen in formele omstandigheden en omgevingen. Secundaire socialisatie wordt wel ‘sociale kleren’ genoemd. Mensen kunnen gedragingen kiezen en wisselen afhankelijk van de gelegenheid. Socialisatoren zijn school, buurt, verenigingen, werk etc. Bij secundaire socialisatie spelen collectieve rituelen een belangrijke rol. Tijdens een ritueel bevestigt een aantal vaste handelingen het belang van het moment en van bepaalde gedeelde waarden (diploma uitreiking). Gemeenschapsgevoel en groepsidentiteit worden daarmee versterkt",
+		"id": "f039d9d2-1009-42e8-ac99-018cc6ba8107",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Bij tertiaire socialisatie worden impliciet waarden, normen en gedragspatronen overgedragen door anonieme socialisatoren waarmee mensen niet rechtstreeks een band hebben zoals media, literatuur, rolmodellen etc.",
+		"id": "a827945f-59b0-4a74-9884-0407ddb229e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.3/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Identiteit is “het beeld dat iemand van zichzelf heeft, dat hij uitdraagt en anderen voorhoudt en dat hij als kenmerkend en blijvend beschouwt voor zijn eigen persoon en dat is afgeleid van zijn perceptie over groep(en) waar hij wel of juist niet deel van uitmaakt”. Mensen streven continu naar een positieve identiteit voor zichzelf.",
+		"id": "a4876b6d-1958-4dc8-b7d6-0ade560ea03d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.4/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Cultuur is “het geheel van voorstellingen, uitdrukkingsvormen, opvattingen, waarden en normen die mensen als lid van een groep of samenleving hebben verworven”. De dominante cultuur is de cultuur van de groep in de samenleving met een invloedrijke politieke of economische positie.",
+		"id": "de79e4d9-fcd5-4135-8863-500885050aff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.4/toel.",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Dimensies van Hofstede. Landen en culturen verschillen qua waarden, normen en opvattingen, bijvoorbeeld in de betekenis die religie heeft in een samenleving. Hofstede onderscheidt vijf dimensies, waarop je culturen van elkaar kunt onderscheiden.",
+		"id": "257ef4e5-288e-4f0e-b34f-89329e2d2bf3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Politieke socialisatie is “het proces van overdracht en verwerving van de politieke cultuur van de groep(en) en samenleving waar mensen toe behoren. Het proces bestaat uit opvoeding, opleiding en andere vormen van omgang met anderen”.",
+		"id": "8bced1aa-77df-4b07-b8fa-c5b162c2d087",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Politieke socialisatie zorgt niet alleen voor de vorming van politieke voorkeuren, een bepaalde mate van participatiebereidheid en (bijvoorbeeld democratische) gedragspatronen van mensen, maar draagt vaak ook bij aan het voortbestaan van het politieke systeem. Onder andere onderwijs draagt politieke cultuur over.",
+		"id": "2aa67623-24df-4536-9296-9f7c02a77fcb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Veel voorkomende politieke meningen in een land kunnen gerangschikt worden naar verschillende politieke dimensies zoals links/midden/rechts, progressief/conservatief, nationalisme/internationalisme, materialisme/postmaterialisme. Deze dimensies geven in combinaties een samenhangend programma",
+		"id": "7c2d834f-5e31-41cf-a92b-57348c1a11bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Partijen maken vaak een beginselprogramma op basis van een politieke ideologie. Een politieke ideologie is “een samenhangend geheel van beginselen en denkbeelden, meestal uitmondend in ideeën over de meest wenselijke maatschappelijke en politieke verhoudingen”",
+		"id": "4a060aac-b082-4449-aa16-4af02132a2a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3/6/toel.",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"title": "Vanuit het functionalisme-paradigma wordt bij (politieke) socialisatie aandacht besteed aan het belang van het voortbestaan van de (politieke) cultuur van de samenleving en de (politieke) integratie van de persoonlijkheid, met nadruk op de betekenis van waarden en normen, opvattingen en gedragspatronen.",
+		"id": "bb610784-7920-4e11-a395-b444c0f5d3b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3/6/toel.",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"title": "Vanuit het conflict-paradigma wordt bij (politieke) socialisatie aandacht besteed aan de betekenis van de socialisatie voor ongelijkheid in de samenleving en voor ongelijke machtsverhoudingen en (potentiële) conflicten op lokaal, (inter)nationaal of mondiaal niveau.",
+		"id": "26ad0b62-1f9d-4c58-a662-3409164f61da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3/6/toel.",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"title": "Vanuit het sociaalconstructivisme-paradigma wordt bij socialisatie vooral aandacht besteed aan het persoonlijke ontwikkelingsproces waarbij individuen onder invloed van de sociale, politieke, economische en culturele omgeving hun eigen identiteit en hun eigen sociale realiteit construeren en daardoor in algemene zin maatschappelijk en politiek gesocialiseerd worden.",
+		"id": "8e413414-e7d1-483d-a743-75faa888b093",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "De verhoudingen tussen mensen zijn veranderlijk en vaak problematisch omdat ze gekenmerkt worden door verschil en ongelijkheid. In iedere samenleving is sociale ongelijkheid in een of andere vorm geïnstitutionaliseerd.",
+		"id": "4a54f70c-5bed-4c73-a644-d92c0d124e52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Sociale ongelijkheid is “een situatie waarin verschillen tussen mensen in al dan niet aangeboren kenmerken, consequenties hebben voor hun maatschappelijke positie en leiden tot een ongelijke verdeling van schaarse en hooggewaardeerde zaken, van waardering en behandeling”.",
+		"id": "c957fc38-14bd-4ee0-8eb8-6f9fc8e3be9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Op mondiaal niveau zijn de verhoudingen tussen staten aan verandering onderhevig door de groeiende wederzijdse afhankelijkheid van staten, de schaalvergroting en globalisering van de economie en de groeiende samenwerking tussen staten",
+		"id": "9760764f-36cf-404f-b5d9-56fa9200d0fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2a/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "De realistische theorieën beschrijven internationale verhoudingen als een machtsstrijd van allen tegen allen. Iedere staat zal zijn eigenbelangen behartigen en dat kan het beste als hij machtiger wordt dan andere staten.",
+		"id": "992947b8-227e-41c7-a1fd-698f5cf9f3e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2b/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Volgens de marxistische theorieën kunnen internationale verhoudingen alleen maar goed begrepen worden als een diepere, onderliggende structuur in de analyse betrokken wordt. Die onderliggende structuur wordt gevormd door de kapitalistische productiewijze die gekenmerkt wordt door machtsongelijkheid tussen bezitters van productiemiddelen en niet-bezitters.",
+		"id": "7527bfb4-1026-463d-b6d5-44325a7ea622",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2c/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "De liberale theorieën verwerpen de notie van de realistische theorieën dat oorlog tussen staten een natuurlijk gegeven is. Zoiets als een ‘nationaal belang’ bestaat niet. Wat als zodanig gepresenteerd wordt is het resultaat van interne besluitvormingsprocessen binnen een staat waarin één van de actoren weet te domineren.",
+		"id": "75d6b80b-02b7-423a-a7ff-0582c4557e5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2d/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "De sociaal constructivistische theorie gaat ervan uit dat de sociale wereld wezenlijk verschilt van de fysieke wereld. De fysieke wereld bestaat ‘buiten’ de mensen, is materieel en kan op een objectieve manier onderzocht worden. De sociale wereld is anders en bestaat niet onafhankelijk van de mensen die er aan deelnemen.",
+		"id": "4274d871-84e4-4ecb-a40b-da081fad094c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2e/toel.",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Contacten tussen staten verlopen via mensen die individueel of in groepen vormgeven aan de verhoudingen tussen staten. Volgens politiek psychologische theorieën hangen die verhoudingen zeer nauw samen met de psyche van betrokkenen: staatshoofden, regeringsleiders, ministers van buitenlandse zaken, ministers van defensie, diplomaten, militaire kopstukken en andere mensen die in naam van een staat optreden in internationale aangelegenheden.",
+		"id": "b77d70cf-785e-4173-9d48-9792375a18fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Macht is “het vermogen om hulpbronnen in te zetten om bepaalde doelstellingen te bereiken en de handelingsmogelijkheden van anderen te beperken of te vergroten”. Macht is een relationeel begrip, komt op alle niveaus voor en kent verschillende soorten.",
+		"id": "d570c1eb-1bf5-444e-b1ea-23fdb20b076a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Internationale conflicten kunnen ontstaan om allerlei redenen; bijvoorbeeld etnische, religieuze, ideologische, territoriale, politieke, economische of ecologische redenen.",
+		"id": "957dcd00-8705-4be3-9552-a5e90ebd578d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.3/toel.",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Samenwerken is “het proces waarin individuen, groepen en/of staten relaties vormen om hun handelen op elkaar af te stemmen voor een gemeenschappelijk doel”. Dat kan door het handelen van mensen of collectiviteiten op elkaar af te stemmen, gebruikmakend van elkaars sterke punten of de macht van het getal (samen staan we sterker).",
+		"id": "52e0fd68-52fb-48c8-be40-c3df4d243531",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Het statensysteem is de regeling van de onderlinge verhoudingen tussen staten. Het statensysteem is het resultaat van het proces van staatsvorming in WestEuropa vanaf de late middeleeuwen",
+		"id": "01d2788b-d364-4bd6-b633-4ae6bebb44ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2a/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Mondiale machtsverhoudingen verschuiven. Opkomende economieën waaronder de BRICS-landen (Brazilië, Rusland, India, China en Zuid-Afrika) worden belangrijker en dat gaat ten koste van de machtspositie van de VS en Europa.",
+		"id": "a99dbefe-8415-476f-bd53-4b6f34c95a9a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2b/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Een fragiele (of falende) staat is vaak niet bij machte (grote delen van) zijn grondgebied te beheersen, noch de veiligheid van zijn burgers te garanderen, omdat hij zijn monopolie op het gebruik van geweld verloren heeft.",
+		"id": "688c927e-2b34-45a6-9fc9-4477fa7d3f2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2c/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Wereldpolitiek wordt in deze tijd van globalisering niet meer alleen door staten bepaald. Er zijn andere spelers bij gekomen die belangrijke invloed uitoefenen, zoals multinationale bedrijven, internationale niet-gouvernementele organisaties en intergouvernementele organisaties",
+		"id": "80e57968-76ce-42cb-b9da-60df6a518aa1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.5/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Het internationaal recht is gebaseerd op soevereiniteit van staten. Uitgangspunt van het internationaal recht is dat staten zelf moeten instemmen met de regels die hen binden.",
+		"id": "d9b84776-8531-4111-b12a-885f17e92cc5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.6/toel.",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Twee groepen theorieën geven een verklaring voor de verschillen in ontwikkeling tussen rijke landen enerzijds en ontwikkelingslanden anderzijds: de evolutionistische theorieën en de afhankelijkheidstheorieën.",
+		"id": "575fe82d-4397-468f-a5cc-c3d0602b27ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "Grensoverschrijdende samenwerking vind je onder meer tussen individuele burgers, wetenschappelijke instituten, bedrijven, gemeenten, provincies en staten. Samenwerking komt tot stand omdat het wederzijds voordeel oplevert of omdat problemen adequater aangepakt kunnen worden. Staten zijn via al deze bindingen sterk met elkaar verbonden",
+		"id": "eaafacbd-8c6c-41cd-8442-ba72007bfe3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "Internationale samenwerking dient echter verschillende doelen en dat is zichtbaar in het grote aantal verdragen en organisaties waar Nederland aan deelneemt.",
+		"id": "0ec24cd3-ca9f-44c5-8433-cff4410ea311",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "De sociale bindingen tussen mensen zijn van groot belang omdat mensen fundamenteel van elkaar afhankelijk zijn.",
+		"id": "f997f7a4-d5d4-4815-b272-02c8daabe630",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Wetenschappers binnen het functionalisme-paradigma benadrukken het belang van de onderlinge verbondenheid en betrokkenheid als functies die bijdragen aan het voortbestaan van de samenleving.",
+		"id": "d22c149c-2c4e-4211-9a8f-9b60e9abb585",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Wetenschappers binnen het conflict-paradigma stellen juist de afwezigheid van sociale cohesie centraal.",
+		"id": "d97b9409-2e2e-4e9b-b7e5-340984d06fd0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Wetenschappers binnen het sociaalconstructivisme-paradigma stellen het handelen van personen ten opzichte van elkaar centraal.",
+		"id": "8382c898-88b3-478c-9c5e-7e7a59fe70da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.4/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Sociale cohesie is “het aantal en de kwaliteit van de bindingen die mensen in een ruimer sociaal kader met elkaar hebben, het gevoel een groep te zijn, lid te zijn van een gemeenschap, de mate van verantwoordelijkheid voor elkaars welzijn, en de mate waarin anderen daar ook een beroep op kunnen doen”.",
+		"id": "231a2462-a2c8-40b6-bf50-958b48fbd199",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.4/toel.",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Politieke cohesie duidt op de binding met de staat waarin men woont en op de binding met de natie waartoe men behoort (o.a. door gedeelde geschiedenis, een gemeenschappelijke taal en een gezamenlijke cultuur en symbolen).",
+		"id": "d5f4ed78-6b6d-4f54-b2c2-0d5566998fb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"title": "Representatie is \"de vertegenwoordiging van een groep in (politieke) organisaties door één of enkele betrokkenen die namens de groep optreden\".",
+		"id": "30be8575-e99a-4e99-9a8b-3e215897d714",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.2/toel.",
+		"examenprogramma_eindterm_id": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"title": "Het kernconcept representativiteit verwijst naar \"de mate waarin de (politieke) besluiten, de standpunten of achtergrondkenmerken van vertegenwoordigers overeenkomen met die van de groep die vertegenwoordigd wordt\". I",
+		"id": "077b0cb6-e612-45d1-acaa-fd11fafa36bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.1/toel.",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Rationalisering is “het proces van het ordenen en systematiseren van de werkelijkheid met de bedoeling haar voorspelbaar en beheersbaar te maken en van het doelgericht inzetten van middelen ten einde zo efficiënt en effectief mogelijke resultaten te bereiken”. Oude traditionele opvattingen en handelswijzen werden vervangen door een weloverwogen doelgericht handelen.",
+		"id": "c63bcb0d-e86b-43f9-b371-5e4de69c6bc7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.2",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Eén van de meest in het oog springende facetten van de moderne westerse samenleving is het proces van individualisering. In aansluiting op Norbert Elias90 kan individualisering gezien worden als “het proces waarbij individuen in toenemende mate hun zelfstandigheid op verschillende gebieden kunnen vergroten” en meer dan vroeger hun eigen leven kunnen c.q. moeten gaan plannen en inrichten. Veel mensen hebben de afgelopen decennia hun afhankelijkheid van bepaalde traditionele instituties zoals gezin, sociale klasse, kerk, arbeid of huwelijk weten te verminderen. Individualisering brengt met zich mee dat van individuen veel meer dan vroeger wordt verwacht dat zij zelf verantwoordelijk zijn voor hun handelen en voor het aangaan van sociale betrekkingen",
+		"id": "5386db31-5474-400d-be97-0ec3340dc454",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.3",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Institutionalisering is een telkens terugkerend sociaal proces. Het is “het proces waarbij een complex van waarden en min of meer geformaliseerde regels vastgelegd wordt in standaardgedragspatronen, die het gedrag van mensen en hun onderlinge relaties reguleren”.",
+		"id": "ba60fe09-6b4b-470b-b161-3ffa24612163",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.1",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Staatsvorming is “de institutionalisering van politieke macht tot een staat” (zie ook paragraaf 12.1 en 15.1). Daarbij breidt de politieke macht zich uit en verandert de politieke macht door processen van depersonalisering, formalisering en integratie.",
+		"id": "11b77c30-06b6-467f-90ce-4247518d9990",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.2",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Democratie kent meerdere vormen. In sommige maatschappijen blijft democratie beperkt tot het politieke domein, in andere samenlevingen is het uitgebreid tot andere levenssferen. In het politieke domein heeft democratisering betrekking op het proces waarbij er naar gestreefd wordt een politiek systeem te ontwerpen, te consolideren en uit te bouwen waarin de burgers participeren in de politieke besluitvorming.",
+		"id": "3b5581d5-3c77-47ff-936a-884395a9a776",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.3",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Globalisering is “het proces van uitbreiding en intensivering van contacten en afhankelijkheden over zeer grote afstanden en over landsgrenzen heen” op economisch, juridisch, politiek, sociaal-cultureel en ecologisch gebied (global society).",
+		"id": "e2914df7-f502-432e-82eb-1158a2162727",
+		"unreleased": true
 	}
 ]
