@@ -4057,5 +4057,23 @@
 		"title": "Syllabus Kunst Beeldende vorming vmbo",
 		"id": "d376b67a-0019-414f-8f67-0a92fd0a85a3",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"d10201e5-a936-45cb-b8a8-36f576d78b77"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"dbc0ea7e-ed79-42ad-8c9c-b0f502bf85d9",
+			"a1532bf6-cf01-41cf-95ea-18738713647f",
+			"9488e619-3d28-4385-8fc8-f2bb8389ddff",
+			"499c58d7-df0b-4d54-bf24-cffc4939460c",
+			"b04ee5f1-c2e9-4b3b-9324-e5c3832cd8b9",
+			"55e0f185-5e4e-48d0-be1d-088a7b082e67",
+			"f7705a1d-8b2e-4d5d-86aa-d10365b589ec",
+			"012108d3-d1e7-4109-b434-04c03f79c356"
+		],
+		"title": "Syllabus Kunst Drama vmbo",
+		"id": "518b5546-d831-412f-bab7-d0b46d420425",
+		"unreleased": true
 	}
 ]
