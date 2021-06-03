@@ -33247,5 +33247,1155 @@
 		"title": "Andere kunstvormen",
 		"id": "ae4ac326-5658-45c9-84ec-ff8d4d235de2",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.1",
+		"examenprogramma_eindterm_id": [
+			"9ecd9277-327f-4ba9-8152-bbffa977256c"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit één of meerdere informatiebronnen.",
+		"id": "557ae1e7-4d04-4aea-a775-cb9eaabb09a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.2",
+		"examenprogramma_eindterm_id": [
+			"9ecd9277-327f-4ba9-8152-bbffa977256c"
+		],
+		"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en deze te typeren naar schrijver, identiteit van de schrijver, doel van het geschrevene en mate van objectiviteit. De mate van objectiviteit en subjectiviteit kan hij herkennen in onderwerpkeuze, woordgebruik en beeldkeuze.",
+		"id": "780a8503-034f-4023-806e-f520c2ef87e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.3",
+		"examenprogramma_eindterm_id": [
+			"9ecd9277-327f-4ba9-8152-bbffa977256c"
+		],
+		"title": "Tevens kan de kandidaat de betrouwbaarheid en representativiteit van informatiebronnen vaststellen door na te gaan waar deze vandaan komen (denk aan bv. wie is de schrijver?, met welk doel is het geschreven?, wat is de identiteit van de schrijver?) op welke wijze zij zijn verzameld (denk bv. aan selectiecriteria, referentiekader) en hoe zij zijn weergegeven (denk bv. aan journalistieke principes toepassen als hoor en wederhoor, scheiding feiten en commentaar, streven naar objectiviteit, juiste weergave van feiten, citaten, checken van bronnen). Het begrip betrouwbaarheid heeft betrekking op de vraag of de bron gegevens kan opleveren die als feitelijk juist kunnen worden beschouwd.",
+		"id": "cc193e24-b076-4a9e-a5a8-4f884cb2f130",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.1",
+		"examenprogramma_eindterm_id": [
+			"33b7ef1b-8902-4969-99fa-8ffea058aedf"
+		],
+		"title": "De kandidaat kan hoofd- en kernconcepten van maatschappijwetenschappen herkennen in gegeven informatiebronnen en kan deze inzetten bij het analyseren van maatschappelijke vraagstukken.",
+		"id": "2e13842f-f16a-4c67-bb77-bef56c592524",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"33b7ef1b-8902-4969-99fa-8ffea058aedf"
+		],
+		"title": "De kandidaat kan elementaire statistische informatie uit grafieken en tabellen interpreteren.",
+		"id": "7ffe7aee-42e9-4f6b-9b56-f68858c7ca4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"33b7ef1b-8902-4969-99fa-8ffea058aedf"
+		],
+		"title": "De kandidaat kan een beredeneerd standpunt innemen en dit standpunt relateren aan verworven informatie.",
+		"id": "c6536c24-c812-4e0f-ac7d-eabd481b0416",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"474cb0a4-c020-486b-b714-4baf6793a58b"
+		],
+		"title": "De kandidaat kan een oordeel geven over een onderzoek: over de betrouwbaarheid, de mate waarin een meting onafhankelijk van toeval en vrij van willekeurige meetfouten is), validiteit (de onderzoeker meet wat hij wil meten), representativiteit (aselecte steekproef is een dwarsdoorsnede van de totale onderzoekspopulatie waarbij iedere eenheid evenveel kans heeft om in de steekproef terecht te komen) en de generaliseerbaarheid (in hoeverre eigenschappen die in de steekproef gevonden zijn gelden voor de hele populatie); daarbij kan hij de onderzoeksresultaten interpreteren en evalueren op basis van de gehanteerde meetmethoden. Dat geldt ook voor informatie over onderzoeksresultaten die in de media verschijnt.",
+		"id": "6e97221c-e80f-4d1c-ad8e-ad56f1c47832",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.1",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "De kandidaat kan een eenvoudige gefaseerde onderzoeksopzet maken, uitgaande van een door de kandidaat opgestelde en beargumenteerde vraagstelling of hypothese.",
+		"id": "cbd86601-cff3-49d4-871a-7796c040f022",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.2a",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 1. De kandidaat kan over een maatschappelijk verschijnsel een onderzoeksvraag formuleren met een daarbij passende onderzoekbare stelling en/of hypothese. Een hypothese is een toetsbare veronderstelling over de werkelijkheid. Hij kan variabelen onderscheiden (afhankelijke en onafhankelijke variabelen) en deze operationaliseren (in indicatoren bijvoorbeeld van hoofd- en kernconcepten). En tevens kan hij hoofd- en kernconcepten selecteren en opnemen in de vraagstelling of hypothese. Hij kan uitleggen welke invloed andere, interveniërende variabelen hebben op causale verbanden tussen variabelen.",
+		"id": "839828f5-4bd4-46f2-aff6-e8308d904584",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.2b",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 1. De kandidaat kan het specifieke karakter van sociaalwetenschappelijk onderzoek beschrijven namelijk dat bepaalde variabelen niet meetbaar zijn en afgeleid moeten worden uit andere sociale verschijnselen.",
+		"id": "0f411733-a685-4964-bf26-d66852b58ff6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.3a",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 2. De kandidaat kan verschillende onderzoeksmethoden (enquête, interview, observatie, experiment) onderscheiden en kent de eisen die daaraan gesteld worden. Bij interview en observatie is het van belang om de subjectiviteit zo klein mogelijk te houden bijvoorbeeld door eenduidige indicatoren te kiezen. Bij een experiment worden proefpersonen ingedeeld in een experimentele of een controle groep, waarbij de situatie van de twee groepen zo gelijk mogelijk wordt gehouden, uitgezonderd de te onderzoeken variabele.",
+		"id": "d7a39031-beec-4498-b147-6b51c31fb228",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.3b",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 2. De kandidaat kan tevens causaliteit en correlatie onderscheiden.",
+		"id": "419e0259-3ad3-48ec-bd72-458bbfdd14b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.4",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 3. De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit een of meerdere informatiebronnen en/of gegevens verzamelen op grond van eigen onderzoek.",
+		"id": "0bd6f136-83ab-474f-8ba1-1ffcf7a489c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.5a",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 4. De kandidaat kan onderzoeksgegevens analyseren, concluderen of de hypothese op grond hiervan aangenomen of verworpen moet worden.",
+		"id": "cb5d3cd1-593f-4ab5-9d78-812a67096e2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.5b",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 4. De kandidaat kan ook de opzet van door anderen uitgevoerd sociaalwetenschappelijk onderzoek beoordelen, kan conclusies trekken uit onderzoeksgegevens uit dat onderzoek en kan beoordelen of conclusies van anderen terecht zijn.",
+		"id": "7efbdab9-74d4-45af-bd3c-e028a8f06ad3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.5c",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 4. Er mag alleen van een verschil tussen metingen gesproken worden als dat verschil statistisch significant is (het waargenomen effect is te groot om het aan het toeval toe te schrijven).",
+		"id": "63a57a4a-f816-4de5-b595-d715d2c0f799",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.5d",
+		"examenprogramma_eindterm_id": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"title": "Fase 4. De kandidaat kan soorten onderzoek onderscheiden en selecteren. Theorieën kunnen via empirisch onderzoek getoetst worden. Theorie geleid empirisch onderzoek kan zowel beschrijvend als verklarend en zowel kwantitatief als kwalitatief van aard zijn.",
+		"id": "8bc59649-1ec6-4adf-85d2-11b4a9d0b03f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3c.1",
+		"examenprogramma_eindterm_id": [
+			"07dcd0bf-1f59-45dc-bb4b-f797b0bffd49"
+		],
+		"title": "De kandidaat kan omgaan met getallen, schattingen maken van uitkomsten en berekeningen en kan met percentages rekenen (gecijferdheid).",
+		"id": "1dfa5e85-6c9c-408c-9fce-136600a78a6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.1",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Het proces van socialisatie en acculturatie",
+		"id": "877537cf-af6e-43f2-beb3-40a2b591818a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.2",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Primaire, secundaire en tertiaire socialisatie",
+		"id": "0a5888db-b0c3-4536-a887-2e5985c44b2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.3",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "De vorming van de identiteit",
+		"id": "bba77c61-ef39-4870-8f40-46169f1b08a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4.4",
+		"examenprogramma_eindterm_id": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"title": "Cultuur en de dimensies van Hofstede",
+		"id": "1ce6b8ed-4447-4b72-b6e9-bd2489606112",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.1",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Het proces van politieke socialisatie",
+		"id": "64eff373-5942-43ac-8df8-3df986bc4716",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5.2",
+		"examenprogramma_eindterm_id": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"title": "Politieke ideologieën en de belangrijke politieke stromingen",
+		"id": "82f4c5f6-837e-427c-a9f2-1bde1be9be2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.1",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Ongelijkheid: nationaal en internationaal",
+		"id": "ade2683f-fe1d-4c53-aeb1-dcfbf4cc47d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Het gedrag van nationale staten ten opzichte van elkaar verklaard met behulp van theorieën.",
+		"id": "74e6b03c-bf5c-4c9f-a190-a993ae693edb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2a",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Realistische theorieën",
+		"id": "5de44566-8f60-41fa-8dcf-631a1cedae6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2b",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Marxistische theorieën",
+		"id": "51d62941-e382-4cd6-b054-0f8fb07f1981",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2c",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Liberale theorieën",
+		"id": "bda302ce-7f94-40d3-b943-ed81c49d9eb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2d",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Sociaal constructivistische theorieën",
+		"id": "4d69ce7e-2ffe-4633-8bfd-57a8c7ba97f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1/9.2e",
+		"examenprogramma_eindterm_id": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"title": "Politiek psychologische theorieën",
+		"id": "1694824f-846e-4e41-b5d7-bb94aa565980",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Macht en gezag",
+		"id": "ef20551f-1b48-49e8-bd3e-54a9d36e5a28",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1a",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Politieke macht. Politieke macht is het vermogen om de politieke besluitvorming te beïnvloeden. Machtsuitoefening door de overheid en de formele structuren van de politieke orde zijn gebaseerd op formele macht.",
+		"id": "11d9bf1f-4ff3-40d2-aed9-d45acd5f31d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1b",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Gezag. Gezag is “macht die als legitiem beschouwd wordt”.",
+		"id": "2e10f911-2bb5-4750-8f76-19069a4d399b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1c",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Politiek gezag. Bij politiek gezag wordt de invloed geaccepteerd en gaan mensen handelen in overeenstemming met de denkbeelden van die politieke actor. De politieke machtsuitoefening wordt dan als legitiem opgevat zowel door de gezagsdrager als door degenen die eraan onderworpen zijn.",
+		"id": "9ca265d3-5e0a-4167-bfbb-876bea22ea79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Macht en gezag in theorie en onderzoek. Macht en gezag worden in de sociale wetenschappen vanuit verschillende paradigma’s benaderd.",
+		"id": "4f97bfb5-959b-4b06-913f-8a1b32996484",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2a",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Het functionalisme-paradigma. Het functionalisme ziet de sociale verschijnselen macht en gezag als iets functioneels, als iets positiefs voor het voortbestaan van de maatschappij en deelsystemen binnen de maatschappij.",
+		"id": "85ce1edd-f9b9-4fa5-a51e-2c2ad5557a65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2b",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Het conflict-paradigma. Vanuit het conflict-paradigma is men geïnteresseerd in welke individuen, groepen of instellingen in feite aan de touwtjes trekken. In dit paradigma staat de strijd tussen machtshebbers en de minder machtigen centraal.",
+		"id": "3a760c52-0b09-4bb2-9554-60ca9441d2b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2c",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Het sociaalconstructivisme-paradigma. Vanuit het sociaalconstructivisme-paradigma gaat de aandacht vooral uit naar de betekenisverlening door de verschillende actoren. In het intermenselijk verkeer en in de politiek spelen machtsverhoudingen vaak een belangrijke rol.",
+		"id": "073739fb-865c-4a0a-9c16-d4ffe9b38a01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2d",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Het rationele actor-paradigma. Vanuit het rationele actor paradigma is er veel aandacht voor het fenomeen gezag en minder voor de gevestigde machtsverhoudingen binnen sociale en politieke organisaties.",
+		"id": "983c15b2-34f0-4ca9-a3c3-768a7ee2e01c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.2e",
+		"examenprogramma_eindterm_id": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"title": "Onderzoek doen. Theorieën kunnen via empirisch onderzoek getoetst worden op hun houdbaarheid en relevantie. Via beschrijvend onderzoek probeert men een beeld te krijgen van hoe macht en gezag verdeeld zijn en in een bepaalde context functioneren en wie de macht uitoefenen of veel gezag hebben.",
+		"id": "f870f6ea-3810-49ea-9584-614a784f4c1c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Maatschappelijke en politieke conflicten.",
+		"id": "d57994bc-8500-4ae2-a926-110af62e7a93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1a",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Er is sprake van een conflict in “een situatie waarin individuen, groepen en/of staten elkaar tegenwerken om de eigen doelen te bereiken”. Conflicten komen voor op micro-, meso- en macroniveau.",
+		"id": "e33ee3e8-18b4-4277-8ce9-6659f1123056",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1b",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Vanuit het functionalisme-paradigma ziet men de maatschappij als een organisme, waarin de samenstellende delen elk een eigen functie vervullen. Zij dragen bij aan het gehele maatschappelijke systeem en bevorderen de orde, de harmonie en de groei.",
+		"id": "93faf446-5ae5-4fbd-a98f-da6f366e51c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1c",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Vanuit het conflict-paradigma heeft men minder aandacht voor de vraag hoe de orde in de maatschappij bereikt of gehandhaafd kan worden, maar meer voor de conflicten in de maatschappij. Men ziet de maatschappij vooral als een ‘arena’ waarin groepen en individuen met elkaar strijden om macht, geld, overtuiging, status en invloed.",
+		"id": "9945116a-420d-4002-bc8f-7bf6ac545ba2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1d",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Vanuit het sociaalconstructivisme-paradigma kijkt men naar de handelingen van mensen in conflict- en samenwerkingssituaties en is men geïnteresseerd in de betekenis die er door verschillende actoren aan bepaalde gedragingen gehecht wordt.",
+		"id": "1e6e2a5b-b43f-4c23-9c66-72767109bbed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1e",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Vanuit het rationele actor-paradigma is de aandacht vaak gericht op hoe verschillende personen of groepen die tegengestelde doelen of belangen hebben met elkaar omgaan, proberen samen te werken en samen te leven en bij conflicten gezamenlijk tot een oplossing kunnen komen.",
+		"id": "fd9e47e5-c3d4-4569-b4c4-15d65a025b92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.1f",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Politieke conflicten. Verschillen van mening en conflicten over hoe de samenleving/wereldorde er uit zou moeten zien en over hoe die op een bepaald moment ingericht is, zijn voortdurend aan de orde in de politiek.",
+		"id": "f0fa493c-4868-408a-9d72-d7d839d343ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.2",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Vormen van internationale conflicten en conflictoplossingen",
+		"id": "1cacb818-1870-47da-9836-1f8e999be320",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.3",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Maatschappelijke en politieke samenwerking",
+		"id": "8e0eee23-4b2c-4d8b-81e5-5b4895cbcd09",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.3a",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Politieke samenwerking. In de landelijke en internationale politiek werken verschillende politieke partijen vaak samen. Dit kan vrijwillig gebeuren (gedeelde waarden) of omdat ze op elkaar aangewezen zijn (gedeelde belangen) of door dwang (machtsuitoefening).",
+		"id": "fd596310-d41f-4fcb-b391-8422ce90f98e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3/11.4",
+		"examenprogramma_eindterm_id": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"title": "Veiligheidsdilemma van nationale staten. Het veiligheidsdilemma van nationale staten is vooral geformuleerd door aanhangers van de realistische theorie.",
+		"id": "4bbdfb09-4818-44a3-b67a-f19176f0ea09",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.1",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Het ontstaan van het statensysteem",
+		"id": "dbdab7f5-8f17-4e3b-a222-77bf60d3ee34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Veranderingen binnen de mondiale machtsverhoudingen.",
+		"id": "12d95580-42ce-4a4e-ad72-e7988881ca12",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2a",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Opkomende staten",
+		"id": "25ff9818-cc1b-40ec-9ad1-82798cb58353",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2b",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Fragiele staten",
+		"id": "cd3cf293-1167-4481-aa35-8e8797f134cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2c",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Nieuwe spelers",
+		"id": "074791d8-50f9-4e5c-a99b-9630e9dbcf98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.3",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Culturele gevolgen van het proces van globalisering en internationalisering.",
+		"id": "37623065-4582-4ce6-bccd-073d1b84a8d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.4",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "Nieuwe problemen, nieuwe structuren?",
+		"id": "4687bf48-fcb0-49e0-b4a0-b9d230031462",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.5",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "De betekenis en relatieve rol van het internationale recht",
+		"id": "b8bcd495-d77a-409c-ad99-40bf0d0df6a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.6",
+		"examenprogramma_eindterm_id": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"title": "De economische (onder)ontwikkeling van staten verklaard met behulp van theorieën",
+		"id": "6b572f2f-d970-4686-98c6-9c8501628c03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.1",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "Vormen van internationale samenwerking",
+		"id": "9f441b70-26f4-428c-84d3-497e8925b536",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.2",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "De positie van Nederland in het internationale krachtenveld",
+		"id": "d20953a4-6e49-492c-9e7b-9c27f1ddbdf3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.2a",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "NAVO. De NAVO is een intergouvernementele organisatie: de besluitvorming binnen de NAVO geschiedt op basis van unanimiteit.",
+		"id": "99bc91a9-cfaa-4bdf-a57e-d72496a857b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.2b",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "De Europese Unie. De Europese samenwerking is tot stand gekomen met het doel oorlog te voorkomen en economische voorspoed te brengen.",
+		"id": "2a2c8a81-72b4-4f08-bb8a-c0940683561f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.2c",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "De belangrijkste EU-instellingen. De belangrijkste Europese instellingen zijn de Europese Raad, de Raad van de Europese Unie, het Europees Parlement en de Europese Commissie.",
+		"id": "6dc5433d-8a0e-4267-9946-e636aebca906",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.3",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "Overheidsbeleid ten aanzien van het buitenland. Nederland heeft zich in zijn grondwet verplicht om de ontwikkeling van de internationale rechtsorde te bevorderen.",
+		"id": "a23d63e1-ec62-4891-8c65-ddd60bd3cbc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5/13.3a",
+		"examenprogramma_eindterm_id": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"title": "Investeren in buitenlandbeleid. Nederland investeert relatief veel in haar buitenlandbeleid en draagt bij aan internationale organisaties.",
+		"id": "55aca73e-0dca-44fa-919b-ed0cada7f720",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.1",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Typen bindingen tussen mensen.",
+		"id": "4e827e0b-714c-4c13-b79f-99839642e2db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.2",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Bindingen bezien vanuit paradigma's",
+		"id": "d1af1a10-4c34-4b06-b86b-a4ea33f9b59b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.3",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Groepsvorming. Er is sprake van groepsvorming als er \"bindingen tussen meer dan twee mensen tot stand komen, doordat ze elkaar beïnvloeden en gemeenschappelijke waarden en normen ontwikkelen.",
+		"id": "e6cf4453-abb7-495c-9a15-82c227c89f8d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.4",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Sociale cohesie als bindmiddel voor de samenleving",
+		"id": "1a083e42-9b0e-4e82-ad90-bff6e3af4185",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D1/14.5",
+		"examenprogramma_eindterm_id": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"title": "Sociale instituties. Een sociale institutie is \"een complex van min of meer geformaliseerde regels die het gedrag van mensen en hun onderlinge relaties reguleren\".",
+		"id": "4abeb3c2-65c8-4142-90cb-6368873e3769",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.1",
+		"examenprogramma_eindterm_id": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"title": "Politieke instituties. Politieke bindingen kunnen leiden tot het ontstaan van politieke instituties.",
+		"id": "573eb32a-0de3-4cc5-a41e-dbdd69a521ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.2",
+		"examenprogramma_eindterm_id": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"title": "Representatie en respresentativiteit",
+		"id": "216127e1-aac4-4518-986e-38f5eb48b498",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.3",
+		"examenprogramma_eindterm_id": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"title": "Stabiliteit van politieke systemen",
+		"id": "181cbda0-eaf0-4068-8a27-7d2db99d2799",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D3/16.1",
+		"examenprogramma_eindterm_id": [
+			"f75577f0-855f-4029-93f7-f421e2f81bec"
+		],
+		"title": "Natievorming en staatsvorming.",
+		"id": "9c8a31fa-7471-4ed9-b9cd-96bfa5e963b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D3/16.2",
+		"examenprogramma_eindterm_id": [
+			"f75577f0-855f-4029-93f7-f421e2f81bec"
+		],
+		"title": "De rol van een staat bij collectieve actie",
+		"id": "47cf1da8-55a4-4f36-95e9-2b743fed16dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D3/16.3",
+		"examenprogramma_eindterm_id": [
+			"f75577f0-855f-4029-93f7-f421e2f81bec"
+		],
+		"title": "Globaliseringsprocessen en de positie van de nationale staat",
+		"id": "6911ba1d-225f-4751-8f9d-a7abed4bfcae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D3/16.4",
+		"examenprogramma_eindterm_id": [
+			"f75577f0-855f-4029-93f7-f421e2f81bec"
+		],
+		"title": "Binding me de staat sterker dan met Europa",
+		"id": "ba248406-a20c-45f9-bd17-6c41b18e93e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D4/17.1",
+		"examenprogramma_eindterm_id": [
+			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
+		],
+		"title": "De culturele identiteit van een volk",
+		"id": "f733495a-ab3a-40ef-9084-29bd7aca276f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D4/17.2",
+		"examenprogramma_eindterm_id": [
+			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
+		],
+		"title": "Wetenschappelijke visies op nationale cultuur en nationale identiteit",
+		"id": "91498b1a-ee6d-4f82-a7ee-bdcbbbf68614",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D4/17.3",
+		"examenprogramma_eindterm_id": [
+			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
+		],
+		"title": "Ontwikkelingen in de Nederlandse cultuur en identiteit",
+		"id": "d09f6337-4c17-4385-b38b-404b7ca083f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D4/17.4",
+		"examenprogramma_eindterm_id": [
+			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
+		],
+		"title": "Bindingen in de multiculturele samenleving",
+		"id": "45973419-8b92-46ac-bca0-408b8784c164",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.1",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Visies op oorzaken van politieke aandacht voor nationale identiteit",
+		"id": "dfb13700-cf7e-4303-8ad8-13663b65a9f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Uitgangspunt voor beleid: verschillende processen van identificatie",
+		"id": "41dd5a3e-ea9d-4133-9f86-3722f0f4f769",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2a",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Functionele identificatie. Functionele identificatie komt tot stand op het moment dat mensen niet primair als lid van een etnische groep worden gezien, maar als individu met uiteenlopende functionele verbindingen.",
+		"id": "0b1b4fce-a971-4673-8039-2e1d84c2152c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2b",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Normatieve identificatie. Normatieve identificatie heeft betrekking op de mogelijkheden die er zijn om de eigen normen en opvattingen te kunnen volgen en in te brengen in het publieke en politieke domein.",
+		"id": "b6bf6eea-2825-4652-89c4-c49cb020fc96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2c",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Emotionele identificatie. Emotionele identificatie gaat over gevoelens van verbondenheid met anderen en in meer abstracte zin met Nederland.",
+		"id": "8cf14dcc-63e1-43eb-b064-197ffb63c169",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.3",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"title": "Standpunten van politieke partijen ten aanzien van nationale identiteit en identificatie.",
+		"id": "e1646066-5e7c-4720-ba79-95db53978452",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.1",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Rationalisering",
+		"id": "0668018a-1f1e-46d7-a6fd-04ee73fa8b00",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.2",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Individualisering",
+		"id": "f6f34171-1c8b-4738-8e58-350e403a6d16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E1/19.3",
+		"examenprogramma_eindterm_id": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"title": "Institutionalisering",
+		"id": "3b6c5d8a-64cf-436c-9091-8f6ee66027b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.1",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Staatsvorming",
+		"id": "b00829c1-5a06-498f-b5c7-edf46f2e234c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.2",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Democratisering",
+		"id": "edfa0fa1-cabc-4e54-93d4-59fc39dc01b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E2/20.3",
+		"examenprogramma_eindterm_id": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"title": "Globalisering",
+		"id": "79e88f09-3e46-4060-98ff-c7a5cc2086a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.1",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "De wording van de moderne westerse samenleving",
+		"id": "8afc013a-ab8c-4c48-a891-f8e6ef0ae2d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.2",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Veranderingen in de vorming van mensen",
+		"id": "2c021829-db1b-431d-b570-cd4e1080fd5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.3",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Veranderingen in de verhoudingen tussen mensen",
+		"id": "7921bca9-6b1d-4247-ba9f-3b33bf74002b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.4",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Veranderingen in de verbondenheid tussen mensen",
+		"id": "8f75b3df-c09c-4994-a3f9-be9a38361412",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.4a",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Binding en sociale integratie",
+		"id": "9c1edac6-9dbc-429a-8d64-375a31638158",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.4b",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Binding en maatschappelijk middenveld",
+		"id": "990575ce-4eed-4831-b88c-a8a3c0dd0172",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.4c",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Binding en sociale netwerken",
+		"id": "a6c0d082-8fba-46b7-a622-e5461d73487f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.5",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Paradoxen van modernisering",
+		"id": "5d5e3017-220c-4c79-a6ff-78fdbee32c5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.5a",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Verzelfstandiging versus verafhankelijking",
+		"id": "007214a6-a00c-48ad-bc2f-2bf58ba8d59c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.5b",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Generalisering versus pluralisering",
+		"id": "069a327d-dce2-498f-88d7-fa56937bbd10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E3/21.5c",
+		"examenprogramma_eindterm_id": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"title": "Rationeel versus emotioneel",
+		"id": "f46b48bc-6301-401d-ad58-d297ceeeaded",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.1",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Opvattingen van de politieke stromingen over globalisering",
+		"id": "724f50c3-eeb5-4fd9-b875-98e632bb44a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.1a",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Confessionalisme",
+		"id": "33bc6159-6558-4ecd-a791-146775e60e90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.1b",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Liberalisme",
+		"id": "551be65d-9d85-4203-90ce-b516abe56ac0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.1c",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Sociaaldemocratie",
+		"id": "ab9e7983-aaf9-4a96-b260-0a0cdb188ff7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.2",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Opvattingen van aanhangers van politieke stromingen over individualisering",
+		"id": "41222cdb-e63c-4e5f-8196-0da4c7ae6698",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.2a",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Confessionalisme",
+		"id": "226526ad-69fc-4b01-80dd-c50c26c4261e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.2b",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Liberalisme",
+		"id": "623dd3a3-466b-411e-8962-9fd974e9637d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinE/E4/22.2c",
+		"examenprogramma_eindterm_id": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"title": "Sociaaldemocratie",
+		"id": "e6bab7d7-8922-49ee-9e87-8e96a680e72b",
+		"unreleased": true
 	}
 ]
