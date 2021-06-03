@@ -32788,5 +32788,90 @@
 		"title": "De kandidaat kan aan de hand van de probleemstelling zelfstandig een relatie leggen tussen het eigen beeldend werk en het beeldend werk van anderen aan de hand van aspecten van de voorstelling, beeldende aspecten, technieken met de daarbij behorende materialen, apparatuur, gereedschappen, aspecten van de culturele en/of kunsthistorische context",
 		"id": "10fbfab6-e202-4b9c-82a2-146be432f285",
 		"unreleased": true
+	},
+	{
+		"description": "Leervaardigheden in het vak drama",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/1",
+		"examenprogramma_eindterm_id": [
+			"e7040302-e4e8-4365-a305-77e112cf3638"
+		],
+		"title": "De kandidaat kan in een gegeven fragment of in een ‘ontwerpopgave’ spelgegevens herkennen, benoemen en toepassen.",
+		"id": "dbc0ea7e-ed79-42ad-8c9c-b0f502bf85d9",
+		"unreleased": true
+	},
+	{
+		"description": "Leervaardigheden in het vak drama",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/2",
+		"examenprogramma_eindterm_id": [
+			"e7040302-e4e8-4365-a305-77e112cf3638"
+		],
+		"title": "De kandidaat kan de vorm van het ontwerp motiveren in relatie tot het gegeven fragment.",
+		"id": "a1532bf6-cf01-41cf-95ea-18738713647f",
+		"unreleased": true
+	},
+	{
+		"description": "Anderen",
+		"ce_se": "CE",
+		"prefix": "DR/K/7",
+		"examenprogramma_domein_id": [
+			"d3f8aca8-780d-42d1-ba84-42c0f77c8321"
+		],
+		"title": "De kandidaat kan een objectieve analyse geven en daar een beargumenteerde mening aan koppelen.",
+		"id": "9488e619-3d28-4385-8fc8-f2bb8389ddff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7a",
+		"examenprogramma_eindterm_id": [
+			"cad813f2-c6b3-49d6-b469-e36e7e7c7455"
+		],
+		"title": "Theatrale middelen",
+		"id": "499c58d7-df0b-4d54-bf24-cffc4939460c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7b",
+		"examenprogramma_eindterm_id": [
+			"5cdb1001-8e4d-4475-9764-a509800cda89"
+		],
+		"title": "Verwijzen naar de werkelijkheid",
+		"id": "b04ee5f1-c2e9-4b3b-9324-e5c3832cd8b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7c",
+		"examenprogramma_eindterm_id": [
+			"ee3a2bad-fafb-4470-972a-8f332a3ebe33"
+		],
+		"title": "Andere plaatsen dan het theater",
+		"id": "55e0f185-5e4e-48d0-be1d-088a7b082e67",
+		"unreleased": true
+	},
+	{
+		"description": "Drama en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DR/K/8/8a",
+		"examenprogramma_eindterm_id": [
+			"dea6cab7-10c3-4b53-a726-61911b1025d9"
+		],
+		"title": "Functies van drama",
+		"id": "f7705a1d-8b2e-4d5d-86aa-d10365b589ec",
+		"unreleased": true
+	},
+	{
+		"description": "Drama en andere kunsten",
+		"ce_se": "CE",
+		"prefix": "DR/K/9/9a",
+		"examenprogramma_eindterm_id": [
+			"6342aa05-1867-4a0e-8c30-4d39a928a1f0"
+		],
+		"title": "Andere kunstvormen herkennen en functies benoemen",
+		"id": "012108d3-d1e7-4109-b434-04c03f79c356",
+		"unreleased": true
 	}
 ]
