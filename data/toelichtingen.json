@@ -3286,5 +3286,25 @@
 		"title": "De domeinen: Leervaardigheden in het vak dans, Beschouwen, Dans en maatschappij en Dans en andere kunsten kunnen in samenhang in het centraal schriftelijk examen aan de orde komen.",
 		"id": "51d367a8-50bd-455f-b3fb-fc2e5ffe535e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/3/3/a",
+		"syllabus_specifieke_eindterm_id": [
+			"0a0b98b4-557a-463d-9ac1-7b045b756a94"
+		],
+		"title": "De kandidaat kan fasen van het proces dat voorafgaat aan het tot stand komen van een beeldend werk benoemen. In het CSE hebben deze fasen van het proces betrekking op werk van beeldend kunstenaars en vormgevers",
+		"id": "42f69193-6075-4394-b835-57db1ce99cc1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "BV/K/3/3/b",
+		"syllabus_specifieke_eindterm_id": [
+			"e90ff464-419b-4250-a286-9805c50d31b7"
+		],
+		"title": "Reflecteren is het beschouwen van beeldende kunst en vormgeving waarbij formele en inhoudelijke eigenschappen van beeldend werk in hun context worden geanalyseerd. Onder beeldend werk wordt onder meer verstaan: producten van beeldende kunst en vormgeving (zowel twee- als driedimensionaal) en producten van beeldende kunst in allerlei beschikbare media",
+		"id": "994b4dd6-6d82-4721-a3ed-cc66f441f3bd",
+		"unreleased": true
 	}
 ]
