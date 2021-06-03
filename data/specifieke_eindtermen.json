@@ -32873,5 +32873,379 @@
 		"title": "Andere kunstvormen herkennen en functies benoemen",
 		"id": "012108d3-d1e7-4109-b434-04c03f79c356",
 		"unreleased": true
+	},
+	{
+		"description": "Ritme",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3a/1",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - notenwaarden, rusten en ritmische figuren",
+		"id": "07207d64-22da-4398-87f1-ad5fad6e6891",
+		"unreleased": true
+	},
+	{
+		"description": "Ritme",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3a/2",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen van een ritme, eventueel via een grafische voorstelling",
+		"id": "290d445a-2b15-4e5e-81aa-3d24f5122400",
+		"unreleased": true
+	},
+	{
+		"description": "Ritme",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3a/3",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van veranderingen en contrasten",
+		"id": "1f66a02b-28b9-45bf-9630-659f38dc8c3c",
+		"unreleased": true
+	},
+	{
+		"description": "Maat",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3b",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - maataccenten - maatsoorten - maatwisselingen",
+		"id": "7093f908-7e28-4066-bc5a-d77053a179bf",
+		"unreleased": true
+	},
+	{
+		"description": "Tempo",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3c/1",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - goed te onderscheiden tempi in drie categorieën: langzaam, rustig en snel - tempowijzigingen",
+		"id": "9889bf46-e441-422a-bfbf-c1d350ab5551",
+		"unreleased": true
+	},
+	{
+		"description": "Tempo",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3c/2",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van veranderingen en contrasten",
+		"id": "3894849e-f78b-4234-8967-006edfa4ea35",
+		"unreleased": true
+	},
+	{
+		"description": "Tempo",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3c/3",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van tempokeuzes in een compositie",
+		"id": "3299b8c2-4b9a-44d2-972d-d9bb1931ece5",
+		"unreleased": true
+	},
+	{
+		"description": "Toonhoogte",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3d/1",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen van een melodie eventueel via een grafische voorstelling",
+		"id": "cbff9046-68ea-4178-b016-6b4672eccf07",
+		"unreleased": true
+	},
+	{
+		"description": "Toonhoogte",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3d/2",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen van veranderingen en contrasten",
+		"id": "5c608f6f-f564-4812-a7d3-8a8e70124ba4",
+		"unreleased": true
+	},
+	{
+		"description": "Toonsoort",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3e",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen van majeur en mineur in luistervoorbeelden",
+		"id": "280a26d6-08b9-48a6-a172-4340f72a7b9d",
+		"unreleased": true
+	},
+	{
+		"description": "Dynamiek",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3f",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van het verloop van de dynamiek van een compositie via een traditionele -of grafische notatie",
+		"id": "f2f83568-852b-4727-b0af-e6d7b91896ac",
+		"unreleased": true
+	},
+	{
+		"description": "Dynamiek",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3f",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "dynamiek tekens noteren / invullen in een luistervoorbeeld, uitgaande van ten minste één gegeven teken",
+		"id": "1a301976-b583-4800-9bcd-8cdbb0bfd803",
+		"unreleased": true
+	},
+	{
+		"description": "Dynamiek",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3f",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van veranderingen en contrasten",
+		"id": "3f2092c7-23bd-4155-8215-5573b17554fe",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: eenstemmigheid, tweestemmigheid",
+		"id": "5ec5f76e-f43f-4a39-91b7-acbf8319ca47",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen van meerstemmigheid*",
+		"id": "29798e6c-3107-47b3-a78e-8acc0c284179",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen, benoemen en onderscheiden van: - vormen van éénstemmigheid/ meerstemmigheid* - spanning en ontspanning",
+		"id": "e52c22c7-a4aa-44ec-95d7-d0e1faa69470",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen van een (eenvoudig) akkoordenschema",
+		"id": "3e80218e-1762-4af5-81f3-dc9bc40bfa8c",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van veranderingen en contrasten",
+		"id": "ae9e4d40-e908-43b8-b402-02e26941efee",
+		"unreleased": true
+	},
+	{
+		"description": "Uitvoeringspraktijk",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3h",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - articulatiewijzen - speeltechnieken en effecten - uitvoeringswijzen",
+		"id": "fefd0200-aa88-4c0c-ab07-a7f9e4ebbb07",
+		"unreleased": true
+	},
+	{
+		"description": "Uitvoeringspraktijk",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3h",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "het herkennen van versieringen",
+		"id": "bcc45ea0-644d-4515-b29e-acccbdd2b687",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "auditief en visueel herkennen en benoemen van de in de begrippenlijst genoemde instrumenten en orkesten & ensembles",
+		"id": "8a657aaf-a72c-43cc-b844-693f02aa07f2",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "auditief herkennen en benoemen van de in de begrippenlijst genoemde zangstemmen",
+		"id": "8336f28c-1ed6-4d71-92e4-70f475d442bf",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "het auditieve verschil tussen de in de begrippenlijst genoemde instrumenten, zangstemmen en orkesten & ensembles maar niet het auditieve verschil tussen: - beatring - tamboerijn - bongo(",
+		"id": "a725c398-5b9f-488a-a44d-9bc06a82f861",
+		"unreleased": true
+	},
+	{
+		"description": "Melodische relaties",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3j",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - melodische figuren - melodische relaties - melodische veranderingen",
+		"id": "cd802be3-cfaa-453f-82f7-975d7a8b2cdf",
+		"unreleased": true
+	},
+	{
+		"description": "Variatie",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3n",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - improvisatie - variatie",
+		"id": "edefc7d9-778e-4f09-9691-be7bc85dba96",
+		"unreleased": true
+	},
+	{
+		"description": "Variatie",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3n",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen van een bepaald gegeven wanneer dit gevarieerd wordt",
+		"id": "c75cd28e-d31d-4af1-846e-5e7d8894b4c8",
+		"unreleased": true
+	},
+	{
+		"description": "Variatie",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3n",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "interpreteren van een gegeven wanneer dit gevarieerd wordt",
+		"id": "9cd1ac7b-e237-4242-a58c-526b4a1a650c",
+		"unreleased": true
+	},
+	{
+		"description": "Homofone en polyfone structuren",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3q",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen, benoemen en onderscheiden van: - gelijke/parallelle beweging/ tweede stem - imitatie - tegenbeweging - tegenmelodie/tegenstem",
+		"id": "9d61a794-0618-4c8b-a176-830f0bb6b881",
+		"unreleased": true
+	},
+	{
+		"description": "Homofone en polyfone structuren",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3q",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "herkennen en benoemen van: - canon - homofonie - polyfonie",
+		"id": "170e9485-0362-4e05-a933-ee340ff9eeb6",
+		"unreleased": true
+	},
+	{
+		"description": "Homofone en polyfone structuren",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3q",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen van steminzetten",
+		"id": "0129a802-f7d6-4fcf-a2ca-399c861ea609",
+		"unreleased": true
+	},
+	{
+		"description": "Vorm",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3s",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "volgen en noteren van een vormschema",
+		"id": "e6612d29-99a2-47d5-90c5-8b144a4c14e4",
+		"unreleased": true
+	},
+	{
+		"description": "Beluisteren",
+		"ce_se": "CE",
+		"prefix": "MU/K/7",
+		"examenprogramma_domein_id": [
+			"9e3ed90c-7c18-4930-8d7f-8c636933b346"
+		],
+		"title": "Fragmenten",
+		"id": "47dab71f-b210-4b95-b36e-049356a757ad",
+		"unreleased": true
+	},
+	{
+		"description": "Muziek en maatschappij",
+		"ce_se": "CE",
+		"prefix": "MU/K/8",
+		"examenprogramma_domein_id": [
+			"55f1c30c-e084-472f-b378-ef9b28d3822a"
+		],
+		"title": "Functies, kenmerken, meningen",
+		"id": "0c97d0bc-905f-4ff8-b977-bcf8537efc29",
+		"unreleased": true
+	},
+	{
+		"description": "Muziek en andere kunsten",
+		"ce_se": "CE",
+		"prefix": "MU/K/9",
+		"examenprogramma_domein_id": [
+			"04a3a43c-54ec-4f14-834d-bd475caf7e38"
+		],
+		"title": "Andere kunstvormen",
+		"id": "ae4ac326-5658-45c9-84ec-ff8d4d235de2",
+		"unreleased": true
 	}
 ]
