@@ -2421,5 +2421,225 @@
 		"title": "macht en recht, recht en plicht, natuurrecht en positief recht, negatieve en positieve vrijheid",
 		"id": "2a1c24ca-0265-45cf-8bf6-d900ea44bbba",
 		"unreleased": true
+	},
+	{
+		"description": "Ritme",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3a",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "break, fill, ritmisch ostinaat/ ostinato, swing*, syncope, toonduur - notenwaarden: hele tot en met zestiende noot - rusten: hele tot en met zestiende rust - verlenging van een noot met een punt achter de noot - verbindingsboog, triool (als achtsten triool)",
+		"id": "76339f18-a640-4777-9d15-2be18f7fd551",
+		"unreleased": true
+	},
+	{
+		"description": "Maat",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3b",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "beat en afterbeat, maataanduiding - tweedelig: 2/4, 4/4, C, 6/8 - driedelig: 3/4, 3/8, maatstreep, maatwisseling, opmaat",
+		"id": "68439a7b-a45a-4e96-b33d-b614387e3f9e",
+		"unreleased": true
+	},
+	{
+		"description": "Tempo",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3c",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "tempo-aanduidingen - klassiek: adagio, andante, allegro - pop: slow, medium, up tempo, tempowijzigingen - accelerando - ritenuto",
+		"id": "9dfa8e10-4c99-4f53-95df-28a9e0b34b0a",
+		"unreleased": true
+	},
+	{
+		"description": "Toonhoogte",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3d",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "het notenschrift - absolute notennamen - G-sleutel, - F-sleutel * - voortekens: herstellingsteken, kruis, mol",
+		"id": "858337e8-d007-47a4-b57a-ad36ccaae7f4",
+		"unreleased": true
+	},
+	{
+		"description": "Toonsoort",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3e",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "majeur *, mineur",
+		"id": "d8734931-ea38-46d9-884e-3e8cbdeb4f8d",
+		"unreleased": true
+	},
+	{
+		"description": "Dynamiek",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3f",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "dynamiek aanduidingen - fortissimo ff, forte f, mezzo-forte mf, piano p, pianissimo pp, - crescendo ., fade out, overgangsdynamiek, terrassendynamiek",
+		"id": "bc141fd3-4d0e-440b-a813-d36c94b525ad",
+		"unreleased": true
+	},
+	{
+		"description": "Samenklank",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3g",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "akkoord*, akkoordenschema*, homofonie, polyfonie en unisono, tweeklank",
+		"id": "dc6780e2-8c86-4c4a-9da6-5da66ab52459",
+		"unreleased": true
+	},
+	{
+		"description": "Uitvoeringspraktijk",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3h",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "articulatie - legato, staccato, speeltechnieken en effecten - aanslaan / tokkelen (gitaar) - aanslaan / raspen / schudden (slaginstrumenten) - glissando - pizzicato/tokkelen / strijken (strijkinstrumenten) - scratchen - slappen (basgitaar), uitvoeringswijzen - a capella - akoestisch - elektronisch - cover* - fermate* - herhalingstekens* - instrumentatie - slaggitaar en sologitaar (leadgitaar) - stemgebruik: human beatbox*, rappen - tutti - solo - unplugged* - versiering*",
+		"id": "38ab7ed7-e41e-4522-9e21-8e5a9106ef30",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "slaginstrumenten: - zonder vel: beatring bekkens / cymbals buisklokken cabasa, guiro / rasp castagentten, claves, woodblock cow-bell hi-hat (gesloten en open) klokkenspel maraca(",
+		"id": "f48d9ecd-3510-44b6-85fd-f8f9d9278aa3",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "drumstel bestaande uit: bassdrum/kick(drum), cymbals/bekkens, floor tom, hi-hat, snaredrum, tomtoms",
+		"id": "5730dd71-1e9c-4bdd-98e3-f140ceb68cfa",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "blaasinstrumenten - houten blaasinstrumenten: blokfluit panfluit (dwars)fluit hobo klarinet fagot saxofoon - koperen blaasinstrumenten: trompet hoorn trombone tuba - blaas-/toetsinstrumenten: accordeon orgel",
+		"id": "46455619-9598-48a9-99fa-fedc1f0c707a",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "snaarinstrumenten - getokkeld: akoestische gitaar elektrische gitaar basgitaar harp klavecimbel - gestreken: viool altviool* cello contrabas - aangeslagen: piano",
+		"id": "6ce8b890-93d9-4523-add6-33a5d669496d",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "elektronische en elektrisch versterkte instrumenten: basgitaar elektrische gitaar keyboard/synthesizer",
+		"id": "ce9a7daf-60cf-4072-a177-db0ddbf96492",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "de menselijke stem: sopraan, alt, tenor, bas",
+		"id": "b1cc62c7-8e43-4c92-a29b-14844eee6831",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3i",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "orkesten en ensembles - vocale ensembles: achtergrondkoor/backing vocals gemengd koor mannenkoor vrouwenkoor - instrumentale ensembles: bigband jazzcombo blaasorkest (harmonie*/ fanfare*/ brassband*) rockgroep/popgroep strijkorkest, strijkers, strings symfonieorkest",
+		"id": "40261f95-a24e-41f5-bd10-ae3ee15c1ebb",
+		"unreleased": true
+	},
+	{
+		"description": "Melodische relaties",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3j",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "break, motief, ostinato, riff, sequens*, thema, voor- en nazin",
+		"id": "1a3c9c8f-df78-443f-a910-7ac4205641eb",
+		"unreleased": true
+	},
+	{
+		"description": "Variatie",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3n",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "improvisatie, variatie - variaties op een: (akkoorden)schema*, melodie, ritme",
+		"id": "4bd8de42-f9a5-4fb2-adf7-6946d00f1c1c",
+		"unreleased": true
+	},
+	{
+		"description": "Homofone en polyfone structuren",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3q",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "canon, gelijke/parallelle beweging/ tweede stem, homofonie, imitatie, polyfonie, tegenbeweging, tegenmelodie/tegenstem",
+		"id": "9885b8b4-8e70-4efa-9223-c6e73f171d82",
+		"unreleased": true
+	},
+	{
+		"description": "Mis, oratorium, opera, musical",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3r",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "aria*, opera, song*, musical",
+		"id": "4bf72bc0-ab13-4197-bb0c-386a9bf244b0",
+		"unreleased": true
+	},
+	{
+		"description": "Vorm",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3s",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "bridge, couplet/verse, intro/inleiding/voorspel, naspel/coda, refrein/chorus, tussenspel, vormschema* (letterschema zo nodig met accenten)",
+		"id": "09f06df4-a310-4641-b40a-bbeffb30e5d3",
+		"unreleased": true
 	}
 ]
