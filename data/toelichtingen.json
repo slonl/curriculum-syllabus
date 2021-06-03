@@ -3405,5 +3405,148 @@
 		"title": "Functies: informeren / leren, amuseren, overtuigen en overhalen om iets te doen.",
 		"id": "c5d45229-e253-429c-8a37-dd501e5c5bc3",
 		"unreleased": true
+	},
+	{
+		"description": "Ritmisch fragment",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/1",
+		"syllabus_specifieke_eindterm_id": [
+			"47dab71f-b210-4b95-b36e-049356a757ad"
+		],
+		"title": "bestaat uit alleen een ritme (zie voor toonduur de begrippenlijst)",
+		"id": "1b40ce33-edef-4968-9fa3-65943bb6a3e1",
+		"unreleased": true
+	},
+	{
+		"description": "Melodisch fragment",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/2",
+		"syllabus_specifieke_eindterm_id": [
+			"47dab71f-b210-4b95-b36e-049356a757ad"
+		],
+		"title": "bestaat uit ritme en toonhoogte",
+		"id": "9b636db8-cf87-47be-beba-3839c88e7de3",
+		"unreleased": true
+	},
+	{
+		"description": "(Muziek)notatie",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/3",
+		"syllabus_specifieke_eindterm_id": [
+			"47dab71f-b210-4b95-b36e-049356a757ad"
+		],
+		"title": "grafische notatie en traditionele notatie",
+		"id": "b9aeb186-2e0d-4df2-bab1-648940acb35b",
+		"unreleased": true
+	},
+	{
+		"description": "Noteren",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/4",
+		"syllabus_specifieke_eindterm_id": [
+			"47dab71f-b210-4b95-b36e-049356a757ad"
+		],
+		"title": "aanvullen, ordenen, wijzigen van grafische notatietekens en/of woorden/letters",
+		"id": "96f5d019-1cb2-494c-8603-85b6edea238c",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "MU/K/8/1",
+		"syllabus_specifieke_eindterm_id": [
+			"0c97d0bc-905f-4ff8-b977-bcf8537efc29"
+		],
+		"title": "Functies van muziek zijn onder andere: dansmuziek, filmmuziek, achtergrondmuziek, religieuze muziek, wereldlijke muziek, muziek en arbeid, muziek en concert, muziek als handelswaar, muziek als decoratie, muziek als ontspanning, muziek als illustratie en muziek als therapie. Er is een directe relatie tussen betekenissen en functies van muziek.",
+		"id": "26455442-6718-4f58-b055-62c232276b03",
+		"unreleased": true
+	},
+	{
+		"description": "kenmerken",
+		"ce_se": "CE",
+		"prefix": "MU/K/8/2",
+		"syllabus_specifieke_eindterm_id": [
+			"0c97d0bc-905f-4ff8-b977-bcf8537efc29"
+		],
+		"title": "Muzikale kenmerken zijn bijvoorbeeld bij: - dansmuziek: sterke ritmische accenten; duidelijke vormstructuur - achtergrondmuziek: weinig verandering in dynamiek; een matig tempo; geen op de voorgrond dringende zangpartijen - muziek als handelswaar (commerciële functie): meezingbaar refrein; makkelijke, herkenbare melodie",
+		"id": "42551560-1cfc-446d-9373-fcc43aee94b4",
+		"unreleased": true
+	},
+	{
+		"description": "mening",
+		"ce_se": "CE",
+		"prefix": "MU/K/8/3",
+		"syllabus_specifieke_eindterm_id": [
+			"0c97d0bc-905f-4ff8-b977-bcf8537efc29"
+		],
+		"title": "Voorbeelden van mening van anderen zijn: - tekst (beeld en/ of woord) - afbeelding Bijvoorbeeld: recensie, inlaycard van een cd, interview.",
+		"id": "4c7d2bd6-3067-4ffa-b333-27b516dbb9c4",
+		"unreleased": true
+	},
+	{
+		"description": "beeldende kunst",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/1",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "architectuur beeldhouwkunst grafische vormgeving industriële vormgeving mode schilderkunst",
+		"id": "5038f447-4d8d-4903-93b0-220db537c6d4",
+		"unreleased": true
+	},
+	{
+		"description": "dans",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/2",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "klassiek ballet moderne dans danstrends zoals breakdance, streetdance",
+		"id": "d2bfa930-cd83-4602-8810-5d565080cfa3",
+		"unreleased": true
+	},
+	{
+		"description": "drama",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/3",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "bijvoorbeeld toneel, soap",
+		"id": "557b2070-c0e5-4333-978f-29e892efa112",
+		"unreleased": true
+	},
+	{
+		"description": "film",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/4",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "bijvoorbeeld speelfilm, documentaire, tv serie, videokunst/ audiovisuele kunst",
+		"id": "ebd96a0f-c328-407c-a2b7-76e26cdf1d28",
+		"unreleased": true
+	},
+	{
+		"description": "literatuur",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/5",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "teksten (beeld en/ of woord)",
+		"id": "e91ac5be-12c4-4e9f-8811-3dc5526797f3",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/6",
+		"syllabus_specifieke_eindterm_id": [
+			"ae4ac326-5658-45c9-84ec-ff8d4d235de2"
+		],
+		"title": "Functies kunnen bijvoorbeeld zijn: - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning Bijvoorbeeld: Dans: de dans in een videoclip, waarin de dans een decoratieve functie heeft Drama: de dramatische structuur in een musical om een verhaallijn weer te geven (verhalende functie). Beeldende kunst: in een opera, waarin de beeldende kunst (het decor) bijvoorbeeld een decoratieve functie heeft. Filmprojectie om de dramatische en emotionele impact te versterken.",
+		"id": "957d30fc-e057-45ff-803f-eae3a034794c",
+		"unreleased": true
 	}
 ]
