@@ -3306,5 +3306,104 @@
 		"title": "Reflecteren is het beschouwen van beeldende kunst en vormgeving waarbij formele en inhoudelijke eigenschappen van beeldend werk in hun context worden geanalyseerd. Onder beeldend werk wordt onder meer verstaan: producten van beeldende kunst en vormgeving (zowel twee- als driedimensionaal) en producten van beeldende kunst in allerlei beschikbare media",
 		"id": "994b4dd6-6d82-4721-a3ed-cc66f441f3bd",
 		"unreleased": true
+	},
+	{
+		"description": "Spelgegevens",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/1",
+		"syllabus_specifieke_eindterm_id": [
+			"dbc0ea7e-ed79-42ad-8c9c-b0f502bf85d9"
+		],
+		"title": "Spelgegevens zijn: rol, actie, ruimte/ plaats, verhaal, tijd, motief. De kandidaat kan in een gegeven fragment of in een ‘ontwerpopgave’ de vijf W’s (wie, wat, waar, wanneer, waarom) benoemen en toepassen.",
+		"id": "69e08818-c03a-47a1-822e-a3f80f5572de",
+		"unreleased": true
+	},
+	{
+		"description": "vormgevingsmiddelen",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/2",
+		"syllabus_specifieke_eindterm_id": [
+			"a1532bf6-cf01-41cf-95ea-18738713647f"
+		],
+		"title": "De materiële vormgevingsmiddelen zijn: decor, geluid, grime, licht, rekwisieten (attributen), kostuum. In een ‘ontwerpopgave’ krijgt de kandidaat de opdracht om naar aanleiding van een gegeven fragment een eigen ‘ontwerp’ op het beeldscherm vorm te geven. Het ‘ontwerp’ heeft betrekking op één of meer van de hierboven genoemde materiële vormgevingsmiddelen.",
+		"id": "1d739682-62aa-4fcc-bee1-31d13e3d9982",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"prefix": "DR/K/7",
+		"syllabus_specifieke_eindterm_id": [
+			"9488e619-3d28-4385-8fc8-f2bb8389ddff"
+		],
+		"title": "Het gaat om het analyseren van: - non-verbale uitingsmogelijkheden (mimiek, gebaren, houding) - verbale uitingsmogelijkheden (taalgebruik, stemgebruik) - het gebruik van spelgegevens (zie toelichting bij DR/K/3 Functioneel gebruik maken van spelgegevens)",
+		"id": "cabb2ca1-cf22-4e39-8e32-159f9545cb6c",
+		"unreleased": true
+	},
+	{
+		"description": "theatrale middelen",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7a",
+		"syllabus_specifieke_eindterm_id": [
+			"499c58d7-df0b-4d54-bf24-cffc4939460c"
+		],
+		"title": "Theatrale middelen zijn: - Spelgegevens (zie toelichting bij DR/K/3 Functioneel gebruik maken van spelgegevens) - Enscenering: het ruimtelijk vormgeven van een scène - Materiële vormgevingsmiddelen (zie toelichting bij DR/K/3 functioneel gebruik maken van materiële vormgevingsmiddelen)",
+		"id": "5eeec5df-dd72-42bd-80df-b08229663a2b",
+		"unreleased": true
+	},
+	{
+		"description": "werkelijkheid",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7b",
+		"syllabus_specifieke_eindterm_id": [
+			"b04ee5f1-c2e9-4b3b-9324-e5c3832cd8b9"
+		],
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Nabootsing: een directe verwijzing naar de werkelijkheid, bijvoorbeeld: Zoon komt 's avonds na een feestje pas om 3 uur thuis. Vader zit in de woonkamer hem op te wachten en is boos, want de zoon is veel te laat. Typering: één eigenschap uit de werkelijkheid wordt gekozen en vergroot vormgegeven, bijvoorbeeld: De agressiviteit van de vader die zijn zoon uitfoetert, wordt vergroot. Omkering: gespeeld wordt met de verwachting van het publiek. Niet het voorspelbare gebeurt, maar juist het omgekeerde, bijvoorbeeld: Vader reageert: Waarom ben je nu al thuis? Je mag pas om zes uur thuiskomen. Mijn huis uit en feesten tot zes uur! Oefensituatie: het oefenen van gedrag in een nagespeelde situatie, rollenspel in een beroepsopleiding of een therapiesessie, bijvoorbeeld: Vader oefent met een andere vader, die de zoon naspeelt, om goed met elkaar en met de situatie om te leren gaan. Metafoor: een indirecte verwijzing naar de werkelijkheid, bijvoorbeeld: Vader staat symbool voor de overheid en maakt de regels, zoon staat symbool voor de burger die de regels moet volgen. Vrije verbeelding: verwijzing naar de werkelijkheid die niet vastligt, bijvoorbeeld: De vader-zoon conflictsituatie wordt gespeeld als een sprookje.",
+		"id": "18637df6-cbd2-422a-9214-56d50a9f4f7a",
+		"unreleased": true
+	},
+	{
+		"description": "andere plaatsen dan het theater",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7c",
+		"syllabus_specifieke_eindterm_id": [
+			"55e0f185-5e4e-48d0-be1d-088a7b082e67"
+		],
+		"title": "Andere plaatsen dan het theater zijn bijvoorbeeld: televisie, internet, op locatie. Tot de dramatische technieken om informatie vorm te geven behoren onder andere: - Fictionalisering, bijvoorbeeld hoe ware gebeurtenissen worden nagespeeld - Enscenering, bijvoorbeeld hoe een verhaal/ de werkelijkheid in scène wordt gezet - Verhaalopbouw, bijvoorbeeld de volgorde waarin informatie is geordend - Rolverdeling, bijvoorbeeld benoemen van de personages in dramaproducties",
+		"id": "55def6c7-8a4a-45e5-836a-b16306ef7c05",
+		"unreleased": true
+	},
+	{
+		"description": "Functies van drama",
+		"ce_se": "CE",
+		"prefix": "DR/K/8/8a",
+		"syllabus_specifieke_eindterm_id": [
+			"f7705a1d-8b2e-4d5d-86aa-d10365b589ec"
+		],
+		"title": "Functies van drama: - informeren / leren, bijvoorbeeld: educatief kindertheater over dieren - amuseren, bijvoorbeeld: het vertellen van een mop in de klas - overtuigen, bijvoorbeeld: maatschappij kritisch cabaret - overhalen om iets te doen, bijvoorbeeld: een reclamespot",
+		"id": "34494e75-4cad-423f-97a6-5361d8fac332",
+		"unreleased": true
+	},
+	{
+		"description": "Andere kunstvormen",
+		"ce_se": "CE",
+		"prefix": "DR/K/9/9a/1",
+		"syllabus_specifieke_eindterm_id": [
+			"012108d3-d1e7-4109-b434-04c03f79c356"
+		],
+		"title": "Andere kunstvormen dan drama: - beeldende kunst, zoals architectuur, audiovisuele kunst (videoclips), beeldhouwkunst, schilderkunst, toegepaste kunst (waaronder grafische vormgeving, industriële vormgeving, mode) - dans - literatuur - muziek - film",
+		"id": "b9274c4a-604f-4cac-8004-92a6d1e18d44",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "DR/K/9/9a/2",
+		"syllabus_specifieke_eindterm_id": [
+			"012108d3-d1e7-4109-b434-04c03f79c356"
+		],
+		"title": "Functies: informeren / leren, amuseren, overtuigen en overhalen om iets te doen.",
+		"id": "c5d45229-e253-429c-8a37-dd501e5c5bc3",
+		"unreleased": true
 	}
 ]
