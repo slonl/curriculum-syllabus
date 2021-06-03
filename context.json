@@ -50,12 +50,6 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein" } }
 					]
 				}
-				"examenprogramma_subdomein_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein" } }
-					]
-				}
 			}
 		},
 		"syllabus_vakbegrip": {
