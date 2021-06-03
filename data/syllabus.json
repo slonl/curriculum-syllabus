@@ -4007,7 +4007,10 @@
 		],
 		"title": "Syllabus Kunst Dans vmbo",
 		"id": "a9802336-4eab-49a6-b7bf-f82bb0c0f3d5",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_id": [
