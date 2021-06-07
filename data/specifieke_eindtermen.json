@@ -28400,7 +28400,9 @@
 		],
 		"title": "De kandidaat kan biologisch bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden in: foldermateriaal, studieboeken, naslagwerken, cd-rom/internet, bijsluiters, kranten/tijdschriften",
 		"id": "bb1f79dd-1bfe-45e4-9919-b395832f22b0",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
