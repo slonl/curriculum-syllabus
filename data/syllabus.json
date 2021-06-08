@@ -4777,5 +4777,42 @@
 		"title": "Syllabus Beeldende vakken - Handvaardigheid vwo",
 		"id": "3e8b8c72-c5fe-498a-a99d-2c6c2bdb8c73",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"548449b1-86d3-4134-88a4-3ad3d70578dc"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"15bb9a0b-bd65-4a86-ba8c-89b065123704",
+			"b482e9ee-aad2-45bf-bbd6-ef2c88917657",
+			"a3004dd8-51ab-457a-9a97-516fd4d706ff",
+			"f6b03778-9aee-4a33-9eda-c12448ba5c33",
+			"f04d9eef-f84b-4120-8919-ea0b66592798",
+			"0b309468-89f9-4e45-86fb-39cea4e3e259",
+			"3b4cddb8-f994-4d0f-8902-abd3f1e6cfa4",
+			"e376b049-032d-4869-99a9-0fac91aa838d",
+			"ef99d77f-0ac5-4dec-9a92-01feb4e4b748",
+			"0f452239-d2f2-44f1-b1c0-4d9069fd52d5",
+			"c2c6449d-1849-4203-a81d-b00a6941cfbd",
+			"c8127642-fd37-4270-ab33-5ec7f7235e4c",
+			"ac414f5d-f31b-4de8-88a9-8251e187da49",
+			"411785a8-c05f-4485-8a5f-81a8c9f03a49",
+			"a3254330-b0a7-41a1-a6a0-3f829840316f",
+			"a48a1ebf-6db8-46e6-a8c2-d82dab8bb51e",
+			"2f4027c5-8e8c-48a5-957f-c6eabd965911",
+			"cb49cd8b-524d-4251-9ce0-c9b43b1b4478",
+			"1b524efd-e2dd-428f-aa02-d0077788dfb3",
+			"36ab022f-8819-4f58-a7ba-3d04adf4390a",
+			"eeba429e-4112-4089-ab72-8e62c495fb09",
+			"39a886d5-e59c-4bcc-a822-ee0d6849cb75",
+			"e7e0d20b-024a-487f-a81d-f9e0c65ab9fc",
+			"4eeb0e1d-f0d0-4778-ade8-6013b59b3fb1",
+			"833ea553-b915-47a4-9ad6-a0ba8fd60659",
+			"87436320-c545-449b-8d6e-2ddd79603d7a",
+			"5970edb6-adc9-490f-8069-f979e3d40b07"
+		],
+		"title": "Syllabus Beeldende vakken - Tekenen vwo",
+		"id": "e39a3f08-fafe-4e16-9889-28d22e155653",
+		"unreleased": true
 	}
 ]
