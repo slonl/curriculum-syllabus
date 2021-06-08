@@ -35087,5 +35087,225 @@
 		"title": "Globalisering",
 		"id": "c3566205-bf9a-4904-b056-a639a90abc69",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/teksten",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Teksten Cicero, Oratio Pro Sexto Roscio. \r\nTeksteditie: A.R. Dyck: Cicero, Pro Sexto Roscio. Cambridge: Cambridge University Press, 2010.\r\nRode draad: Dezelfde feiten, een alternatief verhaal: de aanval is de beste verdediging.",
+		"id": "8d33d3bd-fe24-49d8-bb9a-3718842e7282",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Genre - Cicero en de retorica",
+		"id": "2e6c5d8d-c7ca-446c-a35a-75d03d5407a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De geschiedenis van de retorica",
+		"id": "98eb73a0-d38c-48ba-83a8-331b7af5b81c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Oorsprong en vroege ontwikkeling",
+		"id": "bb6d36da-5568-47ec-9a22-351b9a5c26ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.2",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De filosofen en de retorica",
+		"id": "eea174d1-8328-4c13-84bb-304071d2b66b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.3",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Hoogtepunt en verandering van de retorica in Griekenland",
+		"id": "3b5ff7b3-8eae-4f42-acd4-72a7b45bbd3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.4",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De retorica bereikt Rome",
+		"id": "9066888e-d484-41d0-a631-0c8dbd1b3983",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.5",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Het hoogtepunt van de retorica in Rome",
+		"id": "28d5dba5-c5d8-4b59-b341-e705803e791c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.6",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Verandering",
+		"id": "31874519-09ae-499e-9471-ac2de7c08dc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.2",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De theorie van de klassieke retorica",
+		"id": "047e441b-e3d4-4924-90bf-60f785aae991",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De doelstelling",
+		"id": "ee6cae11-0c3a-4c86-9cea-9a998b34765a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.2",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Het onderwerp",
+		"id": "231d0858-69d5-47af-971b-e11c010d3933",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.3",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De spreker",
+		"id": "4b8172d0-c639-4c20-9336-58b92e8eaf8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.4",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De tekst",
+		"id": "4ab9eed0-fb52-48c5-bf76-056a0a7836aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.5",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De leer van de overreding: 'conciliare', 'docere' en 'movere'",
+		"id": "322506d3-909c-4cfc-a197-17df74d6f219",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.2.6",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Invectiva",
+		"id": "fa0c423a-da5f-4658-b336-bd3bf66ebf18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Cultuurhistorische context",
+		"id": "ecf31667-4b47-4a62-85ce-dd47507fea8d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Leven van Cicero",
+		"id": "8dbcab8c-696f-4db5-8b34-a31cb2d649f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Historische context",
+		"id": "ea71230c-98dd-48ee-bce6-82dc852599f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/3",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Strafrechtspraak",
+		"id": "3dd9cd22-b915-4fc3-877d-c102cd7b77b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/4",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Het proces tegen Sextus Roscius uit Ameria",
+		"id": "798d7a54-a266-4d31-b309-7bbc9e44bfc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/5",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Receptie",
+		"id": "f99c83de-29bd-4b88-bdfc-6b683dc39d7e",
+		"unreleased": true
 	}
 ]
