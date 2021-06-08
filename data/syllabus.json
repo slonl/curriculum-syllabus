@@ -4488,5 +4488,37 @@
 		"title": "Syllabus Maatschappijwetenschappen havo",
 		"id": "ac23dd43-6079-4939-a3a4-5b6b28120046",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"2e8e7a6b-b40e-4ead-92db-8dd90f0b7b36"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"8d33d3bd-fe24-49d8-bb9a-3718842e7282",
+			"2e6c5d8d-c7ca-446c-a35a-75d03d5407a2",
+			"98eb73a0-d38c-48ba-83a8-331b7af5b81c",
+			"bb6d36da-5568-47ec-9a22-351b9a5c26ba",
+			"eea174d1-8328-4c13-84bb-304071d2b66b",
+			"3b5ff7b3-8eae-4f42-acd4-72a7b45bbd3f",
+			"9066888e-d484-41d0-a631-0c8dbd1b3983",
+			"28d5dba5-c5d8-4b59-b341-e705803e791c",
+			"31874519-09ae-499e-9471-ac2de7c08dc0",
+			"047e441b-e3d4-4924-90bf-60f785aae991",
+			"ee6cae11-0c3a-4c86-9cea-9a998b34765a",
+			"231d0858-69d5-47af-971b-e11c010d3933",
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e",
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa",
+			"322506d3-909c-4cfc-a197-17df74d6f219",
+			"fa0c423a-da5f-4658-b336-bd3bf66ebf18",
+			"ecf31667-4b47-4a62-85ce-dd47507fea8d",
+			"8dbcab8c-696f-4db5-8b34-a31cb2d649f0",
+			"ea71230c-98dd-48ee-bce6-82dc852599f0",
+			"3dd9cd22-b915-4fc3-877d-c102cd7b77b8",
+			"798d7a54-a266-4d31-b309-7bbc9e44bfc2",
+			"f99c83de-29bd-4b88-bdfc-6b683dc39d7e"
+		],
+		"title": "Syllabus Latijnse taal en cultuur vwo",
+		"id": "a8e1c130-a35c-44ca-b6b3-b5616277c61a",
+		"unreleased": true
 	}
 ]
