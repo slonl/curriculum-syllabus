@@ -4938,5 +4938,395 @@
 		"title": "Globalisering is “het proces van uitbreiding en intensivering van contacten en afhankelijkheden over zeer grote afstand en over landsgrenzen heen” op economisch, juridisch, politiek, sociaal-cultureel en ecologisch gebied, waardoor er een wereldwijde samenleving ontstaat (global society)",
 		"id": "26446e43-ebc6-4b5f-96a1-6ff7b2f94571",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1",
+		"syllabus_specifieke_eindterm_id": [
+			"2e6c5d8d-c7ca-446c-a35a-75d03d5407a2"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De Pro Sexto Roscio is een redevoering, uitgesproken voor de rechtbank. Dit betekent dat we te maken hebben met een retorische tekst, d.w.z. een tekst met een persuasief doel.",
+		"id": "ab18c627-a7a7-4b56-9d40-6b1f74bc7173",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.1",
+		"syllabus_specifieke_eindterm_id": [
+			"bb6d36da-5568-47ec-9a22-351b9a5c26ba"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Rechtspraak, politieke en militaire besluitvorming en ceremoniële redevoeringen waren al vanaf de tijd die Homerus beschrijft openbare gebeurtenissen, waarbij een goede spreker veel aanzien en invloed genoot.",
+		"id": "a6ad7a72-faed-4d35-8555-81a526cac683",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.2a",
+		"syllabus_specifieke_eindterm_id": [
+			"eea174d1-8328-4c13-84bb-304071d2b66b"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Plato (427-347 v.C.) geloofde in het bestaan van een objectieve waarheid en hij vond dat de waarheid zelf de mensen moest overtuigen.",
+		"id": "de36a444-26da-413c-a3e7-55898ed021f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.2b",
+		"syllabus_specifieke_eindterm_id": [
+			"eea174d1-8328-4c13-84bb-304071d2b66b"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Aristoteles (384-322 v.C.) benaderde de retorica vanuit een empirisch en praktisch standpunt.",
+		"id": "9e0a3934-bcab-4f18-a819-01986c566ab6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.3",
+		"syllabus_specifieke_eindterm_id": [
+			"3b5ff7b3-8eae-4f42-acd4-72a7b45bbd3f"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Het hoogtepunt van de praktijk van de retorica in Griekenland werd belichaamd door Demosthenes (384-322 v.C.), die later het grote voorbeeld werd voor Cicero.",
+		"id": "d47af7f2-1d7c-45c3-872b-abf20a606f34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.4",
+		"syllabus_specifieke_eindterm_id": [
+			"9066888e-d484-41d0-a631-0c8dbd1b3983"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "In de tweede eeuw v.C. kwam in Rome het onderwijs in de retorica op, hoewel de praktijk van redevoeringen net als in Griekenland natuurlijk al veel langer bekend was",
+		"id": "e0ba677e-1404-40f7-8ca2-54af8dc1b79e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.5",
+		"syllabus_specifieke_eindterm_id": [
+			"28d5dba5-c5d8-4b59-b341-e705803e791c"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Met Cicero bereikte de praktijk van de Romeinse welsprekendheid haar hoogtepunt. Ook in theoretisch opzicht heeft Cicero een rol van betekenis gespeeld",
+		"id": "1281f090-752e-41b6-b17e-051e84c85683",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.1.6",
+		"syllabus_specifieke_eindterm_id": [
+			"31874519-09ae-499e-9471-ac2de7c08dc0"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Na de vestiging van de alleenheerschappij van Augustus werd de politieke retorica in Rome minder belangrijk dan daarvoor, maar de retorenscholen bleven als opleidingsinstituut voor de elite fungeren",
+		"id": "5526e1c7-ccab-44e1-a2d0-f957f00b914e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.1",
+		"syllabus_specifieke_eindterm_id": [
+			"ee6cae11-0c3a-4c86-9cea-9a998b34765a"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Het doel van de retorica is het publiek, de tegenpartij of de beoordelende instantie te overtuigen of te overreden (persuadere).",
+		"id": "42b8bde2-d62e-43d3-b65f-2b8a344e9443",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.2",
+		"syllabus_specifieke_eindterm_id": [
+			"231d0858-69d5-47af-971b-e11c010d3933"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De klassieke retorica heeft betrekking op de behandeling van onderwerpen waarover men van mening verschilt of kan verschillen.",
+		"id": "471f1f8c-a017-426f-8aa9-3d663544c813",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "De belangrijkste indeling uit de retorische systematiek is opgesteld vanuit het gezichtspunt van de spreker. Het gaat hier om de ‘taken van de redenaar', de opeenvolgende bewerkingsfasen vanaf de confrontatie met het onderwerp tot de confrontatie met het publiek.",
+		"id": "06f0ba34-0768-4ab9-94e2-73872c09f0a8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3a",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "inventio: het onderzoeken van het voorgelegde vraagstuk om tot een centrale stelling te komen, en het vinden van de argumenten voor het verdedigen van die stelling;",
+		"id": "e229e5de-664b-4bc5-aa11-d68e08f1abcf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3b",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "dispositio: het ordenen van het gevondene, met name van de argumenten, tot een goed opgebouwd betoog;",
+		"id": "8a256e84-164e-4140-8dcc-1b82e3954333",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3c",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "elocutio: de adequate verwoording van het gevondene en geordende (stilistische vormgeving);",
+		"id": "b373e968-6206-4e6a-bc3d-1fdcece3cb40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3d",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "memoria: het memoriseren van de tekst;",
+		"id": "d1ac13f4-4d44-4b92-91bd-f98e90888a54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.3e",
+		"syllabus_specifieke_eindterm_id": [
+			"4b8172d0-c639-4c20-9336-58b92e8eaf8e"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "actio/pronuntiatio: de voordracht van de redevoering (stemgeluid, gezichtsuitdrukking, gebaren).",
+		"id": "23cbec4b-eafd-49ea-b877-b31d3fe14f68",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Voor de opbouw van het betoog hield men in het algemeen de volgende principes aan, die ook wel de ‘leer van de delen van de redevoering’ genoemd werd:",
+		"id": "7b4c95fd-cb38-4832-8081-c44f0b49b68a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4a",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "exordium, de inleiding. Hierin wordt de toehoorder voorbereid op het komende betoog en wordt zijn aandacht gewekt of eventuele tegenzin weggenomen. Gevoelens van sympathie dienen bij de toehoorder gewekt te worden voor de spreker of de cliënt of de zaak (of alle drie).",
+		"id": "92f5431d-b237-494e-b9bf-17ef53b22188",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4b",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "narratio, de vertelling of uiteenzetting van de toedracht. Pas als de redenaar merkt dat hij zijn publiek in zijn greep heeft, begint hij met het vertellen van de (voor)geschiedenis. Het spreekt vanzelf dat hij daarbij niet een strikt objectief verslag van de gang van zaken hoeft te geven. Negatieve zaken kunnen worden weggemoffeld, positieve zaken kunnen worden aangedikt.",
+		"id": "ee526010-9206-4ad1-8447-0443f033706a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4c",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "propositio, de stelling, en de indeling van de daarop volgende argumentatie. Dit onderdeel heeft als belangrijkste functie om de toehoorder zeer beknopt in te prenten wat er gebeurd is en wat er behandeld zal gaan worden in het vervolg van de redevoering",
+		"id": "81bb9de9-0231-4e02-919e-e983f1538379",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4d",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "argumentatio, de eigenlijke argumentatie pro en contra. In dit onderdeel wordt geappelleerd aan het vermogen van de toehoorder om logisch te redeneren. De stelling van de tegenpartij wordt ontkracht (refutatio) en de eigen positie door argumenten bevestigd (confirmatio).",
+		"id": "de454c15-c332-430d-b2f0-2b213a9c2131",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4e",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "peroratio, de afsluiting van de redevoering. In het sluitstuk van de redevoering kan men nog een laatste beroep doen op de toehoorders en is er de mogelijkheid om te recapituleren",
+		"id": "72c42229-8134-4758-b0a1-eda978b96e4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.4f",
+		"syllabus_specifieke_eindterm_id": [
+			"4ab9eed0-fb52-48c5-bf76-056a0a7836aa"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Redenaars hielden zich vaak globaal aan deze ‘ideale’ indeling van de redevoering, hoewel een redenaar ervan kon afwijken als hij dat nodig vond.",
+		"id": "796633d8-0887-4d11-8951-fd2db688d267",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.5",
+		"syllabus_specifieke_eindterm_id": [
+			"322506d3-909c-4cfc-a197-17df74d6f219"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Volgens de leer van de overreding beschikt de redenaar over drie wapens om zijn publiek te overtuigen: conciliare (‘gunstig stemmen’), docere (‘onderwijzen’) en movere (‘ontroeren’)",
+		"id": "28b58152-2417-49d9-8778-06c83c672d8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/toel.2.1.2.6",
+		"syllabus_specifieke_eindterm_id": [
+			"fa0c423a-da5f-4658-b336-bd3bf66ebf18"
+		],
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Een invectiva (eigenlijk oratio invectiva) kan gedefinieerd worden als een redevoering die tot doel heeft om een tegenstander aan te vallen en onderuit te halen.",
+		"id": "4b36d106-4bda-413b-995c-8a3155b3a5a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/toel.1",
+		"syllabus_specifieke_eindterm_id": [
+			"8dbcab8c-696f-4db5-8b34-a31cb2d649f0"
+		],
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Marcus Tullius Cicero (106-43 v.C.) is geboren in Arpinum, ten zuiden van Rome. Zijn familie behoorde tot de ridderstand (equites). Cicero heeft een gedegen opleiding gekregen in de retorica, de filosofie en rechtsgeleerdheid, drie terreinen waarop hij later naam gemaakt heeft. Deze opleiding vond plaats in Rome en later in Griekenland.",
+		"id": "5020cbc4-ca01-4fd1-8597-bbd75168f52e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/toel.2",
+		"syllabus_specifieke_eindterm_id": [
+			"ea71230c-98dd-48ee-bce6-82dc852599f0"
+		],
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "In de late Romeinse republiek, de tijd waarin Cicero opgroeide, bestonden steeds heviger spanningen tussen de zogenaamde populares (politici die de macht wilden grijpen via het volk, d.w.z. de volksvergadering) en de optimates (politici die via de senaat aan de macht wilden komen).",
+		"id": "653fcf9e-f41c-4114-96a4-f481505da43d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/toel.3",
+		"syllabus_specifieke_eindterm_id": [
+			"3dd9cd22-b915-4fc3-877d-c102cd7b77b8"
+		],
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Tijdens de Republiek gold de strafrechtspraak niet als een taak van de overheid. Zo bestond er geen openbare aanklager. Iedere burger, niet alleen degene die vond dat hem onrecht was aangedaan, mocht een aanklacht indienen. Die aanklacht mocht alleen gaan over zaken die door de wet als misdrijf waren aangemerkt. Iedereen kon worden aangeklaagd: burgers, vrouwen, slaven, vreemdelingen",
+		"id": "576884de-22d1-47f7-aa53-3ddc3e70e134",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/toel.4",
+		"syllabus_specifieke_eindterm_id": [
+			"798d7a54-a266-4d31-b309-7bbc9e44bfc2"
+		],
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Het proces tegen Sextus Roscius vond plaats in 80 v.C. De beklaagde was ervan beschuldigd zijn vader vermoord te hebben, parricidium dus (een term die in strikte zin ‘vadermoord’ betekent, maar ook in ruimere zin voor moord op familieleden werd gebruikt).",
+		"id": "ef780c09-c79b-4c28-82c0-2e6014056fc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/toel.5",
+		"syllabus_specifieke_eindterm_id": [
+			"f99c83de-29bd-4b88-bdfc-6b683dc39d7e"
+		],
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Cicero’s Pro Sexto Roscio heeft in latere tijden sterk tot de verbeelding gesproken. Bij wijze van voorbeeld wordt hier Steven Saylor’s Roman Blood (uit de Gordianus-reeks) genoemd; de auteur integreert de speech op creatieve wijze in zijn historische roman. Daarnaast maakte de BBC onder de titel ‘Murder in Rome’ een gedramatiseerde documentaire over het proces.",
+		"id": "eb4109e3-bdea-45c3-b0cf-6d98c7b69438",
+		"unreleased": true
 	}
 ]
