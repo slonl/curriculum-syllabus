@@ -36869,5 +36869,95 @@
 		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
 		"id": "92e9d187-9064-4e1d-a462-3fc88851bd11",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/1",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De kandidaat is in staat kenmerkende aspecten van de voorstelling en vormgeving van beeldend werk van kunstenaars en vormgevers waar te nemen en te benoemen.",
+		"id": "167468ce-e6af-4a64-9a51-c947a8710df7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/2",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Daarvoor is nodig: kennis van en inzicht in de geschiedenis van de beeldende kunst, architectuur en vormgeving en enige bekendheid met verschillende visies op deze gebieden. Verschillen in visie komen aan het licht bij vergelijkingen van kunst en cultuur in verschillende tijdperken.",
+		"id": "339c40a9-e28e-4d2f-b6bd-133ddc82647c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/3",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "Een aandachtspunt is het westerse karakter dat veelal in kunsthistorische overzichten is ‘ingebakken’. Het is van belang dat dit beseft wordt. Daarom wordt er - waar mogelijk - aandacht besteed aan relevante niet-westerse kunstvormen.",
+		"id": "20d82151-855a-406f-9efa-935177e69105",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/4",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De leerlingen moeten vooral kijkstrategieën beheersen om de vragen te kunnen beantwoorden.",
+		"id": "219eb944-72ee-4678-906d-f694d4169486",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/5",
+		"examenprogramma_eindterm_id": [
+			"dc1e477f-2510-45d7-9442-9446a4b75915"
+		],
+		"title": "Het centraal examen heeft betrekking op de periode van het romaans tot heden, met nadruk op de periode vanaf 1800. Beeldende kunst, architectuur en (ambachtelijke en industriële) vormgeving vanaf het neo-classicisme in de 19de eeuw tot heden komen derhalve in het examen aan de orde.",
+		"id": "96753bd9-5c6e-4f71-906a-e1e00f78d496",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/1",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "Onder beelden verstaan we in het kader van het CE werk (2- en 3-dimensionaal) van beeldende kunstenaars, (ambachtelijke en industriële) vormgevers en architecten.",
+		"id": "ce1f7e91-c869-43e3-8f49-7295b30f3baf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/2",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+		"id": "1974e536-5330-41b0-9182-5caef2a07c67",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/3",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "In deze eindterm gaat het om beschouwen met een bepaalde kwaliteit, namelijk het vermogen tot kritisch beoordelen. ‘Kritisch’ houdt in dat de kandidaat in staat is om op basis van onderzoek binnen subdomein A1 (beschrijven, onderzoeken en interpreteren) tot een beargumenteerd oordeel te komen.",
+		"id": "3740dad2-5b21-4e18-a55b-7f784725dec3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/4",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
+		"id": "cb271a5e-b4bd-4647-8014-a2797fd18b81",
+		"unreleased": true
 	}
 ]
