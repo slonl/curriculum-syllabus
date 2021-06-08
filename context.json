@@ -30,7 +30,6 @@
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
 					]
 				}
-				}
 			}
 		},
 		"syllabus_toelichting" : {
