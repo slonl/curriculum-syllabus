@@ -4522,5 +4522,31 @@
 		"title": "Syllabus Latijnse taal en cultuur vwo",
 		"id": "a8e1c130-a35c-44ca-b6b3-b5616277c61a",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"aa932a9b-5996-449d-82bc-c0942bed68d2"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"794604de-b33c-44bf-b3ec-ae38dd7b4c69",
+			"434cabbd-2010-4e4a-85a1-9f15e772ee2c",
+			"06ca7ddd-582f-477b-86eb-e52561f1cbee",
+			"f4056df1-4c8d-43bd-adbc-447af385773e",
+			"4efa744e-1a03-42e7-8fca-75aeb3305110",
+			"d0534e56-657f-46f4-9e8c-8b8d379babe2",
+			"e006341f-9dd6-4eb3-9c98-2ba220544e01",
+			"433f8789-b36e-493f-b7d8-a58d7830668e",
+			"a8115231-9c82-4736-92a1-94eef29043a1",
+			"214e9a4e-0bbc-49ca-9ad7-a169e8e6b2d7",
+			"14f95762-2645-4b26-b7a9-43ff27cf7c4a",
+			"e415da3c-643f-4d44-866b-a9dbc78041fc",
+			"1e12a879-1efe-44c5-bed1-76035d765fe8"
+		],
+		"syllabus_toelichting_id": [
+			"6c81aa78-f7ce-47f9-b68c-69da36a68e38"
+		],
+		"title": "Syllabus Griekse taal en cultuur vwo",
+		"id": "d107557f-c4fc-4a58-a694-15342d639efa",
+		"unreleased": true
 	}
 ]
