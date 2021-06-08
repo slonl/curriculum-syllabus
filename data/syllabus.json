@@ -4740,5 +4740,42 @@
 		"title": "Syllabus Beeldende vakken - Tekenen havo",
 		"id": "9c7ec876-8a43-4ae2-9162-e29c4f109a59",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"663e802c-7f01-4be0-afca-f0dbd1e7a8d3",
+			"b6ae6b53-398e-4b9c-9578-ee85095a1b1d",
+			"6d89620b-ef75-4805-9073-37e6c83f4a07",
+			"544fb4f3-a7f9-43bc-8b3b-a5caa4ca6524",
+			"49173b4a-bd1e-4230-aaf7-86afb5ecb7c5",
+			"0a071461-fbaf-415f-bb2b-7dc36a259d29",
+			"7cb6928c-22b0-4648-a24a-46b5ce4ecf9a",
+			"55abf506-1e0b-430a-8ff3-35ab99e6e0ed",
+			"21159e3c-c07b-4293-98fd-0d43b9fa0d8c",
+			"0bc3c78d-0b1b-4b0f-962e-9ea9efac60d1",
+			"c650564e-0919-4311-af4e-8d48308ee341",
+			"d90a01be-2ce3-45cf-9276-a41897a2939c",
+			"7087363c-16c6-4eab-9d58-67f921d16bc2",
+			"f7292823-8be6-49bc-bc30-d9e1c134c43d",
+			"fa9f0d21-ae7a-474b-a415-a4b807a3dc70",
+			"09d692cc-65c6-4f8e-a7b8-f951bfb18200",
+			"b0863e65-af08-416e-a211-319acd858012",
+			"cb8f034d-4a93-460c-964c-d00afa792bfb",
+			"60b51ef9-4b6d-47e3-877b-54d99d282174",
+			"0542d5af-eb19-4b2e-a5ab-695351e581d5",
+			"4cf3cff9-baca-4240-b679-6c027392147b",
+			"956a79c3-d863-47e4-bbd0-7d5a14b28ab4",
+			"84398b2c-3c74-4b86-9915-5e666f82e8d7",
+			"eb098bf0-7f7c-41f3-a4b6-18314d0236e4",
+			"41e3ba2a-5c3d-4817-8b8e-5e18dee04460",
+			"44f4385a-2049-4faa-971f-f85b64519143",
+			"3cf18023-8141-469d-9896-339276aece34"
+		],
+		"title": "Syllabus Beeldende vakken - Handvaardigheid vwo",
+		"id": "3e8b8c72-c5fe-498a-a99d-2c6c2bdb8c73",
+		"unreleased": true
 	}
 ]
