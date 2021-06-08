@@ -37250,5 +37250,296 @@
 		"title": "De kandidaat kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. et\r\nbeeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
 		"id": "3cf18023-8141-469d-9896-339276aece34",
 		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Herinneren: Het materiaal op dezelfde manier kunnen onthouden zoals het gepresenteerd is.",
+		"id": "15bb9a0b-bd65-4a86-ba8c-89b065123704",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
+		"id": "b482e9ee-aad2-45bf-bbd6-ef2c88917657",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Herinneren (terughalen): het terughalen van relevante kennis uit het lange-termijn geheugen.",
+		"id": "a3004dd8-51ab-457a-9a97-516fd4d706ff",
+		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
+		"id": "f6b03778-9aee-4a33-9eda-c12448ba5c33",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Interpreteren: in staat zijn informatie uit een type bron naar een andere type bron te converteren. (parafraseren , vertalen)",
+		"id": "f04d9eef-f84b-4120-8919-ea0b66592798",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Toelichten: een specifiek voorbeeld van een algemeen concept of principe kunnen vinden.",
+		"id": "0b309468-89f9-4e45-86fb-39cea4e3e259",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Classificeren: vast kunnen stellen dat iets (een bepaald gegeven of object) tot een bepaalde categorie behoort (of tot een bepaald concept of principe)",
+		"id": "3b4cddb8-f994-4d0f-8902-abd3f1e6cfa4",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Samenvatten: een korte verklaring kunnen geven die de gepresenteerde informatie representeert of de kern van een algemeen gegeven weer kunnen geven.",
+		"id": "e376b049-032d-4869-99a9-0fac91aa838d",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Afleiden: uit gepresenteerde informatie een logische conclusie kunnen trekken.",
+		"id": "ef99d77f-0ac5-4dec-9a92-01feb4e4b748",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Vergelijken: het kunnen vaststellen van overeenkomsten en verschillen tussen twee of meer objecten, gebeurtenissen, ideeën, problemen of situaties.",
+		"id": "0f452239-d2f2-44f1-b1c0-4d9069fd52d5",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Uitleggen: een mentaal oorzaak-en-gevolg model van een systeem of serie kunnen construeren en gebruiken.",
+		"id": "c2c6449d-1849-4203-a81d-b00a6941cfbd",
+		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Toepassen - Manieren van uitvoeren van oefeningen of van problemen oplossen, is verwant aan procedurele kennis.",
+		"id": "c8127642-fd37-4270-ab33-5ec7f7235e4c",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Uitvoeren: een procedure op een bekende taak kunnen toepassen.",
+		"id": "ac414f5d-f31b-4de8-88a9-8251e187da49",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Implementeren: een of meer procedures op een onbekende, nieuwe taak kunnen toepassen.",
+		"id": "411785a8-c05f-4485-8a5f-81a8c9f03a49",
+		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
+		"id": "a3254330-b0a7-41a1-a6a0-3f829840316f",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Differentiëren: onderscheid kunnen maken in gepresenteerd materiaal, tussen ter zake doende en niet ter zake doende aspecten of tussen belangrijke en onbelangrijke aspecten.",
+		"id": "a48a1ebf-6db8-46e6-a8c2-d82dab8bb51e",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Organiseren: Vast kunnen stellen hoe elementen samenhangen of binnen een geheel functioneren.",
+		"id": "2f4027c5-8e8c-48a5-957f-c6eabd965911",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Attribueren: een onderliggend standpunt, mening, waarde of intentie in gepresenteerd materiaal vast kunnen stellen.",
+		"id": "cb49cd8b-524d-4251-9ce0-c9b43b1b4478",
+		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Evalueren: Het kunnen geven van een oordeel gebaseerd op criteria en standaarden. De criteria die hierbij vaak gebruikt worden zijn kwaliteit, effectiviteit, efficiëntie en consistentie.",
+		"id": "1b524efd-e2dd-428f-aa02-d0077788dfb3",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Controleren (Coördineren, detecteren, monitoren, testen): inconsistenties of fouten in een proces of product kunnen herkennen, vast kunnen stellen of een proces of product intern consistent is of de effectiviteit van een procedure wanneer deze geïmplementeerd wordt kunnen bepalen.",
+		"id": "36ab022f-8819-4f58-a7ba-3d04adf4390a",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Bekritiseren (Beoordelen): inconsistenties tussen een product of uitvoering en bepaalde externe criteria vast kunnen stellen, kunnen bepalen of een product extern consistent is, of beoordelen of een procedure geschikt is om een bepaald probleem op te lossen.",
+		"id": "eeba429e-4112-4089-ab72-8e62c495fb09",
+		"unreleased": true
+	},
+	{
+		"description": "Beoogd eindgedrag",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
+		"id": "39a886d5-e59c-4bcc-a822-ee0d6849cb75",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Genereren: Alternatieve hypothesen kunnen bedenken, gebaseerd op criteria.",
+		"id": "e7e0d20b-024a-487f-a81d-f9e0c65ab9fc",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Plannen: een aanpak bedenken gericht op het uitvoeren en voltooien van bepaalde taken.",
+		"id": "4eeb0e1d-f0d0-4778-ade8-6013b59b3fb1",
+		"unreleased": true
+	},
+	{
+		"description": "Activiteit",
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A",
+		"examenprogramma_domein_id": [
+			"325ee593-67f6-4910-b495-98e310ca5af8"
+		],
+		"title": "Produceren: een product kunnen bedenken en uitwerken.",
+		"id": "833ea553-b915-47a4-9ad6-a0ba8fd60659",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A/A2",
+		"examenprogramma_subdomein_id": [
+			"4cf89229-ac15-4f27-8710-aca0fd925480"
+		],
+		"title": "De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.",
+		"id": "87436320-c545-449b-8d6e-2ddd79603d7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/V/A/A1",
+		"examenprogramma_subdomein_id": [
+			"7618a33a-e6b0-4d27-86a7-53043341c0ff"
+		],
+		"title": "De kandidaat kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. et\r\nbeeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
+		"id": "5970edb6-adc9-490f-8069-f979e3d40b07",
+		"unreleased": true
 	}
 ]
