@@ -3896,9 +3896,11 @@
 			"47adcfe6-a084-4582-be2e-2b5bbbe47584",
 			"2a1c24ca-0265-45cf-8bf6-d900ea44bbba"
 		],
-		"title": "Syllabus filosofie havo",
+		"title": "Syllabus Filosofie havo",
 		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
