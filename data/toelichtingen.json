@@ -5481,5 +5481,45 @@
 		"title": "De Attische tragedies uit de vijfde eeuw werden geschreven om opgevoerd te worden tijdens een belangrijk meerdaags religieus festival: de Grote Dionysia in Athene, jaarlijks gevierd in het voorjaar. Het festival gaf de bevolking de gelegenheid het werk te laten rusten en op deze vrije dagen ‘uit’ te gaan.",
 		"id": "1f46dee4-e8de-4f78-94ef-3e1636ecb175",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "KA/V/C/onderwerp1",
+		"examenprogramma_domein_id": [
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
+		],
+		"title": "Onderwerp 1: Hofcultuur in de zestiende en zeventiende eeuw\r\nAccenten binnen het onderwerp:\r\npaleizen, villa's, tuinen;\r\n- commedia dell'arte, komedie/tragedie, hofmuziek, opera, comédie-ballet, hofdans, hofballet,\r\nMonteverdi;\r\n- verschuiving van religieuze aandacht naar wereldlijke macht;\r\n- Italiaanse hoven (hof van Mantua, de familie Medici);\r\n- Versailles: tuinen, exterieur, interieur en wandtapijten (Lodewijk XIV);\r\n- vorstelijke verzamelingen.",
+		"id": "3d799463-0fa1-45ed-8e54-bd895c31a8ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "KA/V/C/onderwerp2",
+		"examenprogramma_domein_id": [
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
+		],
+		"title": "Onderwerp 2: Cultuur van romantiek en realisme in de negentiende eeuw\r\nAccenten binnen het onderwerp:\r\n- liederencyclus; opera; Wagner, Bayreuth, Gesamtkunstwerk;\r\n- melodrama;\r\n- fotografie en het streven naar realiteit in de beeldende kunst;\r\n- ballet;\r\n- wereldtentoonstellingen;\r\n- openbare concertzalen (Concertgebouw);\r\n- verzamelingen: op verschillend gebied; openbare collecties (bijvoorbeeld Louvre, British Museum, Rijksmuseum); privécollecties.",
+		"id": "310584db-ecb8-4e67-951d-2e3643619df0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "KA/V/C/onderwerp3",
+		"examenprogramma_domein_id": [
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
+		],
+		"title": "Onderwerp 3: Cultuur van het moderne in de eerste helft van de twintigste eeuw\r\nAccenten binnen het onderwerp:\r\n- architectuur - systeembouw, vorm en functionaliteit;\r\n- futurisme;\r\n- Schönberg in verband met expressionisme en seriële muziek; Strawinsky en antiromantische tendensen; Satie;\r\n- naar abstractie in de beeldende kunst;\r\n- Ballets Russes;\r\n- kostuumontwerpen van Popova, Stepanova;\r\n- expressionistische dans;\r\n- jazz;\r\n- film/theater en verwerping van 'realisme' (Eisenstein, Brecht);\r\n- verzamelingen: collectie museum Kröller-Müller, volkenkundige musea, volksmuziek (Bartók).",
+		"id": "4e6de661-59fd-4f3d-b481-6ec65cfcb9d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "KA/V/C/onderwerp4",
+		"examenprogramma_domein_id": [
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
+		],
+		"title": "Onderwerp 4: Massacultuur vanaf 1950\r\nAccenten binnen het onderwerp:\r\n- popart en massamedia;\r\n- soaps, comedy, tv-drama, videoclips;\r\n- musical;\r\n- mainstream en subculturen;\r\n- popmuziek, filmmuziek, elektronische muziek;\r\n- fusion en cross over;\r\n- multidisciplinaire kunst;\r\n- postmodernistische kunst in relatie tot massacultuur;\r\n- verzamelingen: bijvoorbeeld Centre Pompidou, Groninger museum.",
+		"id": "4fe40334-8809-4925-be35-d3aef6b02ef0",
+		"unreleased": true
 	}
 ]
