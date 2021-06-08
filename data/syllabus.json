@@ -3967,9 +3967,11 @@
 			"6d8fbf68-32d7-42a4-ae14-66db3da82f61",
 			"4d218aa7-a117-4e82-ace2-3833fc7ca9cf"
 		],
-		"title": "Syllabus Kunst algemeen",
+		"title": "Syllabus Kunst algemeen havo",
 		"id": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
