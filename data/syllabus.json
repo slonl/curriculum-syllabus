@@ -4721,5 +4721,24 @@
 		"title": "Syllabus Beeldende vakken - Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"ad4bf33e-7a6a-4bcb-98b9-997f01c638d8"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"167468ce-e6af-4a64-9a51-c947a8710df7",
+			"339c40a9-e28e-4d2f-b6bd-133ddc82647c",
+			"20d82151-855a-406f-9efa-935177e69105",
+			"219eb944-72ee-4678-906d-f694d4169486",
+			"96753bd9-5c6e-4f71-906a-e1e00f78d496",
+			"ce1f7e91-c869-43e3-8f49-7295b30f3baf",
+			"1974e536-5330-41b0-9182-5caef2a07c67",
+			"3740dad2-5b21-4e18-a55b-7f784725dec3",
+			"cb271a5e-b4bd-4647-8014-a2797fd18b81"
+		],
+		"title": "Syllabus Beeldende vakken - Tekenen havo",
+		"id": "9c7ec876-8a43-4ae2-9162-e29c4f109a59",
+		"unreleased": true
 	}
 ]
