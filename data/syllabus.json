@@ -4851,5 +4851,53 @@
 		"title": "Syllabus Beeldende vakken - Tekenen vwo",
 		"id": "82ed434e-2cd6-4b8f-84fe-e8839a322f41",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"9c7ce10d-f8bb-4726-9387-078466916b43"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"5c7276ca-9ed8-42cd-aeeb-4df05f4ac112",
+			"44e0acc0-738f-4c6b-97bc-82c068fb411f",
+			"421af0fe-864e-4fa2-9388-8215058687b5",
+			"e2291851-691b-4d50-9521-8dcbda018376",
+			"d0ce49d5-7497-4c19-bca8-d8920c6c428d",
+			"716d9283-ebc8-4b70-9f26-bd9cffddf713",
+			"6c3d1b17-d843-49b7-8b4b-a5052c959324",
+			"b19001ef-b7bf-4bd1-8851-10baf141091e",
+			"2dada9a1-57a4-463f-89b5-c01a78b13699",
+			"2f89f5ec-c681-42f8-b32a-7f0d733bc94c",
+			"b99c7d36-dc5b-460a-b574-5266a3547c3d",
+			"e4079590-cb33-4fb3-8ea0-5e64c7210334",
+			"95183bd9-c840-496c-8a27-6a10c6ad2d9f",
+			"daeaa163-5a6c-47d9-b8bd-2566b0d5e567",
+			"c048a257-e630-47d7-b197-7318d793bd24",
+			"bf712d43-649f-47ef-93c7-5a257d3622f4",
+			"e45a402a-4f08-4c92-ab7a-1ecd12235817",
+			"14486e50-959a-49bc-b191-a374780d9974",
+			"b9b76ca9-5999-4fe4-8917-70a9fc6de9b3",
+			"697db3bb-5efa-4fcb-bc8d-c6ae51150b94",
+			"fed4adf1-ea3b-4d3b-b76c-56910e5f5c2d",
+			"b9767d02-1c36-401b-a5a1-67cb43ac4df1",
+			"39ba3de5-32ca-477a-b616-58c489fc89fa",
+			"273c4dad-db78-4cc6-9866-40073c446adf",
+			"1a3d39cd-1e8c-4fb9-acb1-fec2716d8dc3",
+			"77649cef-0975-46d6-ab73-e3ac0a88687f",
+			"a463d0ba-9ada-49e6-a11c-230cdd06fe84",
+			"a8810616-e120-4eb9-ae21-c878d7c6e4aa",
+			"44d9f6fe-0c9f-4cc4-91f2-3a72c317d157",
+			"00fc01af-3714-4ba8-93c1-ec8e4ce79080",
+			"fe3f894a-7c9f-4189-9894-3acf93643d0f",
+			"35e4b19e-4f53-4421-ba8a-02e28f605184",
+			"4c061f9c-2e6c-4616-b78a-4df1684d8253",
+			"aede3a92-d71f-43d1-a911-01d794d5eacc",
+			"b27c6c4b-ff0c-4b42-9fff-c4e62f706fb3",
+			"0e361679-7b49-4405-a714-106f33544573",
+			"55d5f0b9-d649-4955-9c06-1de220a1e227",
+			"0f3564d9-8a27-4eca-aabd-118650061464"
+		],
+		"title": "Syllabus Muziek  vwo",
+		"id": "eb70f781-379b-4f54-b328-41ac60417748",
+		"unreleased": true
 	}
 ]
