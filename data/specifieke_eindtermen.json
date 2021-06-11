@@ -37832,5 +37832,470 @@
 		"title": "De kandidaat kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. et\r\nbeeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
 		"id": "30243bca-0ab0-4d8c-9357-fcaf7a1dfc9e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A1",
+		"examenprogramma_subdomein_id": [
+			"aac7cedb-2861-4549-a159-e769027f8eb5"
+		],
+		"title": "Het gaat hier om luistervaardigheid en muzikaal voorstellingsvermogen",
+		"id": "5c7276ca-9ed8-42cd-aeeb-4df05f4ac112",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A1",
+		"examenprogramma_subdomein_id": [
+			"aac7cedb-2861-4549-a159-e769027f8eb5"
+		],
+		"title": "Het muzikaal voorstellingsvermogen houdt onder andere in: het volgen en het noteren van ritme/melodie.",
+		"id": "44e0acc0-738f-4c6b-97bc-82c068fb411f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A1",
+		"examenprogramma_subdomein_id": [
+			"aac7cedb-2861-4549-a159-e769027f8eb5"
+		],
+		"title": "De kandidaat kan het noteren van klinkende voorbeelden.",
+		"id": "421af0fe-864e-4fa2-9388-8215058687b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A1",
+		"examenprogramma_subdomein_id": [
+			"aac7cedb-2861-4549-a159-e769027f8eb5"
+		],
+		"title": "De kandidaat kan het volgen van een muzieknotatie of een partituur.",
+		"id": "e2291851-691b-4d50-9521-8dcbda018376",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"77017d5a-de6f-42c7-ac78-23abcc30e286"
+		],
+		"title": "Ritme",
+		"id": "d0ce49d5-7497-4c19-bca8-d8920c6c428d",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"1cba1fd6-da22-4293-90d3-7eed64ae574c"
+		],
+		"title": "Maat",
+		"id": "716d9283-ebc8-4b70-9f26-bd9cffddf713",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"279727cf-91d0-42fe-9fbd-f9de89b64964",
+			"76cccd81-0527-4067-a8ee-c0b274bbcc6f",
+			"e59296af-818f-4700-aae3-427abbbb3aa7",
+			"7a037760-c6fb-4824-ac3c-575227a7fce5"
+		],
+		"title": "Tempo",
+		"id": "6c3d1b17-d843-49b7-8b4b-a5052c959324",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"6de6108c-de33-4b56-b042-c882c322ffb5"
+		],
+		"title": "Toonhoogte",
+		"id": "b19001ef-b7bf-4bd1-8851-10baf141091e",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1e",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"2f4d0f84-a763-4337-bf24-e28c9836acf7"
+		],
+		"title": "Toonsoort",
+		"id": "2dada9a1-57a4-463f-89b5-c01a78b13699",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"fb13a9ad-95d3-4e5d-9ad8-a1bd1995bdd2"
+		],
+		"title": "Dynamiek",
+		"id": "2f89f5ec-c681-42f8-b32a-7f0d733bc94c",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"57c9ba57-66e0-4a59-94ed-77a476beb5c6"
+		],
+		"title": "Samenklank",
+		"id": "b99c7d36-dc5b-460a-b574-5266a3547c3d",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"1664312d-6e82-4ec2-9bbf-e542a3ac3fd1"
+		],
+		"title": "Uitvoeringspraktijk",
+		"id": "e4079590-cb33-4fb3-8ea0-5e64c7210334",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"488888c4-4b7c-4321-9bec-5ee89c920a87",
+			"ea14041a-2e0c-4e8a-9d3c-f0de1e47fedb",
+			"57290301-66a8-492e-92e8-a4662f9798df",
+			"78b90205-51fb-4372-a1c1-99a74de52173",
+			"6214a1e5-d1a2-4dfe-b519-26e1f82d26e3",
+			"2386e113-2da6-4ee6-9bf4-30b80bb362da",
+			"71149a2f-2644-44e6-b287-5c10fff14209",
+			"98ae6255-4161-4efc-b5df-271375d74255",
+			"dca23e28-7e0f-42c2-9579-9a00000afbc2",
+			"447a01e0-72bb-489b-9162-4b53718e36f0",
+			"6169d513-4c25-4d45-a766-e1252d0eb876",
+			"0522a551-9c29-41e9-bff5-4347141b0624",
+			"41bee643-645d-4ad5-b50c-f9ec564b3092",
+			"f82b9c82-d64e-4b7b-9027-0a31799e1e76",
+			"5a3a676a-7c7e-4b22-a337-e39959b82997"
+		],
+		"title": "Klankkleur",
+		"id": "95183bd9-c840-496c-8a27-6a10c6ad2d9f",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"4a7be094-574e-4940-a0ac-15c4ee32a3f3"
+		],
+		"title": "Melodische relaties",
+		"id": "daeaa163-5a6c-47d9-b8bd-2566b0d5e567",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"d6f8aa6b-d3e2-4489-815a-4e822b2cf01e"
+		],
+		"title": "Dansen",
+		"id": "c048a257-e630-47d7-b197-7318d793bd24",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"d5ba5f00-e5e9-4117-a0bd-13c79e86369f"
+		],
+		"title": "Variatie",
+		"id": "bf712d43-649f-47ef-93c7-5a257d3622f4",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"58ff68fb-61fb-44af-916d-cbfceaf7bea6"
+		],
+		"title": "Concerterende structuren",
+		"id": "e45a402a-4f08-4c92-ab7a-1ecd12235817",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1n",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"827ddfcf-4a09-40f6-9a27-b994078526e1"
+		],
+		"title": "Symfonische structuren",
+		"id": "14486e50-959a-49bc-b191-a374780d9974",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermolgen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"61b981ce-e010-45c5-b69c-b3509483db5f"
+		],
+		"title": "Compositietechnieken, homofone en polyfone structuren",
+		"id": "b9b76ca9-5999-4fe4-8917-70a9fc6de9b3",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"b14497e0-1ba7-4506-afc6-02b11165ce3f"
+		],
+		"title": "Liedsoorten, mis, oratorium, opera, musical",
+		"id": "697db3bb-5efa-4fcb-bc8d-c6ae51150b94",
+		"unreleased": true
+	},
+	{
+		"description": "luistervaardigheid en voorstellingsvermogen",
+		"ce_se": "CE",
+		"prefix": "MU/V/A/1q",
+		"examenprogramma_subdomein_id": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		],
+		"syllabus_vakbegrip_id": [
+			"0a3b09fa-b51b-4e55-8daf-314916be9717"
+		],
+		"title": "Vorm",
+		"id": "fed4adf1-ea3b-4d3b-b76c-56910e5f5c2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn middeleeuwen",
+		"id": "b9767d02-1c36-401b-a5a1-67cb43ac4df1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn renaissance",
+		"id": "39ba3de5-32ca-477a-b616-58c489fc89fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn barok",
+		"id": "273c4dad-db78-4cc6-9866-40073c446adf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn classicisme",
+		"id": "1a3d39cd-1e8c-4fb9-acb1-fec2716d8dc3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn romantiek",
+		"id": "77649cef-0975-46d6-ab73-e3ac0a88687f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Klassieke muzieklijn 20e en 21e eeuw I",
+		"id": "a463d0ba-9ada-49e6-a11c-230cdd06fe84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn -blues (eind 19e eeuw)",
+		"id": "a8810616-e120-4eb9-ae21-c878d7c6e4aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - ragtime (ca. 1900)",
+		"id": "44d9f6fe-0c9f-4cc4-91f2-3a72c317d157",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - Dixieland (ca. 1910)",
+		"id": "00fc01af-3714-4ba8-93c1-ec8e4ce79080",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - swing (ca. 1930)",
+		"id": "fe3f894a-7c9f-4189-9894-3acf93643d0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - bebop (ca. 1940)",
+		"id": "35e4b19e-4f53-4421-ba8a-02e28f605184",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-latin",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - latin jazz (ca. 1940)",
+		"id": "4c061f9c-2e6c-4616-b78a-4df1684d8253",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Akkoordenschema's van standards vormen de basis.",
+		"id": "aede3a92-d71f-43d1-a911-01d794d5eacc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - hardbop (ca. 1955)",
+		"id": "b27c6c4b-ff0c-4b42-9fff-c4e62f706fb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - freejazz (ca. 1960)",
+		"id": "0e361679-7b49-4405-a714-106f33544573",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - jazzrock (ca. 1970)",
+		"id": "55d5f0b9-d649-4955-9c06-1de220a1e227",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"examenprogramma_subdomein_id": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		],
+		"title": "Jazzlijn - nu-jazz (eind jaren 90) bijv. electrojazz, jazztronica, future jazz en electronic jazz",
+		"id": "0f3564d9-8a27-4eca-aabd-118650061464",
+		"unreleased": true
 	}
 ]
