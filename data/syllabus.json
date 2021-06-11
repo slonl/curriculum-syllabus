@@ -3904,7 +3904,11 @@
 	},
 	{
 		"examenprogramma_id": [
-			"a9a3ba23-bf44-43f1-a40d-1bf368d39470"
+			"a9a3ba23-bf44-43f1-a40d-1bf368d39470",
+			"fd4b7c27-0ca8-4e46-a613-90f24509a4a3",
+			"18ff572d-ac19-42b5-a558-9a7659339889",
+			"6cbb98e3-a020-4623-816d-89673d10793b",
+			"d343fb75-ba02-4969-960c-3ff5e009e946"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"444566fd-a978-4b91-a459-e8fe14217ce5",
@@ -4553,7 +4557,11 @@
 	},
 	{
 		"examenprogramma_id": [
-			"0d872678-c7ed-4cf2-b8eb-96580d330dfa"
+			"0d872678-c7ed-4cf2-b8eb-96580d330dfa",
+			"78cd103c-54e3-4d1b-b392-5b93c880582a",
+			"530811b4-b704-429a-9ff2-2f2f0f472d50",
+			"0e62e61e-23e5-40e8-a12f-b4dbdc591812",
+			"90f32bf1-0834-4288-93ba-2ceb6bc40e49"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"08be6c0c-9eeb-4b32-b845-54a2abbea5c5",
@@ -4670,7 +4678,9 @@
 		],
 		"title": "Syllabus Kunst algemeen vwo",
 		"id": "40ad9d1a-77cb-413e-bbcd-47f96cd810f1",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -4720,184 +4730,6 @@
 		],
 		"title": "Syllabus Beeldende vakken - Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_id": [
-			"ad4bf33e-7a6a-4bcb-98b9-997f01c638d8"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"167468ce-e6af-4a64-9a51-c947a8710df7",
-			"339c40a9-e28e-4d2f-b6bd-133ddc82647c",
-			"20d82151-855a-406f-9efa-935177e69105",
-			"219eb944-72ee-4678-906d-f694d4169486",
-			"96753bd9-5c6e-4f71-906a-e1e00f78d496",
-			"ce1f7e91-c869-43e3-8f49-7295b30f3baf",
-			"1974e536-5330-41b0-9182-5caef2a07c67",
-			"3740dad2-5b21-4e18-a55b-7f784725dec3",
-			"cb271a5e-b4bd-4647-8014-a2797fd18b81"
-		],
-		"title": "Syllabus Beeldende vakken - Tekenen havo",
-		"id": "9c7ec876-8a43-4ae2-9162-e29c4f109a59",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_id": [
-			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"663e802c-7f01-4be0-afca-f0dbd1e7a8d3",
-			"b6ae6b53-398e-4b9c-9578-ee85095a1b1d",
-			"6d89620b-ef75-4805-9073-37e6c83f4a07",
-			"544fb4f3-a7f9-43bc-8b3b-a5caa4ca6524",
-			"49173b4a-bd1e-4230-aaf7-86afb5ecb7c5",
-			"0a071461-fbaf-415f-bb2b-7dc36a259d29",
-			"7cb6928c-22b0-4648-a24a-46b5ce4ecf9a",
-			"55abf506-1e0b-430a-8ff3-35ab99e6e0ed",
-			"21159e3c-c07b-4293-98fd-0d43b9fa0d8c",
-			"0bc3c78d-0b1b-4b0f-962e-9ea9efac60d1",
-			"c650564e-0919-4311-af4e-8d48308ee341",
-			"d90a01be-2ce3-45cf-9276-a41897a2939c",
-			"7087363c-16c6-4eab-9d58-67f921d16bc2",
-			"f7292823-8be6-49bc-bc30-d9e1c134c43d",
-			"fa9f0d21-ae7a-474b-a415-a4b807a3dc70",
-			"09d692cc-65c6-4f8e-a7b8-f951bfb18200",
-			"b0863e65-af08-416e-a211-319acd858012",
-			"cb8f034d-4a93-460c-964c-d00afa792bfb",
-			"60b51ef9-4b6d-47e3-877b-54d99d282174",
-			"0542d5af-eb19-4b2e-a5ab-695351e581d5",
-			"4cf3cff9-baca-4240-b679-6c027392147b",
-			"956a79c3-d863-47e4-bbd0-7d5a14b28ab4",
-			"84398b2c-3c74-4b86-9915-5e666f82e8d7",
-			"eb098bf0-7f7c-41f3-a4b6-18314d0236e4",
-			"41e3ba2a-5c3d-4817-8b8e-5e18dee04460",
-			"44f4385a-2049-4faa-971f-f85b64519143",
-			"3cf18023-8141-469d-9896-339276aece34"
-		],
-		"title": "Syllabus Beeldende vakken - Handvaardigheid vwo",
-		"id": "3e8b8c72-c5fe-498a-a99d-2c6c2bdb8c73",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_id": [
-			"ec850fae-47a6-4dbc-939c-bf7190546ddc"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"184ab3e6-3528-46fd-b6b8-6040d4b3c957",
-			"b234a14e-9a54-4754-8dbf-269c7df5c576",
-			"bfa5ac04-42df-4376-8b88-2337061345c2",
-			"912020ec-38a3-48e8-ada3-6ed228bfb1ae",
-			"f3e55085-ec34-465d-905d-9330e6c3299e",
-			"1c0d6a73-6441-412f-9adc-1f7111bbe6d6",
-			"4d82d735-e594-4dde-ad2e-9efd3a6a493e",
-			"2e2a90a4-ec0c-4798-9364-6f15961b4b46",
-			"6034d728-268b-4257-8015-2abf71044ad0",
-			"582263ce-fad5-43c5-bf4f-e2d42a2c8a04",
-			"8398e012-8188-4774-8d68-a660e8461560",
-			"77effb9f-5744-460d-94c8-ded8ac3d9103",
-			"a969a10f-0b52-4009-832d-c5e7face3593",
-			"c3ba2cfb-4dcb-40cd-906a-973ee1d69783",
-			"360277a6-930b-40ec-81ad-c9ea6a3badb3",
-			"9a6f4494-5589-488d-95f4-a05387ba389d",
-			"4b39755d-4588-43d9-8063-672439d79461",
-			"9c092b0c-2e28-49b0-ba93-f0614fb2a2f6",
-			"66035b8f-8109-426a-8958-b3c1d7c71040",
-			"95b3774b-4f90-452c-9727-3ecce30a2291",
-			"9435c246-9c19-46ce-9094-79c03b4f3393",
-			"4250e6e2-a6d1-4b2b-986d-a62595bf46c4",
-			"0a5aeee4-23be-4431-9410-eeff119f3446",
-			"3ecdbdf3-5941-4b65-bf82-59a9b0511b14",
-			"5e947ea8-944c-4333-9d02-e9f5a60d8515",
-			"d47b1b0a-1c9d-4691-a31e-388a0862c51f",
-			"363c238e-21fd-4bda-b7c5-4f8f2d684543"
-		],
-		"title": "Syllabus Beeldende vakken - Textiele vorming vwo",
-		"id": "e7a6e970-2013-45f5-9c90-58eb3e3a8301",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_id": [
-			"548449b1-86d3-4134-88a4-3ad3d70578dc"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"a1e92d12-caf8-4a36-a649-78f77da4b3ff",
-			"01c24a08-50bb-405f-9724-207c7eacc01c",
-			"d9e1dd9a-d570-4a5e-bf65-1d5b6c4b62b3",
-			"b7f5b8a1-e41c-4ddc-8b1d-a0d8f309d7fd",
-			"c1a8f645-7780-4d83-9ec8-13a9de63edc5",
-			"0e78da91-1aba-4568-bb74-ff84cbd3b009",
-			"ac69f70c-0ee5-4153-a7b0-860c48377ffb",
-			"6a4e50f6-ba00-4905-afbd-5a448492e203",
-			"34e9c7fa-21de-4ff0-8636-0129e4aee0ab",
-			"0c018142-985c-4a75-9371-71de9163ea63",
-			"67b95753-19dd-4ad5-a06d-50762b04f6b6",
-			"e8db29a5-9142-4aaf-befc-4f15c91a8cde",
-			"0ed1f74c-e729-4061-900a-4d459c05d5ea",
-			"a80a85e7-7aad-46cd-b8e7-66965e76d774",
-			"61d245d2-1e3e-42a9-b8c6-f227e85a38fa",
-			"6429ca6f-4d19-4f33-8859-a4f84b3c48ee",
-			"4b37b2c7-8a73-41c1-bc24-fd783dbe47a7",
-			"01956e4c-1b63-4120-8381-238da79f277e",
-			"0ebe9da6-f882-4a02-a536-e99684a43fd6",
-			"5e2babef-54bf-4093-b704-c12710335b3c",
-			"1674bc00-ea43-41f1-9d5d-3c7f0687170d",
-			"026591c3-0315-4417-ba32-74e959153752",
-			"b49869e1-9696-46f8-a954-8a2d02349bd4",
-			"9c0a471f-4810-4280-a3f1-b00e67ea6ebd",
-			"b636d15b-0a40-4273-bf60-c557c1d49444",
-			"b7a2a248-cf42-446b-ad2e-bb157f33c2c1",
-			"30243bca-0ab0-4d8c-9357-fcaf7a1dfc9e"
-		],
-		"title": "Syllabus Beeldende vakken - Tekenen vwo",
-		"id": "82ed434e-2cd6-4b8f-84fe-e8839a322f41",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_id": [
-			"9c7ce10d-f8bb-4726-9387-078466916b43"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"5c7276ca-9ed8-42cd-aeeb-4df05f4ac112",
-			"44e0acc0-738f-4c6b-97bc-82c068fb411f",
-			"421af0fe-864e-4fa2-9388-8215058687b5",
-			"e2291851-691b-4d50-9521-8dcbda018376",
-			"d0ce49d5-7497-4c19-bca8-d8920c6c428d",
-			"716d9283-ebc8-4b70-9f26-bd9cffddf713",
-			"6c3d1b17-d843-49b7-8b4b-a5052c959324",
-			"b19001ef-b7bf-4bd1-8851-10baf141091e",
-			"2dada9a1-57a4-463f-89b5-c01a78b13699",
-			"2f89f5ec-c681-42f8-b32a-7f0d733bc94c",
-			"b99c7d36-dc5b-460a-b574-5266a3547c3d",
-			"e4079590-cb33-4fb3-8ea0-5e64c7210334",
-			"95183bd9-c840-496c-8a27-6a10c6ad2d9f",
-			"daeaa163-5a6c-47d9-b8bd-2566b0d5e567",
-			"c048a257-e630-47d7-b197-7318d793bd24",
-			"bf712d43-649f-47ef-93c7-5a257d3622f4",
-			"e45a402a-4f08-4c92-ab7a-1ecd12235817",
-			"14486e50-959a-49bc-b191-a374780d9974",
-			"b9b76ca9-5999-4fe4-8917-70a9fc6de9b3",
-			"697db3bb-5efa-4fcb-bc8d-c6ae51150b94",
-			"fed4adf1-ea3b-4d3b-b76c-56910e5f5c2d",
-			"b9767d02-1c36-401b-a5a1-67cb43ac4df1",
-			"39ba3de5-32ca-477a-b616-58c489fc89fa",
-			"273c4dad-db78-4cc6-9866-40073c446adf",
-			"1a3d39cd-1e8c-4fb9-acb1-fec2716d8dc3",
-			"77649cef-0975-46d6-ab73-e3ac0a88687f",
-			"a463d0ba-9ada-49e6-a11c-230cdd06fe84",
-			"a8810616-e120-4eb9-ae21-c878d7c6e4aa",
-			"44d9f6fe-0c9f-4cc4-91f2-3a72c317d157",
-			"00fc01af-3714-4ba8-93c1-ec8e4ce79080",
-			"fe3f894a-7c9f-4189-9894-3acf93643d0f",
-			"35e4b19e-4f53-4421-ba8a-02e28f605184",
-			"4c061f9c-2e6c-4616-b78a-4df1684d8253",
-			"aede3a92-d71f-43d1-a911-01d794d5eacc",
-			"b27c6c4b-ff0c-4b42-9fff-c4e62f706fb3",
-			"0e361679-7b49-4405-a714-106f33544573",
-			"55d5f0b9-d649-4955-9c06-1de220a1e227",
-			"0f3564d9-8a27-4eca-aabd-118650061464"
-		],
-		"title": "Syllabus Muziek  vwo",
-		"id": "eb70f781-379b-4f54-b328-41ac60417748",
 		"unreleased": true
 	}
 ]
