@@ -4731,5 +4731,40 @@
 		"title": "Syllabus Beeldende vakken - Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"64dd47ee-aaf2-47be-85db-8cd24e388c4b",
+			"cc251e7f-d5db-4ede-b9c0-c89d8080e703",
+			"6ad068ab-039a-49a9-a861-74f65eb26570",
+			"f60254fd-f641-4e76-b949-d117326edf78",
+			"40404f4f-36b1-49ac-a18d-26535e7ed4d0",
+			"ba71cf5e-ed67-4c78-b23d-3fdfa1872d77",
+			"a779de7b-8e36-4e4b-a74c-f62399b5dda4",
+			"3a6c1c9a-0e1f-43b9-a8f9-aff7759da5f4",
+			"14c86709-a843-4029-9665-80ebeddeb0b4",
+			"1b1bebd2-55f8-434c-91ca-9eb638357e66",
+			"bfcd460f-0073-49e9-8020-7186530bf8c6",
+			"71b117f8-269c-422d-82b4-83f49588d693",
+			"af77a0b0-a43f-41f1-925b-dcc8530f2f90",
+			"109aa950-63d6-46f1-b1e1-43390eee26cf",
+			"bd26b9a8-d9e5-4c8b-86e5-cfa0748e02d8",
+			"4084974c-9855-4758-b8d6-2328393569ec",
+			"2ef31f53-03f5-4a3e-9d40-6523fb5d53e0",
+			"f9b08dbf-d82e-4433-a2bd-725da0759bbe",
+			"05552361-e300-48ae-a649-455c215ef8e2",
+			"65ce3a8c-9557-4ca4-94cd-77a260f954b6",
+			"7313c4ad-7594-4d21-8d33-456ae1209b3b",
+			"c03cfa31-28bc-4e1e-b92b-1ed3a6fa719e",
+			"60cc3b7d-9511-4129-98de-ef78a1b4a501",
+			"32a2088b-103f-4e05-9b8c-c683b09bfc5e",
+			"2a7afc16-6ace-4eef-8330-46b8b082320f"
+		],
+		"title": "Syllabus geschiedenis havo",
+		"id": "6b8d8910-fca8-48ab-84b1-4b59ef470105",
+		"unreleased": true
 	}
 ]
