@@ -38297,5 +38297,277 @@
 		"title": "Jazzlijn - nu-jazz (eind jaren 90) bijv. electrojazz, jazztronica, future jazz en electronic jazz",
 		"id": "0f3564d9-8a27-4eca-aabd-118650061464",
 		"unreleased": true
+	},
+	{
+		"description": "Tijd en chronologie",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/1",
+		"examenprogramma_eindterm_id": [
+			"a0d6a41e-b751-4551-88f7-21f411a627ae"
+		],
+		"title": "De kandidaat kan de tien tijdvakken gebruiken als referentiekader om gebeurtenissen chronologisch te ordenen.",
+		"id": "64dd47ee-aaf2-47be-85db-8cd24e388c4b",
+		"unreleased": true
+	},
+	{
+		"description": "Tijd en chronologie",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/2",
+		"examenprogramma_eindterm_id": [
+			"a0d6a41e-b751-4551-88f7-21f411a627ae"
+		],
+		"title": "De kandidaat kan de tien tijdvakken plaatsen in de periodes Prehistorie, Oudheid, Middeleeuwen, Vroegmoderne Tijd en Moderne Tijd en deze periodes gebruiken als referentiekader om gebeurtenissen chronologisch te ordenen.",
+		"id": "cc251e7f-d5db-4ede-b9c0-c89d8080e703",
+		"unreleased": true
+	},
+	{
+		"description": "Tijd en chronologie",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/3",
+		"examenprogramma_eindterm_id": [
+			"a0d6a41e-b751-4551-88f7-21f411a627ae"
+		],
+		"title": "De kandidaat kan uitleggen dat elke ordening van tijd een interpretatie is.",
+		"id": "6ad068ab-039a-49a9-a861-74f65eb26570",
+		"unreleased": true
+	},
+	{
+		"description": "Causaliteit",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/4",
+		"examenprogramma_eindterm_id": [
+			"a0d6a41e-b751-4551-88f7-21f411a627ae"
+		],
+		"title": "De kandidaat kan rekening houden met het niet-lineaire en multi-causale karakter van historische verschijnselen en gebeurtenissen",
+		"id": "f60254fd-f641-4e76-b949-d117326edf78",
+		"unreleased": true
+	},
+	{
+		"description": "Causaliteit",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/5a",
+		"examenprogramma_eindterm_id": [
+			"dc4c84e8-b141-428c-8ec1-9c84172d8e79"
+		],
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\nBijvoorbeeld: directe en indirecte oorzaken, aanleiding (meest directe oorzaak), direct optredende gevolgen en gevolgen op de langere termijn, gewilde en ongewilde, bedoelde en onbedoelde gevolgen, gevolgen van meer en minder belang op grond van bijvoorbeeld schaal, intensiteit, duur.",
+		"id": "40404f4f-36b1-49ac-a18d-26535e7ed4d0",
+		"unreleased": true
+	},
+	{
+		"description": "Causaliteit",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/5b",
+		"examenprogramma_eindterm_id": [
+			"dc4c84e8-b141-428c-8ec1-9c84172d8e79"
+		],
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\nBijvoorbeeld: oorzaken en gevolgen op politiek-bestuurlijk, sociaaleconomisch en cultureel- mentaal (waaronder godsdienstig) terrein.",
+		"id": "ba71cf5e-ed67-4c78-b23d-3fdfa1872d77",
+		"unreleased": true
+	},
+	{
+		"description": "Causaliteit",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/6",
+		"examenprogramma_eindterm_id": [
+			"dc4c84e8-b141-428c-8ec1-9c84172d8e79"
+		],
+		"title": "De kandidaat kan rekening houden met het gegeven dat elke ordening van causaliteit een interpretatie is.",
+		"id": "a779de7b-8e36-4e4b-a74c-f62399b5dda4",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/7",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan in historische processen continuïteit en verandering onderscheiden",
+		"id": "3a6c1c9a-0e1f-43b9-a8f9-aff7759da5f4",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/8a",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\nBijvoorbeeld in tempo (tamelijk snel en plotseling of langzaam en geleidelijk),duur, schaal, intensiteit, omvang etc.",
+		"id": "14c86709-a843-4029-9665-80ebeddeb0b4",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/8b",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\nBijvoorbeeld op politiek-bestuurlijk, sociaaleconomisch en cultureel/mentaal terrein.",
+		"id": "1b1bebd2-55f8-434c-91ca-9eb638357e66",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/9",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan herkennen dat elke tijd materiële sporen van het verleden in zich draagt.",
+		"id": "bfcd460f-0073-49e9-8020-7186530bf8c6",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/10",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan omgaan met het verschil tussen unieke en generieke betekenissen van historische concepten. \r\nBijvoorbeeld: begrippen als feodaal, imperialisme, centralisatie, democratie, burgerschap, oorlog en dergelijke hebben in de ene tijd en plaats een (deels) andere betekenis dan in een andere.",
+		"id": "71b117f8-269c-422d-82b4-83f49588d693",
+		"unreleased": true
+	},
+	{
+		"description": "Continuïteit en verandering",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/11",
+		"examenprogramma_eindterm_id": [
+			"0d5bf41f-293b-440a-b9bd-195336ed16ee"
+		],
+		"title": "De kandidaat kan uitleggen dat elke ordening van tijd een interpretatie is.",
+		"id": "af77a0b0-a43f-41f1-925b-dcc8530f2f90",
+		"unreleased": true
+	},
+	{
+		"description": "Standplaatsgebondenheid",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/12",
+		"examenprogramma_eindterm_id": [
+			"4ab1872f-70b8-4fac-b3d6-dd820cae753b"
+		],
+		"title": "De kandidaat kan menselijk gedrag (denken en doen) in het verleden verklaren vanuit de toen en daar bekende en geaccepteerde kennis en waarden en vanuit de identiteit van individuen en groepen die in die tijd en/of op die plaats leefden en hierbij rekening houden met verschillende factoren die de standplaatsgebondenheid van mensen of een groep bepalen.\r\nBijvoorbeeld: waardesystemen, politieke, sociaaleconomische en culturele oriëntatie, kennis, gender, karakter, toevallige factoren.",
+		"id": "109aa950-63d6-46f1-b1e1-43390eee26cf",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/13",
+		"examenprogramma_eindterm_id": [
+			"14b51aef-5f0b-4c15-8c8b-132dff1e622f"
+		],
+		"title": "De kandidaat kan vraagstellingen gericht op (historisch) onderzoek formuleren aan de hand van voorgelegde bronnen.",
+		"id": "bd26b9a8-d9e5-4c8b-86e5-cfa0748e02d8",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/14",
+		"examenprogramma_eindterm_id": [
+			"2b75ccf5-a5e7-4646-aab0-a19d73fe0d13"
+		],
+		"title": "De kandidaat kan informatie uit bronnen verzamelen uitgaande van een bepaalde vraagstelling en deze als bewijs gebruiken bij het beantwoorden van die vraagstelling.",
+		"id": "4084974c-9855-4758-b8d6-2328393569ec",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/15a",
+		"examenprogramma_eindterm_id": [
+			"2b75ccf5-a5e7-4646-aab0-a19d73fe0d13"
+		],
+		"title": "De kandidaat kan de bruikbaarheid van informatie uit een of meer bronnen voor een bepaalde vraagstelling afwegen en daarbij rekening houden met de betrouwbaarheid van de informatie (mede bepaald door bijvoorbeeld de aard van de bron, de context waarin deze is ontstaan, de mate van geïnformeerdheid van de maker, de standplaatsgebondenheid van de maker, de bedoeling van de maker of opdrachtgever, het publiek waarvoor deze bedoeld is, etc.)",
+		"id": "2ef31f53-03f5-4a3e-9d40-6523fb5d53e0",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/15b",
+		"examenprogramma_eindterm_id": [
+			"2b75ccf5-a5e7-4646-aab0-a19d73fe0d13"
+		],
+		"title": "De kandidaat kan de bruikbaarheid van informatie uit een of meer bronnen voor een bepaalde vraagstelling afwegen en daarbij rekening houden met de representativiteit van de informatie uit de bron; (bijvoorbeeld: in hoeverre geldt dit voor meer mensen en meer situaties?).",
+		"id": "f9b08dbf-d82e-4433-a2bd-725da0759bbe",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/16",
+		"examenprogramma_eindterm_id": [
+			"f30ef526-b700-42c4-bae3-e233d21dd82b"
+		],
+		"title": "De kandidaat kan vaststellen wanneer men iets als een feit kan aanvaarden; zulke feiten onderscheiden van meningen en van vooroordelen en/of stereotypen.",
+		"id": "05552361-e300-48ae-a649-455c215ef8e2",
+		"unreleased": true
+	},
+	{
+		"description": "Bron en vraagstelling",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/17",
+		"examenprogramma_eindterm_id": [
+			"f30ef526-b700-42c4-bae3-e233d21dd82b"
+		],
+		"title": "De kandidaat kan uitleggen aan de hand van concrete voorbeelden of broninterpretaties dat geschiedverhalen een constructie zijn van het verleden",
+		"id": "65ce3a8c-9557-4ca4-94cd-77a260f954b6",
+		"unreleased": true
+	},
+	{
+		"description": "Betekenis geven aan en oordelen over het verleden",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/18",
+		"examenprogramma_eindterm_id": [
+			"7eb9719f-f4d6-49d3-9c6d-142a89facc9a"
+		],
+		"title": "De kandidaat kan uitleggen dat de wijze waarop mensen betekenis geven aan en oordelen over het verleden door de tijd heen verandert en per groep en individu kan verschillen en daarbij benoemen vanuit welke motieven/interesses/waardesystemen/verwachtingen mensen tot een waardering komen van wat belangrijk is uit het verleden (vergelijk met 12)",
+		"id": "7313c4ad-7594-4d21-8d33-456ae1209b3b",
+		"unreleased": true
+	},
+	{
+		"description": "Betekenis geven aan en oordelen over het verleden",
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinA/19",
+		"examenprogramma_eindterm_id": [
+			"7eb9719f-f4d6-49d3-9c6d-142a89facc9a"
+		],
+		"title": "De kandidaat kan bij moreel oordelen over het verleden (door een ander) anachronistisch toepassen van het kader van waarden en normen (van die ander) op het verleden herkennen.",
+		"id": "c03cfa31-28bc-4e1e-b92b-1ed3a6fa719e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"86969cc7-830a-4b8f-93d8-0238572b42c5"
+		],
+		"title": "Historische context: Het Britse rijk 1585 - 1900",
+		"id": "60cc3b7d-9511-4129-98de-ef78a1b4a501",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinB/2",
+		"examenprogramma_domein_id": [
+			"86969cc7-830a-4b8f-93d8-0238572b42c5"
+		],
+		"title": "Historische context: Duitsland in Europa 1918 - 1991",
+		"id": "32a2088b-103f-4e05-9b8c-c683b09bfc5e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/H/DomeinB/3",
+		"examenprogramma_domein_id": [
+			"86969cc7-830a-4b8f-93d8-0238572b42c5"
+		],
+		"title": "Historische context: Nederland 1948 - 2008",
+		"id": "2a7afc16-6ace-4eef-8330-46b8b082320f",
+		"unreleased": true
 	}
 ]
