@@ -126,7 +126,7 @@
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
 					]
 				}
-			}
+			},
 			"required": ["id", "title", "examenprogramma_id", "syllabus_specifieke_eindterm_id"]
 		},
         "allEntities" : {
@@ -147,10 +147,10 @@
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {"itemTypeReference": "#/definitions/syllabus_vakbegrip" }
                 },
-				"syllabus_vakleergebied_id" : {
-					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
-					"items": {"itemTypeReference": "#/definitions/syllabus_vakleergebied" }
-				}
+                "syllabus_vakleergebied_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+                    "items": {"itemTypeReference": "#/definitions/syllabus_vakleergebied" }
+                }
             }
         }
 	},
