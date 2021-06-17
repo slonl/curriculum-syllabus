@@ -78,6 +78,18 @@
 				}
 			}
 		},
+		"syllabus_vakleergebied": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"vakleergebied_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied" } }
+					]
+				}
+			},
+			"required": [ "id", "title", "vakleergebied_id" ]			
+		},
 		"syllabus" : {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties" : {
@@ -88,6 +100,12 @@
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma" } }
+					]
+				},
+				"syllabus_vakleergebied_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakleergebied" } }
 					]
 				},
 				"syllabus_specifieke_eindterm_id": {
@@ -109,6 +127,7 @@
 					]
 				}
 			}
+			"required": ["id", "title", "examenprogramma_id", "syllabus_specifieke_eindterm_id"]
 		},
         "allEntities" : {
             "properties" : {
@@ -127,7 +146,11 @@
                 "syllabus_vakbegrip_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {"itemTypeReference": "#/definitions/syllabus_vakbegrip" }
-                }
+                },
+				"syllabus_vakleergebied_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {"itemTypeReference": "#/definitions/syllabus_vakleergebied" }
+				}
             }
         }
 	},
@@ -154,6 +177,13 @@
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/syllabus_vakbegrip"
+			}
+		},
+		"syllabus_vakleergebied": {
+			"#file": "data/vakleergebieden.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/syllabus_vakleergebied"
 			}
 		},
 		"syllabus" : {
