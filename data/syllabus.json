@@ -4848,8 +4848,10 @@
 			"9aa05d8b-8a68-4454-999b-523331238436",
 			"f640bcc9-3d57-4a15-98ba-4a9069fa56b1"
 		],
-		"title": "Syllabus  maatschappijkunde vmbo",
+		"title": "Syllabus  maatschappijkunde vmbo bb",
 		"id": "80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	}
 ]
