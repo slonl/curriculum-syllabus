@@ -38851,5 +38851,395 @@
 		"title": "Historische context: Verlichtingsideeën en de democratische revoluties 1650-1848.",
 		"id": "d60ea108-18f3-4acd-b1ec-f8bddf1db09f",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"402ea6ae-7345-43df-ae2c-af0707af505e"
+		],
+		"title": "De kandidaat kan informatie verwerven en daarbij gebruikmaken van verschillende informatiebronnen",
+		"id": "49b9fccf-246e-46ec-bcd3-95bd29702945",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.1a",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan zelf verzamelde of aangereikte informatie over maatschappelijke verschijnselen/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis uit aangereikte informatiebronnen relevante gegevens selecteren. Er wordt uitgegaan van verschillende informatiebronnen zoals teksten, beelden,\r\ncijfers, eenvoudig statistisch materiaal.",
+		"id": "bc97cb26-fb12-471e-b6b4-db63fca3a883",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.1b",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan zelf verzamelde of aangereikte informatie over maatschappelijke verschijnselen/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis gegevens ordenen, vergelijken en zo nodig bewerken in de vorm van het maken van een schema, brief/ verhaaltje (zie ook standpunt formuleren). Er wordt uitgegaan van verschillende informatiebronnen zoals teksten, beelden, cijfers, eenvoudig statistisch materiaal.",
+		"id": "1c316f6e-1da9-4363-8e55-328af360d790",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.1c",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan zelf verzamelde of aangereikte informatie over maatschappelijke verschijnselen/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis aangereikte informatie begrijpen met behulp van vakinhoudelijke kennis. Er wordt uitgegaan van verschillende informatiebronnen zoals teksten, beelden, cijfers, eenvoudig statistisch materiaal.",
+		"id": "b85de5c6-42a8-4677-b6ac-edeaf6c496e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.1a",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de principes en procedures van de benaderingswijze van het vak maatschappijkunde herkennen in een tekst over een maatschappelijk vraagstuk of verschijnsel wat vindt, wat doet de overheid? Welke regelgeving/ wetten bestaat/bestaan er?",
+		"id": "8ae87649-2c09-4239-bc9e-956e04dc3755",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.1b",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de principes en procedures van de benaderingswijze van het vak maatschappijkunde herkennen in een tekst over een maatschappelijk vraagstuk of verschijnsel welke groeperingen hebben er belang bij?",
+		"id": "2efcb82c-80b9-4bb9-af30-84e258847e77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.1c",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de principes en procedures van de benaderingswijze van het vak maatschappijkunde herkennen in een tekst over een maatschappelijk vraagstuk of verschijnsel wat vinden mensen/ groepering ervan? Welke waarden en normen hebben de\r\nverschillende groeperingen?",
+		"id": "69a414a1-00ee-42d6-a964-9b03dd37033b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.1d",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de principes en procedures van de benaderingswijze van het vak maatschappijkunde herkennen in een tekst over een maatschappelijk vraagstuk of verschijnsel hoe werd er vroeger en in andere samenlevingen over het vraagstuk gedacht?",
+		"id": "f9f60244-62a3-40ce-b24a-1bf3b0913fe5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3d.1",
+		"examenprogramma_eindterm_id": [
+			"9f45decd-029c-405a-899a-fff6a0166a02"
+		],
+		"title": "De kandidaat kan een standpunt innemen met betrekking tot een concreet maatschappelijk vraagstuk en hier argumenten voor geven.",
+		"id": "c2c45f77-2481-4c00-9938-dc5b3be43946",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.1",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "Kenmerken van een parlementaire democratie",
+		"id": "c238957c-4e90-4c1d-b172-fe59f27321bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.4",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "Verschillen tussen een democratische rechtsstaat en een dictatoriaal politiek systeem.",
+		"id": "52058552-b0ff-48f9-a1fd-911be4f02e90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "Taken van regering en parlement",
+		"id": "706dcf0e-593e-4cde-bf1d-842fde326e9e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De rol die de overheid speelt op de verschillende terreinen.",
+		"id": "721f0aa9-7563-492b-adaf-6674ce04b938",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "Nederland is een monarchie",
+		"id": "55e93f8e-186b-424f-b63f-201abcf95b8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.1",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "Fasen in het proces van politieke besluitvorming.",
+		"id": "4acd3b43-b3ad-48c6-bb48-7498ee89f8a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.2",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "politiek probleem en politieke agenda:",
+		"id": "d3c5ed16-356a-4f51-a88c-eb33f58e6c4b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.3",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "compromissen",
+		"id": "eb8e0110-cb09-4ef7-9ae9-294ab9479561",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.4",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "rol van regering en parlement",
+		"id": "68fa7ee8-9e2d-4826-80a1-650ebcce4976",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.6",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "de gemeente en het gemeentebestuur",
+		"id": "2a5d4d2c-b3ff-4622-85bf-5bccbc48a4b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.9",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "kenmerken en rol van politieke partijen",
+		"id": "4489546d-19d8-4c32-a287-4aaeda305cf1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5b.2.10",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "Nederland en de Europese Unie (EU)",
+		"id": "dd3469bf-7e9b-49da-9b43-df88ec104572",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5c.3.1",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "mogelijkheden individuele burgers",
+		"id": "beb3e269-359f-4cc9-9cf6-bcee5a6fec8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5c.3.2",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "kenmerken van belangen- of pressiegroepen",
+		"id": "19ca9e08-cd16-460d-9e76-e74a1780204c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5d.4.1",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "de liberale stroming en partijen",
+		"id": "d6826e42-4369-4df2-aa92-12e53d21e989",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5d.4.2",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "de sociaaldemocratische/ socialistische stroming en partijen:",
+		"id": "5fd2aece-a8e1-48f5-bfb0-1b64e8d53365",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5d.4.3",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "de christendemocratische stroming en partijen",
+		"id": "1673cd79-89b9-4ed0-aca7-271f0e10c4c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/4/5d.4.4",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "de rechtsextremistische stroming",
+		"id": "2c02c822-98da-412f-96ed-62a6c7425bea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13a.1.1",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "criminaliteit als sociaal en politiek probleem",
+		"id": "a4fd4fed-fa37-4263-bf22-41f1a2acdbc3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13a.1.2",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "veranderingen in opvattingen over rechtsregels",
+		"id": "58b8deb5-eb74-4ee2-b576-f64d08079c5d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13b.2.1",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "kenmerken van de rechtsstaat",
+		"id": "b3127e01-100b-490a-a191-26bbdf8620de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13b.2.2",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "uitgangspunten in het strafrecht en in het strafproces",
+		"id": "c6771a7c-8694-42dd-b1bb-9c19664fdc77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13b.2.3",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "de rechtspraak in de Nederlandse rechtsstaat",
+		"id": "3d8ace30-2c5e-473e-8b7e-010b829747f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13c.3.1",
+		"examenprogramma_eindterm_id": [
+			"4bb9ce5a-ed4b-4575-952d-73f1a2b9e9e6"
+		],
+		"title": "oorzaken (veel voorkomende) criminaliteit:",
+		"id": "e4c9d519-4e04-407c-a26f-83f482b39449",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13c.3.3",
+		"examenprogramma_eindterm_id": [
+			"4bb9ce5a-ed4b-4575-952d-73f1a2b9e9e6"
+		],
+		"title": "vertegenwoordiging van maatschappelijke groepen bij bepaalde vormen van criminaliteit",
+		"id": "8a83e919-9466-42e2-8727-db585d7fb814",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13d.4.1",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"title": "overheidsorganen",
+		"id": "b0f52319-2101-40b4-9dc5-aa0377f10d0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13d.4.2",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"title": "beleidsmaatregelen",
+		"id": "94c45d24-466a-4630-92ab-a5dd001d4d6d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13d.4.3",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"title": "maatregelen beoordelen op effectiviteit en wenselijkheid",
+		"id": "8d651100-170d-4005-9ea7-b8caca5b5e2a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13e.5.1",
+		"examenprogramma_eindterm_id": [
+			"d119ed24-2008-4b72-8fbc-e02297813a43"
+		],
+		"title": "Doelen van sancties/ straffen zijn",
+		"id": "9aa05d8b-8a68-4454-999b-523331238436",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML/2/K/8/13e.5.2",
+		"examenprogramma_eindterm_id": [
+			"d119ed24-2008-4b72-8fbc-e02297813a43"
+		],
+		"title": "Soorten straffen en maatregelen",
+		"id": "f640bcc9-3d57-4a15-98ba-4a9069fa56b1",
+		"unreleased": true
 	}
 ]
