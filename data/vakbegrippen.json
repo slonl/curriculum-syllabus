@@ -3117,5 +3117,533 @@
 		"title": "bridge, couplet/verse, intro/inleiding/voorspel, naspel/coda, prechorus, refreind/chorus, tussenspel, rondo en rondorefrein, vormschema (letterschema zo nodig met accenten), vrije vorm",
 		"id": "0a3b09fa-b51b-4e55-8daf-314916be9717",
 		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/bb",
+		"title": "monarchie/republiek, democratie/dictatuur, grondwet, scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: Beide kamers: recht van begroting en enquête. Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
+		"id": "03a47a5f-93c2-46ad-aa5b-6607e65655d9",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/kb",
+		"title": "monarchie/republiek, democratie/dictatuur, grondwet, scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie, Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
+		"id": "debb93fa-50c5-4474-b5cf-ee54fb66b75d",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/gt",
+		"title": "monarchie/republiek, democratie/dictatuur, grondwet/constitutie, scheiding tussen de wetgevende/de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie/ Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
+		"id": "1fc26a72-54c6-42f0-832e-cde3441594b1",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.2/bb",
+		"title": "Klassieke grondrechten (bescherming tegen de overheid): vrijheid van godsdienst/vrijheid van meningsuiting/vrijheid van drukpers/vrijheid van vereniging en vergadering/vrijheid van onderwijs, Sociale grondrechten (bescherming door de overheid): recht op bestaanszekerheid/recht op onderwijs/recht op gezondheidszorg/recht op woongelegenheid/recht op werk/recht op rechtsbijstand",
+		"id": "98205aef-e652-41cb-8f0d-1f83b1344010",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.2/kgt",
+		"title": "Klassieke grondrechten (bescherming tegen de overheid): vrijheid van godsdienst/vrijheid van meningsuiting/vrijheid van drukpers/vrijheid van vereniging en vergadering/vrijheid van onderwijs, Sociale grondrechten (bescherming door de overheid): recht op bestaanszekerheid/recht op onderwijs/recht op gezondheidszorg/recht op woongelegenheid/recht op bewoonbaarheid van het land/recht op werk/recht op rechtsbijstand",
+		"id": "b61194c7-97dc-450a-8468-1ccf67b94c76",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.3/bb",
+		"title": "Reactie van Willem II op revolutie(dreigingen) elders in Europa / opvattingen van liberalen bij grondwetsherziening in 1848",
+		"id": "c03a666c-e8ed-4c81-93c5-7f6431d62d1a",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.3/kgt",
+		"title": "Reactie van Willem II op revolutie(dreigingen) elders in Europa / opvattingen van liberalen bij grondwetsherziening in 1848",
+		"id": "e500d64f-0a8e-422f-8325-9ba10b8af18b",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.3/gt",
+		"title": "Conflict tussen Willem III en het parlement als gevolg van de Luxemburgse kwestie (1866-1867).",
+		"id": "ced134cd-7d4a-4078-959c-a2bf5aacdaea",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.4/bb",
+		"title": "sociaal-economische veranderingen: beginnende industrialisatie / kinderarbeid /sociale wetgeving",
+		"id": "91c06ee1-1bc7-4e52-a07b-5203c0e47f31",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.4/kb",
+		"title": "sociaal-economische veranderingen: beginnende industrialisatie / kinderarbeid /sociale wetgeving",
+		"id": "d8346861-ae79-4951-826f-89d129befe94",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.4/gt",
+		"title": "sociaal-economische veranderingen: beginnende industrialisatie / modern-imperialisme (grondstoffen en afzetmarkten) / verstedelijking/ kinderarbeid /sociale kwestie / van liefdadigheid naar sociale wetgeving (zoals Armenwet, Kinderwetje van Van Houten, ongevallenwet, Woningwet)",
+		"id": "6b2be9f0-3d2f-45fa-852b-e5a8df7afb3d",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.5/bb",
+		"title": "parlementaire democatie, Klassieke grondrechten (bescherming tegen de overheid): naast vrijheid van godsdienst / vrijheid van meningsuiting en vrijheid van drukpers in 1848 ook recht van vereniging en vergadering / vrijheid van onderwijs, nieuwe rechten voor Tweede Kamer: recht van amendement / recht van enquête, beperking macht koning/uitbreiding macht parlement/ministeriële verantwoordelijkheid, rechtstreekse verkiezingen op lokaal (gementeraad), provinciaal (Provinciale Staten) en landelijk niveau (Tweede Kamer)/censuskiesrecht",
+		"id": "9697c07f-e0d5-40d5-8302-a68b2123a8ce",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.5/kb",
+		"title": "parlementaire democatie, Klassieke grondrechten (bescherming tegen de overheid): naast vrijheid van godsdienst / vrijheid van meningsuiting en vrijheid van drukpers in 1848 ook recht van vereniging en vergadering / vrijheid van onderwijs, nieuwe rechten voor Tweede Kamer: recht van amendement / recht van enquête, beperking macht koning/uitbreiding macht parlement/ministeriële verantwoordelijkheid, rechtstreekse verkiezingen op lokaal (gementeraad), provinciaal (Provinciale Staten) en landelijk niveau (Tweede Kamer)/censuskiesrecht/indirecte verkiezing Eerste Kamer door de Provinciale Staten",
+		"id": "240ffca9-7922-45b8-96a3-d4faddab10ac",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.5/gt",
+		"title": "parlementaire democatie, Klassieke grondrechten (bescherming tegen de overheid): naast vrijheid van godsdienst / vrijheid van meningsuiting en vrijheid van drukpers in 1848 ook recht van vereniging en vergadering / vrijheid van onderwijs, nieuwe rechten voor Tweede Kamer: recht van amendement / recht van enquête, beperking macht koning/uitbreiding macht parlement/ministeriële verantwoordelijkheid/ onschedbaarheid van de koning, rechtstreekse verkiezingen op lokaal (gementeraad), provinciaal (Provinciale Staten) en landelijk niveau (Tweede Kamer)/censuskiesrecht/indirecte verkiezing Eerste Kamer door de Provinciale Staten",
+		"id": "f7eb44ad-b874-4a5d-adca-99a6349ea2e1",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.7/bb",
+		"title": "liberalen / Liberale Unie / hogere burgerij / rol in grondwetsherziening 1848 / houding t.o.v. overheidsbemoeienis, socialisten / Sociaal-Democratische Arbeiders Partij (SDAP) / arbeiders / verbetering sociaal-economische positie / houding t.o.v. overheidsbemoeienis, protestanten / Anti-Revolutionaire Partij (ARP) / kleine luyden / confessionelen / christelijk denken in wetgeving, rooms-katholieken / Rooms-Katholieke Staatspartij (RKSP) / confessionelen / emancipatie, feministen, streven naar uitbreiding van kiesrecht/algemeen kiesrecht, koning Willem II, koning Willem III, koningin Wilhelmina, (Rudolf) Thorbecke, Aletta Jacobs, (Abraham) Kuyper, (Herman) Schaepman, (Pieter Jelles) Troelstra, 1848",
+		"id": "fdffadd0-6664-4142-9666-b6f9a6039068",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.7/kb",
+		"title": "liberalen / Liberale Unie / hogere burgerij / rol in grondwetsherziening 1848 / houding t.o.v. overheidsbemoeienis, socialisten / Sociaal-Democratische Arbeiders Partij (SDAP) / arbeiders / verbetering sociaal-economische positie / houding t.o.v. overheidsbemoeienis, protestanten / Anti-Revolutionaire Partij (ARP) / kleine luyden / confessionelen / christelijk denken in wetgeving, rooms-katholieken / Rooms-Katholieke Staatspartij (RKSP) / confessionelen / emancipatie, ontstaan van de verzuiling in partijen/media/onderwijs/verenigingsleven/vakbonden, feministen/Vrije Vrouwenvereniging/Vereniging voor Vrouwenkiesrecht/Eerst Feministische Golf, streven naar uitbreiding van kiesrecht/algemeen kiesrecht, koning Willem II, koning Willem III, koningin Wilhelmina, (Rudolf) Thorbecke, Aletta Jacobs, Wilhelmina Drucker,  (Abraham) Kuyper, (Herman) Schaepman, (Pieter Jelles) Troelstra, 1848",
+		"id": "d12657d5-f712-4f15-8b0b-f5451d947c5e",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.7/gt",
+		"title": "liberalen / Liberale Unie / hogere burgerij / rol in grondwetsherziening 1848 / houding t.o.v. overheidsbemoeienis, socialisten / Sociaal-Democratische Arbeiders Partij (SDAP) / arbeiders / verbetering sociaal-economische positie / houding t.o.v. overheidsbemoeienis, protestanten / Anti-Revolutionaire Partij (ARP) / kleine luyden / confessionelen / christelijk denken in wetgeving, rooms-katholieken / Rooms-Katholieke Staatspartij (RKSP) / confessionelen / emancipatie, ontstaan van de verzuiling in partijen/media/onderwijs/verenigingsleven/vakbonden, feministen/Vrije Vrouwenvereniging/Vereniging voor Vrouwenkiesrecht/Eerst Feministische Golf, streven naar uitbreiding van kiesrecht/algemeen kiesrecht/ geleidelijke uitbreiding van het kiesrecht: Caoutchouc-artikel (1887), koning Willem II, koning Willem III, koningin Wilhelmina, (Rudolf) Thorbecke, Aletta Jacobs, Wilhelmina Drucker,  (Abraham) Kuyper, (Herman) Schaepman, (Pieter Jelles) Troelstra, 1848, 1887",
+		"id": "8f0b5adc-b44e-42d8-8a43-35e118d63635",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.8/bb",
+		"title": "oorzaken: neutraliteit / mobilisatie / schaarste aan goederen / distributiesysteem met bonkaarten / opvang Belgische vluchtelingen/  dodendraad",
+		"id": "80d9789c-b355-4b4b-adee-f0a1293469fe",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.8/kgt",
+		"title": "oorzaken: neutraliteit / mobilisatie / schaarste aan goederen / handelsbelemmeringen /distributiesysteem met bonkaarten / opvang Belgische vluchtelingen/  dodendraad",
+		"id": "f62593ad-1303-47fe-9edd-ca9c915740aa",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.9/bb",
+		"title": "Grondwet van 1917: algemeen kiesrecht (actief en passief kiesrecht voor mannen / vrouwen alleen passief kiesrecht) / stelsel van evenredige vertegenwoordiging, 1917",
+		"id": "ede1f099-7675-4e47-9501-ec3492cc133a",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.9/kgt",
+		"title": "oorzaken: Pacificatie (1917): einde schoolstrijd/financiële gelijkstelling van openbaar en bijzonder onderwijs, aanleiding: Grondwet van 1917: algemeen kiesrecht (actief en passief kiesrecht voor mannen / vrouwen alleen passief kiesrecht) / de vervanging van het districtenstelsel door een stelsel van everedige vertegenwoordiging (voordelen en nadelen van beide systemen) verloop: revolutiepoging Troelstra (1918), (Pieter Jelles) Troelstra, 1917, 1918",
+		"id": "0d4bf4c4-87c1-4ebc-b51e-e622d1de96f6",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.10/bb",
+		"title": "crisistijd / werkloosheid / stempelen / werkverschaffingsprojecten / aanpassingspolitiek / gevolg van de economische crisis voor de democratie / opkomst van de NSB / handhaving neutraliteit, (Hendrik) Colijn, (Anton) Mussert",
+		"id": "c894b78a-09bc-4d0c-a671-d115848e955b",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.10/kgt",
+		"title": "crisistijd / werkloosheid / stempelen / werkverschaffingsprojecten / aanpassingspolitiek / gevolg van de economische crisis voor de democratie / opkomst van de NSB / handhaving neutraliteit, (Hendrik) Colijn, (Anton) Mussert",
+		"id": "c14c3d5d-9206-4b51-9d4d-d682bae1ac0e",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.11/bb",
+		"title": "algemeen actief kiesrecht voor vrouwen (1919), 1919",
+		"id": "e6602b9b-e113-4495-af8e-39593f0861d3",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.11/kgt",
+		"title": "algemeen actief kiesrecht voor vrouwen (1919), 1919",
+		"id": "2c56a555-1f1e-41fe-888f-560f24adf563",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.12/bb",
+		"title": "begin: mobilisatie / Duitse inval (10 mei 1940) / bombardement op Rotterdam / capitulatie, verloop: bezetting / Nederlandse regering en koningshuis in ballingschap, kenmerken: NSB / Jodenvervolging / Februaristaking (1941) / deportaties\r\n(via doorgangskamp Westerbork naar vernietigingskampen zoals Auschwitz) / collaboratie / aanpassing en verzet / ‘goed en fout’/landverraders / censuur / gedwongen tewerkstelling / razzia’s/onderduiken / persoonsbewijzen / overleven in bezettingstijd / distributiesysteem met bonkaarten / Hongerwinter, afloop: slag om Arnhem (1944) / bevrijding van Nederland (5 mei 1945), Jaarlijkse herdenkingen: 4 mei dodenherdenking / 5 mei Dag van de Vrijheid, Anne Frank, koningin Wilhelmina, 10 mei 1940, 1941, 1944, 5 mei 1945",
+		"id": "9445a2d4-55a9-47ba-bb1f-86f3cbe0c22c",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.12/kgt",
+		"title": "begin: mobilisatie / Duitse inval (10 mei 1940) / bombardement op Rotterdam / capitulatie, verloop: bezetting / Nederlandse regering en koningshuis in ballingschap, kenmerken: NSB / Jodenvervolging / Februaristaking (1941) / deportaties (via doorgangskamp Westerbork naar vernietigingskampen zoals Auschwitz) / collaboratie / aanpassing en verzet / ‘goed en fout’/landverraders / censuur / gedwongen tewerkstelling / razzia’s/onderduiken / persoonsbewijzen / overleven in bezettingstijd / distributiesysteem met bonkaarten / spoorwegstaking (1944) /Hongerwinter, afloop: operatie Market Garden/ slag om Arnhem (1944) / bevrijding van Nederland (5 mei 1945), Jaarlijkse herdenkingen: 4 mei dodenherdenking / 5 mei Dag van de Vrijheid, Anne Frank, koningin Wilhelmina, 10 mei 1940, 1941, 1944, 5 mei 1945",
+		"id": "11ff2afa-a77f-4e5f-8d31-980307e41b5f",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.19/gt",
+		"title": "1942: Japanse bezetting van de Nederlandse kolonie Indonesië / kampen / dwangarbeid / Indonesisch nationalisme, afloop: operatie Market Garden / slag om Arnhem (1944) /bevrijding van Nederland (5 mei 1945) / bevrijding van Indonesië (15 augustus 1945), Soekarno, 1942",
+		"id": "37874404-e3ed-48d0-9205-c67da579b17f",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.13/bb",
+		"title": "economische veranderingen: Marshallplan / economische groei en welvaartsstijging / consumptiemaatschappij / opbouw verzorgingsstaat, sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren zestig: amerikanisering /gastarbeid(ers) /jongerencultuur / ontzuiling / belang\r\nvan televisie / Tweede Feministische Golf",
+		"id": "7e816279-ebae-4591-b9b5-d1145f0c5daa",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.13/kgt",
+		"title": "economische veranderingen: Wederopbouw / emigratie/ Marshallplan / economische groei en welvaartsstijging / consumptiemaatschappij / opbouw verzorgingsstaat/ werkloosheid in jaren tachtig, sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren zestig: amerikanisering /gastarbeid(ers) / migranten (uit voormalige Nederlandse koloniën)/ jongerencultuur / ontzuiling / belang van televisie / Tweede Feministische Golf / toenemende democratisering / inspraak, (Willem) Drees",
+		"id": "28a75fb6-af75-4c07-ab52-6c84e009c273",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.20/gt",
+		"title": "dekolonisatie van Indonesië: Soekarno roept de onafhankelijke Republiek Indonesië uit (17 augustus 1945) / politionele acties (1947 en 1948) / druk van de Verenigde Naties en de Verenigde Staten / soevereiniteitsoverdracht (1949), Soekarno, 1945, 1947, 1948, 1949",
+		"id": "3648f8f5-2286-4060-8726-63d667ca9f85",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.14/bb",
+		"title": "recht op onderwijs/ recht op gezondheidszorg / recht op woongelegenheid, 1983",
+		"id": "6e5b18c4-026f-42a6-ae30-0775052cb9d1",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.14/kgt",
+		"title": "grondwetswijziging 1983: opnemen van sociale grondrechten (bescherming door de overheid): recht op bestaanszekerheid / recht op onderwijs / recht op gezondheidszorg / recht op woongelegenheid / recht op bewoonbaarheid van het land / recht op werk / recht op rechtsbijstand, 1983",
+		"id": "2050c90b-2818-42c0-8724-0ba86cd12bde",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.15/bb",
+		"title": "economische groei in jaren negentig /individualisering, invoering van de euro (2002), invloed op het dagelijks leven als gevolg van de voortgaande Europese samenwerking, 2002",
+		"id": "bd41e869-c2b7-44b7-a591-004cbd1af2a5",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.15/kgt",
+		"title": "economische groei in jaren negentig /poldermodel (overlegeconomie)/ de verzorgingsstaat ter discussie / bezorgdheid over nationale cultuur (identiteit)/ multiculturele samenleving / secularisatie / individualisering / nieuwe media / globalisering",
+		"id": "e94714b7-6f10-4c65-871e-68f107a90117",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.18/kgt",
+		"title": "de Nederlandse autonomie onder druk door de verandering van EG naar EU (1993) en de invoering van de euro (2002): discussie over richting EU: Europa een verzameling van nationale staten of een Verenigde Staten van Europa?, democratisch tekort: relatie Europees Parlement /Europese Commissie / Raad van Ministers, invloed op het dagelijks leven als gevolg van de voortgaande Europese samenwerking, 1993, 2002",
+		"id": "cfe523a2-af12-4b82-8a87-05e5129956ee",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.16/bb",
+		"title": "referendum",
+		"id": "d7d9f4ec-2346-4855-a477-fa6be1bc684e",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.16/kb",
+		"title": "referendum",
+		"id": "8bebf765-e419-4da7-87f3-d4218997cc42",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.16/gt",
+		"title": "referendum/opkomst van het populisme, (Pim) Fortuyn",
+		"id": "aa2d6db6-b3f4-4aad-8726-c078d724cda7",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.2/bb",
+		"title": "oorzaken: militarisme/ nationalisme/ industrialisatie/ moderne (wapen)technieken/ bondgenootschappen, aanleiding: moord op kroonprins Frans Ferdinand van Oostenrijk-Hongarije en Sarajevo, verloop: aanvankelijk enthousiasme/loopgravenoorlog in Noord-Frankrijk en België, kenmerken: 'moderne' wapens en soort oorlogvoering/omvang en massaliteit/veel slachtoffers (vooral soldaten)/ propaganda, afloop: wapenstilstand",
+		"id": "5e42e26c-4c4b-4d28-8abd-b9813be77c34",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.2/kgt",
+		"title": "oorzaken: militarisme/nationalisme/modern imperialisme / industrialisatie/ moderne (wapen)technieken/ wapenwedloop / bondgenootschappen/ vijandbeelden, aanleiding: moord op kroonprins Frans Ferdinand van Oostenrijk-Hongarije door Gavrilo Princip in Sarajevo, verloop: aanvankelijk enthousiasme/ vrijwilligers / Von Schlieffenplan/ loopgravenoorlog in Noord-Frankrijk en België, kenmerken: 'moderne' wapens en soort oorlogvoering/ omvang en massaliteit/ veel slachtoffers (vooral soldaten)/ propaganda/ censuur / totale oorlog/ gevolgen voor het dagelijks leven, , afloop: wapenstilstand",
+		"id": "97df460d-382d-4ab6-acb1-9d6d8dbfb81d",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.3/bb",
+		"title": "Centralen: Duitsland/Oostenrijk-Hongarije en het Turkse Rijk, Geallieerden: Frankrijk/Groot-Brittannië/Rusland (tot 1917) en de Verenigde Staten (vanaf 1917), Frans Ferdinand, 1914, 1917, 1918",
+		"id": "8194c519-4135-4bbe-bb04-0e9aee783353",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.3/kgt",
+		"title": "Centralen: Duitsland/Oostenrijk-Hongarije en het Turkse Rijk, Geallieerden: Frankrijk/Groot-Brittannië/Rusland (tot 1917: val van de tsaar en uitbreken Russische Revolutie) en de Verenigde Staten (vanaf 1917: onbeperkte duikbotenoorlog), Frans Ferdinand, Gavrilo Princip, 1914, 1917, 1918",
+		"id": "1a9c400c-c0a8-4917-852a-a7590ef2aa49",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.5/bb",
+		"title": "Verdrag van Versailles/ strafbepalingen voor Duitsland zoals herstelbetalingen/ gebiedsafstand",
+		"id": "d1864fe3-f465-4a5e-8246-39dc86523fc1",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.5/kgt",
+		"title": "Verdrag van Versailles/ strafbepalingen voor Duitsland zoals herstelbetalingen/ gebiedsafstand/ demilitarisatie en ontstaan van nieuwe staten/ oprichting van de Volkenbond",
+		"id": "c6e2c7f8-d3c3-4620-a44d-656a09c6223f",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.6/bb",
+		"title": "parlementaire democratie/ Republiek van Weimar/ Beurskrach op Wallstreet (1929)/  de wereldwijde economische crisis/ Duitsland extra zwaar getroffen",
+		"id": "273d103f-7def-455b-91b4-9e6c274f32a4",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.6/kb",
+		"title": "parlementaire democratie/ Republiek van Weimar/ inflatie/ Beurskrach op Wallstreet (1929)/  de wereldwijde economische crisis/ Duitsland extra zwaar getroffen",
+		"id": "60c5ea6a-b7e1-455b-9b48-177cef73d1d0",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.6/gt",
+		"title": "parlementaire democratie/ Republiek van Weimar/ Dolkstootlegende/ bezetting van het Ruhrgebied (1923)/ inflatie/ mislukte staatsgreep door Hilter (1923)/ opleven van de economie in Duitsland (Dawesplan, 1924)/ Duitsland lid van de Volkenbond (1926)/ Beurskrach op Wallstreet (1929)/  de wereldwijde economische crisis/ Duitsland extra zwaar getroffen",
+		"id": "7bb66e91-723a-4c78-b04c-a3d1e3c6e9d8",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.7/bb",
+		"title": "kenmerken van het nationaal-socialisme in Duitsland/ machtsovername (1933)/ afschaffing parlementaire democratie/ dictatuur/ Führer (principe)/ terreur/ censuur/ propaganda/ vervolging van tegenstanders/ geheime politie/ persoonsverheerlijking/ herbewapening/ antisemitisme/ discriminerende maatregelen/ rassenleer/ vervolging van ‘niet-arische’ bevolkingsgroepen en van politieke tegenstanders/ concentratiekampen, Hitler, 1929, 1933",
+		"id": "9dcd7e23-212c-4aa7-bc21-973a8328dadc",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.7/kb",
+		"title": "kenmerken van het nationaal-socialisme in Duitsland/ machtsovername (1933)/ afschaffing parlementaire democratie/ dictatuur/ Führer (principe)/ terreur/ gelijkschakeling/ totalitair/ censuur/ propaganda/ indoctrinatie/ vervolging van tegenstanders/ geheime politie/ persoonsverheerlijking/ herbewapening/ gebruik van bestaande antisemitisme/ rassenleer/ rassenwetten/ discriminerende maatregelen/ Kristallnacht (1938)/ vervolging van ‘niet-arische’ bevolkingsgroepen en van politieke tegenstanders/ concentratiekampen/ Hitler, 1929, 1933, 1938",
+		"id": "dd7cc178-d227-42f9-9d6f-dc4fcab35d53",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.7/gt",
+		"title": "kenmerken van het nationaal-socialisme in Duitsland en overeenkomsten en verschil met het fascisme in Italië/ machtsovername (1933)/ afschaffing parlementaire democratie/ dictatuur/ Führer (principe)/ terreur/ gelijkschakeling/ totalitair/ censuur/ propaganda/ indoctrinatie/ vervolging van tegenstanders/ geheime politie/ persoonsverheerlijking/ herbewapening/ gebruik van bestaande antisemitisme/ rassenleer/ rassenwetten/ discriminerende maatregelen/ Kristallnacht (1938)/ vervolging van ‘niet-arische’ bevolkingsgroepen en van politieke tegenstanders/ concentratiekampen/ naziorganisaties: NSDAP-SA-SS-Gestapo-Hitlerjugend-Bund Deutscher Mädel, Buitenlandse politiek: Lebensraum / Heim ins Reich /conferentie van München (1938) / Appeasementpolitiek /Anschluss (1938) / niet-aanvalsverdrag (1939), Hitler, Mussolini, 1923, 1924, 1926, 1929, 1933, 1938, 1939",
+		"id": "0ff07c1b-834f-4389-b0a9-8a0ad540ace9",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.18/gt",
+		"title": "communisme / rol communistische partij in de SovjetUnie / planeconomie / vijfjarenplan / collectivisatie / kenmerken van stalinisme: totalitair / persoonsverheerlijking / indoctrinatie / censuur / propaganda / terreur / geheime politie / vervolging van tegenstanders /showprocessen / strafkampen / zuiveringen, Lenin, Stalin",
+		"id": "acbdaef8-3892-4801-ae11-ea0e2375089e",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.9/bb",
+		"title": "oorzaken: onvrede over armoede / werkloosheid en de bepalingen van het Verdrag van Versailles,  begin: inval van Duitsland in Polen (1939), verloop: Blitzkrieg / oorlog in Azië: Pearl Harbor (1941) / keerpunt: slag bij Stalingrad (1942-1943), D-Day (6-6-1944), kenmerken: 'moderne’ wapens en soort oorlogvoering / totale oorlog / veel slachtoffers / bombardementen op steden / propaganda / Holocaust / gaskamers, afloop: Duitse overgave (mei 1945) / Japanse overgave na atoombommen op Hiroshima en Nagasaki (aug. 1945) / einde Tweede Wereldoorlog / ontdekking vernietigingskampen",
+		"id": "7c529de2-b676-4a04-9d08-7ec84bce6f52",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.9/kgt",
+		"title": "oorzaken: onvrede over armoede / werkloosheid en de bepalingen van het Verdrag van Versailles (wens tot revanche, meer grondgebied, herbewapening) versterken in Duitsland nationalistische gevoelens,  begin: inval van Duitsland in Polen (1939), verloop: Blitzkrieg / slag om Engeland/ Operatie Barbarossa (aanval op de Sovjet-Unie in 1941)/ oorlog in Azië: Pearl Harbor (1941) / keerpunt: slag bij Stalingrad (1942-1943), D-Day (6-6-1944)/ twee frontenoorlog, kenmerken: 'moderne’ wapens en soort oorlogvoering / totale oorlog / veel slachtoffers (veel meer burgerslachtoffers dan in Eerste Wereldoorlog)/ bombardementen op steden / propaganda / censuur/ massamoorden/ Holocaust / gaskamers, afloop: Duitse overgave (mei 1945) / Japanse overgave na atoombommen op Hiroshima en Nagasaki (aug. 1945) / einde Tweede Wereldoorlog / ontdekking vernietigingskampen",
+		"id": "85eb5fe7-4d59-4471-8cab-5d503e1725be",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.10/bb",
+		"title": "As-mogendheden: Duitsland, Italië en Japan, Geallieerden: Groot-Brittannië / Sovjet-Unie (vanaf 1941) / Verenigde Staten (vanaf 1941), Churchill, Roosevelt, Stalin, 1939, 1941, 1942-1943, 6-6-1944, 1945",
+		"id": "cd69b109-6fac-4513-b47d-89e0d601bf18",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.10/kgt",
+		"title": "As-mogendheden: Duitsland, Italië en Japan, Geallieerden: Groot-Brittannië / Sovjet-Unie (vanaf 1941) / Verenigde Staten (vanaf 1941), Churchill, Roosevelt, Stalin, 1939, 1941, 1942-1943, 6-6-1944, 1945",
+		"id": "873f66f0-3aae-43a0-89d9-84f43c47e7ca",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.17/kgt",
+		"title": "Europese mogendheden verzwakt/ dekolonisatie",
+		"id": "563c8785-5284-44b1-b2c2-782d2562578e",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.12/bb",
+		"title": "Koude Oorlog / invloedssferen / satellietstaten / IJzeren Gordijn / blokkade Berlijn / stichting BRD en DDR / oprichting NAVO en Warschaupact / kernwapens als afschrikking",
+		"id": "7a502942-c501-4b75-b2d8-c14e3c2336a5",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.12/kgt",
+		"title": "Koude Oorlog / invloedssferen / satellietstaten / IJzeren Gordijn / containment/ blokkade Berlijn / stichting BRD en DDR / oprichting NAVO en Warschaupact / ideologische tegenstelling tussen enerzijs kapitalisme en democratie / anderzijds communisme en dictatuur/ kernwapens als afschrikking",
+		"id": "4269092c-daeb-4c08-b113-d0dc29de63c0",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.13/bb",
+		"title": "Bouw Berlijnse Muur (1961) / Cubacrisis (1962) / wapenwedloop / val van de Berlijnse Muur (1989)",
+		"id": "ab5e7b1d-d5f9-4d15-8de4-442e61d5bfa2",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.13/kb",
+		"title": "Hongaarse opstand (1956)/ Bouw Berlijnse Muur (1961) / Cubacrisis (1962) / wapenwedloop / glasnost en perestrojka/ val van de Berlijnse Muur (1989)",
+		"id": "bba826d0-86c0-4dbf-a1ff-e0ff1e4cb44f",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.13/gt",
+		"title": "Hongaarse opstand (1956)/ Bouw Berlijnse Muur (1961) / Cubacrisis (1962) / Praagse lente (1968)/ wapenwedloop / glasnost en perestrojka/ val van de Berlijnse Muur (1989)",
+		"id": "7cd00b8e-8709-4002-8ba5-f309f3854cf2",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.14/bb",
+		"title": "Verenigde Naties, Veiligheidsraad, EGKS, (E)EG, Stalin, Kennedy, Chroesjtsjov, Reagan, Gorbatsjov, 1961, 1962, 1989",
+		"id": "d889c0d7-b7f1-4f35-8116-f6827311900e",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.14/kgt",
+		"title": "Verenigde Naties, Veiligheidsraad (samenstelling, vetorecht)/ motieven voor meer samenwerking in Europa EGKS/ (E)EG, Stalin, Kennedy, Chroesjtsjov, Reagan, Gorbatsjov, 1956, 1961, 1962, 1989",
+		"id": "8f7123bd-f8b0-4b64-be96-6ec67e0b311d",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.16/bb",
+		"title": "einde communistisch Oost-Europa, uiteenvallen van de Sovjet-Unie (1990-1991), einde Koude Oorlog, ontstaan van nieuwe staten, Duitse eenwording, internationaal terrorisme / 11-9-2001, 1990-1991, 11-9-2001",
+		"id": "9e75a19d-b077-484c-b505-2f2bde716988",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.16/kgt",
+		"title": "einde communistisch Oost-Europa/ uiteenvallen van de Sovjet-Unie (1990-1991)/  einde Koude Oorlog/ ontstaan van nieuwe staten/  Duitse eenwording/ herlevend nationalisme in Europa/ uitbreiding van de NAVO door samenwerking met voormalige tegenstanders uit Oost-Europa/ internationaal terrorisme / 11-9-2001, 1990-1991, 11-9-2001",
+		"id": "2d4e8a6e-c54d-4c76-9482-df52d070c64c",
+		"unreleased": true
 	}
 ]
