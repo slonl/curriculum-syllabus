@@ -39241,5 +39241,1028 @@
 		"title": "Soorten straffen en maatregelen",
 		"id": "f640bcc9-3d57-4a15-98ba-4a9069fa56b1",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.1/bb",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan verschillende typen historische vragen herkennen.",
+		"id": "27a3db66-502c-4b09-836a-7e6ee1a9f197",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.1/kgt",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan verschillende typen historische vragen herkennen en zo zelfstandig mogelijk formuleren.",
+		"id": "84fa7cda-08e8-47b8-af0c-8d159867df61",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.2/bb",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan bij gegeven historische vragen informatie verwerven.",
+		"id": "f1949798-89ff-4b18-8891-e00409760418",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.2/kgt",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan bij gegeven of zelf geformuleerde historische vragen informatie verwerven.",
+		"id": "833a2be9-13cf-4a4a-a9b6-08d79c9de453",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.3",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan verworven of aangereikte informatie verwerken.",
+		"id": "4bbc8e81-d4a8-4db6-9c29-d7f923b6005e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/K/3/3.4",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		],
+		"title": "De kandidaat kan principes en procedures die kenmerkend zijn voor de benaderingswijzen van het vak geschiedenis en staatsinrichting toepassen.",
+		"id": "dd68557f-2769-471a-987c-0d4953b183fa",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"03a47a5f-93c2-46ad-aa5b-6607e65655d9"
+		],
+		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen",
+		"id": "b6844d69-7716-43f3-bf28-1be55a999cbb",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/kb",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"debb93fa-50c5-4474-b5cf-ee54fb66b75d"
+		],
+		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen",
+		"id": "d05e17b6-939c-4b26-86ed-ce3366b62926",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.1/gt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"1fc26a72-54c6-42f0-832e-cde3441594b1"
+		],
+		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen en beschrijven.",
+		"id": "45f6912b-075b-4ef5-97f0-b3d5108743a8",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.2/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"98205aef-e652-41cb-8f0d-1f83b1344010"
+		],
+		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
+		"id": "676ed461-cfd0-48b7-859c-f3f429d09d57",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.2/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"b61194c7-97dc-450a-8468-1ccf67b94c76"
+		],
+		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
+		"id": "bd81d94d-b9a1-4b81-ad24-239a3b539786",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.3/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"c03a666c-e8ed-4c81-93c5-7f6431d62d1a"
+		],
+		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Nederland, voor tijdens en na 1848 herkennen en in het juiste tijdsgewricht plaatsen.",
+		"id": "c783f25a-dae7-42c1-9d53-d3159b79f719",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.3/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"e500d64f-0a8e-422f-8325-9ba10b8af18b",
+			"ced134cd-7d4a-4078-959c-a2bf5aacdaea"
+		],
+		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Nederland, voor tijdens en na 1848 herkennen, beschrijven en in het juiste tijdsgewricht plaatsen.",
+		"id": "988b34d3-4d72-47ef-89fc-3958a5e95e65",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.4/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"91c06ee1-1bc7-4e52-a07b-5203c0e47f31"
+		],
+		"title": "De kandidaat kan kenmerkende veranderingen, gebeurtenissen, personen en ontwikkelingen in Nederland ten tijde van de industrialisatie in de tweede helft van de negentiende eeuw noemen, herkennen.",
+		"id": "f579c3af-e520-4737-9ec2-52973c0f983e",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.4/kb",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"d8346861-ae79-4951-826f-89d129befe94",
+			"6b2be9f0-3d2f-45fa-852b-e5a8df7afb3d"
+		],
+		"title": "De kandidaat kan kenmerkende veranderingen, gebeurtenissen, personen en ontwikkelingen in Nederland ten tijde van de industrialisatie in de tweede helft van de negentiende eeuw noemen, herkennen, beschrijven en toepassen.",
+		"id": "d60169d9-9f0c-4aa7-a82d-abea55e7ffe7",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.5/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"9697c07f-e0d5-40d5-8302-a68b2123a8ce"
+		],
+		"title": "De kandidaat kan veranderingen herkennen in de bevoegdheden van parlement, volksvertegenwoordiging/ Staten-Generaal, Eerste en Tweede Kamer die in 1848 tot stand kwamen.",
+		"id": "720f312c-aecf-4dc6-8804-e2eee4341c5a",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.5/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"240ffca9-7922-45b8-96a3-d4faddab10ac",
+			"f7eb44ad-b874-4a5d-adca-99a6349ea2e1"
+		],
+		"title": "De kandidaat kan veranderingen herkennen en beschrijven in de bevoegdheden van parlement, volksvertegenwoordiging/ Staten-Generaal, Eerste en Tweede Kamer die in 1848 tot stand kwamen.",
+		"id": "bf3cd21a-a2ff-4905-9274-e1167d804b2d",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.6/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"title": "De kandidaat kan opvattingen van politieke en maatschappelijke organisaties van liberalen, socialisten, confessionelen en feministen aan het eind van de 19e eeuw en het begin van de 20e eeuw en enkele van hun voormannen en -vrouwen herkennen.",
+		"id": "ee5b03b0-f13e-4c29-b6f5-0b6298782407",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.6/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"title": "De kandidaat kan opvattingen van politieke en maatschappelijke organisaties van liberalen, socialisten, confessionelen en feministen aan het eind van de 19e eeuw en het begin van de 20e eeuw en enkele van hun voormannen en -vrouwen herkennen.",
+		"id": "9d84c32b-a8e8-4778-aea9-13e4f0b3a064",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.17/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"title": "De kandidaat kan uitleggen waarom bepaalde groepen in de samenleving aan het eind van de 19e eeuw zich tot liberalisme, socialisme, christelijk politiek denken en/of feminisme aangetrokken voelden.",
+		"id": "92ebe049-8f2a-4b6a-a902-9a178cfede9b",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.7/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"fdffadd0-6664-4142-9666-b6f9a6039068"
+		],
+		"title": "De kandidaat kan beschrijven hoe de toenemende politieke en maatschappelijke participatie van burgerij, protestanten, rooms-katholieken, arbeiders en vrouwen in de tweede helft van de 19e eeuw leidde tot bewustwording van eigen identiteit en tot (verdere) emancipatie van deze groepen.",
+		"id": "1b4a5892-3f26-4216-97a8-bb8f70dedaa1",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.7/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"d12657d5-f712-4f15-8b0b-f5451d947c5e",
+			"8f0b5adc-b44e-42d8-8a43-35e118d63635"
+		],
+		"title": "De kandidaat kan beschrijven hoe de toenemende politieke en maatschappelijke participatie van burgerij, protestanten, rooms-katholieken, arbeiders en vrouwen in de tweede helft van de 19e eeuw leidde tot bewustwording van eigen identiteit en tot (verdere) emancipatie van deze groepen.",
+		"id": "27bbdd02-1c59-46e4-8147-4306b37eb1bb",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.8/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"80d9789c-b355-4b4b-adee-f0a1293469fe"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland tijdens de Eerste Wereldoorlog herkennen en in het juiste tijdsgewricht plaatsen.",
+		"id": "a9918c00-effd-4bc2-a0b5-b0523cabf50e",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.8/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"f62593ad-1303-47fe-9edd-ca9c915740aa"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland tijdens de Eerste Wereldoorlog herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "352d26c5-a801-45ef-8ded-988c73974fda",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.9/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"ede1f099-7675-4e47-9501-ec3492cc133a"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen",
+		"id": "5e69c299-5aa0-431e-9aef-010ae31c1265",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.9/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"0d4bf4c4-87c1-4ebc-b51e-e622d1de96f6"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
+		"id": "e0c5e2fe-a7f0-4197-a0c5-f5f9aa5fa8bb",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.10/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"c894b78a-09bc-4d0c-a671-d115848e955b"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen.",
+		"id": "048f2f56-d43c-44ca-a043-826c48606282",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.10/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"c14c3d5d-9206-4b51-9d4d-d682bae1ac0e"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "0cd964c8-289b-4007-95c1-6e0521d90745",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.11/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"e6602b9b-e113-4495-af8e-39593f0861d3"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen.",
+		"id": "6b529fb9-8ca0-49f1-bdf4-0e16323c7cfe",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.11/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"2c56a555-1f1e-41fe-888f-560f24adf563"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
+		"id": "67499639-a14f-453a-89dd-21e7f394f3a4",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.12/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"9445a2d4-55a9-47ba-bb1f-86f3cbe0c22c"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen.",
+		"id": "b93e2430-ce4d-48b4-bda2-5ada546792c4",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.12/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"11ff2afa-a77f-4e5f-8d31-980307e41b5f"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "f1ac94a7-a67c-4dd8-b7e2-6404550ddb76",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.19/gt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"37874404-e3ed-48d0-9205-c67da579b17f"
+		],
+		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Indonesië herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "5267dff5-a760-48f9-ac49-cebacdf86c25",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.13/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"7e816279-ebae-4591-b9b5-d1145f0c5daa"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen, in het juiste tijdsgewricht plaatsen.",
+		"id": "71a4dd3a-f4ce-403f-bc04-cc5bf22fa19d",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.13/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"28a75fb6-af75-4c07-ab52-6c84e009c273"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen, in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "3ecea6a1-168e-4800-8ac1-1a4445026d66",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.20/gt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"3648f8f5-2286-4060-8726-63d667ca9f85"
+		],
+		"title": "De kandidaat kan de gevolgen van het nationalisme in Indonesië, als voorbeeld van dekolonisatie, herkennen en beschrijven.",
+		"id": "bb0633aa-0028-46d9-af20-0f049ce3f984",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.14/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"6e5b18c4-026f-42a6-ae30-0775052cb9d1"
+		],
+		"title": "De kandidaat kan grondrechten noemen die in 1983 in de grondwet zijn opgenomen.",
+		"id": "3020f44b-8b41-490b-a0ef-1790f18243e3",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.14/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"2050c90b-2818-42c0-8724-0ba86cd12bde"
+		],
+		"title": "De kandidaat kan grondrechten noemen die in 1983 in de grondwet zijn opgenomen en daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
+		"id": "1294d6ad-aa96-4129-8184-61c465e0ebdf",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.15/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"bd41e869-c2b7-44b7-a591-004cbd1af2a5"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland in het juiste tijdsgewricht plaatsen.",
+		"id": "1c472bf8-16ae-482d-bbd0-be88349b8b3f",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.15/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"e94714b7-6f10-4c65-871e-68f107a90117"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland in het juiste tijdsgewricht plaatsen en toepassen.",
+		"id": "d8e7ba05-f1b8-4ed8-b702-a4a636a564e5",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.18/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"cfe523a2-af12-4b82-8a87-05e5129956ee"
+		],
+		"title": "De kandidaat kan de gevolgen van voortgaande Europese samenwerking voor Nederland herkennen en beschrijven.",
+		"id": "e6a07b95-768b-4139-bcc7-1a32f99eaf77",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.16/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"d7d9f4ec-2346-4855-a477-fa6be1bc684e"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen.",
+		"id": "c3d5bdea-ffa2-437b-bdd0-6caff8a07ba8",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.16/kgt",
+		"examenprogramma_eindterm_id": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"syllabus_vakbegrip_id": [
+			"8bebf765-e419-4da7-87f3-d4218997cc42",
+			"aa2d6db6-b3f4-4aad-8726-c078d724cda7"
+		],
+		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
+		"id": "4e4fcf82-dc0f-4422-a0b2-4f9005d53630",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.1/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen",
+		"id": "be02b030-873e-41d4-8226-4fc5064b9192",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.1/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen",
+		"id": "5d7f4bf9-952e-4721-8bf1-ea7df36729a5",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.2/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"5e42e26c-4c4b-4d28-8abd-b9813be77c34"
+		],
+		"title": "De kandidaat kan de oorzaken, aanleiding, verloop en afloop van de Eerste Wereldoorlog (1914-1918) herkennen en beschrijven.",
+		"id": "fb303fa5-ffe7-44ff-b7c5-5ba17829b8e2",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.2/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"97df460d-382d-4ab6-acb1-9d6d8dbfb81d"
+		],
+		"title": "De kandidaat kan de oorzaken, aanleiding, verloop en afloop van de Eerste Wereldoorlog (1914-1918) herkennen en beschrijven.",
+		"id": "f35806cc-ef64-448f-85df-70e19246e427",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.3/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"8194c519-4135-4bbe-bb04-0e9aee783353"
+		],
+		"title": "De kandidaat kan de bondgenootschappen van Centralen en Gealieerden herkennen en noemen",
+		"id": "86bc3e33-c496-454c-838a-0b5e2b0a1007",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.3/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"1a9c400c-c0a8-4917-852a-a7590ef2aa49"
+		],
+		"title": "De kandidaat kan de bondgenootschappen van Centralen en Gealieerden herkennen, noemen en beschrijven.",
+		"id": "6add507c-9cfd-4ae1-8e27-047ac0636e7b",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.4/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen.",
+		"id": "ff6df5ef-4832-4d82-9756-7c66c342de85",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.4/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen en veranderingen verklaren.",
+		"id": "b9cf623f-27fd-4229-bdc0-e9480bb66d64",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.5/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"d1864fe3-f465-4a5e-8246-39dc86523fc1"
+		],
+		"title": "De kandidaat kan enkele bepalingen van de Vrede van Versailles herkennen en noemen.",
+		"id": "0eefebab-95cc-4685-84a1-a4cc1d945347",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.5/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"c6e2c7f8-d3c3-4620-a44d-656a09c6223f"
+		],
+		"title": "De kandidaat kan enkele bepalingen van de Vrede van Versailles herkennen en noemen.",
+		"id": "8346945c-108f-4c15-86b7-6baa1c19f731",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.6/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"273d103f-7def-455b-91b4-9e6c274f32a4"
+		],
+		"title": "De kandidaat kan de gevolgen van de economische crisis voor het vertrouwen in de democratie in Europa en in het bijzonder voor Duitsland herkennen.",
+		"id": "11cd8799-6f1b-4011-bdfd-77767b8df8da",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.6/kb",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"60c5ea6a-b7e1-455b-9b48-177cef73d1d0",
+			"7bb66e91-723a-4c78-b04c-a3d1e3c6e9d8"
+		],
+		"title": "De kandidaat kan de gevolgen van de economische crisis voor het vertrouwen in de democratie in Europa en in het bijzonder voor Duitsland herkennen en beschrijven.",
+		"id": "261fb75b-8476-4bbd-ad0b-a230ce1c44ea",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.7/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"9dcd7e23-212c-4aa7-bc21-973a8328dadc"
+		],
+		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland herkennen.",
+		"id": "14e67c03-cfd2-4fbc-8d3d-eb79a3405194",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.7/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"dd7cc178-d227-42f9-9d6f-dc4fcab35d53",
+			"0ff07c1b-834f-4389-b0a9-8a0ad540ace9"
+		],
+		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland, als voorbeeld van een extreemrechtse totalitaire staat, herkennen en beschrijven.",
+		"id": "836d8927-3d81-4f65-b876-6c7ee7503168",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.18/gt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"acbdaef8-3892-4801-ae11-ea0e2375089e"
+		],
+		"title": "De kandidaat kan de belangrijkste kenmerken in de Sovjet-Unie als voorbeeld van een extreemlinkse totalitaire staat herkennen en beschrijven.",
+		"id": "767b1458-9bf2-4cfc-9e06-60cba5d5c6e5",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.8/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen.",
+		"id": "67375e23-2d49-442b-b938-3834c201cdfe",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.8/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren",
+		"id": "59be65e6-5f24-4a37-af2e-9dc6dafceb9c",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.9/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"7c529de2-b676-4a04-9d08-7ec84bce6f52"
+		],
+		"title": "De kandidaat kan de oorzaken, begin, verloop en afloop van de Tweede Wereldoorlog herkennen en noemen.",
+		"id": "e7e8ae29-b6ef-436e-8d0a-5961651d9dbd",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.9/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"85eb5fe7-4d59-4471-8cab-5d503e1725be"
+		],
+		"title": "De kandidaat kan de oorzaken, begin, verloop en afloop van de Tweede Wereldoorlog herkennen, noemen en beschrijven.",
+		"id": "22b3ad06-e887-40a0-a607-29150a559b30",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.10/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"cd69b109-6fac-4513-b47d-89e0d601bf18"
+		],
+		"title": "De kandidaat kan de bondgenootschappen van As-mogendheden en Geallieerden herkennen en noemen.",
+		"id": "32661cf7-e8ea-453d-9036-61c2a4bd042d",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.10/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"873f66f0-3aae-43a0-89d9-84f43c47e7ca"
+		],
+		"title": "De kandidaat kan de bondgenootschappen van As-mogendheden en Geallieerden herkennen en noemen.",
+		"id": "72f33b41-71e7-44e1-bddd-cf7ea525474d",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.11/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen.",
+		"id": "d08e0656-9621-4c57-b329-25d801b5230f",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.11/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren.",
+		"id": "cf31c830-e8ec-494b-bf47-eac41a7f7a02",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.17/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"563c8785-5284-44b1-b2c2-782d2562578e"
+		],
+		"title": "De kandidaat kan de nieuwe machtsverhoudingen als gevolg van de Tweede Wereldoorlog herkennen en beschrijven.",
+		"id": "5cebfc68-e998-461e-8aa1-fbb36167271d",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.12/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"7a502942-c501-4b75-b2d8-c14e3c2336a5"
+		],
+		"title": "De kandidaat kan de nieuwe machtsverhoudingen tussen de Verenigde Staten (het Westen / kapitalisme) en de Sovjet-Unie (het Oostblok / communisme) herkennen.",
+		"id": "3f7f9a3c-d633-4059-9e95-5caa4dfa1ad5",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.12/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"4269092c-daeb-4c08-b113-d0dc29de63c0"
+		],
+		"title": "De kandidaat kan de nieuwe machtsverhoudingen tussen de Verenigde Staten (het Westen / kapitalisme) en de Sovjet-Unie (het Oostblok / communisme) herkennen en beschrijven.",
+		"id": "6ab8c6de-0186-477b-8323-6144eca536c9",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.13/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"ab5e7b1d-d5f9-4d15-8de4-442e61d5bfa2"
+		],
+		"title": "De kandidaat kan enkele gebeurtenissen uit de Koude Oorlog en het einde van de Koude Oorlog in relatie tot wapenwedloop en hervormingspolitiek herkennen.",
+		"id": "0d9b3e9a-bd24-4c04-a85e-97aa981c24e2",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.13/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"bba826d0-86c0-4dbf-a1ff-e0ff1e4cb44f",
+			"7cd00b8e-8709-4002-8ba5-f309f3854cf2"
+		],
+		"title": "De kandidaat kan enkele gebeurtenissen uit de Koude Oorlog en het einde van de Koude Oorlog in relatie tot wapenwedloop en hervormingspolitiek herkennen en beschrijven.",
+		"id": "fe84c32c-0215-450f-848b-f4a105cb122c",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.14/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"d889c0d7-b7f1-4f35-8116-f6827311900e"
+		],
+		"title": "De kandidaat kan de Europese en internationale samenwerking herkennen.",
+		"id": "389de267-40ac-48b5-a0ab-46021c45e439",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.14/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"8f7123bd-f8b0-4b64-be96-6ec67e0b311d"
+		],
+		"title": "De kandidaat kan de Europese en internationale samenwerking herkennen en beschrijven.",
+		"id": "38113410-4677-44bd-a472-d4df8e697ca5",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.15/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen.",
+		"id": "dc2c0fb5-98d2-4be4-be62-4a6e7c973c34",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.15/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren.",
+		"id": "fa1164a7-8be6-42d6-b054-ea09f29c38a6",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.16/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"syllabus_vakbegrip_id": [
+			"9e75a19d-b077-484c-b505-2f2bde716988"
+		],
+		"title": "De kandidaat kan de gevolgen van het einde van de Koude Oorlog en de daardoor gewijzigde machtsverhoudingen herkennen.",
+		"id": "bae6b1f2-b898-4508-82c7-095bb408a609",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.16/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"syllabus_vakbegrip_id": [
+			"2d4e8a6e-c54d-4c76-9482-df52d070c64c"
+		],
+		"title": "De kandidaat kan de gevolgen van het einde van de Koude Oorlog en de daardoor gewijzigde machtsverhoudingen herkennen en beschrijven.",
+		"id": "29be8bb7-8c06-4b79-98d2-4282031239fa",
+		"unreleased": true
 	}
 ]
