@@ -5227,5 +5227,16 @@
 		"title": "Syllabus moderne vreemde talen Spaans havo",
 		"id": "6b3ec012-afd2-49ca-90aa-b4d042df84bb",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"074e7ee9-4763-4391-b3b6-716155964bda"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"e0ff8e2b-3929-4ba5-a826-999a39480223"
+		],
+		"title": "Syllabus moderne vreemde talen Arabisch havo",
+		"id": "dc992c11-c07b-4dce-ad68-bac92bb07312",
+		"unreleased": true
 	}
 ]
