@@ -5117,5 +5117,16 @@
 		"title": "Syllabus moderne vreemde talen Frans vwo",
 		"id": "880e66c6-5787-4d65-b73b-5f58e77e254e",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"d37b8bd4-bc58-45a2-a02a-4f0654b8a88e"
+		],
+		"title": "Syllabus moderne vreemde talen Spaans vwo",
+		"id": "734e8982-36ba-4a79-9dbb-0a1588563b28",
+		"unreleased": true
 	}
 ]
