@@ -5183,5 +5183,16 @@
 		"title": "Syllabus moderne vreemde talen Chinees vwo",
 		"id": "d9f10a63-7e5c-4475-a4d6-3764bc22134f",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"e89be7de-fc4c-450c-9cda-5ca1b24ae813"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "Syllabus moderne vreemde talen Duits havo",
+		"id": "44fdf9e4-ce6f-433f-be4b-60243048a003",
+		"unreleased": true
 	}
 ]
