@@ -16936,5 +16936,115 @@
 		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan met weinig moeite hedendaagse literaire teksten en non-fictie lezen die is geschreven in de standaardvorm van de taal, of een vertrouwde variant ervan, en is daarbij bewust van de impliciete betekenissen en ideeën.",
 		"id": "8fc769c7-354d-42db-b05d-4984c16cec3f",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.1",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan alle correspondentie begrijpen, een enkele keer met behulp van een woordenboek.",
+		"id": "b7a82315-6e03-434c-a5f3-c18b81f23b87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.2",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan impliciete en expliciete houdingen, emoties en meningen begrijpen in e-mails, discussieforums, blogs enzovoort, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.",
+		"id": "6132633c-7a7f-4606-8b88-995ff9002b25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.3",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan jargon, idiomatische uitdrukkingen en grappen in persoonlijke correspondentie begrijpen.",
+		"id": "ae0e862d-3ae9-4695-af18-d1afc380d45b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.4",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in zijn of haar vakgebied en verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
+		"id": "80c32534-d56c-4105-aa94-45444974ca65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.5",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan snel lange, complexe teksten doorlezen en de relevante details vinden.",
+		"id": "48aeae05-9b01-40ad-a17d-b7783bf3a548",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.6",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan snel de inhoud en relevantie herkennen van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en dan beslissen of nadere bestudering de moeite waard is.",
+		"id": "71ebab88-a5c6-4992-bf25-b0a57a1a6c0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.7",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan op detailniveau een breed scala van lange, complexe teksten begrijpen die veel worden aangetroffen in het sociale, professionele of academische leven en fijnere details herkennen, inclusief houdingen en uitgesproken of impliciete meningen.",
+		"id": "65b63c9d-d0e9-4c7f-afcf-e215f636f811",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.8",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
+		"id": "0afd5881-a39c-47c1-9d06-e00e84d6938d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.9",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan lange, complexe aanwijzingen bij een nieuwe machine of procedure op detailniveau begrijpen, ongeacht of de aanwijzingen betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
+		"id": "fc27187d-4798-45d3-ad9e-e8d82daf649d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.10",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan een verscheidenheid aan literaire teksten lezen en waarderen, mits hij of zij bepaalde delen kan herlezen en zo nodig gebruik kan maken van naslagwerken.",
+		"id": "85141d07-a5da-4cc8-9363-6406b5a85994",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/V/DomeinA/toel.11",
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan met weinig moeite hedendaagse literaire teksten en non-fictie lezen die is geschreven in de standaardvorm van de taal, of een vertrouwde variant ervan, en is daarbij bewust van de impliciete betekenissen en ideeën.",
+		"id": "e38cc7e3-6ffe-4240-950e-0ea91abe61e4",
+		"unreleased": true
 	}
 ]
