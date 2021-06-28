@@ -5436,5 +5436,16 @@
 		"title": "Syllabus moderne vreemde talen Turks vmbo bb",
 		"id": "b3b5f41e-f70d-46e5-b359-55421fa1df28",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"986b8af5-7495-41d3-8764-43053750ebcd"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"b94ae9bb-7c8c-433a-822e-24c066439849"
+		],
+		"title": "Syllabus moderne vreemde talen Turks vmbo kb",
+		"id": "5d51560f-8269-4af6-83bb-4858235240bf",
+		"unreleased": true
 	}
 ]
