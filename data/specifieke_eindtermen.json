@@ -41527,5 +41527,15 @@
 		"id": "7e88a3b0-a0aa-4422-baed-544f8c57b3ab",
 		"unreleased": true,
 		"description": ""
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA",
+		"examenprogramma_domein_id": [
+			"02232950-2959-4d7d-abbc-9f184ee4d942"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (bij ruime voldoende)",
+		"id": "0b62d26e-9a6d-4618-9f5a-4839c8174ac5",
+		"unreleased": true
 	}
 ]
