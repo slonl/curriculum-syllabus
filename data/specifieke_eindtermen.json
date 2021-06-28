@@ -41466,5 +41466,15 @@
 		"title": "De kandidaat kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.\r\nDe kandidaat kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.\r\nC1",
 		"id": "1bb3303d-6d3b-4440-b12f-ede531934f3d",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/RU/V/DomeinA",
+		"examenprogramma_domein_id": [
+			"1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (overwegend B1-opgaven aangevuld met A2- en B2-opgaven)",
+		"id": "6ae12bd8-d260-49ba-85e4-7e4028b4fdee",
+		"unreleased": true
 	}
 ]
