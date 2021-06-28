@@ -5172,5 +5172,16 @@
 		"title": "Syllabus moderne vreemde talen Italiaans vwo",
 		"id": "f5b4dd1d-83c5-41d8-8db1-ea430131bb1b",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"da9fe3a7-c53f-4e2e-a867-6928720a2528"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"10a32aa3-8e27-492b-bf11-c577cd7f4eba"
+		],
+		"title": "Syllabus moderne vreemde talen Chinees vwo",
+		"id": "d9f10a63-7e5c-4475-a4d6-3764bc22134f",
+		"unreleased": true
 	}
 ]
