@@ -5084,5 +5084,16 @@
 		"title": "Syllabus  maatschappijkunde vmbo gt",
 		"id": "021a91b1-2d3d-410f-a138-34eef9798f1d",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"b318368e-baad-4b5c-b146-bdb589e44beb"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"554f1f54-66fe-4be3-84a8-b0d521d1bfa6"
+		],
+		"title": "Syllabus moderne vreemde talen Duits vwo",
+		"id": "1da5d8c6-a9b2-4ac4-b12e-537a75face84",
+		"unreleased": true
 	}
 ]
