@@ -5271,5 +5271,16 @@
 		"title": "Syllabus moderne vreemde talen Italiaans havo",
 		"id": "1a041ffa-b1d1-4eab-8491-20f376065663",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"2e58a2e2-3332-4cd4-a39d-9205f36a50db"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"76a8a1f3-3eef-4f4c-8bd7-b03af951998a"
+		],
+		"title": "Syllabus moderne vreemde talen Duits vmbo kb, gl, tl",
+		"id": "3fa880dc-0c86-41ee-b565-d2e84ce60b20",
+		"unreleased": true
 	}
 ]
