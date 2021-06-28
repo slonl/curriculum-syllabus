@@ -41486,5 +41486,15 @@
 		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\nB2",
 		"id": "76e80e63-0eb9-4fff-a173-464cb939136f",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/CIC/V/DomeinA",
+		"examenprogramma_domein_id": [
+			"d47bd2c0-a8cc-4276-b3f8-3c2a6b066219"
+		],
+		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2 (overwegend A2-opgaven aangevuld met enkele B1-opgaven)",
+		"id": "10a32aa3-8e27-492b-bf11-c577cd7f4eba",
+		"unreleased": true
 	}
 ]
