@@ -41707,5 +41707,15 @@
 		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (ongeveer evenveel A2 als B1)",
 		"id": "3af63a60-c1f5-4e83-aa4a-40d6d9f1deb9",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/TU/K/4",
+		"examenprogramma_domein_id": [
+			"106ba245-5df3-425b-9647-4fd5d074ade6"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (overwegend B1, zowel enkele B2- als enkele A2-opgaven komen voor)",
+		"id": "beeaf540-2626-41aa-b7ad-697130a64fc3",
+		"unreleased": true
 	}
 ]
