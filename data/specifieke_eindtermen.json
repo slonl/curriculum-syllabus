@@ -41597,5 +41597,15 @@
 		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
 		"id": "cc245204-a37d-46ff-9077-2a537d06ee92",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/K/4",
+		"examenprogramma_domein_id": [
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1",
+		"id": "178b721c-a59c-4be0-b8d5-2b60ec264ff6",
+		"unreleased": true
 	}
 ]
