@@ -18756,5 +18756,265 @@
 		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan het plot van verhalen, eenvoudige romans en stripverhalen volgen als deze een duidelijke verhaallijn hebben en veelvoorkomende, alledaagse bewoordingen gebruiken, mits hij of zij regelmatig een woordenboek raadpleegt.",
 		"id": "7621bdd5-9e0f-46c5-86f8-f513e7581ca5",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.1",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan formele correspondentie over minder vertrouwde onderwerpen goed genoeg begrijpen om die aan iemand anders door te sturen",
+		"id": "463625df-859c-4958-8925-2923ef93678c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.2",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven goed genoeg begrijpen om regelmatig met een penvriend(in) te corresponderen.",
+		"id": "55408785-28d3-4c9d-b7b7-87e354397cd4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.3",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan eenduidige persoonlijke brieven, e-mails of berichten begrijpen waarin betrekkelijk gedetailleerd verslag wordt gedaan van gebeurtenissen en ervaringen.",
+		"id": "97820f7c-81d3-4f68-a417-c3c6eb03fa5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.4",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan formele standaardcorrespondentie en online berichten in zijn of haar vakgebied begrijpen.",
+		"id": "e7f7916e-3e45-42aa-9d38-4bca58ec624c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.5",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan langere teksten snel doorlezen om gewenste informatie op te sporen, en informatie verzamelen uit verschillende delen van een tekst of uit verschillende teksten, om een bepaalde taak uit te voeren",
+		"id": "8e536a41-2786-4d1e-84e6-fe7d0adf7ae6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.6",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan eenduidige, feitelijke teksten in tijdschriften, brochures of op het internet snel doorlezen om te bepalen waar ze over gaan en te besluiten of ze informatie bevatten die van pas kan komen.",
+		"id": "e35050ea-d958-4960-8586-2ac8e089ea58",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.7",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan relevante informatie vinden en begrijpen in alledaags materiaal, zoals brieven, brochures en korte officiële documenten.",
+		"id": "e0dae0e0-36c5-4223-9aba-ed8e9d0e71e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.8",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan belangrijke informatie over bereiding en gebruik vinden op de etiketten van voedingsmiddelen en medicijnen.",
+		"id": "1d3c1963-14a7-4d0a-b2d0-0650e2376aab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.9",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan beoordelen of een artikel, verslag of recensie over het gewenste onderwerp gaat.",
+		"id": "8a4d153e-71d5-4e2d-963e-d578a6617b86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.10",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan de belangrijke informatie begrijpen in simpele, duidelijk opgestelde advertenties in kranten of tijdschriften, mits er niet te veel afkortingen in staan.",
+		"id": "ffc21d81-52a8-452e-8be2-9dca1ae0e4e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.11",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan eenduidige, feitelijke teksten begrijpen over onderwerpen die te maken hebben met zijn of haar interesses of studie.",
+		"id": "881d09e7-07f8-460d-a0e3-185a3a601b4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.12",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, waarin mensen hun mening geven (bijvoorbeeld kritische bijdragen aan een onlinediscussieforum of ingezonden brieven).",
+		"id": "3856190c-7e32-4e79-a458-6b479c3f71f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.13",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste conclusies herkennen in argumenterende teksten die voorzien zijn van heldere signalen.",
+		"id": "dc455759-3204-4db0-b913-cb557e6a95da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.14",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de redenering herkennen in de behandeling van een kwestie, zij het niet noodzakelijkerwijs tot in de details.",
+		"id": "8b1da14a-e10f-4960-b868-2c368eba8ba5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.15",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan belangrijke punten herkennen in eenduidige krantenartikelen over vertrouwde onderwerpen.",
+		"id": "363595d8-3ac0-4e60-952b-6b526c506804",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.16",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de meeste feitelijke informatie begrijpen die hij of zij kan tegenkomen over vertrouwde belangwekkende onderwerpen, mits hij of zij voldoende tijd heeft om te herlezen.",
+		"id": "cf14e031-c320-4554-bd6c-7e1bf5dd8ab5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.17",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals die bij museumstukken en informatieborden van\r\ntentoonstellingen.",
+		"id": "7636da95-b478-417a-8881-d94be0e2d041",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.18",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan instructies en procedures in de vorm van een lopende tekst begrijpen, bijvoorbeeld in een handleiding, mits hij of zij bekend is met het type proces of product.",
+		"id": "4fae882d-4386-414d-bad6-287d9820f87c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.19",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan helder geschreven eenduidige aanwijzingen bij een apparaat begrijpen.",
+		"id": "a481b4d3-7e52-4f90-a101-5e93f953f6ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.20",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan eenvoudige instructies op een verpakking volgen, bijvoorbeeld bereidingsinstructies.",
+		"id": "b6d0c537-877e-458b-b07c-7784f9f61b73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.21",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan de meeste veiligheidsinstructies begrijpen (bijvoorbeeld in het openbaar vervoer of in handleidingen voor het gebruik van elektrische apparaten).",
+		"id": "a9b8f5a3-8568-4692-8672-947258099a4c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.22",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan verslagen over films, boeken, concerten enzovoort in kranten en tijdschriften lezen die geschreven zijn voor een breder publiek, en de belangrijkste punten begrijpen.",
+		"id": "2a8e0b2b-9b20-4a2a-bf56-d21ee37570c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.23",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan eenvoudige gedichten en liedteksten begrijpen die in eenduidige taal en stijl zijn geschreven.",
+		"id": "8b6e6f9e-b892-4007-b101-bf21b0949c7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.24",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan de beschrijving van plaatsen, gebeurtenissen, expliciet uitgedrukte gevoelens en standpunten begrijpen in verhalende teksten, gidsen en tijdschriftartikelen die geschreven zijn in veelgebruikte, alledaagse bewoordingen.",
+		"id": "e49e452d-380c-484f-9e0d-cecd1c93600c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.25",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan een reisdagboek begrijpen dat hoofdzakelijk de gebeurtenissen tijdens een reis en de ervaringen en ontdekkingen van de auteur beschrijft.",
+		"id": "e3b44eb0-6fc7-470b-a23c-b4ca2b7dc654",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/SP/H/DomeinA/toel.26",
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan het plot van verhalen, eenvoudige romans en stripverhalen volgen als deze een duidelijke verhaallijn hebben en veelvoorkomende, alledaagse bewoordingen gebruiken, mits hij of zij regelmatig een woordenboek raadpleegt.",
+		"id": "8c0c01d8-a28e-4ddd-a133-30f52fe337bf",
+		"unreleased": true
 	}
 ]
