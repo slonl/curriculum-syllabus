@@ -18236,5 +18236,135 @@
 		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan het belangrijkste punt begrijpen van een kort artikel dat verslag doet van een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits dit duidelijk is geschreven in eenvoudige taal.",
 		"id": "b312f72c-d924-4197-baac-93a684420f5c",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.1",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan correspondentie lezen met betrekking tot zijn of haar interessegebied en daarbij meteen de wezenlijke betekenis vatten",
+		"id": "59242aac-fc0f-45b1-b2ad-62849990de79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.2",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "CORRESPONDENTIE LEZEN: De kandidaat kan begrijpen wat er wordt gezegd in een persoonlijke e-mail of bericht, zelfs als er enige spreektaal wordt gebruikt.",
+		"id": "7eebf542-66c3-4288-a304-4bfbf4d96589",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.3",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in zijn of haar vakgebied en verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
+		"id": "5799d1d9-82f2-4b11-aeef-715f06caa24d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.4",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan snel lange, complexe teksten doorlezen en de relevante details vinden.",
+		"id": "86b1e6d1-1c2b-4c12-92ad-d90a86c4975b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.5",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "ORIËNTEREND LEZEN: De kandidaat kan snel de inhoud en relevantie herkennen van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en dan beslissen of nadere bestudering de moeite waard is.",
+		"id": "e5c8b623-87b0-453b-a0d4-51488f323f34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.6",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan informatie, ideeën en meningen ophalen uit zeer gespecialiseerde bronnen binnen zijn of haar vakgebied.",
+		"id": "9db49332-31a2-4a1e-bf22-6973be5b19b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.7",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan gespecialiseerde artikelen buiten het eigen vakgebied begrijpen, mits hij of zij af en toe een woordenboek kan gebruiken om zijn of haar interpretatie van terminologie te bevestigen.",
+		"id": "40d816e1-6bcd-4be6-b1b6-5a5fc477bd5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.8",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan artikelen en verslagen over hedendaagse problemen begrijpen, waarin de schrijvers bepaalde stellingen of standpunten innemen",
+		"id": "7299dcbd-412e-4bc6-98e8-363741b433d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.9",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan herkennen wanneer een tekst feitelijke informatie geeft en wanneer hij bedoeld is om de lezers ergens van te overtuigen.",
+		"id": "dc8a0088-a2a5-4a88-86f1-1d83384b7d97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.10",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan verschillende structuren in betogende teksten herkennen: argumenten voor en tegen, presentatie van probleem en oplossingen en causale verbanden.",
+		"id": "fb97e8e9-7820-4642-8a8d-362e3028b374",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.11",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "INSTRUCTIES LEZEN: De kandidaat kan lange, complexe aanwijzingen op het eigen vakgebied begrijpen, met inbegrip van details over voorwaarden en waarschuwingen, mits hij of zij moeilijke passages kan herlezen",
+		"id": "0ba8715f-ed00-465d-a42e-471038240051",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.12",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan in hoge mate zelfstandig lezen voor plezier, past daarbij zijn of haar leesstijl en -snelheid aan verschillende teksten aan (bijvoorbeeld tijdschriften, relatief ongecompliceerde romans, geschiedenisboeken, biografieën, reisverslagen, gidsen, liedteksten, gedichten) en maakt selectief gebruik van toepasselijke referentiebronnen.",
+		"id": "5a2f20ec-dd8b-4f53-bf8c-44c008c7ff17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/H/DomeinA/toel.13",
+		"syllabus_specifieke_eindterm_id": [
+			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
+		],
+		"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan romans lezen die een sterk, verhalend plot hebben en geschreven zijn in eenduidige, onomwonden taal, mits hij of zij er de tijd voor kan nemen en een woordenboek kan gebruiken.",
+		"id": "7e6db168-0cce-4d79-84e8-ea33da8b9da7",
+		"unreleased": true
 	}
 ]
