@@ -5260,5 +5260,16 @@
 		"title": "Syllabus moderne vreemde talen Russisch havo",
 		"id": "c5741e3e-8cf3-412f-8e05-e7b6f65657e2",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"4271e75e-53f5-4a60-932e-9f7719b0971b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"705d4e28-cc7d-4dad-8a85-5300eae43dd8"
+		],
+		"title": "Syllabus moderne vreemde talen Italiaans havo",
+		"id": "1a041ffa-b1d1-4eab-8491-20f376065663",
+		"unreleased": true
 	}
 ]
