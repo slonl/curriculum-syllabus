@@ -41476,5 +41476,15 @@
 		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (overwegend B1-opgaven aangevuld met A2- en B2-opgaven)",
 		"id": "6ae12bd8-d260-49ba-85e4-7e4028b4fdee",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/IT/V/DomeinA",
+		"examenprogramma_domein_id": [
+			"77043c42-2941-4ecf-9e83-b66258f36301"
+		],
+		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\nB2",
+		"id": "76e80e63-0eb9-4fff-a173-464cb939136f",
+		"unreleased": true
 	}
 ]
