@@ -41406,5 +41406,15 @@
 		"title": "De kandidaat kan een eigen standpunt ten aanzien van het vraagstuk formuleren en daarbij het eigen standpunt relateren.",
 		"id": "23a9e267-4c43-40c1-aa9e-9cb3d7d45719",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DUI/V/DomeinA",
+		"examenprogramma_domein_id": [
+			"22aa5606-9f7a-489c-a761-c9c589514c57"
+		],
+		"title": "De kandidaat kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.\r\nDe kandidaat kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.\r\nC1 (bij ruime voldoende)",
+		"id": "554f1f54-66fe-4be3-84a8-b0d521d1bfa6",
+		"unreleased": true
 	}
 ]
