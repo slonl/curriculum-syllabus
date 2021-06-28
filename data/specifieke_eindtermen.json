@@ -41516,5 +41516,15 @@
 		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\nB2",
 		"id": "b4c3037a-c88d-41ad-bfd0-24e89fc57b8a",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/FA/H/DomeinA",
+		"examenprogramma_domein_id": [
+			"78831e71-05dc-47fd-9c3f-39c88d6549d8"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1",
+		"id": "7e88a3b0-a0aa-4422-baed-544f8c57b3ab",
+		"unreleased": true
 	}
 ]
