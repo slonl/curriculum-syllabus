@@ -5161,5 +5161,16 @@
 		"title": "Syllabus moderne vreemde talen Russisch vwo",
 		"id": "301caa22-0134-432c-90b4-dc668210850b",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"76e80e63-0eb9-4fff-a173-464cb939136f"
+		],
+		"title": "Syllabus moderne vreemde talen Italiaans vwo",
+		"id": "f5b4dd1d-83c5-41d8-8db1-ea430131bb1b",
+		"unreleased": true
 	}
 ]
