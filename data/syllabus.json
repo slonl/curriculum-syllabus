@@ -5326,5 +5326,16 @@
 		"title": "Syllabus moderne vreemde talen Frans vmbo gl, tl",
 		"id": "7e6df60b-8050-41fd-9a43-e85bd2c884cf",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"803fe798-4884-4e69-94b9-fc0364989e95"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9f41f58f-a239-487f-b156-20882543bc65"
+		],
+		"title": "Syllabus moderne vreemde talen Frans vmbo kb",
+		"id": "d156f8dc-a306-4fa3-bd8e-d561c7dbd421",
+		"unreleased": true
 	}
 ]
