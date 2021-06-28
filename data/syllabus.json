@@ -5359,5 +5359,16 @@
 		"title": "Syllabus moderne vreemde talen Spaans vmbo kb",
 		"id": "3263f2b0-db5f-4af3-9625-54c8edb96ccd",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"801fe2fa-5924-4c37-890a-40890b29803b"
+		],
+		"title": "Syllabus moderne vreemde talen Spaans vmbo bb",
+		"id": "a34cd4fd-5c15-42be-b129-fbdb080b51e1",
+		"unreleased": true
 	}
 ]
