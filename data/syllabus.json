@@ -5139,5 +5139,16 @@
 		"title": "Syllabus moderne vreemde talen Arabisch vwo",
 		"id": "e6ade6cc-4fe9-48aa-8b9e-7363cdf1dc2f",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"0c8516fd-e85c-4981-8f99-a3db39114cc6"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1bb3303d-6d3b-4440-b12f-ede531934f3d"
+		],
+		"title": "Syllabus moderne vreemde talen Turks vwo",
+		"id": "05906842-43c4-40c5-b9f3-547bea74c2cb",
+		"unreleased": true
 	}
 ]
