@@ -5238,5 +5238,16 @@
 		"title": "Syllabus moderne vreemde talen Arabisch havo",
 		"id": "dc992c11-c07b-4dce-ad68-bac92bb07312",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"cb227107-e06f-40d7-8011-a770f8a9775b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"e27633b0-cc68-440a-a2d7-be2bd68170ca"
+		],
+		"title": "Syllabus moderne vreemde talen Turks havo",
+		"id": "82924484-e04e-42db-85b0-981d349ccddc",
+		"unreleased": true
 	}
 ]
