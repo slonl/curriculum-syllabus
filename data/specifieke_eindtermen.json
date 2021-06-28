@@ -41577,5 +41577,15 @@
 		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1",
 		"id": "705d4e28-cc7d-4dad-8a85-5300eae43dd8",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/DU/K/4",
+		"examenprogramma_domein_id": [
+			"e2542a9c-03af-4883-959c-0e542b38bf4d"
+		],
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1",
+		"id": "76a8a1f3-3eef-4f4c-8bd7-b03af951998a",
+		"unreleased": true
 	}
 ]
