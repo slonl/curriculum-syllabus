@@ -5205,5 +5205,16 @@
 		"title": "Syllabus moderne vreemde talen Engels havo",
 		"id": "57e56d65-93ea-429d-97d8-85937ae88533",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"a416c3ab-01cb-492d-8cbf-ba2f9154bc84"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7e88a3b0-a0aa-4422-baed-544f8c57b3ab"
+		],
+		"title": "Syllabus moderne vreemde talen Frans havo",
+		"id": "8c5ccfca-d957-4da4-8678-8e4d57901ac2",
+		"unreleased": true
 	}
 ]
