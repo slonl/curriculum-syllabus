@@ -5403,5 +5403,16 @@
 		"title": "Syllabus moderne vreemde talen Arabisch vmbo bb",
 		"id": "f296755e-f3d9-4733-9e88-1502e4a23743",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"3af63a60-c1f5-4e83-aa4a-40d6d9f1deb9"
+		],
+		"title": "Syllabus moderne vreemde talen Arabisch vmbo gl, tl",
+		"id": "5afb59c2-9178-408a-ad8a-fe7eee2fe903",
+		"unreleased": true
 	}
 ]
