@@ -5293,5 +5293,16 @@
 		"title": "Syllabus moderne vreemde talen vmbo bb",
 		"id": "443ac44f-a099-40b1-ad73-ed48a73fa92a",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_id": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"178b721c-a59c-4be0-b8d5-2b60ec264ff6"
+		],
+		"title": "Syllabus moderne vreemde talen Engels vmbo gl, tl",
+		"id": "2408d18a-2a9b-45f2-826c-3439cac2dcae",
+		"unreleased": true
 	}
 ]
