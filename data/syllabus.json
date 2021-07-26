@@ -4851,11 +4851,14 @@
 			"9aa05d8b-8a68-4454-999b-523331238436",
 			"f640bcc9-3d57-4a15-98ba-4a9069fa56b1"
 		],
-		"title": "Syllabus  maatschappijkunde vmbo bb",
+		"title": "Syllabus  Maatschappijkunde vmbo bb",
 		"id": "80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"url": "",
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -5005,9 +5008,12 @@
 		"syllabus_toelichting_id": [
 			"4e7cf992-56f8-4248-88c6-48beee5bba01"
 		],
-		"title": "Syllabus  maatschappijkunde vmbo kb",
+		"title": "Syllabus  Maatschappijkunde vmbo kb",
 		"id": "0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
-		"unreleased": true
+		"unreleased": true,
+		"url": "",
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -5081,9 +5087,12 @@
 		"syllabus_toelichting_id": [
 			"637b614f-3560-463b-908e-d47c8a9d3f82"
 		],
-		"title": "Syllabus  maatschappijkunde vmbo gt",
+		"title": "Syllabus  Maatschappijkunde vmbo gt",
 		"id": "021a91b1-2d3d-410f-a138-34eef9798f1d",
-		"unreleased": true
+		"unreleased": true,
+		"url": "",
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_id": [
