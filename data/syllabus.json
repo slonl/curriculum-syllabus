@@ -4332,7 +4332,11 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen vwo",
 		"id": "863d8160-b032-429c-b4ae-82e6a212ca2b",
-		"unreleased": true
+		"unreleased": true,
+		"url": "",
+		"ingangsdatum": "",
+		"versie": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_id": [
