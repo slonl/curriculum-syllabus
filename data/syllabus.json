@@ -4336,7 +4336,10 @@
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4862,7 +4865,10 @@
 		"description": "",
 		"url": "",
 		"ingangsdatum": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"examenprogramma_id": [
