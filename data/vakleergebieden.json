@@ -35,5 +35,13 @@
 		"title": "Filosofie",
 		"id": "19db3b97-71db-4665-a410-78a0f33fe93c",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+		],
+		"title": "Friese taal",
+		"id": "c28bbcca-da85-4c09-8024-e3e3d5e56900",
+		"unreleased": true
 	}
 ]
