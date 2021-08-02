@@ -1022,7 +1022,13 @@
 		],
 		"title": "Syllabus Bedrijfseconomie, ondernemerschap en financiële zelfredzaamheid havo",
 		"id": "6cf07b23-accb-4f8f-b1c4-28d467ab29e8",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"129b4475-e49e-490e-9e00-ad1458767636"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -1231,7 +1237,13 @@
 		],
 		"title": "Syllabus Bedrijfsecnomie, ondernemerschap en financiële zelfredzaamheid vwo",
 		"id": "4a11f556-1c8b-496a-8d2a-655abd4dbaee",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"129b4475-e49e-490e-9e00-ad1458767636"
+		]
 	},
 	{
 		"examenprogramma_id": [
