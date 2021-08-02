@@ -2547,7 +2547,14 @@
 		"id": "b24a305a-cc34-4325-8250-085e8386a63a",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		]
 	},
 	{
 		"examenprogramma_id": [
