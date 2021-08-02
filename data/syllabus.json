@@ -4009,7 +4009,13 @@
 		],
 		"title": "Syllabus Beeldende vakken - Handvaardigheid havo",
 		"id": "19dd736c-6416-4ac1-8cea-da8bde2e3725",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"1a996972-1a61-4347-996d-eff9df182ed1"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4752,7 +4758,13 @@
 		],
 		"title": "Syllabus Beeldende vakken - Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"1a996972-1a61-4347-996d-eff9df182ed1"
+		]
 	},
 	{
 		"examenprogramma_id": [
