@@ -3916,7 +3916,13 @@
 		],
 		"title": "Syllabus Filosofie vwo",
 		"id": "65b04e56-8792-41a8-9091-a256a86b592a",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"19db3b97-71db-4665-a410-78a0f33fe93c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3937,7 +3943,13 @@
 		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"19db3b97-71db-4665-a410-78a0f33fe93c"
+		]
 	},
 	{
 		"examenprogramma_id": [
