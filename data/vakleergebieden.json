@@ -27,5 +27,13 @@
 		"title": "Economie",
 		"id": "d7b5f09e-9774-4e2c-918c-fbbac7dccdf5",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"15292864-cba8-4af5-90ef-da51cb2d22e1"
+		],
+		"title": "Filosofie",
+		"id": "19db3b97-71db-4665-a410-78a0f33fe93c",
+		"unreleased": true
 	}
 ]
