@@ -6,5 +6,13 @@
 		"title": "Maatschappijkunde",
 		"id": "6812fa48-2179-4b1e-ad04-1740e48c722c",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+		],
+		"title": "Bedrijfseconomie",
+		"id": "129b4475-e49e-490e-9e00-ad1458767636",
+		"unreleased": true
 	}
 ]
