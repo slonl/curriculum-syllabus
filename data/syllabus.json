@@ -4031,7 +4031,13 @@
 		"id": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4231,7 +4237,14 @@
 		],
 		"title": "Syllabus Kunst Muziek vmbo",
 		"id": "f882d69a-0a6b-4839-932a-cc8abcfc03ed",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"5bda29a3-64da-41a1-93ce-444bcdad470c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4617,7 +4630,13 @@
 		],
 		"title": "Syllabus Latijnse taal en cultuur vwo",
 		"id": "a8e1c130-a35c-44ca-b6b3-b5616277c61a",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"6734ffba-4cf2-4a2e-b249-fe2d0eaad304"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4776,7 +4795,13 @@
 		"id": "40ad9d1a-77cb-413e-bbcd-47f96cd810f1",
 		"unreleased": true,
 		"description": "",
-		"prefix": ""
+		"prefix": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+		]
 	},
 	{
 		"examenprogramma_id": [
