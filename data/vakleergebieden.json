@@ -83,5 +83,29 @@
 		"title": "Kunst: drama",
 		"id": "d56fcf8f-5d81-4bb1-8354-043fedc9b878",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"aa9da88c-189f-4857-b067-7cbdc929c905"
+		],
+		"title": "Kunst: muziek",
+		"id": "5bda29a3-64da-41a1-93ce-444bcdad470c",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
+		],
+		"title": "Kunst: algemeen",
+		"id": "e4415bb5-6ab7-480c-853d-f43b0a2fc7b2",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+		],
+		"title": "Latijn",
+		"id": "6734ffba-4cf2-4a2e-b249-fe2d0eaad304",
+		"unreleased": true
 	}
 ]
