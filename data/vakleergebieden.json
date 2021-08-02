@@ -43,5 +43,21 @@
 		"title": "Friese taal",
 		"id": "c28bbcca-da85-4c09-8024-e3e3d5e56900",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"1c445505-16f2-4d3f-b6cf-8623ca317140"
+		],
+		"title": "Geschiedenis",
+		"id": "3f00e2d9-72b7-4e7e-83f1-4c4638780f24",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"797f5fdf-8e35-43e9-b290-772c84f1761e"
+		],
+		"title": "Grieks",
+		"id": "cb54b707-b612-4c78-aa8d-3daa938d2a1b",
+		"unreleased": true
 	}
 ]
