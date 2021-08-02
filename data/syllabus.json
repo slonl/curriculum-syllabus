@@ -5026,7 +5026,10 @@
 		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
-		"versie": ""
+		"versie": "",
+		"syllabus_vakleergebied_id": [
+			"6812fa48-2179-4b1e-ad04-1740e48c722c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5105,7 +5108,10 @@
 		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
-		"versie": ""
+		"versie": "",
+		"syllabus_vakleergebied_id": [
+			"6812fa48-2179-4b1e-ad04-1740e48c722c"
+		]
 	},
 	{
 		"examenprogramma_id": [
