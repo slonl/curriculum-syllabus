@@ -4622,7 +4622,13 @@
 		],
 		"title": "Syllabus Griekse taal en cultuur vwo",
 		"id": "d107557f-c4fc-4a58-a694-15342d639efa",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cb54b707-b612-4c78-aa8d-3daa938d2a1b"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4840,7 +4846,13 @@
 		],
 		"title": "Syllabus geschiedenis havo",
 		"id": "6b8d8910-fca8-48ab-84b1-4b59ef470105",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4876,7 +4888,13 @@
 		],
 		"title": "Syllabus geschiedenis vwo",
 		"id": "8a2647ad-b7ec-4f42-a73c-559c2ae5b64b",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5023,7 +5041,16 @@
 		],
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo",
 		"id": "cc355108-5616-44a9-a7de-92b2b828df47",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		]
 	},
 	{
 		"examenprogramma_id": [
