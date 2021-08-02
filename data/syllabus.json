@@ -229,6 +229,12 @@
 		"dirty": true,
 		"examenprogramma_id": [
 			"b8284953-724c-4ee1-b757-71f9b4b431e4"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
 		]
 	},
 	{
@@ -294,7 +300,17 @@
 		"jaargang": "2020",
 		"status": "def.",
 		"description": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		]
 	},
 	{
 		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
@@ -1422,7 +1438,13 @@
 		],
 		"title": "Syllabus Economie vwo",
 		"id": "9f64a2ee-2cd8-4995-8cb5-e5dd5667d4e3",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		]
 	},
 	{
 		"examenprogramma_id": [
