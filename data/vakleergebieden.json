@@ -14,5 +14,13 @@
 		"title": "Bedrijfseconomie",
 		"id": "129b4475-e49e-490e-9e00-ad1458767636",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
+		],
+		"title": "Tekenen, handvaardigheid en textiele vormgeving",
+		"id": "1a996972-1a61-4347-996d-eff9df182ed1",
+		"unreleased": true
 	}
 ]
