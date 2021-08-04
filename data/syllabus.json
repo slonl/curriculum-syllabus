@@ -1919,7 +1919,16 @@
 		],
 		"title": "Syllabus Natuur- en scheikunde 1 vmbo",
 		"id": "b349bb39-9895-402f-9f00-7119196ee23a",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"6645f33c-2a9e-4c67-9473-cfb1606b9c66"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2025,7 +2034,14 @@
 		],
 		"title": "Syllabus Natuur- en scheikunde II vmbo",
 		"id": "b9413528-2f3a-45d3-88d8-319fe69e033f",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"f597a92d-eb23-42be-b286-2aeaf84bbba8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4598,7 +4614,13 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen havo",
 		"id": "ac23dd43-6079-4939-a3a4-5b6b28120046",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -4832,7 +4854,13 @@
 		],
 		"title": "Syllabus Muziek havo",
 		"id": "9c6d718f-c2e1-4c8f-bf2b-0aff2b1b05e5",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5750,6 +5778,12 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen vwo",
 		"id": "4339581c-2f9e-4277-bf6f-dbd4ff4e12dc",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
+		]
 	}
 ]
