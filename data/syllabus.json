@@ -1607,7 +1607,13 @@
 		],
 		"title": "Syllabus natuurkunde havo",
 		"id": "25f8c171-4638-4e90-bd2e-17ff212eef7f",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"8a34f933-10b1-46bf-bf0c-dad320cb09fc"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -1772,7 +1778,13 @@
 		],
 		"title": "Syllabus natuurkunde vwo",
 		"id": "6ccfdeda-55dc-49f1-b3b9-6892a8702337",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"8a34f933-10b1-46bf-bf0c-dad320cb09fc"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2241,7 +2253,13 @@
 		],
 		"title": "Syllabus scheikunde havo",
 		"id": "6d43b010-b99e-4118-bfc6-06370c1e6a29",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf742148-2e95-4123-9aec-6106e5cff3d7"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2435,7 +2453,13 @@
 		],
 		"title": "Syllabus scheikunde vwo",
 		"id": "e8db50bc-c29b-4dae-b0b6-400a337db13d",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf742148-2e95-4123-9aec-6106e5cff3d7"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2727,7 +2751,13 @@
 		],
 		"title": "Syllabus wiskunde A havo",
 		"id": "f73debf4-e1fe-4366-a92a-18a69855400c",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"e39e19a0-471e-4f54-a550-a0c628c4bc86"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2811,7 +2841,13 @@
 		],
 		"title": "Syllabus wiskunde A vwo",
 		"id": "43cdc2cb-a388-4fee-bfc0-9c5a8ac839f1",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"e39e19a0-471e-4f54-a550-a0c628c4bc86"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2932,7 +2968,13 @@
 		],
 		"title": "Syllabus wiskunde B havo",
 		"id": "c7a25b87-c755-41f2-9be4-0e5856049e81",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"fbddb9bd-94ca-4d71-876b-016f996ac052"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3308,7 +3350,13 @@
 		],
 		"title": "Syllabus wiskunde B vwo",
 		"id": "3398fa1c-0689-4412-9871-37e2fc6dd70e",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"fbddb9bd-94ca-4d71-876b-016f996ac052"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3417,7 +3465,13 @@
 		"id": "195c38bb-fd1c-45bc-a96e-9113db377f42",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"f3065744-6496-4a24-89a4-49245fd0072f"
+		]
 	},
 	{
 		"examenprogramma_id": [
