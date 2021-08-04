@@ -5713,7 +5713,10 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen havo",
 		"id": "6588bd7e-7324-4d83-85a3-9b1fdb5fe971",
-		"unreleased": true
+		"unreleased": true,
+		"syllabus_vakleergebied_id": [
+			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
+		]
 	},
 	{
 		"niveau_id": [
@@ -5841,6 +5844,9 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen vwo",
 		"id": "42dd818e-1559-4f4c-9657-c409e643ceb6",
-		"unreleased": true
+		"unreleased": true,
+		"syllabus_vakleergebied_id": [
+			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
+		]
 	}
 ]
