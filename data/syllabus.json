@@ -5504,7 +5504,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Chinees vwo",
 		"id": "d9f10a63-7e5c-4475-a4d6-3764bc22134f",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"116e982d-493f-4329-a7a3-5a97ab4d866b"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5634,16 +5640,16 @@
 		"examenprogramma_id": [
 			"51b44493-004b-4b9a-aa90-a83d6155561f"
 		],
-		"syllabus_specifieke_eindterm_id": [
-			"f19b040a-9e31-4838-bf49-d4cd01d53175"
-		],
 		"title": "Syllabus moderne vreemde talen Engels vmbo gl, tl",
 		"id": "0b211c91-1b51-4993-9a12-8e0fc2de69fd",
 		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus"
+		]
 	},
 	{
 		"examenprogramma_id": [
