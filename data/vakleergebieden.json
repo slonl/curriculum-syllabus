@@ -107,5 +107,37 @@
 		"title": "Latijn",
 		"id": "6734ffba-4cf2-4a2e-b249-fe2d0eaad304",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+		],
+		"title": "Maatschappijwetenschappen",
+		"id": "a4105b80-bb7b-4dd2-9543-2bb88a18e62f",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"title": "Muziek",
+		"id": "2d2b1c01-2439-4abc-b9d6-22c16642824e",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"title": "Natuur- en scheikunde I",
+		"id": "6645f33c-2a9e-4c67-9473-cfb1606b9c66",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+		],
+		"title": "Natuur- en scheikunde II",
+		"id": "f597a92d-eb23-42be-b286-2aeaf84bbba8",
+		"unreleased": true
 	}
 ]
