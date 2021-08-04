@@ -5906,5 +5906,20 @@
 		"syllabus_vakleergebied_id": [
 			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
 		]
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"886a3e7c-33ff-403b-9f79-1cc815a34b79"
+		],
+		"title": "Syllabus moderne vreemde talen Engels vmbo bb, kb",
+		"id": "e59047dc-0b54-4224-bcb2-09e6382602de",
+		"unreleased": true
 	}
 ]
