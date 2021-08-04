@@ -42887,5 +42887,15 @@
 		"title": "Sociaaldemocratie",
 		"id": "0d8675b4-880a-47ca-822a-673fe7418f06",
 		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MVT/EN/K/4",
+		"examenprogramma_domein_id": [
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691"
+		],
+		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
+		"id": "886a3e7c-33ff-403b-9f79-1cc815a34b79",
+		"unreleased": true
 	}
 ]
