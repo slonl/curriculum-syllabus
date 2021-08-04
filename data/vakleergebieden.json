@@ -203,5 +203,13 @@
 		"title": "Wiskunde C",
 		"id": "f3065744-6496-4a24-89a4-49245fd0072f",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"1f7aa29f-38d8-4dab-91db-3be52669951f"
+		],
+		"title": "Chinees",
+		"id": "116e982d-493f-4329-a7a3-5a97ab4d866b",
+		"unreleased": true
 	}
 ]
