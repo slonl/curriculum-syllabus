@@ -163,5 +163,45 @@
 		"title": "Biologie",
 		"id": "d4e350b3-b83d-48c9-a6de-1b09f942c7bc",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		],
+		"title": "Natuurkunde",
+		"id": "8a34f933-10b1-46bf-bf0c-dad320cb09fc",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"title": "Scheikunde",
+		"id": "cf742148-2e95-4123-9aec-6106e5cff3d7",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+		],
+		"title": "Wiskunde A",
+		"id": "e39e19a0-471e-4f54-a550-a0c628c4bc86",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
+		],
+		"title": "Wiskunde B",
+		"id": "fbddb9bd-94ca-4d71-876b-016f996ac052",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
+		],
+		"title": "Wiskunde C",
+		"id": "f3065744-6496-4a24-89a4-49245fd0072f",
+		"unreleased": true
 	}
 ]
