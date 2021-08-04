@@ -563,6 +563,13 @@
 		"jaargang": "2020",
 		"examenprogramma_id": [
 			"92f57200-9ac6-449c-964c-b18c8996df85"
+		],
+		"dirty": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
 		]
 	},
 	{
@@ -685,6 +692,16 @@
 		"status": "Def.",
 		"examenprogramma_id": [
 			"544a0293-a7e3-4f6b-a973-30af7627bdea"
+		],
+		"dirty": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
 		]
 	},
 	{
@@ -787,7 +804,14 @@
 			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
 		],
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
+		]
 	},
 	{
 		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
@@ -856,7 +880,14 @@
 			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
 		],
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
+		]
 	},
 	{
 		"ingangsdatum": "2021",
@@ -2444,7 +2475,13 @@
 		"id": "efbaa1f6-ec25-4482-be23-46cb74ab82f3",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2484,7 +2521,13 @@
 		"id": "ba789609-e0ba-4a79-9926-eb1cef208f12",
 		"unreleased": true,
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -2546,7 +2589,16 @@
 		],
 		"title": "Syllabus Nederlandse taal vmbo",
 		"id": "ff8ea612-0010-443d-a4df-bcfd31d838d8",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3077,7 +3129,13 @@
 		],
 		"title": "Syllabus biologie havo",
 		"id": "30414e4c-d41a-4afb-a66d-44244f33de78",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -3660,7 +3718,16 @@
 		],
 		"title": "Syllabus biologie vmbo",
 		"id": "cc683faf-c778-4b36-8213-75782478375c",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
+		]
 	},
 	{
 		"examenprogramma_id": [
