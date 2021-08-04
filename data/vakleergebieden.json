@@ -139,5 +139,29 @@
 		"title": "Natuur- en scheikunde II",
 		"id": "f597a92d-eb23-42be-b286-2aeaf84bbba8",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"title": "Nederlands",
+		"id": "31dab1e5-9982-4c5e-9839-1e172dc27c5f",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		],
+		"title": "Aardrijkskunde",
+		"id": "85f2ed0a-794c-4269-b933-2eff604826a6",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"41dd7292-3cce-411b-8097-11db8c875a89"
+		],
+		"title": "Biologie",
+		"id": "d4e350b3-b83d-48c9-a6de-1b09f942c7bc",
+		"unreleased": true
 	}
 ]
