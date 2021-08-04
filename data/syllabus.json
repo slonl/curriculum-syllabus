@@ -5416,7 +5416,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Duits vwo",
 		"id": "1da5d8c6-a9b2-4ac4-b12e-537a75face84",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5427,7 +5433,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Engels vwo",
 		"id": "6a9a7f83-06c9-4ba8-a181-00db933d13ba",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5438,7 +5450,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Frans vwo",
 		"id": "880e66c6-5787-4d65-b73b-5f58e77e254e",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5449,7 +5467,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Spaans vwo",
 		"id": "734e8982-36ba-4a79-9dbb-0a1588563b28",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5460,7 +5484,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch vwo",
 		"id": "e6ade6cc-4fe9-48aa-8b9e-7363cdf1dc2f",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5471,7 +5501,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Turks vwo",
 		"id": "05906842-43c4-40c5-b9f3-547bea74c2cb",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5482,7 +5518,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Russisch vwo",
 		"id": "301caa22-0134-432c-90b4-dc668210850b",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5493,7 +5535,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Italiaans vwo",
 		"id": "f5b4dd1d-83c5-41d8-8db1-ea430131bb1b",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"93db506e-e09b-4bab-b141-ff3d840ab2d4"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5521,7 +5569,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Duits havo",
 		"id": "44fdf9e4-ce6f-433f-be4b-60243048a003",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5532,7 +5586,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Engels havo",
 		"id": "57e56d65-93ea-429d-97d8-85937ae88533",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5543,7 +5603,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Frans havo",
 		"id": "8c5ccfca-d957-4da4-8678-8e4d57901ac2",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5554,7 +5620,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Spaans havo",
 		"id": "6b3ec012-afd2-49ca-90aa-b4d042df84bb",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5565,7 +5637,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch havo",
 		"id": "dc992c11-c07b-4dce-ad68-bac92bb07312",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5576,7 +5654,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Turks havo",
 		"id": "82924484-e04e-42db-85b0-981d349ccddc",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5587,7 +5671,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Russisch havo",
 		"id": "c5741e3e-8cf3-412f-8e05-e7b6f65657e2",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5598,7 +5688,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Italiaans havo",
 		"id": "1a041ffa-b1d1-4eab-8491-20f376065663",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"93db506e-e09b-4bab-b141-ff3d840ab2d4"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5609,7 +5705,15 @@
 		],
 		"title": "Syllabus moderne vreemde talen Duits vmbo kb, gl, tl",
 		"id": "3fa880dc-0c86-41ee-b565-d2e84ce60b20",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5623,7 +5727,13 @@
 		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5634,7 +5744,14 @@
 		],
 		"title": "Syllabus moderne vreemde talen Engels vmbo gl, tl",
 		"id": "2408d18a-2a9b-45f2-826c-3439cac2dcae",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5660,7 +5777,14 @@
 		],
 		"title": "Syllabus moderne vreemde talen Frans vmbo gl, tl",
 		"id": "7e6df60b-8050-41fd-9a43-e85bd2c884cf",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5671,7 +5795,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Frans vmbo kb",
 		"id": "d156f8dc-a306-4fa3-bd8e-d561c7dbd421",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5682,7 +5812,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Frans vmbo bb",
 		"id": "159ce633-bf0a-46a0-b604-9a88c17f75c8",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5693,7 +5829,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Spaans vmbo kb",
 		"id": "3263f2b0-db5f-4af3-9625-54c8edb96ccd",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5704,7 +5846,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Spaans vmbo bb",
 		"id": "a34cd4fd-5c15-42be-b129-fbdb080b51e1",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5715,7 +5863,14 @@
 		],
 		"title": "Syllabus moderne vreemde talen Spaans vmbo gl, tl",
 		"id": "3ccb4772-f5e1-4a7c-befd-22f10725ba0e",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5726,7 +5881,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch vmbo kb",
 		"id": "4d2ed70b-b6c3-4766-ac0b-6e9b2171376d",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5737,7 +5898,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch vmbo bb",
 		"id": "f296755e-f3d9-4733-9e88-1502e4a23743",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5748,7 +5915,14 @@
 		],
 		"title": "Syllabus moderne vreemde talen Arabisch vmbo gl, tl",
 		"id": "5afb59c2-9178-408a-ad8a-fe7eee2fe903",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5759,7 +5933,14 @@
 		],
 		"title": "Syllabus moderne vreemde talen Turks vmbo gl, tl",
 		"id": "0bde3c8b-79a1-46d1-b979-4be69cd189f9",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5770,7 +5951,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Turks vmbo bb",
 		"id": "b3b5f41e-f70d-46e5-b359-55421fa1df28",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5781,7 +5968,13 @@
 		],
 		"title": "Syllabus moderne vreemde talen Turks vmbo kb",
 		"id": "5d51560f-8269-4af6-83bb-4858235240bf",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
 	},
 	{
 		"examenprogramma_id": [
@@ -5930,6 +6123,9 @@
 		],
 		"title": "Syllabus moderne vreemde talen Engels vmbo bb, kb",
 		"id": "e59047dc-0b54-4224-bcb2-09e6382602de",
-		"unreleased": true
+		"unreleased": true,
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		]
 	}
 ]
