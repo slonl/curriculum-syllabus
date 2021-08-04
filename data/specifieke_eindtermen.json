@@ -39778,7 +39778,10 @@
 		"id": "f19b040a-9e31-4838-bf49-d4cd01d53175",
 		"unreleased": true,
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"ce_se": "ce",
@@ -39908,6 +39911,686 @@
 		],
 		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
 		"id": "886a3e7c-33ff-403b-9f79-1cc815a34b79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1a.1",
+		"examenprogramma_eindterm_id": [
+			"a66ec364-385e-41ed-8678-8083d851f4a8"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit een of meerdere informatiebronnen",
+		"id": "27498bfd-3a91-4311-a380-1c9dda9c69e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1a.2",
+		"examenprogramma_eindterm_id": [
+			"a66ec364-385e-41ed-8678-8083d851f4a8"
+		],
+		"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en deze te typeren naar schrijver, identiteit van de schrijver, doel van het geschrevene en mate van objectiviteit. De mate van objectiviteit en subjectiviteit kan hij herkennen in onderwerpkeuze, woordgebruik en beeldkeuze.",
+		"id": "f67a3807-e1c8-4996-8674-98b2a71bd2f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1a.3",
+		"examenprogramma_eindterm_id": [
+			"a66ec364-385e-41ed-8678-8083d851f4a8"
+		],
+		"title": "Tevens kan de kandidaat de betrouwbaarheid en representativiteit van informatiebronnen vaststellen door na te gaan waar deze vandaan komen (denk bv. aan wie is de schrijver?, met welk doel zijn zij geschreven?, wat is de identiteit van de schrijver?), op welke wijze zij zijn verzameld (denk bv. aan selectiecriteria, referentiekader) en hoe zij zijn weergegeven (denk bv. aan journalistieke principes toepassen als hoor en wederhoor, scheiding feiten en commentaar, streven naar objectiviteit, juiste weergave van feiten, citaten, checken van bronnen). Het begrip betrouwbaarheid heeft betrekking op de vraag of de bron gegevens kan opleveren die als feitelijk juist kunnen worden beschouwd.",
+		"id": "c46b21a7-1fea-4a5f-8b8e-dfdd019b1002",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.1",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "De kandidaat kan hoofd- en kernconcepten van maatschappijwetenschappen herkennen in gegeven informatiebronnen en beredeneerde conclusies trekken op basis van hoofd- en kernconcepten.",
+		"id": "01cf055f-816f-459d-8871-d2660192d8fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "Hij kan elementaire statistische informatie uit grafieken en tabellen interpreteren",
+		"id": "e182baed-58af-45ba-a838-ae431e89b676",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "Hij kan een beredeneerd standpunt innemen en dit standpunt relateren aan verworven informatie.",
+		"id": "b70fa1ee-95cb-4f52-a144-8facdd2afb90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"c958d10e-ef93-44d1-999c-24086a7466d6"
+		],
+		"title": "De kandidaat kan een oordeel geven over een onderzoek: over de betrouwbaarheid (de mate waarin een meting onafhankelijk van toeval en vrij van willekeurige meetfouten is), validiteit (de onderzoeker meet wat hij wil meten) en representativiteit (steekproef is een dwarsdoorsnede van de totale onderzoekspopulatie); daarbij kan hij de onderzoeksresultaten interpreteren en evalueren op basis van de gehanteerde meetmethoden. Dat geldt ook voor informatie over onderzoeksresultaten die in de media verschijnt.",
+		"id": "57e9ec97-ced7-41e0-97e6-417c18cc1f90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3b.1",
+		"examenprogramma_eindterm_id": [
+			"2b66de54-f9ca-4190-8b01-c71401258842"
+		],
+		"title": "De kandidaat kan over een maatschappelijk verschijnsel een onderzoeksvraag/hypothese/stelling formuleren die onderzoekbaar is. Een hypothese is een toetsbare veronderstelling over de werkelijkheid.",
+		"id": "0ab459e9-0bcb-45fc-9b9f-16983ecfc0fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3b.2",
+		"examenprogramma_eindterm_id": [
+			"2b66de54-f9ca-4190-8b01-c71401258842"
+		],
+		"title": "Hij kan variabelen onderscheiden (afhankelijke en onafhankelijke variabelen) en deze operationaliseren (in indicatoren bijvoorbeeld van hoofd- en kernconcepten). Tevens kan hij hoofd- en kernconcepten selecteren en opnemen in de vraagstelling of hypothese.",
+		"id": "a1470eb3-10de-4840-a8bb-a9273e8c1478",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3b.3",
+		"examenprogramma_eindterm_id": [
+			"2b66de54-f9ca-4190-8b01-c71401258842"
+		],
+		"title": "De kandidaat kan het verschil beschrijven tussen correlatie en causaliteit. Hij kan beoordelen of beweringen over een causaal verband tussen twee maatschappelijke verschijnselen juist zijn en kan daarbij uitleggen welke invloed andere, interveniërende variabelen hebben op het mogelijke verband.",
+		"id": "ab9d008a-838b-4633-b50a-0ae350979678",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B1/4.1",
+		"examenprogramma_eindterm_id": [
+			"56f2d4fe-acb6-4773-91f0-bfd17425a419"
+		],
+		"title": "Het proces van socialisatie en acculturatie",
+		"id": "cdb1797d-e0d0-4d75-aa54-b55df9a398d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B1/4.2",
+		"examenprogramma_eindterm_id": [
+			"56f2d4fe-acb6-4773-91f0-bfd17425a419"
+		],
+		"title": "Veranderingen in het belang van socialisatoren",
+		"id": "46edfd01-bfaf-408f-8b17-f30bc3c5872b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B1/4.3",
+		"examenprogramma_eindterm_id": [
+			"56f2d4fe-acb6-4773-91f0-bfd17425a419"
+		],
+		"title": "De vorming van de identiteit",
+		"id": "449f706d-4e2a-455f-9946-9f1e9b50580c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B1/4.4",
+		"examenprogramma_eindterm_id": [
+			"56f2d4fe-acb6-4773-91f0-bfd17425a419"
+		],
+		"title": "Cultuur en de dimensies van Hofstede",
+		"id": "ce97959c-18b5-41b3-8da3-7aa906231b99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B2/5.1",
+		"examenprogramma_eindterm_id": [
+			"d8ccd376-d8a5-4787-a37f-76f8d650de5a"
+		],
+		"title": "Het proces van politieke socialisatie",
+		"id": "be07d27d-f690-4f39-97f8-346f8ef04f11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B2/5.2",
+		"examenprogramma_eindterm_id": [
+			"d8ccd376-d8a5-4787-a37f-76f8d650de5a"
+		],
+		"title": "Politieke ideologieën en de belangrijke politieke stromingen",
+		"id": "de287217-0000-4f4b-8c76-e87ad6f93cda",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B3/6.1",
+		"examenprogramma_eindterm_id": [
+			"047efcdd-ea1c-4645-8522-f685e2c9afde"
+		],
+		"title": "De Geschiedenis van het gezin en andere samenlevingsvormen in Nederland vanaf de tweede helft van de 20ste eeuw",
+		"id": "7edb679d-54cf-486c-878e-bad277f54805",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B4/7.1",
+		"examenprogramma_eindterm_id": [
+			"f8b9b6cf-16a3-4a6b-af8e-49ad1f7a318b"
+		],
+		"title": "Overheidsbeleid met betrekking tot gezin en andere samenlevingsvormen vanaf de tweede helft van de 20ste eeuw",
+		"id": "e96ac707-7797-4c67-8a14-890547dd3ac1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B4/7.2",
+		"examenprogramma_eindterm_id": [
+			"f8b9b6cf-16a3-4a6b-af8e-49ad1f7a318b"
+		],
+		"title": "Politieke ideologieën en hun denkbeelden over samenlevingsvormen",
+		"id": "9ec02aa8-3125-472e-ad03-52504afeea5b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B4/7.3",
+		"examenprogramma_eindterm_id": [
+			"f8b9b6cf-16a3-4a6b-af8e-49ad1f7a318b"
+		],
+		"title": "Regelgeving en acceptatie van andere samenlevingsvormen",
+		"id": "c67b897e-bfd3-45eb-88fb-5a51aae8c3ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C1/8.1",
+		"examenprogramma_eindterm_id": [
+			"05a342be-5b00-4c52-97ce-d6c9a2af8f9f"
+		],
+		"title": "Ongelijke sociale verhoudingen",
+		"id": "af68def2-de61-479f-ac98-d27b67bb3a57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C1/8.2",
+		"examenprogramma_eindterm_id": [
+			"05a342be-5b00-4c52-97ce-d6c9a2af8f9f"
+		],
+		"title": "Sociale stratificatie",
+		"id": "3e3ab602-7c54-42c4-a7eb-ea35f2023888",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C1/8.3",
+		"examenprogramma_eindterm_id": [
+			"05a342be-5b00-4c52-97ce-d6c9a2af8f9f"
+		],
+		"title": "Positietoewijzing en positieverwerving",
+		"id": "16a51b8c-4107-4233-9522-6f9575560b9c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C1/8.4",
+		"examenprogramma_eindterm_id": [
+			"05a342be-5b00-4c52-97ce-d6c9a2af8f9f"
+		],
+		"title": "Gevolgen van maatschappelijke posities",
+		"id": "8a08f321-36f5-44f2-994e-adbf136ef844",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C2/9.1",
+		"examenprogramma_eindterm_id": [
+			"c5fb17c9-859b-4805-8c03-18f47c30e1ea"
+		],
+		"title": "Macht",
+		"id": "567be244-79ce-45f4-8441-3f12f82fe71a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C2/9.2",
+		"examenprogramma_eindterm_id": [
+			"c5fb17c9-859b-4805-8c03-18f47c30e1ea"
+		],
+		"title": "De ongelijke verdeling van politieke participatie en politieke macht",
+		"id": "1be1fa2e-a5d3-4400-89ff-f2cac8a17469",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C2/9.3",
+		"examenprogramma_eindterm_id": [
+			"c5fb17c9-859b-4805-8c03-18f47c30e1ea"
+		],
+		"title": "Verschillende visies op de wenselijkheid van politieke participatie",
+		"id": "4166d25b-39ca-431b-8ccb-77c6478b3a7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C2/9.4",
+		"examenprogramma_eindterm_id": [
+			"c5fb17c9-859b-4805-8c03-18f47c30e1ea"
+		],
+		"title": "Verschillende theorieën over de machtsverdeling in een democratie",
+		"id": "edec0f42-cb9f-4182-8029-3560a6d437b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C2/9.5",
+		"examenprogramma_eindterm_id": [
+			"c5fb17c9-859b-4805-8c03-18f47c30e1ea"
+		],
+		"title": "Gezag",
+		"id": "6933f32a-39de-4644-8a8d-f0ab5d7f3a41",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C3/10.1",
+		"examenprogramma_eindterm_id": [
+			"e3571daa-e654-469c-a99e-58c1f47e1cf1"
+		],
+		"title": "Maatschappelijke en politieke conflicten",
+		"id": "a340f870-d753-49c0-b21a-97a93cfceb77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C3/10.2",
+		"examenprogramma_eindterm_id": [
+			"e3571daa-e654-469c-a99e-58c1f47e1cf1"
+		],
+		"title": "Oorzaken van maatschappelijke en politieke conflicten",
+		"id": "06cde11b-e585-4dbc-b0c5-ad7f065e96c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C3/10.3",
+		"examenprogramma_eindterm_id": [
+			"e3571daa-e654-469c-a99e-58c1f47e1cf1"
+		],
+		"title": "Gevolgen van maatschappelijke en politieke conflicten",
+		"id": "cdd32f03-bcd2-4fb6-afc0-a7e277fd63ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C3/10.4",
+		"examenprogramma_eindterm_id": [
+			"e3571daa-e654-469c-a99e-58c1f47e1cf1"
+		],
+		"title": "Strategieën voor het omgaan met conflicten",
+		"id": "fd52dfe0-9a86-4896-a3a5-27a797faaa7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C3/10.5",
+		"examenprogramma_eindterm_id": [
+			"e3571daa-e654-469c-a99e-58c1f47e1cf1"
+		],
+		"title": "Maatschappelijke en politieke samenwerking",
+		"id": "3a00f429-ca0d-43f7-b509-972408420dd7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C4/11.1",
+		"examenprogramma_eindterm_id": [
+			"d946dab6-f95f-45e3-91de-946b8111d2bd"
+		],
+		"title": "Maatschappelijke ladder",
+		"id": "d2b5013d-0df4-44ae-ab81-6806aeb8d7ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C4/11.2",
+		"examenprogramma_eindterm_id": [
+			"d946dab6-f95f-45e3-91de-946b8111d2bd"
+		],
+		"title": "Stijgen en dalen op de maatschappelijke ladder",
+		"id": "93289b1b-4479-4494-accd-3a399ca6a0e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C4/11.3",
+		"examenprogramma_eindterm_id": [
+			"d946dab6-f95f-45e3-91de-946b8111d2bd"
+		],
+		"title": "Groepen met zwakke positie op de arbeidsmarkt",
+		"id": "3344f8f4-dcb7-4c33-b39a-23be943c3dc7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C4/11.4",
+		"examenprogramma_eindterm_id": [
+			"d946dab6-f95f-45e3-91de-946b8111d2bd"
+		],
+		"title": "Sociale uitsluiting",
+		"id": "8557fcfa-537b-4b26-b5f0-4486cc744cc6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C5/12.1",
+		"examenprogramma_eindterm_id": [
+			"93a6e64b-f601-42ce-a78d-dbf8d686594f"
+		],
+		"title": "Veranderingen in kansen ten opzichte van vorige generaties",
+		"id": "fc9818f3-bdf5-479c-bcc8-981193ff3fa6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C5/12.2",
+		"examenprogramma_eindterm_id": [
+			"93a6e64b-f601-42ce-a78d-dbf8d686594f"
+		],
+		"title": "Processen die de sociale ongelijkheid in Nederland en tussen landen beïnvloeden",
+		"id": "5a368ad5-cc47-4c63-b9be-818af8d32915",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C5/12.3",
+		"examenprogramma_eindterm_id": [
+			"93a6e64b-f601-42ce-a78d-dbf8d686594f"
+		],
+		"title": "Afname van ongelijkheid door toename van rechten van burgers",
+		"id": "68075598-13ab-4bc1-bbdf-d1a46fb366d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C5/12.4",
+		"examenprogramma_eindterm_id": [
+			"93a6e64b-f601-42ce-a78d-dbf8d686594f"
+		],
+		"title": "Veranderende sociale verhoudingen",
+		"id": "cf786a7a-d831-4062-9cad-a896854ab5b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C6/13.1",
+		"examenprogramma_eindterm_id": [
+			"765b2b2c-217d-409a-9899-4d73ffefbe64"
+		],
+		"title": "Overheidsinstrumenten om sociale ongelijkheid te beïnvloeden",
+		"id": "8a87d9ca-5a07-4a66-9c3f-50427eef859b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C6/13.2",
+		"examenprogramma_eindterm_id": [
+			"765b2b2c-217d-409a-9899-4d73ffefbe64"
+		],
+		"title": "Positieve en negatieve effecten van overheidsinstrumenten",
+		"id": "2cfbceb9-4b1a-450f-92e1-411f9f3937df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinC/C6/13.3",
+		"examenprogramma_eindterm_id": [
+			"765b2b2c-217d-409a-9899-4d73ffefbe64"
+		],
+		"title": "Opvattingen van aanhangers van politieke stromingen over de rol van de overheid en de verzorgingsstaat",
+		"id": "10734da7-54d0-48ce-811f-bea94af4bc42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D1/14.1",
+		"examenprogramma_eindterm_id": [
+			"bacc7f2b-e378-4888-badc-d54cc30b02fe"
+		],
+		"title": "Typen bindingen tussen mensen",
+		"id": "3f9a5554-859d-42ee-b28c-45a3f279d467",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D1/14.2",
+		"examenprogramma_eindterm_id": [
+			"bacc7f2b-e378-4888-badc-d54cc30b02fe"
+		],
+		"title": "Groepsvorming",
+		"id": "cf990e6f-6a8a-4ce4-8ab0-08ee91b88442",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D1/14.3",
+		"examenprogramma_eindterm_id": [
+			"bacc7f2b-e378-4888-badc-d54cc30b02fe"
+		],
+		"title": "Sociale cohesie als bindmiddel voor de samenleving",
+		"id": "e8112a2b-453a-46b7-9e3e-5ff39f5ee70b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D1/14.4",
+		"examenprogramma_eindterm_id": [
+			"bacc7f2b-e378-4888-badc-d54cc30b02fe"
+		],
+		"title": "De functie van sociale controle",
+		"id": "a29b5865-03f5-49f0-bf13-522a73df6563",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D1/14.5",
+		"examenprogramma_eindterm_id": [
+			"bacc7f2b-e378-4888-badc-d54cc30b02fe"
+		],
+		"title": "Sociale institutie",
+		"id": "7f481eee-dde4-4ed7-8ad5-b4fc24215cb9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D2/15.1",
+		"examenprogramma_eindterm_id": [
+			"9c4ba972-6213-427f-a9d8-efc2947f71f3"
+		],
+		"title": "Politieke institutie",
+		"id": "d1623f3c-7dd2-45b6-a76c-08b9866bd2cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D2/15.2",
+		"examenprogramma_eindterm_id": [
+			"9c4ba972-6213-427f-a9d8-efc2947f71f3"
+		],
+		"title": "Representatie en representativiteit",
+		"id": "5f5ca502-3913-4794-9a84-c1fbe851a429",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.1",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Bedreigingen van de Nederlandse samenleving",
+		"id": "30dfb0a5-016b-4cc2-95d8-114deb7bc97a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.2",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "(On)veiligheid als maatschappelijk en politiek vraagstuk",
+		"id": "d1436462-706d-4e49-b2ba-c35200f0411b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.3",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Objectieve en subjectieve (on)veiligheid",
+		"id": "46308240-80fd-4c4b-83d4-0e6a517c8609",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.4",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Beeldvorming rondom (on)veiligheid",
+		"id": "47bb83b2-8316-4121-8a8a-cad67bab644a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.5",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Veiligheidsutopie",
+		"id": "5c01ada6-f1bd-4ec7-9b7a-c20c0fc4b2cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.6",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Verschuivingen in de aard en omvang van criminaliteit",
+		"id": "8aa555fe-716a-408c-81c6-36128b8060f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.7",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"title": "Met criminaliteit samenhangende sociale en politieke vraagstukken",
+		"id": "2c1cb50e-89af-4e3b-a9f4-e12121decb0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D4/17.1",
+		"examenprogramma_eindterm_id": [
+			"884f7a40-dfa1-4657-a55f-d0bf65211541"
+		],
+		"title": "Klassieke en moderne school in het strafrecht",
+		"id": "e6f1d69c-47d8-4956-ac1a-1efc925cfee3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D4/17.2",
+		"examenprogramma_eindterm_id": [
+			"884f7a40-dfa1-4657-a55f-d0bf65211541"
+		],
+		"title": "Opvattingen van aanhangers van politieke stromingen over het handhaven van openbare orde en veiligheid",
+		"id": "fcd60f3c-7b10-4f42-bdea-7a60f66fbad9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D4/17.3",
+		"examenprogramma_eindterm_id": [
+			"884f7a40-dfa1-4657-a55f-d0bf65211541"
+		],
+		"title": "Veranderingen in het overheidsbeleid ten aanzien van criminaliteit",
+		"id": "4526bad6-2d55-4f40-8e2a-eff1aa1cebe4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E1/18.1",
+		"examenprogramma_eindterm_id": [
+			"c4a8084f-d2da-49ac-b095-96f1bee84728"
+		],
+		"title": "Rationalisering",
+		"id": "53584433-89be-46d1-9d8d-c50c2ea6177a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E1/18.2",
+		"examenprogramma_eindterm_id": [
+			"c4a8084f-d2da-49ac-b095-96f1bee84728"
+		],
+		"title": "Individualisering",
+		"id": "c97380a0-919b-4893-ad12-b5057319f82f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E1/18.3",
+		"examenprogramma_eindterm_id": [
+			"c4a8084f-d2da-49ac-b095-96f1bee84728"
+		],
+		"title": "Institutionalisering",
+		"id": "c4179737-6dcf-4520-87ad-91949ac035f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E2/19.1",
+		"examenprogramma_eindterm_id": [
+			"0efe9a9e-463c-4a55-8ad7-b1a24c42296a"
+		],
+		"title": "Staatsvorming",
+		"id": "8ba151b3-a23b-4e31-bf43-027dcbf347a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E2/19.2",
+		"examenprogramma_eindterm_id": [
+			"0efe9a9e-463c-4a55-8ad7-b1a24c42296a"
+		],
+		"title": "Democratisering",
+		"id": "37af64d9-4e5a-4254-b814-f9d102e77b04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinE/E2/19.3",
+		"examenprogramma_eindterm_id": [
+			"0efe9a9e-463c-4a55-8ad7-b1a24c42296a"
+		],
+		"title": "Globalisering",
+		"id": "dac8807b-63e0-4c23-8bff-279dd927fc52",
 		"unreleased": true
 	}
 ]
