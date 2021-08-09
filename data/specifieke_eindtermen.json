@@ -5085,7 +5085,7 @@
 	},
 	{
 		"id": "1b9d4ac0-d346-4575-84f3-0530244248b0",
-		"prefix": "A1.1a.1e",
+		"prefix": "A1.1a.1e.1",
 		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5702,11 +5702,13 @@
 	},
 	{
 		"id": "f8d50874-ec94-4e31-a448-6cf84e8c91f4",
-		"title": "De kandidaat moet de goegrafische werkwijzen kunnen gebruiken en weten wanneer en waarom bepaalde geografische werkwijzen gebruikt moeten worden.",
+		"title": "De kandidaat moet de geografische werkwijzen kunnen gebruiken en weten wanneer en waarom bepaalde geografische werkwijzen gebruikt moeten worden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
-		]
+		],
+		"prefix": "A1.1c",
+		"ce_se": ""
 	},
 	{
 		"id": "b8f777d7-a6c6-4998-a5c3-e2130c0d713a",
@@ -26074,7 +26076,9 @@
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		]
+		],
+		"prefix": "A1.1a.1e.2",
+		"ce_se": ""
 	},
 	{
 		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
@@ -26083,7 +26087,9 @@
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		]
+		],
+		"prefix": "A1.1a.1e.3",
+		"ce_se": ""
 	},
 	{
 		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
@@ -26092,7 +26098,9 @@
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		]
+		],
+		"prefix": "A1.1a.1e.4",
+		"ce_se": ""
 	},
 	{
 		"id": "4fef2d14-596a-4eba-a392-c0df3e26ce7a",
@@ -26101,7 +26109,9 @@
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		]
+		],
+		"prefix": "A1.1a.1e.5",
+		"ce_se": ""
 	},
 	{
 		"ce_se": "CE",
