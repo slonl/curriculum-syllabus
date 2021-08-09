@@ -5883,11 +5883,12 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"prefix": "D1.9a.4"
 	},
 	{
 		"id": "9ec21827-2435-436f-b1da-f9159d1da076",
-		"prefix": "D1.9a.3",
+		"prefix": "D1.9a.3a",
 		"title": "De kandidaat kan de (ruimtelijke spreiding van) klimaten, landschappen en vegetatietypen in Brazilië beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5904,7 +5905,8 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"prefix": "D1.9a.3b"
 	},
 	{
 		"id": "1caec618-935d-473b-a189-8aabcce5038e",
@@ -5914,7 +5916,8 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"prefix": "D1.9a.3c"
 	},
 	{
 		"id": "7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
@@ -41752,5 +41755,15 @@
 		"title": "Sociaaldemocratie",
 		"id": "d34470a4-156e-4f87-832f-b9c2c9b67a21",
 		"unreleased": true
+	},
+	{
+		"id": "5f792d6e-fdca-460c-ac76-4874720c4541",
+		"prefix": "A1.1b.2",
+		"title": "De kandidaat kan de volgende typen geografisch vragen erkennen en formuleren: beschrijvende vragen; verklarende vragen; voorspellende vragen; waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
+		"description": "",
+		"ce_se": "",
+		"examenprogramma_eindterm_id": [
+			"dbc378e5-07e8-4aac-9959-764335da89ff"
+		]
 	}
 ]
