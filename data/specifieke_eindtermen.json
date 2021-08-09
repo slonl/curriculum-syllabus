@@ -5260,20 +5260,22 @@
 	{
 		"id": "68d91f3c-007f-4294-a446-2dcd0e96d7b5",
 		"prefix": "B1.3a.4",
-		"title": "De kandidaat kan beschrijven hoe processen van internationalisering en gelobalisering zich in grote lijnen sedert de koloniale periode hebben ontwikkeld en wat de rol is van hegemoniale staten in deze processen.",
+		"title": "De kandidaat kan beschrijven hoe processen van internationalisering en globalisering zich in grote lijnen sedert de koloniale periode hebben ontwikkeld en wat de rol is van hegemoniale staten in deze processen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9d044770-f8ff-4c61-8baf-39f5f7612731",
-		"prefix": "B1.3b.1",
+		"prefix": "B1.3b.1a",
 		"title": "De kandidaat kan aan de hand van verschillende indicatoren de wereld indelen en landen met elkaar vergelijken en mondiale spreidingspatronen verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0cc2c6d7-94d6-45c7-852d-9c405701703f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ee446994-ce4c-45ae-a49b-29eb9eb5d128",
@@ -5439,7 +5441,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"prefix": "D1.7c.1b",
+		"description": ""
 	},
 	{
 		"id": "160be35e-7518-4fb5-9746-89cd5b10e677",
@@ -5447,7 +5451,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"prefix": "D1.7c.1c",
+		"description": ""
 	},
 	{
 		"id": "b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
@@ -5455,7 +5461,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"prefix": "D1.7c.1d",
+		"description": ""
 	},
 	{
 		"id": "b129fee1-d5b3-452c-a157-02905344258d",
@@ -5463,7 +5471,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"prefix": "D1.7c.1e",
+		"description": ""
 	},
 	{
 		"id": "233bbc36-86db-4010-933a-d7a764f19c9c",
@@ -5585,30 +5595,33 @@
 	},
 	{
 		"id": "548e0bc0-859a-415d-ba8b-c939e78ba5b1",
-		"prefix": "E1.9a.3a",
+		"prefix": "E1.9a.3c",
 		"title": "De kandidaat kan uitleggen dat veel stedelijke gebieden kwetsbaar zijn voor wateroverlast.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7687df4f-719e-4016-8a68-f9eab8c17807",
-		"prefix": "E1.9a.3a",
+		"prefix": "E1.9a.3d",
 		"title": "De kandidaat kan maatregelen beschrijven die wateroverlast en watertekorten op regionale schaal kunnen beperken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f63b5175-01c9-4bd1-aa42-27a271dedb75",
-		"prefix": "E1.9a.3a",
+		"prefix": "E1.9a.3e",
 		"title": "De kandidaat kan manieren beschrijven waarop sprake is van adaptie aan water en/of acceptatie van leven met risico’s op wateroverlast of watertekorten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e1865466-bd6b-4c52-9e6f-62ee110fc973",
@@ -41765,5 +41778,12 @@
 		"examenprogramma_eindterm_id": [
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
 		]
+	},
+	{
+		"id": "4158d9ef-a3ab-4b7c-9aff-ad5ed208dd4b",
+		"prefix": "B1.3b.1b",
+		"title": "De kandidaat kan mondiale spreidingspatronen verklaren.",
+		"description": "",
+		"ce_se": ""
 	}
 ]
