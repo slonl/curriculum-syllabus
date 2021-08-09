@@ -1093,18 +1093,22 @@
 		"title": "Het gaat om het bewerken, analyseren, interpreteren en produceren van digitale kaarten, vaak in combinatie met tabellen en figuren, gegeven een bepaalde geografische onderzoeksvraag.",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
-			"34499fbb-80b6-4c42-999a-ca02668a5346"
-		]
+			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "325b447d-1343-4878-811c-926bcf592ba0",
 		"title": "Het gaat om informatie in teksten, beelden en cijfers (en combinaties daarvan) in (vak)literatuur en (massa)media. Denk aan: video, film, (interactieve) animaties, (lucht)foto's, tabellen, grafieken, diagrammen en cartoons.",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"cc67f770-1290-4bad-9d50-cece367e449c",
-			"9e59721f-052d-4597-819b-58f7fb3fb73c"
-		]
+			"cc67f770-1290-4bad-9d50-cece367e449c"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "7070406a-80d1-46af-a336-23439d98f735",
@@ -1156,18 +1160,22 @@
 		"title": "Het op verschillende schaal beschrijven en analyseren van verschijnselen en gebieden (veranderen van ruimtelijke schaal). Veranderen van ruimtelijke schaal wordt gebruikt om globale geografische beelden te detailleren (concretiseren) en om van gedetailleerde geografische beelden de essentie weer te geven (abstraheren). De betreffende denkvaardigheid is: een onderscheid maken tussen globale en gedetailleerde ruimtelijke patronen.",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
-			"748312cf-e5d3-462d-8783-7e38814d3bc7"
-		]
+			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "73f49dba-863a-4a1b-8754-f7871cb47303",
 		"title": "Verschijnselen en gebieden beschrijven en analyseren door het bijzondere en algemene te onderscheiden en relaties daartussen te leggen (inductief en deductief redeneren), doen we om te zien hoe algemene processen een specifieke vorm krijgen afhankelijk van het land of de regio waarin zij zich afspelen. De denkvaardigheid is: het algemene en bijzondere van een verschijnsel of gebied onderscheiden en de samenhangen daartussen opsporen.",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"7223dff9-dd0f-403a-9f3c-737d2df28032",
-			"34df7865-9090-4c86-b280-40b12df201da"
-		]
+			"7223dff9-dd0f-403a-9f3c-737d2df28032"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "caee9c31-a70f-4adc-841e-f9bbb0d7450f",
@@ -1229,10 +1237,9 @@
 		"id": "474c48e0-3fb4-463a-8664-0a9bbdfd540e",
 		"title": "Het gaat bijvoorbeeld om virtuele globes, educatieve web-atlassen, web GIS applicaties en serious geogames.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [
-			"20143cd2-da3a-44e0-b4a6-1380d1a65e72",
-			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635"
-		]
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "ca61a6ba-ec7c-4ef3-bfd8-d535673f7139",
@@ -1279,9 +1286,11 @@
 		"title": "Het gaat daarbij om het maken van vergelijkingen door het aangeven van overeenkomsten en verschillen tussen gebieden en tussen verschijnselen. Het vergelijken van gebieden en verschijnselen wordt gedaan om categorieën te vormen. De denkvaardigheid die daarbij wordt gehanteerd is: het onderscheiden van overeenkomsten en verschillen",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
-			"e26494b7-c689-4d0a-97a9-68722fad20df"
-		]
+			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "5f603fd3-888a-4ba4-a2ac-b523092a0fa8",
@@ -1296,9 +1305,11 @@
 		"title": "Het gaat om het kunnen vinden van locaties en routes en het digitaal vastleggen van waarnemingen / omgevingskenmerken met behulp van GPS.",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"64930abe-36b8-4dfa-bc7c-0299853500f7",
-			"ceba831a-c62d-4ef0-83b3-e00f91adf105"
-		]
+			"64930abe-36b8-4dfa-bc7c-0299853500f7"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "9b77f0b8-c737-4266-b3b4-b900910897cb",
@@ -1437,9 +1448,9 @@
 		"id": "1a65cf22-ba2f-43e5-a30c-d6c613129ad8",
 		"title": "Indicatoren maken het vergelijken en categoriseren van landen mogelijk. Indicatoren op nationale schaal verhullen ruimtelijke en sociale verschillen.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [
-			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635"
-		]
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "01305b4c-3e69-4e6d-8b13-8fc40de8cf71",
@@ -1459,11 +1470,11 @@
 	},
 	{
 		"id": "0d37ba84-693e-413f-97ee-6e645aa92589",
-		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen.\r\nTechnologische innovatie en vrijhandel zijn de motoren van het globaliseringsproces.\r\nEconomische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen.\r\nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten.\r\nNetwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en individuen. Wereldsteden spelen een belangrijke rol in deze netwerken.",
+		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen.\nTechnologische innovatie en vrijhandel zijn de motoren van het globaliseringsproces.\nEconomische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen.\nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten.\nNetwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en individuen. Wereldsteden spelen een belangrijke rol in deze netwerken.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [
-			"e26494b7-c689-4d0a-97a9-68722fad20df"
-		]
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b162c2e4-83d8-4d9b-ba25-6bf75415db4e",
@@ -1552,11 +1563,11 @@
 	},
 	{
 		"id": "e47cb123-ecce-4a84-86f3-a0e6fc5a64df",
-		"title": "Internationale handels- en investeringsstromen voltrekken zich in grote mate binnen en tussen de drie kerngebieden (de triade).\r\nOpkomende economieën en MNO’s uit deze landen spelen een steeds grotere rol in internationale handels- en investeringsstromen, China krijgt een grotere rol op het wereldtoneel, Zuid-Zuid handel en investeringen worden belangrijker.\r\nInternationale migratiestromen zijn al geruime tijd in grote mate Zuid-Noord gericht met als belangrijkste bestemmingen: Noord-Amerika, EU en het Midden-Oosten.\r\nInternationale Zuid-Zuid migratie neemt toe met de economische ontwikkeling van gebieden / regio’s.",
+		"title": "Internationale handels- en investeringsstromen voltrekken zich in grote mate binnen en tussen de drie kerngebieden (de triade).\nOpkomende economieën en MNO’s uit deze landen spelen een steeds grotere rol in internationale handels- en investeringsstromen, China krijgt een grotere rol op het wereldtoneel, Zuid-Zuid handel en investeringen worden belangrijker.\nInternationale migratiestromen zijn al geruime tijd in grote mate Zuid-Noord gericht met als belangrijkste bestemmingen: Noord-Amerika, EU en het Midden-Oosten.\nInternationale Zuid-Zuid migratie neemt toe met de economische ontwikkeling van gebieden / regio’s.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [
-			"40751db4-5e29-42f8-8526-e70a4156a83e"
-		]
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "59eb45c2-6a04-423b-89ee-517e686d4770",
@@ -1570,11 +1581,11 @@
 	},
 	{
 		"id": "bdb32950-f523-4f78-8f14-a88422981328",
-		"title": "Op basis van economische indicatoren kan de wereld ingedeeld worden in een wereldsysteem met een centrum, periferie en semiperiferie.\r\n- Het (oorspronkelijke) mondiale centrum-periferie patroon hangt samen met de erfenis van het koloniale verleden en de internationale arbeidsverdeling die daar uit naar voren kwam.\r\n- De periferie (het zuiden) raakt meer gedifferentieerd (opkomende landen, middengroep, achterblijvers).\r\nOp basis van de demografische indicatoren kan de wereld ingedeeld worden naar fasen in de demografische transitie.\r\n- Demografische transities zijn vaak gerelateerd aan economische ontwikkeling.\r\nOp basis van culturele indicatoren kan de wereld ingedeeld worden in cultuurgebieden.\r\n-  Talen en godsdiensten zijn (o.a.) door kolonialisme en migratie verspreid.\r\n- Culturele grenzen zijn door huidige migratie en culturele uitwisseling steeds moeilijker te trekken.",
+		"title": "Op basis van economische indicatoren kan de wereld ingedeeld worden in een wereldsysteem met een centrum, periferie en semiperiferie.\n- Het (oorspronkelijke) mondiale centrum-periferie patroon hangt samen met de erfenis van het koloniale verleden en de internationale arbeidsverdeling die daar uit naar voren kwam.\n- De periferie (het zuiden) raakt meer gedifferentieerd (opkomende landen, middengroep, achterblijvers).\nOp basis van de demografische indicatoren kan de wereld ingedeeld worden naar fasen in de demografische transitie.\n- Demografische transities zijn vaak gerelateerd aan economische ontwikkeling.\nOp basis van culturele indicatoren kan de wereld ingedeeld worden in cultuurgebieden.\n-  Talen en godsdiensten zijn (o.a.) door kolonialisme en migratie verspreid.\n- Culturele grenzen zijn door huidige migratie en culturele uitwisseling steeds moeilijker te trekken.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [
-			"ceba831a-c62d-4ef0-83b3-e00f91adf105"
-		]
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "30c48400-afaa-4df5-8cfe-e517af72fc3d",
@@ -25839,5 +25850,32 @@
 		"syllabus_specifieke_eindterm_id": [
 			"d8711de6-437f-4f3e-86e7-2910e54d6526"
 		]
+	},
+	{
+		"id": "1b9e71e6-3057-4e9e-8ad1-82dd0543c0c1",
+		"prefix": "",
+		"title": "Het gaat bijvoorbeeld om virtuele globes, educatieve web-atlassen, web GIS applicaties en serious geogames.",
+		"description": "",
+		"ce_se": "",
+		"syllabus_specifieke_eindterm_id": [
+			"ee934bf4-6b0d-4eb8-80fc-f84767ea8aac"
+		]
+	},
+	{
+		"id": "5e8377b3-bd39-45ac-849d-04dddb88be1c",
+		"prefix": "",
+		"title": "Het gaat om het kunnen vinden van locaties en routes en het digitaal vastleggen van waarnemingen / omgevingskenmerken met behulp van GPS.\n",
+		"description": "",
+		"ce_se": "",
+		"syllabus_specifieke_eindterm_id": [
+			"b7059be1-3727-495b-827b-f29a7aed4cf1"
+		]
+	},
+	{
+		"id": "4bcbab90-10cb-4a59-978d-d40202355eda",
+		"prefix": "",
+		"title": "Beschrijvende vragen, verklarende vragen, voorspellende vragen, waarderende vragen, vragen gericht op het maken van keuzes en het oplossen van problemen.",
+		"description": "",
+		"ce_se": ""
 	}
 ]
