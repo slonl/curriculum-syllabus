@@ -1127,9 +1127,11 @@
 		"title": "Bij het leggen van relaties gaat het om het aangeven van samenhangen tussen verschijnselen binnen een gebied (verticaal), met name tussen natuur en samenleving en tussen ruimtelijke structuur en gedrag, en om het aangeven van samenhangen tussen gebieden (horizontaal). Relaties worden gelegd om een samenhangend geografisch (wereld)beeld op te bouwen. De betreffende denkvaardigheid is: verbanden opsporen tussen gebieden (horizontale relaties) en tussen verschijnselen binnen gebieden (verticale relaties).",
 		"ce_se": "CE",
 		"syllabus_specifieke_eindterm_id": [
-			"552f6b7d-95f3-4537-a9f4-49ebf7af163a",
-			"94c8943d-57e2-4795-9928-e27f8e1ef7c6"
-		]
+			"552f6b7d-95f3-4537-a9f4-49ebf7af163a"
+		],
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "091e7ba3-10e7-4433-a4b4-d5b6466c066b",
@@ -25827,5 +25829,15 @@
 		"title": "Globalisering is “het proces van uitbreiding en intensivering van contacten en afhankelijkheden over zeer grote afstanden en over landsgrenzen heen” op economisch, juridisch, politiek, sociaal-cultureel en ecologisch gebied (global society).",
 		"id": "fdbb6142-022f-4214-b338-642fe8f0f74f",
 		"unreleased": true
+	},
+	{
+		"id": "ea908a1e-f1da-4cd7-85d7-1c0b7966c1e0",
+		"prefix": "",
+		"title": "Het vergelijken van verschijnselen en gebieden in ruimte en tijd. Het gaat daarbij om het maken van vergelijkingen door het aangeven van overeenkomsten en verschillen tussen gebieden en tussen verschijnselen. Het vergelijken van gebieden en verschijnselen wordt gedaan om categorieën te vormen. De denkvaardigheid die daarbij wordt gehanteerd is: het onderscheiden van overeenkomsten en verschillen.",
+		"description": "",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"d8711de6-437f-4f3e-86e7-2910e54d6526"
+		]
 	}
 ]
