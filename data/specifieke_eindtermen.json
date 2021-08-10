@@ -4413,16 +4413,17 @@
 	},
 	{
 		"id": "ab370215-fa35-4505-a31f-2b35a3fce4bc",
-		"prefix": "AK/K/4/5.8",
+		"prefix": "AK/K/4/5.9",
 		"title": "De kandidaat kan mogelijke maatregelen tegen de gevolgen van het versterkt broeikaseffect voor Nederland en Spanje beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.\nDuurzaamheid en klimaatverdrag.",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"id": "ca19e3c0-dcd5-43ec-b7df-1af4ff247459",
-		"prefix": "AK/K/4/6",
+		"prefix": "AK/K/4/6.1",
 		"title": "De kandidaat kan weerkaarten van de Verenigde Staten voor standaardsituaties beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -4434,7 +4435,7 @@
 	},
 	{
 		"id": "16cb7de8-afe4-4491-be09-09fb331227b6",
-		"prefix": "AK/K/4/6.1",
+		"prefix": "AK/K/4/6.2",
 		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.\nGematigd zeeklimaat, hooggebergte klimaat, landklimaat, Mediterraan/Middellandse zeeklimaat, steppeklimaat, (sub)tropische klimaten, toendraklimaat en woestijnklimaat.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -31334,7 +31335,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		]
+		],
+		"prefix": "AK/K/6/11.5",
+		"ce_se": ""
 	},
 	{
 		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
@@ -31342,7 +31345,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		]
+		],
+		"prefix": "AK/K/4/5.8\n",
+		"ce_se": ""
 	},
 	{
 		"id": "305a57c4-9077-4f4d-a604-f9fa6d9a9681",
@@ -31350,7 +31355,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3/3a.1a",
+		"ce_se": ""
 	},
 	{
 		"id": "7ba8c446-db56-43aa-83ca-e3ed3f19e1d8",
@@ -31358,7 +31365,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a/1a.1b",
+		"ce_se": ""
 	},
 	{
 		"id": "af6ceb62-0f65-4e3d-9147-d1f76592cdf8",
@@ -31366,7 +31375,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3/1a.1c",
+		"ce_se": ""
 	},
 	{
 		"id": "a83514db-6d87-4b95-9b08-b8034b427bb3",
@@ -31374,7 +31385,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a.1d",
+		"ce_se": ""
 	},
 	{
 		"id": "268689a3-87a1-45d3-882a-dc74fa5697da",
@@ -31382,15 +31395,19 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3/1a.1e",
+		"ce_se": ""
 	},
 	{
 		"id": "22c220bf-3b12-4678-ba45-0f5ac9248a46",
-		"title": "De kandidaat kan bij gegeven contexten en vraagstukken een passende vraag kiezen/formuleren",
+		"title": "De kandidaat kan bij gegeven contexten en vraagstukken een passende vraag kiezen/formuleren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3/1a.2",
+		"ce_se": ""
 	},
 	{
 		"id": "5dd70fb2-a3d7-4825-9a22-659a39fb9d23",
@@ -31398,7 +31415,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3.2a",
+		"ce_se": ""
 	},
 	{
 		"id": "2ef7f52e-b4bd-41d7-8313-3c58f32482f6",
@@ -31406,7 +31425,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3.2b",
+		"ce_se": ""
 	},
 	{
 		"id": "49f8628a-fd52-4002-b7ad-9d1309f14d95",
@@ -31414,7 +31435,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a.2c",
+		"ce_se": ""
 	},
 	{
 		"id": "29b87b92-1a3b-428a-88db-3efc0b179cf3",
@@ -31422,7 +31445,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a.2d",
+		"ce_se": ""
 	},
 	{
 		"id": "419a6d2f-9b83-4111-9b79-d0939a4cdbcf",
@@ -31430,7 +31455,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a.2e",
+		"ce_se": ""
 	},
 	{
 		"id": "048736de-9aaf-44dc-9372-390be8b8b61d",
@@ -31438,7 +31465,9 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"prefix": "AK/K/3a.2a kgt",
+		"ce_se": ""
 	},
 	{
 		"id": "edb2c8d2-48dd-406b-8210-83f8587e93bf",
