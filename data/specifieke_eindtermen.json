@@ -39975,7 +39975,11 @@
 		],
 		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
 		"id": "886a3e7c-33ff-403b-9f79-1cc815a34b79",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"18b99a4c-eb33-4f82-8d06-3cc8948b7b80"
+		]
 	},
 	{
 		"ce_se": "CE",
