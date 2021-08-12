@@ -2555,15 +2555,19 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
-		]
+		],
+		"prefix": "BIO/V/DomeinB/1",
+		"description": ""
 	},
 	{
 		"id": "41ca7f90-f6c6-42d9-93a8-b1067b096011",
-		"title": "De kandidaat kan in een context uitleggen dat er opname, verwerking en afgifte van energie en materie is, en daarbij de relaties binnen en tussen de verschillende biologische eenheden beschrijven",
+		"title": "De kandidaat kan in een context uitleggen dat er opname, verwerking en afgifte van energie en materie is, en daarbij de relaties binnen en tussen de verschillende biologische eenheden beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
-		]
+		],
+		"prefix": "BIO/V/DomeinB/2",
+		"description": ""
 	},
 	{
 		"id": "603f9436-0246-41ba-a8ca-3d7d4780205b",
@@ -2571,7 +2575,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c1d415d0-fe57-4437-b75e-18e89086aee4"
-		]
+		],
+		"prefix": "BIO/V/DomeinB/3",
+		"description": ""
 	},
 	{
 		"id": "b4aef026-afd8-438e-9b40-6b29c858ef2e",
@@ -3264,7 +3270,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c626c900-3729-44fa-89ce-b76213a7a569"
-		]
+		],
+		"prefix": "BIO/V/DomeinC/1",
+		"description": ""
 	},
 	{
 		"id": "bf4eed8f-546d-4e53-a7f7-2066ac4b00d0",
@@ -3272,7 +3280,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c626c900-3729-44fa-89ce-b76213a7a569"
-		]
+		],
+		"prefix": "BIO/V/DomeinC/2",
+		"description": ""
 	},
 	{
 		"id": "3fed86cc-b4af-4d61-a972-f231d3b8004a",
@@ -3424,7 +3434,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
-		]
+		],
+		"prefix": "BIO/V/DomeinD/1",
+		"description": ""
 	},
 	{
 		"id": "0e5151e3-6ba8-4de2-b010-133a35c98bc5",
@@ -3432,7 +3444,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
-		]
+		],
+		"prefix": "BIO/V/DomeinD/2",
+		"description": ""
 	},
 	{
 		"id": "7c963227-2143-4b49-8589-78ca5d0b52da",
@@ -3440,7 +3454,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
-		]
+		],
+		"prefix": "BIO/V/DomeinD/3",
+		"description": ""
 	},
 	{
 		"id": "57ea90c5-0424-4d63-9703-faad2d8f50af",
@@ -3618,7 +3634,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"6644c5ee-ae3a-43d3-acba-4d2ac184da85"
-		]
+		],
+		"prefix": "BIO/V/DomeinE/1",
+		"description": ""
 	},
 	{
 		"id": "c6ae8522-54e3-442e-8220-c0e1917cfdd6",
@@ -3707,7 +3725,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
-		]
+		],
+		"prefix": "BIO/V/DomeinF/1",
+		"description": ""
 	},
 	{
 		"id": "d8f9e7f4-6ea5-4cb4-a3e9-d6e28651d66a",
@@ -3715,7 +3735,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
-		]
+		],
+		"prefix": "BIO/V/DomeinF/2",
+		"description": ""
 	},
 	{
 		"id": "e753f5c0-9046-4bfb-8e71-0ad6b7c46dd9",
@@ -3723,7 +3745,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
-		]
+		],
+		"prefix": "BIO/V/DomeinF/3",
+		"description": ""
 	},
 	{
 		"id": "983a6519-2a12-45a9-999c-ce72168fc3ed",
@@ -3731,7 +3755,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
-		]
+		],
+		"prefix": "BIO/V/DomeinF/4",
+		"description": ""
 	},
 	{
 		"id": "c7a4486f-1dce-4647-b622-091d660eb0df",
@@ -3739,7 +3765,9 @@
 		"ce_se": "CE",
 		"examenprogramma_domein_id": [
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
-		]
+		],
+		"prefix": "BIO/V/DomeinF/5",
+		"description": ""
 	},
 	{
 		"id": "c44e035c-357f-4a78-b9d9-9657c7741304",
@@ -39821,6 +39849,9 @@
 	{
 		"ce_se": "ce",
 		"prefix": "MVT/EN/K/4",
+		"examenprogramma_domein_id": [
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691"
+		],
 		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\nB1",
 		"id": "178b721c-a59c-4be0-b8d5-2b60ec264ff6",
 		"unreleased": true,
@@ -39967,13 +39998,12 @@
 	{
 		"ce_se": "ce",
 		"prefix": "MVT/EN/K/4",
-		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\nA2",
+		"examenprogramma_domein_id": [
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691"
+		],
+		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
 		"id": "886a3e7c-33ff-403b-9f79-1cc815a34b79",
-		"unreleased": true,
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"18b99a4c-eb33-4f82-8d06-3cc8948b7b80"
-		]
+		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
