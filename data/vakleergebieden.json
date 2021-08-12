@@ -26,7 +26,11 @@
 	{
 		"title": "Economie",
 		"id": "d7b5f09e-9774-4e2c-918c-fbbac7dccdf5",
-		"unreleased": true
+		"unreleased": true,
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"dirty": "1"
 	},
 	{
 		"vakleergebied_id": [
