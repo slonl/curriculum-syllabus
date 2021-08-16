@@ -1,7 +1,7 @@
 [
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "1a8938c3-8f13-44b5-9d68-a94c5aeda50a",
-		"prefix": "A1",
 		"title": "De kandidaat kan (informatievaardigheden): de benodigde informatie halen uit bronnen, zoals tekst, tabellen, grafieken en afbeeldingen\n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -11,8 +11,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2a",
 		"id": "118fafc2-bbca-475b-b224-531ac608eff0",
-		"prefix": "A2",
 		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) basisrekenvaardigheden toepassen in economische vragenstukken \n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -22,8 +22,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3a",
 		"id": "ff4e2e88-4efe-4d9e-83d8-18085e43bab6",
-		"prefix": "A3",
 		"title": "De kandidaat kan (standpuntbepaling) de rol en de perspectieven van de verschillende actoren (consumenten, producenten, werkgevers, werknemers, burgers, overheid, bankwezen)\n",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -33,8 +33,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4a",
 		"id": "4c869054-381b-45dd-9361-fc78151f2bfb",
-		"prefix": "A4",
 		"title": "De kandidaat kan (strategisch inzicht) het herkennen van relevante economische aspecten (concepten) bij het analyseren van concrete maatschappelijke vraagstukken (contexten)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1417,8 +1417,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1a",
 		"id": "25b18976-34a6-4273-9165-20e8c5c29d8f",
-		"prefix": "D1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop consumenten een maximaal verschil nastreven tussen de te betalen prijs en de betalingsbereidheid (de prijs die de consument maximaal bereid is te betalen), alléén grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1426,8 +1426,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1b",
 		"id": "aaf82c5e-6a33-4663-ac08-5b58b985a4ce",
-		"prefix": "D1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen marktevenwicht (evenwichtsprijs en evenwichtshoeveelheid) dat ontstaat als vraag en aanbod aan elkaar gelijk zijn, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1435,8 +1435,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1c",
 		"id": "ccd65836-fb63-4adc-81b8-b876082cef24",
-		"prefix": "D1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen omzet als de vermenigvuldiging van prijs met hoeveelheid (afzet) alléén rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1444,8 +1444,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1d",
 		"id": "fadfc0b8-812b-468d-957b-ec948b32e45d",
-		"prefix": "D1.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen factoren waardoor de vraag- en/of aanbodcurve kunnen veranderen,  rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1453,8 +1453,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1e",
 		"id": "89ddce13-58bc-4d85-9d4e-4ad85275b288",
-		"prefix": "D1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het vraaggedrag van consumenten bij prijsveranderingen en inkomensveranderingen, alsmede hoe dit in prijselasticiteit en inkomenselasticiteit (beide segmentelasticiteit) tot uitdrukking komt, alleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1462,8 +1462,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1f",
 		"id": "00a78362-2c57-4f67-94c2-6035665f8855",
-		"prefix": "D1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen effecten van substitutie en complementariteit van goederen op het koopgedrag van consumenten, rekenkundig en grafisch onderbouwen;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1471,8 +1471,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1g",
 		"id": "a8e208c3-8a2d-4d0a-90d5-4e02bee7d061",
-		"prefix": "D1.7",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de aard van normale, inferieure en luxe goederen en de hoogte van de inkomenselasticiteit, alleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1481,8 +1481,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1h",
 		"id": "1c00f79d-9c5d-4be0-8fe2-d51fa33898f0",
-		"prefix": "D1.8",
 		"title": "De kandidaat kan in contexten herkennen en toepassen marginale kosten en de marginale opbrengsten in relatie tot winstvraagstukken, alleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1490,8 +1490,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.1i",
 		"id": "d4ff55d0-8ddb-4399-af04-51c27f810d46",
-		"prefix": "D1.9",
 		"title": "De kandidaat kan in contexten herkennen en toepassen winstgevende / verliesgevende uitbreiding van productie, wanneer de marginale kosten lager / hoger zijn dan de marginale opbrengsten, alleen rekenkundig onderbouwen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1499,8 +1499,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.2a",
 		"id": "41a75336-0776-4104-9e0c-1551ce454d5b",
-		"prefix": "D2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de onderverdeling van totale kosten in vaste kosten en variabele kosten, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1508,8 +1508,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.2b",
 		"id": "2c8a8edb-9771-425a-a07f-6e9022c8317d",
-		"prefix": "D2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen winst voor een producent indien de totale opbrengsten hoger zijn dan de totale kosten, alleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1517,8 +1517,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.2c",
 		"id": "61e52b0d-4ecd-4dde-b288-32890f7b97f7",
-		"prefix": "D2.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het break even punt (totale opbrengsten = totale kosten) als belangrijk omslagpunt bij de afweging om wel of niet toe te treden tot een markt, aleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1526,8 +1526,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.3a",
 		"id": "f1d062b0-e064-45ea-bae1-fc3d19d08d3e",
-		"prefix": "D3.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen maximale (totale) winst en de wijze waarop producenten hiernaar streven in een markt van volkomen concurrentie, alleen rekenkundig onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1535,8 +1535,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.3b",
 		"id": "f7a27f17-e6ab-4b5c-9156-04c359ec017a",
-		"prefix": "D3.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen maximale (totale) winst en de wijze waarop een producent hiernaar streeft als sprake is van een monopolypositie, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1544,8 +1544,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.3c",
 		"id": "1d6e2871-b96c-4a93-b9b9-f17953cc0971",
-		"prefix": "D3.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen maximale (totale) winst en de wijze waarop producenten hiernaar streven in een markt van monopolistische concurrentie, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1553,8 +1553,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.3d",
 		"id": "baeb3e2c-a594-4d61-8a7b-981a0752d3be",
-		"prefix": "D3.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen maximale (totale) winst en de wijze waarop producenten hiernaar streven als er sprake is van een oligopolie, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1562,8 +1562,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.3e",
 		"id": "ee131a36-d815-40b0-bcb1-be7e3454c9a1",
-		"prefix": "D3.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen prijsdiscriminatie als een vorm van prijsbeleid waarmee een monopolist een deel van het totale consumentensurplus kan afromen, alleen grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1571,8 +1571,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.4a",
 		"id": "c7209ad9-cc0e-412c-ace5-6e12b2300b79",
-		"prefix": "D4.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop consumenten en producenten streven naar een maximaal consumentensurplus (het verschil tussen de betalingsbereidheid en de te betalen prijs) respectievelijk producentensurplus (het verschil tussen de ontvangen prijs en de minimale prijs waartegen men het goed wil aanbieden) alleen grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1580,8 +1580,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.4b",
 		"id": "e9418f25-0668-40e5-a06e-c4ef95270868",
-		"prefix": "D4.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen inefficiënte uitkomsten die het gevolg zijn van het mechanisme van vraag en aanbod, alleen grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1589,8 +1589,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.4c",
 		"id": "58d08cd2-2fca-4f58-aec7-7f168f1b0315",
-		"prefix": "D4.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het ingrijpen van de overheid met behulp van prijsregulering: minimumprijzen en maximumprijzen, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1598,8 +1598,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.4d",
 		"id": "78973805-e9ea-46d5-91cd-5b33c9493164",
-		"prefix": "D4.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het bewaken en eventueel ingrijpen door de overheid met behulp van toezichthouders op verschillende markten, rekenkundig en grafisch onderbouwen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1607,8 +1607,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinD/4.4e",
 		"id": "71a71d66-fb78-412c-b2fb-7319cea191dd",
-		"prefix": "D4.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen effecten van octrooien en patenten op marktgedrag en marktresultaat, grafisch en rekenkundig onderbouwen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1616,8 +1616,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1a",
 		"id": "5ac87899-c42b-425e-8fcc-6ede952803e9",
-		"prefix": "E1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen voorraadgrootheden en stroomgrootheden en het belang van deze grootheden voor de verschillende ‘levensfasen’ waarin gezinnen zich bevinden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1625,8 +1625,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1b",
 		"id": "7bd5add7-afb8-4ba5-8cee-55076984f660",
-		"prefix": "E1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de levensloop van gezinnen en waarom en wanneer zij sparen, investeren in zichzelf en/of een schuld opbouwen;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1634,8 +1634,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1c",
 		"id": "2a881f65-4e0d-4494-b8d9-0e9b8a7311e5",
-		"prefix": "E1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de prijs van sparen en lenen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1643,8 +1643,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1d",
 		"id": "ed701cb3-1bb0-4acf-bffe-de33512f2177",
-		"prefix": "E1.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze tussen en de argumentatie voor sparen en lenen, alsmede de financiële gevolgen van sparen en lenen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1652,8 +1652,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1e",
 		"id": "67743118-3232-48d9-9730-5b308aece8fe",
-		"prefix": "E1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen rente als de prijs voor het uitstellen van consumptie en het onderscheid tussen nominale en reële rente, via de vuistregel: 'nominale rente - inflatie = reële rente'.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1662,8 +1662,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.1f",
 		"id": "33f0efc0-acf0-41b0-9be0-2b0fa41e9ed8",
-		"prefix": "E1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van inflatie op sparen en lenen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1671,8 +1671,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.2a",
 		"id": "4f74b797-4e37-4cc5-a4b6-8688c7ec77ba",
-		"prefix": "E2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen de schuld van de overheid (staatsschuld) en een private schuld, en dat een overheidstekort gezien kan worden als een vorm van uitgestelde belastingheffing",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1680,8 +1680,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.2b",
 		"id": "e5b1f5ae-760d-473d-a4e2-a18041f2553d",
-		"prefix": "E2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen inkomsten en uitgaven van de overheid als stroomgrootheden en de overheidsschuld als een voorraadgrootheid",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1689,8 +1689,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinE/5.2c",
 		"id": "ed7aed46-6819-49f3-9787-881a23752f91",
-		"prefix": "E2.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen pensioenvoorzieningen op basis van het omslagstelsel of het kapitaaldekkingsstelsel en dilemma’s die er bij de keuze tussen deze twee financieringswijzen zijn.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1698,8 +1698,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1a",
 		"id": "5695d123-c794-4231-b3c1-50fbfe2f507c",
-		"prefix": "F1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen een gevangenendilemma;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1707,8 +1707,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1b",
 		"id": "722124f3-864c-411d-96cd-3cf004d42684",
-		"prefix": "F1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop de uitkomst van een gevangenendilemma tot stand komt",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1716,8 +1716,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1c",
 		"id": "e238e5dc-e126-48f8-b841-3e30f9995721",
-		"prefix": "F1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop in een gevangenendilemma individuele of collectieve belangen worden geschaad",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1725,8 +1725,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1d",
 		"id": "543582a7-383b-4035-bd4b-cc16c2d11b6f",
-		"prefix": "F1.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen positieve en negatieve externe effecten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1734,8 +1734,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1e",
 		"id": "80bcb5ef-74c6-4b3e-844a-199acb2f78d8",
-		"prefix": "F1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het gevangenendilemma in relatie tot collectieve goederen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1743,8 +1743,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1f",
 		"id": "87885ef1-9d1c-43c6-a852-4824a0cc1340",
-		"prefix": "F1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen meeliftgedrag en de manier waarop dit gedrag kan leiden tot een (negatief) extern effect",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1752,8 +1752,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1g",
 		"id": "4f9951c3-044e-4948-baf2-a019bdb16299",
-		"prefix": "F1.7",
 		"title": "De kandidaat kan in contexten herkennen en toepassen collectieve dwang en het nut ervan (sociale normen en contracten)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1761,8 +1761,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.1h",
 		"id": "11d633ce-09d1-427c-85b4-f88167630177",
-		"prefix": "F1.8",
 		"title": "De kandidaat kan in contexten herkennen en toepassen zelfbinding en de invloed ervan bij de totstandkoming van samenwerking.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1770,8 +1770,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.2a",
 		"id": "2c5e49f8-d2d9-4492-9042-5d6e149c75b1",
-		"prefix": "F2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen samenwerkingsdilemma’s bij onderhandelingen als het gaat om de verdeling van het surplus en de consequenties hiervan voor beide partijen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1779,8 +1779,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinF/6.2b",
 		"id": "a16d53b0-3839-4ee4-891d-07d0867438e6",
-		"prefix": "F2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen verzonken kosten en gevolgen van verzonken kosten voor partijen die betrokken zijn bij onderhandelingen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1788,8 +1788,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1a",
 		"id": "17333068-eca0-4222-9d86-6083e694102a",
-		"prefix": "G1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen risico-aversgedrag en de wijze waarop risico-aversgedrag een rol speelt bij de keuze voor het afsluiten van een verzekering;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1797,8 +1797,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1b",
 		"id": "d17635c7-cd15-46e8-b729-816179c87d39",
-		"prefix": "G1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de afweging van een verzekerde tussen kosten en risico bij het afsluiten van een verzekering",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1806,8 +1806,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1c",
 		"id": "478bf894-d0ce-492b-9eee-6e5a47e70013",
-		"prefix": "G1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen solidariteit bij verzekeren en op welke wijze er sprake is van solidariteit die risico’s kan verkleinen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1815,8 +1815,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1d",
 		"id": "787d0a52-cf5d-47c8-b749-74f83f603608",
-		"prefix": "G1.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen motieven om bepaalde verzekeringen wel of niet verplicht voor te schrijven (verplichte solidariteit)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1824,8 +1824,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1e",
 		"id": "933b509b-ad6e-44e1-87fb-316b738b3cc8",
-		"prefix": "G1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen eigen risico dat verzekeraars invoeren om zodoende averechtse selectie en/of moral hazard te beperken;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1833,8 +1833,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.1f",
 		"id": "68cc2880-d2e4-4915-a751-24b65ed2e6fb",
-		"prefix": "G1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen hoogte van eigen risico: de argumenten van een verzekerde bij een keuze voor een eigen risico en de argumenten van een verzekeraar bij de bepaling van het eigen risico.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1842,8 +1842,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.2a",
 		"id": "3585f301-4ce7-4df8-9720-0d6ea2685dae",
-		"prefix": "G2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen asymmetrische informatie en de wijze waarop partijen daarop inspelen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1851,8 +1851,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.2b",
 		"id": "f039639d-e474-4ac5-8506-96ae4011a373",
-		"prefix": "G2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen averechtse selectie en de wijze waarop partijen daarop inspelen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1860,8 +1860,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.2c",
 		"id": "5c84da83-0540-4fa9-a3c2-5588eb23ec9d",
-		"prefix": "G2.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen moral hazard (risico op moreel wangedrag) en de wijze waarop partijen daarop inspelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1901,8 +1901,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinG/7.3a",
 		"id": "8e90899d-7b98-421a-8ba4-1536d09a9f34",
-		"prefix": "G4.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen onderpand en waarom onderpand het risico voor de kredietgever kan verminderen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1910,8 +1910,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1a",
 		"id": "95e5daee-9124-444d-a498-5622d1173e62",
-		"prefix": "H1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen het BBP en de toegevoegde waarde",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1919,8 +1919,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1b",
 		"id": "f3e6b6ea-ac39-4b79-8012-ab5abc5a44a9",
-		"prefix": "H1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het BBP als zijnde een beperkte welvaartsmaatstaf rekening houdend met; \r\n- nominaal en reëel \r\n- eng versus ruim welvaartsbegrip \r\n- welvaartsbegrip per capita \r\n- de rol en omvang van de informele sector \r\n- Human Development Index en groen BBP",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1928,8 +1928,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1c",
 		"id": "de4fc168-dc53-40e9-a8aa-af3dde982309",
-		"prefix": "H1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de vorming/totstandkoming van het BBP vanuit productie, inkomensvorming en de finale bestedingen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1945,8 +1945,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1d",
 		"id": "99ea2a9c-0e42-4baa-bcf6-e9ae92f09b16",
-		"prefix": "H1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de geldkringloop als weergave van de geldstromen tussen de volgende sectoren: gezinnen, ondernemingen, overheid, buitenland en financiële instellingen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1955,8 +1955,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1e",
 		"id": "557a0ded-0846-41aa-bd8a-edbdf1414798",
-		"prefix": "H1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de Lorenzcurve als weergave van de verdeling van het primaire inkomen en het secundaire inkomen; - percentage, percentielen, kwintielen - nivelleren en denivelleren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1964,8 +1964,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1f",
 		"id": "3ca78deb-5a3d-4f55-bf4c-1c5573eb3bc4",
-		"prefix": "H1.7",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het bestaan van verschillen tussen de Lorenz curves van landen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1973,8 +1973,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1g",
 		"id": "469ae566-207c-4980-a209-8d41a894fd96",
-		"prefix": "H1.8",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het bestaan van verschillende stelsels voor de inkomstenbelasting en de wijze waarop deze stelsels invloed hebben op de mate van inkomensongelijkheid tussen individuen en groepen (nivelleren en denivelleren)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1982,8 +1982,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.1h",
 		"id": "621c550c-3a3a-4973-a3b2-7ed26f991a03",
-		"prefix": "H1.9",
 		"title": "De kandidaat kan in contexten herkennen en toepassen gevolgen van verschillende soorten belastingtarieven, zoals progressief, proportioneel en degressief, voor de inkomens (bruto-nettotraject en inkomensverhoudingen) met gebruikmaking van de parameters marginaal belastingtarief en heffingskorting",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -1991,8 +1991,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.2a",
 		"id": "535f1ac8-8cab-451f-b829-e37ed1a8030d",
-		"prefix": "H2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen economische structuurontwikkeling en de groei van het BBP door inzet van de productiefactoren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2000,8 +2000,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.2b",
 		"id": "7537cb9e-ab07-4e2d-bb4e-88765bf5d72f",
-		"prefix": "H2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het steeds groter wordende belang van menselijk kapitaal en technologische ontwikkeling als determinanten van economische groei en van groei van de arbeidsproductiviteit",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2009,8 +2009,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.2c",
 		"id": "b94c2d56-3f75-49b6-b769-fb59d085bd54",
-		"prefix": "H2.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het bestaan van productiviteitsverschillen tussen landen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2026,8 +2026,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.2d",
 		"id": "7226bbec-295e-4c4b-956b-10579c6d130b",
-		"prefix": "H2.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen een classificatie van verschillende inkomenscategorieën alsmede ontwikkelingen in de categoriale inkomensverdeling.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2035,8 +2035,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinH/8.2e",
 		"id": "b112a081-d273-4ceb-8e1b-0980e438ba9f",
-		"prefix": "H2.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen, de motieven voor het al dan niet aangaan van internationale samenwerkingsvormen in relatie tot welvaart en economische groei; \r\n- vrijhandel - protectie (zoals invoerrechten, contingentering, dumping, infant industry)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2044,8 +2044,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1a",
 		"id": "bd6444ca-ce2b-4b0d-97af-ab355e21c15c",
-		"prefix": "I1.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop het nationale prijsniveau tot stand komt aan de hand van de geaggregeerde vraag en het geaggregeerde aanbod van de hoeveelheid goederen en diensten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2053,8 +2053,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1b",
 		"id": "d515bf71-1ce6-4b9a-9428-8f6e19023530",
-		"prefix": "I1.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de gevolgen van prijsrigiditeit op de korte termijn",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2062,8 +2062,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1c",
 		"id": "b47c10d6-6932-4143-aff8-ed1984cf8587",
-		"prefix": "I1.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de gevolgen van flexibele prijzen op de langere termijn",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2071,8 +2071,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1d",
 		"id": "4d8a5b0e-8455-40c4-853d-7ff523f3896f",
-		"prefix": "I1.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen de geaggregeerde vraag en het prijsniveau en de daaruit resulterende neutraliteit van geld, aan de hand van de Verkeersvergelijking van Fisher",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2080,8 +2080,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1e",
 		"id": "739b3891-4ecf-4a22-940b-8dfd5c5dc2ea",
-		"prefix": "I1.5",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de verandering van prijzen - inflatie en deflatie - van goederen en diensten en de invloed daarvan op de koopkracht van mensen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2089,8 +2089,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1f",
 		"id": "6b93b531-129b-4569-9287-ba2eb9e52b68",
-		"prefix": "I1.6",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop in situaties van laagconjunctuur door loonstarheid op korte termijn onvrijwillige werkloosheid ontstaat en op langere termijn, door werking van het marktmechanisme, het evenwicht op de arbeidsmarkt hersteld kan worden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2098,8 +2098,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1g",
 		"id": "8400c029-1248-4402-acf9-3185a05b52d0",
-		"prefix": "I1.7",
 		"title": "De kandidaat kan in contexten herkennen en toepassen welvaartsvaste uitkeringen en waardevaste uitkeringen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2107,8 +2107,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1h",
 		"id": "9130a70c-959a-4556-95b4-3ddc6522126c",
-		"prefix": "I1.8",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het aanbod van en de vraag naar een valuta als bepalende factoren voor de wisselkoers (prijs van een valuta)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2116,8 +2116,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1i",
 		"id": "69079984-a2cc-4f86-bed7-b93214d1dd70",
-		"prefix": "I1.9",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het aanbod van en de vraag naar valuta als gevolg van internationale transacties en de registratie van deze transacties op een betalingsbalans (lopende rekening en kapitaalrekening)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2125,8 +2125,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.1j",
 		"id": "9868c28e-8363-44f0-9f94-0cc46b90a030",
-		"prefix": "I1.10",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het loonniveau, de arbeidsproductiviteit en de inflatie als factoren die invloed hebben op de internationale concurrentiepositie en daarmee op de betalingsbalans en de wisselkoers.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2134,8 +2134,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.2a",
 		"id": "cc6b320a-face-4739-a5e9-adf5863dfee7",
-		"prefix": "I2.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de berekening van de inflatie met behulp van het prijsindexcijfer",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2143,8 +2143,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.2b",
 		"id": "67099c57-675d-4db5-96db-b166e85973c7",
-		"prefix": "I2.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen conjunctuurindicatoren en de wijze waarop deze indicatoren aanwijzingen kunnen zijn voor veranderingen in de groei van het BBP",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2152,8 +2152,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.2c",
 		"id": "2d638394-d554-4748-a181-bf88a290e507",
-		"prefix": "I2.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen nominale en reële economische groei via de vuistregel ‘nominale groei – inflatie = reële groei’.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2162,8 +2162,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.2d",
 		"id": "2556dbc7-ab5d-42d2-84f1-1c732f4f4f0c",
-		"prefix": "I2.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de feitelijke groei van het BBP in vergelijking met de trendmatige groei; laagconjunctuur/hoogconjunctuur.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2171,8 +2171,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.3a",
 		"id": "8b65ee4c-2746-4c69-814e-77f32bec8fe1",
-		"prefix": "I3.1",
 		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen anticyclisch en procyclisch conjunctuurbeleid en op welke wijze de overheid dit conjunctuurbeleid kan voeren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2180,8 +2180,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.3b",
 		"id": "748a1d9a-b883-4ed0-ba96-55394f4d0e89",
-		"prefix": "I3.2",
 		"title": "De kandidaat kan in contexten herkennen en toepassen ingebouwde stabilisatoren en de wijze waarop deze een dempende invloed kunnen hebben op de schommelingen in de conjunctuur; \r\n- sociale uitkeringen - belastingen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2189,8 +2189,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.3c",
 		"id": "843d1bce-1317-4fc4-a292-526a9dddf6cd",
-		"prefix": "I3.3",
 		"title": "De kandidaat kan in contexten herkennen en toepassen De Europese Centrale Bank (ECB) of Centrale Banken van landen die niet onder de ECB vallen: \r\n- toezichthouder op de infrastructuur van financiële markten en betalingsinstrumenten \r\n- beheerder van eigen externe reserves \r\n- uitgever van bankbiljetten\r\n- toezichthouder op aanbieders van risicomijdende en risicozoekende beleggingen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2198,8 +2198,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinI/9.3d",
 		"id": "35780568-f0f6-4302-a97e-322f6894b568",
-		"prefix": "I3.4",
 		"title": "De kandidaat kan in contexten herkennen en toepassen de wijze waarop een centrale bank het rente-instrument kan inzetten om de inflatie te beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2208,8 +2208,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.1",
 		"id": "2b50a822-fd44-4496-8f76-f7c75621e54f",
-		"prefix": "A5.1",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herkennen en specificeren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2217,8 +2217,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.2",
 		"id": "25b9cf29-7367-4b82-825d-a41620e75a8e",
-		"prefix": "A5.2",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2226,8 +2226,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.3",
 		"id": "ab777bce-fae8-4754-abbd-29645446aadf",
-		"prefix": "A5.3",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2235,8 +2235,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.4",
 		"id": "eb630c11-df86-4328-94dd-6a06cddac672",
-		"prefix": "A5.4",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2244,8 +2244,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.5",
 		"id": "749f774b-7702-48f9-80a0-b39204b7b8d3",
-		"prefix": "A5.5",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden een werkplan maken vor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoorden van een (of meerdere) onderzoeksvra(a)g(en)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2253,8 +2253,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.7",
 		"id": "1c7d1729-440e-437e-8ad0-5aa44ae6d65a",
-		"prefix": "A5.7",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een onderzoeksvraag",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2262,8 +2262,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.8",
 		"id": "cfbac93d-a564-47f6-a0b2-048b484644f3",
-		"prefix": "A5.8",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten bij de onderzoeksvra(a)g(en) van het onderzoek",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2271,8 +2271,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.9",
 		"id": "42a1aaed-e9c5-4be9-beb4-f5bae8b1aa3c",
-		"prefix": "A5.9",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden de uitvoering van een onderzoek en de conclusies evalueren, gebruik makend van de begrippen validiteit en betrouwbaarheid",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2280,8 +2280,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.11",
 		"id": "556666c2-260a-4c15-9f02-988337c344c5",
-		"prefix": "A5.11",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken mogelijk zijn",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2289,8 +2289,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A5/5.12",
 		"id": "fc8592c8-eaab-4209-9355-dff3bf6573c8",
-		"prefix": "A5.12",
 		"title": "De kandidaat kan, gebruik makend van consistente redeneringen en relevante rekenkundige en wiskundige vaardigheden  de aard van de opbrengst van onderzoek duiden en daarbij de begrippen onzekerheid en waarschijnlijkheid hanteren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2298,8 +2298,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.1",
 		"id": "de273067-b5f4-4d56-818e-0739816cd334",
-		"prefix": "A6.1",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een technisch-ontwerpprobleem analyseren en beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2307,8 +2307,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.2",
 		"id": "897484df-50d8-4c3a-9ff5-a442e6cefbab",
-		"prefix": "A6.2",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voor een ontwerp een programma van eisen en wensen opstellen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2316,8 +2316,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.3",
 		"id": "044ca634-15ae-4ca2-9600-76a1a25781f2",
-		"prefix": "A6.3",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een ontwerp",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2325,8 +2325,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.4",
 		"id": "e40adf10-7295-49d8-ba83-4ac73b124355",
-		"prefix": "A6.4",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen verschillende (deel)uitwerkingen geven voor taken en eigenschappen van een ontwerp",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2334,8 +2334,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.5",
 		"id": "44813a33-d500-4feb-a1b0-9cbd0aaa6023",
-		"prefix": "A6.5",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een beargumenteerd ontwerpvoorstel doen voor een ontwerp, rekening houdend met het programma van eisen, prioriteiten en randvoorwaarden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2343,8 +2343,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.7",
 		"id": "1ad6faa1-d2ce-4663-b1b0-52fd80256640",
-		"prefix": "A6.7",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen een ontwerpproces en -product testen en evalueren, rekening houdend met het programma van eisen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2352,8 +2352,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A6/6.8",
 		"id": "260313a8-01fb-4aeb-ab15-20fe3470567b",
-		"prefix": "A6.8",
 		"title": "De kandidaat kan gebruik makend van relevante begrippen, theorie en vaardigheden en valide en consistente redeneringen voorstellen doen voor verbetering van een ontwerp",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2361,8 +2361,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.1",
 		"id": "decf0946-2de4-4d53-a9f9-28e09be2885a",
-		"prefix": "A7.1",
 		"title": "De kandidaat kan relevante grootheden en relaties in een probleemsituatie identificeren en selecteren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2370,8 +2370,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.2",
 		"id": "8325496d-4ad6-49b6-9e70-a335cd2c6d64",
-		"prefix": "A7.2",
 		"title": "De kandidaat kan door het doen van aannamen en het maken van vereenvoudigingen een natuurwetenschappelijk probleem inperken tot een onderzoekbare vraagstelling",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2379,8 +2379,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.3",
 		"id": "f00bdae3-e2de-44dd-9abd-668a61f96a39",
-		"prefix": "A7.3",
 		"title": "De kandidaat kan bij een natuurwetenschappelijk probleem een model selecteren dat geschikt is om het probleem te bestuderen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2388,8 +2388,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.4",
 		"id": "d9b77a06-2496-43f6-8741-105b04152b51",
-		"prefix": "A7.4",
 		"title": "De kandidaat kan een beargumenteerde schatting maken voor parameterwaarden van een model op basis van gegevens",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2397,8 +2397,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.5",
 		"id": "a57631f1-0e23-4313-bf80-c0046a1e7421",
-		"prefix": "A7.5",
 		"title": "De kandidaat kan toetsbare verwachtingen formeren over het gedrag an een model",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2406,8 +2406,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A7/7.7",
 		"id": "07434ca9-4d94-4f9d-a9f2-eea2d35c8884",
-		"prefix": "A7.7",
 		"title": "De kandidaat kan een model evalueren op basis van uitkomsten, verwachtingen en (meet)gegevens",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2415,8 +2415,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.1a",
 		"id": "6b0188df-f9f0-4f85-abf5-382aea1c8989",
-		"prefix": "A8.1",
 		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema's en diagrammen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2424,8 +2424,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.1b",
 		"id": "c7926b9a-f22e-4b07-8ab4-ec06a6572f6a",
-		"prefix": "A8.1",
 		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen en grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2433,8 +2433,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.2",
 		"id": "b2e5e9e3-e8d5-412c-a38f-363b7fe017ef",
-		"prefix": "A8.2",
 		"title": "De kandidaat kan informatie, gegevens en meetresultaten analyseren, weergegeven en strutureren in grafieken, tekeningen, schema's, diagrammen en tabellen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2442,8 +2442,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.3",
 		"id": "8fbf75d3-c2bc-41a4-b31c-831b9cab47a3",
-		"prefix": "A8.3",
 		"title": "De kandidaat kan aangeven met welke technieken en apparaten de belangrijkste grootheden uit de natuurwetenschappen worden gemeten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2451,8 +2451,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5a",
 		"id": "69d05b6f-3948-4718-9644-9c235beffdd1",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met getallen in breuken en machten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2460,8 +2460,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5b",
 		"id": "b2425c62-285b-4742-8c73-b85a7905bb04",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met verhoudingen (ratio), percentages en gemiddelden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2469,8 +2469,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5c",
 		"id": "01a01603-27d6-45e1-b805-bf90d1edb0e3",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, rekenen met oppervlakte en volumes",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2478,8 +2478,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5d",
 		"id": "0be17845-78a5-4313-b5db-9cf8b2e15920",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, omwerken van formules",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2487,8 +2487,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5e",
 		"id": "db44d71c-33e6-4c1f-9ee9-799112c1baff",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken opstellen en daarbij rekening houden met de plaats van de afhnakelijke en de onafhankelijke variabele",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2496,8 +2496,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5f",
 		"id": "194be2bb-3eae-439c-a2de-646c07c9acf8",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, aflezen logaritmische grafiek",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2505,8 +2505,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5g",
 		"id": "6a7090ef-eac3-4c8a-8f8f-de082ed4b4e8",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, lineaire en exponentiële verbanden herkennen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2514,8 +2514,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.5h",
 		"id": "8b90d21d-6981-4f32-94ec-ca94a037b3aa",
-		"prefix": "A8.5",
 		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen, grafieken lezen (formuleloos), gericht op grafisch verloop en trends.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2523,8 +2523,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A8/8.6",
 		"id": "bfa0acf1-562e-4f73-a048-eaac531d48d8",
-		"prefix": "A8.6",
 		"title": "De kandidaat kan verbanden leggen op basis van tabel- en grafiekgegevens",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2532,8 +2532,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A9/9.1",
 		"id": "7f7e9c2d-5b7a-4508-92d4-a3d48384de3c",
-		"prefix": "A9.1",
 		"title": "De kandidaat kan een beargumenteerd oordeel geven over een situatie waarin natuurwetenschappelijke kennis een belangrijke rol speelt, dan wel een beargumenteerde keuze maken tussen alternatieven bij vraagstukken van natuurwetenschappelijke aard",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2541,8 +2541,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinA/A9/9.2",
 		"id": "a5927a80-5ec0-4851-b745-02bea82fc56a",
-		"prefix": "A9.2",
 		"title": "De kandidaat kan een ondersccheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2580,8 +2580,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/Domein/B/B1/17/1.1",
 		"id": "b4aef026-afd8-438e-9b40-6b29c858ef2e",
-		"prefix": "B1.1.1",
 		"title": "De kandidaat kan in een context de bouw van DNA en RNA beschrijven en de verschillen toelichten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2589,8 +2589,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/1.2",
 		"id": "b10d0e2c-7a1c-4923-87c1-ec00e95ced91",
-		"prefix": "B1.1.2",
 		"title": "De kandidaat kan in een context de functies van DNA en van mRNA, tRNA en rRNA benoemen en het verband beschrijven met de bouw ervan",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2598,8 +2598,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/1.3",
 		"id": "dd9fee74-fe65-4d87-8c87-599f52dc9508",
-		"prefix": "B1.1.3",
 		"title": "De kandidaat kan in een context uitleggen op welke manieren de basenvolgorde in het DNA bepaald kan worden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2607,8 +2607,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/2.1",
 		"id": "ee50638a-bade-45f8-9954-1d53318f1944",
-		"prefix": "B1.2.1",
 		"title": "De kandidaat kan in een context op basis van de relatie tussen tripletcode en amninozuur toelichten hoe eiwitten gevormd worden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2616,8 +2616,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/2.2",
 		"id": "fe1338d8-29d7-4397-a43e-d064505b38bf",
-		"prefix": "B1.2.2",
 		"title": "De kandidaat kan in een context het proces van transcriptie en translatie beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2625,8 +2625,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/2.3",
 		"id": "f7568eb9-7f9f-49c9-8651-244f4ee7acf1",
-		"prefix": "B1.2.3",
 		"title": "De kandidaat kan in een context uitleggen hoe de aminozuurvolgorde (primaire structuur) van een eiwit de bouw en werking van het eiwit bepaalt",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2634,8 +2634,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B1/17/2.4",
 		"id": "78a2a21d-c8d1-417b-a93e-67ff25fa56a8",
-		"prefix": "B1.2.4",
 		"title": "De kandidaat kan in een context  uitleggen hoe eiwitten de bouw en werking van biologische eenheden bepalen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2643,8 +2643,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/1.1",
 		"id": "e2cd6c72-978c-4d38-b4b4-a7d3777030b7",
-		"prefix": "B2.1",
 		"title": "De kandidaat kan in een context kenmerken van bacteriën beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2652,8 +2652,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/1.2",
 		"id": "24e3767a-8176-4d2e-9303-45748e9661f7",
-		"prefix": "B2.1.1",
 		"title": "De kandidaat kan in een context een eukaryote cel beschrijven als een zelfstandig functionerende eenheid, de onderdelen van cellen herkennen en de functies ervan benoemen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2661,8 +2661,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/1.3",
 		"id": "72d6984d-a6b0-4f99-a1f0-905796b6df63",
-		"prefix": "B2.1.2",
 		"title": "De kandidaat kan in een context  uitleggen dat cellen zich in stand houden door het uitvoeren van chemische reacties",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2670,8 +2670,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/1.4",
 		"id": "108d6e2b-15c5-4613-8c8b-9272ac7e00ae",
-		"prefix": "B2.1.3",
 		"title": "De kandidaat kan in een context  toelichten dat het dynamisch evenwicht in de cel in stand wordt gehouden in een complex netwerk van celprocessen die uiteenlopende functies hebben",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2679,8 +2679,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/1.5",
 		"id": "2583255f-5e00-4b54-bd1f-ba747c311904",
-		"prefix": "B2.1.4",
 		"title": "De kandidaat kan in een context uitleggen hoe door het principe van terugkoppeling homeostase in de cel gerealiseerd wordt",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2688,8 +2688,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/2.1",
 		"id": "3c1eb0a2-97fe-47cd-a7a8-484fa82286ae",
-		"prefix": "B2.2.1",
 		"title": "De kandidaat kan in een context vormen van actief en passief transport beschrijven en de relatie beschrijven met de eigenschappen van de getransporteerde stoffen en de bouw en eigenschappen van membranen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2697,8 +2697,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/2.2",
 		"id": "1082f458-cb33-4b54-b415-2a492b286f94",
-		"prefix": "B2.2.2",
 		"title": "De kandidaat kan in een context toelichten dat effecten van osmotische werking verschillen bij plantaardige en dierlijke cellen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2706,8 +2706,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/2.3",
 		"id": "3800508d-59b5-42e2-be12-7a1d26f010ec",
-		"prefix": "B2.2.3",
 		"title": "De kandidaat kan in een context uitleggen dat door de aanwezigheid van een selectief doorlaatbaar celmembraan de celinhoud permanent verschilt van de celomgeving",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2715,8 +2715,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/2.4",
 		"id": "ef8eed65-73e7-4252-8c2e-a3e269109642",
-		"prefix": "B2.2.4",
 		"title": "De kandidaat kan de rol van het cytoskelet bij transportprocessen herkennen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2724,8 +2724,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.1",
 		"id": "b8b2b939-1774-432d-b792-e309bac5cbb9",
-		"prefix": "B2.3.1",
 		"title": "De kandidaat kan in een context beschrijven dat cellen stoffen opnemen en afgeven, dat de stoffen in de cellen verwerkt worden in chemische reacties (opbouw en afbraak), gekatalyseerd door enzymen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2733,8 +2733,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.2",
 		"id": "af5a9007-17ce-4b4d-ab27-26da86745719",
-		"prefix": "B2.3.2",
 		"title": "De kandidaat kan in een context beschrijven dat er verschillende vormen van energie zijn: chemische energie (zoals in ATP), lichtenergie, kinetische energie, warmte, en beschrijven dat deze vormen in elkaar kunnen overgaan",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2742,8 +2742,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.3",
 		"id": "50c62c53-9bf0-4294-a1d1-3c0496f1a2ab",
-		"prefix": "B2.3.3",
 		"title": "De kandidaat kan in een context het fotosynheseproces in cellen met chloroplasten beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2751,8 +2751,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.4",
 		"id": "761c7d2f-bd09-42b0-88b5-150d031e8298",
-		"prefix": "B2.3.4",
 		"title": "De kandidaat kan in een context assimilatieprocessen in planten en dieren beschrijven en toelichten dat deze processen leiden tot de aanmaak van bouwstoffen, brandstoffen, reservestoffen en enzymen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2760,8 +2760,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.5",
 		"id": "795ad2d3-d9ba-429e-9bf7-dac4fec39dc2",
-		"prefix": "B2.3.5",
 		"title": "De kandidaat kan in een context dissimilatieprocessen beschrijven. Hierbij anaerobe en aerobe dissimilatie onderscheiden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2769,8 +2769,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.6",
 		"id": "ac864d1c-5a3e-4565-911b-dca65aa60dc0",
-		"prefix": "B2.3.6",
 		"title": "De kandidaat kan in een context met behulp van reactievergelijkingen assimilatie- en dissimilatieprocessen (ook van de deelreacties daarvan) toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2778,8 +2778,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.7",
 		"id": "b261f0ad-84b6-448e-9cd8-4fa58bc52138",
-		"prefix": "B2.3.7",
 		"title": "De kandidaat kan in een context beschrijven waar en op welke wijze enzymen reacties, zoals assimilatie- en dissimilatie-processen, katalyseren en hoe de temperatuur en pH deze beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2787,8 +2787,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.8",
 		"id": "6c3b6aa5-f69d-475d-8dcd-83136dab2dd1",
-		"prefix": "B2.3.8",
 		"title": "De kandidaat kan in een context toelichten hoe in de biotechnologie gebruik gemaakt wordt van het metabolisme van micro-organismen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2796,8 +2796,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B2/18/3.9",
 		"id": "a716bc74-b5a6-4b05-a288-bce1e31f9b64",
-		"prefix": "B2.3.9",
 		"title": "De kandidaat kan in een context verschillen tussen fotosynthese en chemosynthese uitleggen en verklaren onder welke omstandigheden beide processen plaats kunnen vinden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2805,8 +2805,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/1.1",
 		"id": "0a5ca995-a5f9-4740-add5-03819bd24682",
-		"prefix": "B3.1.1",
 		"title": "De kandidaat kan in een context beschrijven hoe groepen van cellen door hun rangschikking in een weefsel, orgaan of orgaanstelsel een gezamenlijke functie uitoefenen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2814,8 +2814,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/1.2",
 		"id": "102224a0-2545-43db-97b4-0d2306d64081",
-		"prefix": "B3.1.2",
 		"title": "De kandidaat kan in een context beschrijven wat bij de mens de kenmerken en functies zijn van orgaanstelsels voor transport, ademhaling, voedselverwerking en uitscheiding",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2823,8 +2823,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/1.3",
 		"id": "9b93814b-cc7d-4ae0-892d-24446ab446b5",
-		"prefix": "B3.1.3",
 		"title": "De kandidaat kan in een context verschillen en overeenkomsten tussen organen en orgaanstelsels van de mens en verschillende diersoorten herkennen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2832,8 +2832,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/1.4",
 		"id": "3e3144d2-81fb-4100-8ce5-c554192632e8",
-		"prefix": "B3.1.4",
 		"title": "De kandidaat kan in een context verschillen in gaswisseling, opname en transport bij prokaryoten, planten en dieren toelichten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2841,8 +2841,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/1.5",
 		"id": "452b60aa-7a24-4422-8603-6591fb319dd3",
-		"prefix": "B3.1.5",
 		"title": "De kandidaat kan in een context uitleggen hoe orgaanstelsels met elkaar samenhangen en beargumenteren hoe verstoring in het functioneren van een orgaan de samenwerking tussen organen beïnvloedt.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2850,8 +2850,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/2.1",
 		"id": "24392345-9cbc-4459-92e1-d759099d8ed6",
-		"prefix": "B3.2.1",
 		"title": "De kandidaat kan in een context beschrijven dat organismen door fotosynthese autotroof zijn",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2859,8 +2859,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/2.2",
 		"id": "2444c54b-2d3c-4b57-ae0b-ed1c1665f174",
-		"prefix": "B3.2.2",
 		"title": "De kandidaat kan in een context voorwaarden voor het fotosyntheseproces in planten benoemen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2868,8 +2868,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/2.3",
 		"id": "c24fd8a6-f65c-486e-a3de-e65d36ea919b",
-		"prefix": "B3.2.3",
 		"title": "De kandidaat kan in een context het belang van fotosynthese als basis voor de voortgezette assimiliatie en dissimilatie van het organisme beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2877,8 +2877,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/3.1",
 		"id": "6a618a4b-fda1-4928-953c-72bf2621badb",
-		"prefix": "B3.3.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van gaswisselingsorganen van eukaryoten, in het bijzonder de mens beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2887,8 +2887,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/3.2",
 		"id": "70791187-2aeb-4498-ac69-d7268a3d1cbb",
-		"prefix": "B3.3.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van gaswisselingsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2896,8 +2896,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/3.3",
 		"id": "82bcfd7c-1b2b-487e-89b8-0d55c9527f5f",
-		"prefix": "B3.3.3",
 		"title": "De kandidaat kan in een context uitleggen op welke wijze longventilatie tot stand komt en geregeld wordt",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2905,8 +2905,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/3.4",
 		"id": "ee400f20-119e-4415-ba28-6eadf6751c7d",
-		"prefix": "B3.3.4",
 		"title": "De kandidaat kan in een context uitleggen hoe opname, transport en afgifte van CO2 en O2 plaatsvindt en wat de rol van hemoglobine en myoglobine daarbij is",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2914,8 +2914,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/3.5",
 		"id": "e5c1af5b-707e-49aa-b444-f3e7e445a787",
-		"prefix": "B3.3.5",
 		"title": "De kandidaat kan in een context de relatie tussen de gaswisseling van planten en fotosynthese en dissimilatie beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2923,8 +2923,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/4.1",
 		"id": "f36ec9fc-7b86-4211-adce-253168be3758",
-		"prefix": "B3.4.1",
 		"title": "De kandidaat kan in een context de  bouw, werking en functie van spijsverteringsorganen van eukaryoten, in het bijzonder van de mens, beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2932,8 +2932,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/4.2",
 		"id": "30ef5f25-ea9e-473b-a1d0-88484318a9e6",
-		"prefix": "B3.4.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van spijsverteringsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2941,8 +2941,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/4.3",
 		"id": "bf264ad0-0095-426c-b728-e8897ad5969e",
-		"prefix": "B3.4.3",
 		"title": "De kandidaat kan in een context beschrijven waar en op welke wijze voedingsstoffen verteerd en opgenomen worden en verklaren op welke wijze factoren dit kunnen beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2950,8 +2950,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/5.1",
 		"id": "e583b91f-cf69-4556-bc97-a68470ba669f",
-		"prefix": "B3.5.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van uitscheidingsorganen van eukaryoten, in het bijzonder van de mens beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2959,8 +2959,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/5.2",
 		"id": "dfd2797c-c8bf-43a8-a8ba-c98647540ad9",
-		"prefix": "B3.5.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van uitscheidingsorganen en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2968,8 +2968,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/5.3",
 		"id": "0c08fa0d-78c7-4a76-873f-55013a933da6",
-		"prefix": "B3.5.3",
 		"title": "De kandidaat kan in een context de rol van de lever, de nieren, de longen en de huid bij uitscheidingprocessen toelichten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2977,8 +2977,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.1",
 		"id": "a7caec29-c4ea-4c11-8185-496fd1692ae6",
-		"prefix": "B3.6.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van de bloedsomloop met hart en bloedvaten van eukaryoten, in het bijzonder van de mens beschrijven",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2986,8 +2986,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.2",
 		"id": "9100f55d-5409-4ae4-a23e-2050eb065349",
-		"prefix": "B3.6.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van hart en bloedvaten en hun functie beschrijven en de relatie tussen de bouw en werking uitleggen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -2995,8 +2995,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.3",
 		"id": "9d350ab5-170c-4cc1-858f-532c556089a5",
-		"prefix": "B3.6.3",
 		"title": "De kandidaat kan in een context de embryonale bloedsomloop van de mens toelichten en verschillen en overeenkomsten benoemen met de bloedsomloop na de geboorte",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3004,8 +3004,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.4",
 		"id": "a19dbb6b-880a-47fb-8115-4417cea3614d",
-		"prefix": "B3.6.4",
 		"title": "De kandidaat kan in een context de functie van bestanddelen van bloed, bloedplasma, weefselvloeistof en lymfe beschrijven en de vorming van weefselvloeistof en lymfe toelichten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3013,8 +3013,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.5",
 		"id": "84171bbc-756e-45d8-a0df-7ad040192f24",
-		"prefix": "B3.6.5",
 		"title": "De kandidaat kan in een context het verband beschrijven tussen bloedvatenstelsel en lymfevatenstelsel",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3022,8 +3022,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B3/19/6.6",
 		"id": "fb844472-ce4f-4970-b5ed-7bfe85249e34",
-		"prefix": "B3.6.6",
 		"title": "De kandidaat kan in een context het transport van water, zouten en assimilatieproducten in planten beschrijven en de relatie met fotosynthese, dissimilatie en opslag van stoffen beargumenteren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3031,8 +3031,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/1.1",
 		"id": "8699d286-9027-4e22-8677-40b065025433",
-		"prefix": "B4.1.1",
 		"title": "De kandidaat kan in een context het belang van de longen, lever, nieren, huid, zenuw- en hormoonstelsel voor de homeostase bij de mens beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3040,8 +3040,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/1.2",
 		"id": "a0a58c95-ef5e-40a5-b7a4-0bb78e8a6760",
-		"prefix": "B4.1.2",
 		"title": "De kandidaat kan in een context de relatie tussen de bouw van de lever, longen, huid en nieren en de homeostase beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3049,8 +3049,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/1.3",
 		"id": "285abd4b-ebe8-4ba0-aff7-a22f81e3077b",
-		"prefix": "B4.1.3",
 		"title": "De kandidaat kan in een context een regelkring afleiden uit een beschrijving van de regulatie van lichaamsprocessen en de principes van een regelkring toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3058,8 +3058,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/1.4",
 		"id": "ed27d774-4415-457c-8dd5-adb6d93cdd0c",
-		"prefix": "B4.1.4",
 		"title": "De kandidaat kan in een context de samenhang van de regeling van lichaamsprocessen beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3067,8 +3067,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/1.5",
 		"id": "3ae5b304-5275-4024-8985-ee9b71dfd54c",
-		"prefix": "B4.1.5",
 		"title": "De kandidaat kan in een context beargumenteren op welke wijze verstoring van het dynamisch evenwicht kan ontstaan en hoe deze gereguleerd kan worden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3076,8 +3076,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/2.1",
 		"id": "03801a11-08f9-4438-9fc2-b8b0f49a2b27",
-		"prefix": "B4.2.1",
 		"title": "De kandidaat kan in een context de werking van een regelkring in het hormoonstelsel voorspellen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3085,8 +3085,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/2.2",
 		"id": "4604335f-2681-47f4-bd2a-b8d1e5fc71fb",
-		"prefix": "B4.2.2",
 		"title": "De kandidaat kan in een context de werking van hormoonklieren en de specifieke werking van hun hormonen beschrijven en afleiden hoe de doelorganen daarop reageren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3094,8 +3094,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/2.3",
 		"id": "ee0db6d7-940c-4918-ac07-352863d8f493",
-		"prefix": "B4.2.3",
 		"title": "De kandidaat kan in een context het verband beschrijven tussen hormonale regulatie en het handhaven van homeostase.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3103,8 +3103,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/2.4",
 		"id": "cc7499b2-7055-4914-a2d5-3575d2890c24",
-		"prefix": "B4.2.4",
 		"title": "De kandidaat kan in een context de relatie tussen het hormoonstelsel en het zintuig-, spier- en zenuwstelsel toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3112,8 +3112,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/3.1",
 		"id": "451686a2-37f0-40be-b485-6f068db98d32",
-		"prefix": "B4.3.1",
 		"title": "De kandidaat kan in een context de bouw en werking van het zenuwstelsel en de signaalverwerking beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3121,8 +3121,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/3.2",
 		"id": "981ce5a9-fa74-43b2-bc78-38a203f5063e",
-		"prefix": "B4.3.2",
 		"title": "De kandidaat kan in een context de werking van een regelkring in het zenuwstelsel uitleggen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3130,8 +3130,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/3.3",
 		"id": "c3239910-aeae-4fe5-9c90-70641172a6e7",
-		"prefix": "B4.3.3",
 		"title": "De kanidaat kan in een context het verband beschrijven tussen de werking van het zenuwstelsel en het functioneren van een organisme.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3139,8 +3139,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B4/20/3.4",
 		"id": "b124be21-4127-44de-ba04-91e124dfa357",
-		"prefix": "B4.3.4",
 		"title": "De kandidaat kan in een context de relatie tussen het zenuwstelsel en het zintuig-, spier- en hormoonstelsel toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3148,8 +3148,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B5/21/1.1",
 		"id": "7eebab88-e3e7-448c-aff2-5a2f26edc094",
-		"prefix": "B5.1.1",
 		"title": "De kandidaat kan in een context de bouw, werking en functie van organen en cellen betrokken bij de afweer van de mens beschrijven en hun onderlinge relatie toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3157,8 +3157,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B5/21/1.2",
 		"id": "b96039bf-6286-46d0-875b-f95c0f37fc39",
-		"prefix": "B5.1.2",
 		"title": "De kandidaat kan in een context de werking van de specifieke en aspecifieke afweer beschrijven en de reactie op lichaamseigen en lichaamsvreemde stoffen en cellen te verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3166,8 +3166,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B5/21/1.3",
 		"id": "5c46d0ce-91a3-4386-a4fc-98f0d8312a3d",
-		"prefix": "B5.1.3",
 		"title": "De kandidaat kan in een conext de afweermechanismen van planten herkennen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3175,8 +3175,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/1.1",
 		"id": "63c3c70b-db9a-41d2-888b-6b8f0d228101",
-		"prefix": "B8.1.1",
 		"title": "De kandidaat kan in een context energiestromen in een ecosysteem beschrijven, toelichten welke factoren daarop van invloed zijn en uitleggen wat oorzaken en gevolgen zijn van verstoring.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3184,8 +3184,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/1.2",
 		"id": "7f525f57-4ffb-4a0d-9b2d-3ad962a75558",
-		"prefix": "B8.1.2",
 		"title": "De kandidaat kan in een context modellen van energiestromen beschrijven en uitleggen welke processen en organismen daarin een rol spelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3193,8 +3193,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/1.3",
 		"id": "1ddf9ad8-06ab-4fb0-b211-1c3b6e7a9924",
-		"prefix": "B8.1.3",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens energiestromen kan beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3202,8 +3202,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/2.1",
 		"id": "9fe0decf-5e8e-454b-a893-c9620895e97d",
-		"prefix": "B8.2.1",
 		"title": "De kandidaat kan in een context de rol uitleggen van producenten, consumenten en reducenten in de kringlopen van koolstof en stikstof en de verbanden kwantificeren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3211,8 +3211,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/2.2",
 		"id": "35430f4f-2d3f-447f-833d-eb563ec6444d",
-		"prefix": "B8.2.2",
 		"title": "De kandidaat kan in een context kringlopen van elementen in een ecosysteem weergeven, toelichten welke factoren van invloed zijn op de verschillende stappen daarin en uitleggen wat oorzaken en gevolgen zijn van verstoring.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3220,8 +3220,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/2.3",
 		"id": "a0342a0d-631d-48c8-b411-fe7ce596a09e",
-		"prefix": "B8.2.3",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens nutriëntenkringlopen en daarmee het systeem Aarde kan beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3229,8 +3229,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/3.1",
 		"id": "209b7e1c-f2ce-475f-a630-b6e058ab3424",
-		"prefix": "B8.3.1",
 		"title": "De kandidaat kan in een context beschrijven wat onder een ecosysteem wordt verstaan en welke componenten daarvan deel uitmaken",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3238,8 +3238,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/3.2",
 		"id": "0a837d72-a77e-413d-8eac-5ee0d1d36b77",
-		"prefix": "B8.3.2",
 		"title": "De kandidaat kan in een context uitleggen welke rol concurrentie binnen en tussen populaties speelt bij de dynamiek (instandhouding en ontwikkeling) van een ecosysteem.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3247,8 +3247,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/3.3",
 		"id": "3887ef88-a77e-432d-98b6-200e82934d3d",
-		"prefix": "B8.3.3",
 		"title": "De kandidaat kan in een context uitleggen welke rol biotische en abiotische factoren spelen bij de dynamiek binnen een ecosysteem.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3256,8 +3256,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinB/B8/24/3.4",
 		"id": "6c313054-166f-4eeb-ba28-643e88bdbb27",
-		"prefix": "B8.3.4",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens de zelfregulatie van ecosystemen kan beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3285,8 +3285,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/1.1",
 		"id": "3fed86cc-b4af-4d61-a972-f231d3b8004a",
-		"prefix": "C1.1.1",
 		"title": "De kandidaat kan in een context weergeven dat DNA bij eukaryoten voor het grootste deel niet coderend is en dat genen voor een groot gedeelte uit introns bestaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3294,8 +3294,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/1.2",
 		"id": "09ffad63-07f3-43df-8a08-d1af4060172a",
-		"prefix": "C1.1.2",
 		"title": "De kandidaat kan in een context het proces van genexpressie tot en met eiwitsynthese omschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3303,8 +3303,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/1.3",
 		"id": "be2026f3-8a78-49a3-a45d-ec23e0a89053",
-		"prefix": "C1.1.3",
 		"title": "De kandidaat kan in een context beschrijven dat genen afhankelijk van de omstandigheden tot expressie komen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3312,8 +3312,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/1.4",
 		"id": "4a3965d7-4dc6-4ccf-adad-6abe19f438ec",
-		"prefix": "C1.1.4",
 		"title": "De kandidaat kan in een context uitleggen dat in verschillende typen cellen verschillende eiwitten gemaakt worden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3321,8 +3321,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/1.5",
 		"id": "cb9d1b4a-25f0-4f88-add0-8f6e9a073640",
-		"prefix": "C1.1.5",
 		"title": "De kandidaat kan in een context verklaren hoe genexpressie en het functioneren van een organisme samenhangen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3330,8 +3330,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/2.1",
 		"id": "1f23b74f-8044-48f7-88c2-deeb93f1e016",
-		"prefix": "C1.2.1",
 		"title": "De kandidaat kan in een context beschrijven dat vrijwel alle cellen van een meercellig organisme hetzelfde genoom hebben.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3339,8 +3339,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/2.2",
 		"id": "8f3f92ac-fb1f-455d-94ca-31cb34d3ba16",
-		"prefix": "C1.2.2",
 		"title": "De kandidaat kan in een context beschrijven hoe door defferentiatie cellen ontstaan met een verschillende vorm en functie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3348,8 +3348,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/2.3",
 		"id": "31ea9e6d-d94c-44a6-bacc-57ade7ad3c33",
-		"prefix": "C1.2.3",
 		"title": "De kandidaat kan in een context beschrijven dat celdifferentiatie tot stand komt door het aan- en/of uitschakelen van genen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3357,8 +3357,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/2.4",
 		"id": "bc9d0518-d12b-44cd-9267-c604ea1ad9de",
-		"prefix": "C1.2.4",
 		"title": "De kandidaat kan in een context eigenschappen van stamcellen beschrijven en toelichten voor welke doelen stamcellen gebruikt kunnen worden;",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3366,8 +3366,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C1/25/2.5",
 		"id": "25713c69-827b-4628-bea2-62f15c28e688",
-		"prefix": "C1.2.5",
 		"title": "De kandidaat kan in een context toelichten dat een cel in staat is tot apoptose en dat deze een rol kan spelen tijdens de ontwikkeling van een meercellig organisme.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3375,8 +3375,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.1",
 		"id": "d64e5bee-e9bf-404a-a059-525860e225cb",
-		"prefix": "C3.1.1",
 		"title": "De kandidaat kan in een context de ontwikkeling van een ecosysteem beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3384,8 +3384,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.2",
 		"id": "69470a8e-ae86-4c3d-b7dc-d64924b35622",
-		"prefix": "C3.1.2",
 		"title": "De kandidaat kan in een context opeenvolgende veranderingen in een ecosysteem beschrijven en verklaren hoe daarbij overgangen tot stand komen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3393,8 +3393,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.3",
 		"id": "d9f3d2b9-caae-4676-8498-160001fba66a",
-		"prefix": "C3.1.3",
 		"title": "De kandidaat kan in een context verschillen tussen ecosystemen benoemen op basis van verschillen in populaties (biotische) en abiotische factoren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3402,8 +3402,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.4",
 		"id": "c39f921b-a58e-487f-a1b7-0b71093a608f",
-		"prefix": "C3.1.4",
 		"title": "De kandidaat kan in een context de dynamiek in een ecosysteem beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3411,8 +3411,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.5",
 		"id": "c3ec2197-8fd1-4aed-9fc8-558bf533223c",
-		"prefix": "C3.1.5",
 		"title": "De kandidaat kan in een context herkennen dat een ecosysteem in verschillende evenwichtssituaties kan verkeren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3420,8 +3420,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinC/C3/27/1.6",
 		"id": "b5c9e671-9d2c-4fd1-b973-b2d8c5dea840",
-		"prefix": "C3.1.6",
 		"title": "De kandidaat kan in een context beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen en het systeem Aarde beïnvloedt.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3459,8 +3459,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D1/28/1.1",
 		"id": "57ea90c5-0424-4d63-9703-faad2d8f50af",
-		"prefix": "D1.1.1",
 		"title": "De kandidaat kan in een context mechanismen voor genregulatie noemen en het belang ervan toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3468,8 +3468,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D1/28/1.2",
 		"id": "427ca53b-5d9d-4663-8719-a9a86df7e88f",
-		"prefix": "D1.1.2",
 		"title": "De kandidaat kan in een context uitleggen dat cellen voor hun functioneren gebruik maken van eiwitten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3478,8 +3478,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D1/28/1.3",
 		"id": "93869a0a-9f30-4d38-b832-0a54ae19db5e",
-		"prefix": "D1.1.3",
 		"title": "De kandidaat kan in een context uitleggen dat (a)biotische factoren de variatie aan eiwitten beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3487,8 +3487,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D1/28/1.4",
 		"id": "3102c779-c20d-4175-a7dd-0e1d70cfd5e2",
-		"prefix": "D1.1.4",
 		"title": "De kandidaat kan in een context uitleggen dat genexpressie een dynamisch proces is dat geregeld wordt door verschillende factoren waaronder epigenetische.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3496,8 +3496,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D1/28/1.5",
 		"id": "dd2b8b73-5d5f-461f-83e5-bf384292a401",
-		"prefix": "D1.1.5",
 		"title": "De kandidaat kan in een context uitleggen dat mutagene factoren de genregulatie verstoren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3505,8 +3505,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D2/29/2.1",
 		"id": "59538f7d-f414-4b72-bb25-267a06673b6c",
-		"prefix": "D2.1.1",
 		"title": "De kandidaat kan in een context beschrijven hoe cellen signalen ontvangen en verwerken, hoe cellen op signalen reageren, en deze processen aan elkaar relateren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3514,8 +3514,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D2/29/2.2",
 		"id": "2e6958ae-24f0-47ac-a2a7-bd7ad2d870ef",
-		"prefix": "D2.1.2",
 		"title": "De kandidaat kan in een context herkennen hoe cellen met elkaar communiceren over korte en over lange afstand via zenuwcellen en via hormonen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3523,8 +3523,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D2/29/2.3",
 		"id": "95a0f407-2377-4512-828b-41096172aa16",
-		"prefix": "D2.1.3",
 		"title": "De kandidaat kan in een context  onderscheiden dat er responsen in het celplasma zijn en dat er responsen zijn die genexpressie bevorderen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3532,8 +3532,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D2/29/2.4",
 		"id": "2c07c6bb-6b76-4552-abc9-e51691395ed9",
-		"prefix": "D2.1.4",
 		"title": "De kandidaat kan in een context afleiden welke effecten celcommunicatie op andere organisatieniveaus teweegbrengt.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3541,8 +3541,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/1.1",
 		"id": "e5dace91-e342-43a0-88a6-4c157f54eb74",
-		"prefix": "D5.1.1",
 		"title": "De kandidaat kan in een context voedselrelaties tussen organismen beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3550,8 +3550,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/1.2",
 		"id": "03df0c18-dad8-46c0-a405-42a5098458f5",
-		"prefix": "D5.1.2",
 		"title": "De kandidaat kan in een context relaties in een voedselketen benoemen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3559,8 +3559,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/1.3",
 		"id": "c33c8c63-3f13-46dc-b80a-4f19e12ec394",
-		"prefix": "D5.1.3",
 		"title": "De kandidaat kan in een context in een voedselweb voedselketens herkennen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3568,15 +3568,15 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/1.4",
 		"id": "6eb5ddc7-f87e-4ebc-a70d-62b6c037648d",
-		"prefix": "D5.1.4",
 		"title": "De kandidaat kan in een context de accumulatie van giftige stoffen in een voedselketen uitleggen.",
 		"ce_se": "CE",
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.1",
 		"id": "949c7b16-4932-4ecd-b364-bf9c4e468af1",
-		"prefix": "D5.2.1",
 		"title": "De kandidaat kan in een context veranderingen van abiotische en biotische factoren en hun onderlinge wisselwerking in een ecosysteem beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3584,8 +3584,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.2",
 		"id": "4cb3a4f2-3822-47d0-a030-03b168196b3f",
-		"prefix": "D5.2.2",
 		"title": "De kandidaat kan in een context beschrijven welke rol abiotische en biotische factoren spelen bij de instandhouding en ontwikkeling van een ecosysteem.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3593,8 +3593,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.3",
 		"id": "41e3f07d-7aaf-4590-826e-45f0b9f042a3",
-		"prefix": "D5.2.3",
 		"title": "De kandidaat kan in een context de accumulatie van giftig stoffen in een voedselketen uitleggen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3602,8 +3602,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.4",
 		"id": "d68d650c-2134-4842-a071-bcbf3452ec46",
-		"prefix": "D5.2.4",
 		"title": "De kandidaat kan in een context de rol van concurrentie binnen en tussen de populaties in een ecosysteem beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3611,8 +3611,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.5",
 		"id": "6660bffe-72c4-40ca-b623-20ea18258280",
-		"prefix": "D5.2.5",
 		"title": "De kandidaat kan in een context  beschrijven wat onder duurzame ontwikkeling wordt verstaan, in het bijzonder duurzame energie- en voedselproductie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3620,8 +3620,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinD/D5/32/2.6",
 		"id": "8e1102c6-9083-46b9-a136-0f5b48438980",
-		"prefix": "D5.2.6",
 		"title": "De kandidaat kan in een context beargumenteren op welke wijze vraagstukken die betrekking hebben op duurzame ontwikkeling, kunnen worden benaderd.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3639,8 +3639,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/1.1",
 		"id": "c6ae8522-54e3-442e-8220-c0e1917cfdd6",
-		"prefix": "E3.1.1",
 		"title": "De kandidaat kan in een context de geslachtelijke en ongeslachtelijke voortplanting beschrijven en de daarmee de genetische variatie bij prokaryoten en eukaryoten verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3648,8 +3648,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/1.2",
 		"id": "93e726f9-129c-4cdf-a799-57ab8745ec21",
-		"prefix": "E3.1.2",
 		"title": "De kandidaat kan in een context bouw, vorming, ontwikkeling en functie beschrijven van gameten en de zygote.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3657,8 +3657,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/1.3",
 		"id": "ff21dac5-52db-40e6-9bd9-5bcf3b8e6ec3",
-		"prefix": "E3.1.3",
 		"title": "De kandidaat kan in een context bouw en werking van de voortplantingsorganen van de mens beschrijven en de rol van hormonen daarbij toelichten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3666,8 +3666,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/1.4",
 		"id": "78b48801-0f51-4a8d-bb57-922c7d713028",
-		"prefix": "E3.1.4",
 		"title": "De kandidaat kan in een context standpunten over het ingrijpen in het voortplantingsproces van organismen toelichten met ethische en biologische argumenten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3675,8 +3675,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/2.1",
 		"id": "46de1939-1faa-4546-8831-6d97c860c820",
-		"prefix": "E3.2.1",
 		"title": "De kandidaat kan in een context uitleggen dat een fenotype tot stand komt door de combinatie van genotype en de invloed van milieufactoren, en verschillen herkennen met de epigenetische overerving.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3684,8 +3684,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/2.2",
 		"id": "fbd99df1-3033-4f69-9179-3c5a69da14d4",
-		"prefix": "E3.2.2",
 		"title": "De kandidaat kan in een context  verschillen tussen autosomen en geslachtschromosomen benoemen en toelichten dat bij de mens de geslachtschromosomen het geslacht bepalen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3693,8 +3693,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/2.3",
 		"id": "d52cdde7-e92d-4fae-9f8c-2de6051ed7a6",
-		"prefix": "E3.2.3",
 		"title": "De kandidaat kan in een context de frequentie van genotypen en fenotypen van nakomelingen afleiden uit stambomen of kruisingsschema’s bij monohybride en dihybride kruisingen, zowel voor onafhankelijke als gekoppelde overerving, voor autosomale en Xchromosomale genen, multipele allelen en lethale factoren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3702,8 +3702,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/2.4",
 		"id": "a53f97ea-c92c-4f0f-8fb7-1c81d268034e",
-		"prefix": "E3.2.4",
 		"title": "De kandidaat kan in een context verklaren dat mitochondriale overerving en epigenetica kunnen leiden tot een ander overervingspatroon dan volgens de wetten van Mendel.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3711,8 +3711,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinE/E3/35/2.5",
 		"id": "8401a1ed-9d4d-48d3-af29-e4ac32fa9c3c",
-		"prefix": "E3.2.5",
 		"title": "De kandidaat kan in een context standpunten over het ingrijpen in de erfelijkheid van pro- en eukaryote organismen toelichten met ethische en biologische argumenten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3770,8 +3770,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/1.1",
 		"id": "c44e035c-357f-4a78-b9d9-9657c7741304",
-		"prefix": "F1.1.1",
 		"title": "De kandidaat kan in een context  benoemen dat DNA functioneert als universele drager van genetische informatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3779,8 +3779,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/1.2",
 		"id": "4054eeab-1a22-40aa-a51b-2bf2994901a1",
-		"prefix": "F1.1.2",
 		"title": "De kandidaat kan in een context uitleggen dat dezelfde genetische informatie in verschillende organismen voor kan komen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3788,8 +3788,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/1.3",
 		"id": "56543a7b-29b7-4f84-998d-eb8fb8d1da24",
-		"prefix": "F1.1.3",
 		"title": "De kandidaat kan in een context uitleggen hoe met gegevens verkregen door DNA-analyse de graad van verwantschap van soorten kan worden vastgesteld.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3797,8 +3797,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/2.1",
 		"id": "eadd676c-73ea-467e-952b-46f2efb75913",
-		"prefix": "F1.2.1",
 		"title": "De kandidaat kan in een context beschrijven welke typen mutatie er zijn.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3806,8 +3806,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/2.2",
 		"id": "db371634-a3dc-4e8f-818c-f529003bf781",
-		"prefix": "F1.2.2",
 		"title": "De kandidaat kan in een context uitleggen waardoor mutatie veroorzaakt kan worden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3815,8 +3815,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/2.3",
 		"id": "7b96aa4e-8b99-492f-bf98-1a5180ff74ed",
-		"prefix": "F1.2.3",
 		"title": "De kandidaat kan in een context uitleggen dat mutatie het fenotype kan beïnvloeden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3824,8 +3824,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/2.4",
 		"id": "056b413d-dd6f-463a-a4c1-c2b6f7c5eebc",
-		"prefix": "F1.2.4",
 		"title": "De kandidaat kan in een context uitleggen dat mutatie plaatsvindt onafhankelijk van het mogelijke effect ervan op overlevingskans of voortplaning van de cel of het organisme.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3833,8 +3833,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/3.1",
 		"id": "271ccab5-62f7-429a-bbb8-307494b0a26e",
-		"prefix": "F1.3.1",
 		"title": "De kandidaat kan in een context uitleggen hoe bij geslachtelijke voortplanting voortplantingscellen met een unieke combinatie van genen ontstaan door recombinatie van chromosomen en delen daarvan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3842,8 +3842,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/4.1",
 		"id": "13dca3fa-4c0e-4e8f-bc4e-90e7eaf148bc",
-		"prefix": "F1.4.1",
 		"title": "De kandidaat kan in een context uitleggen hoe genetische variatie in een populatie vergroot wordt door mutatie en recombinatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3851,8 +3851,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F1/36/4.2",
 		"id": "42b6998b-4fa8-4311-be24-603996650adb",
-		"prefix": "F1.4.2",
 		"title": "De kandidaat kan in een context uitleggen hoe door de mens gewenste genencombinaties verkregen worden door genetische modificatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3860,8 +3860,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/1.1",
 		"id": "493b4692-ef0b-4624-8901-a17c90cf7d62",
-		"prefix": "F2.1.1",
 		"title": "De kandidaat kan in een context omschrijven wat onder een populatie wordt verstaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3869,8 +3869,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/1.2",
 		"id": "71d953b1-a863-4eee-9144-82e7923af646",
-		"prefix": "F2.1.2",
 		"title": "De kandiddat kan in een context uitleggen hoe frequenties van genotypen en fenotypen in populaties in tijd en ruimte veranderen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3878,8 +3878,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/1.3",
 		"id": "40f1a99c-9b67-4c8d-b0e0-f38383613423",
-		"prefix": "F2.1.3",
 		"title": "De kandidaat kan in een context uitleggen dat populaties emergente eigenschappen hebben.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3887,8 +3887,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/2.1",
 		"id": "d817148b-7c68-4b0f-b3df-5514b57b8707",
-		"prefix": "F2.2.1",
 		"title": "De kandidaat kan in een context beschrijven wat onder genetische variatie in een populatie wordt verstaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3896,8 +3896,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/2.2",
 		"id": "ff6b1751-2925-4851-9208-1c22c1fe59ce",
-		"prefix": "F2.2.2",
 		"title": "De kandidaat kan in een context uitleggen hoe allelfrequenties/genfrequenties in een populatie kunnen veranderen door random mutaties, genetic drift en gene flow.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3905,8 +3905,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/2.3",
 		"id": "39892ad1-2d4c-4aea-aa05-8f272cf235e3",
-		"prefix": "F2.2.3",
 		"title": "De kandidaat kan in een context verbanden kwantificeren tussen allelfrequenties/genfrequenties en frequenties van genotypen van opeenvolgende generaties met gebruik van de regel van HardyWeinberg.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3914,8 +3914,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/3.1",
 		"id": "3e7f3443-210b-424b-a8ab-4721c9fbbd27",
-		"prefix": "F2.3.1",
 		"title": "De kandidaat kan in een context  uitleggen dat adaptatie van populaties door selectie van organismen tot stand komen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3923,8 +3923,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/3.2",
 		"id": "28a3d837-f6cf-443f-8933-0ddc9289866f",
-		"prefix": "F2.3.2",
 		"title": "De kandidaat kan in een context uitleggen dat selectiedruk adaptaties bijeen brengt die het voortplantingssucces van de soort vergroten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3932,8 +3932,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/3.3",
 		"id": "2b1ad2df-84c7-4707-bf18-3bf2ab9a04a2",
-		"prefix": "F2.3.3",
 		"title": "De kandidaat kan in een context overeenkomsten en verschillen tussen natuurlijke en kunstmatige selectie beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3941,8 +3941,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/4.1",
 		"id": "208e069e-d4cc-415a-a4b9-914372da2a33",
-		"prefix": "F2.4.1",
 		"title": "De kandidaat kan in een context beschrijven dat soorten groepen individuen zijn die reproductief van elkaar geïsoleerd zijn.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3950,8 +3950,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/4.2",
 		"id": "12943e06-b5de-4f46-b113-b0daeb60240b",
-		"prefix": "F2.4.2",
 		"title": "De kandidaat kan in een context uitleggen dat populaties divergeren door genetic drift, mutatie en selectie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3959,8 +3959,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/4.3",
 		"id": "fafbbe28-b926-4e7f-a500-f854bbe2c9b4",
-		"prefix": "F2.4.3",
 		"title": "De kandidaat kan in een context uitleggen dat soorten ontstaan door reproductieve isolatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3968,8 +3968,8 @@
 		]
 	},
 	{
+		"prefix": "BIO/V/DomeinF/F2/37/4.4",
 		"id": "c19aa139-b8f9-431c-b3d4-3bc98e88dc4f",
-		"prefix": "F2.4.4",
 		"title": "De kandidaat kan in een context uitleggen hoe de verwantschap en afstamming van soorten weergegeven kan worden in de vorm van een cladogram.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -4035,104 +4035,6 @@
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
 		],
 		"description": ""
-	},
-	{
-		"id": "b37340d8-fb82-460e-a97e-93f1313dd4be",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: gebieden en verschijnselen vanuit een dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "c2970072-ada5-4b23-99c1-f85ab6586ee4",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen vanuit een of meer dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "ec8ae704-3248-4a34-90bb-a3d79a621054",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "c90ac4c7-c75e-413d-b2ea-e074a6cbafc3",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "a614410b-26e0-4491-bdf7-24c8d61de0c1",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen;",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "d945865d-7478-4831-9cbd-f909b6308348",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "6dc7cbb3-1689-4b1b-a75e-09e0d93b10f7",
-		"prefix": "AK/K/3.2",
-		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: bij gebieden en verschijnselen onderscheid maken tussen het algemene en het bijzondere.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
 	},
 	{
 		"id": "b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
@@ -4354,20 +4256,6 @@
 		],
 		"description": "",
 		"dirty": "1"
-	},
-	{
-		"id": "6a878036-c7e1-4ec6-b56e-38e1e196e7e3",
-		"prefix": "AK/K/4/5",
-		"title": "De kandidaat kan weer en klimaat, klimaatverandering en klimaatbeleid van Nederland en Spanje beschrijven en verklaren en de situatie in beide gebieden vergelijken.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
 	},
 	{
 		"id": "b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
@@ -4602,45 +4490,6 @@
 		"description": ""
 	},
 	{
-		"id": "586bb26b-d1c1-4927-8088-ca8c440b55eb",
-		"prefix": "AK/K/6/11.7",
-		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water in Nederland beschrijven",
-		"examenprogramma_eindterm_id": [
-			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "c384e856-f0bd-4b72-9141-8444312c01cf",
-		"prefix": "AK/K/6/11.7",
-		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water en de ruimtelijke effecten daarvan in Nederland beschrijven en voor- en nadelen van maatregelen vanuit verschillende dimensies beschrijven.",
-		"examenprogramma_eindterm_id": [
-			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
-		"id": "3ba7ecd7-4fdb-4c84-a53e-bc6c2a263caa",
-		"title": "De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in het Midden Oosten beschrijven en verklaren, en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
-		]
-	},
-	{
 		"id": "19d045b3-e595-453b-ab50-c9a6cb381938",
 		"prefix": "AK/K/6/12.1",
 		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten beschrijven.",
@@ -4656,20 +4505,6 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
-	},
-	{
-		"id": "20cca5e7-18b4-45a0-9ed6-df5f62f78f70",
-		"prefix": "AK/K/6/12.3",
-		"title": "De kandidaat kan het belang van water voor transport in het Midden-Oosten beschrijven en verklaren.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
 		]
 	},
 	{
@@ -4708,19 +4543,6 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"7ff69461-6922-418f-9ae2-948a8a86936c"
-		]
-	},
-	{
-		"id": "9b4aacaa-f3ed-4f20-bc1c-0fcda2da0ffa",
-		"title": "De kandidaat kan de herkomst, het voorkomen, de kwaliteit en het gebruik van water in het Midden Oosten en China beschrijven en verklaren, en maatregelen voor een duurzamer gebruik van water en de effecten ervan beschrijven en de situatie in beide gebieden vergelijken.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"f2531523-a977-4a13-9a70-6c247ff70f3b"
-		],
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
 		]
 	},
 	{
@@ -5065,8 +4887,8 @@
 		"description": ""
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.1a",
 		"id": "5b009673-0c33-4be1-8e4f-25c213b7e5a9",
-		"prefix": "A1.1a.1a",
 		"title": "De leerling kan kaarten zoeken en de juiste kaart kiezen door de geografische informatiewaarde en cartografische geschiktheid van de kaart te beoordelen. Bij het beoordelen van de cartografische geschiktheid betrekt de leerling de projectie, schaal en de mate en wijze van generalisatie en symbolisatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5077,8 +4899,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.1b",
 		"id": "9cead215-9642-4f41-9cab-dec0d4a65fec",
-		"prefix": "A1.1a.1b",
 		"title": "De leerling kan elementen in de kaart identificeren en benoemen, en de kenmerken van de elementen beschrijven. De leerling kan ook de kaarten bevragen: hij kan zoeken welke kenmerken bepaalde elementen bezitten en welke elementen bepaalde kenmerken bezitten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5089,8 +4911,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.1c",
 		"id": "e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
-		"prefix": "A1.1a.1c",
 		"title": "De leerling kan patronen (spreidingen en geledingen) in de kaart herkennen en beschrijven, en kan correlaties tussen twee patronen herkennen en beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5101,8 +4923,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.1d",
 		"id": "2bcf086c-c39d-4dde-a36b-d411d8ae281d",
-		"prefix": "A1.1a.1d",
 		"title": "De leerling kan verklaringen geven voor de kenmerken en patronen van elementen en de aanwezigheid van correlaties, en kan voorspellingen doen voor veranderingen in de kenmerken en patronen van elementen. Hierbij maakt de leerling gebruik van achtergrondkennis.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5125,8 +4947,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.2a",
 		"id": "ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
-		"prefix": "A1.1a.2a",
 		"title": "De kandidaat kan verschillende typen Geo-ICT applicaties als informatiebron benutten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5137,8 +4959,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.2b",
 		"id": "b7059be1-3727-495b-827b-f29a7aed4cf1",
-		"prefix": "A1.1a.2b",
 		"title": "De kandidaat kan GPS applicaties gebruiken om geografische gegevens te verzamelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5149,8 +4971,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.2c",
 		"id": "014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
-		"prefix": "A1.1a.2c",
 		"title": "De kandidaat kan eenvoudige GIS software hanteren bij het werken met digitale kaarten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5161,8 +4983,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.3",
 		"id": "cc67f770-1290-4bad-9d50-cece367e449c",
-		"prefix": "A1.1a.3",
 		"title": "De kandidaat kan relevante informatie selecteren, analyseren, interpreteren en produceren bij gegeven geografische vragen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5173,8 +4995,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1b.1",
 		"id": "8f23c07c-4b8c-4c48-9463-6aff96e1d101",
-		"prefix": "A1.1b.1",
 		"title": "De kandidaat kan aangeven waarover geografische vragen gaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5185,8 +5007,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.1",
 		"id": "d8711de6-437f-4f3e-86e7-2910e54d6526",
-		"prefix": "A1.1c.1",
 		"title": "De kandidaat kan verschijnselen en gebieden vergelijken in ruimte en tijd.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5197,8 +5019,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.2",
 		"id": "552f6b7d-95f3-4537-a9f4-49ebf7af163a",
-		"prefix": "A1.1c.2",
 		"title": "De kandidaat kan relaties leggen binnen een gebied en tussen gebieden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5209,8 +5031,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.3",
 		"id": "fbc83147-99a6-4fc3-87bf-f5d3247c3257",
-		"prefix": "A1.1c.3",
 		"title": "De kandidaat kan verschijnselen en gebieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, cultuur).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5221,8 +5043,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.4",
 		"id": "ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
-		"prefix": "A1.1c.4",
 		"title": "De kandidaat kan verschijnselen en gebieden in hun geografische context plaatsen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5233,8 +5055,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.5",
 		"id": "fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
-		"prefix": "A1.1c.5",
 		"title": "De kandidaat kan verschijnselen en gebieden op verschillende ruimtelijke schalen beschrijven en analyseren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5248,8 +5070,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1c.6",
 		"id": "7223dff9-dd0f-403a-9f3c-737d2df28032",
-		"prefix": "A1.1c.6",
 		"title": "De kandidaat kan verschijnselen en gebieden beschrijven en analyseren door relaties te leggen tussen het bijzondere en het algemene.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5260,8 +5082,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinB/B2/4a.1",
 		"id": "d8f4c45d-50d9-4a4b-9368-d01dec9329bc",
-		"prefix": "B1.3a.1",
 		"title": "De kandidaat kan aan he proces van mondialisering/globalisering economische, culturele en politieke dimensies onderscheiden en aangeven hoe deze dimensies elkaar beïnvloeden",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -5725,8 +5547,8 @@
 		]
 	},
 	{
+		"prefix": "AK/H/DomeinA/A1/1a.1e",
 		"id": "a3926f80-8735-4f2d-a018-8776a897f352",
-		"prefix": "A1.1a.1e",
 		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\n- kiest de leerling de geschikte projectie en schaal \r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\n- kiest de leerling voor een geschikte klassenindeling \r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"ce_se": "CE",
 		"examenprogramma_id": [
@@ -5753,8 +5575,8 @@
 		"ce_se": ""
 	},
 	{
+		"prefix": "AK/H/DomenB/B2/4a.1",
 		"id": "b8f777d7-a6c6-4998-a5c3-e2130c0d713a",
-		"prefix": "B2.4a.1",
 		"title": "De kandidaat kan economische, demografische en sociaal-culturele indicatoren voor het vergelijken van landen benoemen en de beperkingen aangeven van gemiddelde nationale waarden voor die indicatoren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5764,8 +5586,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomenB/B2/4a.2",
 		"id": "a706af28-839f-4419-83c7-a97a797f951f",
-		"prefix": "B2.4a.2",
 		"title": "De kandidaat kan mondiale economische, demografische en sociaal-culturele spreidingspatronen, alsmede de meest opvallende veranderingen hierin sinds 1980 beschrijven en in hoofdlijnen verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5775,8 +5597,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomenB/B2/4a.3",
 		"id": "a1070a67-ac38-414f-9804-f2a0e9d42e70",
-		"prefix": "B2.4a.3",
 		"title": "De kandidaat kan mondiale relatiepatronen van handel, investeringen en migratie beschrijven en in hoofdlijnen verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5786,8 +5608,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomenB/B2/4b.1",
 		"id": "316b4880-44a1-434f-b1cd-815ad609186c",
-		"prefix": "B2.4b.1",
 		"title": "De kandidaat kan het proces van mondialisering/globalisering in economisch en (sociaal-)cultureel opzicht beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5797,8 +5619,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomenB/B2/4b.2",
 		"id": "96585cc8-6b18-403d-9408-ba6ff623423f",
-		"prefix": "B2.4b.2",
 		"title": "De kandidaat kan voor Groot-Brittannië en India de positie in mondiale patronen en de effecten van globaliseirng herkennen en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5808,8 +5630,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7a.1",
 		"id": "c50d1475-68f3-4ad1-8843-ae6e6b0bf635",
-		"prefix": "C2.7a.1",
 		"title": "De kandidaat kan de endogene krachten die samenhangen met de platentektoniek beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5819,8 +5641,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7a.2",
 		"id": "e81a3043-a7e7-4520-8d74-a902e222eb0f",
-		"prefix": "C2.7a.2",
 		"title": "De kandidaat kan de werking van belangrijke exogene krachten beschrijven en hun invloed op de vorming van het aardoppervlak verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5830,8 +5652,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7a.3",
 		"id": "e26494b7-c689-4d0a-97a9-68722fad20df",
-		"prefix": "C2.7a.3",
 		"title": "De kandidaat kan de interactie tussen endogene en exogene krachten beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5841,8 +5663,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7a.4",
 		"id": "e6cefe7a-5f9b-413f-bb90-2888def56a9d",
-		"prefix": "C2.7a.4",
 		"title": "De kandidaat kan de door zonne-energie en aardrotatie aangedreven grote windsystemen en zeestromingen op aarde beschrijven en verklaren hoe deze van invloed zijn op de klimaatzones.",
 		"ce_se": "CE",
 		"description": "",
@@ -5852,8 +5674,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7b.1",
 		"id": "cd894aac-475a-4e37-9354-9a73d39de1c9",
-		"prefix": "C2.7b.1",
 		"title": "De kandidaat kan het landschap herkennen als het resultaat van een dynamisch systeem en de voor een landschapszone relevante geofactoren met elkaar in verband brengen.",
 		"ce_se": "CE",
 		"description": "",
@@ -5863,8 +5685,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinC/C2/7b.2",
 		"id": "9a72a475-f1ed-4b71-9a35-02db80704773",
-		"prefix": "C2.7b.2",
 		"title": "De kandidaat kan de invloed van menselijke activiteiten op natuur en milieu in verschillende landschapszones beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5874,8 +5696,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.1",
 		"id": "9e59721f-052d-4597-819b-58f7fb3fb73c",
-		"prefix": "D1.9a.1",
 		"title": "De kandidaat kan een eigen en andermans beelden van Brazilië beschrijven en aangeven hoe die beelden tot stand komen.",
 		"ce_se": "CE",
 		"description": "",
@@ -5885,8 +5707,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.2a",
 		"id": "171f2e3b-220b-4c38-9627-c4c243292b9c",
-		"prefix": "D1.9a.2a",
 		"title": "De kandidaat kan economische, sociaal-culturele en politieke kenmerken van Brazilië beschrijven en aan elkaar relateren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5896,8 +5718,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.2b",
 		"id": "112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
-		"prefix": "D1.9a.2b",
 		"title": "De kandidaat kan het verstedelijkingsproces in Brazilië en de problematiek die dit met zich meebrengt beschrijven en analyseren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5907,8 +5729,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.2c",
 		"id": "e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
-		"prefix": "D1.9a.2c",
 		"title": "De kandidaat kan regionale verschillen t.a.v. genoemde kenmerken binnen Brazilië beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5918,6 +5740,7 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.2d",
 		"id": "89e22bea-f51a-46ea-bd2f-9748a9261694",
 		"title": "De kandidaat kan verschillende toekomstscenario’s van Brazilië beschrijven en onderbouwen.",
 		"ce_se": "CE",
@@ -5925,12 +5748,11 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1",
-		"prefix": "D1.9a.4"
+		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.3a",
 		"id": "9ec21827-2435-436f-b1da-f9159d1da076",
-		"prefix": "D1.9a.3a",
 		"title": "De kandidaat kan de (ruimtelijke spreiding van) klimaten, landschappen en vegetatietypen in Brazilië beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5940,6 +5762,7 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.3a",
 		"id": "a81aa608-eea8-4809-be8d-a4c69e8522da",
 		"title": "De kandidaat kan het ontstaan en de ruimtelijke spreiding van natuurlijke hulpbronnen in Brazilië op hoofdlijnen beschrijven en verklaren.",
 		"ce_se": "CE",
@@ -5947,10 +5770,10 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1",
-		"prefix": "D1.9a.3b"
+		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9a.3a",
 		"id": "1caec618-935d-473b-a189-8aabcce5038e",
 		"title": "De kandidaat kan de gebruiksmogelijkheden voor de mens van verschillende landschappen in Brazilië beschrijven en verklaren.",
 		"ce_se": "CE",
@@ -5958,12 +5781,11 @@
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180"
 		],
-		"dirty": "1",
-		"prefix": "D1.9a.3c"
+		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9b.1",
 		"id": "7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
-		"prefix": "D1.9b.1",
 		"title": "De kandidaat kan de economische en politieke positie van Brazilië binnen Zuid-Amerika op hoofdlijnen beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5973,8 +5795,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9b.2a",
 		"id": "40751db4-5e29-42f8-8526-e70a4156a83e",
-		"prefix": "D1.9b.2a",
 		"title": "De kandidaat kan de veranderende economische, culturele en politieke relaties van Brazilië met andere grootmachten in de wereld op hoofdlijnen beschrijven.",
 		"ce_se": "CE",
 		"description": "",
@@ -5984,8 +5806,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9b.2b",
 		"id": "34499fbb-80b6-4c42-999a-ca02668a5346",
-		"prefix": "D1.9b.2b",
 		"title": "De kandidaat kan de effecten van globalisering op de Braziliaanse samenleving beschrijven en verklaren.",
 		"ce_se": "CE",
 		"description": "",
@@ -5995,8 +5817,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinD/D1/9b.2c",
 		"id": "ceba831a-c62d-4ef0-83b3-e00f91adf105",
-		"prefix": "D1.9b.2c",
 		"title": "De kandidaat kan verschillende toekomstscenario’s voor de positie van Brazilië in de wereld beschrijven en onderbouwen.",
 		"ce_se": "CE",
 		"description": "",
@@ -6006,8 +5828,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.1a",
 		"id": "7a7478fe-ecd9-41cc-bd61-63c59fb76e12",
-		"prefix": "E1.11a.1a",
 		"title": "De kandidaat kan kenmerken van de stroomgebieden van Rijn en Maas beschrijven.",
 		"ce_se": "CE",
 		"description": "",
@@ -6017,8 +5839,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.1b",
 		"id": "94c8943d-57e2-4795-9928-e27f8e1ef7c6",
-		"prefix": "E1.11a.1b",
 		"title": "De kandidaat kan de invloed van het veranderende klimaat en menselijk ingrijpen op de waterafvoer van Rijn en Maas beschrijven.",
 		"ce_se": "CE",
 		"description": "",
@@ -6028,8 +5850,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.1c",
 		"id": "44dbdc18-b9a2-44bd-81bf-59c82d22c30d",
-		"prefix": "E1.11a.1c",
 		"title": "De kandidaat kan overstromingsgevaar relateren aan ruimtelijke inrichting, zowel binnen- als buitendijks.",
 		"ce_se": "CE",
 		"description": "",
@@ -6039,8 +5861,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.1d",
 		"id": "912b4858-af9f-40f1-a645-00b31995e775",
-		"prefix": "E1.11a.1d",
 		"title": "De kandidaat kan beschrijven hoe in het IJsselmeergebied en de Zuidwestelijke delta risico’s kunnen ontstaan op overstromingen en wateroverlast.",
 		"ce_se": "CE",
 		"description": "",
@@ -6050,8 +5872,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.2a",
 		"id": "748312cf-e5d3-462d-8783-7e38814d3bc7",
-		"prefix": "E1.11a.2a",
 		"title": "De kandidaat kan het integraal waterbeleid dat in Nederland wordt gevoerd beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"description": "",
@@ -6061,8 +5883,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.2b",
 		"id": "34df7865-9090-4c86-b280-40b12df201da",
-		"prefix": "E1.11a.2b",
 		"title": "De kandidaat kan recent Nederlands en internationaal rivierbeleid beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"description": "",
@@ -6072,8 +5894,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11a.2c",
 		"id": "ea896233-8ebc-4749-8ae4-10ece96d8903",
-		"prefix": "E1.11a.2c",
 		"title": "De kandidaat kan het aanleggen van strategische zoetwatervoorraden beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"description": "",
@@ -6083,8 +5905,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11b.1",
 		"id": "03dc0358-df69-41e1-95e3-0cb2289a4feb",
-		"prefix": "E1.11b.1",
 		"title": "De kandidaat kan stedelijke vraagstukken analyseren en beoordelen, in het bijzonder rond de stedelijke economie.",
 		"ce_se": "CE",
 		"description": "",
@@ -6094,8 +5916,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11b.2a",
 		"id": "b34803f3-bfcf-4b57-870a-94d01adbb2c4",
-		"prefix": "E1.11b.2a",
 		"title": "De kandidaat kan een buurtprofiel van een stedelijke buurt beschrijven aan de hand van fysiekruimtelijke en sociale elementen en beargumenteerde uitspraken doen over leefbaarheid.",
 		"ce_se": "CE",
 		"description": "",
@@ -6105,8 +5927,8 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "AK/H/DomeinE/E1/11b.2b",
 		"id": "dfad925b-9def-4545-944f-17c3f43afe98",
-		"prefix": "E1.11b.2b",
 		"title": "De kandidaat kan stedelijk beleid gericht op wijken en buurten beoordelen.",
 		"ce_se": "CE",
 		"description": "",
@@ -6116,38 +5938,43 @@
 		"dirty": "1"
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1b",
+		"title": "De kandidaat kan (informatievaardigheden): de aangeboden bronnen beoordelen op bruikbaarheid en relevantie.",
 		"id": "3aba2567-78d7-404e-bfde-5316c33d01b9",
-		"title": "De kandidaat kan (informatievaardigheden): de aangeboden bronnen beoordelen op bruikbaarheid en relevantie",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
+		"title": "De kandidaat kan (informatievaardigheden) de aangeboden bronnen met voorbeelden toelichten.",
 		"id": "03e2b5ae-8aaa-4452-b1ec-c3e4666a7785",
-		"title": "De kandidaat kan (informatievaardigheden) de aangeboden bronnen met voorbeelden toelichten",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1d",
+		"title": "De kandidaat kan (informatievaardigheden): feiten van meningen onderscheiden.",
 		"id": "b39d4cb8-95ff-4ef7-b611-9bf407128f00",
-		"title": "De kandidaat kan (informatievaardigheden): feiten van meningen onderscheiden",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
+		"title": "De kandidaat kan (informatievaardigheden) gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen.",
 		"id": "02ac04f5-3a06-40e8-ad09-10cb8f6121e4",
-		"title": "De kandidaat kan (informatievaardigheden) gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "c2e113ce-0611-44a9-83ca-a9661472e3c5",
 		"title": "De kandidaat kan (informatievaardigheden) het toepassen van concepten in nieuwe contexten (transfer).",
 		"examenprogramma_eindterm_id": [
@@ -6156,158 +5983,178 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2b",
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) rekenregels optellen, aftrekken, vermenigvuldigen en delen.",
 		"id": "82a001e2-6aa5-4692-8ea7-d1972380b214",
-		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen) rekenregels optellen, aftrekken, vermenigvuldigen en delen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2c",
+		"title": "De kandidaat kan positieve en negatieve getallen, breuken en decimalen rekenkundig en/of grafisch onderbouwen.",
 		"id": "6b7a9fb6-d5c4-44c8-9a44-7313bcdde605",
-		"title": "De kandidaat kan positieve en negatieve getallen, breuken en decimalen rekenkundig en/of grafisch onderbouwen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2d",
+		"title": "De kandidaat kan procenten, promillen en perunages rekenkundig en/of grafisch onderbouwen.",
 		"id": "ddb767f8-0d90-42fb-9648-2c08e76baa00",
-		"title": "De kandidaat kan procenten, promillen en perunages rekenkundig en/of grafisch onderbouwen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2e",
+		"title": "De kandidaat kan onderscheid procentuele mutatie en procentpunt verandering onderbouwen.",
 		"id": "4522442a-c5a0-4048-85b2-ad40caec976d",
-		"title": "De kandidaat kan onderscheid procentuele mutatie en procentpunt verandering onderbouwen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2f",
+		"title": "De kandidaat kan verhoudingen en schatting rekenkundig en/of grafisch onderbouwen.",
 		"id": "100c2b25-4578-416a-b83c-1e13d13fe291",
-		"title": "De kandidaat kan verhoudingen en schatting rekenkundig en/of grafisch onderbouwen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2g",
+		"title": "De kandidaat kan rekenen met grote en kleine getallen.",
 		"id": "fee18b7d-79b1-4b50-8082-690d7d4e1563",
-		"title": "De kandidaat kan rekenen met grote en kleine getallen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2h",
+		"title": "De kandidaat kan afrondingsregels rekenkundig en/of grafisch onderbouwen.",
 		"id": "d0831486-1287-4c6c-9b5e-cfa7a4dafc99",
-		"title": "De kandidaat kan afrondingsregels rekenkundig en/of grafisch onderbouwen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2i",
+		"title": "De kandidaat kan lineaire vergelijkingen (eerstegraadsvergelijkingen), beschrijvende statistiek en grafieken toepassen op economische relaties.",
 		"id": "e7c98dcd-4926-4370-a193-9b0d652bedcf",
-		"title": "De kandidaat kan lineaire vergelijkingen (eerstegraadsvergelijkingen), beschrijvende statistiek en grafieken toepassen op economische relaties",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2j",
+		"title": "De kandidaat kan oplossen van een stelsel van vergelijkingen via substitutie.",
 		"id": "e37d8c33-b14d-4124-ac66-7761c230fb24",
-		"title": "De kandidaat kan oplossen van een stelsel van vergelijkingen via substitutie",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2k",
+		"title": "De kandidaat kan werken met assenstelsels (X en Y) en kwadranten.",
 		"id": "ce8e8322-8cc1-4ac0-8027-9762118a20aa",
-		"title": "De kandidaat kan werken met assenstelsels (X en Y) en kwadranten",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2l",
+		"title": "De kandidaat kan oppervlaktes arceren.",
 		"id": "d5647da2-87a6-444b-9e66-fca6ff3d817b",
-		"title": "De kandidaat kan oppervlaktes arceren",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2m",
+		"title": "De kandidaat kent indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen.",
 		"id": "e1381c2b-9c08-4a1e-86ae-c6765de2d346",
-		"title": "De kandidaat kent indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2n",
+		"title": "De kandidaat kent diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld.",
 		"id": "e06c7740-d797-48ed-8739-e56ed9e17e6f",
-		"title": "De kandidaat kent diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2o",
+		"title": "De kandidaat kent tabellen: rijen/kolommen, indeling in klassen (decielen e.d.), cumuleren.",
 		"id": "ebfc5c74-894a-425f-873c-1e28d813c79b",
-		"title": "De kandidaat kent tabellen: rijen/kolommen, indeling in klassen (decielen e.d.), cumuleren",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.2p",
+		"title": "De kandidaat kent gemiddeldes: gewogen en ongewogen.",
 		"id": "3e50e1ac-54dd-449d-9e88-c45e66a8b0f0",
-		"title": "De kandidaat kent gemiddeldes: gewogen en ongewogen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3b",
+		"title": "De kandidaat (standpuntbepaling) kent eventuele botsing van belangen.",
 		"id": "650cd69c-ad31-48ba-9486-054c72f8b2cf",
-		"title": "De kandidaat (standpuntbepaling) kent eventuele botsing van belangen",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3c",
+		"title": "De kandidaat (standpuntbepaling) kent oplossingen voor / reacties op mogelijk ongewenst gedrag.",
 		"id": "adaf1d55-ad6c-49cc-aa6e-47cc1b38ec0d",
-		"title": "De kandidaat (standpuntbepaling) kent oplossingen voor / reacties op mogelijk ongewenst gedrag",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3d",
+		"title": "De kandidaat ken een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro).",
 		"id": "bff36d1e-285b-4e87-956a-31b3a59a0d66",
-		"title": "De kandidaat ken een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro)",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3e",
+		"title": "De kandidaat kan een standpunt relativeren / weerleggen (argumenten contra).",
 		"id": "59cbb979-dd49-47f1-8614-cdeb0e62e51d",
-		"title": "De kandidaat kan een standpunt relativeren / weerleggen (argumenten contra)",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.3f",
 		"id": "00f71676-06cc-4b68-ad05-3aa83ef89ddf",
 		"title": "De kandidaat kan afwegingsvraagstukken beschrijven.",
 		"examenprogramma_eindterm_id": [
@@ -6316,40 +6163,45 @@
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4a",
+		"title": "De kandidaat kan (strategisch inzicht) het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen/een model).",
 		"id": "6c74e441-9e71-4a51-9223-f3f95f391b07",
-		"title": "De kandidaat kan (strategisch inzicht) het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen/een model)",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4b",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg.",
 		"id": "c36d0f1f-3aa6-4405-bed5-6be55368c0c9",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4c",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing.",
 		"id": "d4ece646-5fb3-4f20-8f00-8e4124bf33f3",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4d",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn.",
 		"id": "d4c3fc58-5128-4783-98d7-ab375b3d4219",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
 		"description": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.4e",
+		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties.",
 		"id": "278f03bd-26a7-4837-a482-66987562f295",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
@@ -7896,12 +7748,13 @@
 		"unreleased": true
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
+		"id": "fe41cf0f-7526-4b2a-a741-33f614ad0056",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"f54a0a2f-d5c0-46fb-933e-144890a1ce18"
 		],
 		"title": "verzekeren, levensverzekering, schadeverzekeringen, lenen, consumptief krediet, hypothecair krediet, sparen, interest- en afslossingsverplichtingen, financiële gevolgen, enkelvoudige en samengestelde interest, contante waarde, eindwaarde, direct opneembare en niet-direct opneembare spaartegoeden, bedrijfspensioen als een vorm van verplicht sparen, beleggen, vermogenstitels, aandelen, obligaties, beleggingsfondsen, effectenbeurs, call-opties en put-opties",
-		"id": "fe41cf0f-7526-4b2a-a741-33f614ad0056",
 		"unreleased": true
 	},
 	{
@@ -31503,6 +31356,7 @@
 		"ce_se": ""
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "edb2c8d2-48dd-406b-8210-83f8587e93bf",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: enkelvoudige/meervoudige verbanden leggen binnen een gebied en tussen gebieden.",
 		"description": "",
@@ -31511,6 +31365,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1ada",
 		"id": "5f24b268-3d45-4c49-8e55-4da6ada94639",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen vanuit een of meer dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke.",
 		"description": "",
@@ -31519,6 +31374,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1ecd",
 		"id": "b3c69ec6-3b43-4762-a66c-ecd70655c736",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
 		"description": "",
@@ -31527,6 +31383,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "d0a66a89-de3f-4e50-a57e-26eba9d454ef",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen.",
 		"description": "",
@@ -31535,6 +31392,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "95028b4e-2ff4-40b6-a33c-74c90f01d4f8",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: bij gebieden en verschijnselen onderscheid maken tussen het algemene en het bijzondere.",
 		"description": "",
@@ -31543,6 +31401,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "7f05788e-c028-4d16-9e8f-f77722fc1370",
 		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse en kaartinterpretatie toepassen.",
 		"description": "",
@@ -31551,6 +31410,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "ae8ec050-425a-4401-b464-5f0b3217c793",
 		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
 		"description": "",
@@ -31559,6 +31419,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "e11242e8-1371-43f2-9d55-94b4083fe7c2",
 		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen / maken.",
 		"description": "",
@@ -31567,6 +31428,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "38a20e6a-c241-4a49-a5c7-6b91215f4b48",
 		"title": "De kandidaat kan verschijnselen op luchtfoto’s en satellietbeelden herkennen en met kaarten vergelijken.",
 		"description": "",
@@ -31583,6 +31445,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "a5c8b42d-4ef3-443a-973c-053cf5e4c27c",
 		"title": "De kandidaat kan aangereikte gegevens uit de tweede hand (secundaire data bestaande uit bijv. kaarten, figuren, beelden, cijfers, statistieken, beschrijvingen) analyseren en aanvullen met relevant materiaal.",
 		"description": "",
@@ -31591,6 +31454,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "d882daaf-a06f-418d-89d5-16e60102de6b",
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: gebruik maken van redeneringen binnen vooronderstellingen of contexten.",
 		"description": "",
@@ -31599,6 +31463,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "be2893d2-26ec-4caa-ab7f-0f8d47efa384",
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: een kosten- en batenanalyse maken, zowel van meetbare als niet meetbare factoren.",
 		"description": "",
@@ -31607,6 +31472,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "32c2dfd8-23ae-498e-bc47-fce8a72766b5",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: onderscheid maken tussen hoofd- en bijzaken.",
 		"description": "",
@@ -31615,6 +31481,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1ff",
 		"id": "4d570caf-a4f6-4679-a06e-ff86705d5e47",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: informatie analyseren en (her)ordenen en zo nodig bewerken.",
 		"description": "",
@@ -31623,6 +31490,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1b",
 		"id": "91f97795-ea3d-40d5-8470-4c22eff5b900",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: gegevens boordelen op betrouwbaarheid, bruikbaarheid en representativiteit.",
 		"description": "",
@@ -31631,6 +31499,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1de",
 		"id": "6c69fd94-d064-41fc-ac23-b7de5ee8870d",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: conclusies en antwoorden formuleren.",
 		"description": "",
@@ -31639,6 +31508,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "ccd14c35-be0c-4167-a64c-8821542e3d6c",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: belangen van diverse betrokkenen hekennen.",
 		"description": "",
@@ -31647,6 +31517,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1daeebb",
 		"id": "81482b0d-f2a9-4b98-b716-daeebb9b61ab",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: relaties leggen met omstandigheden en achtergronden.",
 		"description": "",
@@ -31655,6 +31526,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "f5d0703f-9e69-4c5b-a007-77f4c5f4b9cd",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: eigen waarden en opvattingen confronteren met andere waarden en opvattingen.",
 		"description": "",
@@ -31671,6 +31543,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "ba66f56d-1151-42d2-b690-70e48c368170",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: positieve, negatieve, absolute en relatieve getallen hanteren.",
 		"description": "",
@@ -31687,6 +31560,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1bf",
 		"id": "8536a4d2-a6b7-4cde-9786-b82716920bf2",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: schattingen hanteren.",
 		"description": "",
@@ -31695,6 +31569,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "dd3b143b-b802-4a95-9737-e8057f0a22af",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: afrondingen hanteren overeenkomstig de gegeven informatie.",
 		"description": "",
@@ -31703,6 +31578,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "751e1890-47a5-439c-9c05-e68208ba611e",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: grafieken kunnen hanteren: lezen, tekenen (een lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren.",
 		"description": "",
@@ -31711,6 +31587,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "2ec0ec69-0b38-4772-aed1-d6ccf84891c2",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
 		"description": "",
@@ -31719,6 +31596,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "5a3c0823-6306-48d0-b848-66efa76ca56c",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
 		"description": "",
@@ -31727,6 +31605,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1b",
 		"id": "44a7c721-45f0-496f-8f94-fb69b12cbe5e",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
 		"description": "",
@@ -31735,6 +31614,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "d49b67dd-5cd9-492d-87ed-67339c50a550",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke wekgevers, ondersteuning bij scholing.",
 		"description": "",
@@ -31751,6 +31631,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1bf",
 		"id": "027b93a4-8cab-4832-a99b-3e223bf2ef0d",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
 		"description": "",
@@ -31759,6 +31640,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1db",
 		"id": "da24a142-c310-472e-9ad9-26a1db052c62",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de oer het ja ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
 		"description": "",
@@ -31767,6 +31649,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "b59acf99-b893-4f27-9bb7-ff3399a194d8",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de wekloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
 		"description": "",
@@ -31775,6 +31658,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1abb",
 		"id": "4bd9f94e-6880-46a2-95ab-6c269abb6c49",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV Werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke werkgevers en ondersteuning bij scholing.",
 		"description": "",
@@ -31783,6 +31667,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1d",
 		"id": "0cc110e9-e662-4ad3-bcac-0164cecf3d50",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheidscijfers/werkgelegenheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid/werkgelegenheid en het niet of niet officieel vervullen van vacatures.",
 		"description": "",
@@ -31791,6 +31676,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "fcd6684a-ec79-40ec-9e34-41e91f74f50a",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld ut te drukken.",
 		"description": "",
@@ -31799,6 +31685,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "cb3a7b86-1533-4c06-9e42-4fcfdc8f5627",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, die worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
 		"description": "",
@@ -31807,6 +31694,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1fb",
 		"id": "d7a8f383-5895-4c08-a89b-185fb1b2170f",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
 		"description": "",
@@ -31823,6 +31711,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "c5c33527-a725-47d3-82ae-1fb54560e744",
 		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen dagelijks leven het belang van de Europese Unie en Europese Monetaire Unie beschrijven: vrij verkeer van goederen, diensten, personen en kapitaal.",
 		"description": "",
@@ -31831,6 +31720,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1adad",
 		"id": "1f7a24fe-281d-4b2e-9522-6adad4fd8d74",
 		"title": "De kandidaat kan de oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld de immigratie in de rijke landen.\n",
 		"description": "",
@@ -31839,6 +31729,7 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "b55bd2d7-64fd-4f11-9c8a-ffc87c81c667",
 		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: eigen activiteiten zoals giften, aankoop goederen en diensten uit ontwikkelingslanden, (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden en grondstofovereenkomsten/buffervoorraden.",
 		"description": "",
@@ -39858,21 +39749,6 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"45787fe7-ebf6-47df-92ae-838524e2cba5"
-		]
-	},
-	{
-		"ce_se": "ce",
-		"prefix": "MVT/EN/K/4",
-		"examenprogramma_domein_id": [
-			"7ae80c81-f11d-4de3-9fc0-6422249cd691"
-		],
-		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\nB1",
-		"id": "f19b040a-9e31-4838-bf49-d4cd01d53175",
-		"unreleased": true,
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus_specifieke_eindterm"
 		]
 	},
 	{
