@@ -3659,5 +3659,243 @@
 		"title": "referentiekader: - het geheel van persoonlijke waarden, normen, kennis en ervaringen. Het referentiekader van iemand werkt als een filter waarmee de informatie geselecteerd en gekleurd wordt",
 		"id": "80c8d433-8773-45b0-9ef1-8d2c40e6dfbc",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"title": "antimetrische figuren: duool-triool-kwintool, break, complementair ritme, fill, hemiool, kickbeat, motorisch ritme, polyritmiek, ritmisch ostinaat/ostinato, swing/triolenfeel/straight feel, syncope/ragged time (alleen in jazz), teleenheid, toonduur notenwaarden: hele tot en met zestiende noot, toonduur rusten: hele tot en met zestiende rust, toonduur verlenging van een noot of rust met een punt,  toonduur verbindingsboog, ritmische verdichting/verdunning, ritmische vergroting/verkleining, vrij ritme",
+		"id": "aa5f2fe0-cbb5-4ca9-9268-c32006984b4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"title": "beat en afterbeat, maataanduiding tweedelig, maataanduiding driedelig, maataanduiding onregelmatig, maatstreep, maatwisseling, opmaat, polymetriek, puls, tactus, tegenaccent",
+		"id": "7042709f-cbf0-4e30-912f-58271e6a9518",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"title": "tempoaanduidingen klassiek: largo - adagio - andante - moderatie - allegro - presto",
+		"id": "2adf5ffb-76ac-46b9-9f1d-e28d61796784",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"title": "tempoaanduidingen jazz/pop: slow - medium - uptempo",
+		"id": "5f156fa6-fe7c-465d-b0ab-052392f65937",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"title": "tempowijzigingen: accelerando - a tempo - ritenuto - rubato",
+		"id": "d088477c-635f-42fa-be37-9c596f819b14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"title": "beats per minute (bpm), metronoom en manier van aanduiden",
+		"id": "d52ed527-6750-4900-af5a-9850655ff2e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"title": "het notenschrift, absolute notennamen, g-sleutel, f-sleutel, c-sleutel, voortekens: herstellingsteken - kruis - mol, chromatiek, glissando, intervallen tot en met octaaf: groot - klein - rein - overmatige kwart - verminderde kwint, transponeren, melodische verdichting/verdunning",
+		"id": "6ceec97b-dce8-4fc9-b0c6-75aa7100445b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1e",
+		"title": "atonaliteit, bitonaliteit, polytonaliteit, dodecafonie, reeksen, melodische functies: grondtoon/subdominant(toon)/dominant(toon)/leidtoon/leidtoonspanning, modaliteit: dorisch/frygisch/lydisch/mixolydisch,  modulatie naar subdominant, dominant, parallelle en tertsverwante toonsoort, parallelle toonsoort, tertsverwantschap, tonaliteit: majeur/mineur, toonladders grote tertstoonladder / majeur, toonladders: kleine tertstoonladder / mineur: oorspronkelijk/harmonisch/melodisch, toonladders: bluestoonladder (1½-1-½-½-1½-1) toonladder: pentatoniek, toonladder: heletoonstoonladder/heletoonsreeks, toonladders chromatiek/chromatische toonladder/chromatische reeks",
+		"id": "28f0303d-5ed1-4e82-b98f-214382249380",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"title": "dynamiekaanduidingen fotissimo ff - forte f - mezzo-forte mf - mezzo-piano mp - piano p - pianissimo pp,  crescendo <, decrescendo >, sforzando sf, fade-out, overgangsdynamiek, terrassendynamiek, echodynamiek",
+		"id": "5762bc07-b896-48d3-97dc-5b9fe15d48a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"title": "akkoord: grote drieklank/majeur en kleine drieklank/mineur, akkoordenschema, akkoordfuncties: I (tonica/grondtoon) - II - IV (subdominant), V (dominant), akkoordsymbolen: aanduiding voor majeur (C) - mineur (Cm) en dominant septiem (C7), albertijnse bas, partituur, twaalfmatig bluesschema, bourdon, orgelpunt, cadens, close harmony, cluster, consonant en dissonant, gebroken drieklank, homofonie, polyfonie en unisono, intervallen: reine prime - kleine terts - grote terts - reine kwart - reine kwint - rein octaaf, klanklaag/klankdichtheid, track(s), tweeklank, drieklank",
+		"id": "d2e3b1cd-16c7-4056-8311-225a8c8d7dca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"title": "articulatie: legato - portato - staccato - accent, frasering, speeltechnieken en effecten: aanslaan/tokkelen/slide (gitaar), aanslaan/raspen/schudden (slaginstrumenten), brushes (snaredrum), demper (koperen blaasinstrumenten), distortion, glissando, arco/pizzicato, roffel, scratchen, slappen (basgitaar), uitvoeringswijzen: 8 boven (8va) of onder (8va basso) de sleutel, a capella, akoestisch, arpeggio, arrangement, bluenote, call-and-response/vraag-en-antwoord, cover, dacapo al fine, dal segno, coda, deejaymix, dirty intonation, double time,  elektronisch, fermate, generale pauze, herhalingstekens, instrumentatie, leadzanger, melismatisch/melisme, (grafische) partituur, slaggitaar en sologitaar (leadgitaar), stemgebruik: (human) beatbox - rappen -, scat  vocal - vibrato, syllabisch, transponerende blaasinstrumenten in bes en es, turntablism, tutti - solo, unplugged, versiering",
+		"id": "79c5af9a-5460-4a54-b5c8-69f4e08a4fd0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Slaginstrumenten idiofonen, beatring, bekkens/cymbals, bekkens, buisklokken, cabasa, guiro/rasp, castagnetten, claves, woodblock, cowbell, hihat (gesloten en open), klokkenspel/celesta, maraca('s)/shaker, tamtam/gong, triangel, vibrafoon, xylofoon/marimba.",
+		"id": "11c7409b-a35b-4272-865f-f72ac9269d3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Slaginstrumenten membranofonen: bassdrum/kick(drum), bongo('s), conga('s), djembè, floortom, grote trom, kleine trom/snaredrum, pauk(en), tamboerijn, tomtoms",
+		"id": "d0f27a7e-3378-4f5b-94ab-0b8fdd21e73a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Slaginstrumenten drumstel bestaande uit: bassdrum/kick(drum) - cymbals/bekkens - floortom-  hi-hat - snaredrum - tomtoms",
+		"id": "ffa58015-d1df-4ba5-9042-c2d89f744732",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Blaasinstrumenten - houten blaasinstrumenten: blokfluit - panfluit - (dwars)fluit/piccolo - hobo/althobo - klarinet - fagot - saxofoon (sopraan-, alt-, tenor- en bariton-) - kromhoorn",
+		"id": "23da60fb-419b-4769-8d7f-76746417aaaf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Blaasinstrumenten - koperen blaasinstrumenten: trompet - cornet -  hoorn - trombone - tuba/sousafoon",
+		"id": "54d6c5f1-04b4-425c-ba48-a7b0db5f6201",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Blaas-/toetsinstrumenten: accordeon - (kerk-, pijp-)orgel",
+		"id": "112d1839-8322-4979-91da-3228f946b9cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Overige blaasinstrumenten: mondharmonica",
+		"id": "be70bbe2-4222-4f0e-a1d5-021c447a1830",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Snaarinstrumenten - getokkeld: akoestische gitaar - elektrische gitaar - basgitaar - banjo - harp - klavecimbel  - luit - sitar",
+		"id": "496af508-6868-4e0c-81bf-e08470c21bb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Snaarinstrumenten - gestreken: viool - altviool - cello - contrabas - viola da gamba",
+		"id": "65b93586-b750-416d-ae9e-b7fc1c4a319f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Snaarinstrumenten - aangeslagen: piano",
+		"id": "247780f1-524d-42c7-b5ea-a66c5a3e0586",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Eletronische en elektrische versterkte instrumenten: basgitaar - elektrische gitaar (elektronisch) orgel - keyboad/synthesizer - drumcomputer - sampler",
+		"id": "45a61cc8-7ee8-4571-8397-b058c2f58ec8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "De menselijke stem: sopraan - mezzo-sopraan - alt - countertenor - tenor - bariton - bas",
+		"id": "4be4ffb5-4684-475e-aff3-2d1c4c8179e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Orkesten en ensembles - vocale ensembles (koren): achtergrondkoor/backing vocals - gemengd koor - kinderkoor - mannenkoor - vrouwenkoor",
+		"id": "62232849-e66f-495e-8310-8256adf4715e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Instrumentale ensembles (orkesten): concerto grosso/barokorkest - harmonie - fanfare - brassband - strijkorkest - strijkers - strings - symfonieorkest",
+		"id": "fa16c675-2928-493f-afb3-10fd2a8c05d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"title": "Kleinere en gemengde ensembles, kamermuziek en secties: duet - duo - trio - kwartet - strijkkwartet - bigband - jazzcombo - melodiesectie - ritmesectie - rockgroep/popgroep",
+		"id": "c0db21ca-6a37-4fa8-b583-a9f85912447c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"title": "break, contour, fills, leitmotiv/leidmotief, melisme/melismatisch, melodievoering, motief, muzikale zin, voor- en nazin/frase, ostinato, periodische zinsbouw, riff, sample, sequens, thema, voortspinnen, walking bass",
+		"id": "d16e8f4f-09c0-4e11-babb-4ea3a78d0561",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"title": "suite: menuet - pavane - sarabande, mars, rag(time), wals",
+		"id": "c9be745a-f3d2-4ac4-8aac-0ffba2ce4b6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"title": "improvisatie, kreeft, omkering/spiegeling, variatie, variaties op een akkoordenschema onder andere het bluesschema, variaties op een ostinate bas, variaties op een thema waaronder melodische variatie - ritmische variatie - tonale/harmonische variatie",
+		"id": "445074b9-7ae8-4052-95d8-a1a1aaa4b0a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"title": "(solo)cadens, concerto grosso, concertino, tutti, dubbelkorigheid, soloconcert",
+		"id": "f576e7c4-1a64-4580-860f-0ce7e6fd8a94",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1n",
+		"title": "contrastwerking, hoofdvorm: inleiding - expositie: thema I - overgangszin - thema II - slotgroep, hoofdvorm: doorwerking, hoofdvorm: reprise: thema I - verbindingszin - thema II - slotgroep, hoofdvorm:  coda, klassieke vierdeling van een symfonie, menuet als derde deel van een symfonie, ouverture, toonsoorten gekoppeld aan hoofdvorm.",
+		"id": "70c49a5b-496e-4140-bc6a-6305642dc3f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"title": "canon, cantus firmus, doorimitatie, fuga: expositie - divertimento - doorwerking - stretto - coda, homofonie, imitatie, polyfonie, omkering/spiegeling, seriële tecnieken, stemparen,  stemvoeringsaspecten: parallelle beweging - tegenbeweging - tegenmelodie - tegenstem - tweede stem - vergroting en verkleining",
+		"id": "fc7c3b36-d693-4c21-ab40-b10231907b3b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"title": "liederen naar soort: (folk)blues - geestelijk lied - gospel - kunstlied - madrigaal - motet - (pop)song - spiritual - standard -  volkslied - worksong, naar vorm: coupletlied - doorgecomponeerd lied - gevarieerd coupletlied, aria, cantate, oratorium, passie,  mis, musical, opera, operette, ouverture, recitatief: recitativo secco - recitativo accompagnato, requiem, song",
+		"id": "eca63f78-0dac-41f5-bf7e-3fd2324daabe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MU/V/A/1q",
+		"title": "bridge, couplet/verse, intro/inleiding/voorspel, naspel/coda, prechorus, refreind/chorus, tussenspel, rondo en rondorefrein, vormschema (letterschema zo nodig met accenten), vrije vorm",
+		"id": "c35dbae8-06e4-45e5-b38b-da94e79ccd02",
+		"unreleased": true
 	}
 ]
