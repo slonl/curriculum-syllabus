@@ -5848,5 +5848,56 @@
 		"syllabus_vakleergebied_id": [
 			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
 		]
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"9c7ce10d-f8bb-4726-9387-078466916b43"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"921e77ee-9e33-4610-84e2-55bc1ef56623",
+			"cbc6dbfa-4606-44fa-9f20-8a6f6d90b1a3",
+			"55d9fb66-0182-42c5-b08c-70fb19141832",
+			"5bf98964-687d-47e2-9a17-1d4b477e498a",
+			"24637053-762d-4a62-9356-9618f0c5b482",
+			"318bd748-f188-457f-9091-d1bf85790902",
+			"0338573e-7866-421a-950c-6c4ec898b830",
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494",
+			"df0ba71e-6234-4874-870b-8d89637fc74c",
+			"01a54e43-d45e-49a9-975f-59418d83132e",
+			"0cd91d0f-294e-42ba-8d30-6393d3420240",
+			"8cc444d6-5618-4837-adb2-9c977c96959e",
+			"827529e5-ba26-4f68-b031-04356d02f26b",
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6",
+			"d1ebc52a-4a4a-436e-967d-1def521fff28",
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5",
+			"1534c20d-d424-49c1-b953-2770de5537b8",
+			"a25fc7a2-a7b1-43e5-a3cc-c45649b4fa97",
+			"b71068a9-d91e-4d32-80b0-32fbf74b8e32",
+			"39f44a25-1e59-4691-9bf1-9f79482632ee",
+			"99085020-7bfd-4b23-afae-c7744af5abf2",
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807",
+			"cf172fd6-ce35-4df0-bfb2-66597093a611",
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e",
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527",
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c",
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff",
+			"189415c4-30c3-47e5-ae77-10d61cf8673d",
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190",
+			"cf13921c-08ec-4d12-846b-cfcc09f809da",
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d",
+			"12f12e51-6ff2-4c49-8360-5979871d5df3",
+			"a32fe25f-a58a-4a92-bf30-1ff268a354d4",
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6",
+			"52444401-ed4c-465f-9d2a-c430fa129312",
+			"be83485a-74f8-44f5-b302-70f6645eaa31",
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86",
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Syllabus Muziek  vwo",
+		"id": "822c4e34-4504-4a1d-bfb3-6496753d4b31",
+		"unreleased": true
 	}
 ]
