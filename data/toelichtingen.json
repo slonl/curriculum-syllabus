@@ -1582,7 +1582,10 @@
 		"ce_se": "CE",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_toelichting"
+		]
 	},
 	{
 		"id": "ccbe0def-4f47-4050-8407-0c23099572b7",
@@ -25975,5 +25978,3213 @@
 			"134a507d-8823-49ec-87f9-86c0e563a43e",
 			"ca0da882-e7b7-404b-ad96-1454d339f4ab"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Onderscheiden van afwisseling van geluid en stilte.",
+		"id": "87e1c659-535f-4872-ac58-155dd04d94c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Onderscheiden van beweeglijke en statische figuren.",
+		"id": "b96c5bc6-82ca-4c40-a63d-d775f2c2204c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Onderscheiden van regelmatige en onregelmatige bewegingen.",
+		"id": "21f363a9-ce14-4d82-bd41-82f589683c33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Herkennen en benoemen van notenwaarden, rusten en ritmische figuren.",
+		"id": "662bdb75-b682-431d-94d8-1d42d06ebd37",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Volgen en noteren van een ritme.",
+		"id": "98e9e0b9-4031-482e-be88-cc88815e21e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Interpreteren veranderingen en contrasten.",
+		"id": "b89991b2-f501-42ae-9103-689431d187a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Interpreteren ritmische spanningen en ontspanningen.",
+		"id": "78b7978a-a3ec-4179-b0a6-22ab843db410",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Interpreteren ritmische verdichting en verdunning.",
+		"id": "9b255376-276e-4375-b68b-08d81526c9a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1a",
+		"syllabus_specifieke_eindterm_id": [
+			"24637053-762d-4a62-9356-9618f0c5b482"
+		],
+		"title": "Interpreteren ritmische vergroting en verkleining.",
+		"id": "a3f87c2e-66e3-433a-9b5b-1e991ffc54ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"syllabus_specifieke_eindterm_id": [
+			"318bd748-f188-457f-9091-d1bf85790902"
+		],
+		"title": "Herkennen en benoemen van: maataccenten.",
+		"id": "174e77b6-1e1c-4ebb-99f0-ff01b2cdf163",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"syllabus_specifieke_eindterm_id": [
+			"318bd748-f188-457f-9091-d1bf85790902"
+		],
+		"title": "Herkennen en benoemen van: maatsoorten.",
+		"id": "70002e5a-f46f-4bc3-b1ad-7f0145813c60",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"syllabus_specifieke_eindterm_id": [
+			"318bd748-f188-457f-9091-d1bf85790902"
+		],
+		"title": "Herkennen en benoemen van: maatwisselingen.",
+		"id": "2153ddf1-df37-4f7e-b621-af34d68188a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1b",
+		"syllabus_specifieke_eindterm_id": [
+			"318bd748-f188-457f-9091-d1bf85790902"
+		],
+		"title": "Plaatsen van maatstrepen in een notenvoorbeeld.",
+		"id": "b28c13cc-2f78-457a-b6c9-496dba2137ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"syllabus_specifieke_eindterm_id": [
+			"0338573e-7866-421a-950c-6c4ec898b830"
+		],
+		"title": "Herkennen en benoemen van goed te onderscheiden tempi in drie categorieën: langzaam, ruster en snel.",
+		"id": "483eeb5a-ac16-4a3c-bc2b-c3b8877d5b47",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"syllabus_specifieke_eindterm_id": [
+			"0338573e-7866-421a-950c-6c4ec898b830"
+		],
+		"title": "Herkennen en benoemen van tempowijzigingen.",
+		"id": "04cdff7d-e1c1-4aca-b684-e0ec62779597",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"syllabus_specifieke_eindterm_id": [
+			"0338573e-7866-421a-950c-6c4ec898b830"
+		],
+		"title": "Interpreteren van veranderingen en contrasten.",
+		"id": "b2800722-f676-48ce-9f91-4403302cc9d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1c",
+		"syllabus_specifieke_eindterm_id": [
+			"0338573e-7866-421a-950c-6c4ec898b830"
+		],
+		"title": "Interpreteren van tempokeuzes in een compositie en uitvoeringspraktijk.",
+		"id": "0be83ed3-0d54-4800-88d9-1c17dc0c5979",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Volgen van een melodie.",
+		"id": "05c4c2cb-798d-41e3-a1b2-8818ab35a42e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Herkennen en interpreteren van chromatische effecten.",
+		"id": "9df7b9f8-2c8a-42c0-97c1-68d3f949c8ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Herkennen en interpreteren van melodische spanning en ontspanning.",
+		"id": "a4e5b7ee-4b1e-4024-8ba5-c44f5fe9afc4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Herkennen en interpreteren van melodische verdichting en verdunning.",
+		"id": "845c4cc9-768c-4536-90f6-ced7f49b371b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Herkennen en interpreteren van veranderingen en contrasten.",
+		"id": "0687e14f-7ab9-42e9-a1e0-abf6ceb01b78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"syllabus_specifieke_eindterm_id": [
+			"9e3c20fd-1d3d-4691-a4ea-4e7e3200c494"
+		],
+		"title": "Noteren van een aangeboden melodie in de g-sleutel met maximaal vier voortekens.",
+		"id": "24c0fe9c-db04-4289-881f-e891892b26dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1e",
+		"syllabus_specifieke_eindterm_id": [
+			"df0ba71e-6234-4874-870b-8d89637fc74c"
+		],
+		"title": "Herkennen, onderscheiden en interpreteren van tonale en antonale processen.",
+		"id": "56c22cee-de00-47cd-b41e-8639c931dc10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"syllabus_specifieke_eindterm_id": [
+			"01a54e43-d45e-49a9-975f-59418d83132e"
+		],
+		"title": "Herkennen en benoemen van het verloop van de dynamiek van een compositie, eventueel via een tradionele- of grafische notatie.",
+		"id": "aae16eba-5a85-4c39-a941-98573099b3f6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"syllabus_specifieke_eindterm_id": [
+			"01a54e43-d45e-49a9-975f-59418d83132e"
+		],
+		"title": "Dynamiektekens noteren / invullen in een luiserboorbeeld, uitgaande van ten minste één gegeven teken.",
+		"id": "1939fe2d-0cf0-49dd-9451-bd3a0d3204e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"syllabus_specifieke_eindterm_id": [
+			"01a54e43-d45e-49a9-975f-59418d83132e"
+		],
+		"title": "Interpreteren van veranderingen en contrasten.",
+		"id": "fc57db25-7cb1-407a-b8be-5e0342add9d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1f",
+		"syllabus_specifieke_eindterm_id": [
+			"01a54e43-d45e-49a9-975f-59418d83132e"
+		],
+		"title": "Interpreteren van effecten in de dynamiek.",
+		"id": "a6a1c608-5ecb-467f-a63d-9da4a6fcd788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Herkennen en benoemen van: eenstemmigheid, tweestemmigheid / intervallen, driestemmigheid.",
+		"id": "22495142-be2b-41dd-be33-046085c1fd7f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Herkennen van meerstemmigheid.",
+		"id": "1cfae911-e4d6-451c-a409-d6bfed213b55",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Herkennen, benoemen en onderscheiden van vormen van eenstemmigheid/meerstemmigheid.",
+		"id": "808fed2a-b5be-4425-97e4-792434041f1b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Herkennen, benoemen en onderscheiden van spanning en ontspanning.",
+		"id": "3966a423-14a3-4ab2-93b0-f0f8e9399bbe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Volgen, herkennen en analyseren van een akkoordenschema.",
+		"id": "763744fd-0ce8-4245-a84c-95ac569a56c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Noteren van een aangeboden akkoordenschema met maximaal drie verschillende gegeven akkoorden.",
+		"id": "477c444d-5a9b-4422-97cd-c7e4a6aab295",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Interpreteren van veranderingen en contrasten.",
+		"id": "e0433c81-73e0-4b2d-9af0-7ac1ee50049b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Vergelijken en beoordel van verschillende interpretaties.",
+		"id": "5bbfb1f7-9d9e-4822-8da3-3673c2f02e30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"syllabus_specifieke_eindterm_id": [
+			"0cd91d0f-294e-42ba-8d30-6393d3420240"
+		],
+		"title": "Volgen van een partituur.",
+		"id": "1aa2574e-d751-4995-9f9f-4e34624ff810",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Herkennen en benoemen van articulatiewijzen.",
+		"id": "6cac1c3f-76a9-451a-8d55-1ba36f60248e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Herkennen en benoemen van speeltechnieken en effecten.",
+		"id": "679ad31e-4225-4831-81ef-faef465444fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Herkennen en benoemen van uitvoeringswijzen.",
+		"id": "64e799a0-7e3c-4e62-ba8b-381f5a8ee950",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Herkennen en toepassen van versieringen.",
+		"id": "3422bd55-aab9-4cd0-b00f-c25dfe2f4585",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Een partituur volgen.",
+		"id": "17e03b1a-80ca-43df-bec0-4cda3bd1c098",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Verschillende uitvoeringen vergelijken en beoordelen.",
+		"id": "23623153-f24c-4eb2-9959-494df0048487",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"syllabus_specifieke_eindterm_id": [
+			"8cc444d6-5618-4837-adb2-9c977c96959e"
+		],
+		"title": "Partij van transponerende blaasinstrumenten in bes en es klinkend noteren.",
+		"id": "25ea41d8-7e80-4d60-b490-bcc28d90a3e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"syllabus_specifieke_eindterm_id": [
+			"827529e5-ba26-4f68-b031-04356d02f26b"
+		],
+		"title": "Herkennen en benoemen van de in de begrippenlijst genoemde instrumenten, combinaties en orkesten & ensembles.",
+		"id": "ce1cd739-6c80-4c64-8fce-311acc732098",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"syllabus_specifieke_eindterm_id": [
+			"827529e5-ba26-4f68-b031-04356d02f26b"
+		],
+		"title": "Herkennen en benoemen van de in de begrippenlijst genoemde zangstemmen.",
+		"id": "bc977f5c-578f-4b6f-8d9c-29750ad0be1f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"syllabus_specifieke_eindterm_id": [
+			"827529e5-ba26-4f68-b031-04356d02f26b"
+		],
+		"title": "Het verschil tussen de in de begrippenlijst genoemde instrumenten, zangstemmen en orkesten & ensembles maar niet het verschill tussen:  beatring - tamboerijn, cabasa - guiro - rasp, claves - woodblock, maraca('s) - shaker, tamtam - gong, klokkenspel - celesta, xylofoon - marimba, bongo('s) - conga('s) - djembé, hobo - althobo, trompet - cornet, tuba - sousafoon, luit - gitaar (tot 1750), viola da gamba - cello (tot 1750), keyboard - synthesizer, mezzo-sopraan - sopraan/alt, countertenor - sopraan/alt, bariton - tenor/bas",
+		"id": "25c22378-3bd3-48fa-a744-a5911f9d4fe4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"syllabus_specifieke_eindterm_id": [
+			"827529e5-ba26-4f68-b031-04356d02f26b"
+		],
+		"title": "Het interpreteren van klankprocessen zoals contrast, menging en verschuiving",
+		"id": "9a46cd38-3e75-4843-a1aa-c32ba0dc5a38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1i",
+		"syllabus_specifieke_eindterm_id": [
+			"827529e5-ba26-4f68-b031-04356d02f26b"
+		],
+		"title": "Latin percussion: cabasa - guiro/rasp - claves - cowbell, maraca('s)/shaker - bongo('s) - conga('s)",
+		"id": "b0c3ba6d-ccac-4731-9dcb-31b2b61b6b58",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Herkennen en benoemen van melodische figuren.",
+		"id": "75dc050c-30c2-4ea2-ad92-c1d82a1581ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Herkennen en benoemen van melidsche relaties.",
+		"id": "f34aae4e-513f-4d09-ae5f-64d09c55b617",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Herkennen en benoemen van modische veranderingen.",
+		"id": "6b2464f2-2bdb-4070-90af-644a5c577394",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Herkennen en benoemen van motiefverwerkingstechnieken.",
+		"id": "8eaa7e99-1ff1-4b82-9c0d-84d5614be7e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Herkennen en benoemen van contrast en ontwikkeling.",
+		"id": "474cb811-0ab9-4d73-91a3-1fcac22c2dd8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Analyseren van muzikale zinnen.",
+		"id": "440163b0-0d77-4eee-94bb-ff948ded342e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Interpreteren van periodische zinsbouw en de doorbreking daarvan.",
+		"id": "a72f5984-a454-48f8-919b-cef4fc7797f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1j",
+		"syllabus_specifieke_eindterm_id": [
+			"cb004ee1-6cca-42ab-95d5-fe803bb954b6"
+		],
+		"title": "Interpreteren van motiefverwerking.",
+		"id": "629e2037-1b05-4b48-8500-a47ddec4c85a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"syllabus_specifieke_eindterm_id": [
+			"d1ebc52a-4a4a-436e-967d-1def521fff28"
+		],
+		"title": "Vergelijkenderwijs herkennen van pavane en gaillarde.",
+		"id": "888b9803-9168-4263-bdbc-d43e710b84e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"syllabus_specifieke_eindterm_id": [
+			"d1ebc52a-4a4a-436e-967d-1def521fff28"
+		],
+		"title": "Herkennen van menuet.",
+		"id": "36d26ac0-7fc8-431a-861d-4e59a4aa5711",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"syllabus_specifieke_eindterm_id": [
+			"d1ebc52a-4a4a-436e-967d-1def521fff28"
+		],
+		"title": "Herkennen van sarabande.",
+		"id": "5738ba63-55be-4c58-858f-2fd9cd8294e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"syllabus_specifieke_eindterm_id": [
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5"
+		],
+		"title": "Herkennen en benoemen van improvisatie.",
+		"id": "704b1913-3548-46fc-a434-96bdf66a4f3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"syllabus_specifieke_eindterm_id": [
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5"
+		],
+		"title": "Herkennen en benoemen van aard van variatie.",
+		"id": "132a2c8e-02e3-4835-b16d-92231d9d7a98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"syllabus_specifieke_eindterm_id": [
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5"
+		],
+		"title": "Herkennen en benoemen van ostinate bas.",
+		"id": "3020f7a3-9421-44f1-bf8e-8a6d4d6cfeba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"syllabus_specifieke_eindterm_id": [
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5"
+		],
+		"title": "Herkennen en volgen van een bepaald gegeven wanneer dit gevarieerd wordt.",
+		"id": "f146d1af-008a-4e15-a9c9-1b0e05f7c599",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"syllabus_specifieke_eindterm_id": [
+			"a2c51b44-93ea-4c63-b3c8-765e910f33f5"
+		],
+		"title": "Analyseren en beschrijven van de aard van de variatie.",
+		"id": "0ac38812-c3cd-416a-aa7a-144de30d3ad6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"syllabus_specifieke_eindterm_id": [
+			"1534c20d-d424-49c1-b953-2770de5537b8"
+		],
+		"title": "Herkennen van cadens in een soloconcert en dubbelkorigheid.",
+		"id": "20430adb-f4ef-4699-9212-316b29568ee6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"syllabus_specifieke_eindterm_id": [
+			"1534c20d-d424-49c1-b953-2770de5537b8"
+		],
+		"title": "Identificeren van een solo-instrument in een soloconcert.",
+		"id": "3a22e290-1ab9-41fb-ad74-1d3df781a03d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"syllabus_specifieke_eindterm_id": [
+			"1534c20d-d424-49c1-b953-2770de5537b8"
+		],
+		"title": "Onderscheiden in een concerto grosso van: concert grosso, concertino, tutti",
+		"id": "f3924a79-7f30-417b-9d00-834c056b7bb5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"syllabus_specifieke_eindterm_id": [
+			"1534c20d-d424-49c1-b953-2770de5537b8"
+		],
+		"title": "Interpreteren van de rol van het solo-instrument ten opzichte van het orkest.",
+		"id": "7b0b0744-f911-450d-bd11-42f767676749",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1n",
+		"syllabus_specifieke_eindterm_id": [
+			"a25fc7a2-a7b1-43e5-a3cc-c45649b4fa97"
+		],
+		"title": "Vaststellen van contrastwerking d.m.v. bijvoorbeeld: blazers - strijkers, hard - zacht, homofoon - polyfoon, majeur - mineur, snel - langzaam, tonica - dominant, tutti - solo, unisono - meerstemmigheid.",
+		"id": "bd2bdf1f-e825-407c-b91f-29ffbc183edd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1n",
+		"syllabus_specifieke_eindterm_id": [
+			"a25fc7a2-a7b1-43e5-a3cc-c45649b4fa97"
+		],
+		"title": "Interpreteren met behulp van een partituur volgen en analyseren van hoofdvormstructuren.",
+		"id": "b5389f78-f3e9-425c-b166-135c7f10cd3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"syllabus_specifieke_eindterm_id": [
+			"b71068a9-d91e-4d32-80b0-32fbf74b8e32"
+		],
+		"title": "Herkennen, benoemen en onderscheiden van meerstemmige schrijfwijzen.",
+		"id": "8c5d860f-573f-4596-8327-a2580535df4c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"syllabus_specifieke_eindterm_id": [
+			"b71068a9-d91e-4d32-80b0-32fbf74b8e32"
+		],
+		"title": "Herkennen en benoemen van homofone en polyfone structuren.",
+		"id": "e157b7e4-df63-4c47-b3d5-8e3aa325c3ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"syllabus_specifieke_eindterm_id": [
+			"b71068a9-d91e-4d32-80b0-32fbf74b8e32"
+		],
+		"title": "Volgen van cantus firmus en steminzetten.",
+		"id": "2965d002-b308-48f7-a59f-dc4734fa50aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1o",
+		"syllabus_specifieke_eindterm_id": [
+			"b71068a9-d91e-4d32-80b0-32fbf74b8e32"
+		],
+		"title": "Interpreteren met behulp van een partituur volgen en analyseren van een fuga(vorm).",
+		"id": "2bde64f8-4020-4472-bc44-0ab4741253fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"syllabus_specifieke_eindterm_id": [
+			"39f44a25-1e59-4691-9bf1-9f79482632ee"
+		],
+		"title": "Herkennen en onderscheiden van liedvormen.",
+		"id": "ff752367-eaf7-467c-a9af-faaf1b3f445e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"syllabus_specifieke_eindterm_id": [
+			"39f44a25-1e59-4691-9bf1-9f79482632ee"
+		],
+		"title": "Herkennen van aria en recitatief (secco en accompagnato).",
+		"id": "6fef5246-8f93-4bdf-9e08-b5d62c2b3a9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"syllabus_specifieke_eindterm_id": [
+			"39f44a25-1e59-4691-9bf1-9f79482632ee"
+		],
+		"title": "Interpreteren van de relatie tussen tekst en lied.",
+		"id": "a25ac218-698d-4433-90f0-c60335683c2a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1p",
+		"syllabus_specifieke_eindterm_id": [
+			"39f44a25-1e59-4691-9bf1-9f79482632ee"
+		],
+		"title": "Interpreteren van tekstbeelding in aria's, songs en koren.",
+		"id": "009ad829-1f08-4e0c-8193-5f850472158b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MU/V/A/1q",
+		"syllabus_specifieke_eindterm_id": [
+			"99085020-7bfd-4b23-afae-c7744af5abf2"
+		],
+		"title": "Volgen en noteren van een vormschema",
+		"id": "5fda80a9-897c-4a1f-96b9-027d0d4a6364",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MU/V/A/1q",
+		"syllabus_specifieke_eindterm_id": [
+			"99085020-7bfd-4b23-afae-c7744af5abf2"
+		],
+		"title": "Herkennen en analyseren van een rondo.",
+		"id": "f0207f61-1eb7-498a-98cd-26070685220e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Herkennen van gregoriaans.",
+		"id": "a5267e55-c8db-45b6-89c1-f9471022cdf9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Signaleren van vrije ritmiek (gregoriaans)",
+		"id": "a70ac3ed-8097-4ed4-9d2b-55d7d2b02e6a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Onderscheiden van syllabisch en melismatisch gezang (gregoriaans)",
+		"id": "a05e1ced-1604-488c-b693-55ba904a417e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Herkennen van een vourdonbegeleiding (wereldlijke muziek)",
+		"id": "2521f356-a6b9-47fb-b52a-89f7dc565e62",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Herkennen van tijdgebonden instrumentarium (wereldlijke muziek)",
+		"id": "93fd345c-6f78-4909-8dc3-03d399862e96",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheied",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Vergelijkenderwijs onderscheiden en herkennen van parallellenbeweging in octaven, kwinten en kwarten en tegenbeweging (meerstemmigheid).",
+		"id": "90021e0d-7e18-4da4-b44a-67f38e92917d",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Het begrip gregoriaans",
+		"id": "27b2ab22-0417-4edd-ba7e-94a229bf6ceb",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Kerktoonsoorten",
+		"id": "f72a5832-d7c8-48b2-b25a-e0b9329c3312",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Het volkslied en het kunstleid in de middeleeuwen.",
+		"id": "54f8c081-9c7d-4a5d-a62b-7c4fd2b4f87b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Troubadour",
+		"id": "dd92685a-ae2c-4a76-826f-ff8dc49b3019",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "De estample",
+		"id": "bb7606c9-eaf3-4525-96e7-00273c74631c",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Het ontstaan van de meerstemmigheid.",
+		"id": "1a524436-144a-4620-883a-175260d26a42",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/km",
+		"syllabus_specifieke_eindterm_id": [
+			"b7a78f4d-ba60-4712-bebe-ca002b7c4807"
+		],
+		"title": "Het organum",
+		"id": "48f937b4-9d27-4438-b916-55f01206f0c1",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Ritmiek op basis van de tactus",
+		"id": "6aae9d7d-c613-458f-baab-f86fb0c2adb8",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Herkennen van tijdgebonden instrumentarium (klankkleur)",
+		"id": "3adc4cca-761a-4b49-a9ea-6d97233228cf",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Beschrijven van geïntegreerd gebruik van instrumenten en zangstemmen (klankkleur).",
+		"id": "1f74ed57-0a9b-4d1d-b426-0410de5b89e2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Herkennen van imitatie en doorimitatie.",
+		"id": "63a664c3-9f25-43ee-808c-430d0ead1b64",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Herkennen van stemparen.",
+		"id": "e0724a19-796d-4cc1-b4e3-c52224535f71",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Herkennen van canon.",
+		"id": "128fcbda-a030-4afb-ab4d-949484c03f2d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Herkennen van pavane en gaillarde.",
+		"id": "d00dd551-e749-418f-8a73-9b3bd6bf995f",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Renaissance als kunststroming",
+		"id": "7c8c525a-721b-42bc-a069-e676bfd54a71",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Veranderende meerstemmigheid, meer terts dan kwint.",
+		"id": "5941ccfa-5602-41a0-8563-b4b88f12bf5f",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "De mis als meerstemmige compositie.",
+		"id": "476488c4-f6f6-4ce0-97cd-63cfeaf62d5a",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Cantus-firmustechnieken.",
+		"id": "3cbb1f0b-a151-4881-80aa-be8a7f908834",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Combinatie pavane-gaillarde.",
+		"id": "b8462be2-4bf3-4d73-9437-691bdc4e5706",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "motet, madrigaal",
+		"id": "c73f90fe-5f6d-4057-a230-a3b86c38cbd9",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/ren",
+		"syllabus_specifieke_eindterm_id": [
+			"cf172fd6-ce35-4df0-bfb2-66597093a611"
+		],
+		"title": "Polyfonie",
+		"id": "7e483c5e-3627-451c-bcc8-9e7ce8801e14",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - melodisch: sequens.",
+		"id": "3645dff4-56ac-44a1-8dc3-2bb3bc9f29cc",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - ritmisch: barokke motoriek.",
+		"id": "b519d4a5-0145-48e9-a18b-0cbca1ecae05",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - harmonisch: basso continuo als basis van de compositie.",
+		"id": "c9fb1d5d-5645-4af3-ae23-f0196aa5245f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - klankkleur: herkennen van een barokorkest.",
+		"id": "41d346e6-5d58-4e97-810b-4cd12da92cd0",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - klankkleur: herkennen van tijdgebonden instrumentarium.",
+		"id": "16ac3d0a-7ec6-46e5-a29a-76befa1521a6",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - structuur: contrastwerking in de barok.",
+		"id": "a614194b-bb92-46b0-b66e-baa0140d239a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - structuur: voortspinnen.",
+		"id": "1dc151b4-b1e2-4976-8dc3-7c0401e52ef2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Algemeen - structuur: waarnemen van het gebruik van versieringen.",
+		"id": "791bee4a-4a18-479d-839b-98569e0c5284",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Concerten: Herkennen van dubbelkorigheid.",
+		"id": "e0d0c0a2-a116-4b76-b0fb-f24cdeb38809",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Concerten: In een concerto grosso onderscheiden van concerto grosso, concertino en tutti.",
+		"id": "817bee0a-5f90-442c-a7d7-81b5b83c7fc5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Concerten: identificeren van het solo-instrument in een soloconcert.",
+		"id": "ab184325-398a-40fc-bda5-7d67daf79c76",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Concerten: herkennen van terrassendynamiek/echodynamiek.",
+		"id": "54d8c33b-beee-4712-8d79-228f2dfae88b",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Fuga: analyseren van een fuga.",
+		"id": "b76f5bdf-d1e2-483c-8523-b361da0daeb0",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Opera en oratorium: onderscheiden van recitatief en aria.",
+		"id": "90e56119-eaab-415c-938c-014c75852eaa",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Opera en oratorium: onderscheiden van recitativo secco en accompagnato",
+		"id": "4e764fc1-7320-4c52-9781-6d18b00ab612",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Suite: herkennen van een sarabande en menuet",
+		"id": "43ec582b-2908-442d-9be3-848b76809a9d",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "De barok als kunststroming.",
+		"id": "4c9527b0-7d46-4813-9312-c08ae47dc86b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Onder druk van de harmonie reduceren van toonsoorten tot majeur en mineur.",
+		"id": "202f3371-2106-4e0a-b31e-be222fe83d3f",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Tactus vervangen door maat.",
+		"id": "1f3f7292-1949-4821-b3d1-224ac18e080b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Affectenleer",
+		"id": "d35a9528-a9dd-4bf7-8d8c-14d9910cc366",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"syllabus_specifieke_eindterm_id": [
+			"4c81d7ce-1e42-46d5-94ac-3e11748bc87e"
+		],
+		"title": "Overeenkomsten en verschillen tussen cantate, passie, oratorium en opera suite als verzameling dansen.",
+		"id": "c9cb1b5b-d256-4154-9a11-a9826cff3260",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - melodisch: de drieklank als basis van motieven",
+		"id": "6aafaf61-56c4-466d-96a2-5527a8b9df9e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - melodisch: strenge periodebouw.",
+		"id": "99820ff5-ef38-4f1c-97a4-c2e257000ed5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - melodisch: gebruik toonladderfiguren.",
+		"id": "49d21413-9f60-4989-bb05-15272be5375f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - harmonisch: aanwijzen van cadensen.",
+		"id": "aed92799-e365-4437-8109-016e8055d999",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - herkennen van albertijnse bassen.",
+		"id": "3608e5ec-21b8-4365-b318-8f90326233ec",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - harmonisch: herkennen van unisono-momenten.",
+		"id": "0e659afb-0bec-4512-a134-2fd97c0624f5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - dynamiek: herkennen van overgangsdynamiek.",
+		"id": "991fcae0-799a-4c29-b646-cbb21bc34716",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - klankkleur: herkennen van het klassieke symfonieorkest.",
+		"id": "d131304c-5ad5-41f7-a6e8-48c8e162fe4f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - klankkleur: herkennen van het strijkkwartet.",
+		"id": "51676c2f-cb6b-4385-8a6b-590fd7a39f61",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - klankkleur: herkennen van kamermuziekcombinaties.",
+		"id": "9de64420-b42d-4a9b-bab6-c1a6bf95e6e2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - klankkleur: herkennen van tijdgebonden instrumentarium.",
+		"id": "e9c8fc30-4221-4f73-9f29-708cd45c5f95",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - structuur: herkennen van motieven.",
+		"id": "4c26413f-67d9-4e19-b2c4-867fced33c81",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - structuur: herkennen van motief-verwerkingstechnieken, zoals contrast en ontwikkeling.",
+		"id": "e067a40e-9d35-4041-8f53-51e8b02e07f1",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - structuur: vaststellen van contrastwerking door middel van bijvoorbeeld: majeur-mineur, tonica - dominant, hard-zacht, unisono - meerstemmigheid, tutti - solo, blazers - strijkers, snel - langzaam, homofoon - polyfoon.",
+		"id": "b1b4a141-6fbd-4707-8e8e-db218631cde5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - structuur: herkennen van een cadens in een soloconcert.",
+		"id": "f8106ab8-8e71-449a-9302-2b0b1d53361f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - menuet: herkennen van een menuet.",
+		"id": "b39a904d-d6a1-4cb9-b186-9b8c25ea9627",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Algemeen - symfonie en sonatie; analyseren van een hoofdvorm",
+		"id": "dca220c5-26c5-4d71-934c-24bd6c7accfa",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Eerste Weense school.",
+		"id": "21936cd7-6314-451c-88dd-096fe17e9403",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Ontstaan van het klassieke symfonieorkest.",
+		"id": "2212e97d-b640-4925-b6bf-8ac38194c434",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Ontstaan van de pianoforte.",
+		"id": "ce55df8e-ecb7-454c-899f-6d46ced377ed",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Menuet als symfoniedeel.",
+		"id": "139d8022-6f0b-4978-aafb-f6afedfc55a1",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/clas",
+		"syllabus_specifieke_eindterm_id": [
+			"63904dd3-6cf9-4e05-8b52-98f3a3957527"
+		],
+		"title": "Ontstaan en de opbouw van de symfonie en sonate.",
+		"id": "0c079f88-96e6-4162-9dc7-e70437ace27d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - melodisch: herkennen van romantische melodievoering met brede bogen voeren naar een climax of een rust als middel om de melodie uitdrukking te geven.",
+		"id": "cae53a79-ef1b-4a12-a268-7c1a3a4f1195",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - melodisch: virtuositeit.",
+		"id": "1580ef85-53b3-45b9-a30a-7f0da21008e5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - harmonisch: toenemende chromatiek.",
+		"id": "cb08c18d-0813-47ec-a546-f413302447e7",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - harmonisch: opzoeken van de grenzen van de tonaliteit.",
+		"id": "b9f21ba8-6768-407c-ac61-f3221ce06350",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - harmonisch: leidtoonspanningen.",
+		"id": "4478ab50-62bb-4db1-a30b-8f706c175877",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - dynamiek: overgangsdynamiek.",
+		"id": "318c2e1f-a932-463c-897b-0ae771197063",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - dynamiek: sforzando.",
+		"id": "cbfddc61-d9a7-48ee-a064-a8ffcb4b64f4",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - tempo: ritenuto, accelerando en rubato als middel om de melodie uitdrukking te geven.",
+		"id": "a8a68a5f-fd00-46d5-8016-f7ca7a13efa2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - klankkleur: herkennen van kamermuziekcombinaties.",
+		"id": "401b0dc8-00a0-466a-978a-04a9e31c3ab2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - klankkleur: het romantische symfonieorkest uitbreiding in een aantal en soorten instrumenten bijvoorbeeld: harp en tuba.",
+		"id": "273ee308-8280-41fb-9769-8318ba9e4bbe",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - klankkleur: het romantische symfonieorkest het werken met de klankkleur als compositorisch element.",
+		"id": "c0f68ec6-3a94-4e65-8f27-e2449a6b3dec",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Algemeen - klankkleur: herkennen van tijdgebonden instrumentarium.",
+		"id": "6f29651f-51f0-40db-ab09-37115668efb8",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Dans",
+		"id": "39a9c6a6-00fe-4f1e-aa96-cfed481aa9d7",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Lied - kunstlied herkennen van een coupletlied, gevarieerd coupletlied en doorgecomponeerd lied.",
+		"id": "7b9de687-4336-4d71-b72f-994d928741f5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Opera",
+		"id": "8656bafb-d0eb-4ae6-8ac6-59786b434e2b",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Symfonie - in vergelijking met het classicisme: grotere tegenstellingen in bijvoorbeeld: karakter, beweging, klankkleur en dynamiek.",
+		"id": "4d38f675-ee3f-48a9-90b8-46d4165b9af6",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Symfonie gebruik van vocale soli en koor.",
+		"id": "ea5fd6d7-c78b-48c2-8cdb-33b3cfdd1e96",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "De romantiek als kunststroming.",
+		"id": "e5f3abd7-93d3-4f88-aee2-f1285fa3390f",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Nationale scholen.",
+		"id": "b2dc977e-6df9-41c7-a23d-e648cca7f969",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Ontstaan van het symfonisch gedicht.",
+		"id": "fef0425e-2c32-4421-9ebb-d4b0b5a9c74b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Tertsverwantschap",
+		"id": "b158d5a3-f438-4f92-85bc-7b136e832136",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Verlaten van klassieke vormaspecten.",
+		"id": "93fcbd6c-5b91-4af7-83a9-743a5929bb61",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/roman",
+		"syllabus_specifieke_eindterm_id": [
+			"2532bd6b-a821-49c2-922f-ee00bcd0b59c"
+		],
+		"title": "Verschil opera en operette",
+		"id": "3e8ff7c4-13ac-48ac-90f8-5c00cf4e1ecb",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme - melodisch: doorbreken van periodische zinsbouw",
+		"id": "c9395045-1ebe-46b5-b7a9-1f6b919c4796",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme - ritmisch: vrijer gebruik van het metrum",
+		"id": "13c18874-22e4-44f3-94d2-488da67bc5ad",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme - klankkleur: verglijdende instrumentatie",
+		"id": "2ca7ebb6-f005-41e3-9ba2-2a38ed08a9ad",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme - klankkleur: technieken en speelmanieren: sonore zachte klanken, gedempt koper, arpeggio, gebruik van glissando.",
+		"id": "51de52bd-73c2-4c29-92a9-5a5d0aa612e7",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme - klankkleur: herkennen van tijdgebonden instrumentarium.",
+		"id": "e01b85bc-8d81-499d-8386-61204a380c98",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Neoclassicisme - terugkomen van voegere structuren, bijvoorbeeld ooude dansvormen en cantus-firmuszettingen.",
+		"id": "df9ec0d7-eb9e-4f3a-9095-a245ddc15791",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Neoclassicisme - herkennen van tijdgebonden instrumentarium.",
+		"id": "3d245cca-6a36-4d6e-a051-1c14dd748214",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - melodisch: grillige, vaak complexe melodiebouw.",
+		"id": "51e966a8-a989-4c68-b7ee-9dbb2cf5a745",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - metrisch: maatwisseling.",
+		"id": "307a38e6-5d4e-488d-903d-04834f3ba4a9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - harmonisch: atonaliteit en veelvuldig voorkomen van dissonanten.",
+		"id": "38defc36-a806-4fcb-aff7-580a708f1879",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - structuur: ostinate figuren.",
+		"id": "8ed75fb4-ba90-4f90-ae9b-2d93f98bddff",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - klankkleur: nieuwe instrumentaties; uitbreiding van het slagwerk.",
+		"id": "59ac4e40-a878-41eb-bba7-1216845cb7bf",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - klankkleur: nieuwe instrumentaties; belangrijkere rol voor blazers en slagwerk.",
+		"id": "ecdfd95f-cf57-4e07-987e-3e34ce77ccd4",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - klankkleur: nieuwe instrumentaties; onconventioneel gebruik van instrumenten en stem.",
+		"id": "f7fc3d9b-0728-454c-bc8c-28a961a9ab55",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme - klankkleur: herkennen van tijdgebonden instrumentarium.",
+		"id": "3a90e2e1-54d4-4d9e-8912-045bf19bfb3d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Elektronische muziek - herkennen van elektronische muziek als zodanig.",
+		"id": "1bad09eb-deea-49b9-8391-7093357d13b0",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Elektronische muziek - herkennen van tijdgebonden instrumentarium.",
+		"id": "66346810-0e9f-4927-a1bc-bc076627be93",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Avant-garde - herkennen van clusters.",
+		"id": "a6850547-e11b-4c24-b557-90995c82b993",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Avant-garde - herkennen van onconventioneel gebruik van muziekinstrumenten en stem.",
+		"id": "12ae0303-017b-4610-9a9b-5d9e8c043dc8",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Avant-garde - herkennen van tijdgebonden instrumentarium.",
+		"id": "1d15d9d8-034c-4911-9690-be82dbb23122",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Minimal music - herkennen van minimal music.",
+		"id": "1a666f00-3fe2-463d-9dc8-6c73931f0b87",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Impressionisme als kunstrichting.",
+		"id": "c2c95415-0a2e-4597-99e3-f36ee031bf09",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Toepassen van pentatonische elementen, heletoonstoonlaader en kerktoonsoorten.",
+		"id": "1c6511e9-3f28-43ff-bb62-d42bc641ab37",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Polyritmiek en polymetriek.",
+		"id": "f8e305e0-606e-47e7-af58-513068b7af63",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Complexe akkoorden als kleurmiddel.",
+		"id": "b5341e09-2f49-45fd-adc7-c542b1b47ce7",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Voorkeuren voor vrije vormen.",
+		"id": "0b9c15a0-3ee9-47d8-a867-43ac1dfdb9fa",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Uiterst gedifferentieerd gebruik van klankkleur.",
+		"id": "de54ad39-a0df-4113-9292-c023eba40545",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Expressionisme als kunstrichting.",
+		"id": "bcaef738-4233-4bdc-be92-3abb68328653",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Tweede Weense school.",
+		"id": "e068fd98-c28a-46aa-82f8-985352d7b050",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Bitonaliteit, polytonaliteit.",
+		"id": "ec6a5d75-304a-443d-94c7-be82d3ae8cd6",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Ontstaan van de dodecafonie.",
+		"id": "98b35998-8181-4e8e-8dea-ff1039411c02",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Typische motoriek vanwege onregelmatige maatsoorten en syncopen.",
+		"id": "c08d84f2-068d-4c73-b89a-04bda1cf2f1e",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Voorkeur voor polyfoniek.",
+		"id": "fa4a3ede-3844-4edc-8291-65e3d6580f54",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Voorkeur voor heldere structuren.",
+		"id": "2a187da2-8efb-4131-a952-d0875b336e1b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Technieken als kreeft, omkering, spiegeling in verband met compositietechnieken van de tweede Weense school.",
+		"id": "30dad584-accc-43c9-8593-e7afc48f5584",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Uitbreiden van dodecafonie tot seriële technieken.",
+		"id": "31c67e33-fdbd-4449-a295-84ab5ba26b38",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Klanklaag, dichtheid.",
+		"id": "2f60ae0e-7ad4-430b-9be5-eba82323ab32",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Verdwijnen van tonaliteit.",
+		"id": "0feace9d-76cf-4914-bec3-da1619230b8e",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Seriële muziek.",
+		"id": "a49fae4a-be2f-421b-b07f-2de910fadffa",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Grafische partituur (elektronische muziek)",
+		"id": "68aeab27-934c-4994-839d-c0721ba3ec6b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"syllabus_specifieke_eindterm_id": [
+			"c5dafaa9-972f-45a9-bd1e-0e5e110a96ff"
+		],
+		"title": "Het principe van de geleidelijke verandering als basis van een compositie.",
+		"id": "93449050-9ecd-43f4-abfd-3071781015b9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "12-matenstructuur/bluesschema",
+		"id": "df319304-ffe3-4ec6-a3cd-3313f88c2da9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "I - IV - V",
+		"id": "ad44a8ec-f059-4fbd-b0cd-51c9c8fbed90",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "bluenotes",
+		"id": "5048b871-9b86-40ac-bc78-52e33d863d51",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "call-and-response",
+		"id": "0b488db7-c934-4882-b94a-090903ffbf0a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "dirty intonation",
+		"id": "cfcb4de4-8662-4fad-bc59-8ef7df9ff6b5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "glissando op gitaal (d.m.v. slidetechniek)",
+		"id": "30c538da-b7d1-4cb4-8d01-8aa83bde3701",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "overwegend langzaam.",
+		"id": "dfc80ec6-c2fd-4026-bd5b-ea5e04bec17a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "Klankkleur: piano",
+		"id": "b0e6727c-aa0e-4953-8a66-840a6e5d02ee",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "Klankkleur: zang en gitaar (later elektrisch versterkte gitaen en bassen).",
+		"id": "53553b4d-bcda-49fd-968b-065bc21835c7",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "Historische ontwikkeling van de blues: worksongs en folkblues.",
+		"id": "8d37825a-faf7-4760-aa40-1f2f7d514da9",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "Bezingen van onrecht, onderdrukking en (dagelijkse) zorgen.",
+		"id": "8bb937c9-c09b-4880-b031-0eb17be1d28c",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"syllabus_specifieke_eindterm_id": [
+			"189415c4-30c3-47e5-ae77-10d61cf8673d"
+		],
+		"title": "Gospel.",
+		"id": "2fa72faa-739b-429f-8c67-50d3a67f6a9f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "Op de piano: onderstem afwisselend octaven op de eerste tel van de maat en akkoorden op de tweede tel.",
+		"id": "8288404c-cfc5-463b-9aa7-479a0714c4a2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "Syncopische melodie met accenten voor of na de tel (ragged time).",
+		"id": "81f731f8-32fe-4f43-ae12-a18c6eeb0d78",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "Marsachtig / 2/4 maat.",
+		"id": "bfca34ab-8661-4a10-8a38-35beea2b0a5b",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "A-A-B-B-A-C-C-D-D-vorm",
+		"id": "a995a731-47ee-4b49-b985-64c48e7043ca",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "Klankkleur: piano",
+		"id": "8af6604b-c720-46e2-8e8f-972e59ab8360",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-ragtime",
+		"syllabus_specifieke_eindterm_id": [
+			"92417b85-a4c6-4e48-a112-fe9d8acaa190"
+		],
+		"title": "Eerste gecomponeerde / genoteerde muziek van Afro-Amerikanen.",
+		"id": "4cc85268-37ce-4713-9595-bef1d02fe10a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "4/4 maat",
+		"id": "38528b0a-b1ae-4088-8ebf-9f45cfdc5eaa",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Breaks",
+		"id": "b1446bb7-3a77-4380-bef8-58480df39f4e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Gelijktijdige collectieve improvisatie.",
+		"id": "07de6a05-0061-47cb-bf91-44316891d54e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Nadruk op tweede en vierde tel.",
+		"id": "320b92e6-b8f7-4274-9fd9-703d46d8596a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Klankkleur: melodiesectie: klarinet, trompet/cornet, trombone en piano",
+		"id": "ed0ae721-7efb-46f4-88ed-031104ed9667",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Klankkleur: ritmesectie: banjo, gitaar, bas (contrabas / tuba/sousafoon) en drums.",
+		"id": "3b2e2d6b-7022-4f34-bdd4-02212e44d63e",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-dixie",
+		"syllabus_specifieke_eindterm_id": [
+			"cf13921c-08ec-4d12-846b-cfcc09f809da"
+		],
+		"title": "Samensmelting van blues, spirituals, ragtime, marsmuziek en songs.",
+		"id": "148a8c39-e93b-42f3-99ff-8726daa058b8",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "II - V - I",
+		"id": "6aef6ee1-f14e-4ff4-87c8-e17615883788",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "4/4-maat of 2/2-maat.",
+		"id": "e984228a-675c-4931-8299-f55a4385faca",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "call-and-response tussen secties.",
+		"id": "ee8068e7-1075-4ca5-a90f-4ff69da8501d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "instrumentale solo's.",
+		"id": "a8381cbf-e418-47d0-a17e-a83fa1cd413f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "medium tempo of uptempo.",
+		"id": "4be140a5-3d03-4c04-b6a2-8a9aa957e44a",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "riffs",
+		"id": "80c04690-cf91-453d-8273-080c59218f9d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "vrijere rol piano t.o.v. dixieland.",
+		"id": "f9ee60ed-7efe-4d4f-a8fd-d536cdcea61f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "walking bass",
+		"id": "8fa5daee-5c85-475f-b954-448db2c34c0b",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "Klankkleur: bigband - melodiesectie: saxofoons, trompetten en trombones.",
+		"id": "1868128a-9228-4bc8-8c14-50248ce22baa",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "Klankkleur: bigband - ritmesectie: ritmegitaar, piano, contrabas en drums.",
+		"id": "40c5632e-74b9-4d3e-a1ee-b140beb391a1",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "Klankkleur: bigband - vaak met vacalist€.",
+		"id": "bd339c3f-ca0e-47fb-816c-7bc43cbf60a1",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-swing",
+		"syllabus_specifieke_eindterm_id": [
+			"aa71b44b-1dec-4dfd-9ee1-8d3952e9ad6d"
+		],
+		"title": "Danszalen en gearrangeerd.",
+		"id": "162137ee-e2f1-4abe-8ed3-23f7cc527c2f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Chromatiek",
+		"id": "e37d907b-75fe-48b2-9872-fca5087a139c",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Gewaagde harmonieën / uitgebreide akkoorden.",
+		"id": "5f873e02-7241-4127-bd62-ee5b67a11dcf",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Onregelmatige korte frases en motieven.",
+		"id": "2203a505-1757-4641-a33f-28f524bf6126",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Overwegend hoog tempo.",
+		"id": "da203dbe-4a0c-48bd-8aff-1ba6b0281d43",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Solo's in double time t.o.v. de begeleiding.",
+		"id": "75de9fdf-94c2-4ed6-b7d0-8512625654f5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Sterke offbeat.",
+		"id": "e9310a13-0418-4ae4-940c-14bdf0670da1",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Thema's aan het begin unisono, daarna improvisatie, aan het eind herhaling van het thema.",
+		"id": "8158ea5c-d20d-4414-94d7-45c2f00a9fae",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Klankkleur: standaardbezetting - solisten: saxofoon en trompet",
+		"id": "61bf3ddc-70a9-43ca-9d00-7b181fdb355d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Klankkleur: standaardbezetting - ritmesectie: piano, contrabas en drums.",
+		"id": "30e8615d-3f40-461f-a47d-90d0627b097e",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-bebop",
+		"syllabus_specifieke_eindterm_id": [
+			"12f12e51-6ff2-4c49-8360-5979871d5df3"
+		],
+		"title": "Thema, melodie en improcisatie in dienst van steeds ingewikkelder akkoordenschema.",
+		"id": "9eee8ee1-7e58-4ea0-a0b2-7e115d8a279f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-latin",
+		"syllabus_specifieke_eindterm_id": [
+			"a32fe25f-a58a-4a92-bf30-1ff268a354d4"
+		],
+		"title": "Mengvorm van jazz met Zuid-Amerikaanse ritmes.",
+		"id": "a98fe6f2-64a1-4694-9a20-6d2bc117435f",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-latin",
+		"syllabus_specifieke_eindterm_id": [
+			"a32fe25f-a58a-4a92-bf30-1ff268a354d4"
+		],
+		"title": "Klankkleur: uitgebreide ritmesectie met latin percussie.",
+		"id": "c68d3d97-8901-460c-ab94-1cee75d70058",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Lange melodische frases.",
+		"id": "6151f7e6-c27f-46a1-a539-d69561dbaa84",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Overwegend langzaam tempo",
+		"id": "5354df38-14c3-4d36-8146-094ec2fe3919",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Polyfonie.",
+		"id": "930ae01e-4686-4724-ae7e-7a0da625934d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Ritmesectie speelt exact en accentloos in tempo.",
+		"id": "bc08faa3-5fd7-4941-a45d-0050494714b5",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Rustige / ingehouden manier van spelen.",
+		"id": "c4f45e87-b68f-4ee9-bfb0-e51189ae60bc",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Klankkleur: gebruik van brushes en dempers",
+		"id": "946a83e7-7a7e-4166-8b17-ac44d6974ec9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Klankkleur: uitbreiding met andere instrumenten (bijvoorbeeld: dwarsfluit, hoorn of vibrafoon).",
+		"id": "135f6604-3f87-4752-886d-8af2f6df015b",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Gearrangeerd",
+		"id": "57fd7902-6f48-4e6e-80cf-b7ecaae96a57",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-cooljazz",
+		"syllabus_specifieke_eindterm_id": [
+			"eec54041-6b62-452c-bb4f-3cf0f5ec5ea6"
+		],
+		"title": "Ontstaan als rectie op bebop",
+		"id": "8e11ea7c-16d4-4f20-b9ee-8c0011a4e728",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Gebruik van orgelpunten.",
+		"id": "0347d2a3-cbf4-46d4-81d8-a83780571c23",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Improviseren op modi.",
+		"id": "e38118e5-8c3d-4800-bc32-609bf28609e2",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Twee- en driestemmige thema's",
+		"id": "ce600e1e-6df6-45ca-a5b1-1446deb0a7e3",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Vloeiende melodische lijnen.",
+		"id": "bb5f5378-62d4-41aa-acc8-f3a4b09514d6",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Klankkleur: kleine bezetting: ritmesectie met uitbreiding van één of meerdere blazers.",
+		"id": "5a14ad5f-9091-4141-bf6f-84814bc1e865",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Nieuwe composities.",
+		"id": "a06811b4-a209-4e00-b251-b90dd9408361",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-hardbop",
+		"syllabus_specifieke_eindterm_id": [
+			"52444401-ed4c-465f-9d2a-c430fa129312"
+		],
+		"title": "Ontstaan uit bebop.",
+		"id": "8e902c2b-374c-4151-9522-f110a89da895",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"syllabus_specifieke_eindterm_id": [
+			"be83485a-74f8-44f5-b302-70f6645eaa31"
+		],
+		"title": "Associatief aaneenrijgen van melodische fragmenten.",
+		"id": "90329e8f-2fae-44a9-af26-b83192528507",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"syllabus_specifieke_eindterm_id": [
+			"be83485a-74f8-44f5-b302-70f6645eaa31"
+		],
+		"title": "Geen duidelijke beat,",
+		"id": "82dcfcc0-e952-44b3-8c09-5ad5e3d10d97",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"syllabus_specifieke_eindterm_id": [
+			"be83485a-74f8-44f5-b302-70f6645eaa31"
+		],
+		"title": "Onafhankelijkheid van akkoordenschema, metrum, tempo, ritme en vorm.",
+		"id": "41ec8862-0a28-45f0-b40e-2cc88c2180fe",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"syllabus_specifieke_eindterm_id": [
+			"be83485a-74f8-44f5-b302-70f6645eaa31"
+		],
+		"title": "Vrije imporvisatie zonder afspraken over bijvoorbeeld: tempo, toonsoort en ritme.",
+		"id": "9b7c107b-b433-465f-9929-3b88154252dd",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-freejazz",
+		"syllabus_specifieke_eindterm_id": [
+			"be83485a-74f8-44f5-b302-70f6645eaa31"
+		],
+		"title": "Klankkleur: experimentele klanken uit het instrument halen.",
+		"id": "7f3dacea-4787-4a94-b49d-b0c4dfc95bbf",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Bluesachtige motieven.",
+		"id": "5d4b8ded-6e99-41dc-be9c-4e2eb8f5d72e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Eenvoudige akkoordenschema's: I - IV - V en II - V - I",
+		"id": "23387b11-5b3f-4c92-9388-db8ab9a573c4",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Gebaseerd op riffs",
+		"id": "f69dbeb5-997b-4bbd-8a61-a5ed3c2fafce",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Ook onregelmatige maatsoorten",
+		"id": "5d74b50d-b959-401f-8f91-a7f528877a7e",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Straigt feel / achtste noten.",
+		"id": "1fc94404-1b80-4277-a0bb-fbc360bf0704",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Syncopen.",
+		"id": "73fa62fe-7a63-4e47-b960-b0e58bcd7767",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Veel accenten / zwaar aangezette beat.",
+		"id": "c07dcf62-4bf0-4920-a871-f996b48cdcec",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Klankkleur: ook popinstrumenten.",
+		"id": "9dd7bab4-baa1-4585-8da7-4bf77d95e2cc",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
+		"syllabus_specifieke_eindterm_id": [
+			"932f5eb2-c120-4e6d-b5c6-50c55d2a2e86"
+		],
+		"title": "Fusion van rock, soul en jazz.",
+		"id": "7b5b7086-bde5-4094-a6eb-1681514b8dbd",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"syllabus_specifieke_eindterm_id": [
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Gebruik van draaitafels, samplers en laptops.",
+		"id": "3bb38226-edf4-442e-b02f-36b023ec2b14",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"syllabus_specifieke_eindterm_id": [
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Gebruik van jazzritmes.",
+		"id": "6fdde966-e145-4582-a4cb-b436d3291c5d",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"syllabus_specifieke_eindterm_id": [
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Improvisaties van live spelende muzikanten met elektronische muziekstijlen als drum & bass, techno of triphop.",
+		"id": "00a3e2eb-16e9-4e3d-b83b-612ad818c87b",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"syllabus_specifieke_eindterm_id": [
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Klankkleur: gebruik van jazzinstrumentarium en elektronica.",
+		"id": "65291ae3-b020-49c0-b70a-7258c3e16679",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-nu",
+		"syllabus_specifieke_eindterm_id": [
+			"b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e"
+		],
+		"title": "Mengvorm van jazzelementen met andere muziekstijlen zoals: funk, soul, dance en vrije impovisatie en andere muziekculturen door globalisering.",
+		"id": "9bdadf6c-d84b-4af9-8efe-0292eb0f2f9e",
+		"unreleased": true
 	}
 ]
