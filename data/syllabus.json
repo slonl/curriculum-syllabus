@@ -1960,7 +1960,7 @@
 			"d218afc4-067f-4b00-bf88-119b4e2b0f3c",
 			"3395e13e-f1b8-4d7a-acb2-b91253b07241"
 		],
-		"title": "Syllabus Natuur- en scheikunde 1 vmbo",
+		"title": "Syllabus Natuur- en scheikunde I vmbo",
 		"id": "b349bb39-9895-402f-9f00-7119196ee23a",
 		"unreleased": true,
 		"niveau_id": [
@@ -1971,7 +1971,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"6645f33c-2a9e-4c67-9473-cfb1606b9c66"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
