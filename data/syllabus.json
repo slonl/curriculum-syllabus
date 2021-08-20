@@ -4193,7 +4193,7 @@
 			"bbf98f18-03dd-4ad5-9f68-9fa201c69b77",
 			"45cef3f7-b4a0-49da-b6e6-9d16984ff400"
 		],
-		"title": "Syllabus Beeldende vakken - Handvaardigheid havo",
+		"title": "Syllabus Handvaardigheid havo",
 		"id": "19dd736c-6416-4ac1-8cea-da8bde2e3725",
 		"unreleased": true,
 		"niveau_id": [
@@ -4201,7 +4201,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"1a996972-1a61-4347-996d-eff9df182ed1"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -4651,7 +4653,7 @@
 			"e27986e1-e647-48b5-9103-d49cf62d0ed2",
 			"92e9d187-9064-4e1d-a462-3fc88851bd11"
 		],
-		"title": "Syllabus Beeldende vakken - Textiele vormgeving havo",
+		"title": "Syllabus Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
 		"unreleased": true,
 		"niveau_id": [
@@ -4659,7 +4661,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"1a996972-1a61-4347-996d-eff9df182ed1"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -5888,7 +5892,9 @@
 		"versie": "",
 		"syllabus_vakleergebied_id": [
 			"1a996972-1a61-4347-996d-eff9df182ed1"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5926,9 +5932,11 @@
 			"9708ee93-70f6-46ef-935d-a8b51972d456",
 			"e979cc58-7f3c-4022-909e-29321ff06d1f"
 		],
-		"title": "Syllabus Beeldende vakken - Tekenen vwo",
+		"title": "Syllabus Tekenen vwo",
 		"id": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
