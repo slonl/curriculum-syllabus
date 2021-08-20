@@ -5889,5 +5889,45 @@
 		"syllabus_vakleergebied_id": [
 			"1a996972-1a61-4347-996d-eff9df182ed1"
 		]
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"548449b1-86d3-4134-88a4-3ad3d70578dc"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"ad573a02-31c4-4a90-8602-02b101aa9021",
+			"eed0a7e7-a99c-4b92-8903-95b120b00d33",
+			"9884c89a-5b2e-4eec-9c01-63f8ddb82e7a",
+			"b9056162-2933-4060-a3ba-ed73691f74a7",
+			"d4658f3e-4ebc-42be-abcc-daf5f0901733",
+			"d44e32e6-37dd-41ea-b53d-41f6150d1396",
+			"50155f79-52eb-462f-aba9-f4c38d1076aa",
+			"0a658d34-3eb7-4ebc-b790-e8f33186df57",
+			"5a803100-517f-4df6-8613-32356c457575",
+			"c08850d7-117f-47f8-b320-2e560b2a14ab",
+			"1e124a89-a449-4096-b893-00a3914edb7d",
+			"e52c6a85-e99b-4602-b3db-491e5e28b733",
+			"31ae4835-d37a-496f-8f90-de1daa9fe1a7",
+			"31fce31a-ee1e-4a4e-b01f-10ccce7be665",
+			"d91477c5-d0d9-4648-97a4-73a658cca0c2",
+			"4fff0fc3-9ed3-4dce-b799-40f6089eab3c",
+			"8cd9a41f-47a0-4900-9c8d-c491b7c229ca",
+			"6583e20b-19a7-4f28-a5c8-2f7117799ed2",
+			"2c1ee4ab-12b8-48e6-a030-917d00dfd21b",
+			"4afc6843-e5ab-4faa-a911-917de66ce0a4",
+			"44c94d6a-633d-46cc-a327-d337d213aa12",
+			"d7754382-4922-4395-a040-10073a384e8f",
+			"c431036a-7cd3-455b-8e24-43567c284933",
+			"4c5e45b1-68c0-476d-bfa7-cb6311897d86",
+			"b5573ee5-3046-4269-a1c2-369c638b7644",
+			"9708ee93-70f6-46ef-935d-a8b51972d456",
+			"e979cc58-7f3c-4022-909e-29321ff06d1f"
+		],
+		"title": "Syllabus Beeldende vakken - Tekenen vwo",
+		"id": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+		"unreleased": true
 	}
 ]
