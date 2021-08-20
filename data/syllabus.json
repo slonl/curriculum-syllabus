@@ -5883,5 +5883,45 @@
 		"title": "Syllabus Beeldende vakken - Tekenen havo",
 		"id": "7e7cdfb9-0232-4be1-8092-ba1811074771",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"ec850fae-47a6-4dbc-939c-bf7190546ddc"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"cda870e0-d1a1-4d38-988a-e1d46751f05f",
+			"19cfe707-fecb-4ca7-9f03-4a0ffeda7ed7",
+			"08337dd9-e069-4eb5-af2c-937b0869c44a",
+			"0da89bf8-92c3-47c7-a071-d8afe2f7c999",
+			"422c5d17-16c2-4085-8ade-e2f70ea537f5",
+			"cf3ffd88-87bc-443d-8a1a-bf906e5ccd9a",
+			"37c63657-3f4f-483f-8210-4629322f068f",
+			"39058f41-b9b8-465a-bfa5-bee469ec808a",
+			"3e7c352e-6c9c-4022-a2ce-985daeff6aa8",
+			"fe1205aa-bff9-492d-84ae-a38576423293",
+			"9120abc5-3cd7-4315-b3ba-31c90605435f",
+			"f301ccc0-1bfc-4982-93db-4b8bd1b0b661",
+			"d855ff06-1f0f-48e8-a70d-8a1dd99d9e19",
+			"9a4b2ba5-cc7d-457e-8c8e-d69d8595fc21",
+			"c110f8dc-1987-4071-8d66-e4eb775c86a1",
+			"977be981-d631-49cb-a4ed-f69850009d7b",
+			"f45a85ed-bb0f-4ee6-a0e5-dcfbefa4256a",
+			"6b3d8f63-6480-4a04-a7ac-151456411fbb",
+			"e7de4474-f731-4c16-a4df-64f046d24cc5",
+			"d572d95f-b11a-41c2-97bd-2456a81a01c0",
+			"e2ebc42b-7775-4f70-8948-8b3fd44557a5",
+			"bc45fed0-cfde-4602-aa23-94272d142a33",
+			"23f05105-c87b-44d2-97bf-f95c5a86eca3",
+			"eee73c8d-badb-49aa-8ca6-3b61b3269792",
+			"ca42a3b4-5ed2-4c35-a8df-8d559aaaa32d",
+			"312ff6e0-b799-4516-8f82-83b1bca666f9",
+			"5bd6aeb4-b8eb-4528-ba00-6981a30650f8"
+		],
+		"title": "Syllabus Beeldende vakken - Textiele vorming vwo",
+		"id": "047d87d0-fd76-421f-b28c-ffb633072830",
+		"unreleased": true
 	}
 ]
