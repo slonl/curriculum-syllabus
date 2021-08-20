@@ -68,7 +68,7 @@
 		"vakleergebied_id": [
 			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
 		],
-		"title": "Kunst: beeldende vorming",
+		"title": "Kunst (beeldende vorming)",
 		"id": "8fcbe577-b3b5-49ff-8a08-13ed6dac1124",
 		"unreleased": true
 	},
@@ -76,7 +76,7 @@
 		"vakleergebied_id": [
 			"fbf18b56-2d01-4fc0-975d-af7122af4052"
 		],
-		"title": "Kunst: dans",
+		"title": "Kunst (dans)",
 		"id": "dc5477a7-fe55-4f7c-9c90-18f532080290",
 		"unreleased": true
 	},
@@ -84,7 +84,7 @@
 		"vakleergebied_id": [
 			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
 		],
-		"title": "Kunst: drama",
+		"title": "Kunst (drama)",
 		"id": "d56fcf8f-5d81-4bb1-8354-043fedc9b878",
 		"unreleased": true
 	},
@@ -92,7 +92,7 @@
 		"vakleergebied_id": [
 			"aa9da88c-189f-4857-b067-7cbdc929c905"
 		],
-		"title": "Kunst: muziek",
+		"title": "Kunst (muziek)",
 		"id": "5bda29a3-64da-41a1-93ce-444bcdad470c",
 		"unreleased": true
 	},
