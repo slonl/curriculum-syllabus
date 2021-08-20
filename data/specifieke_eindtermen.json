@@ -42192,5 +42192,95 @@
 		"title": "Jazzlijn - nu-jazz (eind jaren 90) bijv. electrojazz, jazztronica, future jazz en electronic jazz",
 		"id": "b201c8e5-1ca8-4856-ac8e-a0c5da87fa7e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/1",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De kandidaat is in staat kenmerkende aspecten van de voorstelling en vormgeving van beeldend werk van kunstenaars en vormgevers waar te nemen en te benoemen.",
+		"id": "9ef6a526-e235-40a6-86ec-16a3995721c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/2",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Daarvoor is nodig: kennis van en inzicht in de geschiedenis van de beeldende kunst, architectuur en vormgeving en enige bekendheid met verschillende visies op deze gebieden. Verschillen in visie komen aan het licht bij vergelijkingen van kunst en cultuur in verschillende tijdperken.",
+		"id": "7b3ab457-e4b2-49ec-8ac3-563e3b2f524f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/3",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "Een aandachtspunt is het westerse karakter dat veelal in kunsthistorische overzichten is ‘ingebakken’. Het is van belang dat dit beseft wordt. Daarom wordt er - waar mogelijk - aandacht besteed aan relevante niet-westerse kunstvormen.",
+		"id": "de18691e-5a98-4f7c-83e1-ca83fd590101",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/4",
+		"examenprogramma_eindterm_id": [
+			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
+		],
+		"title": "De leerlingen moeten vooral kijkstrategieën beheersen om de vragen te kunnen beantwoorden.",
+		"id": "724b953b-df79-45d5-aa1c-a89bb0b98496",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A1/5",
+		"examenprogramma_eindterm_id": [
+			"dc1e477f-2510-45d7-9442-9446a4b75915"
+		],
+		"title": "Het centraal examen heeft betrekking op de periode van het romaans tot heden, met nadruk op de periode vanaf 1800. Beeldende kunst, architectuur en (ambachtelijke en industriële) vormgeving vanaf het neo-classicisme in de 19de eeuw tot heden komen derhalve in het examen aan de orde.",
+		"id": "64ac603f-912a-4ee1-863c-0ddd107316b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/1",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "Onder beelden verstaan we in het kader van het CE werk (2- en 3-dimensionaal) van beeldende kunstenaars, (ambachtelijke en industriële) vormgevers en architecten.",
+		"id": "0c76616f-5a5f-4376-af08-fd6e6ed6992f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/2",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+		"id": "45eab463-ec17-42ba-9b5b-465401018e6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/3",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "In deze eindterm gaat het om beschouwen met een bepaalde kwaliteit, namelijk het vermogen tot kritisch beoordelen. ‘Kritisch’ houdt in dat de kandidaat in staat is om op basis van onderzoek binnen subdomein A1 (beschrijven, onderzoeken en interpreteren) tot een beargumenteerd oordeel te komen.",
+		"id": "beaed965-854f-4ec9-8ef0-41abc1690182",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "THT/T/H/A/A2/4",
+		"examenprogramma_eindterm_id": [
+			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
+		],
+		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
+		"id": "8193cde9-01e3-43eb-b580-4558839f8f72",
+		"unreleased": true
 	}
 ]
