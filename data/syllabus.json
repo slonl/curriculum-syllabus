@@ -4382,10 +4382,14 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"syllabus_vakleergebied_id": [
-			"5bda29a3-64da-41a1-93ce-444bcdad470c"
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
 		],
 		"description": "",
-		"prefix": ""
+		"prefix": "",
+		"url": "",
+		"ingangsdatum": "",
+		"versie": "",
+		"dirty": "1"
 	},
 	{
 		"examenprogramma_id": [
@@ -4578,7 +4582,7 @@
 			"4e6de661-59fd-4f3d-b481-6ec65cfcb9d5",
 			"4fe40334-8809-4925-be35-d3aef6b02ef0"
 		],
-		"title": "Syllabus Kunst algemeen vwo",
+		"title": "Syllabus Kunst (algemeen) vwo",
 		"id": "40ad9d1a-77cb-413e-bbcd-47f96cd810f1",
 		"unreleased": true,
 		"description": "",
@@ -4588,7 +4592,10 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
-		]
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_id": [
