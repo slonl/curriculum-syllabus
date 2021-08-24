@@ -4249,7 +4249,7 @@
 			"0c9add4a-b9cb-470f-b7d8-d57e297e9065",
 			"cfc8f9f3-d148-4bc7-963a-e85f8fed215f"
 		],
-		"title": "Syllabus Kunst Dans vmbo",
+		"title": "Syllabus Dans vmbo",
 		"id": "8744b397-6420-43d7-84ae-dd42bda9294b",
 		"unreleased": true,
 		"niveau_id": [
@@ -4258,7 +4258,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"dc5477a7-fe55-4f7c-9c90-18f532080290"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -4278,7 +4280,7 @@
 			"3a6043cf-aa3f-47b8-a438-ea650cd7095b",
 			"10fbfab6-e202-4b9c-82a2-146be432f285"
 		],
-		"title": "Syllabus Kunst Beeldende vorming vmbo",
+		"title": "Syllabus Beeldende vorming vmbo",
 		"id": "d376b67a-0019-414f-8f67-0a92fd0a85a3",
 		"unreleased": true,
 		"niveau_id": [
@@ -4287,7 +4289,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"8fcbe577-b3b5-49ff-8a08-13ed6dac1124"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -4303,7 +4307,7 @@
 			"f7705a1d-8b2e-4d5d-86aa-d10365b589ec",
 			"012108d3-d1e7-4109-b434-04c03f79c356"
 		],
-		"title": "Syllabus Kunst Drama vmbo",
+		"title": "Syllabus Drama vmbo",
 		"id": "518b5546-d831-412f-bab7-d0b46d420425",
 		"unreleased": true,
 		"niveau_id": [
@@ -4312,7 +4316,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"d56fcf8f-5d81-4bb1-8354-043fedc9b878"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"examenprogramma_id": [
