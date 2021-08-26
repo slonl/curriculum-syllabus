@@ -980,92 +980,89 @@
 	},
 	{
 		"id": "9ae29f0e-2eca-4d46-8123-d898ea88b930",
-		"prefix": "EC/K/3.1a",
+		"prefix": "EC/K/3.1",
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: oorzaken, gevolgen en oplossingen onderscheiden.\n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "d142cc4f-53d3-4471-b2b3-bb0d5095bb48",
 		"prefix": "EC/K/3.2",
-		"title": "De kandidaat kan relevante economische vragen herkennen en zelfstandig vragen formuleren met het oog op het verwerven van kennis en inzicht"
+		"title": "De kandidaat kan relevante economische vragen herkennen en zelfstandig vragen formuleren met het oog op het verwerven van kennis en inzicht",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"3023586d-8685-4f5d-b828-138562e604a8"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "da392347-fa87-49f5-878e-bfd088aa5e11",
-		"prefix": "EC/K/3.3a",
+		"prefix": "EC/K/3.3",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: economische begrippen en relaties herkennen en toepassen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
 		],
-		"dirty": "1",
-		"ce_se": ""
+		"dirty": "1"
 	},
 	{
 		"id": "6265f678-8b45-43af-b835-680b5e128f82",
-		"prefix": "EC/K/3.4a",
+		"prefix": "EC/K/3.4",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: feiten en meningen onderscheiden.\n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
 		],
-		"dirty": "1",
-		"ce_se": ""
+		"dirty": "1"
 	},
 	{
 		"id": "5e6a48f8-3e19-4e13-9964-6a952da102c6",
-		"prefix": "EC/K/3.5a",
+		"prefix": "EC/K/3.5",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: rekenregels en volgorde hanteren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
 		],
-		"dirty": "1",
-		"ce_se": ""
+		"dirty": "1"
 	},
 	{
 		"id": "48e4a65d-77b2-41cf-9292-4ed10a6e5197",
-		"prefix": "EC/K/3.6c g/t",
+		"prefix": "EC/K/3.6",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: verhoudingen hanteren (indexcijfers, procenten, breuken, decimalen) toelichting bij de indexcijfers:\n- partiële indexcijfer: nieuwjaar/basisjaar*100\n- samengestelde ongewogen indexcijfer: Σ partiële indexcijfers/aantal\n- samengestelde gewogen indexcijfer: Σ (partiële indexcijfers * gewicht)/Σ van de gewichten.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
 		],
-		"dirty": "1",
-		"ce_se": ""
+		"dirty": "1"
 	},
 	{
 		"id": "0cc7794d-15dc-459e-a15e-49addcd7e9dc",
 		"prefix": "EC/K/4A.1",
-		"title": "De kandidaat kan, met het oog op zijn/haar rol van consument bij verschillende vormen van consumeren de keuzeproblemen beschrijven, die zich daarbij kunnen voordoen door schaarste van middelen en tijd en door verschillen in urgentie van behoeften.",
+		"title": "De kandidaat kan, met het oog op zijn/haar rol van consument bij verschillende vormen van consumeren de keuzeproblemen beschrijven, die zich daarbij kunnen voordoen door schaarste van middelen en tijd en door verschillen in urgentie van behoeften",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "a8393cbe-2f69-4021-93ab-f3abb96affa0",
-		"prefix": "EC/K/4A.2/b",
-		"title": "De kandidaat kan de eigen positie als consument vergelijken met die van anderen.",
+		"prefix": "EC/K/4A.2",
+		"title": "De kandidaat kan de eigen positie als consument vergelijken met die van anderen",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "0017e5ef-7221-4ecb-af15-08f3392c2d5f",
-		"prefix": "EC/K/4A.2/k/g/t",
+		"prefix": "EC/K/4A.2",
 		"title": "De kandidaat kan de eigen positie als consument vergelijken met die van anderen, het verschil in marktpositie tussen consumenten onderling en tussen consumenten en producenten beschrijven en daarbij de positie van jongeren als belangrijke doelgroep betrekken, mede gelet op de vraag- en aanbodverhoudingen en de invloed van menselijke capaciteiten.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "7896b0d6-5023-4c89-9c19-4f1a0962f584",
@@ -1087,23 +1084,21 @@
 	},
 	{
 		"id": "b8f1e00d-00da-4bad-9a25-4696ecb1a552",
-		"prefix": "EC/K/4A.5/b",
-		"title": "De kandidaat kan motieven voor en gevolgen van sparen en lenen noemen.",
+		"prefix": "EC/K/4A.5",
+		"title": "De kandidaat kan motieven voor en gevolgen van sparen en lenen noemen",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "e46a22dd-395d-455b-b9b3-1b7c8f00eb1a",
-		"prefix": "EC/K/4A.5/k/g/t",
+		"prefix": "EC/K/4A.5",
 		"title": "De kandidaat kan motieven voor en gevolgen van sparen en lenen noemen en de rol van banken daarbij beschrijven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "72c670b6-aa9d-4233-8b70-bd522ed8d0b4",
@@ -1116,83 +1111,75 @@
 	},
 	{
 		"id": "47c257f8-1f01-4f00-9cab-a69de9dfafba",
-		"prefix": "EC/K/4A.7/b",
+		"prefix": "EC/K/4A.7",
 		"title": "De kandidaat kan aan de hand van verzamelde of verstrekte consumenteninformatie, gegeven een aantal criteria, een beargumenteerde koopbeslissing nemen, daarbij rekening houdend met de gevolgen van die koopbeslissing voor zichzelf en daarbij eventueel gebruik maken van ICT.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "94376a26-93b0-4736-9020-2cd5fbf66c95",
-		"prefix": "EC/K/4A.7/k/g/t",
+		"prefix": "EC/K/4A.7",
 		"title": "De kandidaat kan aan de hand van verzamelde of verstrekte consumenteninformatie, gegeven een aantal criteria, een beargumenteerde koopbeslissing nemen, daarbij rekening houdend met de gevolgen van die koopbeslissing voor zichzelf en voor anderen, en daarbij eventueel gebruik maken van ICT.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "f27e6e4f-c7a4-4421-9ed8-0b777b2820cf",
-		"prefix": "EC/K/4A.8/b",
+		"prefix": "EC/K/4A.8",
 		"title": "De kandidaat kan uit een gegeven huishoudbudgetplan conclusies trekken over de financiële situatie van het samenlevingsverband.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "5d2bab60-2e88-4e4e-b02c-651b9efe71ce",
-		"prefix": "EC/K/4A.8/k/g/t",
+		"prefix": "EC/K/4A.8",
 		"title": "De kandidaat kan uit een gegeven huishoudbudgetplan conclusies trekken over de financiële situatie van het samenlevingsverband en daarbij de eigen invloed beschrijven op beslissingen over de omvang en samenstelling van ontvangsten en uitgaven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"518b0619-3083-4038-ad2b-e263ec362aaa"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "a3efa6ac-9bea-47fe-a7c5-83f6146357b5",
-		"prefix": "EC/K/5A.1/b",
+		"prefix": "EC/K/5A.1",
 		"title": "De kandidaat kan, met het oog op zijn rol in relatie tot arbeid en productie aan de hand van voorbeelden uit het bedrijfsleven het verband leggen tussen de begrippen kosten, opbrengsten, winst en verlies en berekeningen in dit verband maken met behulp van verstrekte of verzamelde gegevens in een realistische context.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "e31eb4b2-66bb-4d12-a7ca-bc7227a80826",
-		"prefix": "EC/K/5A.1/k/g/t",
+		"prefix": "EC/K/5A.1",
 		"title": "De kandidaat kan, met het oog op zijn rol in relatie tot arbeid en productie aan de hand van voorbeelden uit het bedrijfsleven het verband leggen tussen de begrippen (bedrijfs)kosten, investeren, kapitaalintensieve productie, arbeidsintensieve productie, toegevoegde waarde, opbrengsten, winst en verlies en berekeningen in dit verband maken met behulp van verstrekte of verzamelde gegevens in een realistische context.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "e6345bd0-bfaf-4b59-8529-e9453fabc69e",
-		"prefix": "EC/K/5A.2/b",
+		"prefix": "EC/K/5A.2",
 		"title": "De kandidaat kan aan de hand van voorbeelden de samenhang verklaren tussen de begrippen arbeidsverdeling, arbeidsmotieven, arbeidsproductiviteit, productiecapaciteit, economische groei, crisis, recessie, welzijn en welvaart.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "ea5ed7bd-1f78-4dd1-9b18-5dd65d3cad0c",
-		"prefix": "EC/K/5A.2/k/g/t",
+		"prefix": "EC/K/5A.2",
 		"title": "De kandidaat kan aan de hand van voorbeelden de samenhang verklaren tussen de begrippen arbeidsverdeling, arbeidsmotieven, arbeidsproductiviteit, productiecapaciteit, economische groei, crisis, recessie, welzijn en welvaart en in dit verband arbeidsverdeling in en buiten het samenlevingsverband en tussen bedrijven onderscheiden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "20e15437-c71a-4d5b-84d5-1b6fde0e10ff",
@@ -1205,63 +1192,57 @@
 	},
 	{
 		"id": "6aa5177d-319a-4582-868b-7660b724198e",
-		"prefix": "EC/K/5A.4a/b",
+		"prefix": "EC/K/5A.4",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS en UWV werkbedrijf).",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "00d0a585-8120-4fa3-bc5a-1e4090e8ac0c",
-		"prefix": "EC/K/5A.4a/k/g/t",
+		"prefix": "EC/K/5A.4",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS (en UWV werkbedrijf). \n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "3accafcb-dd28-4de1-b8d8-84ba4975eb57",
-		"prefix": "EC/K/5A.5/b",
+		"prefix": "EC/K/5A.5",
 		"title": "De kandidaat kan aan de hand van voorbeelden mogelijkheden tot bestrijding van werkloosheid noemen, zowel in de eigen omgeving als op nationaal niveau.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "d21a12ff-ec8c-4c39-9493-16f580a7b94f",
-		"prefix": "EC/K/5A.5/k/g/t",
+		"prefix": "EC/K/5A.5",
 		"title": "De kandidaat kan aan de hand van voorbeelden mogelijkheden tot bestrijding van werkloosheid noemen/beschrijven, zowel in de eigen omgeving als op nationaal niveau.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "a65fdf77-bdb7-4504-b4f0-8d9941b9b920",
-		"prefix": "EC/K/5A.6a/b",
+		"prefix": "EC/K/5A.6",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de kandidaat weet dat er verschil bestaat tussen bedrijfskosten (onderdeel van de verkoopprijs) en de kosten/opbrengsten die niet in de verkoopprijs zijn opgenomen.\n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "2e874201-c54b-4edc-aeea-3c13ac5d2ec1",
-		"prefix": "EC/K/5A.6a/k/g/t",
+		"prefix": "EC/K/5A.6",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de kandidaat weet dat er verschil bestaat tussen bedrijfskosten (onderdeel van de verkoopprijs) en de kosten/opbrengsten die niet in de verkoopprijs zijn opgenomen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "85556d99-2426-4cfb-ade9-e11e155a1840",
@@ -1301,13 +1282,12 @@
 	},
 	{
 		"id": "49ea4159-d71f-4d40-88f9-ec6e076c50b9",
-		"prefix": "EC/K/7.2a",
+		"prefix": "EC/K/7.2",
 		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen dagelijks leven het belang van de Europese Unie en Europese Monetaire Unie beschrijven: de lidstaten van de Europese Unie (EU) en van de eurozone (EMU).\n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "a6b113b9-2f93-41d1-957d-7397f8c3b5dd",
@@ -1320,23 +1300,21 @@
 	},
 	{
 		"id": "a0d3f98b-05bc-43fd-b361-7e29f148cad8",
-		"prefix": "EC/K/7.3b/1",
+		"prefix": "EC/K/7.3b",
 		"title": "De kandidaat kan oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: de oorzaken van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: lage wereldmarktprijzen en de invoerrechten van de rijke landen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "f96b86ac-0998-4b76-a808-4181784f9268",
-		"prefix": "EC/K/7.3b/2/k/g/t",
+		"prefix": "EC/K/7.3b",
 		"title": "De kandidaat kan oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: \n– de oorzaken van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - lage wereldmarktprijzen - de invoerrechten van de rijke landen \n– de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - de immigratie in de rijke landen - lage wereldmarktprijzen (gevolgen voor de ruilvoet)(N.B. geen berekening) - de emigratie naar de rijke landen - geldstroom van arm naar rijk vanwege de schulden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "7b8290d7-dd33-44e2-9213-13636828c69f",
@@ -1350,13 +1328,12 @@
 	},
 	{
 		"id": "8c36f08c-10c3-43b2-8536-440bcc221a64",
-		"prefix": "EC/K/7.5/k/g/t",
+		"prefix": "EC/K/7.5",
 		"title": "De kandidaat kan de werking verklaren van maatregelen om onderontwikkeling te verminderen en de rol van de overheid en particulieren daarbij beschrijven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "0968d8b6-0157-488d-841b-abd26e7d9f15",
@@ -31482,94 +31459,85 @@
 		]
 	},
 	{
-		"prefix": "EC/K/3.1b",
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "d882daaf-a06f-418d-89d5-16e60102de6b",
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: gebruik maken van redeneringen binnen vooronderstellingen of contexten.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.1c",
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "be2893d2-26ec-4caa-ab7f-0f8d47efa384",
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: een kosten- en batenanalyse maken, zowel van meetbare als niet meetbare factoren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.3b",
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "32c2dfd8-23ae-498e-bc47-fce8a72766b5",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: onderscheid maken tussen hoofd- en bijzaken.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.3c",
+		"prefix": "EC/H/DomeinA/1.1ff",
 		"id": "4d570caf-a4f6-4679-a06e-ff86705d5e47",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: informatie analyseren en (her)ordenen en zo nodig bewerken.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.3d",
+		"prefix": "EC/H/DomeinA/1.1b",
 		"id": "91f97795-ea3d-40d5-8470-4c22eff5b900",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: gegevens boordelen op betrouwbaarheid, bruikbaarheid en representativiteit.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.3e",
+		"prefix": "EC/H/DomeinA/1.1de",
 		"id": "6c69fd94-d064-41fc-ac23-b7de5ee8870d",
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: conclusies en antwoorden formuleren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.4b",
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "ccd14c35-be0c-4167-a64c-8821542e3d6c",
-		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: belangen van diverse betrokkenen herkennen.",
+		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: belangen van diverse betrokkenen hekennen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.4c",
+		"prefix": "EC/H/DomeinA/1.1daeebb",
 		"id": "81482b0d-f2a9-4b98-b716-daeebb9b61ab",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: relaties leggen met omstandigheden en achtergronden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.4d",
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "f5d0703f-9e69-4c5b-a007-77f4c5f4b9cd",
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: eigen waarden en opvattingen confronteren met andere waarden en opvattingen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "539c0510-5b18-40f0-8e11-1b0781ebb337",
@@ -31577,19 +31545,16 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"prefix": "EC/K/3.4e",
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.5b",
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "ba66f56d-1151-42d2-b690-70e48c368170",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: positieve, negatieve, absolute en relatieve getallen hanteren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "f9490568-93d8-4851-aca2-314f82dd6edf",
@@ -31597,79 +31562,70 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"prefix": "EC/K/3.5c",
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.5d",
+		"prefix": "EC/H/DomeinA/1.1bf",
 		"id": "8536a4d2-a6b7-4cde-9786-b82716920bf2",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: schattingen hanteren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.5e",
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "dd3b143b-b802-4a95-9737-e8057f0a22af",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: afrondingen hanteren overeenkomstig de gegeven informatie.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/3.5f",
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "751e1890-47a5-439c-9c05-e68208ba611e",
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: grafieken kunnen hanteren: lezen, tekenen (een lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"3023586d-8685-4f5d-b828-138562e604a8"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4b/b",
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "2ec0ec69-0b38-4772-aed1-d6ccf84891c2",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4c/b",
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "5a3c0823-6306-48d0-b848-66efa76ca56c",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4d/b",
+		"prefix": "EC/H/DomeinA/1.1b",
 		"id": "44a7c721-45f0-496f-8f94-fb69b12cbe5e",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4e/b",
+		"prefix": "EC/H/DomeinA/1.1c",
 		"id": "d49b67dd-5cd9-492d-87ed-67339c50a550",
 		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke wekgevers, ondersteuning bij scholing.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "0861b1e7-3689-402c-bdef-097513048e50",
@@ -31677,89 +31633,79 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"prefix": "EC/K/5A/4f/b",
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4b/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1bf",
 		"id": "027b93a4-8cab-4832-a99b-3e223bf2ef0d",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4c/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1db",
 		"id": "da24a142-c310-472e-9ad9-26a1db052c62",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de oer het ja ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4d/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "b59acf99-b893-4f27-9bb7-ff3399a194d8",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de wekloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4e/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1abb",
 		"id": "4bd9f94e-6880-46a2-95ab-6c269abb6c49",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV Werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke werkgevers en ondersteuning bij scholing.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/4f/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1d",
 		"id": "0cc110e9-e662-4ad3-bcac-0164cecf3d50",
 		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheidscijfers/werkgelegenheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid/werkgelegenheid en het niet of niet officieel vervullen van vacatures.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/6b/b",
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "fcd6684a-ec79-40ec-9e34-41e91f74f50a",
-		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
+		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld ut te drukken.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/6c/b",
+		"prefix": "EC/H/DomeinA/1.1f",
 		"id": "cb3a7b86-1533-4c06-9e42-4fcfdc8f5627",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, die worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/5A/6b/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1fb",
 		"id": "d7a8f383-5895-4c08-a89b-185fb1b2170f",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"id": "2e844447-7f39-4ef7-a540-42e264bad127",
@@ -31767,39 +31713,34 @@
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		],
-		"prefix": "EC/K/5A/6c/k/g/t",
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/7.2b",
+		"prefix": "EC/H/DomeinA/1.1e",
 		"id": "c5c33527-a725-47d3-82ae-1fb54560e744",
 		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen dagelijks leven het belang van de Europese Unie en Europese Monetaire Unie beschrijven: vrij verkeer van goederen, diensten, personen en kapitaal.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/7.3b/2",
+		"prefix": "EC/H/DomeinA/1.1adad",
 		"id": "1f7a24fe-281d-4b2e-9522-6adad4fd8d74",
 		"title": "De kandidaat kan de oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld de immigratie in de rijke landen.\n",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
-		"prefix": "EC/K/7/4b/k/g/t",
+		"prefix": "EC/H/DomeinA/1.1a",
 		"id": "b55bd2d7-64fd-4f11-9c8a-ffc87c81c667",
 		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: eigen activiteiten zoals giften, aankoop goederen en diensten uit ontwikkelingslanden, (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden en grondstofovereenkomsten/buffervoorraden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		],
-		"ce_se": ""
+		]
 	},
 	{
 		"ce_se": "CE",
