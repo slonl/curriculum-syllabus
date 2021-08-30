@@ -279,5 +279,45 @@
 		"title": "Engels",
 		"id": "8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"953167a9-cb14-47e3-8446-a708a4e077b9"
+		],
+		"title": "Handvaardigheid",
+		"id": "fbbd2952-218e-4aa9-916f-0d301124d18c",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"99fa52fd-5d20-446a-a34c-61a6be77b413"
+		],
+		"title": "Textiele vormgeving",
+		"id": "03148f32-44eb-4e69-8758-775dcb674597",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"39ae089f-d9e4-47c5-bd78-f40432efb958"
+		],
+		"title": "Dans",
+		"id": "d64fa318-6d38-4671-84e1-7243c3c16452",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
+		],
+		"title": "Drama",
+		"id": "dd728106-6600-496b-99c7-df31fb3137f7",
+		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"b608d97d-2846-4216-a3ea-925ab70cff17"
+		],
+		"title": "Beeldende vorming",
+		"id": "d7461634-68a7-43bc-82c8-1afe8a65bdde",
+		"unreleased": true
 	}
 ]
