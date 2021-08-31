@@ -39599,7 +39599,12 @@
 		],
 		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\nB2 (ongeveer evenveel B1- als B2-opgaven)",
 		"id": "f9fa0130-625f-4cae-a1f8-03aebb06135d",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"0b5b9bcf-fcc9-4321-b71c-45d5b88d1e28",
+			"82a57889-3b27-4768-b663-ab5a45eea210"
+		]
 	},
 	{
 		"ce_se": "ce",
