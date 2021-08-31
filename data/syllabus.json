@@ -5983,5 +5983,45 @@
 		"title": "Syllabus Textiele vorming vwo",
 		"id": "0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"795a645d-cd99-4c1a-b9f9-99dbae1ace96",
+			"94c37f87-6ec5-47a6-87f7-6982e2f4df55",
+			"e5d429d5-06ae-48eb-b4af-82e4db9eb062",
+			"93f5d5c5-40ac-424c-9f10-95c6d8c473e6",
+			"334f63b9-daa8-4e32-bfaa-a894c26aa7c7",
+			"6484be1b-d974-4570-9949-2ca79e856118",
+			"5fd6c480-88ef-437a-abd4-c0ef6b11b020",
+			"c06d5988-c296-4d19-a22e-f4a04f32b19e",
+			"33e21d2e-289b-40d8-aa94-5ec3ba2b72c6",
+			"69d9c96d-5d15-4f9f-b82b-a16ef8c7fd0d",
+			"4336321b-1351-42c0-86b4-f4b891a7fab0",
+			"43521f17-8231-471d-bccc-6154818ace09",
+			"ce7abf3a-d539-4fd9-adf8-879510061944",
+			"eda15941-f228-4e9f-8bc8-87bba601b5f7",
+			"0040334c-5435-4111-99db-69d1b5dd451a",
+			"b104e293-acd5-435f-a366-c2bd3d0df17c",
+			"e5669e6a-bfeb-4f60-8302-aa2b204c6e5b",
+			"a6521593-9b0a-4877-86fc-25c7eb3dfc45",
+			"fc76e850-766f-4abf-b253-8d361c439607",
+			"16ce763a-1fca-4b32-a7ae-823b57e87d22",
+			"7a41c0c9-dbb1-4645-9db7-006206db5ca4",
+			"d5abe9e2-8cb6-4d17-aeeb-c3623d057feb",
+			"59195825-0b76-4ccb-8960-4baa76679cda",
+			"657927f0-4786-42da-bfde-3d15a0959e1f",
+			"f3da8018-d7ff-4168-bcd7-30cefb7f665b",
+			"25eddc07-860a-491f-9a9c-4e3559b15a86",
+			"c8f87087-aaba-4cb7-a25a-ce0180de3ef6"
+		],
+		"title": "Syllabus Handvaardigheid vwo",
+		"id": "2f0e0862-1546-44dc-bd1e-60c07a81e5a1",
+		"unreleased": true
 	}
 ]
