@@ -31498,5 +31498,583 @@
 		"title": "Cultuurhistorische kennis is en blijft belangrijk ter ondersteuning van de kunstbeschouwing. Dit houdt bekendheid in met verschillende visies op beeldende kunst. Deze visieverschillen komen aan het licht bij vergelijkingen van kunst en cultuur uit verschillende tijdperken.",
 		"id": "16889cfc-a92e-475e-af6b-543552de3442",
 		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"866b4fde-2d53-4077-8896-a9cda5c58f68"
+		],
+		"title": "Herkennen van: \r\n- een (iconisch) kunstwerk; \r\n- bouwelementen; \r\n- schildertechniek.",
+		"id": "93421149-9ac3-4d69-8037-19804968a0cd",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"26838fde-87f3-4ed0-81a5-fd8ece2b49b9"
+		],
+		"title": "Herinneren: \r\n- in welke periode een kunstenaar actief was;\r\n- van historische tijdperken en kunsthistorische stromingen;\r\n- van termen en begrippen uit kunst analyse modellen.",
+		"id": "61be7207-8788-49fd-91fa-389202c3b9ee",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cb09df90-76dd-4fe0-a007-d98081355da0"
+		],
+		"title": "Beschrijf het onderwerp van een schilderijk (bijvoorbeeld van een annunciatie).",
+		"id": "2a32fa35-0159-4315-b148-277886ee0d2e",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cb09df90-76dd-4fe0-a007-d98081355da0"
+		],
+		"title": "Beschrijf de (verschillende) betekenis(sen) van een titel.",
+		"id": "ea807d23-bdeb-4dd3-a064-e9e02749dca0",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cb09df90-76dd-4fe0-a007-d98081355da0"
+		],
+		"title": "Beschrijf of hoe de uitspraak van een kunstenaar geïnterpreteerd kan worden.",
+		"id": "666152f3-6f90-4964-b512-82adac68c09f",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cb09df90-76dd-4fe0-a007-d98081355da0"
+		],
+		"title": "Beschrijf in eigen woorden de betekenis van een kunstwerk volgens de kunstenaar of een kunsthistoricus.",
+		"id": "a37f84e3-be31-45a3-8897-a9a40c52f301",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"66e97c16-234e-4e06-9c37-38bec899595c"
+		],
+		"title": "Licht toe waarom een kunstwerk gerekend kan worden tot een bepaalde stijl of stroming.",
+		"id": "c4a45680-840a-4d9e-8bfe-da3bc53b6847",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"66e97c16-234e-4e06-9c37-38bec899595c"
+		],
+		"title": "Licht toe waarom het ene alternatief een aantrekkelijkere keuze vormt voor een kunstenaar dan het andere.",
+		"id": "e6cf868f-ab7d-4b1d-8540-42b04762d18e",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"66e97c16-234e-4e06-9c37-38bec899595c"
+		],
+		"title": "Licht toe wat er typerend (bijvoorbeeld 'wild of beestachtig') was aan de schilderkunst van een stroming (de wilden / les Fauves).",
+		"id": "69f9428a-3b5a-4d19-8736-9590b0587ca1",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"66e97c16-234e-4e06-9c37-38bec899595c"
+		],
+		"title": "Licht toe waarover de richtingen strijd ging binnen een kunstenaarsgroep (De Stijl en het gebruik van de diagonaal).",
+		"id": "fc3c007d-2c86-41ca-b8e7-380bcfe1a526",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"66e97c16-234e-4e06-9c37-38bec899595c"
+		],
+		"title": "Licht toe waarom een begrip (bijvoorbeeld 'autonome kunst' of 'primitivisme') een problematisch begrip is.",
+		"id": "4c96940b-b693-40f6-9d12-4cb3999e9009",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"120ce8b3-8888-4bfe-981a-ae41f223d946"
+		],
+		"title": "Het classificeren van een kunstwerk op: stroming; tijdsperiode; stijlperiode; intentie; plaats van ontstaan; materiaal enz. enz.",
+		"id": "c0985367-5a2f-438c-8ad1-890e1773e909",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c08b60e7-4ad2-40cb-bbd0-66518262f4db"
+		],
+		"title": "Belangrijkste thema's uit het oeuvre van een kunstenaar op een rij zetten.",
+		"id": "9a48d6c7-f131-4be4-8053-0fe38f8f5fc0",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c08b60e7-4ad2-40cb-bbd0-66518262f4db"
+		],
+		"title": "De belangrijkste maatschappelijke ontwikkelingen in een bepaalde tijd samenvatten.",
+		"id": "c60c2740-e414-44f2-8f14-f0f5342aa91d",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c08b60e7-4ad2-40cb-bbd0-66518262f4db"
+		],
+		"title": "Aangeven waar bijv. de technische ontwikkelingen voor de schilderkunst / beeldhouwkunst op neer komt.",
+		"id": "fab71015-72be-4531-8e05-8aa3009f1912",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c08b60e7-4ad2-40cb-bbd0-66518262f4db"
+		],
+		"title": "De essentie kunnen aangeven van de artistieke opvatting van een kunstenaar.",
+		"id": "6df23387-05f2-4097-bd78-7b0e9a73e054",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"3a52e447-24af-4681-8569-7c04a93ca1d1"
+		],
+		"title": "Aan de hand van visuele kenmerken afleiden welke materialen en technieken zijn gehanteerd.",
+		"id": "82aac094-b7a3-4e9e-a9d9-99be1a2355ad",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"3a52e447-24af-4681-8569-7c04a93ca1d1"
+		],
+		"title": "Aan de hand van historische gegevens afleiden / concluderen welke kunstenaar of kunstenaarsgroep het betreft.",
+		"id": "e024e663-7f54-4df1-bd03-322c0114a0dd",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"3a52e447-24af-4681-8569-7c04a93ca1d1"
+		],
+		"title": "Op basis van het artistieke / politieke klimaat anticiperen op de ontvangst van bepaalde kunstwerken.",
+		"id": "8a1ab7b4-920a-4120-be68-e5aba941155f",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"3a52e447-24af-4681-8569-7c04a93ca1d1"
+		],
+		"title": "Wat het oordeel zou zijn van een criticus / theoreticus over het werk van een kunstenaar.",
+		"id": "0f012973-83eb-4ced-9aa0-d6b35b70cb73",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"df4b852f-a2f9-448d-a8ee-8896d2eec172"
+		],
+		"title": "Het vergelijken van meerdere kunstwerken.",
+		"id": "7556f3de-0276-42ad-ab08-076669d352e3",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"df4b852f-a2f9-448d-a8ee-8896d2eec172"
+		],
+		"title": "Het vergelijken van opvattingen van kunstenaars en/of critici.",
+		"id": "71eeeac4-ea74-4652-99e1-c75a1d948c06",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"df4b852f-a2f9-448d-a8ee-8896d2eec172"
+		],
+		"title": "Het vergelijken een parallel trekken tussen opvattingen en werkwijzen van anderen als critici / kunsthistorici / kunstenaars en die hem/haar zelf.",
+		"id": "6b949a69-2856-427b-9fe3-11ddd8f92b4a",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1c2b7319-3860-414f-baa4-214bca676ee1"
+		],
+		"title": "Uitleggen - hoe maatschappelijke omstandigheden bijdragen aan totstandkoming van een kunstwerk;",
+		"id": "02840dab-bab1-4c97-aab1-6889670aac2d",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1c2b7319-3860-414f-baa4-214bca676ee1"
+		],
+		"title": "Uitleggen hoe (volgens een bepaalde techniek)een kunstwerk tot stand is gekomen.",
+		"id": "6fee7d93-1d15-4a30-b336-8e9a9c06e2e4",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1c2b7319-3860-414f-baa4-214bca676ee1"
+		],
+		"title": "Uitleggen hoe vormgevingselementen een betekenis oproepen en/of versterken.",
+		"id": "135bfdf7-54d4-4939-ad4a-78b834be019b",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1c2b7319-3860-414f-baa4-214bca676ee1"
+		],
+		"title": "Uitleggen hoe een veranderende kunstmarkt gevolg kan hebben voor de positie van kunstenaars.",
+		"id": "b280397a-cafa-4e84-b9d7-a4225b053f0b",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1c2b7319-3860-414f-baa4-214bca676ee1"
+		],
+		"title": "Uitleggen hoe hetzelfde kunstwerk in een andere omgeving een heel andere betekenis kan krijgen.",
+		"id": "4084b709-9ade-424f-af48-f971aff8d469",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"95ba7c23-8200-43e9-9653-106138a16b14"
+		],
+		"title": "Het uitvoeren van een beeldanalyse aan de hand van formele aspecten.",
+		"id": "fc73088b-390b-4303-b35c-15d157d272f9",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"95ba7c23-8200-43e9-9653-106138a16b14"
+		],
+		"title": "Het uitvoeren van een iconografische beschrijving en een iconologische interpretatie.",
+		"id": "6b76d71d-c922-4080-bd90-4ea37ecd2f9c",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5592c7a9-eaa8-48eb-ace0-87346c00aae9"
+		],
+		"title": "Onderscheiden welke beeldende middelen van het kunstwerk van belang zijn voor het bepalen van de intentie van de kunstenaar en/of bepalend zijn voor de interpretatie / receptie van een kunstwerk.",
+		"id": "92197614-4d91-4e5b-9a43-41a2397745c4",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5592c7a9-eaa8-48eb-ace0-87346c00aae9"
+		],
+		"title": "Onderscheiden welke aspecten de gangbare kunsthistorische indeling of betekenis tegenspreken.",
+		"id": "89618a52-b5b7-4e4c-97a0-6555b990f345",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5592c7a9-eaa8-48eb-ace0-87346c00aae9"
+		],
+		"title": "Onderscheiden aan welke kunstwerken de ontwikkeling van de kunstenaar het beste is af te lezen.",
+		"id": "86a5e0d3-ddfc-4df8-b39e-8c72a83e64de",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5592c7a9-eaa8-48eb-ace0-87346c00aae9"
+		],
+		"title": "Onderscheiden welke aard argumenten in een kunsthistorisch betoog / kunstkritiek hebben (bijvoorbeeld: historisch / esthetisch / technisch / theoretisch / economisch).",
+		"id": "0d6c1eaa-190a-4778-9089-9b7a88cf4ec6",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5aeab891-0b6f-44d2-b9da-307fac544bfb"
+		],
+		"title": "Vaststellen hoe de betekenis van een kunstwerk samenhangt met de context (oeuvre / tijdgewricht / samenleving / esthetische opvattingen / economische /opdrachtsituatie etc. ) waarin het werd gemaakt of werd gepresenteerd.",
+		"id": "6e1a6db3-1c97-45c6-a75f-bca62499f4f2",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5aeab891-0b6f-44d2-b9da-307fac544bfb"
+		],
+		"title": "Vaststellen hoe de samenhang van ontwerpelementen al dan niet een grote zeggingskracht hebben.",
+		"id": "fb108d29-9c01-4215-afdb-3acb5dccf7f0",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5aeab891-0b6f-44d2-b9da-307fac544bfb"
+		],
+		"title": "Vaststellen hoe technische (fotografie) of (kunst)historische ontwikkelingen(bijvoorbeeld Japonisme) bijdragen aan nieuwe beeldconventies (afsnijding).",
+		"id": "3a848226-8d11-4a10-8b53-9cd36db6c0f5",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"5aeab891-0b6f-44d2-b9da-307fac544bfb"
+		],
+		"title": "Het belang van de kunstwereld, kunstmarkt en/of stad destilleren uit het cultureel aanbod.",
+		"id": "f3859ddf-3d91-45b4-b302-f952a3c3d337",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e399dc94-3229-463a-af80-5399bb3f877e"
+		],
+		"title": "De intentie/mening vaststellen van een kunstenaar of opdrachtgever op basis van functie / voorstelling / vorm / inhoud van het kunstwerk.",
+		"id": "3dc37c79-21b6-4017-a99d-f6da7c6f9b73",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e399dc94-3229-463a-af80-5399bb3f877e"
+		],
+		"title": "Het onderliggende standpunt (bijvoorbeeld: esthetische visie / politieke agenda / economisch oogmerk) van een kunstenaar, tentoonstellingsmaker of criticus vaststellen.",
+		"id": "19d9da25-3308-4f4f-b1e1-bef252583a94",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e399dc94-3229-463a-af80-5399bb3f877e"
+		],
+		"title": "Tussen de regels door kunnen lezen wat begrippen (bijvoorbeeld: Entartete Kunst, vrouwenkunst, rebuskunst) betekenen of impliceren.",
+		"id": "faaaf61b-08fd-490b-9ff5-f49f8db3f552",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"8396d3a7-04f6-452d-a939-115ea35590a2"
+		],
+		"title": "De (in)coherentie tussen het artistiek concept en het gerealiseerde beeld kunnen aangeven en beoordelen.",
+		"id": "a17f502c-afb6-42d9-88fb-2571bd13f276",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"8396d3a7-04f6-452d-a939-115ea35590a2"
+		],
+		"title": "Vaststellen of in een kunstkritiek de conclusie volgt uit observaties en bevindingen.",
+		"id": "7bbb35ba-08c1-4c48-9b8b-071f7175d24b",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b"
+		],
+		"title": "Een oordeel geven over een kunstwerk op basis van een analysemodel voor kunstbeschouwing.",
+		"id": "670b31f6-d1c0-4285-b19a-a66be3d6549f",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b"
+		],
+		"title": "Een oordeel geven over een kunstwerk vanuit een specifieke kunstopvatting of kunsttheorie.",
+		"id": "259c5ae6-196a-4775-b993-044f36fe8721",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b"
+		],
+		"title": "De (in)consequenties van een artistieke theorie in relatie tot het beeldend proces en/of product kunnen aangeven en beoordelen.",
+		"id": "2fa24c79-955e-4e12-ad57-bbfd17f77764",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b"
+		],
+		"title": "Een (voor- en) tegenargument kunnen geven voor oordeel op basis van kunstopvatting.",
+		"id": "1874ba95-e617-4b02-bba1-e36a4f59fecf",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b"
+		],
+		"title": "Inconsistenties tussen kunst/tentoonstellingsbeleid en uitvoering aangeven.",
+		"id": "a971cf71-9b21-4373-a774-8671e6bf67f1",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"de9a5ac6-833e-4cec-a874-c07eba472f4f"
+		],
+		"title": "Een hypothese opstellen over de betekenis van een kunstwerk/het oeuvre van een kunstenaar.",
+		"id": "a17f5de1-a156-4ffe-a790-732c493a2ef6",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"de9a5ac6-833e-4cec-a874-c07eba472f4f"
+		],
+		"title": "Een hypothese ter verklaring van een veranderende kunsthistorische ontwikkeling.",
+		"id": "5c6c77f4-0585-4d80-aa9d-b2813405099b",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"de9a5ac6-833e-4cec-a874-c07eba472f4f"
+		],
+		"title": "Een hypothese over de oorzaak van een wending in het oeuvre van een kunstenaar of het uit elkaar vallen van een kunstenaarscollectief.",
+		"id": "f44ff8e0-d0b9-4e93-bd66-ec0da8786bca",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a"
+		],
+		"title": "Het bedenken van een opzet voor een kunsthistorisch onderzoek.",
+		"id": "8d24a531-4f99-40cc-b9fd-7e016934fef9",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a"
+		],
+		"title": "Het bedenken van een opzet voor een essay over kunst.",
+		"id": "7dc015c6-3aa4-4c22-8ef8-aee32e650356",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a"
+		],
+		"title": "Het bedenken van een opzet voor een kunstrecensie.",
+		"id": "2be47ca0-6c18-41c0-9a70-382db29a5db4",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a"
+		],
+		"title": "Het bedenken van een opzet voor een kunsttentoonstelling.",
+		"id": "00800599-4f50-480a-834f-2152c26ca7ae",
+		"unreleased": true
+	},
+	{
+		"description": "Vakspecifieke handelingen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a"
+		],
+		"title": "Het bedenken van een opzet voor een notitie voor kunstbeleid.",
+		"id": "c9794f84-9278-4e63-8cad-c0011084216a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"6301dd6c-7f5d-4831-9b7d-92b0264d7a12"
+		],
+		"title": "Het betreft beeldende kunst, architectuur en vormgeving. De beschouwing kan betrekking hebben op diverse facetten van een kunstwerk: het proces, het product (vormgeving, en indien van toepassing, voorstelling en inhoudelijke aspecten) en de context.",
+		"id": "13a96c2b-30e5-47a1-b8ed-4516b8be70eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"f97bc701-2262-43fb-b67b-712183293b1b"
+		],
+		"title": "Cultuurhistorische kennis is en blijft belangrijk ter ondersteuning van de kunstbeschouwing. Dit houdt bekendheid in met verschillende visies op beeldende kunst. Deze visieverschillen komen aan het licht bij vergelijkingen van kunst en cultuur uit verschillende tijdperken.",
+		"id": "b56d92e0-0f3d-457c-a4ac-dcced8def2de",
+		"unreleased": true
 	}
 ]
