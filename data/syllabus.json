@@ -6053,6 +6053,9 @@
 		],
 		"title": "Syllabus Handvaardigheid vwo",
 		"id": "08de9c20-5fb7-41cd-9e83-5d22a1a7543f",
+		"syllabus_vakleergebied_id": [
+			"fbbd2952-218e-4aa9-916f-0d301124d18c"
+		],
 		"unreleased": true
 	}
 ]
