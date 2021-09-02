@@ -6014,5 +6014,45 @@
 		"syllabus_vakleergebied_id": [
 			"03148f32-44eb-4e69-8758-775dcb674597"
 		]
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"866b4fde-2d53-4077-8896-a9cda5c58f68",
+			"86672266-9e09-44c1-9402-aded82ad4bed",
+			"26838fde-87f3-4ed0-81a5-fd8ece2b49b9",
+			"3ba23f61-1209-4e06-b2a9-8ebee752abcb",
+			"cb09df90-76dd-4fe0-a007-d98081355da0",
+			"66e97c16-234e-4e06-9c37-38bec899595c",
+			"120ce8b3-8888-4bfe-981a-ae41f223d946",
+			"c08b60e7-4ad2-40cb-bbd0-66518262f4db",
+			"3a52e447-24af-4681-8569-7c04a93ca1d1",
+			"df4b852f-a2f9-448d-a8ee-8896d2eec172",
+			"1c2b7319-3860-414f-baa4-214bca676ee1",
+			"05d0b51a-bc31-45ad-aa8c-9ce289eb028b",
+			"95ba7c23-8200-43e9-9653-106138a16b14",
+			"7cfa7801-0f1a-4d9a-9974-66b7e8258cd9",
+			"71da3356-33b6-4896-a976-bbb42aa0f637",
+			"5592c7a9-eaa8-48eb-ace0-87346c00aae9",
+			"5aeab891-0b6f-44d2-b9da-307fac544bfb",
+			"e399dc94-3229-463a-af80-5399bb3f877e",
+			"aecc3c9a-85c7-4d0a-bd0f-fa6ed8a5b488",
+			"8396d3a7-04f6-452d-a939-115ea35590a2",
+			"a114f001-5207-4ae3-b925-1a5e4d15d61b",
+			"a9611054-cdb9-4e43-ab3b-6ac2d53f676b",
+			"de9a5ac6-833e-4cec-a874-c07eba472f4f",
+			"407ae7e7-c411-45cf-8a3e-6d2d7111565a",
+			"045e8e69-21c4-4913-8a56-dd3f9c3fdde2",
+			"6301dd6c-7f5d-4831-9b7d-92b0264d7a12",
+			"f97bc701-2262-43fb-b67b-712183293b1b"
+		],
+		"title": "Syllabus Handvaardigheid vwo",
+		"id": "08de9c20-5fb7-41cd-9e83-5d22a1a7543f",
+		"unreleased": true
 	}
 ]
