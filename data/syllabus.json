@@ -4398,7 +4398,7 @@
 			"4bf72bc0-ab13-4197-bb0c-386a9bf244b0",
 			"09f06df4-a310-4641-b40a-bbeffb30e5d3"
 		],
-		"title": "Syllabus muziek vmbo",
+		"title": "Syllabus Muziek vmbo",
 		"id": "f882d69a-0a6b-4839-932a-cc8abcfc03ed",
 		"unreleased": true,
 		"niveau_id": [
@@ -4620,45 +4620,6 @@
 		"url": "",
 		"ingangsdatum": "",
 		"versie": ""
-	},
-	{
-		"examenprogramma_id": [
-			"8dc6a212-3df6-4a46-8c95-008890be0807"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"942a4850-0093-4335-8b5b-98e016bcf1de",
-			"cfc6e659-af50-41d0-b6d6-1e92ac2cf214",
-			"a1890556-9356-4e0b-9fb8-9a128a52f95c",
-			"c8d26b2a-a8ae-4622-96ac-c2031c0d6eaf",
-			"36a0f9b7-3f4e-4307-81b4-78d0d6f96e3c",
-			"7bd130e2-9750-4f3f-9cdf-3d73963f7d87",
-			"f8c220d9-cac3-4b3c-a639-ae76a895439e",
-			"7a701f5f-8ebc-4ec3-8d90-b5fabc3aba67",
-			"1deb9c0c-87a8-417b-867e-f834c3cb1bae",
-			"d2d9c63f-496a-4710-bc61-b3911df52f0f",
-			"040a1533-7d04-4844-88a6-1e73ed72b441",
-			"2379e28d-3125-488d-a633-83d3e70f24ad",
-			"67779646-0076-44d7-924d-f6587472d9b5",
-			"3c2ca3af-e32d-4a26-99a7-e905891483c5",
-			"be18c3fb-9d13-46b6-9195-11852fe990a4",
-			"9e17f051-8d6d-4742-8891-bef781811675",
-			"cf0af998-19c7-4e62-a3c5-772beba2903c",
-			"cfa3f74c-5f1c-4092-96ca-17f5f213a69e",
-			"ad7f0b46-9edb-447b-a0d2-2f4df113edce",
-			"1ebdadee-408d-427e-9f3a-c4ff3bbac0d5",
-			"8f899910-8c6c-46f0-b7a9-437b4701e728"
-		],
-		"title": "Syllabus muziek havo",
-		"id": "9c6d718f-c2e1-4c8f-bf2b-0aff2b1b05e5",
-		"unreleased": true,
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"syllabus_vakleergebied_id": [
-			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
-		],
-		"description": "",
-		"prefix": ""
 	},
 	{
 		"examenprogramma_id": [
@@ -6059,6 +6020,48 @@
 		"unreleased": true
 	},
 	{
+		"examenprogramma_id": [
+			"8dc6a212-3df6-4a46-8c95-008890be0807"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"942a4850-0093-4335-8b5b-98e016bcf1de",
+			"cfc6e659-af50-41d0-b6d6-1e92ac2cf214",
+			"a1890556-9356-4e0b-9fb8-9a128a52f95c",
+			"c8d26b2a-a8ae-4622-96ac-c2031c0d6eaf",
+			"36a0f9b7-3f4e-4307-81b4-78d0d6f96e3c",
+			"7bd130e2-9750-4f3f-9cdf-3d73963f7d87",
+			"f8c220d9-cac3-4b3c-a639-ae76a895439e",
+			"7a701f5f-8ebc-4ec3-8d90-b5fabc3aba67",
+			"1deb9c0c-87a8-417b-867e-f834c3cb1bae",
+			"d2d9c63f-496a-4710-bc61-b3911df52f0f",
+			"040a1533-7d04-4844-88a6-1e73ed72b441",
+			"2379e28d-3125-488d-a633-83d3e70f24ad",
+			"67779646-0076-44d7-924d-f6587472d9b5",
+			"3c2ca3af-e32d-4a26-99a7-e905891483c5",
+			"be18c3fb-9d13-46b6-9195-11852fe990a4",
+			"9e17f051-8d6d-4742-8891-bef781811675",
+			"cf0af998-19c7-4e62-a3c5-772beba2903c",
+			"cfa3f74c-5f1c-4092-96ca-17f5f213a69e",
+			"ad7f0b46-9edb-447b-a0d2-2f4df113edce",
+			"1ebdadee-408d-427e-9f3a-c4ff3bbac0d5",
+			"8f899910-8c6c-46f0-b7a9-437b4701e728"
+		],
+		"title": "Syllabus Muziek havo",
+		"id": "9c6d718f-c2e1-4c8f-bf2b-0aff2b1b05e5",
+		"unreleased": true,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
+		],
+		"description": "",
+		"prefix": ""
+	},
+	{
+		"syllabus_vakleergebied_id": [
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
+		],
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -6105,7 +6108,7 @@
 			"338dccdf-6eee-4d3a-bbf8-8df8d69f5029",
 			"d43593c2-f31a-492d-a5c9-b03dd321fcf9"
 		],
-		"title": "Syllabus Muziek  vwo",
+		"title": "Syllabus Muziek vwo",
 		"id": "8d1d9291-1cc4-4e47-9812-7c9a5dfa33f3",
 		"unreleased": true
 	}
