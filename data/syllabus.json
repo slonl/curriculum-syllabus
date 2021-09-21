@@ -6057,5 +6057,56 @@
 			"fbbd2952-218e-4aa9-916f-0d301124d18c"
 		],
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"9c7ce10d-f8bb-4726-9387-078466916b43"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9dd6f127-b61e-4c8f-8f02-f5ef7147e1d8",
+			"d713dadc-2091-4594-a9bb-15bcd722e243",
+			"bc16c0a1-637f-4753-8dcb-e0544ca91fa1",
+			"039d2174-26c5-4946-a7ed-bbe1beeba078",
+			"0789fa1a-7d75-4edc-ba6b-1a7bbbe458fa",
+			"ea5ed0b6-18ea-475c-9f23-6e655ebc3c16",
+			"b10a632f-3f98-41fb-917d-f05ce895a353",
+			"804b8e1e-9b76-46af-bcde-168ff09b2c0f",
+			"0b8960b6-10d6-43e0-9801-58ba9164c912",
+			"e1cbd02e-04c1-4d55-912f-5a93b57c9f9c",
+			"269af096-a52c-4ddc-8bf2-2e0fe16cf4a3",
+			"777bebe0-469f-4168-9f06-04a727ed8f5c",
+			"0f6c6536-0d7c-4a11-9a79-5caa9fd2c7f4",
+			"a065ce69-7149-4fb9-b4f5-440ac25cc9d2",
+			"4953e80b-a971-4032-94ae-2b33b880d45d",
+			"fdc3651f-280f-4bd0-bec4-8fd0a9d980d4",
+			"c020610a-6766-4f91-910f-4d7366371703",
+			"71387f31-42cd-4ebe-9a45-dc0251e7c814",
+			"86ca957f-c913-43da-8570-a8e79129b3f5",
+			"a46b6236-2173-4640-912a-5a7ea18593df",
+			"d1acb3a2-211a-42f9-85b1-71f9d820446c",
+			"d1f68af9-8eed-4aa1-9aa5-49f5a9993080",
+			"854ef3b3-f78a-4d32-839c-32e04dd6c3f4",
+			"e7c4f90a-99ef-4c36-9caa-a71253e0680d",
+			"be2a369c-4775-46d4-887e-700ca0b90a08",
+			"d1d75b86-a565-4e0b-a2d7-4a7c1f34c278",
+			"525fbda5-2133-4078-9f7d-b772e728a779",
+			"18cb9c68-76ac-4bce-b41b-ce5c3072a78a",
+			"eb366a39-fa02-4553-ab28-cf1ff0e4b234",
+			"743af1a5-764a-48cb-bbb6-0d33504b3050",
+			"4ff1afb2-44f0-4fab-bfc5-1e86afa6f17a",
+			"89f053ed-2cb9-4c98-9ef4-cc1a403c4ca2",
+			"2f4893d0-2392-458f-a8de-320b4882eea0",
+			"df7bf09f-0249-477e-a3f0-eab056b51565",
+			"025efd96-a34f-4f26-98ff-d95c2dde746c",
+			"de2d287b-a44f-4b23-9fc9-40d7ebfc0d81",
+			"338dccdf-6eee-4d3a-bbf8-8df8d69f5029",
+			"d43593c2-f31a-492d-a5c9-b03dd321fcf9"
+		],
+		"title": "Syllabus Muziek  vwo",
+		"id": "8d1d9291-1cc4-4e47-9812-7c9a5dfa33f3",
+		"unreleased": true
 	}
 ]
