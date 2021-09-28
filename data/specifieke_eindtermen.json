@@ -4897,8 +4897,7 @@
 		"title": "De leerling kan kaarten zoeken en de juiste kaart kiezen door de geografische informatiewaarde en cartografische geschiktheid van de kaart te beoordelen. Bij het beoordelen van de cartografische geschiktheid betrekt de leerling de projectie, schaal en de mate en wijze van generalisatie en symbolisatie.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "Kaarten selecteren",
 		"dirty": "1"
@@ -4909,8 +4908,7 @@
 		"title": "De leerling kan elementen in de kaart identificeren en benoemen, en de kenmerken van de elementen beschrijven. De leerling kan ook de kaarten bevragen: hij kan zoeken welke kenmerken bepaalde elementen bezitten en welke elementen bepaalde kenmerken bezitten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "Kaarten lezen",
 		"dirty": "1"
@@ -4921,8 +4919,7 @@
 		"title": "De leerling kan patronen (spreidingen en geledingen) in de kaart herkennen en beschrijven, en kan correlaties tussen twee patronen herkennen en beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "Kaarten analyseren",
 		"dirty": "1"
@@ -4933,8 +4930,7 @@
 		"title": "De leerling kan verklaringen geven voor de kenmerken en patronen van elementen en de aanwezigheid van correlaties, en kan voorspellingen doen voor veranderingen in de kenmerken en patronen van elementen. Hierbij maakt de leerling gebruik van achtergrondkennis.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "Kaarten interpreteren",
 		"dirty": "1"
@@ -4945,9 +4941,7 @@
 		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
 		"description": "Kaarten maken",
 		"dirty": "1"
 	},
@@ -4957,7 +4951,6 @@
 		"title": "De kandidaat kan verschillende typen Geo-ICT applicaties als informatiebron benutten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "",
@@ -4969,7 +4962,6 @@
 		"title": "De kandidaat kan GPS applicaties gebruiken om geografische gegevens te verzamelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "",
@@ -4981,7 +4973,6 @@
 		"title": "De kandidaat kan eenvoudige GIS software hanteren bij het werken met digitale kaarten",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "",
@@ -4993,7 +4984,6 @@
 		"title": "De kandidaat kan relevante informatie selecteren, analyseren, interpreteren en produceren bij gegeven geografische vragen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "",
@@ -5005,7 +4995,6 @@
 		"title": "De kandidaat kan aangeven waarover geografische vragen gaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6",
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
 		],
 		"description": "",
@@ -5017,7 +5006,6 @@
 		"title": "De kandidaat kan verschijnselen en gebieden vergelijken in ruimte en tijd.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"description": "",
@@ -5029,7 +5017,6 @@
 		"title": "De kandidaat kan relaties leggen binnen een gebied en tussen gebieden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"description": "",
@@ -5041,7 +5028,6 @@
 		"title": "De kandidaat kan verschijnselen en gebieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, cultuur).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"description": "",
@@ -5053,7 +5039,6 @@
 		"title": "De kandidaat kan verschijnselen en gebieden in hun geografische context plaatsen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"description": "",
@@ -5065,7 +5050,6 @@
 		"title": "De kandidaat kan verschijnselen en gebieden op verschillende ruimtelijke schalen beschrijven en analyseren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"examenprogramma_id": [
@@ -5080,7 +5064,6 @@
 		"title": "De kandidaat kan verschijnselen en gebieden beschrijven en analyseren door relaties te leggen tussen het bijzondere en het algemene.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"description": "",
@@ -25982,9 +25965,7 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
 		"prefix": "A1.1a.1e.2",
 		"ce_se": ""
 	},
@@ -25993,9 +25974,7 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor een geschikte klassenindeling.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
 		"prefix": "A1.1a.1e.3",
 		"ce_se": ""
 	},
@@ -26004,9 +25983,7 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
 		"prefix": "A1.1a.1e.4",
 		"ce_se": ""
 	},
@@ -26015,9 +25992,7 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.  ",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
-		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
 		"prefix": "A1.1a.1e.5",
 		"ce_se": ""
 	},
