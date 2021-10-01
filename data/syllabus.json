@@ -314,7 +314,7 @@
 	},
 	{
 		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
-		"title": "Syllabus biologie vwo",
+		"title": "Syllabus Biologie vwo",
 		"syllabus_specifieke_eindterm_id": [
 			"2b50a822-fd44-4496-8f76-f7c75621e54f",
 			"25b9cf29-7367-4b82-825d-a41620e75a8e",
@@ -574,7 +574,7 @@
 	},
 	{
 		"id": "a9f8ab5a-5998-48ba-a901-b273e6615ec3",
-		"title": "Syllabus aardrijkskunde vmbo",
+		"title": "Syllabus Aardrijkskunde vmbo",
 		"syllabus_specifieke_eindterm_id": [
 			"7f403e70-323c-4480-9d7e-e2846621d5b3",
 			"879bda9c-5a3c-444a-8138-187dcdaea563",
@@ -706,7 +706,7 @@
 	},
 	{
 		"id": "5e0288e6-91be-4284-acef-d6ab9ae67228",
-		"title": "Syllabus aardrijkskunde vwo",
+		"title": "Syllabus Aardrijkskunde vwo",
 		"syllabus_specifieke_eindterm_id": [
 			"52d9d87d-9156-413a-a2fe-b6b719287a73",
 			"9bbe66a7-ac89-4a56-a65c-b63225e70ce6",
@@ -798,7 +798,7 @@
 	},
 	{
 		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
-		"title": "Syllabus aardrijkskunde havo",
+		"title": "Syllabus Aardrijkskunde havo",
 		"syllabus_specifieke_eindterm_id": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
 			"9cead215-9642-4f41-9cab-dec0d4a65fec",
@@ -1588,7 +1588,7 @@
 			"cb1cd925-80a1-4f7c-a43c-d32b05007155",
 			"c4c6f762-2593-4d9b-b59f-8f434c6c3dfe"
 		],
-		"title": "Syllabus natuurkunde havo",
+		"title": "Syllabus Natuurkunde havo",
 		"id": "25f8c171-4638-4e90-bd2e-17ff212eef7f",
 		"unreleased": true,
 		"niveau_id": [
@@ -1759,7 +1759,7 @@
 			"fcda7c6a-040c-4e63-8d3a-b56fecaaa67a",
 			"18c65ad8-043d-49cc-8166-11548455815a"
 		],
-		"title": "Syllabus natuurkunde vwo",
+		"title": "Syllabus Natuurkunde vwo",
 		"id": "6ccfdeda-55dc-49f1-b3b9-6892a8702337",
 		"unreleased": true,
 		"niveau_id": [
@@ -2236,7 +2236,7 @@
 		"syllabus_vakbegrip_id": [
 			"be6e367e-4295-4f38-b732-577d15e0114f"
 		],
-		"title": "Syllabus scheikunde havo",
+		"title": "Syllabus Scheikunde havo",
 		"id": "6d43b010-b99e-4118-bfc6-06370c1e6a29",
 		"unreleased": true,
 		"niveau_id": [
@@ -2436,7 +2436,7 @@
 		"syllabus_vakbegrip_id": [
 			"26cd54b0-7128-4d03-ba2d-1c0e5ac37fa0"
 		],
-		"title": "Syllabus scheikunde vwo",
+		"title": "Syllabus Scheikunde vwo",
 		"id": "e8db50bc-c29b-4dae-b0b6-400a337db13d",
 		"unreleased": true,
 		"niveau_id": [
@@ -2734,7 +2734,7 @@
 			"968332da-7991-4497-b9dc-80315c83b908",
 			"8c08487f-e72a-4404-b47c-6801b94ddab8"
 		],
-		"title": "Syllabus wiskunde A havo",
+		"title": "Syllabus Wiskunde A havo",
 		"id": "f73debf4-e1fe-4366-a92a-18a69855400c",
 		"unreleased": true,
 		"niveau_id": [
@@ -2824,7 +2824,7 @@
 			"84b9791e-1f45-4c8b-9fd9-d87a7e3f944e",
 			"edaa9742-7acb-4eb1-80d0-d0d3fcfaff1c"
 		],
-		"title": "Syllabus wiskunde A vwo",
+		"title": "Syllabus Wiskunde A vwo",
 		"id": "43cdc2cb-a388-4fee-bfc0-9c5a8ac839f1",
 		"unreleased": true,
 		"niveau_id": [
@@ -2951,7 +2951,7 @@
 			"a280dfc8-20e3-4b59-a926-79a50351d87d",
 			"357f6a42-834f-47fe-953a-ffd6c316d489"
 		],
-		"title": "Syllabus wiskunde B havo",
+		"title": "Syllabus Wiskunde B havo",
 		"id": "c7a25b87-c755-41f2-9be4-0e5856049e81",
 		"unreleased": true,
 		"niveau_id": [
@@ -3154,7 +3154,7 @@
 			"7c9fc8a7-c358-4ccb-b16f-86948afb429a",
 			"eb2ccc71-dda1-47a9-b779-df63cc640aac"
 		],
-		"title": "Syllabus biologie havo",
+		"title": "Syllabus Biologie havo",
 		"id": "30414e4c-d41a-4afb-a66d-44244f33de78",
 		"unreleased": true,
 		"niveau_id": [
@@ -3333,7 +3333,7 @@
 			"5e3cbcbd-a824-4d38-b146-67fd37d5d85e",
 			"3a12e1be-079f-4663-8d29-e83b5d05b7f6"
 		],
-		"title": "Syllabus wiskunde B vwo",
+		"title": "Syllabus Wiskunde B vwo",
 		"id": "3398fa1c-0689-4412-9871-37e2fc6dd70e",
 		"unreleased": true,
 		"niveau_id": [
@@ -3446,7 +3446,7 @@
 			"75639f1f-1ac5-4821-9c4a-7f3078a2bc2d",
 			"8ec7dbda-ec7e-4b81-93d6-7b726949f747"
 		],
-		"title": "Syllabus wiskunde C vwo",
+		"title": "Syllabus Wiskunde C vwo",
 		"id": "195c38bb-fd1c-45bc-a96e-9113db377f42",
 		"unreleased": true,
 		"prefix": "",
@@ -3755,7 +3755,7 @@
 			"9a1f631c-2c55-4b1c-bcbf-d4be88ed4a66",
 			"c56865ba-ffdb-4c23-bd75-3667d52f52ae"
 		],
-		"title": "Syllabus biologie vmbo",
+		"title": "Syllabus Biologie vmbo",
 		"id": "cc683faf-c778-4b36-8213-75782478375c",
 		"unreleased": true,
 		"niveau_id": [
@@ -3997,7 +3997,7 @@
 			"bd5bcd41-4d36-4c1e-955a-9855f5ec8231",
 			"609c2e54-f2b9-4f9c-93e0-55819bfa9503"
 		],
-		"title": "Syllabus wiskunde vmbo",
+		"title": "Syllabus Wiskunde vmbo",
 		"id": "61c66644-fb98-4d89-9e6f-1e0214010801",
 		"unreleased": true
 	},
@@ -4006,7 +4006,7 @@
 			"8bb2b0ce-ec62-4d1e-9f84-5c86eeba3ee1",
 			"f7f3819c-68ce-496f-9e37-86d714011c51"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch vwo",
+		"title": "Syllabus Moderne vreemde talen Arabisch vwo",
 		"id": "c642c322-2934-4453-b69b-f7aa4b5447dc",
 		"unreleased": true,
 		"prefix": "",
@@ -4665,7 +4665,7 @@
 			"32a2088b-103f-4e05-9b8c-c683b09bfc5e",
 			"2a7afc16-6ace-4eef-8330-46b8b082320f"
 		],
-		"title": "Syllabus geschiedenis havo",
+		"title": "Syllabus Geschiedenis havo",
 		"id": "6b8d8910-fca8-48ab-84b1-4b59ef470105",
 		"unreleased": true,
 		"niveau_id": [
@@ -4707,7 +4707,7 @@
 			"b55adce8-a6bd-42e9-9a50-072c777826fe",
 			"d60ea108-18f3-4acd-b1ec-f8bddf1db09f"
 		],
-		"title": "Syllabus geschiedenis vwo",
+		"title": "Syllabus Geschiedenis vwo",
 		"id": "8a2647ad-b7ec-4f42-a73c-559c2ae5b64b",
 		"unreleased": true,
 		"niveau_id": [
@@ -4762,7 +4762,7 @@
 			"9aa05d8b-8a68-4454-999b-523331238436",
 			"f640bcc9-3d57-4a15-98ba-4a9069fa56b1"
 		],
-		"title": "Syllabus  Maatschappijkunde vmbo bb",
+		"title": "Syllabus Maatschappijkunde vmbo bb",
 		"id": "80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
 		"unreleased": true,
 		"prefix": "",
@@ -4934,7 +4934,7 @@
 		"syllabus_toelichting_id": [
 			"4e7cf992-56f8-4248-88c6-48beee5bba01"
 		],
-		"title": "Syllabus  Maatschappijkunde vmbo kb",
+		"title": "Syllabus Maatschappijkunde vmbo kb",
 		"id": "0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
 		"unreleased": true,
 		"url": "",
@@ -5020,7 +5020,7 @@
 		"syllabus_toelichting_id": [
 			"637b614f-3560-463b-908e-d47c8a9d3f82"
 		],
-		"title": "Syllabus  Maatschappijkunde vmbo gt",
+		"title": "Syllabus Maatschappijkunde vmbo gt",
 		"id": "021a91b1-2d3d-410f-a138-34eef9798f1d",
 		"unreleased": true,
 		"url": "",
@@ -5040,7 +5040,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"554f1f54-66fe-4be3-84a8-b0d521d1bfa6"
 		],
-		"title": "Syllabus moderne vreemde talen Duits vwo",
+		"title": "Syllabus Moderne vreemde talen Duits vwo",
 		"id": "1da5d8c6-a9b2-4ac4-b12e-537a75face84",
 		"unreleased": true,
 		"niveau_id": [
@@ -5057,7 +5057,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
 		],
-		"title": "Syllabus moderne vreemde talen Engels vwo",
+		"title": "Syllabus Moderne vreemde talen Engels vwo",
 		"id": "6a9a7f83-06c9-4ba8-a181-00db933d13ba",
 		"unreleased": true,
 		"niveau_id": [
@@ -5074,7 +5074,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"14d1449c-4ca6-4cf4-ab38-fe5d2d2440bf"
 		],
-		"title": "Syllabus moderne vreemde talen Frans vwo",
+		"title": "Syllabus Moderne vreemde talen Frans vwo",
 		"id": "880e66c6-5787-4d65-b73b-5f58e77e254e",
 		"unreleased": true,
 		"niveau_id": [
@@ -5091,7 +5091,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"d37b8bd4-bc58-45a2-a02a-4f0654b8a88e"
 		],
-		"title": "Syllabus moderne vreemde talen Spaans vwo",
+		"title": "Syllabus Moderne vreemde talen Spaans vwo",
 		"id": "734e8982-36ba-4a79-9dbb-0a1588563b28",
 		"unreleased": true,
 		"niveau_id": [
@@ -5108,7 +5108,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"f9fa0130-625f-4cae-a1f8-03aebb06135d"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch vwo",
+		"title": "Syllabus Moderne vreemde talen Arabisch vwo",
 		"id": "e6ade6cc-4fe9-48aa-8b9e-7363cdf1dc2f",
 		"unreleased": true,
 		"niveau_id": [
@@ -5125,7 +5125,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"1bb3303d-6d3b-4440-b12f-ede531934f3d"
 		],
-		"title": "Syllabus moderne vreemde talen Turks vwo",
+		"title": "Syllabus Moderne vreemde talen Turks vwo",
 		"id": "05906842-43c4-40c5-b9f3-547bea74c2cb",
 		"unreleased": true,
 		"niveau_id": [
@@ -5142,7 +5142,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"6ae12bd8-d260-49ba-85e4-7e4028b4fdee"
 		],
-		"title": "Syllabus moderne vreemde talen Russisch vwo",
+		"title": "Syllabus Moderne vreemde talen Russisch vwo",
 		"id": "301caa22-0134-432c-90b4-dc668210850b",
 		"unreleased": true,
 		"niveau_id": [
@@ -5159,7 +5159,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"76e80e63-0eb9-4fff-a173-464cb939136f"
 		],
-		"title": "Syllabus moderne vreemde talen Italiaans vwo",
+		"title": "Syllabus Moderne vreemde talen Italiaans vwo",
 		"id": "f5b4dd1d-83c5-41d8-8db1-ea430131bb1b",
 		"unreleased": true,
 		"niveau_id": [
@@ -5176,7 +5176,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"10a32aa3-8e27-492b-bf11-c577cd7f4eba"
 		],
-		"title": "Syllabus moderne vreemde talen Chinees vwo",
+		"title": "Syllabus Moderne vreemde talen Chinees vwo",
 		"id": "d9f10a63-7e5c-4475-a4d6-3764bc22134f",
 		"unreleased": true,
 		"niveau_id": [
@@ -5193,7 +5193,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"8247eee6-9f08-42aa-9f46-e26354ae11e3"
 		],
-		"title": "Syllabus moderne vreemde talen Duits havo",
+		"title": "Syllabus Moderne vreemde talen Duits havo",
 		"id": "44fdf9e4-ce6f-433f-be4b-60243048a003",
 		"unreleased": true,
 		"niveau_id": [
@@ -5210,7 +5210,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"b4c3037a-c88d-41ad-bfd0-24e89fc57b8a"
 		],
-		"title": "Syllabus moderne vreemde talen Engels havo",
+		"title": "Syllabus Moderne vreemde talen Engels havo",
 		"id": "57e56d65-93ea-429d-97d8-85937ae88533",
 		"unreleased": true,
 		"niveau_id": [
@@ -5227,7 +5227,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"7e88a3b0-a0aa-4422-baed-544f8c57b3ab"
 		],
-		"title": "Syllabus moderne vreemde talen Frans havo",
+		"title": "Syllabus Moderne vreemde talen Frans havo",
 		"id": "8c5ccfca-d957-4da4-8678-8e4d57901ac2",
 		"unreleased": true,
 		"niveau_id": [
@@ -5244,7 +5244,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
 		],
-		"title": "Syllabus moderne vreemde talen Spaans havo",
+		"title": "Syllabus Moderne vreemde talen Spaans havo",
 		"id": "6b3ec012-afd2-49ca-90aa-b4d042df84bb",
 		"unreleased": true,
 		"niveau_id": [
@@ -5261,7 +5261,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"e0ff8e2b-3929-4ba5-a826-999a39480223"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch havo",
+		"title": "Syllabus Moderne vreemde talen Arabisch havo",
 		"id": "dc992c11-c07b-4dce-ad68-bac92bb07312",
 		"unreleased": true,
 		"niveau_id": [
@@ -5278,7 +5278,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"e27633b0-cc68-440a-a2d7-be2bd68170ca"
 		],
-		"title": "Syllabus moderne vreemde talen Turks havo",
+		"title": "Syllabus Moderne vreemde talen Turks havo",
 		"id": "82924484-e04e-42db-85b0-981d349ccddc",
 		"unreleased": true,
 		"niveau_id": [
@@ -5295,7 +5295,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"614374e4-1f27-4a89-b97d-46b1f5a43c42"
 		],
-		"title": "Syllabus moderne vreemde talen Russisch havo",
+		"title": "Syllabus Moderne vreemde talen Russisch havo",
 		"id": "c5741e3e-8cf3-412f-8e05-e7b6f65657e2",
 		"unreleased": true,
 		"niveau_id": [
@@ -5312,7 +5312,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"705d4e28-cc7d-4dad-8a85-5300eae43dd8"
 		],
-		"title": "Syllabus moderne vreemde talen Italiaans havo",
+		"title": "Syllabus Moderne vreemde talen Italiaans havo",
 		"id": "1a041ffa-b1d1-4eab-8491-20f376065663",
 		"unreleased": true,
 		"niveau_id": [
@@ -5329,7 +5329,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"76a8a1f3-3eef-4f4c-8bd7-b03af951998a"
 		],
-		"title": "Syllabus moderne vreemde talen Duits vmbo kb, gl, tl",
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb, gl, tl",
 		"id": "3fa880dc-0c86-41ee-b565-d2e84ce60b20",
 		"unreleased": true,
 		"niveau_id": [
@@ -5348,7 +5348,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"cc245204-a37d-46ff-9077-2a537d06ee92"
 		],
-		"title": "Syllabus moderne vreemde talen Duits vmbo bb",
+		"title": "Syllabus Moderne vreemde talen Duits vmbo bb",
 		"id": "443ac44f-a099-40b1-ad73-ed48a73fa92a",
 		"unreleased": true,
 		"url": "",
@@ -5368,7 +5368,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"178b721c-a59c-4be0-b8d5-2b60ec264ff6"
 		],
-		"title": "Syllabus moderne vreemde talen Engels vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
 		"id": "2408d18a-2a9b-45f2-826c-3439cac2dcae",
 		"unreleased": true,
 		"niveau_id": [
@@ -5383,7 +5383,7 @@
 		"examenprogramma_id": [
 			"51b44493-004b-4b9a-aa90-a83d6155561f"
 		],
-		"title": "Syllabus moderne vreemde talen Engels vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
 		"id": "0b211c91-1b51-4993-9a12-8e0fc2de69fd",
 		"unreleased": true,
 		"url": "",
@@ -5401,7 +5401,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"44366fb6-8c88-4f3f-bcb1-f077c2d43d29"
 		],
-		"title": "Syllabus moderne vreemde talen Frans vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Frans vmbo gl, tl",
 		"id": "7e6df60b-8050-41fd-9a43-e85bd2c884cf",
 		"unreleased": true,
 		"niveau_id": [
@@ -5419,7 +5419,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"9f41f58f-a239-487f-b156-20882543bc65"
 		],
-		"title": "Syllabus moderne vreemde talen Frans vmbo kb",
+		"title": "Syllabus Moderne vreemde talen Frans vmbo kb",
 		"id": "d156f8dc-a306-4fa3-bd8e-d561c7dbd421",
 		"unreleased": true,
 		"niveau_id": [
@@ -5436,7 +5436,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"8fa65a07-3c84-4ed1-a1f7-ef06707bda6f"
 		],
-		"title": "Syllabus moderne vreemde talen Frans vmbo bb",
+		"title": "Syllabus Moderne vreemde talen Frans vmbo bb",
 		"id": "159ce633-bf0a-46a0-b604-9a88c17f75c8",
 		"unreleased": true,
 		"niveau_id": [
@@ -5453,7 +5453,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"e13ad375-d051-4650-9636-7f0e33dd2cc7"
 		],
-		"title": "Syllabus moderne vreemde talen Spaans vmbo kb",
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb",
 		"id": "3263f2b0-db5f-4af3-9625-54c8edb96ccd",
 		"unreleased": true,
 		"niveau_id": [
@@ -5470,7 +5470,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"801fe2fa-5924-4c37-890a-40890b29803b"
 		],
-		"title": "Syllabus moderne vreemde talen Spaans vmbo bb",
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb",
 		"id": "a34cd4fd-5c15-42be-b129-fbdb080b51e1",
 		"unreleased": true,
 		"niveau_id": [
@@ -5487,7 +5487,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"bdc16c21-3a24-4832-b483-8aa9b87f7647"
 		],
-		"title": "Syllabus moderne vreemde talen Spaans vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl, tl",
 		"id": "3ccb4772-f5e1-4a7c-befd-22f10725ba0e",
 		"unreleased": true,
 		"niveau_id": [
@@ -5505,7 +5505,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"528633df-314f-462a-a7be-05c6c01b9e0c"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch vmbo kb",
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo kb",
 		"id": "4d2ed70b-b6c3-4766-ac0b-6e9b2171376d",
 		"unreleased": true,
 		"niveau_id": [
@@ -5522,7 +5522,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"1e8a344e-d18e-4f65-bac2-83369176c71b"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch vmbo bb",
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo bb",
 		"id": "f296755e-f3d9-4733-9e88-1502e4a23743",
 		"unreleased": true,
 		"niveau_id": [
@@ -5539,7 +5539,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"3af63a60-c1f5-4e83-aa4a-40d6d9f1deb9"
 		],
-		"title": "Syllabus moderne vreemde talen Arabisch vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo gl, tl",
 		"id": "5afb59c2-9178-408a-ad8a-fe7eee2fe903",
 		"unreleased": true,
 		"niveau_id": [
@@ -5557,7 +5557,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"beeaf540-2626-41aa-b7ad-697130a64fc3"
 		],
-		"title": "Syllabus moderne vreemde talen Turks vmbo gl, tl",
+		"title": "Syllabus Moderne vreemde talen Turks vmbo gl, tl",
 		"id": "0bde3c8b-79a1-46d1-b979-4be69cd189f9",
 		"unreleased": true,
 		"niveau_id": [
@@ -5575,7 +5575,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"14cb9fe0-a013-4d18-b0a5-8900a0908b48"
 		],
-		"title": "Syllabus moderne vreemde talen Turks vmbo bb",
+		"title": "Syllabus Moderne vreemde talen Turks vmbo bb",
 		"id": "b3b5f41e-f70d-46e5-b359-55421fa1df28",
 		"unreleased": true,
 		"niveau_id": [
@@ -5592,7 +5592,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"b94ae9bb-7c8c-433a-822e-24c066439849"
 		],
-		"title": "Syllabus moderne vreemde talen Turks vmbo kb",
+		"title": "Syllabus Moderne vreemde talen Turks vmbo kb",
 		"id": "5d51560f-8269-4af6-83bb-4858235240bf",
 		"unreleased": true,
 		"niveau_id": [
@@ -5613,7 +5613,7 @@
 		"syllabus_specifieke_eindterm_id": [
 			"886a3e7c-33ff-403b-9f79-1cc815a34b79"
 		],
-		"title": "Syllabus moderne vreemde talen Engels vmbo bb, kb",
+		"title": "Syllabus Moderne vreemde talen Engels vmbo bb, kb",
 		"id": "e59047dc-0b54-4224-bcb2-09e6382602de",
 		"unreleased": true,
 		"syllabus_vakleergebied_id": [
