@@ -121,19 +121,19 @@
 					]
 				},
 				"syllabus_specifieke_eindterm_id": {
-					"allOf": [
+					"anyOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_specifieke_eindterm" } }
 					]
 				},
 				"syllabus_toelichting_id": {
-					"allOf": [
+					"anyOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_toelichting" } }
 					]
 				},
 				"syllabus_vakbegrip_id": {
-					"allOf": [
+					"anyOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
 					]
