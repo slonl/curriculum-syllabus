@@ -4941,7 +4941,8 @@
 		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
 		"description": "Kaarten maken",
 		"dirty": "1"
 	},
@@ -25965,7 +25966,8 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
 		"prefix": "A1.1a.1e.2",
 		"ce_se": ""
 	},
@@ -25974,7 +25976,8 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor een geschikte klassenindeling.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
 		"prefix": "A1.1a.1e.3",
 		"ce_se": ""
 	},
@@ -25983,7 +25986,8 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd.",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
 		"prefix": "A1.1a.1e.4",
 		"ce_se": ""
 	},
@@ -25992,7 +25996,8 @@
 		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.  ",
 		"description": "Kaarten maken",
 		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046"		],
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
 		"prefix": "A1.1a.1e.5",
 		"ce_se": ""
 	},
@@ -43256,6 +43261,1206 @@
 		],
 		"title": "Jazzlijn - nu-jazz (eind jaren 90) bijv. electrojazz, jazztronica, future jazz en electronic jazz",
 		"id": "d43593c2-f31a-492d-a5c9-b03dd321fcf9",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinA/1",
+		"examenprogramma_domein_id": [
+			"7032b1de-5150-4f8f-bc66-228601b15ce0"
+		],
+		"syllabus_toelichting_id": [
+			"b487959d-8f54-4d6e-9f39-d01c7336d04b"
+		],
+		"title": "De kandidaten kunnen met betrekking tot een fiolofisch probleem relevante informatie herkennen, selecteren, structureren en interpreteren (begrijpen).",
+		"id": "1d2c3ff2-9260-4d8a-96f1-60f39b6f81b4",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinA/2",
+		"examenprogramma_domein_id": [
+			"7032b1de-5150-4f8f-bc66-228601b15ce0"
+		],
+		"syllabus_toelichting_id": [
+			"04ec92ba-fd97-4840-b51a-73c0867054c3"
+		],
+		"title": "De kandidaten kunnen een filosofische gedachtegang analyseren op logische consistentie, filosofische concepten en vooronderstellingen (analyseren);",
+		"id": "121c745e-1fd0-481a-b1b3-fdbc45c72604",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinA/3",
+		"examenprogramma_domein_id": [
+			"7032b1de-5150-4f8f-bc66-228601b15ce0"
+		],
+		"syllabus_toelichting_id": [
+			"5a6c765f-e996-4310-95c4-6705d69982fe"
+		],
+		"title": "De kandidaten kunnen een logisch correcte en overtuigende filosofische argumentatie opzetten en verschillende filosofische posities ten aanzien van een vraagstuk beargumenteerd innemen (creëren);",
+		"id": "a9509157-af90-4bc3-bb2b-4f4962c52c3b",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinA/4",
+		"examenprogramma_domein_id": [
+			"7032b1de-5150-4f8f-bc66-228601b15ce0"
+		],
+		"syllabus_toelichting_id": [
+			"c3854226-3425-48f8-982e-b492ae6c3e3d"
+		],
+		"title": "De kandidaten kunnen een filosofische gedachtegang/argumentatie beoordelen op consistentie, concepten en vooronderstellingen, de implicaties van een filosofische positie uitwerken en als kritiek of verdediging van de positie gebruiken (kritiseren).",
+		"id": "83c811ba-f06f-49bc-8b7b-1483f6008444",
+		"unreleased": true
+	},
+	{
+		"description": "Algemene eindterm bij Primaire tekst Robert A. Dahl -",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/1",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen het vraagstuk van democratie benaderen vanuit de kernwaarden vrijheid en gelijkheid en de spanning tussen beide. Daarbij kunnen zij deze kernwaarden uitleggen, vergelijken, evalueren en toepassen op kwesties van politieke expertise, menselijke bloei, de anarchistische uitdaging, culturele diversiteit, vrijheidsrechten en burgerschapsvorming.",
+		"id": "4a148f8a-9655-427c-bff2-e7e95be1ba38",
+		"unreleased": true
+	},
+	{
+		"description": "Algemene eindterm bij Primaire tekst Robert A. Dahl -",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/2a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van ‘democratie’, ‘vrijheid’ en ‘gelijkheid’. Daartoe kunnen zij verschillende definities opstellen.",
+		"id": "51d2e3f9-392a-4add-8be5-eec1641723ae",
+		"unreleased": true
+	},
+	{
+		"description": "Algemene eindterm bij Primaire tekst Robert A. Dahl -",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/2b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van ‘democratie’, ‘vrijheid’ en ‘gelijkheid’. Daartoe kunnen zij  vooronderstellingen bij deze definities aangeven.",
+		"id": "0026b76f-ecad-4a37-8454-501af04cfd55",
+		"unreleased": true
+	},
+	{
+		"description": "Algemene eindterm bij Primaire tekst Robert A. Dahl -",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/2c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van ‘democratie’, ‘vrijheid’ en ‘gelijkheid’. Daartoe kunnen zij  implicaties van deze definities weergeven.",
+		"id": "fceb92b1-bf3a-4cbb-9a70-5a27fa20aae1",
+		"unreleased": true
+	},
+	{
+		"description": "Algemene eindterm bij Primaire tekst Robert A. Dahl -",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/3",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen verschillende opvattingen over democratie in relatie tot vrijheid, gelijkheid, politieke expertise, menselijke bloei, de anarchistische uitdaging, culturele diversiteit, vrijheidsrechten en burgerschapsvorming herkennen, uitleggen, vergelijken, toepassen en evalueren aan de hand van voorbeelden of casussen.",
+		"id": "ba8ffc1b-e0c0-448a-81d2-6cb14dded41d",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: politieke gelijkheid verstandiger is dan een regering door politieke experts.",
+		"id": "ed1026da-5aef-426a-9681-a31b87688532",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: democratie ervoor zorgt dat mensen zich goed kunnen ontwikkelen.",
+		"id": "4c1b258f-6a98-4888-a3f6-1016487ef0ba",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: democratie leidt tot persoonlijke vrijheid en zelfbepaling.",
+		"id": "1b753b21-d9b3-4877-b710-f76d975e7a47",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: een succesvolle democratie weinig culturele diversiteit toelaat.",
+		"id": "19971464-60ef-4093-b5d3-ea0d27f8068d",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4e",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: vrijheid van meningsuiting een voorwaarde voor democratie is.",
+		"id": "b10e30d8-df3d-4dba-8b68-58072cfc9aab",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/4f",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Dahl: democratie een cultuur vereist waarin democratische waarden en overtuigingen belangrijk worden gevonden.",
+		"id": "1b6b6321-9ff1-4345-9731-ecafbbd802b7",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm inleiding en primaire tekst 1: Dahl",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/5",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Dahls argumentatie weergeven en evalueren dat democratie volgens hem wenselijker is dan elke andere staatsvorm.",
+		"id": "2057a188-1c3f-4fb1-a269-4ae88c1adb1f",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/6a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Plato, Dahl, Mill en Schumpeter over wie mee mag doen in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken de onderliggende mensbeelden bij die opvattingen.",
+		"id": "1eaec2f8-e49c-4095-a9af-5df99dbdd5a2",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/6b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Plato, Dahl, Mill en Schumpeter over wie mee mag doen in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken de begrippen ‘stemrecht’, ‘directe en representatieve democratie’, ‘rationaliteit’ en ‘politieke expertise.",
+		"id": "9d0d4795-f83b-43cb-8fd1-45b92baf18e7",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/7a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Plato koning-filosofen de ideale heersers zijn. Daarbij kunnen zij betrekken het verband tussen Plato’s mensbeeld en zijn maatschappijvisie.",
+		"id": "490cc27a-a2e9-4f4c-b525-85cc90e77c48",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/7b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Plato filosoof-koningfilosofen de ideale heersers zijn. Daarbij kunnen zij betrekken Plato’s idee dat politieke macht samenvalt met filosofische wijsheid.",
+		"id": "cb2e19e1-5089-4701-b0b1-6d1800fc1319",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/7c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Plato filosoof-koningfilosofen de ideale heersers zijn. Daarbij kunnen zij betrekken de maatregelen waarmee Plato ervoor wil zorgen dat filosoof-koning-filosofen niet gecorrumpeerd raken.",
+		"id": "e3cee670-3ed5-45f6-9340-cacf3382c120",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/8a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de regering volgens Dahl niet uit experts kan bestaan. Daarbij kunnen zij betrekken Dahls opvatting dat er geen wetenschap van het regeren bestaat.",
+		"id": "4a1d494a-3c21-41f4-9c6d-af70444e18a6",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/8b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de regering volgens Dahl niet uit experts kan bestaan. Daarbij kunnen zij betrekken Dahls analyse van Plato’s opvatting, dat het gewone mensen ontbreekt aan drie deugden die koning-filosofen wel zouden hebben.",
+		"id": "9ee5d019-7b4b-4402-b4ff-f4e1f86ef49f",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/8c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de regering volgens Dahl niet uit experts kan bestaan. Daarbij kunnen zij betrekken Dahls kritiek op Plato’s opvatting.",
+		"id": "405e295e-0bb0-43c4-a416-79c8e0f741fc",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/8d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de regering volgens Dahl niet uit experts kan bestaan. Daarbij kunnen zij betrekken Dahls opvatting dat technologische expertise nooit voldoende basis is voor politieke beslissingen.",
+		"id": "fffebd4b-1ac3-4f3a-b7bd-c18a128a31b9",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/9a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills opvatting uitleggen en evalueren dat de democratie een meer rationele staatsvorm is dan een regering van politieke experts. Daarbij kunnen zij betrekken Mills kritiek op een regering van politieke experts.",
+		"id": "de87afdc-c5c7-4187-957d-09f157eef75d",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/9b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills opvatting uitleggen en evalueren dat de democratie een meer rationele staatsvorm is dan een regering van politieke experts. Daarbij kunnen zij betrekken Mills opvatting dat de kwaliteit van beslissingen groter is wanneer daar meer burgers bij betrokken zijn.",
+		"id": "4c1dea0a-0709-4ed4-9ce4-39b02802f370",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/9c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills opvatting uitleggen en evalueren dat de democratie een meer rationele staatsvorm is dan een regering van politieke experts. Daarbij kunnen zij betrekken Mills opvatting dat de rationaliteit van beslissingen toeneemt door vrijheid van meningsuiting.",
+		"id": "8f074b07-9c5c-4e39-a639-d9cd97beb8f5",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/9d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills opvatting uitleggen en evalueren dat de democratie een meer rationele staatsvorm is dan een regering van politieke experts. Daarbij kunnen zij betrekken Mills opvatting over ongelijk stemrecht (gebruik hierbij ook Mills opvatting over stemrecht in kwestie 2)",
+		"id": "f6c9f134-8580-4b83-aea6-35e013b34aea",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 1",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/10",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Schumpeters opvatting uitleggen en evalueren dat de politieke elite ongestoord haar werk moet kunnen doen, tenzij zij slecht functioneert. Daarbij kunnen zij Schumpeters opvatting betrekken dat democratische participatie van gewone burgers niet veel oplevert doordat de rationaliteit van mensen in hun rol als burger afneemt ten opzichte van hun alledaagse rationaliteit, en wel door groepsdruk, invloed van het onderbewuste, afstand tot politieke besluiten en een tekort aan persoonlijke invloed daarop",
+		"id": "5ef86e25-454a-41ed-9122-7680fa4dfb90",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm Primaire tekst 2: Mill",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/11a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills argumentatie weergeven en evalueren dat representatieve democratie de beste vorm van bestuur is. Daarbij kunnen zij betrekken:  Mills kritiek op de opvatting dat een goede despoot alles zou kunnen overzien, beheersen en besturen (Gebruik bij deze eindterm ook de uitwerking van kwestie 2).",
+		"id": "ecab9de6-4df0-4d50-b23e-288f31c837c7",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm Primaire tekst 2: Mill",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/11b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Mills argumentatie weergeven en evalueren dat representatieve democratie de beste vorm van bestuur is. Daarbij kunnen zij betrekken Mills opvatting dat betrokken burgerschap goed is zowel voor het individu als voor de samenleving als geheel. (Gebruik bij deze eindterm ook de uitwerking van kwestie 2)",
+		"id": "17a3d7c3-0cdc-4202-ad2a-91f7755ac8cf",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/12a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Dahl, Plato, Nietzsche, Rousseau, Mill en De Tocqueville over de vraag of mensen tot bloei komen in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken een begripsanalyse van het begrip ‘menselijke bloei’: verschillende definities, vooronderstellingen bij deze definities en implicaties van deze definities.",
+		"id": "eb85e0cd-3c5f-4e9c-9f1e-087eaf8f9335",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/12b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Dahl, Plato, Nietzsche, Rousseau, Mill en De Tocqueville over de vraag of mensen tot bloei komen in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken de verbanden tussen gehanteerde mensbeelden en opvattingen over tot bloei komen in een democratie.",
+		"id": "5b9a6266-92fb-4d9a-8ead-997b80263ca1",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/13a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat democratie volgens Plato een negatief effect heeft op de samenleving en op het karakter van mensen. Daarbij kunnen zij betrekken Plato’s mensbeeld in relatie tot zijn kritiek op de democratie.",
+		"id": "3a6daf47-8f66-4ea1-8956-0f82cbc6c546",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/13b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat democratie volgens Plato een negatief effect heeft op de samenleving en op het karakter van mensen. Daarbij kunnen zij betrekken de vijf staatsvormen die Plato beschrijft (aristocratie, timocratie, oligarchie, democratie, tirannie).",
+		"id": "019e5fc4-824c-44c3-8970-4603365adcdb",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/13c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat democratie volgens Plato een negatief effect heeft op de samenleving en op het karakter van mensen. Daarbij kunnen zij betrekken Plato’s opvatting dat in elke staatsvorm een ander type mens machthebber is.",
+		"id": "bd3b3f06-f68d-4626-af41-139703ca16b0",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/13d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat democratie volgens Plato een negatief effect heeft op de samenleving en op het karakter van mensen. Daarbij kunnen zij betrekkenPlato’s opvatting dat staatsvormen uit elkaar voortkomen.",
+		"id": "20884437-c13f-4867-a5d3-75e2107c8c8d",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/14a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Nietzsche de democratie opvat als politieke vertaling van de slavenmoraal. Daarbij kunnen zij betrekken Nietzsches beeld van de mens als niet vastgesteld dier en het begrip Übermensch.",
+		"id": "2e63f5f8-3a8f-4ce8-b534-5e0a563b0849",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/14b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Nietzsche de democratie opvat als politieke vertaling van de slavenmoraal. Daarbij kunnen zij betrekken Nietzsches opvatting dat de huidige mens een ziek dier en een kuddedier is en het begrip slavenmoraal.",
+		"id": "0e3e7944-cb39-49e8-bbb9-3d7117800292",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/14c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Nietzsche de democratie opvat als politieke vertaling van de slavenmoraal. Daarbij kunnen zij betrekken Nietzsches opvatting dat democratie mensen verlaagt tot kuddedier.",
+		"id": "7cb9745d-c045-482f-a909-ade61812bfc5",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/15a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de moderne mens volgens Rousseau tot bloei komt door directe of participatieve democratie en niet door representatieve democratie. Daarbij kunnen zij betrekken Rousseaus mensbeeld met het onderscheid tussen zelfliefde en eigenliefde.",
+		"id": "0f7cbc24-703a-41d9-9626-ced627167b1c",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/15b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de moderne mens volgens Rousseau tot bloei komt door directe of participatieve democratie en niet door representatieve democratie. Daarbij kunnen zij betrekken Rousseaus opvatting dat de mens zijn natuurlijke vrijheid is verloren, maar deze kan herwinnen als citoyen die zichzelf de wet stelt en de algemene wil volgt.",
+		"id": "f42f8b30-9a94-4061-8e70-647646bb81b4",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/16a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat betrokkenheid bij het politieke proces volgens Mill creativiteit, betrokkenheid bij de samenleving en algemeen welzijn bevordert. Daarbij kunnen zij betrekken het verband tussen Mills mensbeeld en het ontplooiingsliberalisme.",
+		"id": "07ff6441-ad88-43a3-9bbc-a3afd66c465b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/16b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat betrokkenheid bij het politieke proces volgens Mill creativiteit, betrokkenheid bij de samenleving en algemeen welzijn bevordert. Daarbij kunnen zij betrekken het verband tussen Mills opvatting over representatieve democratie en het utilisme.",
+		"id": "a2d37e0b-626e-4f61-a3c9-91fbd02db172",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/16c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat betrokkenheid bij het politieke proces volgens Mill creativiteit, betrokkenheid bij de samenleving en algemeen welzijn bevordert. Daarbij kunnen zij betrekken Mills pleidooi voor stemrecht voor eenieder – onder voorwaarden – maar tegen gelijk stemrecht.",
+		"id": "3e9c1d96-cb6c-4d81-955c-b25dab960a89",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/16d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat betrokkenheid bij het politieke proces volgens Mill creativiteit, betrokkenheid bij de samenleving en algemeen welzijn bevordert. Daarbij kunnen zij betrekken Mills pleidooi voor een systeem van evenredige vertegenwoordiging en tegen het systeem van het districtenstelsel.",
+		"id": "ef0d1d23-28db-4a3e-a029-218d24075721",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/17a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren welke gevaren democratie volgens De Tocqueville kent. Daarbij kunnen zij betrekken de vijf gevaren van een democratie volgens De Tocqueville: wetgevende en uitvoerende instabiliteit, tirannie van de meerderheid, onvrijheid van denken, individualisme en mild of zachtmoedig despotisme.",
+		"id": "d5c8dbc6-f6d8-4f9c-bc15-1b848bab31dd",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/17b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren welke gevaren democratie volgens De Tocqueville kent. Daarbij kunnen zij betrekken het verband tussen deze vijf gevaren en De Tocquevilles mensbeeld.",
+		"id": "a800070d-7555-416a-b0c9-e29f7cc278cb",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/17c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren welke gevaren democratie volgens De Tocqueville kent. Daarbij kunnen zij betrekken de democratische methoden die volgens De Tocqueville de gevaren van het gelijkheidsideaal kunnen temperen.",
+		"id": "eb8e0021-de8b-4705-ac3c-6052f7edc3ac",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 2",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/17d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren welke gevaren democratie volgens De Tocqueville kent. Daarbij kunnen zij betrekken het belang dat De Tocqueville er aan hecht dat burgers de vaardigheid tot zelfbestuur blijven ontwikkelen, billijk zijn en voelen dat ze van elkaar afhankelijk en voor de samenleving verantwoordelijk zijn.",
+		"id": "3e91e861-5497-4967-8245-81a74dc96b66",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst 3: Plato",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/18",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Plato’s argumentatie weergeven en evalueren dat een democratie ten onder zal gaan en zich tot een dictatuur zal ontwikkelen. Daarbij kunnen zij voorbeelden geven van waar dit volgens Plato toe zal leiden.",
+		"id": "47d649e2-b6ae-4fdf-bf8f-fac2b1481745",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst 4: Nietzche",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/19a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Nietzsches argumentatie weergeven en evalueren dat democratie een uitdrukking van kuddediermoraal is. Daarbij kunnen zij betrekken Nietzsche ‘s opvatting dat democratische en revolutionaire bewegingen elkaar vinden in hun verzet tegen voorrecht, hun wantrouwen tegenover straffende gerechtigheid en in de godsdienst van het medelijden.",
+		"id": "5949722b-1621-48e5-b2c9-471721129ae2",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst 4: Nietzche",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/19b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Nietzsches argumentatie weergeven en evalueren dat democratie een uitdrukking van kuddediermoraal is. Daarbij kunnen zij betrekken Nietzsches remedie voor de mens als dwergdier van gelijke rechten.",
+		"id": "36f7f56e-ec86-4afa-8634-979784828b2f",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/20a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Nozick, Rousseau, Schumpeter en Habermas over de vraag of democratie leidt tot een vrije samenleving zonder overheersing uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken hun opvattingen over wat ‘democratie’ is.",
+		"id": "15f2efb2-81dd-4b5d-81d6-ff8fb6611c09",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/20b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Nozick, Rousseau, Schumpeter en Habermas over de vraag of democratie leidt tot een vrije samenleving zonder overheersing uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken hun posities als antwoorden op de anarchistische uitdaging dat democratie een vorm van dwang, overheersing of tirannie is.",
+		"id": "3bf4289b-9eed-4d5d-875a-99c5ae3db34f",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/21",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat democratie volgens Nozick een vorm van tirannie is. Daarbij kunnen zij de anarchistische uitdaging aan de democratie uitleggen met de begrippen autonomie, gehoorzaamheid, en de verhouding tussen meester en slaaf.",
+		"id": "0348df8b-0fbc-4bc3-a02f-0bd8f255d4e2",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/22a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat directe democratie volgens Rousseau de juiste manier is om vrij en autonoom te zijn in een samenleving. Daarbij kunnen zij betrekken Rousseaus idee van de natuurtoestand en van het sociaal contract.",
+		"id": "6278c80b-ca05-400c-8ba2-6702aae47f5b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/22b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat directe democratie volgens Rousseau de juiste manier is om vrij en autonoom te zijn in een samenleving. Daarbij kunnen zij betrekken de verhouding tussen gelijkheid, vrijheid en de algemene wil bij Rousseau.",
+		"id": "53009770-77bb-4090-a526-38922d5da194",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/22c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat directe democratie volgens Rousseau de juiste manier is om vrij en autonoom te zijn in een samenleving. Daarbij kunnen zij betrekken Rousseaus gebruik van de begrippen unanimiteit en uniformiteit in antwoord op de anarchistische uitdaging.",
+		"id": "53d779af-7f6d-4b84-a238-483a54d9b124",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/23a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Schumpeter democratie opvat als markt. Daarbij kunnen zij betrekken Schumpeters kritiek op de democratische idealen van Mill en Rousseau.",
+		"id": "21bab781-94b3-456f-9647-b3258194500a",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/23b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Schumpeter democratie opvat als markt. Daarbij kunnen zij betrekken de vier voordelen van het model van democratie als markt volgens Schumpeter.",
+		"id": "ea53a1da-ca9e-46b5-9c26-1761a0f49884",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/23c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Schumpeter democratie opvat als markt. Daarbij kunnen zij betrekken de vier voorwaarden die volgens Schumpeter noodzakelijk zijn voor het functioneren van democratie.",
+		"id": "cb525380-5b51-4da9-83f3-bfe8606fdaf1",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/23d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Schumpeter democratie opvat als markt. Daarbij kunnen zij betrekken Schumpeters antwoord op de anarchistische uitdaging.",
+		"id": "270fee8a-de91-4a94-b5fd-12a471eef608",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/24a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen het deliberatieve model van democratie uitleggen en evalueren en dit model vergelijken met de visies van Rousseau, Nozick en Schumpeter. Daarbij kunnen zij betrekken de begrippen ‘algemeen belang’, ‘legitimiteit’, ‘markt’, ‘consensus’, ‘autonomie’, ‘debat’ en ‘minderheden’.",
+		"id": "95335c66-d76a-4c05-be6f-7e9ce8e870ed",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/24b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen het deliberatieve model van democratie uitleggen en evalueren en dit model vergelijken met de visies van Rousseau, Nozick en Schumpeter. Daarbij kunnen zij betrekken de drie nadelen van het stemmen in een democratie die het deliberatieve model constateert.",
+		"id": "6b2edb44-c096-47c9-9418-3aa7ec2ce318",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/24c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen het deliberatieve model van democratie uitleggen en evalueren en dit model vergelijken met de visies van Rousseau, Nozick en Schumpeter. Daarbij kunnen zij betrekken de vier voordelen die het deliberatieve model volgens haar voorstanders zou bieden bij het organiseren van instemming.",
+		"id": "1ca9b131-6526-4d1b-a055-29fa2b9d2074",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm kwestie 3",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/24d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen het deliberatieve model van democratie uitleggen en evalueren en dit model vergelijken met de visies van Rousseau, Nozick en Schumpeter. Daarbij kunnen zij betrekken het antwoord van het deliberatieve model op de anarchistische uitdaging.",
+		"id": "4fa9a829-d75d-47b6-bbef-0562473d8e77",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst 5: Nozick",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/25",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Nozicks Tale of the slave uitleggen en evalueren. Daarbij kunnen zij een beargumenteerd standpunt innemen over de vraag, bij welke overgang van situatie 1 tot situatie 9 het niet meer het verhaal van een slaaf is.",
+		"id": "37b7458e-caa7-411c-8e37-8635e5bd85db",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/26a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Cliteur, Rawls, en Sandel over de mogelijkheid van een multiculturele democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken de verschillende uitdagingen die culturele diversiteit volgens deze auteurs aan een democratie stelt.",
+		"id": "3e3a76f1-0a8c-462f-9184-4dd665f1124b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/26b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Cliteur, Rawls, en Sandel over de mogelijkheid van een multiculturele democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken de begrippen vrijheid, gelijkheid, eenheid, verscheidenheid, diversiteit, identiteit, pluralisme, (sub)cultuur, neutraliteit en lekenstaat.",
+		"id": "790f8f21-0ecd-41ed-a333-e33da71bea03",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/27a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Cliteurs opvatting over de lekenstaat als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken Cliteurs antwoorden op de vraag of de lekenstaat wel of niet neutraal is.",
+		"id": "c2be675f-2e35-4ccb-a0d8-e1a47c703a51",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/27b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Cliteurs opvatting over de lekenstaat als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken het model van de lekenstaat als tegenovergesteld aan het multiculturele model.",
+		"id": "cb164c90-5620-4aea-894a-9c1e41cc5dd4",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/27c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Cliteurs opvatting over de lekenstaat als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken de drie manieren waarop de lekenstaat volgens Cliteur de spanning tussen vrijheid en gelijkheid oplost.",
+		"id": "fbb076b7-0954-4567-bc86-a48e56aa2ec2",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/27d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Cliteurs opvatting over de lekenstaat als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken Cliteurs verdediging tegen drie bezwaren bij de lekenstaat.",
+		"id": "647ecf7e-420a-499d-8078-2aa34b713b9b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken de opvatting van Rawls dat de spanning tussen vrijheid en gelijkheid niet door ethische autonomie kan worden opgelost, maar wel door politieke autonomie.",
+		"id": "75e3ba82-51df-48b1-a535-2a81b2734ebe",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken de betekenis voor Rawls van het ‘feit van redelijk pluralisme’.",
+		"id": "9cd9011e-3e82-46bf-b652-539ad176fc4d",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken de opvatting van Rawls dat politieke autonomie een mogelijkheidsvoorwaarde is voor overlappende consensus.",
+		"id": "1c34ddd9-d35b-447d-9627-574f5b91469f",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken het verschil tussen modus vivendi (een manier van leven) en overlappende consensus.",
+		"id": "050a99d2-169d-46c6-8f7f-bef3a965b5e1",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28e",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken het belang dat Rawls hecht aan het onderscheid tussen de basisstructuur van de samenleving en de vrijwillige verbanden die burgers aangaan.",
+		"id": "33d6ce0b-bbed-4e37-82bb-5fbda5ea0bd8",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/28f",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Rawls’ opvatting over politieke autonomie als oplossing voor de uitdaging van culturele diversiteit uitleggen en evalueren. Daarbij kunnen zij betrekken de opvatting van Rawls dat, om instemming van iedere burger mogelijk te maken, in het publieke domein elke opvatting vertaald moet kunnen worden in publieke redenen.",
+		"id": "7d77cedb-d17c-496b-a0f7-d06088bf83cf",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/29a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Sandels kritiek op de neutraliteit in een democratie uitleggen en evalueren. Daarbij kunnen zij betrekken Sandels kritiek die voortkomt uit het communitarisme en zich richt tegen het liberalisme.",
+		"id": "86917d6c-51c8-4e8b-b555-b71db8c7874a",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/29b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Sandels kritiek op de neutraliteit in een democratie uitleggen en evalueren. Daarbij kunnen zij betrekken Sandels opvatting dat neutraliteit van opvattingen niet altijd mogelijk is.",
+		"id": "0cde1251-9aa3-48d6-9621-af4c11c0fe92",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/29c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Sandels kritiek op de neutraliteit in een democratie uitleggen en evalueren. Daarbij kunnen zij betrekken dat opvattingen over rechtvaardigheid volgens Sandel niet altijd zijn los te koppelen van opvattingen over het goede leven.",
+		"id": "84a4439c-63c9-4bbf-a814-2157d5a1ca02",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk A",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/29d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen Sandels kritiek op de neutraliteit in een democratie uitleggen en evalueren. Daarbij kunnen zij betrekken dat dit loskoppelen ook onwenselijk is omdat het de solidariteit en de participatie van burgers in een democratie ondermijnt.",
+		"id": "33d963cc-538a-40e7-83fe-bd6a4ba57b28",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/30a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Mill, Parekh, Kelsen en Van den Bergh over de grenzen aan vrijheid van meningsuiting in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken:  Dahls opvatting dat democratie een vrije uitwisseling van gedachten nodig heeft.",
+		"id": "78c9effe-76cb-4b6d-ac28-06e5d9f809e4",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/30b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Mill, Parekh, Kelsen en Van den Bergh over de grenzen aan vrijheid van meningsuiting in een democratie uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken een uitleg van de paradox van de bescherming van vrijheid en gelijkheid met het voorbeeld van een verbod op politieke partijen die de democratie willen afschaffen.",
+		"id": "2e716396-9f99-4abd-a330-633addb54369",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/31a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volledige vrijheid van meningsuiting volgens Mill in het algemeen belang van de democratie is. Daarbij kunnen zij betrekken de vier redenen die Mill hiervoor aanvoert: de feilbaarheid van de mens, mogelijke elementen van waarheid, het gevaar van dogmatisme en de waarde van discussie.",
+		"id": "0c5576d5-222d-452d-9c0a-09f656510c70",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/31b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volledige vrijheid van meningsuiting volgens Mill in het algemeen belang van de democratie is. Daarbij kunnen zij betrekken Mills opvatting dat het uiten van meningen die als kwetsend worden ervaren niet verboden moet worden omdat deze uitingen het maatschappelijk welzijn kunnen vergroten en individuele burgers kunnen beschermen.",
+		"id": "b3d2eedf-9017-4367-a3bf-a069e95d86fa",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/31c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volledige vrijheid van meningsuiting volgens Mill in het algemeen belang van de democratie is. Daarbij kunnen zij betrekken het verhaal van de graanhandelaar als voorbeeld dat opvattingen die onmiddellijk en vrijwel zeker tot geweld zullen leiden volgens Mill wel verboden moeten worden.",
+		"id": "ed8dee65-b4b0-41c5-b093-e358de208af2",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/32a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de vrijheid van meningsuiting in een democratie volgens Parekh moet worden beperkt. Daarbij kunnen zij betrekken Parekhs opvatting dat belediging moet worden tegengegaan omdat dit schade toebrengt, en sociale en politieke uitsluiting van gemeenschappen en individuen inhoudt.",
+		"id": "0918bbae-a37f-4d8d-afca-d6340d6e8cbf",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/32b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de vrijheid van meningsuiting in een democratie volgens Parekh moet worden beperkt. Daarbij kunnen zij betrekken de verdediging van Parekh tegen de drie bezwaren tegen een verbod op groepsbelediging: verschil tussen belediging en kritiek, verschillen tussen gemeenschappen, machtspositie van een groep.",
+		"id": "42bf002a-5d35-483b-8999-9ab55be462fe",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/32c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat de vrijheid van meningsuiting in een democratie volgens Parekh moet worden beperkt. Daarbij kunnen zij betrekken de vier redenen van Parekh dat de traditionele argumenten voor vrijheid van meningsuiting ontoereikend zijn: niet elke uiting kan begrepen worden als een zoeken naar waarheid, sommigen profiteren meer van de vrijheid dan anderen, sommige uitingen dienen bepaalde belangen, ook andere maatschappelijke waarden zijn belangrijk.",
+		"id": "676a52c8-e33d-46c7-bab4-9452492af4b1",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/33a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat een democratie volgens Kelsen een antidemocratische partij onmogelijk kan verbieden of uitsluiten. Daarbij kunnen zij betrekken Kelsens opvatting dat een democratie een relativistische wereldbeschouwing veronderstelt omdat inzicht in absolute waarheid voor mensen onmogelijk is.",
+		"id": "9ffcf6ac-be22-4142-b63a-d2b586b296b4",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/33b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat een democratie volgens Kelsen een antidemocratische partij onmogelijk kan verbieden of uitsluiten. Daarbij kunnen zij betrekken Kelsens opvatting dat door een verbod op ondemocratische opvattingen een democratie ophoudt een democratie te zijn.",
+		"id": "b173a9d9-1c14-4663-9490-cc90c98c7697",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/34a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat het partijverbod volgens Van den Bergh geen schending betekent van de principes van de democratie. Daarbij kunnen zij gebruiken Van den Berghs opvatting dat de grens van de vrijheid van overtuigingen ligt in de bereidheid tot gedachtewisseling.",
+		"id": "518c362f-ad83-4d6e-8a99-a2a4c1d7e72a",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk B",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/34b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat het partijverbod volgens Van den Bergh geen schending betekent van de principes van de democratie. Daarbij kunnen zij gebruiken Van den Berghs opvatting dat de beslissing om de democratie op te heffen niet vatbaar is voor zelfcorrectie en daarom uitgesloten mag worden.",
+		"id": "54654d24-feaf-49f1-937c-35bce26988bc",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/35a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Friedman, Gutmann en Biesta over het onderwijzen en opvoeden in een democratische cultuur uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken dat democratie volgens Dahl een democratische cultuur nodig heeft.",
+		"id": "edc84376-0021-4c4a-a96f-5f88c2f5a123",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/35b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Friedman, Gutmann en Biesta over het onderwijzen en opvoeden in een democratische cultuur uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken dat onderwijs rond democratische waarden weliswaar een middel kan zijn om die cultuur te bevorderen, maar ook spanning oproept tussen de belangen van de staat en de belangen en vrijheden van ouders, scholen en leerlingen.",
+		"id": "e7a46fd8-0114-46fb-8fe1-88e45448c535",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/35c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen de opvattingen van Friedman, Gutmann en Biesta over het onderwijzen en opvoeden in een democratische cultuur uitleggen, vergelijken, toepassen en evalueren. Daarbij kunnen zij betrekken een beargumenteerd standpunt over burgerschapsvorming in het spanningsveld tussen indoctrinatie en vrijblijvendheid.",
+		"id": "8c864a97-12d4-47ab-91c8-3e742bb3724a",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/36a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat overheidsbemoeienis in het onderwijs volgens Friedman beperkt moet zijn. Daarbij kunnen zij betrekken de twee argumenten van Friedman dat onderwijs een overheidstaak is: externe effecten en paternalisme.",
+		"id": "76155285-f4c9-4435-a0c3-02005d8ccb1b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/36b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat overheidsbemoeienis in het onderwijs volgens Friedman beperkt moet zijn. Daarbij kunnen zij betrekken Friedmans onderscheid tussen ’onderwijs’ en ‘opleiding’.",
+		"id": "029f819a-8bd6-42c4-860a-191d31893141",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/36c",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat overheidsbemoeienis in het onderwijs volgens Friedman beperkt moet zijn. Daarbij kunnen zij betrekken Friedmans opvatting dat de overheid vanuit democratisch burgerschap eisen aan onderwijs mag stellen, zonder dat onderwijs zelf te organiseren.",
+		"id": "82e5269d-08c8-40d8-8291-3de4d2f41e55",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/36d",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat overheidsbemoeienis in het onderwijs volgens Friedman beperkt moet zijn. Daarbij kunnen zij betrekken Friedmans weerlegging van de opvatting dat alleen door de overheid gefinancierde scholen een democratische cultuur kunnen waarborgen.",
+		"id": "760b760a-2710-464c-bd4e-1638b830db28",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/37a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Gutmann pleit voor gedeelde zeggenschap over onderwijs. Daarbij kunnen zij betrekken Gutmanns opvatting dat onderwijs voor democratie onvoldoende is en aangevuld moet worden met onderwijs door democratie.",
+		"id": "a838a744-520c-4e45-a386-76503dc6920b",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/37b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat Gutmann pleit voor gedeelde zeggenschap over onderwijs. Daarbij kunnen zij betrekken Gutmanns opvatting dat noch de staat, noch de ouders, noch onderwijsprofessionals volledige zeggenschap kunnen hebben over het onderwijs: de staat niet vanwege verschil van mening over het goede leven; de ouders niet, omdat kinderen ook inwoners van de staat zijn, onderwijs de vrijheid van het kind mogelijk moet maken en tolerantie moet aanleren / moet beschermen tegen de vooroordelen van hun ouders; onderwijsprofessionals niet omdat neutraliteit een omstreden ideaal is.",
+		"id": "ff1a1a24-777a-4514-b4ff-68ea936efdb7",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/38a",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Biesta niet alleen het onderwijs maar de samenleving als geheel verantwoordelijk is voor politiek existeren in een democratie. Daarbij kunnen zij betrekken de drie kritiekpunten van Biesta op onderwijs in burgerschap op school: onrealistische verantwoordelijkheid, individualistische benadering van onderwijs, individualistische visie op democratie.",
+		"id": "43b170fc-9cbc-4e05-a2a0-d588e983aa79",
+		"unreleased": true
+	},
+	{
+		"description": "Eindterm vraagstuk C",
+		"ce_se": "CE",
+		"prefix": "FI/H/DomeinD/38b",
+		"examenprogramma_domein_id": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Biesta niet alleen het onderwijs maar de samenleving als geheel verantwoordelijk is voor politiek existeren in een democratie. Daarbij kunnen zij betrekken Biesta’s opvatting dat zowel onderwijs voor als onderwijs door democratie vanuit zijn idee van politiek existeren tekortschieten",
+		"id": "90297139-93c2-4909-bcbe-166e6b93e276",
 		"unreleased": true
 	}
 ]
