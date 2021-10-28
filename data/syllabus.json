@@ -301,7 +301,7 @@
 		"status": "def.",
 		"description": "",
 		"prefix": "",
-		"dirty": true,
+		"dirty": "1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -310,6 +310,9 @@
 		],
 		"syllabus_vakleergebied_id": [
 			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		],
+		"examenprogramma_id": [
+			"c2f884f2-c673-4af7-a5c2-8832390f5f49"
 		]
 	},
 	{
