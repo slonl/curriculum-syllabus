@@ -4071,7 +4071,7 @@
 			"47adcfe6-a084-4582-be2e-2b5bbbe47584",
 			"2a1c24ca-0265-45cf-8bf6-d900ea44bbba"
 		],
-		"title": "Syllabus filosofie havo",
+		"title": "Syllabus Filosofie havo",
 		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
 		"unreleased": true,
 		"prefix": "",
@@ -4191,7 +4191,10 @@
 			"ff1a1a24-777a-4514-b4ff-68ea936efdb7",
 			"43b170fc-9cbc-4e05-a2a0-d588e983aa79",
 			"90297139-93c2-4909-bcbe-166e6b93e276"
-		]
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_id": [
