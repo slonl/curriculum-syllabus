@@ -5078,7 +5078,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "52d9d87d-9156-413a-a2fe-b6b719287a73",
@@ -25971,7 +25973,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.2",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
@@ -25981,7 +25984,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.3",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
@@ -26002,7 +26006,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.5",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -28291,7 +28296,9 @@
 		],
 		"title": "De kandidaat kan biologisch bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden in: foldermateriaal, studieboeken, naslagwerken, cd-rom/internet, bijsluiters, kranten/tijdschriften",
 		"id": "94b4c3c6-5862-4c8c-bcda-0934180f9334",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31211,7 +31218,8 @@
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
 		],
 		"prefix": "AK/K/6/11.5",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
@@ -31221,7 +31229,8 @@
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
 		],
 		"prefix": "AK/K/4/5.8\n",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "305a57c4-9077-4f4d-a604-f9fa6d9a9681",
@@ -44453,6 +44462,1370 @@
 		],
 		"title": "De kandidaten kunnen uitleggen en evalueren dat volgens Biesta niet alleen het onderwijs maar de samenleving als geheel verantwoordelijk is voor politiek existeren in een democratie. Daarbij kunnen zij betrekken Biesta’s opvatting dat zowel onderwijs voor als onderwijs door democratie vanuit zijn idee van politiek existeren tekortschieten",
 		"id": "90297139-93c2-4909-bcbe-166e6b93e276",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinA/1",
+		"examenprogramma_domein_id": [
+			"05c65929-da64-4974-b769-244e65dd99ce"
+		],
+		"title": "De kandidaten kunnen met betrekking tot een fiolofisch probleem relevante informatie herkennen, selecteren, structureren en interpreteren (begrijpen).",
+		"id": "f8666341-e4f5-45fb-bb49-9967b3614945",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinA/2",
+		"examenprogramma_domein_id": [
+			"05c65929-da64-4974-b769-244e65dd99ce"
+		],
+		"title": "De kandidaten kunnen een filosofische gedachtegang analyseren op logische consistentie, filosofische concepten en vooronderstellingen (analyseren);",
+		"id": "34d6a9c0-ee7e-4d98-8483-fafa57650fc9",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinA/3",
+		"examenprogramma_domein_id": [
+			"05c65929-da64-4974-b769-244e65dd99ce"
+		],
+		"title": "De kandidaten kunnen een logisch correcte en overtuigende filosofische argumentatie opzetten en verschillende filosofische posities ten aanzien van een vraagstuk beargumenteerd innemen (creëren);",
+		"id": "57ecc65f-a08b-485c-bc71-649dd0e5d829",
+		"unreleased": true
+	},
+	{
+		"description": "Denkvaardigheden en het resultaat daarvan verwoorden.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinA/4",
+		"examenprogramma_domein_id": [
+			"05c65929-da64-4974-b769-244e65dd99ce"
+		],
+		"title": "De kandidaten kunnen een filosofische gedachtegang/argumentatie beoordelen op consistentie, concepten en vooronderstellingen, de implicaties van een filosofische positie uitwerken en als kritiek of verdediging van de positie gebruiken (kritiseren).",
+		"id": "68f24eaa-5442-4c30-bb98-e2e7935b0a1e",
+		"unreleased": true
+	},
+	{
+		"description": "algemene eindterm",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/1",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aan de hand van de vijf dimensies van het goede leven (relaties, instituties, lichaam, natuur, zin) een beargumenteerd standpunt innemen over de vrije markt. Daarbij kunnen zij de volgende aspecten betrekken, deze uitleggen en er voorbeelden bij geven: ‘verdikking’ van marktrelaties (relaties), begrenzing van de neoliberale marktlogica (instituties), consumptieve en digitale weerbaarheid (lichaam), ecologische transitie (natuur) en een holistisch vrijheidsbegrip (zin).",
+		"id": "596aa8ad-b201-45a0-9a74-67602dab0056",
+		"unreleased": true
+	},
+	{
+		"description": "algemene eindterm",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/2a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van het goede leven, vrijheid, markt, arbeid, institutie, lichaam, zin, relatie en natuur. Daartoe kunnen zij verschillende definities opstellen.",
+		"id": "5bc2c91b-4a2a-4e68-b0db-57aba08df813",
+		"unreleased": true
+	},
+	{
+		"description": "algemene eindterm",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/2b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van het goede leven, vrijheid, markt, arbeid, institutie, lichaam, zin, relatie en natuur. Daartoe kunnen zij vooronderstellingen bij deze definities aangeven.",
+		"id": "b55c56e2-9a97-4b3c-bee3-f40188e741f9",
+		"unreleased": true
+	},
+	{
+		"description": "algemene eindterm",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/2c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen een begripsanalyse maken van het goede leven, vrijheid, markt, arbeid, institutie, lichaam, zin, relatie en natuur. Daartoe kunnen zij implicaties van deze definities weergeven.",
+		"id": "f05a8080-6a4b-4ccc-8475-33ee6413d590",
+		"unreleased": true
+	},
+	{
+		"description": "algemene eindtermen",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/3",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen verschillende opvattingen over het goede leven, vrijheid, markt, arbeid, instituties, lichaam, zin, relaties en natuur herkennen, uitleggen, vergelijken, toepassen en bekritiseren aan de hand van voorbeelden of casussen en een beargumenteerd standpunt innemen over deze opvattingen.",
+		"id": "32189c67-5934-4edb-81a6-c4bc659393d5",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 1 De vrije markt en het goede leven in meervoud.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/4a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de vraag naar het goede leven relateren aan de vraag wat het betekent dat de mens ‘zich tot zichzelf-in-de-wereld verhoudt’. Hierover kunnen zij een beargumenteerd standpunt innemen aan de hand van Socrates’ opvatting dat het niet onderzochte leven niet de moeite van het leven waard is.",
+		"id": "caab658c-7864-4965-841a-fbaba1909b9e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 1 De vrije markt en het goede leven in meervoud.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/4a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de vraag naar het goede leven relateren aan de vraag wat het betekent dat de mens ‘zich tot zichzelf-in-de-wereld verhoudt’. Hierover kunnen zij een beargumenteerd standpunt innemen aan de hand van het verschil tussen mensen en dieren volgens Cassirer.",
+		"id": "b5a6946f-0907-4a75-b8b0-2626597e177f",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 1 De vrije markt en het goede leven in meervoud.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/4a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de vraag naar het goede leven relateren aan de vraag wat het betekent dat de mens ‘zich tot zichzelf-in-de-wereld verhoudt’. Hierover kunnen zij een beargumenteerd standpunt innemen aan de hand van Nietzsches opvatting van de mens als 'niet-vastgesteld dier'.",
+		"id": "c0582739-c257-44a7-a620-1cadc919d0ec",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 1 De vrije markt en het goede leven in meervoud.",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/5",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de kritiek van Nussbaum weergeven op de opvatting dat het bruto nationaal product (BNP) als criterium voor het goede leven kan worden gehanteerd. Daarbij kunnen ze de capabilities approach, uitleggen, toepassen en beoordelen.",
+		"id": "8341fafc-0906-4514-a4f9-487add900300",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/6a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Plato’s argumentatie voor de ‘ideale staat’ reconstrueren en evalueren. Hierbij kunnen zij de kritiek van Plato op de democratie weergeven.",
+		"id": "cd83859c-97bf-4f57-9279-ff427cfaf82b",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/6b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Plato’s argumentatie voor de ‘ideale staat’ reconstrueren en evalueren. Hierbij kunnen zij uitleggen wat bij Plato het verband is tussen de hiërarchische orde in de samenleving en de drie delen van de menselijke ziel.",
+		"id": "d6c70882-06ab-452a-885e-f7ec273cc4d5",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/6c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Plato’s argumentatie voor de ‘ideale staat’ reconstrueren en evalueren. Hierbij kunnen zij beargumenteren dat Plato’s ‘ideale staat’ zowel als een utopie als een dystopie kan worden beschouwd en daarbij de kritiek van Popper betrekken.",
+		"id": "edb5b0cf-ca03-4dff-a7dd-0d8341c2955c",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/7a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Aristoteles’ argumentatie dat er verschillende goede staatsvormen zijn, reconstrueren en evalueren. Daarbij kunnen zij uitleggen welke rol de rede (logos), de deugd (aretè) en het handelen (energeia) als werkelijkheid van de ziel daarin spelen.",
+		"id": "0de661d9-514e-4fad-ae99-64a35cd45d20",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/7b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Aristoteles’ argumentatie dat er verschillende goede staatsvormen zijn, reconstrueren en evalueren. Daarbij kunnen zij beargumenteren dat deugdzaamheid en geluk (opgevat als eudaimonia van het praktische leven) uitsluitend bereikt kunnen worden binnen de polis (stadstaat).",
+		"id": "07209280-f04f-4658-a5ff-806a110a823a",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/7c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Aristoteles’ argumentatie dat er verschillende goede staatsvormen zijn, reconstrueren en evalueren. Daarbij kunnen zij met voorbeelden uitleggen dat staatsvormen volgens Aristoteles kunnen ontaarden.",
+		"id": "d1ddb0b8-b813-465e-8373-2e0792326e10",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarbij kunnen zij met voorbeelden een definitie geven van deugd en deze definitie uitleggen en toepassen.",
+		"id": "5d81b6b9-adc1-4b7f-8d54-5da065779f6d",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarbij kunnen zij met voorbeelden uitleggen dat het streven naar geluk (eudaimonia) samenvalt met het goede voor zichzelf en de gemeenschap.",
+		"id": "c1c5132d-0b9d-4ec5-bb49-db558098e7d0",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarbij kunnen zij met voorbeelden het onderscheid tussen dianoëtische en ethische deugden uitleggen.",
+		"id": "26151216-d718-40ad-8533-e959a3ba4fa5",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8d",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarbij kunnen zij met voorbeelden uitleggen dat de verschillende deugden elkaar vooronderstellen.",
+		"id": "298f4068-dad4-40a0-acaa-6efe15f781d4",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8e",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarnaast kunnen zij uitleggen dat ‘volkomen deugd’ niet is weggelegd voor de massa.",
+		"id": "24cbdeb8-e3fa-471d-baf8-48d89eead88a",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/8f",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Aristoteles over een deugdzaam leven uitleggen en toepassen. Daarnaast kunnen zij uitleggen dat wat ‘ware vriendschap met zichzelf’ betekent en een afweging maken in hoeverre dit voor mensen in de samenleving van toen mogelijk was en nu is.",
+		"id": "34f4ad48-d8e4-45ae-a169-5f367bada125",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/9",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen en evalueren welke rol de deugd rechtvaardigheid bij Aristoteles speelt bij de zelfverwerkelijking van de mens in de polis. Tevens kunnen zij uitleggen dat volgens Aristoteles het volgen van de wet een vrije handeling is en kunnen zij een standpunt innemen over de vraag of dit in onze tijd ook relevant kan zijn.",
+		"id": "96d5d9d8-ae91-442a-b43f-90680d6754c4",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 2 Plato en Aristoteles over het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/10",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aan de hand van de vijf dimensies van het goede leven de opvattingen van Plato en Aristoteles over het goede leven uitleggen, vergelijken, toepassen en beoordelen.",
+		"id": "a632beff-51c2-4613-b0c7-af14f6adddfc",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (1): Aristoteles - Ethica Nicomachea",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/11a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat aretè (deugd, voortreffelijkheid) een karakterhouding is. Daarbij kunnen zij uitleggen waarin een karakterhouding zich onderscheidt van emoties en vermogens.",
+		"id": "58012f44-bb95-4965-a8d6-4275eb5cb7b2",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (1): Aristoteles - Ethica Nicomachea",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/11a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat aretè (deugd, voortreffelijkheid) een karakterhouding is. Daarbij kunnen zij uitleggen dat voortreffelijkheid is gericht op het midden, zoals door verstandige mensen bepaald.",
+		"id": "f5dabe64-660a-4ae5-9ab4-fe8c53f82140",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (1): Aristoteles - Ethica Nicomachea",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/11a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat aretè (deugd, voortreffelijkheid) een karakterhouding is. Daarbij kunnen zij uitleggen dat het bezit van voortreffelijkheid alleen het resultaat kan zijn van herhaald gedrag, maar deze handelingen op zich niet voldoende zijn om voortreffelijk te worden.",
+		"id": "080e81c8-6bcb-4c3d-b1d9-296d4dc2cf76",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (1): Aristoteles - Ethica Nicomachea",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/11a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat aretè (deugd, voortreffelijkheid) een karakterhouding is. Daarbij kunnen zij uitleggen dat men maar op één manier goed, maar op vele manieren slecht kan zijn.",
+		"id": "d7144870-585c-4d2a-a776-6269a221eb92",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 3 Het goede leven in het Christendom",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/12",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat theologale deugden zijn en hoe deze zich verhouden tot de klassieke deugden. Daarbij kunnen zij uitleggen wat liefde als hoogste deugd inhoudt en waarom deze deugd op gespannen voet staat met het hiërarchische denken van Plato en Aristoteles en met hiërarchisch denken in het christendom.",
+		"id": "bb3e34a6-b92b-43e8-b8a1-6eb2895cef1e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/13a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen vier opvattingen van ‘het autonome individu’, een kernmotief van de moderniteit, herkennen, weergeven en toepassen, namelijk autonomie als (religieuze) gewetensvrijheid (protestantisme).",
+		"id": "18259920-755f-4c84-8d05-864213c6e0cf",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/13b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen vier opvattingen van ‘het autonome individu’, een kernmotief van de moderniteit, herkennen, weergeven en toepassen, namelijk autonomie als rationele bepaling van plichten (Locke, Kant).",
+		"id": "3b58af90-9ad2-4412-ac55-c974f3266b1f",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/13c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen vier opvattingen van ‘het autonome individu’, een kernmotief van de moderniteit, herkennen, weergeven en toepassen, namelijk autonomie als anti-burgerlijke religiositeit (Kierkegaard).",
+		"id": "a9dc013f-44c1-4b82-af5c-a7aa0c97f4ae",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/13d",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen vier opvattingen van ‘het autonome individu’, een kernmotief van de moderniteit, herkennen, weergeven en toepassen, namelijk autonomie als hoogst-individuele authenticiteit (existentialisme).",
+		"id": "d0524b6c-38ed-4d5e-83ee-531305bd5bcf",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/14",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat in het protestantisme van de 16e eeuw zowel sprake is van een verinnerlijking (subjectivering) van de moraal (geweten) als van een plichtsethiek. Ze kunnen daarbij uitleggen dat daarmee de vraag naar het goede leven verandert.",
+		"id": "e18694ac-d533-4289-a11a-04750a8404f9",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/15",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting uitleggen dat het opstellen van burgerrechten mede voortkomt uit de protestantse religieuze levenservaring. Daarbij kunnen ze uitleggen wat Locke bedoelt met ‘de rechten van het vrije individu’ en wat Kant voor ogen heeft met ‘het autonome individu’.",
+		"id": "4b03c229-dead-413f-a169-c4e60d8cc1df",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/16",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de aan het protestantisme ontsproten kritiek van Kierkegaard op de opvattingen van verlichtingsfilosofen over het autonome individu weergeven, toepassen en evalueren.",
+		"id": "6936ae0d-336a-42cb-b0d5-7f3ee1ee5485",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 4 Moderniteit als een project van bevrijding: het autonome individu",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/17",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting dat authenticiteit kenmerkend is voor de moderne invulling van het goede leven, uitleggen en evalueren.",
+		"id": "6013790b-9223-4947-a32a-bc1d4cdde4fc",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/18a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat de natuurwet volgens Locke inhoudt. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen op welke manieren mensen gelijk zijn in de natuurtoestand.",
+		"id": "9dc69baf-0163-4ad3-b2e1-1bc52dd26b00",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/18b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat de natuurwet volgens Locke inhoudt. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen welke rechten en plichten mensen van nature hebben.",
+		"id": "a3339114-7889-41a8-81a3-9d1c52e5171d",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/18c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat de natuurwet volgens Locke inhoudt. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen hoe persoonlijk bezit ontstaat.",
+		"id": "fb5c747c-1ccc-4d6f-bbeb-93ee2bed4414",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/18d",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat de natuurwet volgens Locke inhoudt. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen hoe vanuit de natuurtoestand een staat kan ontstaan.",
+		"id": "2bf1606f-459d-40d9-8e58-fdd115c087cc",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/19a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen welk doel de stichting van een staat heeft volgens Locke. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen dat daartoe een wetgevende en een uitvoerende macht nodig zijn.",
+		"id": "07b0ec0d-9bed-410c-a4f9-7dd336a8ecc4",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (2): John Locke - Tweede verhandeling over het staatsbestuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/19b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen welk doel de stichting van een staat heeft volgens Locke. Daarbij kunnen zij de volgende aspecten uitleggen, toepassen en beoordelen welke vermogens (powers) van de mens in de natuurtoestand daartoe gedeeltelijk of geheel opgegeven moeten worden.",
+		"id": "c662ed74-916e-48f8-8191-9f4c9a3675f9",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (3): Søren Kierkegaard - Vrees en Beven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/20a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Kierkegaard over het christelijk geloof als paradox weergeven, uitleggen, toepassen en beoordelen. Daarbij kunnen zij uitleggen op wat voor manier de enkeling als enkeling hoger staat dan het algemene.",
+		"id": "4f272e12-85b6-4ba9-aebc-a2ac74fa2f3f",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (3): Søren Kierkegaard - Vrees en Beven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/20b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Kierkegaard over het christelijk geloof als paradox weergeven, uitleggen, toepassen en beoordelen. Daarbij kunnen zij met het Bijbelverhaal over Abraham de opvatting van Kierkegaard uitleggen dat het christelijk geloof als paradox niet kan worden gemedieerd met het algemene en dat geloof dus niet herleidbaar is tot ethiek.",
+		"id": "7216caaa-2978-4c81-8297-d9ea8b064c2e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/21a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat volgens Smith welvaart voor een ieder komt door arbeid, arbeidsdeling en vrije markt. Daarbij kunnen ze Smiths opvatting van een markt betrekken en aangeven welke vooronderstellingen hierbij in het geding zijn.",
+		"id": "6a119171-1c60-4f51-bea8-5d3f3d8e1c70",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/21b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat volgens Smith welvaart voor een ieder komt door arbeid, arbeidsdeling en vrije markt. Daarbij kunnen ze weergeven welke ‘dehumaniserende effecten’ er volgens Smith bij een vergaande arbeidsdeling zullen optreden.",
+		"id": "b547d095-2b96-4af0-9007-b7edbe0fd0c2",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/22",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat volgens Marx de vrije markt, die gebaseerd is op privébezit van productiemiddelen, op gespannen voet staat met het goede leven. Daarbij kunnen ze uitleggen welke rol het kapitaal daarin volgens Marx speelt.",
+		"id": "abe19cfa-a283-47e9-84ef-dd918b2763bd",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/23",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting dat de vrije markt gepaard gaat met dehumanisering, ecologische uitputting en financiële verstikking weergeven, toepassen, evalueren en hiervan eigen voorbeelden geven.",
+		"id": "62f6d01d-446d-4902-b817-13e37f9d1b5e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/24a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat er met de invoering van de vrije markt een scheiding plaatsvindt tussen de private en de publieke sfeer, waarbij ook de politiek beperkt en bepaald wordt door het economisch discours. Ze kunnen daarbij uitleggen dat dit volgens Tronto leidt tot een verschraling van het morele debat in het publieke domein.",
+		"id": "e176e6cd-910d-425b-abf1-4143a4ea734a",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 6 De moderniteit en de vrije markteconomie: het goede leven op een vulkanische breuklijn",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/24b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat er met de invoering van de vrije markt een scheiding plaatsvindt tussen de private en de publieke sfeer, waarbij ook de politiek beperkt en bepaald wordt door het economisch discours. Ze kunnen daarbij uitleggen dat zorg volgens Tronto een publieke taak is en daarom onderwerp is van politiek.",
+		"id": "ee585f7e-454e-4b16-a819-b7dcac8f6a1c",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (4): Joan Tronto - Caring democracy, Markets, Equality and Justice",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/25",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de neoklassieke (economische) visie dat de kwaliteit van zorg beter wordt door de vrije markt en de tegenovergestelde visie dat de vrije markt schadelijk is voor de kwaliteit van de zorg verdedigen. Daarbij kunnen zij van beide visies voorbeelden geven en de politieke implicaties van deze visies weergeven, toepassen en evalueren.",
+		"id": "3e0ae5df-ab9c-4896-80f4-cf49fb111722",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (5): Adam Smith - Een onderzoek naar de aard en oorzaken van de rijkdom van naties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/26",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de twee redenen weergeven, uitleggen en toepassen waarom arbeidsdeling volgens Smith een typisch menselijk verschijnsel is. Daarbij kunnen zij Smith’ opvatting uitleggen dat samenwerken volgens het principe van welbegrepen eigenbelang leidt tot vergroting van de welvaart voor alle lagen van de bevolking.",
+		"id": "056576e9-6563-4b79-b4a5-d82acece5d34",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (5): Adam Smith - Een onderzoek naar de aard en oorzaken van de rijkdom van naties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/27",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat het volgens Smith de taak van de overheid is om de negatieve gevolgen van de arbeidsdeling te voorkomen. Daarbij kunnen zij weergeven wat volgens Smith de negatieve gevolgen van arbeidsdeling zijn en wat in dit verband de functie van onderwijs is.",
+		"id": "58eaac32-e5ed-4cf4-a089-9e3602e3d943",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (6): Karl Marx - Kritiek op de politieke economie",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/28",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen, toepassen en beoordelen dat volgens Marx de ontwikkeling van de productieverhoudingen onvermijdelijk tot een sociale revolutie leidt en dat de sociaal-economische positie van mensen bepalend is voor hun bewustzijn",
+		"id": "2fb394e2-2ebf-4136-8754-49b7cd5ca1e7",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (7): Karl Marx / Friedrich Engels - Het communistisch manifest",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/29",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Marx en Engels over de onvermijdelijke overwinning van het proletariaat op de bourgeoisie weergeven en evalueren. Daarbij kunnen zij uitleggen welke rol loonarbeid, kapitaal, productie- en verkeersmiddelen in de klassenstrijd spelen.",
+		"id": "165fa3db-dac5-44d1-b406-ce508b693f44",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 7 Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/30",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aan de hand van het voorbeeld van de virtuele biotoop uitleggen dat de moderniteit kan leiden tot sociaal atomisme. Daarbij kunnen zij uitleggen dat individualisering, rationalisering, vrije markt, de opkomst van de techniek en moderne instituties onze ervaring van relaties hebben doortrokken",
+		"id": "cd2e1f72-bb4a-486b-aa99-d8ac83db1129",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/31a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de neoklassieke (economische) opvatting over hebzucht en egoïsme weergeven, uitleggen en beoordelen als aanjager van economische ontwikkeling.",
+		"id": "99f75521-cbc4-4f6d-9343-58e5a5477d5a",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/31b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de neoklassieke (economische) opvatting over hebzucht en egoïsme weergeven, uitleggen en beoordelen als invulling van het goede leven.",
+		"id": "06fd713c-b87e-443a-8272-5b47ceb6221a",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/31c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de neoklassieke (economische) opvatting over hebzucht en egoïsme weergeven, uitleggen en beoordelen als invulling van een bepaalde sociale orde.",
+		"id": "dbf7c2b0-b801-4376-86e0-23c53339402a",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/32a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen het verschil tussen de opvattingen van het communitarisme en van het liberalisme over het goede leven weergeven. Daarbij kunnen zij aan de hand van het onderscheid tussen ‘dunne moraal’ en ‘dikke moraal’ de kritiek van het communitarisme op het liberale mensbegrip uitleggen.",
+		"id": "0c3e1ee9-16da-4ec8-9161-b5c9c9be4065",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/32b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen het verschil tussen de opvattingen van het communitarisme en van het liberalisme over het goede leven weergeven. Daarbij kunnen zij beargumenteren dat de tegenstelling tussen de opvattingen van liberalisme en communitarisme over het goede leven vanuit een deugdethische benadering kan worden gerelativeerd.",
+		"id": "f850fad0-8694-48f6-9ae0-2f6b1a66ff90",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/33",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat MacIntyre het deugdbegrip actualiseert met behulp van de begrippen practice, internal goods en external goods. Daarbij kunnen zij dit deugdbegrip toepassen op praktijken zoals sport, bedrijfsleven, media en onderwijs.",
+		"id": "b2afc222-c222-4fd3-a315-7d00144211d9",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/34",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Hegel uitleggen waarin individuele (subjectieve) vrijheid niet kan worden verwerkelijkt zonder de specifieke sfeer van zedelijkheid, die hij ‘burgerlijke maatschappij’ noemt.",
+		"id": "07f2b8da-0bc6-4006-8dec-15fa94f079b6",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/35",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Hegel over Anerkennung als ‘verdubbeling van ons zelfbewustzijn’ uitleggen met behulp van een voorbeeld en daarmee kritiek leveren op de atomaire vrijheidsopvatting.",
+		"id": "aa665f19-127f-4726-868e-2b1c1938de36",
+		"unreleased": true
+	},
+	{
+		"description": "Mens in enkelvoud, mens in meervoud, relaties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/36",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Hegel over arbeid uitleggen waarin het individu zijn behoeften ‘bemiddelt’, zichzelf vormt en daarmee zijn eigen vrijheid en geluk verzoent met de gemeenschap. Zij kunnen daarbij ook uitleggen dat in corporaties en in de staat private belangen door wederzijdse erkenning worden verzoend in een bestendige gezamenlijkheid.",
+		"id": "35726330-e4bd-42f4-8874-a380492bdfd0",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (8): Georg Hegel - Hoofdlijnen van de rechtsfilosofie",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/37",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen hoe de twee grondprincipes van de burgerlijke maatschappij (algemeenheid en bijzonderheid) zich manifesteren. Tevens kunnen zij uitleggen dat door de inwerking van beide principes op elkaar het algemeen belang gediend kan worden terwijl toch niemand erop uit is dit te doen.",
+		"id": "7ea147ef-4b5f-4f9a-8d58-df33352005b3",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (8): Georg Hegel - Hoofdlijnen van de rechtsfilosofie",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/38",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat Hegel verstaat onder theoretische en praktische vorming door het arbeidsproces, waarbij met name aandacht wordt besteed aan de subjectieve en objectieve kant ervan. Ze kunnen daarbij uitleggen dat deze vorming samenhangt met arbeidsdeling, productiviteit en automatisering.",
+		"id": "84cdf042-63dc-4ac0-8493-c86059fe768c",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/39",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aan de hand van een uitgewerkt voorbeeld – afkomstig uit kunst, spel, wetenschap, gezin of politiek – weergeven wat MacIntyre verstaat onder praktijken en daarbij de begrippen interne en externe goederen uitleggen en van elkaar onderscheiden. Daarbij kunnen zij uitleggen dat interne goederen alleen te herkennen of te identificeren zijn door deelname aan een specifieke praktijk.",
+		"id": "845ec2ae-8075-43e2-8eeb-4fabba4be294",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat deugden er altijd zijn in relatie tot mensen die met elkaar een praktijk beoefenen en met elkaar doelen en standaarden hebben afgesproken.",
+		"id": "f3c04246-4236-45f3-b178-3fad678d21ed",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat deze praktijk zowel een relatie tot beoefenaars in het heden als het verleden betreft.",
+		"id": "4a044b65-a8d0-4ddc-ae6b-470e3131ab4a",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat onderwerping aan de morele regels van een praktijk nodig is (rechtvaardigheid, moed en eerlijkheid).",
+		"id": "01d02a44-e76f-46fd-a09a-0ac99b468a79",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40d",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat instituties gericht zijn op externe goederen (winst, macht, status), terwijl praktijken gericht zijn op interne goederen.",
+		"id": "a9155664-3216-4204-84d1-86c2e6d944dc",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40e",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat praktijken niet zonder instituties kunnen bestaan en interne goederen niet zonder externe goederen.",
+		"id": "43dcbc7d-f514-4edb-8834-eda2de9d8196",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (9): Alasdair MacIntyre - Na de deugd. Een moraalfilosofisch onderzoek",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/40f",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen deugd definiëren als een verworven menselijke kwaliteit waarvan de uitoefening het mogelijk maakt om interne goederen die behoren tot een bepaalde praktijk te verwerven. Daarbij kunnen zij uitleggen dat zonder de deugden rechtvaardigheid, moed en eerlijkheid praktijken niet de corrupte macht van instituties kunnen weerstaan.",
+		"id": "35dfeeae-ee15-45cf-b474-d07baa17f161",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/41",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen een definitie geven van het begrip institutie en het onderscheid aangeven tussen harde en zachte instituties. Daarbij kunnen zij beargumenteren dat het goede leven zonder instituties niet denkbaar is maar dat instituties ook een bedreiging kunnen zijn voor het goede leven",
+		"id": "f30b9ae3-5640-40a9-9968-2c4615fd8065",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/42",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen met behulp van voorbeelden uitleggen op welke manier instituties met elkaar samenhangen, elkaar vooronderstellen en het menselijk samenleven mogelijk maken en vormgeven. Tevens kunnen zij uitleggen dat instituties de persoonlijke vrijheid en het goede leven kunnen ondermijnen.",
+		"id": "a24fdef2-7190-4baf-bb39-80a0190da383",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/43",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen met behulp van de begrippen onderbouw, bovenbouw, bourgeoisie, klassenbelang en vals bewustzijn de kritiek van Marx op instituties uitleggen, toepassen en beoordelen.",
+		"id": "873bade0-e255-4492-b018-ac0a51420eb0",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/44",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Foucaults kritiek op instituties aan de hand van de begrippen macht, onderdrukking, normalisering en disciplinering uitleggen, toepassen en beoordelen.",
+		"id": "77f45181-d38a-4058-acc0-edefde111f58",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/45",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de kritiek van Habermas op het proces van modernisering weergeven aan de hand van het onderscheid tussen instrumentele en communicatieve rationaliteit. Daarbij kunnen zij de opvatting van Habermas dat de leefwereld en het goede leven kunnen worden gekoloniseerd door het bureaucratische en het economische systeem uitleggen, toepassen en beoordelen.",
+		"id": "cb2d6652-8cd4-474c-9e11-71f196884bf6",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 8 De Januskop van instituties",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/46",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen het onderscheid tussen het Angelsaksische en het Rijnlandse model als varianten van het idee van de vrije markt uitleggen, toepassen en beoordelen. Daarbij kunnen zij aangeven wat in beide modellen de verschillen zijn in de bedrijfscultuur aan de hand van het onderscheid tussen recht en moraal en het onderscheid tussen shareholder-capitalism en stakeholder-capitalism.",
+		"id": "22e53c96-1207-45e9-97fd-a1b4d44fd8b7",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (10): Michel Foucault - Dicipline, toezicht en straf: de geboort van de gevangenis",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/47a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat het Panopticum van Bentham volgens Foucault model staat voor moderne machtsuitoefening door instituties. Zij kunnen daarbij uitleggen dat in het Panopticum macht automatiseert en ontindividualiseert.",
+		"id": "3ef5189c-9267-4ee2-9356-3d379ef9cf1a",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (10): Michel Foucault - Dicipline, toezicht en straf: de geboort van de gevangenis",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/47",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat het Panopticum van Bentham volgens Foucault model staat voor moderne machtsuitoefening door instituties. Zij kunnen daarbij uitleggen dat de gedetineerde het principe van zijn DomeinCing – dwang – overneemt en toepast op zichzelf.",
+		"id": "5663ad86-7cb6-45a2-bb90-1339be504dc4",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/48",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat mensen de vrijheid hebben om zich op verschillende manieren te verhouden tot hun eigen lichamelijkheid en daarvan voorbeelden geven.",
+		"id": "febe4e82-5fb9-44e9-9a8c-9e66461f6e2c",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/49",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aan de hand van voorbeelden uitleggen dat mensen zich onderscheiden van dieren door enerzijds een gebrekkig instinct en anderzijds door de noodzaak zelf na te denken en hun eigen omgeving te vormen. Tevens kunnen ze uitleggen dat de vrijheid die met die keuzes gepaard gaat om kan slaan in verslaving en het teniet doen van individuele autonomie.",
+		"id": "f46dbfb0-b59a-45c6-9749-51bdbb4d8ba6",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/50",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen met behulp van voorbeelden uitleggen dat lichamelijke behoeftes en verlangens onderdeel zijn van menselijke identiteit, een verstandelijke en culturele dimensie hebben en niet zuiver particulier zijn.",
+		"id": "cafcb97e-3e69-4a47-9fcc-4d1690321919",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/51",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat door de techniek een ontlijving van het lichaam heeft plaatsgevonden en dat het lichaam een consumptieartikel is geworden. Daarbij kunnen zij de begrippen virtualisering, genot en manipulatie betrekken.",
+		"id": "db3da7e2-ca05-441e-81be-93bcaec36e75",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/52",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Bentham uitleggen, toepassen en beoordelen dat ons handelen wordt bepaald door het nutsprincipe en de mens primair wordt begrepen als een belichaamd zelf dat allerlei prikkels ondergaat en gedreven wordt door het najagen van genot en het voorkomen van pijn. Tevens kunnen zij uitleggen dat Benthams benadering een vorm is van modern economische denken, waarbij de consument calculerend bezig is om zijn leven zo aangenaam mogelijk te maken.",
+		"id": "efe31d3e-a557-4999-aacc-b0f295258ba1",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/53",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Kant dat de goede wil – als het vermogen om zichzelf te bepalen – het grondprincipe is van ons handelen uitleggen, toepassen en beoordelen. Tevens kunnen zij vanuit deze opvatting kritiek leveren op de utilitaristische opvattingen van Bentham door uit te leggen dat we onvrij – en niet autonoom – zijn als we ons niet laten leiden door redelijkheid maar door lichamelijke prikkels van genot en pijn.",
+		"id": "a5e6a401-182b-462c-9255-f8c48c3db7a2",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/54",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen met voorbeelden uitleggen dat passies zich volgens Freud manifesteren buiten het bewustzijn om, onder meer in ons consumptiegedrag. Daarbij kunnen zij hierover een beargumenteerd standpunt innemen.",
+		"id": "ae7680c7-ff4a-4c1a-a39f-bf4c07008e55",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/55",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen het onderscheid dat Arendt maakt tussen arbeiden, werken en handelen uitleggen, toepassen en evalueren. Daarbij kunnen zij uitleggen dat volgens Arendt in de moderne consumptiemaatschappij arbeiden dominant is geworden.",
+		"id": "e7caee6a-0c39-43b9-a38c-53a2b960a547",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/56a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de volgende opvattingen die een ‘lichaamsethiek’ voorbereiden, uitleggen, toepassen en beoordelen de opvatting van de stoïcijnen dat een levenshouding van apatheia kan worden bereikt door de passies met de rede onder bedwang te houden.",
+		"id": "ad500bb3-4cad-4a52-92f6-ca88bf99f605",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 9 Het belichaamde zelf en het goede leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/56b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de volgende opvattingen die een ‘lichaamsethiek’ voorbereiden, uitleggen, toepassen en beoordelen de opvatting van Plato en Aristoteles waarin het lustvol verlangen (epithumia) tegenover de emotionele bezieling (thymos) staat en de moderne interpretatie van thymos (van Fukuyama en Sloterdijk).",
+		"id": "a5d2e0df-89e1-4b1e-b2ba-21b8b5df4b7c",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (11): Immanuel Kant - Fundering voor de metafysica van de zeden",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/57",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aangeven wat Kant verstaat onder goede wil en kunnen uitleggen dat deze volgens hem van absolute waarde is.",
+		"id": "1399bc4d-0c57-4db7-af84-9acd1dd6c274",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (11): Immanuel Kant - Fundering voor de metafysica van de zeden",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/58",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat het vrije handelen volgens Kant aan een algemene wetmatigheid gebonden is. Tevens kunnen zij uitleggen aan welke specifieke eis de wetsvorm van het goede handelen moet voldoen",
+		"id": "f12bc841-11a1-45bd-b95b-9a00b15dc665",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (12): Hanna Arendt - De menselijke conditie",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/59",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat Arendt de kunstenaar de enige overgebleven ‘werker’ in een maatschappij van arbeiders noemt en dat in de moderne tijd alle activiteiten van de mens die geen arbeid zijn, spel of hobby genoemd worden.",
+		"id": "52167a4c-2c8d-4dbf-abc1-0c66d9f60bb5",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (12): Hanna Arendt - De menselijke conditie",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/60",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat Marx’ ideaal van de animal laborans volgens Arendt op een verkeerde vooronderstelling berust en dat dit ideaal noodzakelijk leidt tot een economie van verspilling, waardoor de mens uiteindelijk zijn tehuis zal verliezen. Tevens kunnen zij deze opvattingen van Arendt herkennen, toepassen en beoordelen.",
+		"id": "02423ad2-a618-4334-8e60-01c12f6acbe2",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/61",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de volgende vijf soorten argumenten in het milieudebat uitleggen, beoordelen, toepassen en er voorbeelden van geven: actueel antropocentrisch, intergenerationeel, geen lijden toebrengen aan wat lijden kan, intrinsieke waarde van de natuur en deep ecology.",
+		"id": "63b80b12-bc1c-4aae-bf8b-66037d107f93",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/62",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Heideggers analyse van de moderne technologische samenleving weergeven, toepassen en beoordelen. Daarbij kunnen zij uitleggen wat het gestel, waarheid (aletheia), Dasein en het verschil tussen oude en moderne techniek inhouden en welke rol ze in Heideggers analyse spelen.",
+		"id": "111bb718-0357-400a-a306-286380ee3a29",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/63",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de volgende drie gevaren die het wezen van moderne techniek volgens Heidegger in zich draagt uitleggen en beoordelen: de mens als bestelbaar bestand, verdringing van andere vormen van ontbergen, vervreemding van zichzelf als Dasein en van de natuur als physis.",
+		"id": "f8407b36-d0ba-4f77-b592-dd1beeb7dd9b",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/64a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de benadering van de natuur van Latour uitleggen. Daarbij kunnen zij uitleggen wat er volgens Latour mis is met het subject-object schema.",
+		"id": "3ced3a1e-be2d-435a-9b44-2409aaeab806",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/64b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de benadering van de natuur van Latour uitleggen. Daarbij kunnen zij weergeven wat de radicaal empirische interpretatie van onze ervaring inhoudt.",
+		"id": "19c70283-a9a0-43d1-b83c-2c0e9f6eaa90",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/64c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de benadering van de natuur van Latour uitleggen. Daarbij kunnen zij beoordelen of deze benadering een goed alternatief voor het subject-objectschema biedt.",
+		"id": "a8af914a-2a78-42cf-9728-1fcefed66a7e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 10 De kwetsbaarheid en overmacht van de natuur",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/65",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen dat het instrumentele denken kan worden ingezet om milieuproblematiek aan te pakken. Daarbij kunnen zij een filosofische en ethische beoordeling geven van drie benaderingen via de vrije markt: beprijzen van het milieu, directe overheidsregulering en consumentengedrag.",
+		"id": "add49ae6-34a4-4a82-9ba0-c1293cef1e35",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/66",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat wordt bedoeld met de vraag naar zin. Daarbij kunnen zij deze vraag:",
+		"id": "4f7119bb-422e-47af-a8f1-138032dbd564",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/67a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat nihilisme bij Nietzsche inhoudt. Daarbij kunnen zij uitleggen wat Nietzsche verstaat onder de Übermensch.",
+		"id": "dc216ef5-a744-43c2-9696-791cc5edd63c",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/67",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat nihilisme bij Nietzsche inhoudt. Daarbij kunnen zij uitleggen welke invloed het idee van de Übermensch heeft gehad op de ontwikkeling van de westerse cultuur.",
+		"id": "2abce235-369b-4392-b4e0-efbda0b0b37f",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/68a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Taylors analyse van de transformatie van de vraag naar zin in de moderne tijd weergeven. Daarbij kunnen zij uitleggen welke rol individuele zelfreflectie, zelfdiscipline, kunst en de opkomst van de natuurwetenschappen hierin spelen.",
+		"id": "63e6e0f3-0af2-4089-8008-883a16b58738",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/68b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Taylors analyse van de transformatie van de vraag naar zin in de moderne tijd weergeven. Daarbij kunnen zij uitleggen wat de verhouding tussen christendom, seculier humanisme en antihumanisme hierbij is.",
+		"id": "1c5a0f0c-82bd-4cf5-b034-f4e11b01c899",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/68c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen Taylors analyse van de transformatie van de vraag naar zin in de moderne tijd weergeven. Daarbij kunnen zij uitleggen wat Taylor bedoelt met het 'Nova-effect', 'supernova' en cross-pressure-zijn.",
+		"id": "3160e560-34b3-4763-ac96-dc15d1f43f1e",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/69",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen aangeven wat de centrale vragen zijn in het moderne debat tussen christendom, seculier humanisme en antihumanisme. Daarbij kunnen ze Taylors positie in dit debat (agapè-liefde) uitleggen en beoordelen.",
+		"id": "1235fa82-fbd1-4161-9f26-5fccfba0f0d0",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/70",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen uitleggen wat de transformatie-economie inhoudt. Daarbij kunnen zij twee implicaties van de markteconomische spiritualisering weergeven en beoordelen (mythische en religieuze eeuw door commerciële belevingsgerichte bedrijven en zingeving als vluchtige consumptiecultuur).",
+		"id": "b39f28c5-9455-4ddf-ae8e-8a0d8160a892",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/71a",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de paradox van de verwerkelijking van de vrijheid via de vrije markt in de prestatiemaatschappij herkennen en uitleggen. Daarbij kunnen zij de vrije markt weergeven als individualiserende ideologie.",
+		"id": "e3b0ebee-86c5-4cbf-9691-96fae08b84b5",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/71b",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de paradox van de verwerkelijking van de vrijheid via de vrije markt in de prestatiemaatschappij herkennen en uitleggen. Daarbij kunnen zij overeenkomst en verschillen met de protestantse benadering van arbeid en beroep weergeven.",
+		"id": "ea5956ba-99f4-4c43-9035-6851763c6a29",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/71c",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de paradox van de verwerkelijking van de vrijheid via de vrije markt in de prestatiemaatschappij herkennen en uitleggen. Daarbij kunnen zij uitleggen dat de prestatiemaatschappij tot grote psychische druk voor het individu leidt.",
+		"id": "eaa9188d-669b-4b17-a5ac-ece8f7c00e84",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/72",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de twee strategieën die Nussbaum onderscheidt voor omgaan met afhankelijkheid en kwetsbaarheid in het menselijk leven (immunisering en erkenning) herkennen, uitleggen, toepassen en beoordelen.",
+		"id": "0489d8ee-b39e-4533-ba66-f8803fed0d2c",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/73",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de wijze waarop kwetsbaarheid en zin naar voren komen in elk van de vijf dimensies van het goede leven weergeven, uitleggen, toepassen en beoordelen.",
+		"id": "458e0f8e-ea0a-4cd7-bc08-150789c9b314",
+		"unreleased": true
+	},
+	{
+		"description": "Hoofdstuk 11 Op zoek naar een zinvol leven",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/74",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting van Camus ten aanzien van de afhankelijkheid en de kwetsbaarheid van een absurd en zinloos bestaan, weergeven en beoordelen. Daarbij kunnen zij Camus’ opvatting vergelijken met die van Nietzsches Übermensch, de christelijke agapè en de moderne zelfontplooiing.",
+		"id": "6b0a3826-3b91-43af-9855-6225541437a0",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (13): Martha Nussbaum - De breekbaarheid van het goede",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/75",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen met een voorbeeld uit de Griekse literatuur de opvatting van Nussbaum uitleggen dat het goede leven bij uitstek bestaat in de kwetsbaarheid ervan. Daarbij kunnen zij deze opvatting over het goede leven evalueren.",
+		"id": "109d420d-80b8-45ed-b7b3-f25bc1eb1956",
+		"unreleased": true
+	},
+	{
+		"description": "Primaire tekst (13): Martha Nussbaum - De breekbaarheid van het goede",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/76",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen verdere invulling geven aan de twee strategieën voor omgaan met afhankelijkheid en kwetsbaarheid in het menselijk bestaan (immunisering en erkenning). Daarbij kunnen zij Plato’s opvatting van het goede leven vergelijken met die van Aristoteles en uitleggen dat deze opvattingen niet elkaars tegenovergestelde zijn.",
+		"id": "2dab329b-d6ea-4ca6-b4e2-44672e7861d6",
+		"unreleased": true
+	},
+	{
+		"description": "Slot Voorbij de moderniteit",
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC/77",
+		"examenprogramma_domein_id": [
+			"1d093b1d-5a85-4a89-b229-f7f8562fd874"
+		],
+		"title": "De kandidaten kunnen de opvatting uitleggen dat de verabsolutering van de abstracte vrijheid van het individu binnen de context van de moderne markt de vijf dimensies ondermijnt waarbinnen die vrijheid pas vorm kan krijgen. Ook kunnen zij over deze opvatting een beargumenteerd standpunt innemen.",
+		"id": "478fe812-2413-4956-ac06-22328ffbfe71",
 		"unreleased": true
 	}
 ]
