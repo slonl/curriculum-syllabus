@@ -4944,6 +4944,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"description": "Kaarten maken",
+		"deleted": 1,
 		"dirty": "1"
 	},
 	{
@@ -5561,6 +5562,7 @@
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
 		"prefix": "A1.1c",
+		"deleted": 1,
 		"ce_se": ""
 	},
 	{
@@ -25989,6 +25991,7 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.4",
+		"deleted": 1,
 		"ce_se": ""
 	},
 	{
@@ -41242,6 +41245,7 @@
 		"title": "De kandidaat kan de volgende typen geografisch vragen erkennen en formuleren: beschrijvende vragen; verklarende vragen; voorspellende vragen; waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
 		"description": "",
 		"ce_se": "",
+		"deleted": 1,
 		"examenprogramma_eindterm_id": [
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
 		]
