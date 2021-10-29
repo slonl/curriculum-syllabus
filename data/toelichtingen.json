@@ -28215,5 +28215,41 @@
 		],
 		"id": "c3854226-3425-48f8-982e-b492ae6c3e3d",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"f8666341-e4f5-45fb-bb49-9967b3614945"
+		],
+		"title": "Relevante centrale begrippen van bekende filosofische posities herkennen, benoemen en uitleggen en begrippen uit bekende filosofische posities toepassen, met een voorbeeld",
+		"id": "10ddb4aa-c53a-408d-a56d-48f5afd0bb2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"34d6a9c0-ee7e-4d98-8483-fafa57650fc9"
+		],
+		"title": "De filosofische gedachtegang in zijn historische achtergrond en contextafhankelijke filosofische thematiek plaatsen - vooronderstellingen en implicaties bij filosofische begrippen, opvattingen en gedachtegangen benoemen en verhelderen -  een begripsanalyse van de sleutelbegrippen uitvoeren en definities van kernbegrippen opstellen en een logische analyse van argumentaties uitvoeren.",
+		"id": "df0b21dc-f792-416e-abe8-66a7355c2ed3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"57ecc65f-a08b-485c-bc71-649dd0e5d829"
+		],
+		"title": "Verschillende filosofische opvattingen en onderscheidingen vergelijken en toepassen aan de hand van voorbeelden en casussen - de betekenis van opvattingen voor het filosofisch debat aangeven - de contextafhankelijkheid, schaalgevoeligheid en strategische werking van een filosofisch begrip/thema onderzoeken aan de hand van casussen en een eigen filosofisch standpunt beargumenteerd innemen.",
+		"id": "ef9462c3-86e7-4229-8923-1e2e6f335cb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"68f24eaa-5442-4c30-bb98-e2e7935b0a1e"
+		],
+		"title": "Kritiek op de consistentie van de argumentatie geven - problemen aangeven bij definiëren/vastleggen betekenis van concepten - filosofische posities systematisch doordenken en de implicaties gebruiken als kritiek of verdediging van de positie - een afweging maken tussen filosofische posities op basis van externe criteria of een nieuw argument.",
+		"id": "241da06b-b2e9-49ac-a4d5-24555b5a06d4",
+		"unreleased": true
 	}
 ]
