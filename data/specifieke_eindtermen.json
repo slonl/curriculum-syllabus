@@ -5077,7 +5077,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "52d9d87d-9156-413a-a2fe-b6b719287a73",
@@ -25969,7 +25971,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.2",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
@@ -25979,7 +25982,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.3",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
@@ -25999,7 +26003,8 @@
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		],
 		"prefix": "A1.1a.1e.5",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -28288,7 +28293,9 @@
 		],
 		"title": "De kandidaat kan biologisch bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden in: foldermateriaal, studieboeken, naslagwerken, cd-rom/internet, bijsluiters, kranten/tijdschriften",
 		"id": "94b4c3c6-5862-4c8c-bcda-0934180f9334",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31208,7 +31215,8 @@
 			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
 		],
 		"prefix": "AK/K/6/11.5",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
@@ -31218,7 +31226,8 @@
 			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
 		],
 		"prefix": "AK/K/4/5.8\n",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "305a57c4-9077-4f4d-a604-f9fa6d9a9681",
