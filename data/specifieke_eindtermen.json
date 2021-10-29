@@ -4945,7 +4945,10 @@
 		],
 		"description": "Kaarten maken",
 		"deleted": 1,
-		"dirty": "1"
+		"dirty": "1",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.2a",
@@ -5080,7 +5083,10 @@
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "52d9d87d-9156-413a-a2fe-b6b719287a73",
@@ -5565,7 +5571,10 @@
 		],
 		"prefix": "A1.1c",
 		"deleted": 1,
-		"ce_se": ""
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"prefix": "AK/H/DomenB/B2/4a.1",
@@ -25974,7 +25983,10 @@
 		],
 		"prefix": "A1.1a.1e.2",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
@@ -25985,7 +25997,10 @@
 		],
 		"prefix": "A1.1a.1e.3",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
@@ -25996,7 +26011,10 @@
 		],
 		"prefix": "A1.1a.1e.4",
 		"deleted": 1,
-		"ce_se": ""
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "4fef2d14-596a-4eba-a392-c0df3e26ce7a",
@@ -26007,7 +26025,10 @@
 		],
 		"prefix": "A1.1a.1e.5",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -28298,7 +28319,10 @@
 		"id": "94b4c3c6-5862-4c8c-bcda-0934180f9334",
 		"unreleased": true,
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -31219,7 +31243,10 @@
 		],
 		"prefix": "AK/K/6/11.5",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
@@ -31230,7 +31257,10 @@
 		],
 		"prefix": "AK/K/4/5.8\n",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
 	},
 	{
 		"id": "305a57c4-9077-4f4d-a604-f9fa6d9a9681",
@@ -39356,7 +39386,11 @@
 		],
 		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2 (overwegend A2-opgaven, een enkele B1-komt voor)",
 		"id": "528633df-314f-462a-a7be-05c6c01b9e0c",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
 	},
 	{
 		"ce_se": "ce",
@@ -41257,6 +41291,9 @@
 		"deleted": 1,
 		"examenprogramma_eindterm_id": [
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
 		]
 	},
 	{
