@@ -2884,7 +2884,7 @@
 		"description": "Introductie; Staatsinrichting van Nederland",
 		"ce_se": "CE",
 		"prefix": "GS/K/5/6.1/bb",
-		"title": "monarchie/republiek, democratie/dictatuur, grondwet, scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: Beide kamers: recht van begroting en enquête. Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
+		"title": "monarchie",
 		"id": "03a47a5f-93c2-46ad-aa5b-6607e65655d9",
 		"unreleased": true
 	},
@@ -3658,6 +3658,174 @@
 		"prefix": "MU/V/A/1q",
 		"title": "bridge, couplet/verse, intro/inleiding/voorspel, naspel/coda, prechorus, refreind/chorus, tussenspel, rondo en rondorefrein, vormschema (letterschema zo nodig met accenten), vrije vorm",
 		"id": "14941f5b-13bc-465e-9740-5b0e9f13109f",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "republiek",
+		"id": "0e016790-232c-4373-ae8b-1754c198e547",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "democratie",
+		"id": "5d8331bd-fdd5-4804-963d-1952a525ee84",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "dictatuur",
+		"id": "abac0d83-99b1-40cb-aa0a-0b7dd033175e",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "grondwet",
+		"id": "e526df51-965a-4344-8fe4-8e125c797df8",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht",
+		"id": "10bcf5e2-7ccb-4ea4-bc06-667872eae3e5",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "rechtsstaat",
+		"id": "c639ad7e-37a8-4980-aa0c-6debe11b429b",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "onafhankeleijke rechtspraak",
+		"id": "fd3aff0e-d4a3-4b7f-bbab-f68c140a0df9",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer:",
+		"id": "a5807d27-ab95-490b-a7c5-1edf291a51c0",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Beide kamers: recht van begroting en enquête.",
+		"id": "fd83bde1-484c-4a05-b70d-8a7f16942871",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Tweede Kamer ook recht van initiatief en recht van amendement",
+		"id": "0bcf6e8b-ecc1-400c-b577-fc1d7225b1a8",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "verkiezingen",
+		"id": "947f007f-885a-4193-b07c-cf94f2f6167e",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "regering",
+		"id": "7a41b757-35f5-42b3-86f6-8fa7de6ea47b",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "coalitiepartijen",
+		"id": "f8b862a0-3afe-4cc6-9fce-1d6999133563",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "oppositiepartijen",
+		"id": "8f57c3cd-7d95-4210-a7f6-46ce41188dfe",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "de belangrijkste stappen van wetsvoorstel tot wet: minister",
+		"id": "3e148a2f-a82d-4f05-af51-639db91d8844",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "voorstel",
+		"id": "fd7f2427-2908-4677-ac26-2e06a7d9e64d",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Tweede Kamer met rechten",
+		"id": "a9e5822c-dc6f-418f-ac3f-e315a6849bc9",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Eerste Kamer met rechten",
+		"id": "c669763f-3f78-4de9-967e-3afd6b7cfa21",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "staatshoofden van Nederland: Willem II",
+		"id": "02c2b2dd-d758-4b97-9d55-f4c49741ae98",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Willem III",
+		"id": "d2dd54b5-c476-424f-abd4-7ceffa70ecdd",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Wilhelmina",
+		"id": "3058eb2a-7a0f-4d4a-b6f7-d1bb6db33547",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Juliana",
+		"id": "32c1a165-c190-4d42-a83d-c7b34afeddd4",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Beatrix",
+		"id": "c9ed9a83-d553-44bd-acd0-1368e3a11d24",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Willem-Alexander",
+		"id": "ee8a033b-0263-409e-953f-b06fdeb5ee1e",
 		"unreleased": true
 	}
 ]
