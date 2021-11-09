@@ -37011,11 +37011,38 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"03a47a5f-93c2-46ad-aa5b-6607e65655d9"
+			"03a47a5f-93c2-46ad-aa5b-6607e65655d9",
+			"0e016790-232c-4373-ae8b-1754c198e547",
+			"5d8331bd-fdd5-4804-963d-1952a525ee84",
+			"abac0d83-99b1-40cb-aa0a-0b7dd033175e",
+			"e526df51-965a-4344-8fe4-8e125c797df8",
+			"10bcf5e2-7ccb-4ea4-bc06-667872eae3e5",
+			"c639ad7e-37a8-4980-aa0c-6debe11b429b",
+			"fd3aff0e-d4a3-4b7f-bbab-f68c140a0df9",
+			"a5807d27-ab95-490b-a7c5-1edf291a51c0",
+			"fd83bde1-484c-4a05-b70d-8a7f16942871",
+			"0bcf6e8b-ecc1-400c-b577-fc1d7225b1a8",
+			"947f007f-885a-4193-b07c-cf94f2f6167e",
+			"7a41b757-35f5-42b3-86f6-8fa7de6ea47b",
+			"f8b862a0-3afe-4cc6-9fce-1d6999133563",
+			"8f57c3cd-7d95-4210-a7f6-46ce41188dfe",
+			"3e148a2f-a82d-4f05-af51-639db91d8844",
+			"fd7f2427-2908-4677-ac26-2e06a7d9e64d",
+			"a9e5822c-dc6f-418f-ac3f-e315a6849bc9",
+			"c669763f-3f78-4de9-967e-3afd6b7cfa21",
+			"02c2b2dd-d758-4b97-9d55-f4c49741ae98",
+			"d2dd54b5-c476-424f-abd4-7ceffa70ecdd",
+			"3058eb2a-7a0f-4d4a-b6f7-d1bb6db33547",
+			"32c1a165-c190-4d42-a83d-c7b34afeddd4",
+			"c9ed9a83-d553-44bd-acd0-1368e3a11d24",
+			"ee8a033b-0263-409e-953f-b06fdeb5ee1e"
 		],
 		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen",
 		"id": "b6844d69-7716-43f3-bf28-1be55a999cbb",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
