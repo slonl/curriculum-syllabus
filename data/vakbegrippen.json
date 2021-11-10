@@ -2895,7 +2895,10 @@
 		"title": "monarchie/republiek, democratie/dictatuur, grondwet, scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie, Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
 		"id": "debb93fa-50c5-4474-b5cf-ee54fb66b75d",
 		"unreleased": true,
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
@@ -2904,7 +2907,10 @@
 		"title": "monarchie/republiek, democratie/dictatuur, grondwet/constitutie, scheiding tussen de wetgevende/de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie/ Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
 		"id": "1fc26a72-54c6-42f0-832e-cde3441594b1",
 		"unreleased": true,
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"syllabus_vakbegrip"
+		]
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
@@ -3842,6 +3848,104 @@
 		"ce_se": "CE",
 		"title": "constitutie",
 		"id": "21a0cb78-a89b-4d57-939e-0726b0967629",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Klassieke grondrechten (bescherming tegen de overheid):",
+		"id": "61214685-c56b-4b8b-9460-73042ce34819",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van godsdienst",
+		"id": "d03b2ff5-0eec-45eb-a863-70ca762f719a",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van meningsuiting",
+		"id": "33b4f349-3981-4a4f-89d4-512286f51bae",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van drukpers",
+		"id": "575de227-7c82-40b7-b390-b4a9e2e73aef",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van vereniging en vergadering",
+		"id": "dd4e1128-a6eb-4414-9f0c-d83367390f94",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van onderwijs",
+		"id": "6e96e390-9af4-4949-ad47-904ff2c8457f",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Sociale grondrechten (bescherming door de overheid):",
+		"id": "05f519b2-4222-44ec-973b-d6d5ed5a684f",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op bestaanszekerheid",
+		"id": "615623aa-a271-4f34-bf0d-dd419abca638",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op onderwijs",
+		"id": "a520b42b-d1e9-4afb-b3f2-cae9954790d8",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op gezondheidszorg",
+		"id": "cabc6254-d5e2-4de6-bf3d-980dac1c93bd",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op woongelegenheid",
+		"id": "8328b5f1-a010-4f1c-b00b-cb55971a2a02",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op werk",
+		"id": "b65c850c-9734-4445-ba6f-f1d42dba4d87",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op rechtsbijstand",
+		"id": "27bb51c0-7b96-417a-b97f-25066e9381cb",
+		"unreleased": true
+	},
+	{
+		"description": "Introductie; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht op bewoonbaarheid van het land",
+		"id": "378e26d6-55ed-43b7-9561-cceb73e727e5",
 		"unreleased": true
 	}
 ]
