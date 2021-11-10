@@ -37136,11 +37136,26 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"98205aef-e652-41cb-8f0d-1f83b1344010"
+			"61214685-c56b-4b8b-9460-73042ce34819",
+			"d03b2ff5-0eec-45eb-a863-70ca762f719a",
+			"33b4f349-3981-4a4f-89d4-512286f51bae",
+			"575de227-7c82-40b7-b390-b4a9e2e73aef",
+			"dd4e1128-a6eb-4414-9f0c-d83367390f94",
+			"6e96e390-9af4-4949-ad47-904ff2c8457f",
+			"05f519b2-4222-44ec-973b-d6d5ed5a684f",
+			"615623aa-a271-4f34-bf0d-dd419abca638",
+			"a520b42b-d1e9-4afb-b3f2-cae9954790d8",
+			"cabc6254-d5e2-4de6-bf3d-980dac1c93bd",
+			"8328b5f1-a010-4f1c-b00b-cb55971a2a02",
+			"b65c850c-9734-4445-ba6f-f1d42dba4d87",
+			"27bb51c0-7b96-417a-b97f-25066e9381cb"
 		],
 		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
 		"id": "676ed461-cfd0-48b7-859c-f3f429d09d57",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
@@ -37150,11 +37165,29 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"b61194c7-97dc-450a-8468-1ccf67b94c76"
+			"61214685-c56b-4b8b-9460-73042ce34819",
+			"d03b2ff5-0eec-45eb-a863-70ca762f719a",
+			"33b4f349-3981-4a4f-89d4-512286f51bae",
+			"575de227-7c82-40b7-b390-b4a9e2e73aef",
+			"dd4e1128-a6eb-4414-9f0c-d83367390f94",
+			"6e96e390-9af4-4949-ad47-904ff2c8457f",
+			"05f519b2-4222-44ec-973b-d6d5ed5a684f",
+			"615623aa-a271-4f34-bf0d-dd419abca638",
+			"a520b42b-d1e9-4afb-b3f2-cae9954790d8",
+			"cabc6254-d5e2-4de6-bf3d-980dac1c93bd",
+			"8328b5f1-a010-4f1c-b00b-cb55971a2a02",
+			"b65c850c-9734-4445-ba6f-f1d42dba4d87",
+			"27bb51c0-7b96-417a-b97f-25066e9381cb",
+			"378e26d6-55ed-43b7-9561-cceb73e727e5"
 		],
 		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
 		"id": "bd81d94d-b9a1-4b81-ad24-239a3b539786",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
