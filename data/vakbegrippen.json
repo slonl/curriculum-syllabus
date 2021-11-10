@@ -2883,7 +2883,7 @@
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"prefix": "GS/K/5/6.1/bb",
+		"prefix": "",
 		"title": "monarchie",
 		"id": "03a47a5f-93c2-46ad-aa5b-6607e65655d9",
 		"unreleased": true
@@ -2894,7 +2894,8 @@
 		"prefix": "GS/K/5/6.1/kb",
 		"title": "monarchie/republiek, democratie/dictatuur, grondwet, scheiding tussen de wetgevende - de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie, Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
 		"id": "debb93fa-50c5-4474-b5cf-ee54fb66b75d",
-		"unreleased": true
+		"unreleased": true,
+		"deleted": 1
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
@@ -2902,7 +2903,8 @@
 		"prefix": "GS/K/5/6.1/gt",
 		"title": "monarchie/republiek, democratie/dictatuur, grondwet/constitutie, scheiding tussen de wetgevende/de uitvoerende en de rechterlijke macht, rechtsstaat/onafhankeleijke rechtspraak, controlerende en wetgevende bevoegdheden van Eerste en Tweede Kamer: recht van budget, enquête en interpellatie/ Tweede Kamer ook recht van initiatief en recht van amendement, verkiezingen/regering/coalitiepartijen/oppositiepartijen, de belangrijkste stappen van wetsvoorstel tot wet: minister/voorstel/Tweede Kamer met rechten/ Eerste Kamer met rechten, staatshoofden van Nederland: Willem II/Willem III/ Wilhelmina/Juliana/Beatrix/Willem-Alexander",
 		"id": "1fc26a72-54c6-42f0-832e-cde3441594b1",
-		"unreleased": true
+		"unreleased": true,
+		"deleted": 1
 	},
 	{
 		"description": "Introductie; Staatsinrichting van Nederland",
