@@ -37197,11 +37197,15 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"c03a666c-e8ed-4c81-93c5-7f6431d62d1a"
+			"e5c49e32-fe3c-4eda-a46b-e63a8b626ea5",
+			"5f9867b0-4dc7-46b3-a8dc-b217b4f9387e"
 		],
 		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Nederland, voor tijdens en na 1848 herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "c783f25a-dae7-42c1-9d53-d3159b79f719",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
@@ -37211,12 +37215,18 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"e500d64f-0a8e-422f-8325-9ba10b8af18b",
-			"ced134cd-7d4a-4078-959c-a2bf5aacdaea"
+			"e5c49e32-fe3c-4eda-a46b-e63a8b626ea5",
+			"5f9867b0-4dc7-46b3-a8dc-b217b4f9387e",
+			"d6ede882-5ab1-4951-822a-74b2343db079"
 		],
 		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Nederland, voor tijdens en na 1848 herkennen, beschrijven en in het juiste tijdsgewricht plaatsen.",
 		"id": "988b34d3-4d72-47ef-89fc-3958a5e95e65",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
@@ -37226,26 +37236,43 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"91c06ee1-1bc7-4e52-a07b-5203c0e47f31"
+			"81bf2b0b-6ba8-4347-b3ed-9bd587fa61d1",
+			"a6bf96d7-bd56-4558-a4c7-b95db3ee265c",
+			"e55332f3-e0df-455f-8fa6-b9ebacd69ee2",
+			"6d45ebbf-8584-421f-ac77-247653e771c0"
 		],
 		"title": "De kandidaat kan kenmerkende veranderingen, gebeurtenissen, personen en ontwikkelingen in Nederland ten tijde van de industrialisatie in de tweede helft van de negentiende eeuw noemen, herkennen.",
 		"id": "f579c3af-e520-4737-9ec2-52973c0f983e",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"prefix": "GS/K/5/6.4/kb",
+		"prefix": "GS/K/5/6.4/kgt",
 		"examenprogramma_eindterm_id": [
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"d8346861-ae79-4951-826f-89d129befe94",
-			"6b2be9f0-3d2f-45fa-852b-e5a8df7afb3d"
+			"81bf2b0b-6ba8-4347-b3ed-9bd587fa61d1",
+			"a6bf96d7-bd56-4558-a4c7-b95db3ee265c",
+			"e55332f3-e0df-455f-8fa6-b9ebacd69ee2",
+			"6d45ebbf-8584-421f-ac77-247653e771c0",
+			"bf88b3e9-0264-4828-ae9e-0bf683a74a1f",
+			"ccab4b0f-15b6-491a-89b8-145122f2845a",
+			"a4ba8d59-c6d7-44e0-8d2b-195fe16afdcf",
+			"576c66bb-76e8-464f-bd42-5fca4f1d2322"
 		],
 		"title": "De kandidaat kan kenmerkende veranderingen, gebeurtenissen, personen en ontwikkelingen in Nederland ten tijde van de industrialisatie in de tweede helft van de negentiende eeuw noemen, herkennen, beschrijven en toepassen.",
 		"id": "d60169d9-9f0c-4aa7-a82d-abea55e7ffe7",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
