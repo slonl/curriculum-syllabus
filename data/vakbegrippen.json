@@ -4024,5 +4024,145 @@
 		"title": "van liefdadigheid naar sociale wetgeving (zoals Armenwet, Kinderwetje van Van Houten, ongevallenwet, Woningwet)",
 		"id": "576c66bb-76e8-464f-bd42-5fca4f1d2322",
 		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "parlementaire democatie",
+		"id": "0d40f4ee-31a9-4a54-a58b-7f481cc96392",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Klassieke grondrechten (bescherming tegen de overheid):",
+		"id": "4b78ddff-00f7-48ed-80a5-669277121a44",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van godsdienst",
+		"id": "d154e1be-7e9b-4345-9ee8-1fb4c90e2195",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van meningsuiting",
+		"id": "03b3aca0-4978-4911-ba0b-ec2ca34371ec",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van drukpers",
+		"id": "1b0d0a4d-d9d1-4e4d-a6c0-f733636de07a",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "in 1848 ook recht van vereniging en vergadering",
+		"id": "ae25757f-01b1-4185-9fc5-df1578b8d8ac",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "vrijheid van onderwijs",
+		"id": "581d5315-d35a-48d0-a375-9f148b9f1201",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "nieuwe rechten voor Tweede Kamer:",
+		"id": "960a855e-0753-4edc-97eb-3b69e393c544",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht van amendement",
+		"id": "80e8926d-d0b1-41c1-a361-673d30cb1a64",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "recht van enquête",
+		"id": "127903d0-dd9b-4f5a-8ef9-f32db984c42b",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "beperking macht koning",
+		"id": "8f54cc41-e490-4b18-bd64-3c07513ce037",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "uitbreiding macht parlement",
+		"id": "44efc392-29fc-46b1-87bb-cfc01b9eac7c",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "ministeriële verantwoordelijkheid",
+		"id": "e60c5acf-9e11-437c-85e1-0e5129ef65b9",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "rechtstreekse verkiezingen op:",
+		"id": "1a9658e5-88e5-4e98-97ca-cb7626ee93fd",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "lokaal (gementeraad)",
+		"id": "18057207-6b17-4f4f-9faa-ad072494f75a",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "provinciaal (Provinciale Staten)",
+		"id": "eaf377a8-8b27-4037-b1fe-b687c4fcbdd2",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "landelijk niveau (Tweede Kamer)",
+		"id": "159ef65f-1424-4387-ac96-ffee6f9f54de",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "censuskiesrecht",
+		"id": "3e03c8af-53c2-4958-a21e-82a6e08ba30e",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "indirecte verkiezing Eerste Kamer door de Provinciale Staten",
+		"id": "0e286daf-9bdf-4c6c-9d01-b20d7de554df",
+		"unreleased": true
+	},
+	{
+		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "onschedbaarheid van de koning",
+		"id": "37e42ec9-b5a5-43cc-8a68-ad2015eac5e6",
+		"unreleased": true
 	}
 ]
