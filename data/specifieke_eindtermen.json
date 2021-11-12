@@ -37282,11 +37282,31 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"9697c07f-e0d5-40d5-8302-a68b2123a8ce"
+			"0d40f4ee-31a9-4a54-a58b-7f481cc96392",
+			"4b78ddff-00f7-48ed-80a5-669277121a44",
+			"d154e1be-7e9b-4345-9ee8-1fb4c90e2195",
+			"03b3aca0-4978-4911-ba0b-ec2ca34371ec",
+			"1b0d0a4d-d9d1-4e4d-a6c0-f733636de07a",
+			"ae25757f-01b1-4185-9fc5-df1578b8d8ac",
+			"581d5315-d35a-48d0-a375-9f148b9f1201",
+			"960a855e-0753-4edc-97eb-3b69e393c544",
+			"80e8926d-d0b1-41c1-a361-673d30cb1a64",
+			"127903d0-dd9b-4f5a-8ef9-f32db984c42b",
+			"8f54cc41-e490-4b18-bd64-3c07513ce037",
+			"44efc392-29fc-46b1-87bb-cfc01b9eac7c",
+			"e60c5acf-9e11-437c-85e1-0e5129ef65b9",
+			"1a9658e5-88e5-4e98-97ca-cb7626ee93fd",
+			"18057207-6b17-4f4f-9faa-ad072494f75a",
+			"eaf377a8-8b27-4037-b1fe-b687c4fcbdd2",
+			"159ef65f-1424-4387-ac96-ffee6f9f54de",
+			"3e03c8af-53c2-4958-a21e-82a6e08ba30e"
 		],
 		"title": "De kandidaat kan veranderingen herkennen in de bevoegdheden van parlement, volksvertegenwoordiging/ Staten-Generaal, Eerste en Tweede Kamer die in 1848 tot stand kwamen.",
 		"id": "720f312c-aecf-4dc6-8804-e2eee4341c5a",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
@@ -37296,12 +37316,35 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"240ffca9-7922-45b8-96a3-d4faddab10ac",
-			"f7eb44ad-b874-4a5d-adca-99a6349ea2e1"
+			"0d40f4ee-31a9-4a54-a58b-7f481cc96392",
+			"4b78ddff-00f7-48ed-80a5-669277121a44",
+			"d154e1be-7e9b-4345-9ee8-1fb4c90e2195",
+			"03b3aca0-4978-4911-ba0b-ec2ca34371ec",
+			"1b0d0a4d-d9d1-4e4d-a6c0-f733636de07a",
+			"ae25757f-01b1-4185-9fc5-df1578b8d8ac",
+			"581d5315-d35a-48d0-a375-9f148b9f1201",
+			"960a855e-0753-4edc-97eb-3b69e393c544",
+			"80e8926d-d0b1-41c1-a361-673d30cb1a64",
+			"127903d0-dd9b-4f5a-8ef9-f32db984c42b",
+			"8f54cc41-e490-4b18-bd64-3c07513ce037",
+			"44efc392-29fc-46b1-87bb-cfc01b9eac7c",
+			"e60c5acf-9e11-437c-85e1-0e5129ef65b9",
+			"1a9658e5-88e5-4e98-97ca-cb7626ee93fd",
+			"18057207-6b17-4f4f-9faa-ad072494f75a",
+			"eaf377a8-8b27-4037-b1fe-b687c4fcbdd2",
+			"159ef65f-1424-4387-ac96-ffee6f9f54de",
+			"3e03c8af-53c2-4958-a21e-82a6e08ba30e",
+			"0e286daf-9bdf-4c6c-9d01-b20d7de554df",
+			"37e42ec9-b5a5-43cc-8a68-ad2015eac5e6"
 		],
 		"title": "De kandidaat kan veranderingen herkennen en beschrijven in de bevoegdheden van parlement, volksvertegenwoordiging/ Staten-Generaal, Eerste en Tweede Kamer die in 1848 tot stand kwamen.",
 		"id": "bf3cd21a-a2ff-4905-9274-e1167d804b2d",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
