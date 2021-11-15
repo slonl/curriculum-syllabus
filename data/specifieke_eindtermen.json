@@ -37494,11 +37494,20 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"80d9789c-b355-4b4b-adee-f0a1293469fe"
+			"fe24472a-4911-4742-946a-7d029f2ff28f",
+			"f5320af7-e228-4b09-9067-f836b82c4263",
+			"9d61139b-cdeb-451e-bcc8-a0bb61f19215",
+			"f530cfd4-549a-4feb-ab75-658a48685045",
+			"64ea1dfd-3649-4e23-8590-c3fc04e3985d",
+			"dc487fcf-3993-400e-8d23-a32773e47e10",
+			"2d8d21a1-3ee7-422e-a398-8ede25802be2"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland tijdens de Eerste Wereldoorlog herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "a9918c00-effd-4bc2-a0b5-b0523cabf50e",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
@@ -37508,11 +37517,23 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"f62593ad-1303-47fe-9edd-ca9c915740aa"
+			"fe24472a-4911-4742-946a-7d029f2ff28f",
+			"f5320af7-e228-4b09-9067-f836b82c4263",
+			"9d61139b-cdeb-451e-bcc8-a0bb61f19215",
+			"f530cfd4-549a-4feb-ab75-658a48685045",
+			"0cbfa1ba-338a-4241-928e-acb233ed4c6a",
+			"64ea1dfd-3649-4e23-8590-c3fc04e3985d",
+			"dc487fcf-3993-400e-8d23-a32773e47e10",
+			"2d8d21a1-3ee7-422e-a398-8ede25802be2"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland tijdens de Eerste Wereldoorlog herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
 		"id": "352d26c5-a801-45ef-8ded-988c73974fda",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
@@ -37522,11 +37543,17 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"ede1f099-7675-4e47-9501-ec3492cc133a"
+			"bbb62b85-77f5-4c54-8457-ee53eefb44f0",
+			"a484cbf1-eac0-4574-aec9-541206f5fee5",
+			"1de824f9-3c3c-4f02-a83f-c50f468b2cae",
+			"6bb15e14-732e-4283-a472-f9e54740b145"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen",
 		"id": "5e69c299-5aa0-431e-9aef-010ae31c1265",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
@@ -37536,11 +37563,28 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"0d4bf4c4-87c1-4ebc-b51e-e622d1de96f6"
+			"d8e63dcc-ab2f-4e5c-8a1e-24b536ce59f2",
+			"c9a186a3-4d84-4277-bcb4-98aa19696c51",
+			"b7a30f20-6a77-4ac4-be17-335b259cb48d",
+			"6effe761-f3d8-4295-a73e-b18731e0055f",
+			"c03af2f1-3b1e-43b3-8745-12a1b172944a",
+			"bbb62b85-77f5-4c54-8457-ee53eefb44f0",
+			"a484cbf1-eac0-4574-aec9-541206f5fee5",
+			"26858178-3f19-46ad-8729-c2366dc5e52d",
+			"43b2db3a-708e-482f-93f0-517cf25b3aaa",
+			"0b8eced3-e337-4988-ae60-b26cbef9e43b",
+			"0d58cc51-5305-4ec3-9bb8-eadf856eb65e",
+			"6bb15e14-732e-4283-a472-f9e54740b145",
+			"2fc38716-cf94-492f-83e6-c33849208833"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
 		"id": "e0c5e2fe-a7f0-4197-a0c5-f5f9aa5fa8bb",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
@@ -37550,16 +37594,7 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"9e1960ea-83b5-4e69-8a59-7826a5a2ab1d",
-			"320fbda2-135e-42b6-b955-b7881f9cf131",
-			"4602439a-b1dd-4573-9fc9-be66a663f8c6",
-			"a9839674-c9e4-4ad6-9adc-63cf3f894f86",
-			"9983c385-6ba4-4636-8afc-d4b6faafe87d",
-			"0b4a99ce-0f00-4ab4-a275-38eb8d537599",
-			"5d55cddc-ca03-45a0-b807-3ce0a04db390",
-			"00a3e0f0-5fdf-46cf-8c1f-51d953661e3f",
-			"1c3a53e8-6fb9-4f60-820b-ca2952b07e60",
-			"cad79fac-14a5-4346-a6e3-1e193ab788c2"
+			"c894b78a-09bc-4d0c-a671-d115848e955b"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "048f2f56-d43c-44ca-a043-826c48606282",
@@ -37573,25 +37608,11 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"9e1960ea-83b5-4e69-8a59-7826a5a2ab1d",
-			"320fbda2-135e-42b6-b955-b7881f9cf131",
-			"4602439a-b1dd-4573-9fc9-be66a663f8c6",
-			"a9839674-c9e4-4ad6-9adc-63cf3f894f86",
-			"9983c385-6ba4-4636-8afc-d4b6faafe87d",
-			"0b4a99ce-0f00-4ab4-a275-38eb8d537599",
-			"5d55cddc-ca03-45a0-b807-3ce0a04db390",
-			"00a3e0f0-5fdf-46cf-8c1f-51d953661e3f",
-			"1c3a53e8-6fb9-4f60-820b-ca2952b07e60",
-			"cad79fac-14a5-4346-a6e3-1e193ab788c2"
+			"c14c3d5d-9206-4b51-9d4d-d682bae1ac0e"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
 		"id": "0cd964c8-289b-4007-95c1-6e0521d90745",
-		"unreleased": true,
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		"unreleased": true
 	},
 	{
 		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
@@ -37601,15 +37622,11 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"031c13da-7b2f-43a5-b4f2-2c45a6c76933",
-			"20dd53e6-76fa-42ee-96b8-3a63e3c7c37c"
+			"e6602b9b-e113-4495-af8e-39593f0861d3"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen.",
 		"id": "6b529fb9-8ca0-49f1-bdf4-0e16323c7cfe",
-		"unreleased": true,
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		"unreleased": true
 	},
 	{
 		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
@@ -37619,17 +37636,11 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"031c13da-7b2f-43a5-b4f2-2c45a6c76933",
-			"20dd53e6-76fa-42ee-96b8-3a63e3c7c37c"
+			"2c56a555-1f1e-41fe-888f-560f24adf563"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
 		"id": "67499639-a14f-453a-89dd-21e7f394f3a4",
-		"unreleased": true,
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		"unreleased": true
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
