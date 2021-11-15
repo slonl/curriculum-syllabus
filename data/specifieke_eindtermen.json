@@ -38429,11 +38429,33 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"acbdaef8-3892-4801-ae11-ea0e2375089e"
+			"c0f1ea37-049d-4e69-a3c3-648f9373ce2f",
+			"83eb2c61-9229-4587-acd4-8dd09388ea1e",
+			"e663143d-4f11-4484-8811-435de5d8bcab",
+			"637c70c7-cf93-4e8b-8434-570e730ae4bc",
+			"05543bb0-d4e3-48e6-9d2a-073893d04097",
+			"59c5c403-70bb-402c-8418-496d07fd00c2",
+			"4be7a40a-920e-4681-8194-c4abf86524d6",
+			"f1ce0005-62d6-45e2-b804-619b317cf661",
+			"7651b641-4f6c-4207-b41c-483c77ab5880",
+			"dad215d1-c399-4ab0-8b21-3084a36d5ee5",
+			"0b1dd5e4-c3e8-4560-96dd-a06fbcacc551",
+			"ec3c6048-ca73-40fc-b0bc-d6ece3ccd261",
+			"47bfdc2e-ce0b-41a8-89b3-574291bfaa22",
+			"83c63021-c35d-42e2-b3da-b2baac68fe0e",
+			"025803b5-92ea-41f2-8cce-cf212b9ea4c6",
+			"00e417e7-25b0-4233-983b-0878dc74529c",
+			"64bada87-c520-4079-bddf-556062c331a8",
+			"155bb642-31fc-46f2-9680-a8fb26178a9a",
+			"bf34d43e-b4a5-457e-ba17-cffdd06cfeeb"
 		],
 		"title": "De kandidaat kan de belangrijkste kenmerken in de Sovjet-Unie als voorbeeld van een extreemlinkse totalitaire staat herkennen en beschrijven.",
 		"id": "767b1458-9bf2-4cfc-9e06-60cba5d5c6e5",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
@@ -38465,11 +38487,38 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"7c529de2-b676-4a04-9d08-7ec84bce6f52"
+			"d466707c-ab33-4d42-a190-da0e665bb4ff",
+			"d85f6c1d-d539-4b08-9546-a27fa11a2927",
+			"51e91cf0-c657-4e34-9ee6-63ebaa50238a",
+			"bdc5c7bf-81c8-4575-bb8f-45379368bc0b",
+			"c2d8dc5d-dcb2-4638-b07d-bfbd250d4017",
+			"62fad49b-92fb-4f45-a573-9c0c4b1ef16c",
+			"6361f9d1-c2e5-445c-bd72-2d93c5bf902d",
+			"f5d17144-6b58-4a5c-bf6c-ae27d5122511",
+			"b40f92ec-5bb3-4a50-912f-2e749debf2ea",
+			"5b2822b3-e92c-412d-b6ae-79e5ff39a837",
+			"e8d898a6-6a22-4fa4-a6c4-e071fab78928",
+			"6dc59bef-ab01-4f12-b580-b2e7954d8f3f",
+			"94680392-9019-4365-b9bf-330b1e40613c",
+			"e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"1e08a56a-f808-4ccc-a2a6-c0f775f04101",
+			"8dc065b0-066f-4c32-b76f-fe7968a1aeff",
+			"91becece-42f9-4090-aa5c-820b4f216d3c",
+			"1178233f-349d-4599-b810-3d9ac9baa967",
+			"c92b0719-f8d6-4702-8575-4bb9ba348ee6",
+			"c92e253b-5eb1-4872-90b9-eec130b459ab",
+			"0bbd61ef-1dbb-40ca-9021-98cde7a6f974",
+			"6fc3bd0e-da2d-4697-bc97-fb073c28aa8e",
+			"8633454a-ed3a-46b2-b1aa-cda0eebef965",
+			"26ce46d6-4267-4612-a3bb-2575c3d72586",
+			"e527a701-0d64-4a81-b489-e45ab0de8b83"
 		],
 		"title": "De kandidaat kan de oorzaken, begin, verloop en afloop van de Tweede Wereldoorlog herkennen en noemen.",
 		"id": "e7e8ae29-b6ef-436e-8d0a-5961651d9dbd",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
@@ -38479,11 +38528,46 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"85eb5fe7-4d59-4471-8cab-5d503e1725be"
+			"d466707c-ab33-4d42-a190-da0e665bb4ff",
+			"d85f6c1d-d539-4b08-9546-a27fa11a2927",
+			"51e91cf0-c657-4e34-9ee6-63ebaa50238a",
+			"4e705dfe-8aa1-4db8-a956-1472e9ab153e",
+			"bdc5c7bf-81c8-4575-bb8f-45379368bc0b",
+			"c2d8dc5d-dcb2-4638-b07d-bfbd250d4017",
+			"62fad49b-92fb-4f45-a573-9c0c4b1ef16c",
+			"6361f9d1-c2e5-445c-bd72-2d93c5bf902d",
+			"bd10bb12-9dfc-4462-8986-0d34deab0bb9",
+			"29888d99-1dff-4fae-8a85-8cd203575afd",
+			"f5d17144-6b58-4a5c-bf6c-ae27d5122511",
+			"b40f92ec-5bb3-4a50-912f-2e749debf2ea",
+			"5b2822b3-e92c-412d-b6ae-79e5ff39a837",
+			"e8d898a6-6a22-4fa4-a6c4-e071fab78928",
+			"6dc59bef-ab01-4f12-b580-b2e7954d8f3f",
+			"2e72a538-3c7a-41db-95fd-c6290aedb4b0",
+			"94680392-9019-4365-b9bf-330b1e40613c",
+			"e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"1e08a56a-f808-4ccc-a2a6-c0f775f04101",
+			"1f6dce50-c5f1-4e02-99e4-9e5ea10da28c",
+			"91becece-42f9-4090-aa5c-820b4f216d3c",
+			"1178233f-349d-4599-b810-3d9ac9baa967",
+			"dcc77c3c-b17c-49e8-bb44-bee9ec49f0f7",
+			"188c2c12-691e-45d1-894b-8f07fa27dc2b",
+			"c92b0719-f8d6-4702-8575-4bb9ba348ee6",
+			"c92e253b-5eb1-4872-90b9-eec130b459ab",
+			"0bbd61ef-1dbb-40ca-9021-98cde7a6f974",
+			"6fc3bd0e-da2d-4697-bc97-fb073c28aa8e",
+			"8633454a-ed3a-46b2-b1aa-cda0eebef965",
+			"26ce46d6-4267-4612-a3bb-2575c3d72586",
+			"e527a701-0d64-4a81-b489-e45ab0de8b83"
 		],
 		"title": "De kandidaat kan de oorzaken, begin, verloop en afloop van de Tweede Wereldoorlog herkennen, noemen en beschrijven.",
 		"id": "22b3ad06-e887-40a0-a607-29150a559b30",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
