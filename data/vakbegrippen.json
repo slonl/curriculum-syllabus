@@ -3340,7 +3340,7 @@
 		"description": "De periode 1945-1989, Europa (en de wereld)",
 		"ce_se": "CE",
 		"prefix": "GS/K/10/16.17/kgt",
-		"title": "Europese mogendheden verzwakt/ dekolonisatie",
+		"title": "Europese mogendheden verzwakt",
 		"id": "563c8785-5284-44b1-b2c2-782d2562578e",
 		"unreleased": true
 	},
@@ -6494,6 +6494,174 @@
 		"ce_se": "CE",
 		"title": "massamoorden",
 		"id": "188c2c12-691e-45d1-894b-8f07fa27dc2b",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "As-mogendheden: Duitsland, Italië en Japan",
+		"id": "710f98be-f2e1-486b-a4fb-8607e1190d9c",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Geallieerden: Groot-Brittannië",
+		"id": "60efb42b-5d90-4399-b17b-006a2ee260e4",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Sovjet-Unie (vanaf 1941)",
+		"id": "cc4a07e8-4699-4baf-9565-f9cd6e49f8d5",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Verenigde Staten (vanaf 1941)",
+		"id": "a2ab36c9-2610-470f-b1f0-6cfedd3f3a1f",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Churchill",
+		"id": "37f7d17a-e9ab-4091-b6eb-80707a34f3dc",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Roosevelt",
+		"id": "3f39ed33-6258-4ede-8e22-b8aa3bbe4169",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Stalin",
+		"id": "dad5ac2e-9a03-458a-8a56-6fe13be85c76",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1939",
+		"id": "4bffe632-09a0-4940-ad84-3d6477f8db1f",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1941",
+		"id": "53f92bd2-50d4-44e5-815e-6e17cfb92b15",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1942-1943",
+		"id": "fc196efc-e309-4718-9c70-c3ea00925ef2",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "16229",
+		"id": "3867dd84-17ef-4bfd-a755-218a65b0fa45",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1945",
+		"id": "f05bd737-f5b2-4908-871f-b6bc65c1c206",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "dekolonisatie",
+		"id": "0b52c4bf-f512-46c3-ba09-3be122e9d6b3",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Koude Oorlog",
+		"id": "b5501d08-2a28-4aae-8306-64e77ff05b76",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "invloedssferen",
+		"id": "a44806c3-d976-49d9-9bf8-0c576fc812b9",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "satellietstaten",
+		"id": "66a1725d-62e3-4855-a40d-01da4a22fbc2",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "IJzeren Gordijn",
+		"id": "079e3343-6ed8-40b6-b4f2-8aefdc8323b7",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "blokkade Berlijn",
+		"id": "2a02934d-34e9-4d60-88aa-7f4975672f93",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "stichting BRD en DDR",
+		"id": "04c77058-fe38-4cb4-9ae0-3ce186656496",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "oprichting NAVO en Warschaupact",
+		"id": "ef098480-7c08-4628-b4ec-23b2ed89796c",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "kernwapens als afschrikking",
+		"id": "5d59ee70-649f-42ae-97a7-e535f90bf167",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "containment",
+		"id": "251bc8c0-f97c-49db-a27c-1a6a4ac6ce94",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "ideologische tegenstelling tussen enerzijs kapitalisme en democratie",
+		"id": "d3ec3497-0591-4481-afcc-9301357c3c9a",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "anderzijds communisme en dictatuur",
+		"id": "2053c20b-0098-4591-a2e7-066b25e452e8",
 		"unreleased": true
 	}
 ]
