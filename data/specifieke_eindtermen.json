@@ -37954,11 +37954,18 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"bd41e869-c2b7-44b7-a591-004cbd1af2a5"
+			"44cd315b-7340-4a30-9763-88c067753343",
+			"ca73e466-d8c7-4dc9-b989-8753c7c7bd79",
+			"2382d33b-2efe-4a55-a600-e15d488b91ac",
+			"d2d75818-0377-4835-b4bc-5237e72f86f1",
+			"a03bbf16-e319-4c16-9b45-cecd1edc3dd4"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland in het juiste tijdsgewricht plaatsen.",
 		"id": "1c472bf8-16ae-482d-bbd0-be88349b8b3f",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
@@ -37968,11 +37975,24 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"e94714b7-6f10-4c65-871e-68f107a90117"
+			"44cd315b-7340-4a30-9763-88c067753343",
+			"ca73e466-d8c7-4dc9-b989-8753c7c7bd79",
+			"8a76ec5c-ce54-47ef-86ba-29b04a81e2fa",
+			"410a6a6a-7a03-452d-bc63-e3d92d238562",
+			"d6a74e50-e0a8-4e42-828d-97f35b16ac9c",
+			"6bc6eb5a-234b-4157-8402-1a6fa3c06669",
+			"a1d5bed6-62e7-4f0e-a469-6b6af0949e1c",
+			"3431d9ec-a413-4022-9e8f-aa41dbab3b8e",
+			"a131581f-f053-4a69-a0b0-006617c1d084"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland in het juiste tijdsgewricht plaatsen en toepassen.",
 		"id": "d8e7ba05-f1b8-4ed8-b702-a4a636a564e5",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
@@ -37982,11 +38002,23 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"cfe523a2-af12-4b82-8a87-05e5129956ee"
+			"cc0b9604-3fdb-4a1f-888c-397f37f45d7b",
+			"be32355b-e101-4dd0-b064-aeb306966560",
+			"7b9b026e-a64e-445d-85dd-cad1e699fc7f",
+			"835480ef-a81c-4bc4-ab5b-62de414c7dba",
+			"0392ef63-026a-44d8-949c-019169ee0f7d",
+			"87758f2f-05f8-4750-81ea-241fb8e64713",
+			"d36e9465-520f-4cdf-af8f-9e2dac7c15a4",
+			"a03bbf16-e319-4c16-9b45-cecd1edc3dd4"
 		],
 		"title": "De kandidaat kan de gevolgen van voortgaande Europese samenwerking voor Nederland herkennen en beschrijven.",
 		"id": "e6a07b95-768b-4139-bcc7-1a32f99eaf77",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Nieuwe Wereldorde (vanaf 1990), Staatsinrichting van Nederland",
@@ -38011,11 +38043,17 @@
 		],
 		"syllabus_vakbegrip_id": [
 			"8bebf765-e419-4da7-87f3-d4218997cc42",
-			"aa2d6db6-b3f4-4aad-8726-c078d724cda7"
+			"aa2d6db6-b3f4-4aad-8726-c078d724cda7",
+			"4b75162c-d63f-4763-bbfd-eb92434c24d0"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen en beschrijven.",
 		"id": "4e4fcf82-dc0f-4422-a0b2-4f9005d53630",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
@@ -38047,11 +38085,31 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"5e42e26c-4c4b-4d28-8abd-b9813be77c34"
+			"8055a882-b920-420e-9d39-2142bfcbb793",
+			"b5ee728b-d426-4f72-b341-6e404237a593",
+			"5f79207c-f369-4916-a851-1cdefb9bbc35",
+			"3bcc73f6-093d-4d47-b691-7e0a241a495f",
+			"0d5dbbd3-d69f-4767-9574-c59eccc04b9f",
+			"7a29b2bc-ee6e-4654-a011-2678ad3d2bfa",
+			"d511a168-8526-46d0-9bdb-2d554d86bea3",
+			"914200be-b1d4-4445-87e7-af78d35c1b54",
+			"c21d8acd-1b35-4614-8dcc-729f2857141f",
+			"a556add2-f5f2-4bb7-8e53-e882c453c9d7",
+			"72860e6c-c04f-485b-9def-74b9c9937b06",
+			"acfa1ce9-3b61-4b72-a0ca-dbab6c9d4daa",
+			"1347affc-fed6-4529-8ce9-0033044d9198",
+			"e87caadf-e23e-4736-a1c2-04f94542e2ed",
+			"86a4f657-cfef-465d-b37a-fb5347c2c32d",
+			"b9639ca2-1d80-4681-8aee-1606fe61da78",
+			"e85fd48a-46e3-4251-add8-69cd00b2449c",
+			"e9fddca5-9137-4bf1-ae9a-fb23f62699a9"
 		],
 		"title": "De kandidaat kan de oorzaken, aanleiding, verloop en afloop van de Eerste Wereldoorlog (1914-1918) herkennen en beschrijven.",
 		"id": "fb303fa5-ffe7-44ff-b7c5-5ba17829b8e2",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
@@ -38061,11 +38119,41 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"97df460d-382d-4ab6-acb1-9d6d8dbfb81d"
+			"8055a882-b920-420e-9d39-2142bfcbb793",
+			"b5ee728b-d426-4f72-b341-6e404237a593",
+			"5f79207c-f369-4916-a851-1cdefb9bbc35",
+			"0145970a-88d8-4de7-8517-140f78b11954",
+			"3bcc73f6-093d-4d47-b691-7e0a241a495f",
+			"0d5dbbd3-d69f-4767-9574-c59eccc04b9f",
+			"34c07241-8898-4251-af07-ace7927a83ff",
+			"7a29b2bc-ee6e-4654-a011-2678ad3d2bfa",
+			"8de2c15e-ef33-4756-914c-c9403fafea89",
+			"d511a168-8526-46d0-9bdb-2d554d86bea3",
+			"32176f50-accb-4a0f-a1b6-1f0f0d480506",
+			"c21d8acd-1b35-4614-8dcc-729f2857141f",
+			"a556add2-f5f2-4bb7-8e53-e882c453c9d7",
+			"ac6b65df-1e4f-4d56-a25a-66d8bf0adfd1",
+			"79ea4e35-8709-4b27-961b-7b99e667794d",
+			"72860e6c-c04f-485b-9def-74b9c9937b06",
+			"acfa1ce9-3b61-4b72-a0ca-dbab6c9d4daa",
+			"1347affc-fed6-4529-8ce9-0033044d9198",
+			"e87caadf-e23e-4736-a1c2-04f94542e2ed",
+			"86a4f657-cfef-465d-b37a-fb5347c2c32d",
+			"b9639ca2-1d80-4681-8aee-1606fe61da78",
+			"3ad97449-41f0-4424-a02e-995d02da7378",
+			"c1f67745-5270-4e14-9336-953873922c15",
+			"36a4fe36-8acf-44e6-8b46-c5d5579cfe18",
+			"e85fd48a-46e3-4251-add8-69cd00b2449c",
+			"e9fddca5-9137-4bf1-ae9a-fb23f62699a9"
 		],
 		"title": "De kandidaat kan de oorzaken, aanleiding, verloop en afloop van de Eerste Wereldoorlog (1914-1918) herkennen en beschrijven.",
 		"id": "f35806cc-ef64-448f-85df-70e19246e427",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
