@@ -4612,5 +4612,89 @@
 		"title": "1918",
 		"id": "ca483dc8-3ec9-45fc-bbfe-d849244c9ca7",
 		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "crisistijd",
+		"id": "13065636-d8e8-4590-8907-d9224e61b615",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "werkloosheid",
+		"id": "aee122e0-0ba9-4a70-a5b5-b342ce69b9d5",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "stempelen",
+		"id": "02955816-13ef-404a-8a7c-0c3958a506df",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "werkverschaffingsprojecten",
+		"id": "ed71ff10-725a-44f6-a04e-5fd6ef086457",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "aanpassingspolitiek",
+		"id": "9bdcfacc-0176-419b-bb0a-4b2a4ef42196",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "gevolg van de economische crisis voor de democratie",
+		"id": "d6ac09d7-b09f-4a99-9e3e-594152c011f1",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "opkomst van de NSB",
+		"id": "cdec9cd6-acbe-4871-8cae-37e1c65cc0f3",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "handhaving neutraliteit",
+		"id": "0258c013-5828-48cc-8f42-2ff8b2135eed",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "(Hendrik) Colijn",
+		"id": "f378c46c-6381-4130-80dd-acdc3e9db773",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "(Anton) Mussert",
+		"id": "2af274ba-db31-4124-9f0d-8771bff2630a",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "algemeen actief kiesrecht voor vrouwen (1919)",
+		"id": "8b7d00be-7ecb-430b-9969-9a5969a23a66",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "1919",
+		"id": "6bb2480a-b7b1-4ab7-803c-b0fdd05e6822",
+		"unreleased": true
 	}
 ]
