@@ -37883,7 +37883,16 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"3648f8f5-2286-4060-8726-63d667ca9f85"
+			"76882635-2ac9-4501-a732-fa67f45fb89c",
+			"98903eb7-767f-4090-abd5-6cb2b3aa7e7b",
+			"0735d04a-38a2-4a2d-a4d5-28951c07cd36",
+			"ffff595c-b88d-46b6-9763-4a616031ef67",
+			"3ce8a618-6e49-4fc8-903f-ad18074e1fd3",
+			"1fc53144-721e-40ae-9efd-2c2533a08c92",
+			"a9d16863-f65e-458a-a236-d698e47f71e0",
+			"6252a649-2755-443a-a59d-5c8144de2f99",
+			"bcf32ac6-e1b9-49af-8b6d-5c8c5892b50f",
+			"fb91457e-5a20-4a5c-8ce4-942414af79f2"
 		],
 		"title": "De kandidaat kan de gevolgen van het nationalisme in Indonesië, als voorbeeld van dekolonisatie, herkennen en beschrijven.",
 		"id": "bb0633aa-0028-46d9-af20-0f049ce3f984",
@@ -37897,11 +37906,17 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"6e5b18c4-026f-42a6-ae30-0775052cb9d1"
+			"b4d2c88c-eacb-488b-87c7-97a494bd48e5",
+			"ccf780a7-cbfb-48a7-bbb6-515d6cfc18cc",
+			"16fb2e1a-885f-4c12-9801-7784c146e2f6",
+			"0faf41f5-a097-4fd3-aac8-9833bd89903e"
 		],
 		"title": "De kandidaat kan grondrechten noemen die in 1983 in de grondwet zijn opgenomen.",
 		"id": "3020f44b-8b41-490b-a0ef-1790f18243e3",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
@@ -37911,11 +37926,25 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"2050c90b-2818-42c0-8724-0ba86cd12bde"
+			"c4547e6f-b4ef-448b-891a-1080d693f2e0",
+			"158e136a-2897-4a1e-9698-ec1f6b9de678",
+			"fed7050a-2c49-44e4-ba67-f97314582e9d",
+			"b4d2c88c-eacb-488b-87c7-97a494bd48e5",
+			"ccf780a7-cbfb-48a7-bbb6-515d6cfc18cc",
+			"16fb2e1a-885f-4c12-9801-7784c146e2f6",
+			"ffa80091-f688-4377-9877-2e0a38b577e1",
+			"86cc04a8-a5c0-491b-8bfd-78165d1b55a3",
+			"0fbd8132-cdd5-4e77-9ae2-8a68dfaa5970",
+			"0faf41f5-a097-4fd3-aac8-9833bd89903e"
 		],
 		"title": "De kandidaat kan grondrechten noemen die in 1983 in de grondwet zijn opgenomen en daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
 		"id": "1294d6ad-aa96-4129-8184-61c465e0ebdf",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Nieuwe Wereldorde (vanaf 1990), Geschiedenis van Nederland",
