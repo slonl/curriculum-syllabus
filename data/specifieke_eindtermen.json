@@ -38163,11 +38163,25 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"8194c519-4135-4bbe-bb04-0e9aee783353"
+			"99f59585-13d2-4abe-ae23-eeac85866b50",
+			"ca338619-fc6e-4337-b43c-7a5492d7dbaa",
+			"61ab4d4e-0b1a-41e1-9ddb-ff011061a968",
+			"6770e05a-9479-48f8-b1b6-71fadaee406f",
+			"c07b2575-ef33-46ed-8ad7-f95dddebb85e",
+			"c69c2660-7d5e-4d00-b2a5-6a99404434b9",
+			"f931c5dc-d9cf-4389-8791-259631d8b507",
+			"05a92313-1531-4f9e-bcb8-4cf367d3b4de",
+			"5db90d83-6a6a-4d68-ba54-aed68bb4c5fb",
+			"65798f9f-46b1-41c7-b2c4-e70191a3750e",
+			"3cbbad91-87d7-485c-af14-1bda47998125",
+			"15ed2275-7940-4d6c-8d34-ef1f09047077"
 		],
 		"title": "De kandidaat kan de bondgenootschappen van Centralen en Gealieerden herkennen en noemen",
 		"id": "86bc3e33-c496-454c-838a-0b5e2b0a1007",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
@@ -38177,11 +38191,26 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"1a9c400c-c0a8-4917-852a-a7590ef2aa49"
+			"99f59585-13d2-4abe-ae23-eeac85866b50",
+			"ca338619-fc6e-4337-b43c-7a5492d7dbaa",
+			"61ab4d4e-0b1a-41e1-9ddb-ff011061a968",
+			"6770e05a-9479-48f8-b1b6-71fadaee406f",
+			"c07b2575-ef33-46ed-8ad7-f95dddebb85e",
+			"c69c2660-7d5e-4d00-b2a5-6a99404434b9",
+			"0fcd1fef-f13e-4ee0-b24e-b276d47f4c7c",
+			"3f941b15-0fd8-436e-ad98-526d26849f10",
+			"5db90d83-6a6a-4d68-ba54-aed68bb4c5fb",
+			"3f445f62-936a-483b-81fe-b6593a65bfff",
+			"65798f9f-46b1-41c7-b2c4-e70191a3750e",
+			"3cbbad91-87d7-485c-af14-1bda47998125",
+			"15ed2275-7940-4d6c-8d34-ef1f09047077"
 		],
 		"title": "De kandidaat kan de bondgenootschappen van Centralen en Gealieerden herkennen, noemen en beschrijven.",
 		"id": "6add507c-9cfd-4ae1-8e27-047ac0636e7b",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -38213,11 +38242,16 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"d1864fe3-f465-4a5e-8246-39dc86523fc1"
+			"7c982598-7246-495e-839c-47a7634de29e",
+			"97c83b94-0558-4a08-8f96-95dbeb1d4926",
+			"62c4f4cc-14c6-4de0-83e3-bbada4031e9f"
 		],
 		"title": "De kandidaat kan enkele bepalingen van de Vrede van Versailles herkennen en noemen.",
 		"id": "0eefebab-95cc-4685-84a1-a4cc1d945347",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -38227,11 +38261,20 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"c6e2c7f8-d3c3-4620-a44d-656a09c6223f"
+			"7c982598-7246-495e-839c-47a7634de29e",
+			"97c83b94-0558-4a08-8f96-95dbeb1d4926",
+			"62c4f4cc-14c6-4de0-83e3-bbada4031e9f",
+			"6f7a6405-e085-4d6a-b4c0-59559a1320f2",
+			"49988a83-14f8-417b-a2a9-4e09f76f7089"
 		],
 		"title": "De kandidaat kan enkele bepalingen van de Vrede van Versailles herkennen en noemen.",
 		"id": "8346945c-108f-4c15-86b7-6baa1c19f731",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
