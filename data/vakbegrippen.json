@@ -5627,5 +5627,145 @@
 		"title": "gevolgen voor het dagelijks leven",
 		"id": "36a4fe36-8acf-44e6-8b46-c5d5579cfe18",
 		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Centralen:",
+		"id": "99f59585-13d2-4abe-ae23-eeac85866b50",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Duitsland",
+		"id": "ca338619-fc6e-4337-b43c-7a5492d7dbaa",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Oostenrijk-Hongarije en het Turkse Rijk",
+		"id": "61ab4d4e-0b1a-41e1-9ddb-ff011061a968",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Geallieerden:",
+		"id": "6770e05a-9479-48f8-b1b6-71fadaee406f",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Frankrijk",
+		"id": "c07b2575-ef33-46ed-8ad7-f95dddebb85e",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Groot-Brittannië",
+		"id": "c69c2660-7d5e-4d00-b2a5-6a99404434b9",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Rusland (tot 1917)",
+		"id": "f931c5dc-d9cf-4389-8791-259631d8b507",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "de Verenigde Staten (vanaf 1917)",
+		"id": "05a92313-1531-4f9e-bcb8-4cf367d3b4de",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Frans Ferdinand",
+		"id": "5db90d83-6a6a-4d68-ba54-aed68bb4c5fb",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1914",
+		"id": "65798f9f-46b1-41c7-b2c4-e70191a3750e",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1917",
+		"id": "3cbbad91-87d7-485c-af14-1bda47998125",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "1918",
+		"id": "15ed2275-7940-4d6c-8d34-ef1f09047077",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Rusland (tot 1917: val van de tsaar en uitbreken Russische Revolutie)",
+		"id": "0fcd1fef-f13e-4ee0-b24e-b276d47f4c7c",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "de Verenigde Staten (vanaf 1917: onbeperkte duikbotenoorlog)",
+		"id": "3f941b15-0fd8-436e-ad98-526d26849f10",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Gavrilo Princip",
+		"id": "3f445f62-936a-483b-81fe-b6593a65bfff",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "Verdrag van Versailles",
+		"id": "7c982598-7246-495e-839c-47a7634de29e",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "strafbepalingen voor Duitsland zoals herstelbetalingen",
+		"id": "97c83b94-0558-4a08-8f96-95dbeb1d4926",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "gebiedsafstand",
+		"id": "62c4f4cc-14c6-4de0-83e3-bbada4031e9f",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "demilitarisatie en ontstaan van nieuwe staten",
+		"id": "6f7a6405-e085-4d6a-b4c0-59559a1320f2",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"title": "oprichting van de Volkenbond",
+		"id": "49988a83-14f8-417b-a2a9-4e09f76f7089",
+		"unreleased": true
 	}
 ]
