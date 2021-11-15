@@ -38730,11 +38730,17 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"ab5e7b1d-d5f9-4d15-8de4-442e61d5bfa2"
+			"7b14bd36-9400-441d-954e-0301bfffc6c3",
+			"6891e176-a32e-4fe4-afb1-85251bcc90cc",
+			"ef979d1e-3790-46c9-b397-b36eadc2a3f1",
+			"c515fb7d-d73c-49e7-83a7-da1b7b63e141"
 		],
 		"title": "De kandidaat kan enkele gebeurtenissen uit de Koude Oorlog en het einde van de Koude Oorlog in relatie tot wapenwedloop en hervormingspolitiek herkennen.",
 		"id": "0d9b3e9a-bd24-4c04-a85e-97aa981c24e2",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Europa (en de wereld)",
@@ -38744,12 +38750,22 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"bba826d0-86c0-4dbf-a1ff-e0ff1e4cb44f",
-			"7cd00b8e-8709-4002-8ba5-f309f3854cf2"
+			"e51dffa8-6255-4b58-a38d-7341942a1b53",
+			"7b14bd36-9400-441d-954e-0301bfffc6c3",
+			"6891e176-a32e-4fe4-afb1-85251bcc90cc",
+			"e2bd2de3-9dc0-4efe-835b-5f9cb9da633e",
+			"ef979d1e-3790-46c9-b397-b36eadc2a3f1",
+			"ddd9c54c-2fb1-4ee5-ab67-0d5ce76681ca",
+			"c515fb7d-d73c-49e7-83a7-da1b7b63e141"
 		],
 		"title": "De kandidaat kan enkele gebeurtenissen uit de Koude Oorlog en het einde van de Koude Oorlog in relatie tot wapenwedloop en hervormingspolitiek herkennen en beschrijven.",
 		"id": "fe84c32c-0215-450f-848b-f4a105cb122c",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Europa (en de wereld)",
@@ -38759,11 +38775,25 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"d889c0d7-b7f1-4f35-8116-f6827311900e"
+			"d74f2d7d-540c-459d-a79f-36533e20d0d1",
+			"72c5f93b-6712-45d9-9abc-49cfb9d64b4a",
+			"0927d101-5993-46e7-9c13-aa28b6bebc94",
+			"c0280adc-f973-43b4-b5d7-bdd27625f5dd",
+			"f47f51f5-9322-4a61-b027-314c8406296f",
+			"70dd1d9b-b210-44ad-ac3d-6da095daa047",
+			"d446828d-60ce-47fa-aab5-98e2b2d7a4c1",
+			"aa023f76-804d-4777-b1ee-2239d0909626",
+			"3cca8d01-6107-4897-81e5-d1363238fa90",
+			"125f9227-a232-46e6-8bc8-75e4a87350d6",
+			"c8500a56-26c5-4013-a3ec-df74a0fbfdb7",
+			"daac28ae-4fdb-40be-935f-bb99c63f8ac4"
 		],
 		"title": "De kandidaat kan de Europese en internationale samenwerking herkennen.",
 		"id": "389de267-40ac-48b5-a0ab-46021c45e439",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Europa (en de wereld)",
@@ -38773,11 +38803,30 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"8f7123bd-f8b0-4b64-be96-6ec67e0b311d"
+			"d74f2d7d-540c-459d-a79f-36533e20d0d1",
+			"72c5f93b-6712-45d9-9abc-49cfb9d64b4a",
+			"681e4569-3338-43b4-b409-1d274b8bce36",
+			"c17f4ff1-9e63-4908-b122-3ee160d4b7d9",
+			"0927d101-5993-46e7-9c13-aa28b6bebc94",
+			"c0280adc-f973-43b4-b5d7-bdd27625f5dd",
+			"f47f51f5-9322-4a61-b027-314c8406296f",
+			"70dd1d9b-b210-44ad-ac3d-6da095daa047",
+			"d446828d-60ce-47fa-aab5-98e2b2d7a4c1",
+			"aa023f76-804d-4777-b1ee-2239d0909626",
+			"3cca8d01-6107-4897-81e5-d1363238fa90",
+			"d6fbf6d3-a4ad-45d8-8855-b1cf21234687",
+			"125f9227-a232-46e6-8bc8-75e4a87350d6",
+			"c8500a56-26c5-4013-a3ec-df74a0fbfdb7",
+			"daac28ae-4fdb-40be-935f-bb99c63f8ac4"
 		],
 		"title": "De kandidaat kan de Europese en internationale samenwerking herkennen en beschrijven.",
 		"id": "38113410-4677-44bd-a472-d4df8e697ca5",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
@@ -38809,7 +38858,15 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"9e75a19d-b077-484c-b505-2f2bde716988"
+			"807c8d08-ee18-43f8-8384-a5d184e2656b",
+			"321a92a3-e06d-4b38-9d15-bc3550ee0a25",
+			"21461100-0688-4b26-806d-5186e5468fd2",
+			"49552df0-213f-45b2-a215-55b3743e5f3b",
+			"9365b541-8234-4e3b-a4f2-67680dcf63d5",
+			"adc3d76b-f8d3-4d42-a52c-b27b32f125a0",
+			"fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
+			"3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
+			"b984897c-5fb4-438e-9504-deb84dc1b590"
 		],
 		"title": "De kandidaat kan de gevolgen van het einde van de Koude Oorlog en de daardoor gewijzigde machtsverhoudingen herkennen.",
 		"id": "bae6b1f2-b898-4508-82c7-095bb408a609",
@@ -38823,7 +38880,17 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"2d4e8a6e-c54d-4c76-9482-df52d070c64c"
+			"807c8d08-ee18-43f8-8384-a5d184e2656b",
+			"321a92a3-e06d-4b38-9d15-bc3550ee0a25",
+			"21461100-0688-4b26-806d-5186e5468fd2",
+			"49552df0-213f-45b2-a215-55b3743e5f3b",
+			"9365b541-8234-4e3b-a4f2-67680dcf63d5",
+			"5d3cdb06-29df-4402-9d2a-f86a187872bd",
+			"13603b24-2903-400d-9fd0-2746adb5729d",
+			"adc3d76b-f8d3-4d42-a52c-b27b32f125a0",
+			"fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
+			"3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
+			"b984897c-5fb4-438e-9504-deb84dc1b590"
 		],
 		"title": "De kandidaat kan de gevolgen van het einde van de Koude Oorlog en de daardoor gewijzigde machtsverhoudingen herkennen en beschrijven.",
 		"id": "29be8bb7-8c06-4b79-98d2-4282031239fa",
