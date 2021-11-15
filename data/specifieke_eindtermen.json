@@ -38284,11 +38284,18 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"273d103f-7def-455b-91b4-9e6c274f32a4"
+			"116afc65-5b5a-4b24-a1da-6431016cda15",
+			"f9ab0cd8-4e94-4cea-b57f-7fa871810dfa",
+			"36e53dc9-2383-43a2-a353-10bac89580fc",
+			"c1790ca6-1382-4253-8714-d09668ecb4f1",
+			"04536fe5-1b51-4899-b50a-ff26bc22b8e1"
 		],
 		"title": "De kandidaat kan de gevolgen van de economische crisis voor het vertrouwen in de democratie in Europa en in het bijzonder voor Duitsland herkennen.",
 		"id": "11cd8799-6f1b-4011-bdfd-77767b8df8da",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -38298,12 +38305,26 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"60c5ea6a-b7e1-455b-9b48-177cef73d1d0",
-			"7bb66e91-723a-4c78-b04c-a3d1e3c6e9d8"
+			"116afc65-5b5a-4b24-a1da-6431016cda15",
+			"f9ab0cd8-4e94-4cea-b57f-7fa871810dfa",
+			"033ba446-0493-4725-9477-f589b14b2074",
+			"7d3844c3-04ff-4e35-af98-a1c14c1cc5d2",
+			"2f22fe04-2da0-47c0-b40d-3d7e5c0da210",
+			"37fc2a75-bb84-4c38-8cce-190b3c1a782d",
+			"143f17ac-6ade-44b4-a26d-19a9f0ce4a65",
+			"9a474a01-5958-4448-b216-e7100b33dcdd",
+			"36e53dc9-2383-43a2-a353-10bac89580fc",
+			"c1790ca6-1382-4253-8714-d09668ecb4f1",
+			"04536fe5-1b51-4899-b50a-ff26bc22b8e1"
 		],
 		"title": "De kandidaat kan de gevolgen van de economische crisis voor het vertrouwen in de democratie in Europa en in het bijzonder voor Duitsland herkennen en beschrijven.",
 		"id": "261fb75b-8476-4bbd-ad0b-a230ce1c44ea",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -38313,11 +38334,33 @@
 			"64cb3de7-798e-478e-9518-49b86cd38c4c"
 		],
 		"syllabus_vakbegrip_id": [
-			"9dcd7e23-212c-4aa7-bc21-973a8328dadc"
+			"ddfd9223-3dbf-4260-ad54-8915948a7e3f",
+			"3ea5e2b5-faf9-4d77-8c04-2ac4584ba41f",
+			"4c18cefd-3a33-457f-9ee2-e6cd8df221f4",
+			"31f35ea1-07fa-4d56-a813-9a030baafb50",
+			"a47c7201-a42e-4803-b839-a5fe40c65b4c",
+			"896f6b46-dbb2-4f67-a6a1-d8d25fc1f91a",
+			"e0337b38-1f86-412d-8641-25b6b3ceadc2",
+			"5a96c559-f252-49e2-afca-64cc76842715",
+			"0385a258-2af3-49d8-86f1-1f23a2b1c82a",
+			"01da4609-93a8-486a-abd9-92f61fd67993",
+			"ba4dfab8-f20c-4552-9a75-5307d284dc3c",
+			"d09acd53-799c-4553-b45c-505a3660d812",
+			"4a1af46d-585c-4553-a1fe-0d0e5faae172",
+			"c84b8b98-9ddb-4524-ba89-280178d1a999",
+			"0aa1fb1d-7cb5-413a-9568-252d4ce517b1",
+			"d6785df7-1239-41cf-baf4-4e6579898d16",
+			"6c04be45-c492-4931-b397-75cd25eaacee",
+			"983bcdef-67fd-41b2-993f-eab1e4383b71",
+			"7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
+			"c85bee34-43be-46e7-8763-f130478fd074"
 		],
 		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland herkennen.",
 		"id": "14e67c03-cfd2-4fbc-8d3d-eb79a3405194",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -38327,12 +38370,56 @@
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
 		"syllabus_vakbegrip_id": [
-			"dd7cc178-d227-42f9-9d6f-dc4fcab35d53",
-			"0ff07c1b-834f-4389-b0a9-8a0ad540ace9"
+			"ddfd9223-3dbf-4260-ad54-8915948a7e3f",
+			"bbaab119-fd69-4393-96af-670151d7e85b",
+			"3ea5e2b5-faf9-4d77-8c04-2ac4584ba41f",
+			"4c18cefd-3a33-457f-9ee2-e6cd8df221f4",
+			"31f35ea1-07fa-4d56-a813-9a030baafb50",
+			"a47c7201-a42e-4803-b839-a5fe40c65b4c",
+			"896f6b46-dbb2-4f67-a6a1-d8d25fc1f91a",
+			"adcd9c35-1e40-4861-a222-c565ff625c7b",
+			"13b75c97-407d-494c-87d0-be98cc9ec9b2",
+			"e0337b38-1f86-412d-8641-25b6b3ceadc2",
+			"5a96c559-f252-49e2-afca-64cc76842715",
+			"939185e3-3036-4149-9cbf-ed44e32a607c",
+			"0385a258-2af3-49d8-86f1-1f23a2b1c82a",
+			"01da4609-93a8-486a-abd9-92f61fd67993",
+			"ba4dfab8-f20c-4552-9a75-5307d284dc3c",
+			"d09acd53-799c-4553-b45c-505a3660d812",
+			"783de684-d083-4610-b7d5-bf6f65f8bc4d",
+			"0aa1fb1d-7cb5-413a-9568-252d4ce517b1",
+			"3333ccbb-5fb8-4ed9-8bb4-dc678ddabdf8",
+			"c84b8b98-9ddb-4524-ba89-280178d1a999",
+			"d79fdd74-5f9a-4ba3-aafe-63e23c8ab55f",
+			"d6785df7-1239-41cf-baf4-4e6579898d16",
+			"6c04be45-c492-4931-b397-75cd25eaacee",
+			"c36f7e5c-1861-4e8f-99e3-067f8b292a35",
+			"558f96e0-c3e0-46b4-87af-4ff7d1dc842b",
+			"49607cf8-8f80-4394-b63d-7ab79c7b61ed",
+			"04bf38d8-6b0a-4900-8077-e7387553a382",
+			"21a2b7aa-6965-469c-941a-157cfccc919e",
+			"4858d1c6-ef46-4b2f-acc9-7e3f5404d93a",
+			"3046bc1d-0ae7-49a2-8401-9d5d14fae1f5",
+			"7f38d897-5d94-484c-ae4f-382c573976cb",
+			"e6d52d14-b8fd-4803-9aad-649a4af95f3c",
+			"983bcdef-67fd-41b2-993f-eab1e4383b71",
+			"5943e60a-281b-49a2-8d44-fbce2d5a6b96",
+			"a69340cd-6a96-436e-9cac-4fcd9e966fec",
+			"7967ee9d-d375-4798-811d-24c5f7449126",
+			"b466cab9-151d-4315-8f9e-bdcb446f0f7c",
+			"7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
+			"c85bee34-43be-46e7-8763-f130478fd074",
+			"2e2480a0-3d2d-4c42-8c2e-e2843b162edb",
+			"12fcb956-18f3-4501-8683-29d4a265a504"
 		],
 		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland, als voorbeeld van een extreemrechtse totalitaire staat, herkennen en beschrijven.",
 		"id": "836d8927-3d81-4f65-b876-6c7ee7503168",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
