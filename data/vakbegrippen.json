@@ -4460,87 +4460,157 @@
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "crisistijd",
-		"id": "9e1960ea-83b5-4e69-8a59-7826a5a2ab1d",
+		"title": "oorzaken:",
+		"id": "fe24472a-4911-4742-946a-7d029f2ff28f",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "werkloosheid",
-		"id": "320fbda2-135e-42b6-b955-b7881f9cf131",
+		"title": "neutraliteit",
+		"id": "f5320af7-e228-4b09-9067-f836b82c4263",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "stempelen",
-		"id": "4602439a-b1dd-4573-9fc9-be66a663f8c6",
+		"title": "mobilisatie",
+		"id": "9d61139b-cdeb-451e-bcc8-a0bb61f19215",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "werkverschaffingsprojecten",
-		"id": "a9839674-c9e4-4ad6-9adc-63cf3f894f86",
+		"title": "schaarste aan goederen",
+		"id": "f530cfd4-549a-4feb-ab75-658a48685045",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "aanpassingspolitiek",
-		"id": "9983c385-6ba4-4636-8afc-d4b6faafe87d",
+		"title": "distributiesysteem met bonkaarten",
+		"id": "64ea1dfd-3649-4e23-8590-c3fc04e3985d",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "gevolg van de economische crisis voor de democratie",
-		"id": "0b4a99ce-0f00-4ab4-a275-38eb8d537599",
+		"title": "opvang Belgische vluchtelingen",
+		"id": "dc487fcf-3993-400e-8d23-a32773e47e10",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "opkomst van de NSB",
-		"id": "5d55cddc-ca03-45a0-b807-3ce0a04db390",
+		"title": "dodendraad",
+		"id": "2d8d21a1-3ee7-422e-a398-8ede25802be2",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "handhaving neutraliteit",
-		"id": "00a3e0f0-5fdf-46cf-8c1f-51d953661e3f",
+		"title": "handelsbelemmeringen",
+		"id": "0cbfa1ba-338a-4241-928e-acb233ed4c6a",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "(Hendrik) Colijn",
-		"id": "1c3a53e8-6fb9-4f60-820b-ca2952b07e60",
+		"title": "Grondwet van 1917:",
+		"id": "bbb62b85-77f5-4c54-8457-ee53eefb44f0",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Geschiedenis van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "(Anton) Mussert",
-		"id": "cad79fac-14a5-4346-a6e3-1e193ab788c2",
+		"title": "algemeen kiesrecht (actief en passief kiesrecht voor mannen / vrouwen alleen passief kiesrecht)",
+		"id": "a484cbf1-eac0-4574-aec9-541206f5fee5",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "algemeen actief kiesrecht voor vrouwen (1919)",
-		"id": "031c13da-7b2f-43a5-b4f2-2c45a6c76933",
+		"title": "stelsel van evenredige vertegenwoordiging",
+		"id": "1de824f9-3c3c-4f02-a83f-c50f468b2cae",
 		"unreleased": true
 	},
 	{
-		"description": "Interbellum (1918-1939) - Staatsinrichting van Nederland",
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "1919",
-		"id": "20dd53e6-76fa-42ee-96b8-3a63e3c7c37c",
+		"title": "1917",
+		"id": "6bb15e14-732e-4283-a472-f9e54740b145",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "oorzaken:",
+		"id": "d8e63dcc-ab2f-4e5c-8a1e-24b536ce59f2",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "Pacificatie (1917):",
+		"id": "c9a186a3-4d84-4277-bcb4-98aa19696c51",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "einde schoolstrijd",
+		"id": "b7a30f20-6a77-4ac4-be17-335b259cb48d",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "financiële gelijkstelling van openbaar en bijzonder onderwijs",
+		"id": "6effe761-f3d8-4295-a73e-b18731e0055f",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "aanleiding:",
+		"id": "c03af2f1-3b1e-43b3-8745-12a1b172944a",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "de vervanging van het districtenstelsel door een stelsel van everedige vertegenwoordiging (voordelen en nadelen van beide systemen)",
+		"id": "26858178-3f19-46ad-8729-c2366dc5e52d",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "verloop:",
+		"id": "43b2db3a-708e-482f-93f0-517cf25b3aaa",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "evolutiepoging Troelstra (1918)",
+		"id": "0b8eced3-e337-4988-ae60-b26cbef9e43b",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "(Pieter Jelles) Troelstra",
+		"id": "0d58cc51-5305-4ec3-9bb8-eadf856eb65e",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"title": "1918",
+		"id": "2fc38716-cf94-492f-83e6-c33849208833",
 		"unreleased": true
 	}
 ]
