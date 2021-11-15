@@ -4696,5 +4696,278 @@
 		"title": "1919",
 		"id": "6bb2480a-b7b1-4ab7-803c-b0fdd05e6822",
 		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "begin:",
+		"id": "d056a452-2b70-4a0d-853a-9d1d47c3d8b3",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "mobilisatie",
+		"id": "9df7a960-8d25-4315-9e8b-0bba35ab3235",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Duitse inval (10 mei 1940)",
+		"id": "3c4d3311-15e6-472e-9d0c-483148b4de3b",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "bombardement op Rotterdam",
+		"id": "cbc6556f-037d-45d5-9964-9fb6e71b6c90",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "capitulatie",
+		"id": "f9b6615a-3bd4-41d7-9a15-b10042474076",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "verloop:",
+		"id": "6ab2cd43-b8d0-4569-a09e-735a57530c98",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "bezetting",
+		"id": "bfa0a89d-abaa-4250-921b-e76447805e17",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Nederlandse regering en koningshuis in ballingschap",
+		"id": "ac5df5a5-431e-4393-81fa-205656284dee",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "kenmerken:",
+		"id": "38012024-fe39-4735-88f5-31b5aa6c26d5",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "NSB",
+		"id": "57769e4b-2788-498d-bb26-0edb0d63fcd0",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Jodenvervolging",
+		"id": "6bef7fbe-7a8d-4bd3-a24b-8cdc074afd0c",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Februaristaking (1941)",
+		"id": "ab43e105-e28c-4778-94c4-9677352d3495",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "deportaties (via doorgangskamp Westerbork naar vernietigingskampen zoals Auschwitz)",
+		"id": "3fdf4a7d-1332-49e1-81a7-651cbd9b0123",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "collaboratie",
+		"id": "ca2571da-91ae-43b1-81c8-0b4b9fd30d35",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "aanpassing en verzet",
+		"id": "5f149651-e9e9-4890-8d7b-2d27fdf38549",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "‘goed en fout’",
+		"id": "5d405e40-676d-4eba-bcbb-192485b93345",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "landverraders",
+		"id": "1d313436-552f-41d9-973f-0c24fd6a1883",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "censuur",
+		"id": "7b69971a-e8d8-40ed-89e9-951385849fbc",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "gedwongen tewerkstelling",
+		"id": "bcda0cf1-52ba-4564-9f3d-223a0020e75e",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "razzia’s",
+		"id": "a8dedf30-8625-46ad-9156-64d5598eb054",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "onderduiken",
+		"id": "21a66491-808c-4e85-ae70-bf03d5aea8ec",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "persoonsbewijzen",
+		"id": "f0ef1e17-2348-42ea-a0f1-290d5d37d249",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "overleven in bezettingstijd",
+		"id": "318343dc-c5f0-4bf7-aeac-187cbab16a56",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "distributiesysteem met bonkaarten",
+		"id": "b8f27976-323a-4a39-bb34-b312001bc0ab",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Hongerwinter",
+		"id": "91219d71-8149-451a-8ad8-792ef7b2234f",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "afloop:",
+		"id": "e2205810-0491-4cdd-a481-6e5f4f768da5",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "slag om Arnhem (1944)",
+		"id": "2f596c6d-b436-4292-a2ec-80eecf15ad9b",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "bevrijding van Nederland (5 mei 1945)",
+		"id": "8f3bafb2-56af-4c82-bddc-462eb9e8acf0",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Jaarlijkse herdenkingen:",
+		"id": "f3a85da7-b706-470c-95b7-c96102eff1ec",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "4 mei dodenherdenking",
+		"id": "6a4b2138-6ed9-4963-96b8-b8304e485974",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "5 mei Dag van de Vrijheid",
+		"id": "c30165a5-f29c-4ca8-a4c9-639fa30daae6",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "Anne Frank",
+		"id": "32bebd60-6422-47b4-898d-35705c858324",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "koningin Wilhelmina",
+		"id": "ec2b6ffd-bd9f-4107-9301-be532c40dc42",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "10 mei 1940",
+		"id": "db4a9b7c-fab9-48c3-89ea-27dbcf448c7f",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "1941",
+		"id": "15fa14ae-8e5b-4a16-a94d-6c2cc64cce59",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "1944",
+		"id": "67cf01c6-11db-4f17-b39d-f50891df09d7",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "5 mei 1945",
+		"id": "e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "spoorwegstaking (1944)",
+		"id": "498941f3-157d-4f92-9f79-7eee7d1e4e42",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
+		"ce_se": "CE",
+		"title": "operatie Market Garden",
+		"id": "b4315b76-ab40-4461-9d3f-7ab9434f4079",
+		"unreleased": true
 	}
 ]
