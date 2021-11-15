@@ -37790,11 +37790,25 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"37874404-e3ed-48d0-9205-c67da579b17f"
+			"7aafe41b-4923-4465-8584-c31c60fd3fc9",
+			"2ea79142-03db-4b0a-8581-47ea429b0641",
+			"12d97b22-c8d6-4e07-83e2-9504e58c0a71",
+			"2b9e2860-acab-42c7-96c4-4faca6785d38",
+			"e6b472e7-09ae-4fdb-aa53-c9a9abbad127",
+			"b4315b76-ab40-4461-9d3f-7ab9434f4079",
+			"2f596c6d-b436-4292-a2ec-80eecf15ad9b",
+			"8f3bafb2-56af-4c82-bddc-462eb9e8acf0",
+			"e4d1187c-4bb0-487e-a79b-9891b268f5b6",
+			"10011aaf-e46f-4feb-a2e3-c3b5deb13fb1",
+			"6bc06631-0a4e-4585-a480-6786eba5cdf6"
 		],
 		"title": "De kandidaat kan kenmerkende gebeurtenissen en ontwikkelingen in Indonesië herkennen en in het juiste tijdsgewricht plaatsen en toepassen.",
 		"id": "5267dff5-a760-48f9-ac49-cebacdf86c25",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Geschiedenis van Nederland",
@@ -37804,11 +37818,25 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"7e816279-ebae-4591-b9b5-d1145f0c5daa"
+			"a0aef920-a25a-4587-a130-089795338eda",
+			"ed2519bb-e2b4-4910-9c90-ffa5e751f746",
+			"88fa58a7-cb85-4204-941b-592988943f69",
+			"5a196aed-2cd6-4092-b278-1306b9ebb748",
+			"f58c0734-5e19-43d3-a5a6-7cb581be6826",
+			"7cdd622d-c59f-4ee9-8071-b344b86646f1",
+			"01d17e35-3067-435c-b668-35326c670ad8",
+			"187f6d66-1265-4937-9e98-073e070e8838",
+			"0c231863-b489-4781-ba7c-ccdfb4422b04",
+			"9e0be714-86b2-4553-8e6a-5f202be66c66",
+			"83bd8f87-3097-4a79-bb0a-c7a3d91bab36",
+			"99faa5d9-e1df-4c1f-b7a5-a85de91bf2b6"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen, in het juiste tijdsgewricht plaatsen.",
 		"id": "71a4dd3a-f4ce-403f-bc04-cc5bf22fa19d",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Geschiedenis van Nederland",
@@ -37818,11 +37846,34 @@
 			"826a3b42-a7a2-40de-9137-53f45010abc0"
 		],
 		"syllabus_vakbegrip_id": [
-			"28a75fb6-af75-4c07-ab52-6c84e009c273"
+			"a0aef920-a25a-4587-a130-089795338eda",
+			"d8fc7a87-e062-4041-af00-36b1d9ea329c",
+			"2bc8c338-9bac-4fe9-92c4-e5f800c2cf11",
+			"ed2519bb-e2b4-4910-9c90-ffa5e751f746",
+			"88fa58a7-cb85-4204-941b-592988943f69",
+			"5a196aed-2cd6-4092-b278-1306b9ebb748",
+			"f58c0734-5e19-43d3-a5a6-7cb581be6826",
+			"6b90fbdc-d237-4624-8483-847a697e716a",
+			"7cdd622d-c59f-4ee9-8071-b344b86646f1",
+			"01d17e35-3067-435c-b668-35326c670ad8",
+			"187f6d66-1265-4937-9e98-073e070e8838",
+			"b664e44b-24b3-43b3-ba9c-07e51daa7358",
+			"0c231863-b489-4781-ba7c-ccdfb4422b04",
+			"9e0be714-86b2-4553-8e6a-5f202be66c66",
+			"83bd8f87-3097-4a79-bb0a-c7a3d91bab36",
+			"99faa5d9-e1df-4c1f-b7a5-a85de91bf2b6",
+			"c6a657de-9564-47cc-ac42-da44290bba1c",
+			"ed68d92e-3ecc-452d-8162-4043d04f4086",
+			"c16b8025-f8b4-4bdf-8a3f-565fa4aecdd2"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen, in het juiste tijdsgewricht plaatsen en toepassen.",
 		"id": "3ecea6a1-168e-4800-8ac1-1a4445026d66",
-		"unreleased": true
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"description": "De periode 1945-1989, Geschiedenis van Nederland",
