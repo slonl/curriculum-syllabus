@@ -222,10 +222,10 @@
 			"77ae3b57-cab9-46f9-ada2-049ee168e17d",
 			"81b40e43-492c-4f1a-a127-6bf3f7eea679"
 		],
-		"ingangsdatum": "2020",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vwo/2020/f=/economie_vwo_2020_versie_2.pdf",
-		"jaargang": "2018",
 		"dirty": true,
 		"examenprogramma_id": [
 			"b8284953-724c-4ee1-b757-71f9b4b431e4"
@@ -294,10 +294,10 @@
 			"539a5eca-a1b0-4434-9ca6-56c055113de1",
 			"388f2831-7b8b-42f1-8e66-6bb60c3f40aa"
 		],
-		"ingangsdatum": "2020",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vmbo/2020/f=/economie_vmbo_2020_versie_2.pdf",
-		"jaargang": "2020",
 		"status": "def.",
 		"description": "",
 		"prefix": "",
@@ -561,9 +561,9 @@
 			"db34fc3d-7d7d-4025-812a-5594724a7880"
 		],
 		"ce_se": "CE",
-		"ingangsdatum": "2020",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-biologie-vwo/2020/f=/biologie_2_versie_vwo_2020.pdf",
-		"jaargang": "2020",
 		"examenprogramma_id": [
 			"92f57200-9ac6-449c-964c-b18c8996df85"
 		],
@@ -688,10 +688,10 @@
 			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3"
 		],
 		"ce_se": "CE",
-		"ingangsdatum": "2018",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vmbo/2020/f=/aardrijkskunde_vmbo_2020_versie_2.pdf",
-		"jaargang": "2020",
 		"status": "Def.",
 		"examenprogramma_id": [
 			"544a0293-a7e3-4f6b-a973-30af7627bdea"
@@ -781,7 +781,8 @@
 			"7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
 			"13f79a25-d6ef-4600-81e4-3a20efe32303"
 		],
-		"ingangsdatum": "2015",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vwo/2020/f=/syllabus_aardrijkskunde_vwo_2_versie_2020_vermelding_gebied.pdf",
 		"jaargang": "2020",
@@ -856,10 +857,10 @@
 		"syllabus_toelichting_id": [
 			"81fe3fc8-f93f-4f28-94f7-c45883846a27"
 		],
-		"ingangsdatum": "2018",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
 		"versie": "2",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-havo/2020/f=/aardrijkskunde_havo_2020_versie_2.pdf",
-		"jaargang": "2020",
 		"status": "def.",
 		"examenprogramma_id": [
 			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
@@ -875,7 +876,7 @@
 		]
 	},
 	{
-		"ingangsdatum": "2021",
+		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-bedrijfseconomie-havo/2021/f=/bedrijfseconomie_havo_2021_versie_4.pdf",
 		"versie": "44016",
 		"examenprogramma_id": [
