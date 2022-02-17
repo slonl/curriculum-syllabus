@@ -5057,9 +5057,6 @@
 		"examenprogramma_eindterm_id": [
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
 		],
-		"examenprogramma_id": [
-			"2adb6958-435d-4a60-828a-5814adac4f4f"
-		],
 		"description": "",
 		"dirty": "1"
 	},
@@ -5549,7 +5546,7 @@
 		"id": "a3926f80-8735-4f2d-a018-8776a897f352",
 		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\n- kiest de leerling de geschikte projectie en schaal \r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\n- kiest de leerling voor een geschikte klassenindeling \r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"ce_se": "CE",
-		"examenprogramma_id": [
+		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
 		]
 	},
@@ -5558,7 +5555,7 @@
 		"prefix": "A1.1b.1",
 		"title": "De kandidaat kan geografische vragen herkennen en zelf formuleren",
 		"ce_se": "CE",
-		"examenprogramma_id": [
+		"examenprogramma_eindterm_id": [
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
 		]
 	},
