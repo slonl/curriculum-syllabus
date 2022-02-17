@@ -1,0 +1,283 @@
+[
+	{
+		"vakleergebied_id": [
+			"b4459aa1-0dbb-409d-a675-8ca914234028"
+		],
+		"title": "Maatschappijkunde",
+		"id": "6812fa48-2179-4b1e-ad04-1740e48c722c"
+	},
+	{
+		"vakleergebied_id": [
+			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+		],
+		"title": "Bedrijfseconomie",
+		"id": "129b4475-e49e-490e-9e00-ad1458767636"
+	},
+	{
+		"vakleergebied_id": [
+			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
+		],
+		"title": "Tekenen",
+		"id": "1a996972-1a61-4347-996d-eff9df182ed1"
+	},
+	{
+		"title": "Economie",
+		"id": "d7b5f09e-9774-4e2c-918c-fbbac7dccdf5",
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"dirty": "1"
+	},
+	{
+		"vakleergebied_id": [
+			"15292864-cba8-4af5-90ef-da51cb2d22e1"
+		],
+		"title": "Filosofie",
+		"id": "19db3b97-71db-4665-a410-78a0f33fe93c"
+	},
+	{
+		"vakleergebied_id": [
+			"6e29642b-d99d-4085-8dc5-971cabb6b693"
+		],
+		"title": "Friese taal",
+		"id": "c28bbcca-da85-4c09-8024-e3e3d5e56900"
+	},
+	{
+		"vakleergebied_id": [
+			"1c445505-16f2-4d3f-b6cf-8623ca317140"
+		],
+		"title": "Geschiedenis",
+		"id": "3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+	},
+	{
+		"vakleergebied_id": [
+			"797f5fdf-8e35-43e9-b290-772c84f1761e"
+		],
+		"title": "Grieks",
+		"id": "cb54b707-b612-4c78-aa8d-3daa938d2a1b"
+	},
+	{
+		"vakleergebied_id": [
+			"b83130c3-fa75-4559-8f97-4d14e8771b87"
+		],
+		"title": "Kunst (beeldende vorming)",
+		"id": "8fcbe577-b3b5-49ff-8a08-13ed6dac1124"
+	},
+	{
+		"vakleergebied_id": [
+			"3bcb4015-b9af-4009-8a50-3295c07dabc9"
+		],
+		"title": "Kunst (dans)",
+		"id": "dc5477a7-fe55-4f7c-9c90-18f532080290"
+	},
+	{
+		"vakleergebied_id": [
+			"ebf6d8b4-e6ab-4238-83c1-2fd2e119d45b"
+		],
+		"title": "Kunst (drama)",
+		"id": "d56fcf8f-5d81-4bb1-8354-043fedc9b878"
+	},
+	{
+		"vakleergebied_id": [
+			"dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8"
+		],
+		"title": "Kunst (muziek)",
+		"id": "5bda29a3-64da-41a1-93ce-444bcdad470c"
+	},
+	{
+		"vakleergebied_id": [
+			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
+		],
+		"title": "Kunst (algemeen)",
+		"id": "e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+	},
+	{
+		"vakleergebied_id": [
+			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+		],
+		"title": "Latijn",
+		"id": "6734ffba-4cf2-4a2e-b249-fe2d0eaad304"
+	},
+	{
+		"vakleergebied_id": [
+			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+		],
+		"title": "Maatschappijwetenschappen",
+		"id": "a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
+	},
+	{
+		"vakleergebied_id": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"title": "Muziek",
+		"id": "2d2b1c01-2439-4abc-b9d6-22c16642824e"
+	},
+	{
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"title": "Natuur- en scheikunde I",
+		"id": "6645f33c-2a9e-4c67-9473-cfb1606b9c66"
+	},
+	{
+		"vakleergebied_id": [
+			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+		],
+		"title": "Natuur- en scheikunde II",
+		"id": "f597a92d-eb23-42be-b286-2aeaf84bbba8"
+	},
+	{
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"title": "Nederlands",
+		"id": "31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+	},
+	{
+		"vakleergebied_id": [
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		],
+		"title": "Aardrijkskunde",
+		"id": "85f2ed0a-794c-4269-b933-2eff604826a6"
+	},
+	{
+		"vakleergebied_id": [
+			"41dd7292-3cce-411b-8097-11db8c875a89"
+		],
+		"title": "Biologie",
+		"id": "d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
+	},
+	{
+		"vakleergebied_id": [
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		],
+		"title": "Natuurkunde",
+		"id": "8a34f933-10b1-46bf-bf0c-dad320cb09fc"
+	},
+	{
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"title": "Scheikunde",
+		"id": "cf742148-2e95-4123-9aec-6106e5cff3d7"
+	},
+	{
+		"vakleergebied_id": [
+			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+		],
+		"title": "Wiskunde A",
+		"id": "e39e19a0-471e-4f54-a550-a0c628c4bc86"
+	},
+	{
+		"vakleergebied_id": [
+			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
+		],
+		"title": "Wiskunde B",
+		"id": "fbddb9bd-94ca-4d71-876b-016f996ac052"
+	},
+	{
+		"vakleergebied_id": [
+			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
+		],
+		"title": "Wiskunde C",
+		"id": "f3065744-6496-4a24-89a4-49245fd0072f"
+	},
+	{
+		"vakleergebied_id": [
+			"1f7aa29f-38d8-4dab-91db-3be52669951f"
+		],
+		"title": "Chinees",
+		"id": "116e982d-493f-4329-a7a3-5a97ab4d866b"
+	},
+	{
+		"vakleergebied_id": [
+			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
+		],
+		"title": "Italiaans",
+		"id": "93db506e-e09b-4bab-b141-ff3d840ab2d4"
+	},
+	{
+		"vakleergebied_id": [
+			"6b89b236-42ae-429f-bc33-422e12b53cb1"
+		],
+		"title": "Russisch",
+		"id": "ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+	},
+	{
+		"vakleergebied_id": [
+			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
+		],
+		"title": "Duits",
+		"id": "cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+	},
+	{
+		"vakleergebied_id": [
+			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
+		],
+		"title": "Turks",
+		"id": "579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+	},
+	{
+		"vakleergebied_id": [
+			"782220bf-4155-4090-b218-c6957a14f963"
+		],
+		"title": "Arabisch",
+		"id": "95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+	},
+	{
+		"vakleergebied_id": [
+			"73abc618-988a-4409-b2ae-ff16febf68ee"
+		],
+		"title": "Spaans",
+		"id": "6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+	},
+	{
+		"vakleergebied_id": [
+			"f851676e-b541-42db-986a-5c468974f65e"
+		],
+		"title": "Frans",
+		"id": "89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+	},
+	{
+		"vakleergebied_id": [
+			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+		],
+		"title": "Engels",
+		"id": "8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+	},
+	{
+		"vakleergebied_id": [
+			"953167a9-cb14-47e3-8446-a708a4e077b9"
+		],
+		"title": "Handvaardigheid",
+		"id": "fbbd2952-218e-4aa9-916f-0d301124d18c"
+	},
+	{
+		"vakleergebied_id": [
+			"99fa52fd-5d20-446a-a34c-61a6be77b413"
+		],
+		"title": "Textiele vormgeving",
+		"id": "03148f32-44eb-4e69-8758-775dcb674597"
+	},
+	{
+		"vakleergebied_id": [
+			"39ae089f-d9e4-47c5-bd78-f40432efb958"
+		],
+		"title": "Dans",
+		"id": "d64fa318-6d38-4671-84e1-7243c3c16452"
+	},
+	{
+		"vakleergebied_id": [
+			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
+		],
+		"title": "Drama",
+		"id": "dd728106-6600-496b-99c7-df31fb3137f7"
+	},
+	{
+		"vakleergebied_id": [
+			"b608d97d-2846-4216-a3ea-925ab70cff17"
+		],
+		"title": "Beeldende vorming",
+		"id": "d7461634-68a7-43bc-82c8-1afe8a65bdde"
+	}
+]

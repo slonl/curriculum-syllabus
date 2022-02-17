@@ -1,5 +1,3639 @@
 [
 	{
+		"id": "1b9d4ac0-d346-4575-84f3-0530244248b0",
+		"prefix": "A1.1a.1e.1",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling de geschikte projectie en schaal.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"description": "Kaarten maken",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"prefix": "AK/H/DomeinB/B2/4a.1",
+		"id": "d8f4c45d-50d9-4a4b-9368-d01dec9329bc",
+		"title": "De kandidaat kan aan he proces van mondialisering/globalisering economische, culturele en politieke dimensies onderscheiden en aangeven hoe deze dimensies elkaar beïnvloeden",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
+		],
+		"description": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "f8d50874-ec94-4e31-a448-6cf84e8c91f4",
+		"title": "De kandidaat moet de geografische werkwijzen kunnen gebruiken en weten wanneer en waarom bepaalde geografische werkwijzen gebruikt moeten worden.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"prefix": "A1.1c",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "f3db6c3a-b989-4c79-b308-521ad185218b",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen.",
+		"description": "Kaarten maken",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"prefix": "A1.1a.1e.2",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "0a450614-59a1-4233-9aa0-f92a46f732ba",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor een geschikte klassenindeling.",
+		"description": "Kaarten maken",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"prefix": "A1.1a.1e.3",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "1029e718-20e8-47b2-b63f-6a31026a8a82",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd.",
+		"description": "Kaarten maken",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"prefix": "A1.1a.1e.4",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "4fef2d14-596a-4eba-a392-c0df3e26ce7a",
+		"title": "De leerling kan geografische informatie verwerken tot een kaart. Hierbij kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.  ",
+		"description": "Kaarten maken",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"prefix": "A1.1a.1e.5",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "add5027e-f5ce-4520-9912-7732b99e224e",
+		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.\nBodemerosie, delta, kwelwater en piekafvoer.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"prefix": "AK/K/6/11.5",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "e09a3f0c-6be0-4d77-89c5-1cff8fbb174f",
+		"title": "De kandidaat kan oorzaken van het versterkt broeikaseffect beschrijven en maatregelen om het versterkt broeikaseffect aan te pakken.",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"prefix": "AK/K/4/5.8\n",
+		"ce_se": "",
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "5f792d6e-fdca-460c-ac76-4874720c4541",
+		"prefix": "A1.1b.2",
+		"title": "De kandidaat kan de volgende typen geografisch vragen erkennen en formuleren: beschrijvende vragen; verklarende vragen; voorspellende vragen; waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
+		"description": "",
+		"ce_se": "",
+		"examenprogramma_eindterm_id": [
+			"dbc378e5-07e8-4aac-9959-764335da89ff"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "e440bbfc-c6ca-4bfb-b52d-46f98d1b4102",
+		"title": "Daarbij kan hij/zij onderscheid maken in vragen die: \n- beschrijven : wat is daar? waar is dat? (een voorstelling geven van een aardrijkskundig verschijnsel, proces en/of vraagstuk in woord, cijfers en/of beeld (inclusief kaarten). Onder beschrijven valt ook herkennen.\n- verklaren : waarom is dat daar? waarom is dat daar zo? wie krijgt wat, waar en waarom? uitleg geven van samenhangen tussen aardrijkskundige verschijnselen en hoe aardrijkskundige processen werken. Het kan gaan om oorzaak-gevolg relaties (causale verklaring), functionele relaties (functionele verklaring) of om ontwikkelingen in de tijd (historische verklaring).\n- waarderen : is dat daar gewenst? is dat daar zo gewenst? hoe beleeft men dat daar? bij ontwikkeling(en), plan(nen) en maatregel(en) voor- en nadelen herkennen vanuit verschillende dimensies en argumenten geven bij het maken van keuzen.\n- probleem oplossen/adviseren : wat kan daar? waar kan dat? een gewenste aanpak (plan, maatregel) voor een vraagstuk voorstellen en daarvoor argumenten geven.\n - voorspellen : waar kan dat toe leiden? waartoe kan dat daar leiden? een verwachting uitspreken omtrent een aardrijkskundig verschijnsel, proces of vraagstuk en daarvoor argumenten geven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		],
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "474c48e0-3fb4-463a-8664-0a9bbdfd540e",
+		"title": "Het gaat bijvoorbeeld om virtuele globes, educatieve web-atlassen, web GIS applicaties en serious geogames.",
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "0d37ba84-693e-413f-97ee-6e645aa92589",
+		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen.\nTechnologische innovatie en vrijhandel zijn de motoren van het globaliseringsproces.\nEconomische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen.\nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten.\nNetwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en individuen. Wereldsteden spelen een belangrijke rol in deze netwerken.",
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "db2cfb3f-8b40-4490-a737-f603b31245bf",
+		"title": "Groot-Brittannië als huidig kern land (centrum) en voorheen grote koloniale mogendheid, transformatie van een industriële naar een diensteneconomie, positie van wereldstad Londen in mondiale economie.\nIndia als voormalige Britse kolonie en opkomende economische mogendheid, diversificatie van de economie, positie in de mondiale economie.\nIn beide landen nemen onder invloed van globalisering de sociale en ruimtelijke verschillen toe.\n(Historisch gegroeide) economische en culturele banden tussen beide landen zijn zichtbaar in (huidige) handels-, investerings- en migratiepatronen.",
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "e47cb123-ecce-4a84-86f3-a0e6fc5a64df",
+		"title": "Internationale handels- en investeringsstromen voltrekken zich in grote mate binnen en tussen de drie kerngebieden (de triade).\nOpkomende economieën en MNO’s uit deze landen spelen een steeds grotere rol in internationale handels- en investeringsstromen, China krijgt een grotere rol op het wereldtoneel, Zuid-Zuid handel en investeringen worden belangrijker.\nInternationale migratiestromen zijn al geruime tijd in grote mate Zuid-Noord gericht met als belangrijkste bestemmingen: Noord-Amerika, EU en het Midden-Oosten.\nInternationale Zuid-Zuid migratie neemt toe met de economische ontwikkeling van gebieden / regio’s.",
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "bdb32950-f523-4f78-8f14-a88422981328",
+		"title": "Op basis van economische indicatoren kan de wereld ingedeeld worden in een wereldsysteem met een centrum, periferie en semiperiferie.\n- Het (oorspronkelijke) mondiale centrum-periferie patroon hangt samen met de erfenis van het koloniale verleden en de internationale arbeidsverdeling die daar uit naar voren kwam.\n- De periferie (het zuiden) raakt meer gedifferentieerd (opkomende landen, middengroep, achterblijvers).\nOp basis van de demografische indicatoren kan de wereld ingedeeld worden naar fasen in de demografische transitie.\n- Demografische transities zijn vaak gerelateerd aan economische ontwikkeling.\nOp basis van culturele indicatoren kan de wereld ingedeeld worden in cultuurgebieden.\n-  Talen en godsdiensten zijn (o.a.) door kolonialisme en migratie verspreid.\n- Culturele grenzen zijn door huidige migratie en culturele uitwisseling steeds moeilijker te trekken.",
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"types": [
+			"syllabus_toelichting"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "e03dc13b-f25c-4fb7-9cb8-6fd3f58111b3",
+		"title": "s-Hertogenbosch, Afsluitdijk, Alkmaar, Almelo, Almere, Alphen a.d. Rijn, Ameland, Amersfoort, Amstelveen, Amsterdam, Amsterdam-Rijnkanaal, Apeldoorn, Arnhem, Assen, Bergen op Zoom, Biesbos, Breda, Delft, Delfzijl, Den Haag, Den Helder, Deventer, Doetinchem, Dordrecht, Drachten, Drenthe, Eindhoven, Emmeloord, Emmen, Enkhuizen, Enschede, Flevoland, Fryslân (Friesland), Gelderland, Gouda, Groningen (prov.), Groningen (stad), Haarlem, Haarlemmermeer, Heerenveen, Heerlen, Helmond, Hengelo, Hilversum, Hoogeveen, Ijssel, Ijsselmeer, Kampen, Leeuwarden, Leiden, Lek, Lelystad, Limburg, Maas, Maastricht, Markermeer, Meppel, Middelburg, Neder-Rijn, Nieuwe Waterweg, Nijmegen, Noord-Brabant, Noord-Holland, Noordzeekanaal, Oosterschelde, Oss, Overijssel, Purmerend, Randstad, Rijnmond, Roermond, Roosendaal, Rotterdam, Schiermonnikoog, Schiphol, Sneek, Terneuzen, Terschelling, Texel, Tilburg, Twente, Utrecht (prov.), Utrecht (stad), Vaalserberg, Veendam, Veluwe, Venlo, Vlieland, Vlissingen, Waal, Waddenzee, Wageningen, Westerschelde, Zaandam, Zeeland, Zeeuws-Vlaanderen, Zoetermeer, Zuid-Holland, Zutphen, Zwolle",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "91dce357-3509-4b29-9315-e74be379b641",
+		"title": "Albanië, Alpen, Antwerpen, Ardennen, Athene, Barcelona, België, Belgrado, Berlijn, Bern, Boekarest, Bordeaux, Bosnië-Hercegovina, Bratislava, Brussel, Budapest, Bulgarije, Cyprus, Denemarken, Donau, Dublin, Duitsland, Engeland, Estland, Finland, Frankrijk, Genève, Glasgow, Griekenland, Hamburg, Helsinki, Het Kanaal, Hongarije, Ierland, Ijsland, Istanbul, Italië, Kaspische Zee, Kaukasus, Keulen, Kopenhagen, Kroatië, Letland, Lissabon, Litouwen, Liverpool, Londen, Luxemburg (land), Luxemburg (stad), Lyon, Madrid, Malta, Marseille, Middellandse Zee, Milaan, Moskou, München, Nederland, Noordzee, Noorwegen, Oekraïne, Oostenrijk, Oostzee, Oslo, Parijs, Po, Polen, Portugal, Praag, Pyreneeën, Rhône, Rijn, Roemenië, Rome, Ruhrgebied, Rusland, Scandinavië, Schelde, Schotland, Seine, Servië, Sicilië, Sint Petersburg, Slovenië, Slowakije, Spanje, Stockholm, Straat van Gibraltar, Theems, Tsjechië, Ural (Oeral), Verenigd Koninkrijk, Vlaanderen, Volga (Wolga), Wallonië, Warschau, Wenen, Zwarte Zee, Zweden, Zwitserland",
+		"examenprogramma_eindterm_id": [
+			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "513c0f1d-681a-4323-ac82-75352dd629eb",
+		"title": "Weer, Weerelementen, temperatuur, neerslag, luchtdruk, wind, bewolking, Temperatuur, thermometer, schaal van Celsius, UV-straling, Neerslag, luchtvochtigheid, droge en natte lucht, Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infilteren/afstromen, Ontstaan van neerslag, stuwingsneerslag, loefzijde, lijzijde/regenschaduw, frontale neerslag, stijgingsneerslag, neerslagverdeling, neerslagintensiteit, piekafvoer, Luchtdruk en wind, hoge druk, lage druk, barometer, isobaren, windkracht, windrichting, windsnelheid, landwind, zeewind, drukgordels, windsystemen, weer- en klimaatfactoren, breedteligging, zoninvalshoek en seizoenen, hoogteligging t.o.v. zeeniveau, afstand tot zee/oceaan en gesteldheid van het oppervlak (land/water), aanvoer van warmte en koe van elders door wind en water, Klimaat, Klimaatgrafiek, Waterbalans, Verdroging, Verwoestijning, Irrigatie, Drainage, Vegetatiezones, tropisch regenwoud, steppe, woestijn, altijdgroene mediterrane plantengroei, gemengd bos (loof- en naaldbomen), naaldbos (taiga), hooggebergtevegetatie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c341f2c1-59fc-41b8-ac56-f147b882711c"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "b7b3c426-667a-42c3-9ce5-69e55ba25c68",
+		"title": "Weer, Weerelementen, temperatuur, neerslag, luchtdruk, wind, bewolking, Temperatuur, thermometer, schaal van Celsius, zonnekracht, UV-straling, Neerslag, luchtvochtigheid, droge en natte lucht, Kringloop van het water, verdampen/condenseren, smelten/bevriezen, infilteren/afstromen, Ontstaan van neerslag, stuwingsneerslag, loefzijde, lijzijde/regenschaduw, frontale neerslag, stijgingsneerslag, neerslagverdeling, neerslagintensiteit, piekafvoer, nuttige neerslag,  Luchtdruk en wind, hoge druk/maximum, lage druk/minimum/depressie, barometer, isobaren, windkracht, windrichting, windsnelheid, landwind/aflandige wind, zeewind/aanlandige wind, drukgordels, windsystemen, wet van Buys Ballot, Bewolking, bewolkingsgraad,  , weer- en klimaatfactoren, breedteligging, zoninvalshoek en seizoenen, hoogteligging t.o.v. zeeniveau, afstand tot zee/oceaan en gesteldheid van het oppervlak (land/water), aanvoer van warmte en koe van elders door wind en water, Klimaat, Klimaten, tropische regenklimaten, tropisch regenwoudklimaat, savanneklimaat, droge klimaten, steppeklimaat, woestijnklimaat, (gematigde) zeeklimaten, warm met droge zomer: mediterraan klimaat (Middellandse Zeeklimaat), met neerslag in alle jaargetijden, (gematigde) landklimaten, met neerslag in alle jaargetijden, met droge winter, sneeuw- en ijsklimaten, toendraklimaat, met eeuwige sneeuw/ijst: pool- en hooggebergteklimaat,  Klimaatgrafiek, Waterbalans, Verdroging, Verwoestijning, Irrigatie, Drainage, Vegetatiezones, tropisch regenwoud, savanne, steppe, woestijn, altijdgroene mediterrane plantengroei, gemengd bos (loof- en naaldbomen), naaldbos (taiga), hooggebergtevegetatie, Zeespiegelstijging, Natuurlijk broeikaseffect, Versterkt broeikaseffect, broeikasgassen, kooldioxide/CO2, methaan, waterdamp, Landbouw en visserij, Voedselgewassen, Handelsgewassen, Intensieve en extensieve landbouw, Voedselpiramide, duurzaamheid, ecologische voetafdruk, duurzaam consumeren, duurzaam produceren, hergebruik/recyclen, klimaatverdrag",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c341f2c1-59fc-41b8-ac56-f147b882711c"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "d810a37d-5a92-40ff-8f20-407fdb213a17",
+		"title": "Spanje, Almeria, La Coruna, Zaragoza, Ebro, Duero (Douro), Tajo (Taag), Guadalquivir, Sierra Nevada, Cantabrisch gebergte, Kastiliaans Scheidingsgebergte, Spaanse Hoogvlakte",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "ea60674d-16e8-4e71-960c-917422c88df3",
+		"title": "Nederland. Lobith, Haringvliet, Rijnmond, Oosterscheldekering, Haringvlietdam, Broouwersdam, Oostelijk Flevoland, Zuidelijk Flevoland",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "df4472b4-1885-4e4a-b348-d51d4a2af6f2",
+		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit, China, Huang He (Huangho), Drie-Klovendam, Grote Kanaal, Xi-Jiang, Himalaya, Hoogland van Tibet, Rode Bekken, Lössplateau",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
+		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg",
+		"examenprogramma_eindterm_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
+		"title": "Nederland, Groene Hart, Bandstad Twente, Brabantstad, Stedelijk gebied Arnhem-Nijmegen, Zuid-Limburg, Duitsland, Düsseldorf, Duisburg, Essen, Dortmund, Leipzig, Dresden, Frankfurt, Stuttgart",
+		"examenprogramma_eindterm_id": [
+			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
+		],
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "75ba42b0-2c54-4815-ab56-7b823fde6acc",
+		"title": "Waterbouwkundige projecten, Zuidoost-Anatoliëproject, Aswandamproject, Waterconflict, Irrigatie, Beregening, Oppervlakte-irrigatie, Druppelirrigatie, Kanaal, Stuwdam, Stuwmeer",
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "afac2285-80a1-4dc6-a6a9-8e5ca0b54d46",
+		"title": "Guangzhou (Kanton), Shenzen, Foshan, Aomen (Macau), Chongqing, Xi-Jiang, Chang-Jiang, Suzhou, Hangzhou",
+		"ce_se": "CE",
+		"description": "",
+		"types": [
+			"syllabus_vakbegrip"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "1a8938c3-8f13-44b5-9d68-a94c5aeda50a",
+		"prefix": "A1",
+		"title": "De kandidaat kan (informatievaardigheden): \r\n- de benodigde informatie halen uit bronnen, zoals tekst, tabellen, grafieken en afbeeldingen\r\n- de aangeboden bronnen beoordelen op bruikbaarheid en relevantie;\r\n- met voorbeelden toelichten\r\n- feiten van meningen onderscheiden\r\n- gegeven bronnen interpreteren en in combinatie met economische kennis komen tot antwoorden op economische vragen\r\n- randvoorwaarden en vooronderstellingen van een economisch model onderscheiden van gegevens uit realistische contexten;\r\n- rekenen en redeneren binnen de randvoorwaarden en vooronderstellingen van een model;\r\n- redeneren buiten de kaders van een economisch model, indien de context daartoe aanleiding geeft.\r\n- transfer: het toepassen van concepten in nieuwe contexten.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"replacedBy": [
+			"76bd4c20-1011-4078-b522-c8202037a993"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "118fafc2-bbca-475b-b224-531ac608eff0",
+		"prefix": "A2",
+		"title": "De kandidaat kan (rekenkundig en/of grafisch onderbouwen):\r\n- basisrekenvaardigheden toepassen in economische vragenstukken \r\n- rekenregels optellen, aftrekken, vermenigvuldigen, delen\r\n- positieve en engatieve getallen/breuken/decimalen\r\n- procenten, promillen en perunages\r\n- onderscheid procentuele mutatie en procentpunt verandering\r\n- verhoudingen en schatting\r\n- rekenen met grote en kleine getallen\r\n- afrondingsregels\r\n- vergelijkingen, beschrijvende statistiek en grafieken gebruiken in economische vraagstukken\r\n- werken met eerstegraads – en tweedegraadsvergelijkingen\r\n- het bepalen van een eerstegraadsvergelijking als afgeleide van een tweedegraadsvergelijking\r\n- oplossen van een stelsel van vergelijkingen via substitutie\r\n- werken met assenstelsels (X en Y) en kwadranten\r\n- waardes bepalen en grafieken tekenen en/of bewerken\r\n- berekeningen maken op basis van grafieken bij domein D\r\n- oppervlaktes arceren\r\n- oppervlaktes berekenen: alléén driehoek en rechthoek\r\n- indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen\r\n- diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld\r\n- tabellen: rijen/kolommen, indeling in klassen (percentielen, decielen e.d.), cumuleren\r\n- gemiddeldes: gewogen en ongewogen\r\n- berekenen van contante waarde en eindwaarde (geen reeksen).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"replacedBy": [
+			"223023c7-9c77-4cb4-a91c-ceff0b85a45f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ff4e2e88-4efe-4d9e-83d8-18085e43bab6",
+		"prefix": "A3",
+		"title": "De kandidaat kan (standpuntbepaling)\r\n- de rol en de perspectieven van de verschillende actoren (consumenten, producenten, werkgevers, werknemers, burgers, overheid, bankwezen);\r\n- een eventuele botsing van belangen;\r\n- oplossingen voor / reacties op mogelijk ongewenst gedrag;\r\n- een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro);\r\n- een standpunt relativeren / weerleggen (argumenten contra);\r\n- afwegingsvraagstukken beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"replacedBy": [
+			"ae2a0463-8131-4c0f-b7b1-e472e3a332f4"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4c869054-381b-45dd-9361-fc78151f2bfb",
+		"prefix": "A4",
+		"title": "De kandidaat kan (strategisch inzicht):\r\n- het herkennen van relevante economische aspecten (concepten) bij het analyseren van concrete maatschappelijke vraagstukken (contexten)\r\n- het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen / een model)\r\n- het onderscheiden van oorzaak en gevolg\r\n- het onderscheiden van probleem en oplossing\r\n- het onderscheiden van korte en lange termijn\r\n- het onderscheiden van evenwichtige situaties en onevenwichtige situaties",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"78a7c0a6-5f25-4433-b394-0176e38fb338"
+		],
+		"replacedBy": [
+			"879ee85f-9393-4d24-a096-fe26b253cf28"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c334e0be-f7e9-491d-af27-bbd5a0bac111",
+		"prefix": "D1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betalingsbereidheid als de maximale prijs die een vrager bereid is te betalen voor één eenheid van een goed.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"347dc315-8409-4d4d-9c44-364ad7d7b174"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ec8610c0-b0e2-4ef6-9d38-c75b531f82a6",
+		"prefix": "D1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de individuele vraaglijn die het verband weergeeft tussen de gevraagde hoeveelheid van één vrager bij uiteenlopende prijzen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"c89725c9-29ff-4e9f-96b0-08d26dff6512"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "724651ae-447d-4357-9794-f301647ac85d",
+		"prefix": "D1.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele vraaglijn en de collectieve vraaglijn.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"e4403f29-c621-4d29-a792-8afa0f37b6bc"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8e1b49f8-c92e-44d6-9242-7e6f85c7c4d6",
+		"prefix": "D1.4a",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de betalingsbereidheid van alle vragers en het verloop van de collectieve vraaglijn.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"11aa9fdf-cda6-46fe-9502-0d85b44eb971"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c0c4dd0a-8c78-4030-a935-341c207af865",
+		"prefix": "D1.4b",
+		"title": "De kandidaat kan in contexten herkennen en toepassen verschrijving van de collectieve vraaglijn als gevolg van verandering van het inkomen, de behoeften, prijzen van andere goederen en het aantal vragers",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"cd7976d1-e88b-4c21-bbbf-e52a17d7f2bf"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "16a3a014-6af6-44eb-980e-42e13c184fe4",
+		"prefix": "D1.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen prijselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve prijsverandering.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"21514627-f633-4f98-a4c3-e31264bb40c7"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "24c7c627-0e9c-44c5-a09f-325e394b2e51",
+		"prefix": "D1.6",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen een prijselastische- en een prijsinelastische vraag.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"53ef4932-edaf-46d5-b5c5-07b2c9aa33f4"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "22e13ef7-bfd3-4977-aa31-f78d2e2ed074",
+		"prefix": "D1.7",
+		"title": "De kandidaat kan in contexten herkennen en toepassen inkomenselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve inkomensverandering.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"3bce8e42-a58b-43bf-a3f4-8062396d63db"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "0d7de95c-7587-4534-887a-0d3ff76b5942",
+		"prefix": "D1.8",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen inferieure, normale en luxe goederen, in relatie met de waarde van de inkomenselasticiteit.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"00a185c7-d0e6-449e-bd49-7a9a900d9bb5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1e05a23a-8ef1-43a4-b01e-9074ca30eb87",
+		"prefix": "D1.9",
+		"title": "De kandidaat kan in contexten herkennen en toepassen substitueerbaarheid en complementariteit van goederen, in relatie tot de vraag naar een (ander) goed; kruislingse elasticiteit.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"720093b0-2049-4613-8b10-0d836a7bffa8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9f453a83-68c3-4fa4-bc76-03a962ca508d",
+		"prefix": "D1.10",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de individuele aanbodlijn die het verband weergeeft tussen de aangeboden hoeveelheid van één aanbieder bij uiteenlopende prijzen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"66d0bca2-c403-4898-8b2c-656dbaabc7d2"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ac603367-4f5a-4c87-aec8-ae3a07831575",
+		"prefix": "D1.11",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele aanbodlijn en de collectieve aanbodlijn.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"2e600989-0885-434c-b263-618f5059822f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4538a565-bace-4991-a68f-4891bf6c221a",
+		"prefix": "D1.12",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verschuiving van de collectieve aanbodlijn als gevolg van een verandering van de prijzen van productiefactoren, technische ontwikkeling en aantal aanbieders.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"d4402aaa-04a8-4940-b1d9-24df6bc60d83"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "329e7769-ad8c-4bc7-8c59-8d2ba95149fa",
+		"prefix": "D1.13",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verschuiving van de collectieve aanbodlijn als gevolg van heffingen of subsidies.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"d3619e28-9949-416d-8782-74f9e5f261a8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "76900a89-3d71-48bc-8aeb-2a9d620b3a18",
+		"prefix": "D1.15",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van de prijselasticiteit van de vraag voor de verandering van de totale opbrengst (omzet) bij prijsveranderingen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"33ff89d6-61a1-49c8-b855-b07372ab2b5c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "bd4f9c24-b961-47a4-bbb4-0219314cd6da",
+		"prefix": "D1.16",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de onderverdeling van totale kosten in vaste kosten en variabele kosten.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"5cc497c5-6b4e-416b-9f88-78a17ef65102"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "742e61e9-bf3e-4ce3-a27c-c20b42d7b90e",
+		"prefix": "D1.17",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid en de samenhang tussen totale, gemiddelde en marginale kosten.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"24f18d49-4ade-41de-9d26-6cbd641a82af"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "76283632-dd0a-47b7-a738-281a45a6215c",
+		"prefix": "D1.18",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen de individuele aanbodlijn en het verloop van de marginale kosten(lijn) bij hoeveelheidsaanpassing.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"34e5c748-f84f-47ca-bfa1-55056bd6a30c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "764f0a5f-d683-4b8e-8be1-ea55089d1f16",
+		"prefix": "D1.19",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van het verloop van opbrengst en kosten voor de omvang van de winst, zowel gemiddeld als totaal.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"5bbf3afe-285d-4096-b73e-336eebc950f1"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3388e8d3-c89d-4868-92a7-cce5b95fdfe5",
+		"prefix": "D1.20",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de bepaling van de break-even-afzet bij een gelijkheid van totale kosten en totale opbrengsten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"9c8d1138-78e8-4561-a01e-019ac340ce81"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "88d332f6-f682-4aa5-abc2-0cb038741386",
+		"prefix": "D1.21",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marginale opbrengsten en marginale kosten op de (maximale) winst.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"eb42cc56-57d1-42dc-887c-9da2345787ff"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e2f62c3f-6d58-4e22-8f12-9639eaf0b17d",
+		"prefix": "D1.22",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van de markt als coördinatiemechanisme van vraag en aanbod.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"b79861f3-e189-4863-ba1f-f62898ba623a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9a381503-3c60-4ba6-992e-efd050a7ce00",
+		"prefix": "D1.23",
+		"title": "De kandidaat kan in contexten herkennen en toepassen marktevenwicht als zijnde de gelijkheid van de gevraagde en aangeboden hoeveelheid bij de evenwichtsprijs.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"1ca207f7-2319-4eba-8736-d4c1d33347e3"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "bd913e9a-c110-45bd-b401-a8c0c4aa8332",
+		"prefix": "D1.24",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van veranderingen in vraag en aanbod op de evenwichtsprijs, de evenwichtshoeveelheid en de totale evenwichtsopbrengst (omzet).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"f6cf148b-b1e4-40fe-899a-62352762f548"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "176a06d4-db37-45d9-8b44-9e1c0fdfb633",
+		"prefix": "D2",
+		"title": "De kandidaat kan analyseren welke invloed de kenmerken van de markt, zoals aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden, hebben op de marktmacht van de aanbieder en daardoor op het marktresultaat.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"2e2b89be-dc97-4f5c-b8eb-03a6f58a0ad1"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "108f0f7c-72f9-4e3c-9737-29144e44534b",
+		"prefix": "D3.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen consumentensurplus als het verschil tussen de marktprijs en de betalingsbereidheid van vragers die bereid zijn meer te betalen dan die marktprijs.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"01953f9d-0e34-4a6a-b50f-9848726cd878"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2ef782a9-270e-41e8-8882-6d2f831f3e69",
+		"prefix": "D3.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen producentensurplus als het verschil tussen de marktprijs en de prijs waartegen alle producenten bereid zijn aan te bieden.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"ac20f563-377f-45dd-b2f2-dd54b5562e62"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "6b592b49-3623-41da-9e60-72c1f79759b3",
+		"prefix": "D3.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het totale surplus als de optelsom van het consumentensurplus en het producentensurplus.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"a349504c-a390-4f13-a75e-2fceee00892d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "da26f4cf-1b57-4b96-acb7-929b13f1a344",
+		"prefix": "D3.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het totale surplus als maat voor het marktresultaat",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"b7e34927-99e6-4e3a-8b1e-20ebadbcb33e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "42138fcb-cc98-4b15-883a-9205d7b14aad",
+		"prefix": "D3.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen pareto-efficiency als de optimale verdeling van consumenten- en producentensurplus.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"d4056161-6609-4260-b5d8-951c4c635b4f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "df598453-ac1a-41d8-a4fd-f62f5e415841",
+		"prefix": "D3.6",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het totale surplus als een indicator van maatschappelijke welvaart.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"39f8950a-7874-4523-a681-1e97d3d7ee80"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "fb44b858-8541-486d-9447-13b1e7cd5218",
+		"prefix": "D3.7",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marktmacht op de omvang van het totale surplus en het verloren surplus/Harberger-driehoek (dead weight loss).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"32677086-8bc0-4eb2-9110-301dbf5ac8fd"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a0a8dda3-739a-4fa0-b099-db025b827a57",
+		"prefix": "D3.8",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van marktmacht op de verdeling van het totale surplus tussen aanbieders en vragers.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"10c3bdc3-0e80-4915-96d6-dedb98181f42"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "cce19a83-dd20-430c-b5b6-31ff1348581d",
+		"prefix": "D3.9",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de manier waarop een monopolist via prijsdiscriminatie een deel van het consumentensurplus kan afromen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"41d572b1-85af-4831-9b89-18b177941048"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "044b7443-644a-4fcf-ac05-1a556567b50d",
+		"prefix": "D3.10",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van overheidsingrijpen via heffingen of subsidies op het marktresultaat en daardoor op de omvang en de verdeling van het totale surplus.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"fffe70cd-13a7-49ba-9672-34c47eab618e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "bc427e19-f60e-4241-8d30-843e3a84df4f",
+		"prefix": "D3.11",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van prijsregulering door middel van minimumprijzen of maximumprijzen op het marktresultaat en daardoor op de omvang en verdeling van het totale surplus.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"edc3a975-b6f4-48e3-abef-5c6509d6091c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "f4a9924e-82e3-45d1-ba16-78985780c5a9",
+		"prefix": "D3.12",
+		"title": "De kandidaat kan in contexten herkennen en toepassen effecten van octrooien/patenten op marktgedrag en marktresultaat.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"cc1f7059-7996-4924-a717-d99c80e57689"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ba04bd34-7d4c-4ff8-9c30-dfc5e450757d",
+		"prefix": "E1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de intertemporele ruil waarbij niet in de tijd samenvallende rendementen vergeleken worden: afweging tussen individuele prijs van tijd en marktprijs van tijd.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"55fed7d4-9646-4b40-b549-191fc7830967"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "10a79e5f-ab5c-4c61-9f86-aed6cf01d0f0",
+		"prefix": "E1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen lenen en sparen door deelnemers aan intertemporele ruil als schuiven met koopkracht in de tijd.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"4271bc2c-7e03-4ccd-80f1-367f15549e61"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "618c13eb-ffec-4182-8692-f96ff6f26cba",
+		"prefix": "E1.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze om al dan niet vermogen te vragen of aan te bieden met daarbij argumenten als tijdsvoorkeur en risico-aversie.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"67abbe64-e3e1-45eb-92cf-f3f99adbd44e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8d36fec2-0b7e-43b8-a238-02458b2db443",
+		"prefix": "E1.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen rente als de prijs voor sparen en lenen die op de vermogensmarkt tot stand komt.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"00549abf-479b-4513-97f7-0f42b13aa98d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c807bc5e-ae35-4389-87c4-7f2d9607269d",
+		"prefix": "E1.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van risico’s als (dreiging van) wanbetaling en informatieasymmetrie en het risico omtrent inflatie op het gedrag van aanbieders en/of vragers van vermogen en daarmee op de rente.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"d268f065-e2a9-42ba-9959-ab852f83dd54"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "962d70b5-472a-4961-8106-be592676c630",
+		"prefix": "E1.6",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid en de samenhang tussen nominale en reële grootheden.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"afa107cb-4cdc-47b0-934c-26b6cb1aca23"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e58235ed-2d43-4170-a73a-4da0bdef10f0",
+		"prefix": "E1.7",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het belang van investeringen bij de vorming van publiek kapitaal zoals infrastructuur, of privaat kapitaal zoals menselijk kapitaal of kapitaalgoederen van bedrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"c7786736-84f7-4c03-a2e9-a854128b4ebb"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "15cd7923-3309-4d98-9487-26c9f0fb67af",
+		"prefix": "E1.8",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen voorraad- en stroomgrootheden en hun onderlinge verband.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"b7849d9f-12b6-465c-a144-2b006fe38eb4"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b281645b-0a82-4912-9b21-502ea9731c70",
+		"prefix": "E1.9",
+		"title": "De kandidaat kan in contexten herkennen en toepassen intertemporele ruil door de overheid vergelijken met een dergelijke ruil in de private sector gelet op de staatsschuld en de bijzondere positie van het overheidstekort als uitgestelde belastingheffing.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"fe8796ac-5f9a-46af-8846-f711a41036f5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d828ac54-a5a6-49bc-a077-9200cf9477f8",
+		"prefix": "E1.10",
+		"title": "De kandidaat kan in contexten herkennen en toepassen belastingspreiding in de tijd als methode om welvaartsverliezen als gevolg van belastingheffing te spreiden in de tijd.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"376e8aa4-43d5-414e-97d4-a4f087e9dd7f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1450d47a-1da2-43a5-b720-b825f5e1db3b",
+		"prefix": "E2.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de levensloop binnen gezinshuishoudingen en de rol van de overheid met daarbij: \r\n- welvaartsvaste- of waardevaste pensioenen \r\n- het omslagstelsel en het kapitaaldekkingsstelsel als het gaat om de financiering van het pensioen \r\n- intergenerationele ruil",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"0feb64d7-2589-40c3-9472-0ed66f124478"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "fd434a67-9b7c-48df-a07a-c86fc055b989",
+		"prefix": "E2.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de elementaire balans en resultatenrekening van bedrijfshuishoudingen met daarbij:\r\n- Activa, eigen en vreemd vermogen als onderdelen van de elementaire balans (voorraadgrootheden) \r\n- Kosten, opbrengsten resultaat als onderdelen van de elementaire resultatenrekening (stroomgrootheden) \r\n- Afschrijvingen als waardeverlies van investeringen in vaste activa",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"ed2c1fd8-5c23-42bb-b3e4-bb3246a75e64"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "88d628a4-408a-422f-b8df-2f17d9251d38",
+		"prefix": "E2.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de vermogenspositie van de overheid met daarbij: \r\n- de staatsschuld \r\n- het financieringstekort",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a710730a-bd76-4893-920d-c14183dbc32a"
+		],
+		"replacedBy": [
+			"f971c7d1-252f-467f-8b8c-97e52db04711"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a7755b61-d2fd-401f-83ac-a55c37d00f35",
+		"prefix": "F1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het belang van voldoende en van gelijke informatie voor de spelers.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"c6552bfa-4701-4f5f-9092-43af548626d9"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "274d7993-e53c-4932-9561-817be34dfe71",
+		"prefix": "F1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de weergave van het spel in een pay-off matrix of een spelboom (beslisboom).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"9c440a8a-4e6d-4348-aa59-e086880cecac"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4f221757-3615-4517-947e-e13d8452d16e",
+		"prefix": "F1.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen een simultaan en een sequentieel spel.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"9b920c97-1291-45e0-9c78-34522daeeba8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7974add1-c992-49e7-b3bd-ce759546370a",
+		"prefix": "F1.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een Nash-evenwicht.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"efcc1076-874e-4978-bd96-e77a52800fe1"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4eb3daaf-86ef-4200-a9cf-d8dfe6661d10",
+		"prefix": "F1.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een gevangenendilemma waarin sprake is van een dominante strategie voor de spelers met daarbij het suboptimale Nash evenwicht.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"f7664165-970e-4ddd-82e7-848fbcd38e54"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "17d9fcc2-d2ad-479c-8186-e48544f26b09",
+		"prefix": "F1.6",
+		"title": "De kandidaat kan in contexten herkennen en toepassen een spelsituatie waarbij niet altijd een dominante strategie aanwezig is.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"3188ae5e-4ab8-4adb-bbb8-e796362c49fe"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e595872f-07bd-48e0-84f2-6af41ad80875",
+		"prefix": "F1.7",
+		"title": "De kandidaat kan in contexten herkennen en toepassen zelfbinding als alternatief voor de eigen dominante strategie indien deze een lagere pay-off oplevert en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"223607dc-6c42-4367-aa00-31387623d83a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1fb5a506-f549-4f3e-8052-ece26d04325b",
+		"prefix": "F1.8",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van sociale normen op de pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"62b3240f-db1e-4d54-b400-dc2a83f813cc"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "fb152f2e-47f7-4455-b2e4-ef1d081c5e46",
+		"prefix": "F1.9",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van de reputatie die de spelers in het verleden hebben opgebouwd op de pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"4c0fd3a9-b410-4db8-b572-9c3ba2b98605"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b32055ab-4f40-421a-b777-b44512882e77",
+		"prefix": "F1.10",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van de reputatie die de spelers gedurende het spel opbouwen op de toekomstige pay-offs in de matrix en het effect hiervan op de keuze die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"f72dff91-9389-4b99-a9a8-deda7a11e78c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2f797c6a-b137-46d8-95a6-28c45e14e6f9",
+		"prefix": "F1.11",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van zelfbinding op de geloofwaardigheid van een dreiging, bijvoorbeeld de dreiging van een prijzenoorlog bij toetreding.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"095e4a96-d283-4454-afd8-661f47d97edb"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e738c6a7-3df6-43e8-beca-695c1299b692",
+		"prefix": "F2.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een berovingsprobleem indien er sprake is van verzonken kosten: kosten die al gemaakt zijn en niet kunnen worden teruggedraaid vanwege het specifieke karakter van de investering.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"1b670f05-5a94-402c-a8c0-39104390635a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "5fcda330-a996-4dfd-bae6-2167fe853354",
+		"prefix": "F2.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van een tegenstelling tussen individueel en collectief belang bij collectieve goederen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"17ac29b3-6b71-4a98-bcc8-fbca12cd0ed0"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "57078d08-b406-4b1f-afc6-200ac01c041d",
+		"prefix": "F2.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van meeliftersgedrag indien er sprake is van een dominante strategie van niet bijdragen aan een collectief goed.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"af13b28e-a2ce-4cb3-a10b-97e23b91d6f1"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "adeef5d0-9bdd-48e1-ad84-7fc8ecd8d9eb",
+		"prefix": "F2.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het optreden van positieve of negatieve externe effecten.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
+		],
+		"replacedBy": [
+			"687c6999-dff6-48ba-ad6b-fef7442116d3"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1228fdfd-fa96-472b-bf91-7ba178176a8b",
+		"prefix": "G1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de aard en de omvang van het risico dat ontstaat bij het nemen van een beslissing in een situatie van onzekerheid (onzeker voorval).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"e3b20d54-ac54-4cb8-884f-95651d195411"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "991ad0f6-567f-4ca1-9577-ae66a4e16163",
+		"prefix": "G1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen risicoaversie en verschillen daarin tussen transactiepartners.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"bff2b053-2ac2-4c0f-85ff-0ede6cf42c64"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "113197e7-8b54-474f-9c3a-f3ed13b054e7",
+		"prefix": "G2.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen onvolledige informatie leidt in een ruilsituatie tot transactiekosten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"37fa6d8c-2f3e-4325-8760-0626639fe7ab"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ccd39c6d-05f7-4a8c-8602-d88452aaa654",
+		"prefix": "G2.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen informatieasymmetrie: informatieachterstand of informatievoorsprong van de ene transactiepartij t.o.v. de andere partij",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"6796055b-0676-4629-a289-82c7f910f54c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4e6ae33e-0bbb-40f1-9362-0279c0593a1a",
+		"prefix": "G3.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze die een ondernemer maakt bij het verkrijgen van eigen en/of vreemd vermogen en de functie van onderpand bij het verkrijgen van krediet.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"3ae7c36a-9b05-47ff-8fb8-6bf0686e6c85"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3ae89f72-d402-4171-a520-d6d2dc4d75f5",
+		"prefix": "G3.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen principaal-agentrelaties, het risico op averechtse selectie en moral hazard. \r\nTe denken valt aan: * opdrachtgever – opdrachtnemer * vermogensverschaffer(eigendom) – ondernemer(leiding) * kredietgever - kredietnemer",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"3964eaa2-558f-4c4f-a673-2c5a57be749d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8a76a865-b730-4615-9547-9db697203584",
+		"prefix": "G3.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het hanteren van contracten in een principaal-agentrelatie en het inzetten van prikkels.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"fe94bae9-fc03-4ad9-9ef8-bc54af451834"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8a3aa545-026e-4d4c-b346-16a9c9e866c4",
+		"prefix": "G3.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de rol van toezichthouders op financiële en op andere markten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"93403b90-0d1b-41e7-b844-67a74c0c55db"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3b077599-caf0-49b7-bcfd-c0c18413864b",
+		"prefix": "G4.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de betekenis van risicoaversie met betrekking tot het afsluiten van een verzekering.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"1df0a5e8-6c6a-42df-b0d7-b6354a7add4d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9840e52a-6717-4a3d-b382-47d11e20e378",
+		"prefix": "G4.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de afweging tussen kosten en risico bij verzekeren door beide transactiepartijen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"7c24f95e-8396-47d3-8261-22ccd2aaccb5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "cee7281e-0d62-4814-942f-bb52a0dc5129",
+		"prefix": "G4.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect dat (verplichte)solidariteit kan hebben op risicomanagement van verzekerden.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"086eac7f-c884-4a4c-9cc9-fd9a7d700aec"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3ed06971-465b-469e-8c31-2bed1f3ec9fe",
+		"prefix": "G4.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen averechtse selectie en middelen om dit te beperken: het verplicht voorschrijven van een verzekering; het instellen van een collectieve verzekering",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"da64e04e-4ca7-46ec-9269-6e3233a79091"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3e116a8e-59a1-4445-9ee2-9d9077171fcf",
+		"prefix": "G4.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen moral hazard en middelen om dit te beperken: bijvoorbeeld eigen risico, bonus-malussysteem.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"86da151d-54e7-4fa3-bf26-60e24912a0c8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8a65c034-7306-4b11-b03d-d7787491910d",
+		"prefix": "G5.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen de hoogte van het risico en het te verwachten rendement bij beleggingen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"0abbd35b-7d5c-4301-b26c-4cae8f43690a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "94b2b599-97e4-4a6c-80b7-c0755a4c7121",
+		"prefix": "G5.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen obligaties en aandelen ten aanzien van de mate van risico en het te verwachten rendement.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"6b4f489b-e5b4-4cc3-873a-6a48aea84134"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ed31b926-b00e-40f4-b9d6-9033f9971950",
+		"prefix": "H1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen dat ontwikkelingen en gedragingen op een bepaalde markt gevolgen hebben voor andere markten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"4335555d-188c-4665-a03f-46082bb35d06"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "f1b65be8-4240-42e5-bc8e-78052ad43ec9",
+		"prefix": "H1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de reële en monetaire kringloop waarbij de volgende sectoren worden onderscheiden: gezinnen, ondernemingen, overheid, buitenland en financiële instellingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"2146ec24-5d0d-4e45-b03d-74c62f237c8a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ef07977e-c2df-4a7e-a73f-6dc7e4d05a8d",
+		"prefix": "H2.1",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen het BBP (als welvaartsmaatstaf) en de toegevoegde waarde; - bruto toegevoegde waarde - netto toegevoegde waarde - afschrijvingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"7b3b2e5a-a43b-4513-970c-9fdd9aa387b6"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c8496d7f-721c-4e66-a633-31bd64de7702",
+		"prefix": "H2.2",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: - de objectieve methode, - de bestedingsmethode - subjectieve methode",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"6cd20491-49a4-4042-82df-37d8b34a52c5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "37804265-26e3-4f59-9eb1-cb7a0bd442fe",
+		"prefix": "H2.3",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen Nationaal Inkomen en Nationaal Product (bruto en netto)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"79500fc3-3354-44df-a75f-98b79f2fc663"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "dba92148-b9cd-4baa-81d8-81e3e5d766d9",
+		"prefix": "H2.4",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de omvang van het BBP en NBP als een beperkte welvaartsmaatstaf, rekening houdend met; - nominaal en reëel - eng versus ruim welvaartsbegrip - welvaartsbegrip per capita - de rol en omvang van de informele sector - Human Development Index en groen BBP (inclusief externe effecten)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"442317d1-828f-4d18-8079-9b1110735e56"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3249ecd8-6be4-4f34-a475-c5ab6396f1e4",
+		"prefix": "H2.5",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren het systeem van de Nationale Rekeningen (inclusief de Staat van Middelen en Bestedingen), met in achtneming van de volgende sectoren: - gezinnen - ondernemingen - overheid - buitenland - financiële instellingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"c18a8b17-a0b7-455f-bb79-b750c03d3283"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "020cbc80-9e8f-41f3-8d41-c7093dd1f762",
+		"prefix": "H2.6",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de betalingsbalans (boekhoudkundig) als overzicht van de handel en betalingen tussen landen; - lopende rekening (inclusief saldi) - kapitaalrekening (inclusief saldi)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"41bcee85-9835-407c-ad16-6650f5dac30f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "657a05d9-4503-4057-9dba-720534a24d7f",
+		"prefix": "H2.7",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen het nationale spaarsaldo en het saldo op de lopende rekening",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"dcda975f-46e8-43c4-ab25-d3d65d007703"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "6d3af5e5-bf01-41af-896e-b6035f4db60d",
+		"prefix": "H2.8",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de relatie tussen de wisselkoers en de betalingsbalans en de wijze waarop een wisselkoers tot stand komt.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"c9f3b852-e59d-4e2f-8ee6-fec56a2f30de"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e51ee8cb-69d1-4267-b1af-a0902c4e3fca",
+		"prefix": "H2.9",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de Lorenzcurve als weergave van de verdeling van het primaire inkomen en het secundaire inkomen; - Gini coëfficiënt - percentage, percentielen, kwintielen - nivelleren en denivelleren",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"5b160207-96ac-4dad-adbd-4d775c24e55a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e069087b-6032-41ad-847e-471123e82432",
+		"prefix": "H2.10",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de categoriale inkomensverdeling, als de verdeling van het BBP over de verschillende inkomenscategorieën pacht, loon, rente/huur en winst, zijnde de beloningen voor de inzet van productiefactoren (arbeid, natuur, kapitaal, ondernemerschap) in het productieproces.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"61a51fa0-9ed2-48ad-8adf-faca599a5870"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "bb83f033-6ce0-4425-8777-4546093f828c",
+		"prefix": "H2.11",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren de arbeidsinkomensquote (=AIQ) als het deel (of het percentage) van het nationaal inkomen dat dient als beloning voor de verschaffing van de productiefactor arbeid.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"d3e85a65-3186-46d9-ae8e-30a149dcce33"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "16722b09-9d81-441b-90e5-9ad9ab1bd00b",
+		"prefix": "H2.12",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren belastingstelsels als afspiegeling van de opvattingen over de gewenste mate van inkomens(on)gelijkheid tussen individuen en groepen;\r\n- marginaal belastingtarief - gemiddeld belastingtarief - heffingskortingen zoals de algemene korting en de arbeidskorting",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"ea746e22-f950-4576-afad-94b15d286d7b"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "eff2786d-e04d-486a-9350-bb3df7566b79",
+		"prefix": "H2.13",
+		"title": "De kandidaat kan in contexten herkennen, beschrijven en analyseren verschillende tariefstructuren binnen belastingstelsels zoals - boxenstelsel - progressief tarief - proportioneel tarief (vlaktaks) - degressief tarief",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"aa32242f-7d1a-48f1-a5ac-8d64a0d12655"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9ad4f3a1-29a4-4811-97c2-32d17ff0af65",
+		"prefix": "H3.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen structuurontwikkeling en de groei van het BBP door inzet van de productiefactoren arbeid , natuur, kapitaal, ondernemerschap en de relatie tussen de zowel de kwantitatieve als kwalitatieve veranderingen van deze productiefactoren (aanbodfactoren)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"75866576-1bc3-4a75-99ce-cd462050fde8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ec1ef93e-53cf-4198-be13-56db7e44b4ce",
+		"prefix": "H3.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwaliteit van de productiefactor arbeid en/of arbeidsproductiviteit bepalen, zoals: - scholing - knowhow / ervaring - gezondheid - specialisatie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"4ae5da61-36b6-4118-ab2d-458c9687a3d6"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b447d757-c997-4d8a-872c-87fdb7fa3a5c",
+		"prefix": "H3.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwantiteit van de productiefactor arbeid bepalen, zoals: \r\n- arbeidstijd en deeltijdwerk - personen en arbeidsjaren en/of arbeidsuren - arbeidsparticipatie - vergrijzing - wig - (potentiële) beroepsbevolking - leerplicht en pensioengerechtigde leeftijd - loonkosten per eenheid product",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"1669320e-271a-4257-9086-716026314de9"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "37d79d1e-6e40-42f3-8129-62b888f155b4",
+		"prefix": "H3.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwaliteit van de productiefactor kapitaal en/of productiviteit bepalen, zoals:\r\n- onderzoek en ontwikkeling - internationalisering - creatieve destructie en (duurzame) innovatie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"5b0b879a-ebbc-4b65-bc6f-23b2f8d786ff"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7cb1d172-e126-4976-9620-cf520ca1bbc0",
+		"prefix": "H3.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen indicatoren die de kwantiteit van de productiefactor kapitaal bepalen, zoals; \r\n- investeringen (uitbreiding- en/of vervangingsinvesteringen) - investeringsklimaat - stimuleringsmaatregelen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"79f6e6ed-c054-40dc-90e0-a0ea80dbc61a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d6c6100b-78f2-49c9-b2fb-09ca8b3e4e68",
+		"prefix": "H3.6",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische motieven voor het al dan niet aangaan van internationale samenwerkingsvormen in relatie tot welvaart en economische groei; - vrijhandel - protectie (zoals invoerrechten, contingentering, dumping, infant industry)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"db189485-37e0-4d59-9ca7-4dfb5eccfce8"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "48646d6c-2bb0-4e26-ab62-f279938c5da2",
+		"prefix": "I1.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen geaggregeerde vraag als de relatie tussen de gevraagde hoeveelheid productie en nationaal prijsniveau op alle markten samen (op de korte en lange termijn);\r\n- consumptieve bestedingen - investeringen - overheidsbestedingen - netto vraag uit het buitenland",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"52a37749-69d4-4a7b-baf7-51e58544b46b"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3b0be7d6-01bf-4c2d-8263-3b50c559df64",
+		"prefix": "I1.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het geaggregeerde aanbod als de relatie tussen de aangeboden hoeveelheid productie en nationaal prijsniveau op alle markten samen (op de korte en lange termijn)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"868904eb-aba0-47b2-a719-af2087e42563"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "48db255b-5b7d-4da0-a9d3-c94a5439411c",
+		"prefix": "I1.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen evenwicht op de korte termijn en de lange termijn als de gelijkheid tussen geaggregeerde vraag en aanbod.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"0020a7cf-ab88-4023-b4ca-b678b36ce8ec"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "286f2c74-ac83-4b1f-9395-b14ca1b2a4bb",
+		"prefix": "I1.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen korte en lange termijn aanbod – en vraagveranderingen op nationaal niveau. \r\n- prijsrigiditeit - loonstarheid - productiecapaciteit",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"b34c6b67-2423-4405-9446-e4db03209977"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "f9b029c0-9586-4ca9-9c32-ac4798328a83",
+		"prefix": "I1.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de verkeersvergelijking van Fisher (MV = PT), waarbij M als de maatschappelijke geldhoeveelheid, V de omloopsnelheid van het geld, P het prijsniveau en T het aantal transacties.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"18912aca-3944-4f3b-9dc9-9d10ebf0c54a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "29e149e3-26ad-40f6-b360-9d6a136f4450",
+		"prefix": "I2.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen veranderingen van het evenwicht op de korte termijn en de lange termijn in relatie tot hoogconjunctuur, laagconjunctuur en trendmatige ontwikkelingen\r\n- Consumenten- en producentenvertrouwen - Werkloosheid en vacatures - Aantal uitzenduren - conjunctuurklok",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"55970c9e-6e51-4155-9461-03f2381cfc1f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "110b9026-bc8b-49e1-9fcc-3fbc5aacfb8c",
+		"prefix": "I2.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van automatische stabilisatoren ten tijde van hoogconjunctuur en laagconjunctuur\r\n- sociale uitkeringen - belastingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"b4161046-5f09-4e99-a459-7f53806f09ed"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c8365133-0b5f-43e9-a29c-5551ac3c7336",
+		"prefix": "I2.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van de verandering van prijzen, inflatie, deflatie en stagflatie op de koopkracht van mensen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"db77088c-a15c-4d4d-a78f-49cb1a8231c2"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2f042079-5df6-4468-aae5-4d8ae4faca48",
+		"prefix": "I2.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen het prijsindexcijfer, koopkracht en inflatie/deflatie.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"a6593bf0-d10d-4568-88c8-0b0e874d7f8a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "edc9d5c8-c2ea-4a22-b3f6-23597d8711eb",
+		"prefix": "I2.5",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de relatie tussen nominale en reële grootheden - economische groei - uitkeringen (welvaartsvast en waardevast) - geldillusie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"fe6ff4e6-31f6-41e3-898d-73d9b452518d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2568dc76-5ec2-4568-b154-ef3827fe5659",
+		"prefix": "I3.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen anticyclisch- en procyclisch conjunctuurbeleid",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"0fbd6a0a-9423-4236-8492-adf0780d3d92"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d184cb95-6194-461d-a704-d613d470c645",
+		"prefix": "I3.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen fiscaal beleid als het beïnvloeden van de conjunctuur middels de - belastingen - overheidsuitgaven - inverdieneffecten - uitverdieneffecten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"4f1b2b75-4a28-4b37-8a8e-8d2864ede88c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c2d41cdf-c709-44d6-8128-f5a3d793170f",
+		"prefix": "I4.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen monetair beleid als het beïnvloeden van de conjunctuur middels; \r\n- rentebeleid - wisselkoersbeleid - geldhoeveelheidsbeleid",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"967ad658-9ba0-44d6-be1e-ccc19b48dbea"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a3a844f9-3c60-42e1-a9d4-03b73104759c",
+		"prefix": "I4.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de beperkingen die gesteld kunnen worden aan de effectiviteit van monetair beleid zoals de liquiditeitsval en de zero lower bound",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"e74621b3-9d05-4d7e-b08e-69951aa162e6"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e08fdade-e382-4579-9386-ce11a4a7e88c",
+		"prefix": "I4.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de Europese Centrale Bank (ECB) of Centrale Banken van landen die niet onder de ECB vallen als: \r\n- toezichthouder op de infrastructuur van financiële markten en betalingsinstrumenten \r\n- beheerder van eigen externe reserves \r\n- uitgever van bankbiljetten\r\n- toezichthouder op aanbieders van risicomijdende en risicozoekende beleggingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
+		],
+		"replacedBy": [
+			"182c9a41-bbe6-4b20-8b7c-28a7a7536f88"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d142cc4f-53d3-4471-b2b3-bb0d5095bb48",
+		"prefix": "EC/K/3.2",
+		"title": "De kandidaat kan relevante economische vragen herkennen en zelfstandig vragen formuleren met het oog op het verwerven van kennis en inzicht",
+		"replacedBy": [
+			"05dec1a7-cada-4574-ad7f-2a9a70fc97af"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "da392347-fa87-49f5-878e-bfd088aa5e11",
+		"prefix": "EC/K/3.3",
+		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken:\r\n– economische begrippen en relaties herkennen en toepassen\r\n– onderscheid maken tussen hoofd- en bijzaken\r\n– informatie analyseren en (her)ordenen en zo nodig bewerken\r\n– gegevens beoordelen op betrouwbaarheid, bruikbaarheid en representativiteit\r\n– conclusies en antwoorden formuleren",
+		"replacedBy": [
+			"ec4c71df-88d8-4afc-8305-57a02eba9078"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "6265f678-8b45-43af-b835-680b5e128f82",
+		"prefix": "EC/K/3.4",
+		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag:\r\n– feiten en meningen onderscheiden\r\n– belangen van diverse betrokkenen herkennen\r\n– relaties leggen met omstandigheden en achtergronden\r\n– eigen waarden en opvattingen confronteren met andere waarden en opvattingen\r\n– mogelijke consequenties van een standpunt aangeven",
+		"replacedBy": [
+			"41f4cbfd-d237-41b4-8a4b-b36156cca6f5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "5e6a48f8-3e19-4e13-9964-6a952da102c6",
+		"prefix": "EC/K/3.5",
+		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals:\r\n– rekenregels en volgorde hanteren\r\n– positieve, negatieve, absolute en relatieve getallen hanteren\r\n– verhoudingen hanteren (procenten, breuken, decimalen)\r\n– schattingen hanteren\r\n– afrondingen hanteren overeenkomstig de gegeven informatie\r\n– grafieken kunnen hanteren: lezen, tekenen (lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren",
+		"replacedBy": [
+			"9f9a7fdf-ce1e-4f26-a6f9-3f5c5a22ee95"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "48e4a65d-77b2-41cf-9292-4ed10a6e5197",
+		"prefix": "EC/K/3.6",
+		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals:\r\n– rekenregels en volgorde hanteren\r\n– positieve, negatieve, absolute en relatieve getallen hanteren\r\n– verhoudingen hanteren (indexcijfers, procenten, breuken, decimalen) toelichting bij de indexcijfers:\r\n- partiële indexcijfer: nieuwjaar/basisjaar*100\r\n- samengestelde ongewogen indexcijfer: Σ partiële indexcijfers/aantal\r\n- samengestelde gewogen indexcijfer:\r\nΣ (partiële indexcijfers * gewicht)/Σ van de gewichten\r\n– schattingen hanteren\r\n– afrondingen hanteren overeenkomstig de gegeven informatie\r\n– grafieken kunnen hanteren: lezen, tekenen (een lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren",
+		"replacedBy": [
+			"8f0e363d-58fb-461d-8fec-9f54e6ed1ae7"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "19cfeb2b-22ba-44a7-9988-dcd1dd71e7c2",
+		"prefix": "G3.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen beleggingen met een hoog en beleggingen met een laag risico;",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"7519e2fe-48fd-4451-bbff-e38a46003a2e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d7c8ca8d-57c6-4f8e-a808-3574a072c176",
+		"prefix": "G3.2",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verschil tussen obligaties en aandelen ten aanzien van de mate van risico en het te verwachten rendement",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"9d7ffbc6-6f2d-4226-b389-731845942e27"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "27252184-6585-4491-a577-8567eb89ac0c",
+		"prefix": "G3.3",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het verband tussen een verandering van de rentestand en een koersverandering van aandelen en het verband tussen een verandering van de rentestand en een koersverandering van (vastrentende) obligaties",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"50529372-b630-4c49-9d59-8ef798175084"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7a945cd3-faf3-4e95-8325-8e41b8860da4",
+		"prefix": "G4.1",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de keuze omtrent het aantrekken van eigen en vreemd vermogen van een onderneming",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
+		],
+		"replacedBy": [
+			"b4c8106d-4922-4834-ac3c-0f816c734019"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "0d353765-6ead-472b-9404-b2213ce9e975",
+		"prefix": "H1.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen het systeem van de Nationale Rekeningen (inclusief de Staat van Middelen en Bestedingen), met in achtneming van de volgende sectoren: \r\n- gezinnen - ondernemingen - overheid - buitenland - financiële instellingen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"2e7fc13b-733a-4da6-bf1d-7c9422a30363"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "22b036fa-2781-4c1d-8e8d-ec16e4db9ce1",
+		"prefix": "H2.4",
+		"title": "De kandidaat kan in contexten herkennen en toepassen convergentie en divergentie van ontwikkelingslanden en ontwikkelde landen aan de hand van de ontwikkeling van en determinanten voor het BBP",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"b8340efb-e599-4c02-975f-fa4c402c677a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "5b2af51a-14be-4250-883e-ea1ac96e2da9",
+		"prefix": "AK/K/4/5.2",
+		"title": "De kandidaat kan weerkaarten van standaard weersituaties in Nederland (West-Europa) gebruiken bij het opstellen van een weerbericht voor Nederland door een gegeven weerkaart aan te vullen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"replacedBy": [
+			"4cc73ee9-cd8c-4b67-89b6-7b3de97b2385"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1a798fdc-7b1e-483e-ac22-aa0f7e05906a",
+		"prefix": "AK/K/4/5.3",
+		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"replacedBy": [
+			"5abd415e-0af3-40bf-971b-ebd6c90097ca"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2b058050-cd08-4ae2-995e-91ec55383487",
+		"prefix": "AK/K/4/5.4",
+		"title": "De kandidaat kan voorbeelden van de invloed van weer en klimaat op menselijke activiteiten in Nederland beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"replacedBy": [
+			"61747ff2-b246-42ca-b1f9-9218a5c1e968"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9a551f5d-ea1f-4129-8a8f-398833709c6d",
+		"prefix": "AK/K/4/5.5",
+		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"replacedBy": [
+			"43bd9110-b6ca-44e5-bbb1-4d09f8e68186"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
+		"prefix": "AK/K/4/5.1",
+		"title": "De kandidaat kan het weer in Nederland en Spanje beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren en verschillen tussen het weer in beide gebieden beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"replacedBy": [
+			"58e012df-bc2f-43c7-bc44-17623f813d3b"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ca19e3c0-dcd5-43ec-b7df-1af4ff247459",
+		"prefix": "AK/K/4/6",
+		"title": "De kandidaat kan weer en klimaat in de V.S. beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"replacedBy": [
+			"7dad5883-cb20-40c4-886a-972a466594b0"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
+		"prefix": "AK/K/4/6.2",
+		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de V.S. met behulp van de klimaatfactoren beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"replacedBy": [
+			"c5410ae8-f1e8-434a-b06b-4d8ac1d46abb"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e372077c-89d2-411b-ae7a-6328d6e4ec68",
+		"prefix": "AK/K/4/6",
+		"title": "De kandidaat kan weer en klimaat, klimaatverandering en klimaatbeleid in de V.S. beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"replacedBy": [
+			"3eac5028-0da3-4c71-b43c-fe6705897b85"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "dc72efcf-5fa3-4db4-a40a-4cf3dbd2cff8",
+		"prefix": "AK/K/6/12.1",
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"0a191b30-aaf7-415a-8619-21a8bcf579ff"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "f00bbfe5-e2f3-4f71-b471-cb6048610abb",
+		"prefix": "AK/K/6/12.2",
+		"title": "De kandidaat kan drinkwaterwinning en watergebruik in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"1ba6b51b-c7ea-4bbb-878b-0904281c7f86"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "00a8ee11-7e95-4e37-aaa4-e3f3131746b8",
+		"prefix": "AK/K/6/12.3",
+		"title": "De kandidaat kan het belang van water voor transport in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"1eedef36-af1c-48c0-bd11-61b2e69da927"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "4f3887f2-d1dc-4e6d-a330-d2ba10c96e13",
+		"prefix": "AK/K/6/12.4",
+		"title": "De kandidaat kan het toenemende watergebruik en de gevolgen daarvan in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"367d4dce-9a70-4bbe-bf1f-f22011547ef5"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c9880213-c2b5-4bed-b552-2049bcb6ef45",
+		"prefix": "AK/K/6/12.5",
+		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en China en de ruimtelijke gevolgen daarvan beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"eb7614f2-f1e2-42df-ad20-d1d10cc3b08b"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ba885bc9-31f0-496f-b069-3efcc52defb4",
+		"prefix": "AK/K/6/12.6",
+		"title": "De kandidaat kan waterbeheer en maatregelen tegen wateroverlast en watertekort in het Midden-Oosten en China en de ruimtelijke effecten daarvan beschrijven en de voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"2ff0d57f-af4f-4685-bc97-b06621ea8ab3"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d0a75f5b-a00d-48d8-9f1e-3c5b3781bd31",
+		"prefix": "AK/K/6/12.7",
+		"title": "De kandidaat kan maatregelen gericht op duurzaam gebruik van water en de ruimtelijke effecten daarvan in het Midden-Oosten en China beschrijven en voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c",
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"replacedBy": [
+			"473351e9-913f-4a98-bbae-2a35b1e7264c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "5b009673-0c33-4be1-8e4f-25c213b7e5a9",
+		"prefix": "A1.1a.1a",
+		"title": "De leerling kan kaarten zoeken en de juiste kaart kiezen door de geografische informatiewaarde en cartografische geschiktheid van de kaart te beoordelen. Bij het beoordelen van de cartografische geschiktheid betrekt de leerling de projectie, schaal en de mate en wijze van generalisatie en symbolisatie.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"63a8ab18-e90f-469b-9c36-43700b234793"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9cead215-9642-4f41-9cab-dec0d4a65fec",
+		"prefix": "A1.1a.1b",
+		"title": "De leerling kan elementen in de kaart identificeren en benoemen, en de kenmerken van de elementen beschrijven. De leerling kan ook de kaarten bevragen: hij kan zoeken welke kenmerken bepaalde elementen bezitten en welke elementen bepaalde kenmerken bezitten.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"cef7084f-343f-480f-9b9c-a802bd49925d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
+		"prefix": "A1.1a.1c",
+		"title": "De leerling kan patronen (spreidingen en geledingen) in de kaart herkennen en beschrijven, en kan correlaties tussen twee patronen herkennen en beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"27aae361-384b-4444-9501-91cb91d5b3cc"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "2bcf086c-c39d-4dde-a36b-d411d8ae281d",
+		"prefix": "A1.1a.1d",
+		"title": "De leerling kan verklaringen geven voor de kenmerken en patronen van elementen en de aanwezigheid van correlaties, en kan voorspellingen doen voor veranderingen in de kenmerken en patronen van elementen. Hierbij maakt de leerling gebruik van achtergrondkennis.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"7f0e3c3c-d92d-4b19-be7e-84f640f3cf76"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
+		"prefix": "A1.1a.2a",
+		"title": "De kandidaat kan verschillende typen Geo-ICT applicaties als informatiebron benutten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"3ff98659-8e15-486d-b190-858ac5d95c23"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b7059be1-3727-495b-827b-f29a7aed4cf1",
+		"prefix": "A1.1a.2b",
+		"title": "De kandidaat kan GPS applicaties gebruiken om geografische gegevens te verzamelen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"8f1fd7b1-8a2a-4d6d-9b23-9d25425a84fe"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
+		"prefix": "A1.1a.2c",
+		"title": "De kandidaat kan eenvoudige GIS software hanteren bij het werken met digitale kaarten",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"6648bb2c-dd11-41ff-a686-09ff0b79f105"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "cc67f770-1290-4bad-9d50-cece367e449c",
+		"prefix": "A1.1a.3",
+		"title": "De kandidaat kan relevante informatie selecteren, analyseren, interpreteren en produceren bij gegeven geografische vragen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
+		],
+		"examenprogramma_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
+		],
+		"replacedBy": [
+			"074b4f70-f641-4726-8e16-8323188929e1"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "8f23c07c-4b8c-4c48-9463-6aff96e1d101",
+		"prefix": "A1.1b.1",
+		"title": "De kandidaat kan aangeven waarover gorgrafische vragen gaan",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"replacedBy": [
+			"bec16a1c-22cc-4ff8-9996-3c1eb8f0f59c"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "d8711de6-437f-4f3e-86e7-2910e54d6526",
+		"prefix": "A1.1c.1",
+		"title": "De kandidaat kan verschijnselen en gebieden vergelijken in ruimte en tijd",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"2c0c1e19-e420-416e-bd0c-638bf0d8e88f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "552f6b7d-95f3-4537-a9f4-49ebf7af163a",
+		"prefix": "A1.1c.2",
+		"title": "De kanidaat kan relaties leggen binnen een gebied en tussen gebieden.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"e62991d7-c1b3-414f-a40c-14cbb456571f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "fbc83147-99a6-4fc3-87bf-f5d3247c3257",
+		"prefix": "A1.1c.3",
+		"title": "De kandidaat kan verschijnselen en bieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, cultuur).",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"8658afb2-cf37-427c-aa4e-4d81c5f11e96"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
+		"prefix": "A1.1c.4",
+		"title": "De kandidaat kan verschijnselen en gebieden in hun geografische context plaatsen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"b044ed0b-cc82-41c1-8e0d-6d615fc6c115"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
+		"prefix": "A1.1c.5",
+		"title": "De kandidaat kan verschijnselen en gebieden op verschillende ruimtelijke schalen beschrijven en analyseren",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"1213766c-c5e8-4640-9c3b-42287b90cfcd"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7223dff9-dd0f-403a-9f3c-737d2df28032",
+		"prefix": "A1.1c.6",
+		"title": "De kandidaat kan verschijnselen en gebieden beschrijven en analyseren door relaties te leggen tussen het bijzondere en het algemene",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"examenprogramma_id": [
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"replacedBy": [
+			"b5408605-bd94-4f8c-afac-88637460d47f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b8f777d7-a6c6-4998-a5c3-e2130c0d713a",
+		"prefix": "B2.4a.1",
+		"title": "De kandidaat kan economische, demografische en sociaal-culturele indicatoren voor het vergelijken van landen benoemen en de beperkingen aangeven van gemiddelde nationale waarden voor die indicatoren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"7db4405a-ea3d-48f0-a1f1-5a2330889c74"
+		],
+		"replacedBy": [
+			"b9469404-3d07-4039-b39d-d0320f87b2c3"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a706af28-839f-4419-83c7-a97a797f951f",
+		"prefix": "B2.4a.2",
+		"title": "De kandidaat kan mondiale economische, demografische en sociaal-culturele spreidingspatronen, alsmede de meest opvallende veranderingen hierin sinds 1980 beschrijven en in hoofdlijnen verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"7db4405a-ea3d-48f0-a1f1-5a2330889c74"
+		],
+		"replacedBy": [
+			"4a76e7aa-094c-4237-ba47-fb72f299715a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a1070a67-ac38-414f-9804-f2a0e9d42e70",
+		"prefix": "B2.4a.3",
+		"title": "De kandidaat kan monidale relatiepatronen an handel, investeringen en migratie beschrijven en in hoofdlijnen verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"7db4405a-ea3d-48f0-a1f1-5a2330889c74"
+		],
+		"replacedBy": [
+			"d1374c54-2d89-4f4f-8559-0ec183c11b6e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "316b4880-44a1-434f-b1cd-815ad609186c",
+		"prefix": "B2.4b.1",
+		"title": "De kandidaat kan het proces van mondialisering/globalisering in economisch en (sociaal-)cultureel opzicht beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"54bf972b-fb44-4f5e-ae7b-f37845522ded"
+		],
+		"replacedBy": [
+			"e3104224-6c99-4dad-b6f3-1946aeae9c0e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "96585cc8-6b18-403d-9408-ba6ff623423f",
+		"prefix": "B2.4b.2",
+		"title": "De kandidaat kan voor Groot-Brittannië en India de positie in mondiale patronen en de effecten van globaliseirng herkennen en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"54bf972b-fb44-4f5e-ae7b-f37845522ded"
+		],
+		"replacedBy": [
+			"7e2b95f5-d009-4ecc-9b45-09aaac318801"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "c50d1475-68f3-4ad1-8843-ae6e6b0bf635",
+		"prefix": "C2.7a.1",
+		"title": "De kandidaat kan de endogene krachten die samenhangen met de platentektoniek beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		],
+		"replacedBy": [
+			"d3cb77be-c9ff-4d4a-96bd-e4d52847b22a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e81a3043-a7e7-4520-8d74-a902e222eb0f",
+		"prefix": "C2.7a.2",
+		"title": "De kandidaat kan de werking van belangrijke exogene krachten beschrijven en hun invloed op de vorming van het aardoppervlak verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		],
+		"replacedBy": [
+			"97205271-efe2-4b8e-bf33-15582f66c0f0"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e26494b7-c689-4d0a-97a9-68722fad20df",
+		"prefix": "C2.7a.3",
+		"title": "De kandidaat kan de interactie tussen endogene en exogene krachten beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		],
+		"replacedBy": [
+			"c2985f6e-52a6-4dae-9401-6a15af89eb1f"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e6cefe7a-5f9b-413f-bb90-2888def56a9d",
+		"prefix": "C2.7a.4",
+		"title": "De kandidaat kan de door zonne-energie en aardrotatie aangedreven grote windsystemen en zeestromingen op aarde beschrijven en verklaren hoe deze van invloed zijn op de klimaatzones.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		],
+		"replacedBy": [
+			"499bd6eb-9f45-4e98-a394-d2e06a771abc"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "cd894aac-475a-4e37-9354-9a73d39de1c9",
+		"prefix": "C2.7b.1",
+		"title": "De kandidaat kan het landschap herkennen als het resultaat van een dynamisch systeem en de voor een landschapszone relevante geofactoren met elkaar in verband brengen.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"3e445646-70d4-4db4-ae6b-f89e11b38913"
+		],
+		"replacedBy": [
+			"7f63cdcf-9237-4c5b-8f28-9248cdf4fe3e"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9a72a475-f1ed-4b71-9a35-02db80704773",
+		"prefix": "C2.7b.2",
+		"title": "De kandidaat kan de invloed van menselijke activiteiten op natuur en milieu in verschillende landschapszones beschrijven en verklaren.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"3e445646-70d4-4db4-ae6b-f89e11b38913"
+		],
+		"replacedBy": [
+			"46f0febd-3754-46ee-9d11-5c7f7b7ceb33"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9e59721f-052d-4597-819b-58f7fb3fb73c",
+		"prefix": "D1.9a.1",
+		"title": "De kandidaat kan een eigen en andermans beelden van Brazilië beschrijven en aangeven hoe die beelden tot stand komen",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"c728e2f8-b068-4d06-bbf6-23ccb1ceaaa4"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "171f2e3b-220b-4c38-9627-c4c243292b9c",
+		"prefix": "D1.9a.2a",
+		"title": "De kandidaat kan Economische, sociaal-culturele en politieke kenmerken van Brzalilë beschrijven en aan elkaar relateren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"b608153e-0923-4660-8e7c-c3e207dd432d"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
+		"prefix": "D1.9a.2b",
+		"title": "De kandidaat kan het verstedelijkingsproces in Brazilië en de problematiek die dit met zich meebrengt beschrijven en analyseren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"59d2b4ae-9f95-4910-84c5-f2b0abb46608"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
+		"prefix": "D1.9a.2c",
+		"title": "De kandidaat kan regionale verschillen t.a.v. genoemde kenmerken binnen Brazilië beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"81ced6a4-92f0-4029-b281-7e679ff682d4"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "89e22bea-f51a-46ea-bd2f-9748a9261694",
+		"title": "De kandidaat kan verschillende toekomstscenario’s van Brazilië beschrijven en onderbouwen.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"8529d976-e16e-4ada-9697-0e7627399863"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "9ec21827-2435-436f-b1da-f9159d1da076",
+		"prefix": "D1.9a.3",
+		"title": "De kandidaat kan de (ruimtelijke spreiding van) klimaten, landschappen en vegetatietypen in Brazilië beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"9278e18c-9f9a-45d0-a37b-ab538942f06a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "a81aa608-eea8-4809-be8d-a4c69e8522da",
+		"title": "De kandidaat kan het ontstaan en de ruimtelijke spreiding van natuurlijke hulpbronnen in Brazilië op hoofdlijnen beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"1198ead0-213f-4d26-a6b3-793684982640"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "1caec618-935d-473b-a189-8aabcce5038e",
+		"title": "De kandidaat kan de gebruiksmogelijkheden voor de mens van verschillende landschappen in Brazilië beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180"
+		],
+		"replacedBy": [
+			"85a8b7b4-6aaf-46aa-bd45-cbe9653be0e2"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
+		"prefix": "D1.9b.1",
+		"title": "De kandidaat kan de economische en politieke positie van Brazilië binnen Zuid-Amerika op hoofdlijnen beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+		],
+		"replacedBy": [
+			"14ddba07-080d-4143-b409-ef4690e6d921"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "40751db4-5e29-42f8-8526-e70a4156a83e",
+		"prefix": "D1.9b.2a",
+		"title": "De kandidaat kan de veranderende economische, culturele en politieke relaties van Brazilië met andere grootmachten in de wereld op hoofdlijnen beschrijven.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+		],
+		"replacedBy": [
+			"379451cf-69de-4502-898c-4fb242560bd9"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "34499fbb-80b6-4c42-999a-ca02668a5346",
+		"prefix": "D1.9b.2b",
+		"title": "De kandidaat kan de effecten van globalisering op de Braziliaanse samenleving beschrijven en verklaren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+		],
+		"replacedBy": [
+			"3c1777ea-019f-4141-9bcf-fb3cb2d83260"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ceba831a-c62d-4ef0-83b3-e00f91adf105",
+		"prefix": "D1.9b.2c",
+		"title": "De kandidaat kan verschillende toekomstscenario’s voor de positie van Brazilië in de wereld beschrijven en onderbouwen.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+		],
+		"replacedBy": [
+			"14a71657-c1af-47c3-a9a9-4b1ee47cab8a"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "7a7478fe-ecd9-41cc-bd61-63c59fb76e12",
+		"prefix": "E1.11a.1a",
+		"title": "De kandidaat kan kenmerken van de stroomgebieden van Rijn en Maas beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"c3f79586-0d36-4b0d-a3a7-c0b34fb5c7c0"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "94c8943d-57e2-4795-9928-e27f8e1ef7c6",
+		"prefix": "E1.11a.1b",
+		"title": "De kandidaat kan de invloed van het veranderende klimaat en menselijk ingrijpen op de waterafvoer van Rijn en Maas beschrijven.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"157eb785-7243-44c7-a246-e01229006db9"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "44dbdc18-b9a2-44bd-81bf-59c82d22c30d",
+		"prefix": "E1.11a.1c",
+		"title": "De kandidaat kan overstromingsgevaar relateren aan ruimtelijke inrichting, zowel binnen- als buitendijks.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"0d50d5f4-75bf-4815-b08f-25c75fd5eb86"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "912b4858-af9f-40f1-a645-00b31995e775",
+		"prefix": "E1.11a.1d",
+		"title": "De kandidaat kan beschrijven hoe in het IJsselmeergebied en de Zuidwestelijke delta risico’s kunnen ontstaan op overstromingen en wateroverlast.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"8d83f739-8087-4bd3-b5e1-0307f336adeb"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "748312cf-e5d3-462d-8783-7e38814d3bc7",
+		"prefix": "E1.11a.2a",
+		"title": "De kandidaat kan het integraal waterbeleid dat in Nederland wordt gevoerd beschrijven en beoordelen.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"e4e0b6a1-22a4-4ada-9192-23d2165d0073"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "34df7865-9090-4c86-b280-40b12df201da",
+		"prefix": "E1.11a.2b",
+		"title": "De kanidaat kan recent Nederlands en internationaal rivierbeleid beschrijven en beoordelen.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"86268faf-6362-49af-b770-d1448d9a9412"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "ea896233-8ebc-4749-8ae4-10ece96d8903",
+		"prefix": "E1.11a.2c",
+		"title": "De kandidaat kan het aanleggen van strategische zoetwatervoorraden beschrijven en beoordelen.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"75ecb67d-4fa6-456e-920d-caf6006f143c"
+		],
+		"replacedBy": [
+			"c37b6050-af49-4882-ad1e-2dbd4382ae02"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "03dc0358-df69-41e1-95e3-0cb2289a4feb",
+		"prefix": "E1.11b.1",
+		"title": "De kandidaat kan stedelijke vraagstukken analyseren en beoordelen, in het bijzonder rond de stedelijke economie",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"c0a6d118-9998-40bb-883a-4ae007397235"
+		],
+		"replacedBy": [
+			"ae3fa9b4-f215-4280-a5a3-4a11b4de2c54"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "b34803f3-bfcf-4b57-870a-94d01adbb2c4",
+		"prefix": "E1.11b.2a",
+		"title": "De kandidaat kan een buurtprofiel van een stedelijke buurt beschrijven aan de hand van fysiekruimtelijke en sociale elementen en beargumenteerde uitspraken doen over leefbaarheid.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"c0a6d118-9998-40bb-883a-4ae007397235"
+		],
+		"replacedBy": [
+			"984a3f40-3fb7-48db-b942-1d2d16389523"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "dfad925b-9def-4545-944f-17c3f43afe98",
+		"prefix": "E1.11b.2b",
+		"title": "De kandidaat kan stedelijk beleid gericht op wijken en buurten beoordelen.",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"c0a6d118-9998-40bb-883a-4ae007397235"
+		],
+		"replacedBy": [
+			"3a7d84e4-5227-4907-8f09-29bc22402e92"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "3336bc6d-5b27-4131-9121-e31568091d22",
+		"prefix": "D2.1",
+		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \r\nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \r\nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \r\nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \r\nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \r\nIV Monopolie: één aanbieder.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"cdd24cf4-a22a-46e1-a8c3-4e38ff67ec10"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "a8502ebd-92bf-4d0c-b351-9cdf644aa9a4",
+		"prefix": "D2.2",
+		"title": "Het bepalen van de prijs en afzet die bij volkomen concurrentie, monopolistische concurrentie, oligopolie of monopolie maximale totale winst opleveren.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"f16a5017-3518-4f90-a5b4-8d88fc2c8066"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "d411ca5c-36d0-486a-b1d0-bb5674d9d0b5",
+		"prefix": "D2.3",
+		"title": "De mogelijkheden voor en gevolgen van prijsdiscriminatie voor de prijzen, afzet en winst bij monopolie.",
+		"examenprogramma_eindterm_id": [
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
+		],
+		"replacedBy": [
+			"2e962abe-3135-4612-ad0b-925bb7d120fa"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "81b40e43-492c-4f1a-a127-6bf3f7eea679",
+		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \r\n- de objectieve methode, \r\n- subjectieve methode",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
+		],
+		"replacedBy": [
+			"3cf7966c-b882-496d-81c9-23ec15fabacc"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "1d2dce87-2fae-4829-8faf-d36bc4e62e2a",
+		"title": "Het gaat om het bewerken, analyseren, interpreteren en produceren van digitale kaarten, vaak in combinatie met tabellen en figuren, gegeven een bepaalde geografische onderzoeksvraag.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
+			"34499fbb-80b6-4c42-999a-ca02668a5346"
+		],
+		"replacedBy": [
+			"e1e95f8e-de33-4dee-ab71-cbc14bfec858"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "325b447d-1343-4878-811c-926bcf592ba0",
+		"title": "Het gaat om informatie in teksten, beelden en cijfers (en combinaties daarvan) in (vak)literatuur en (massa)media. Denk aan: video, film, (interactieve) animaties, (lucht)foto's, tabellen, grafieken, diagrammen en cartoons.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cc67f770-1290-4bad-9d50-cece367e449c",
+			"9e59721f-052d-4597-819b-58f7fb3fb73c"
+		],
+		"replacedBy": [
+			"e7f5671c-153e-4104-8a36-998f2dcc6764"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "aaf963e3-e847-45bf-85ba-23a112183f1b",
+		"title": "Bij het leggen van relaties gaat het om het aangeven van samenhangen tussen verschijnselen binnen een gebied (verticaal), met name tussen natuur en samenleving en tussen ruimtelijke structuur en gedrag, en om het aangeven van samenhangen tussen gebieden (horizontaal). Relaties worden gelegd om een samenhangend geografisch (wereld)beeld op te bouwen. De betreffende denkvaardigheid is: verbanden opsporen tussen gebieden (horizontale relaties) en tussen verschijnselen binnen gebieden (verticale relaties).",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"552f6b7d-95f3-4537-a9f4-49ebf7af163a",
+			"94c8943d-57e2-4795-9928-e27f8e1ef7c6"
+		],
+		"replacedBy": [
+			"9c2d6a4e-d3dc-453b-bcf4-cd5ca0abab27"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "eb88993f-2a3c-4d25-8bf5-05a807c78709",
+		"title": "Het op verschillende schaal beschrijven en analyseren van verschijnselen en gebieden (veranderen van ruimtelijke schaal). Veranderen van ruimtelijke schaal wordt gebruikt om globale geografische beelden te detailleren (concretiseren) en om van gedetailleerde geografische beelden de essentie weer te geven (abstraheren). De betreffende denkvaardigheid is: een onderscheid maken tussen globale en gedetailleerde ruimtelijke patronen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
+			"748312cf-e5d3-462d-8783-7e38814d3bc7"
+		],
+		"replacedBy": [
+			"31dd0823-e2b3-4169-9d36-8ef1f7b4c039"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "73f49dba-863a-4a1b-8754-f7871cb47303",
+		"title": "Verschijnselen en gebieden beschrijven en analyseren door het bijzondere en algemene te onderscheiden en relaties daartussen te leggen (inductief en deductief redeneren), doen we om te zien hoe algemene processen een specifieke vorm krijgen afhankelijk van het land of de regio waarin zij zich afspelen. De denkvaardigheid is: het algemene en bijzondere van een verschijnsel of gebied onderscheiden en de samenhangen daartussen opsporen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"7223dff9-dd0f-403a-9f3c-737d2df28032",
+			"34df7865-9090-4c86-b280-40b12df201da"
+		],
+		"replacedBy": [
+			"b1782cc8-8d90-4362-8629-a423211fa7d0"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "caee9c31-a70f-4adc-841e-f9bbb0d7450f",
+		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen. \r\nEconomische ontwikkelingen zijn de drijvende kracht achter globalisering. \r\nNetwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en op individuen. \r\nEconomische globalisering gaat vaak samen met culturele globalisering en politiek samenwerken tussen gebieden of landen. \r\nEconomische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen. \r\nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"d8f4c45d-50d9-4a4b-9368-d01dec9329bc"
+		],
+		"replacedBy": [
+			"73157d37-f959-4759-a230-390991dd0f48"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "dd80e462-5ec7-4d3c-99a3-607e173e3e8e",
+		"title": "Het proces van globalisering is na 1980 in een stroomversnelling geraakt. \r\nDe basis van de mondiale centrum-periferie verhoudingen is gelegd in de koloniale periode. \r\nDe mondiale centrum-periferie verhoudingen veranderen omdat de internationale arbeidsverdeling verandert.\r\nHet merendeel van de internationale handels- en investeringsstromen voltrekt zich binnen en tussen de drie kerngebieden (de triade).\r\nOpkomende economieën en MNO’s uit deze landen spelen een steeds grotere rol in internationale handels- en investeringsstromen en in de mondiale economie en politiek. \r\nZuid-Zuid handel en investeringen worden belangrijker.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"ee446994-ce4c-45ae-a49b-29eb9eb5d128"
+		],
+		"replacedBy": [
+			"a557d117-0331-4f29-83b0-9b74961435a5"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "65accb26-65c4-4629-acd7-5c55d7aa9ea1",
+		"title": "Het gaat daarbij om het maken van vergelijkingen door het aangeven van overeenkomsten en verschillen tussen gebieden en tussen verschijnselen. Het vergelijken van gebieden en verschijnselen wordt gedaan om categorieën te vormen. De denkvaardigheid die daarbij wordt gehanteerd is: het onderscheiden van overeenkomsten en verschillen",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
+			"e26494b7-c689-4d0a-97a9-68722fad20df"
+		],
+		"replacedBy": [
+			"a8e158a1-4e9f-4946-8420-b91598d7fd82"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "c7b2e03d-9196-4137-bfdd-4a33711813c3",
+		"title": "Het gaat om het kunnen vinden van locaties en routes en het digitaal vastleggen van waarnemingen / omgevingskenmerken met behulp van GPS.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"64930abe-36b8-4dfa-bc7c-0299853500f7",
+			"ceba831a-c62d-4ef0-83b3-e00f91adf105"
+		],
+		"replacedBy": [
+			"e30e38ba-a5a6-40b5-b91b-d0c9e7a1007e"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "9b77f0b8-c737-4266-b3b4-b900910897cb",
+		"title": "Wereldsteden kennen een sterke ruimtelijke segregatie en sociale polarisatie. \r\nIn grote steden ontwikkelt zich een schaduweconomie (informele sector) die enerzijds migranten aantrekt en anderzijds migranten opvangt.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"64930abe-36b8-4dfa-bc7c-0299853500f7"
+		],
+		"replacedBy": [
+			"2384ec1e-3f88-4cae-b866-b2ce0029a209"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "b42e1902-adb4-4391-9b4d-8ce788efb477",
+		"title": "Het landschap is een dynamisch systeem: als één van de geofactoren verandert, leidt dat tot veranderingen van de andere factoren.\r\nDe theoretische grenzen tussen de landschapszones zijn in de praktijk geleidelijke (diffuse) overgangen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"aa6c62cb-7edf-4157-a5a2-c2e359e38849"
+		],
+		"replacedBy": [
+			"62000800-0c88-4559-a796-63ecd029d4dc"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "6ba9c801-098c-49d7-a134-c6acb5eef27d",
+		"title": "De regio’s verschillen in natuurlijke omstandigheden, ligging, aanwezige energiebronnen en grondstoffen. \r\nDe regio’s verschillen vertonen verschillen en overeenkomsten in taal en religie, bevolkingsgroei, verstedelijkingsgraad, welvaart en het belang van bepaalde economische sectoren. \r\nSociaaleconomische en sociaal-culturele verschillen tussen de regio’s zijn te verklaren aan de hand van historische, natuurlijke, economische, politieke en culturele factoren en/of relaties. \r\nDe gekozen toekomstscenario’s beïnvloeden de ontwikkelingskansen van verschillende regio’s.\r\nElke regio is uniek en toch zijn in verschillende regio’s soortgelijke geografische patronen en processen te vinden. De uitkomst van een vergelijking van regio’s is mede bepaald door de schaal waarop de regio bekeken wordt.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6001b9b6-7718-497b-aefe-9cee846ad13b"
+		],
+		"replacedBy": [
+			"6db0c7be-11a3-4b46-a624-2551454debcf"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "84619b6b-423e-4f21-afea-862ca843a085",
+		"title": "De ontwikkeling van Zuid-Amerika kent verschillende perioden; pre-koloniaal, koloniaal, traditioneel postkoloniaal en moderne tijd. \r\nSinds de jaren negentig bepalen in veel landen naast vrijhandel ook sociale doelen de politieke koers.\r\nPolitiek gezien ontwikkelden de meeste postkoloniale landen in Zuid-Amerika zich van kwetsbare democratieën via dictatuur en oligarchie naar meer stabiele, democratische landen. \r\nPolitiek gezien is er in Zuid-Amerika in de 21e eeuw sprake van toenemende bottom-up democratisering. \r\nDe verstedelijking in Zuid-Amerika gaat door, ondanks de maatschappelijke problemen van ongelijkheid, armoede, geweld en uitsluiting. \r\nAls gevolg van economische en infrastructurele ontwikkelingen staan inheemse volken, boerengemeenschappen en het milieu in verschillende landen van Zuid-Amerika onder druk. De aanleg van nieuwe infrastructuur is vaak het begin van ontbossing. \r\nEr worden veel wegen en waterkrachtcentrales gebouwd, met een enorme invloed op mens en milieu. \r\nIn een globaliserende wereld neemt ook in Zuid-Amerika de culturele beïnvloeding vanuit en naar andere werelddelen toe.\r\nDe samenwerking tussen Zuid-Amerikaanse landen neemt toe blijkend uit economische, politieke en culturele bondgenootschappen en onderling verkeer. \r\nDe herkomst van investeringen vanuit andere werelddelen in Zuid-Amerika verandert. Dit heeft grote gevolgen voor de regionale verschillen in Zuid-Amerika. \r\nDe regio heeft in de wereld aan aanzien gewonnen. Zuid-Amerikaanse politici zijn op het wereldtoneel in toenemende mate zichtbaar en eisen een meer volwaardige positie als politieke actor op. Het zelfbewustzijn van de inwoners van Zuid-Amerika is groeiende.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
+		],
+		"replacedBy": [
+			"5306687e-87c8-472f-a75d-8ca0fe9ef608"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "89ea187e-01fe-4611-a0f1-210a036a5dd5",
+		"title": "De grootste overstromingsrisico’s in Nederland ontstaan bij een combinatie van springtij, noordwesterstorm en piekafvoer van de rivieren. \r\nKlimaatverandering leidt tot grotere overstromingsrisico’s en meer kans op wateroverlast óf watertekorten.\r\nNatuurlijke kustprocessen dragen bij aan de opbouw en afbraak van de Nederlandse kust.\r\n(Relatieve) zeespiegelstijging heeft invloed op de Nederlandse kust en op het kustbeheer. \r\nKlimaatverandering draagt bij aan een onregelmatiger regiem van de rivieren. \r\nAllerlei soorten waterkeringen moeten er in combinatie met bergingsgebieden voor zorgen ervoor dat bij extreme omstandigheden overstromingsrisico’s beperkt worden, maar dat rivieren tijdens normale omstandigheden hun water kunnen afvoeren naar zee.\r\nIn het IJsselmeer gebied zijn er overstromingsrisico’s als bij (noord)westerstorm het water wordt opgestuwd bij de delta van de IJssel.\r\nMenselijk ingrijpen in het stroomgebied heeft geleid tot een onregelmatiger regiem, verkorting van de vertragingstijd en verhoogde piekafvoer.\r\nZeespiegelstijging kan de afvoer van rivierwater en het spuien van water op zee bemoeilijken.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"replacedBy": [
+			"47562ccd-9606-41b3-b2e2-4cfbc0b0a286"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "c32e56c7-211d-44d4-9761-71219c56f8d5",
+		"title": "Sinds de Tweede Deltacommissie ligt de focus van het waterbeleid op integraal waterbeleid. Er spelen in Nederland allerlei vraagstukken op het gebied van wateroverlast en overstromingsgevaar en die vraagstukken spelen op verschillende schalen. Dit vereist een samenhangend beleid. \r\nHet waterbeleid zoals voorgesteld door de Tweede Deltacommissie lijkt afdoende om de nu bekende problemen het hoofd te bieden. Er kunnen zich echter nieuwe ontwikkelingen voordoen. \r\nDe Tweede Deltacommissie heeft voorgesteld het peil van het IJsselmeer te verhogen om spuien op de Waddenzee ook in de toekomst mogelijk te maken en om een grote strategische zoetwatervoorraad te hebben. \r\nHet kustbeheer in Nederland is erop gericht om de Basiskustlijn te handhaven. \r\nDynamisch kustbeheer maakt het mogelijk de kust te versterken en tegelijkertijd de natuurlijke dynamiek te laten bestaan. \r\nMaatregelen ter beheersing van de waterafvoer van rivieren betreffen niet alleen het rivierstelsel, maar omvatten het gehele stroomgebied.\r\nEr is in Nederland in 1995 een breuk opgetreden in het denken over overstromingsgevaar van de grote rivieren. \r\nDe Zuidwestelijke delta moet overtollig rivierwater tijdelijk opvangen bij extreme omstandigheden.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"replacedBy": [
+			"53923262-f5a0-434b-94db-8e75fdc95ee9"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "627862f0-16f7-424f-bed2-0d22b5654659",
+		"title": "Als gevolg van ingrepen in het verleden zijn veel veengebieden onder zeeniveau komen te liggen. Diepe polders zijn in periodes van droogte kwetsbaar voor verzilting. \r\nStedelijke gebieden en glastuinbouwgebieden zijn kwetsbaar voor wateroverlast omdat het water de grond nauwelijks in kan zakken.\r\nMaatregelen als de ontkoppeling van het riool, de aanleg van groene daken of waterpleinen en retentiebekkens dragen bij aan het voorkomen van wateroverlast op regionale schaal.\r\nIn steden die gevoelig zijn voor wateroverlast worden maatregelen genomen om meer ruimte te maken voor water of om klimaatadaptief te bouwen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"replacedBy": [
+			"1a547aba-a318-4259-b002-90e8faaaf713"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "18ba6cbf-5f04-4109-968a-ef34d6c3a639",
+		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland.  Leefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving.  De leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en sociale netwerken.  De beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief.  Bij stadsvernieuwing was er sprake van het fysiek opknappen van de woningvoorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling) ingegrepen.",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"replacedBy": [
+			"621b96de-4526-4d01-b388-826fab3dd924"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "1a65cf22-ba2f-43e5-a30c-d6c613129ad8",
+		"title": "Indicatoren maken het vergelijken en categoriseren van landen mogelijk. Indicatoren op nationale schaal verhullen ruimtelijke en sociale verschillen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635"
+		],
+		"replacedBy": [
+			"cbe0b264-f292-48a6-9c9b-fbfbb22de220"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "0e16818d-4331-4c87-a978-f31898f151a3",
+		"title": "V.S., New orleans, Golf van Mexico, Colorado, Rio Grande, Great Salt Lake, Appalachen, Kustgebergte, Great Basin (Grote Bekken), Great Plains (Prairiën)",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"replacedBy": [
+			"6ffdf547-1fa2-4006-9998-a1a2c97eaecd"
+		],
+		"types": [
+			"syllabus_vakbegrip"
+		]
+	},
+	{
+		"id": "8b11efc9-3c19-4212-b0b7-2e10577f31ed",
+		"title": "Midden-Oosten, Dode Zee, Eufraat, Tigris, Jordaan, Syrië, Jordanië, Libanon, Westelijke Jordaanoever, Gaza, Koeweit",
+		"tag_id": [],
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c"
+		],
+		"replacedBy": [
+			"89f48479-84d4-4299-9194-4f2842986e98"
+		],
+		"types": [
+			"syllabus_vakbegrip"
+		]
+	},
+	{
 		"id": "fec8196b-7a2f-423c-94ae-ed49560387e3",
 		"title": "Syllabus Economie havo",
 		"syllabus_specifieke_eindterm_id": [
@@ -230,10 +3864,1036 @@
 			"e214f460-6c3d-4ddd-8009-5a0fdaf06d0c"
 		],
 		"replacedBy": [
-			"a4c52802-db26-4f3a-9893-0042c888db93"
+			"a4c52802-db26-4f3a-9893-0042c888db93",
+			"27b082f4-f12f-44a0-9139-cda65b7d929d"
 		],
 		"types": [
 			"syllabus"
+		]
+	},
+	{
+		"id": "7a95110b-9d2c-4afd-9f91-49a863d3a628",
+		"title": "Syllabus economie vmbo",
+		"syllabus_specifieke_eindterm_id": [
+			"9ae29f0e-2eca-4d46-8123-d898ea88b930",
+			"d142cc4f-53d3-4471-b2b3-bb0d5095bb48",
+			"da392347-fa87-49f5-878e-bfd088aa5e11",
+			"6265f678-8b45-43af-b835-680b5e128f82",
+			"5e6a48f8-3e19-4e13-9964-6a952da102c6",
+			"48e4a65d-77b2-41cf-9292-4ed10a6e5197",
+			"0cc7794d-15dc-459e-a15e-49addcd7e9dc",
+			"a8393cbe-2f69-4021-93ab-f3abb96affa0",
+			"0017e5ef-7221-4ecb-af15-08f3392c2d5f",
+			"7896b0d6-5023-4c89-9c19-4f1a0962f584",
+			"d8945b84-effc-4430-b0db-21db27adba67",
+			"b8f1e00d-00da-4bad-9a25-4696ecb1a552",
+			"e46a22dd-395d-455b-b9b3-1b7c8f00eb1a",
+			"72c670b6-aa9d-4233-8b70-bd522ed8d0b4",
+			"47c257f8-1f01-4f00-9cab-a69de9dfafba",
+			"94376a26-93b0-4736-9020-2cd5fbf66c95",
+			"f27e6e4f-c7a4-4421-9ed8-0b777b2820cf",
+			"5d2bab60-2e88-4e4e-b02c-651b9efe71ce",
+			"a3efa6ac-9bea-47fe-a7c5-83f6146357b5",
+			"e31eb4b2-66bb-4d12-a7ca-bc7227a80826",
+			"e6345bd0-bfaf-4b59-8529-e9453fabc69e",
+			"ea5ed7bd-1f78-4dd1-9b18-5dd65d3cad0c",
+			"20e15437-c71a-4d5b-84d5-1b6fde0e10ff",
+			"6aa5177d-319a-4582-868b-7660b724198e",
+			"00d0a585-8120-4fa3-bc5a-1e4090e8ac0c",
+			"3accafcb-dd28-4de1-b8d8-84ba4975eb57",
+			"d21a12ff-ec8c-4c39-9493-16f580a7b94f",
+			"a65fdf77-bdb7-4504-b4f0-8d9941b9b920",
+			"2e874201-c54b-4edc-aeea-3c13ac5d2ec1",
+			"85556d99-2426-4cfb-ade9-e11e155a1840",
+			"7a3d2838-3420-4c73-afd6-ef697c6b51e9",
+			"5237cff7-9a74-46eb-bb27-c765288d2749",
+			"db48637b-398c-41b8-b15c-2347742e13d6",
+			"49ea4159-d71f-4d40-88f9-ec6e076c50b9",
+			"a6b113b9-2f93-41d1-957d-7397f8c3b5dd",
+			"a0d3f98b-05bc-43fd-b361-7e29f148cad8",
+			"f96b86ac-0998-4b76-a808-4181784f9268",
+			"7b8290d7-dd33-44e2-9213-13636828c69f",
+			"9cb04163-221d-4e10-b92a-95a901b9ecb5",
+			"8c36f08c-10c3-43b2-8536-440bcc221a64",
+			"0968d8b6-0157-488d-841b-abd26e7d9f15",
+			"c2f9a492-9791-439d-af0d-862158f44bbb",
+			"94c32a84-5080-4326-9cd1-8bfe84798d3c",
+			"2acb168b-d0a9-4b92-ade6-e39a0cc7c4ec",
+			"ca67964b-8287-4da4-8e4b-7b9364bf8a44",
+			"6e37578e-a489-4581-bea9-1b485627cb16",
+			"16088996-6331-4761-a3ac-4d7fafe8ff04",
+			"5682d03a-3995-4cbe-99bb-bafe5be0c0c0"
+		],
+		"syllabus_toelichting_id": [
+			"539a5eca-a1b0-4434-9ca6-56c055113de1",
+			"388f2831-7b8b-42f1-8e66-6bb60c3f40aa"
+		],
+		"ingangsdatum": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vmbo/2020/f=/economie_vmbo_2020_versie_2.pdf",
+		"jaargang": "2020",
+		"status": "def.",
+		"replacedBy": [
+			"9f8a3ae4-e1d3-4c43-85b3-71873bfff759"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
+		"title": "Syllabus biologie vwo",
+		"syllabus_specifieke_eindterm_id": [
+			"2b50a822-fd44-4496-8f76-f7c75621e54f",
+			"25b9cf29-7367-4b82-825d-a41620e75a8e",
+			"ab777bce-fae8-4754-abbd-29645446aadf",
+			"eb630c11-df86-4328-94dd-6a06cddac672",
+			"749f774b-7702-48f9-80a0-b39204b7b8d3",
+			"1c7d1729-440e-437e-8ad0-5aa44ae6d65a",
+			"cfbac93d-a564-47f6-a0b2-048b484644f3",
+			"42a1aaed-e9c5-4be9-beb4-f5bae8b1aa3c",
+			"556666c2-260a-4c15-9f02-988337c344c5",
+			"fc8592c8-eaab-4209-9355-dff3bf6573c8",
+			"de273067-b5f4-4d56-818e-0739816cd334",
+			"897484df-50d8-4c3a-9ff5-a442e6cefbab",
+			"044ca634-15ae-4ca2-9600-76a1a25781f2",
+			"e40adf10-7295-49d8-ba83-4ac73b124355",
+			"44813a33-d500-4feb-a1b0-9cbd0aaa6023",
+			"1ad6faa1-d2ce-4663-b1b0-52fd80256640",
+			"260313a8-01fb-4aeb-ab15-20fe3470567b",
+			"decf0946-2de4-4d53-a9f9-28e09be2885a",
+			"8325496d-4ad6-49b6-9e70-a335cd2c6d64",
+			"f00bdae3-e2de-44dd-9abd-668a61f96a39",
+			"d9b77a06-2496-43f6-8741-105b04152b51",
+			"a57631f1-0e23-4313-bf80-c0046a1e7421",
+			"07434ca9-4d94-4f9d-a9f2-eea2d35c8884",
+			"6b0188df-f9f0-4f85-abf5-382aea1c8989",
+			"c7926b9a-f22e-4b07-8ab4-ec06a6572f6a",
+			"b2e5e9e3-e8d5-412c-a38f-363b7fe017ef",
+			"8fbf75d3-c2bc-41a4-b31c-831b9cab47a3",
+			"69d05b6f-3948-4718-9644-9c235beffdd1",
+			"b2425c62-285b-4742-8c73-b85a7905bb04",
+			"01a01603-27d6-45e1-b805-bf90d1edb0e3",
+			"0be17845-78a5-4313-b5db-9cf8b2e15920",
+			"db44d71c-33e6-4c1f-9ee9-799112c1baff",
+			"194be2bb-3eae-439c-a2de-646c07c9acf8",
+			"6a7090ef-eac3-4c8a-8f8f-de082ed4b4e8",
+			"8b90d21d-6981-4f32-94ec-ca94a037b3aa",
+			"bfa0acf1-562e-4f73-a048-eaac531d48d8",
+			"7f7e9c2d-5b7a-4508-92d4-a3d48384de3c",
+			"a5927a80-5ec0-4851-b745-02bea82fc56a",
+			"295d45ef-6a5d-43b5-9ec4-992624051d4c",
+			"41ca7f90-f6c6-42d9-93a8-b1067b096011",
+			"603f9436-0246-41ba-a8ca-3d7d4780205b",
+			"b4aef026-afd8-438e-9b40-6b29c858ef2e",
+			"b10d0e2c-7a1c-4923-87c1-ec00e95ced91",
+			"dd9fee74-fe65-4d87-8c87-599f52dc9508",
+			"ee50638a-bade-45f8-9954-1d53318f1944",
+			"fe1338d8-29d7-4397-a43e-d064505b38bf",
+			"f7568eb9-7f9f-49c9-8651-244f4ee7acf1",
+			"78a2a21d-c8d1-417b-a93e-67ff25fa56a8",
+			"e2cd6c72-978c-4d38-b4b4-a7d3777030b7",
+			"24e3767a-8176-4d2e-9303-45748e9661f7",
+			"72d6984d-a6b0-4f99-a1f0-905796b6df63",
+			"108d6e2b-15c5-4613-8c8b-9272ac7e00ae",
+			"2583255f-5e00-4b54-bd1f-ba747c311904",
+			"3c1eb0a2-97fe-47cd-a7a8-484fa82286ae",
+			"1082f458-cb33-4b54-b415-2a492b286f94",
+			"3800508d-59b5-42e2-be12-7a1d26f010ec",
+			"ef8eed65-73e7-4252-8c2e-a3e269109642",
+			"b8b2b939-1774-432d-b792-e309bac5cbb9",
+			"af5a9007-17ce-4b4d-ab27-26da86745719",
+			"50c62c53-9bf0-4294-a1d1-3c0496f1a2ab",
+			"761c7d2f-bd09-42b0-88b5-150d031e8298",
+			"795ad2d3-d9ba-429e-9bf7-dac4fec39dc2",
+			"ac864d1c-5a3e-4565-911b-dca65aa60dc0",
+			"b261f0ad-84b6-448e-9cd8-4fa58bc52138",
+			"6c3b6aa5-f69d-475d-8dcd-83136dab2dd1",
+			"a716bc74-b5a6-4b05-a288-bce1e31f9b64",
+			"0a5ca995-a5f9-4740-add5-03819bd24682",
+			"102224a0-2545-43db-97b4-0d2306d64081",
+			"9b93814b-cc7d-4ae0-892d-24446ab446b5",
+			"3e3144d2-81fb-4100-8ce5-c554192632e8",
+			"452b60aa-7a24-4422-8603-6591fb319dd3",
+			"24392345-9cbc-4459-92e1-d759099d8ed6",
+			"2444c54b-2d3c-4b57-ae0b-ed1c1665f174",
+			"c24fd8a6-f65c-486e-a3de-e65d36ea919b",
+			"6a618a4b-fda1-4928-953c-72bf2621badb",
+			"70791187-2aeb-4498-ac69-d7268a3d1cbb",
+			"82bcfd7c-1b2b-487e-89b8-0d55c9527f5f",
+			"ee400f20-119e-4415-ba28-6eadf6751c7d",
+			"e5c1af5b-707e-49aa-b444-f3e7e445a787",
+			"f36ec9fc-7b86-4211-adce-253168be3758",
+			"30ef5f25-ea9e-473b-a1d0-88484318a9e6",
+			"bf264ad0-0095-426c-b728-e8897ad5969e",
+			"e583b91f-cf69-4556-bc97-a68470ba669f",
+			"dfd2797c-c8bf-43a8-a8ba-c98647540ad9",
+			"0c08fa0d-78c7-4a76-873f-55013a933da6",
+			"a7caec29-c4ea-4c11-8185-496fd1692ae6",
+			"9100f55d-5409-4ae4-a23e-2050eb065349",
+			"9d350ab5-170c-4cc1-858f-532c556089a5",
+			"a19dbb6b-880a-47fb-8115-4417cea3614d",
+			"84171bbc-756e-45d8-a0df-7ad040192f24",
+			"fb844472-ce4f-4970-b5ed-7bfe85249e34",
+			"8699d286-9027-4e22-8677-40b065025433",
+			"a0a58c95-ef5e-40a5-b7a4-0bb78e8a6760",
+			"285abd4b-ebe8-4ba0-aff7-a22f81e3077b",
+			"ed27d774-4415-457c-8dd5-adb6d93cdd0c",
+			"3ae5b304-5275-4024-8985-ee9b71dfd54c",
+			"03801a11-08f9-4438-9fc2-b8b0f49a2b27",
+			"4604335f-2681-47f4-bd2a-b8d1e5fc71fb",
+			"ee0db6d7-940c-4918-ac07-352863d8f493",
+			"cc7499b2-7055-4914-a2d5-3575d2890c24",
+			"451686a2-37f0-40be-b485-6f068db98d32",
+			"981ce5a9-fa74-43b2-bc78-38a203f5063e",
+			"c3239910-aeae-4fe5-9c90-70641172a6e7",
+			"b124be21-4127-44de-ba04-91e124dfa357",
+			"7eebab88-e3e7-448c-aff2-5a2f26edc094",
+			"b96039bf-6286-46d0-875b-f95c0f37fc39",
+			"5c46d0ce-91a3-4386-a4fc-98f0d8312a3d",
+			"63c3c70b-db9a-41d2-888b-6b8f0d228101",
+			"7f525f57-4ffb-4a0d-9b2d-3ad962a75558",
+			"1ddf9ad8-06ab-4fb0-b211-1c3b6e7a9924",
+			"9fe0decf-5e8e-454b-a893-c9620895e97d",
+			"35430f4f-2d3f-447f-833d-eb563ec6444d",
+			"a0342a0d-631d-48c8-b411-fe7ce596a09e",
+			"209b7e1c-f2ce-475f-a630-b6e058ab3424",
+			"0a837d72-a77e-413d-8eac-5ee0d1d36b77",
+			"3887ef88-a77e-432d-98b6-200e82934d3d",
+			"6c313054-166f-4eeb-ba28-643e88bdbb27",
+			"7828ff43-59ff-463b-ad20-484a05f69488",
+			"bf4eed8f-546d-4e53-a7f7-2066ac4b00d0",
+			"3fed86cc-b4af-4d61-a972-f231d3b8004a",
+			"09ffad63-07f3-43df-8a08-d1af4060172a",
+			"be2026f3-8a78-49a3-a45d-ec23e0a89053",
+			"4a3965d7-4dc6-4ccf-adad-6abe19f438ec",
+			"cb9d1b4a-25f0-4f88-add0-8f6e9a073640",
+			"1f23b74f-8044-48f7-88c2-deeb93f1e016",
+			"8f3f92ac-fb1f-455d-94ca-31cb34d3ba16",
+			"31ea9e6d-d94c-44a6-bacc-57ade7ad3c33",
+			"bc9d0518-d12b-44cd-9267-c604ea1ad9de",
+			"25713c69-827b-4628-bea2-62f15c28e688",
+			"d64e5bee-e9bf-404a-a059-525860e225cb",
+			"69470a8e-ae86-4c3d-b7dc-d64924b35622",
+			"d9f3d2b9-caae-4676-8498-160001fba66a",
+			"c39f921b-a58e-487f-a1b7-0b71093a608f",
+			"c3ec2197-8fd1-4aed-9fc8-558bf533223c",
+			"b5c9e671-9d2c-4fd1-b973-b2d8c5dea840",
+			"902a1c2a-c1c4-4a86-8c9a-a55653347875",
+			"0e5151e3-6ba8-4de2-b010-133a35c98bc5",
+			"7c963227-2143-4b49-8589-78ca5d0b52da",
+			"57ea90c5-0424-4d63-9703-faad2d8f50af",
+			"427ca53b-5d9d-4663-8719-a9a86df7e88f",
+			"93869a0a-9f30-4d38-b832-0a54ae19db5e",
+			"3102c779-c20d-4175-a7dd-0e1d70cfd5e2",
+			"dd2b8b73-5d5f-461f-83e5-bf384292a401",
+			"59538f7d-f414-4b72-bb25-267a06673b6c",
+			"2e6958ae-24f0-47ac-a2a7-bd7ad2d870ef",
+			"95a0f407-2377-4512-828b-41096172aa16",
+			"2c07c6bb-6b76-4552-abc9-e51691395ed9",
+			"e5dace91-e342-43a0-88a6-4c157f54eb74",
+			"03df0c18-dad8-46c0-a405-42a5098458f5",
+			"c33c8c63-3f13-46dc-b80a-4f19e12ec394",
+			"6eb5ddc7-f87e-4ebc-a70d-62b6c037648d",
+			"949c7b16-4932-4ecd-b364-bf9c4e468af1",
+			"4cb3a4f2-3822-47d0-a030-03b168196b3f",
+			"41e3f07d-7aaf-4590-826e-45f0b9f042a3",
+			"d68d650c-2134-4842-a071-bcbf3452ec46",
+			"6660bffe-72c4-40ca-b623-20ea18258280",
+			"8e1102c6-9083-46b9-a136-0f5b48438980",
+			"51ecdd00-8a40-4f05-8a15-58e89da79dfd",
+			"c6ae8522-54e3-442e-8220-c0e1917cfdd6",
+			"93e726f9-129c-4cdf-a799-57ab8745ec21",
+			"ff21dac5-52db-40e6-9bd9-5bcf3b8e6ec3",
+			"78b48801-0f51-4a8d-bb57-922c7d713028",
+			"46de1939-1faa-4546-8831-6d97c860c820",
+			"fbd99df1-3033-4f69-9179-3c5a69da14d4",
+			"d52cdde7-e92d-4fae-9f8c-2de6051ed7a6",
+			"a53f97ea-c92c-4f0f-8fb7-1c81d268034e",
+			"8401a1ed-9d4d-48d3-af29-e4ac32fa9c3c",
+			"d2ac99b4-8d84-46d2-bba8-19d024b0863b",
+			"d8f9e7f4-6ea5-4cb4-a3e9-d6e28651d66a",
+			"e753f5c0-9046-4bfb-8e71-0ad6b7c46dd9",
+			"983a6519-2a12-45a9-999c-ce72168fc3ed",
+			"c7a4486f-1dce-4647-b622-091d660eb0df",
+			"c44e035c-357f-4a78-b9d9-9657c7741304",
+			"4054eeab-1a22-40aa-a51b-2bf2994901a1",
+			"56543a7b-29b7-4f84-998d-eb8fb8d1da24",
+			"eadd676c-73ea-467e-952b-46f2efb75913",
+			"db371634-a3dc-4e8f-818c-f529003bf781",
+			"7b96aa4e-8b99-492f-bf98-1a5180ff74ed",
+			"056b413d-dd6f-463a-a4c1-c2b6f7c5eebc",
+			"271ccab5-62f7-429a-bbb8-307494b0a26e",
+			"13dca3fa-4c0e-4e8f-bc4e-90e7eaf148bc",
+			"42b6998b-4fa8-4311-be24-603996650adb",
+			"493b4692-ef0b-4624-8901-a17c90cf7d62",
+			"71d953b1-a863-4eee-9144-82e7923af646",
+			"40f1a99c-9b67-4c8d-b0e0-f38383613423",
+			"d817148b-7c68-4b0f-b3df-5514b57b8707",
+			"ff6b1751-2925-4851-9208-1c22c1fe59ce",
+			"39892ad1-2d4c-4aea-aa05-8f272cf235e3",
+			"3e7f3443-210b-424b-a8ab-4721c9fbbd27",
+			"28a3d837-f6cf-443f-8933-0ddc9289866f",
+			"2b1ad2df-84c7-4707-bf18-3bf2ab9a04a2",
+			"208e069e-d4cc-415a-a4b9-914372da2a33",
+			"12943e06-b5de-4f46-b113-b0daeb60240b",
+			"fafbbe28-b926-4e7f-a500-f854bbe2c9b4",
+			"c19aa139-b8f9-431c-b3d4-3bc98e88dc4f"
+		],
+		"syllabus_toelichting_id": [
+			"ba3e81d8-86d5-46f7-9532-93c2deaa932c",
+			"19218c72-1418-4cd4-ba77-7f609a8d3e84",
+			"dd7b316a-ddaa-45ff-8a54-851b6fd68446",
+			"14023738-c367-4eb6-81b4-7c57485e586f",
+			"00ea3672-6274-4a63-93db-ba2ebe5c1234",
+			"9883c7fe-4df0-46ac-b305-0c52b6caaf40"
+		],
+		"syllabus_vakbegrip_id": [
+			"bee44e51-7a8a-409c-80f3-544929057fc4",
+			"b3e6e1c9-6209-46fd-936e-3c3a8306f351",
+			"ed610f45-c8f8-49b7-b09e-c03333174738",
+			"f8679993-4bea-484a-b037-ff6f7d735889",
+			"ae904615-f8d5-49a2-8fe9-bf99929f6c5a",
+			"53f6fb02-1ebc-4531-a10a-e0416fae358b",
+			"2c5a5829-deb7-465a-a6fe-044416c3f89a",
+			"c7518196-ad48-4b1b-a662-8eab7de491a5",
+			"abed141e-acbe-470a-bcb2-a75d4ff0c332",
+			"976a72e2-4c1a-45f9-882c-6e35f8b77c31",
+			"b9a0188d-0361-42d1-90e0-02556a1aac0b",
+			"9d10f7f3-b595-4205-a1bb-1909f0526077",
+			"7008b962-043f-4c33-ac04-ac93ecc5d98a",
+			"0f7079c0-6928-4e8b-be13-c6961a8824be",
+			"f5c21f9c-30d9-4d0c-8e2f-f230a5fff314",
+			"baf7d76b-7500-448a-ab9b-d7a657b81a8d",
+			"4ff4ebf1-19a4-4fca-9992-efba3c3e396e",
+			"851d03b2-b549-40aa-948d-e2c78d04624c",
+			"7dbc6cb4-da1b-4241-8bdd-3cb474a79bac",
+			"f623e528-e5aa-4706-af47-d5aec074d368",
+			"771350fe-161d-4338-a478-d120a80169a2",
+			"6c92a443-68a1-4422-b49b-ea47d3831efd",
+			"bec978f5-56c8-4046-9764-a6d4a06fc5c1",
+			"272f7b4e-8293-4fb0-9aeb-b7a4a6927842",
+			"cdf02a75-82bc-450b-a565-b722a690ad59",
+			"3bcf46ab-3c65-4597-9176-d8a39314fc79",
+			"cdfde1b3-1762-4cf5-9a5e-664f5a53dd33",
+			"82fbede5-934b-407f-ad33-3d31a74a0908",
+			"90b969fa-36d9-4db3-ab41-c1023c78019a",
+			"4dbcc50c-2dbf-40b1-8155-a1e0d0baff53",
+			"9a6ccbdf-53fc-4517-a2e2-f18bda5e730b",
+			"06d007e9-a381-45aa-b802-52fd2587cc80",
+			"6963ccf2-2551-42e3-80af-887c403482f6",
+			"22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
+			"db34fc3d-7d7d-4025-812a-5594724a7880"
+		],
+		"ce_se": "CE",
+		"ingangsdatum": "2020",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-biologie-vwo/2020/f=/biologie_2_versie_vwo_2020.pdf",
+		"jaargang": "2020",
+		"examenprogramma_id": [
+			"92f57200-9ac6-449c-964c-b18c8996df85"
+		],
+		"replacedBy": [
+			"135cac9b-77ef-414e-9e88-459ace5fa0fa"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"id": "a9f8ab5a-5998-48ba-a901-b273e6615ec3",
+		"title": "Syllabus aardrijkskunde vmbo",
+		"syllabus_specifieke_eindterm_id": [
+			"7f403e70-323c-4480-9d7e-e2846621d5b3",
+			"879bda9c-5a3c-444a-8138-187dcdaea563",
+			"79183393-789c-41f0-bb9a-e9b7ddecd899",
+			"fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
+			"b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
+			"71cc1ba5-d6b9-498e-9642-93553d2fb7c6",
+			"b37340d8-fb82-460e-a97e-93f1313dd4be",
+			"c2970072-ada5-4b23-99c1-f85ab6586ee4",
+			"ec8ae704-3248-4a34-90bb-a3d79a621054",
+			"c90ac4c7-c75e-413d-b2ea-e074a6cbafc3",
+			"a614410b-26e0-4491-bdf7-24c8d61de0c1",
+			"d945865d-7478-4831-9cbd-f909b6308348",
+			"6dc7cbb3-1689-4b1b-a75e-09e0d93b10f7",
+			"b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
+			"836458b7-bbb9-4e11-a95f-7245e8b3a578",
+			"e4feb30e-f9c6-4d77-98a2-4fad54dca628",
+			"2a140987-3760-45cf-ac04-b5c5dfe06ab0",
+			"b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
+			"8e6153de-3e72-4c1a-b8ad-2785a581a7c1",
+			"8ad176d8-7308-4fd8-8628-fa4002989a88",
+			"38f2bdf4-b3a6-4a4e-b17c-f39232dbbb47",
+			"a5fdc6b3-1735-4414-aae4-529309444df1",
+			"b7e6fef2-7239-4659-a6df-31952d201ab1",
+			"b26bdeb9-fa3c-4372-a396-f5a80db033a9",
+			"06f72591-0cda-4a25-bbfe-4e364e6d804c",
+			"03d625f7-8ece-4410-9fa9-26bd739b7aea",
+			"4f2b327b-0cf6-49f9-99a4-96e55c4e2f37",
+			"95f66bf4-0e67-4d83-bca4-4a5a5e4e265d",
+			"a7919a84-88c8-43c1-9d27-eb5f8d3f7c42",
+			"a4559d94-c9f2-4eb8-bbba-8da7d0851b12",
+			"9a58cc23-bd5e-4fd2-b34b-402953f865a8",
+			"e9ca0afd-cdfe-44a5-90b8-4f3bcdef8994",
+			"5b2af51a-14be-4250-883e-ea1ac96e2da9",
+			"1a798fdc-7b1e-483e-ac22-aa0f7e05906a",
+			"2b058050-cd08-4ae2-995e-91ec55383487",
+			"9a551f5d-ea1f-4129-8a8f-398833709c6d",
+			"6a878036-c7e1-4ec6-b56e-38e1e196e7e3",
+			"b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
+			"5f9d21ff-ac69-4d8c-be6d-b35b59fa60b5",
+			"2ed6d35f-d1d8-4061-9a37-053187ac4b21",
+			"b6462cc7-1f1d-407f-8813-48434d501e63",
+			"6470175f-6fff-4e93-a3e3-a4e273cd0f12",
+			"6d573c26-c5e3-48de-a057-f277ac88aa44",
+			"feba7a18-7b4c-4ec4-a742-53269f6dc328",
+			"ab370215-fa35-4505-a31f-2b35a3fce4bc",
+			"ca19e3c0-dcd5-43ec-b7df-1af4ff247459",
+			"16cb7de8-afe4-4491-be09-09fb331227b6",
+			"ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
+			"8a0e84f4-2b1c-448e-83c8-8471de322a22",
+			"e372077c-89d2-411b-ae7a-6328d6e4ec68",
+			"e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
+			"1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
+			"a11d098a-ea88-41f0-b88d-de4f01042612",
+			"62d1e847-0b3d-41e6-b56b-45aae2e50dee",
+			"8787dc0a-5c86-4da4-a1f6-23fcdbf73d00",
+			"f2cbf239-75ce-4c6e-92d2-6ce1fda9e196",
+			"0b0b387d-1b35-4012-9e0c-80403b133a0f",
+			"e212f1ae-7c85-41a0-94b5-60c6dd136a80",
+			"abbf8427-5b56-4c74-bc94-36b8c92f3b14",
+			"58843a76-d3d2-4e95-9f6d-679bbfa7269e",
+			"7a6b4b28-1b0a-4596-b925-22eeba55c091",
+			"586bb26b-d1c1-4927-8088-ca8c440b55eb",
+			"c384e856-f0bd-4b72-9141-8444312c01cf",
+			"3ba7ecd7-4fdb-4c84-a53e-bc6c2a263caa",
+			"19d045b3-e595-453b-ab50-c9a6cb381938",
+			"df36ddb4-dedc-401b-a66f-faf618e582e7",
+			"20cca5e7-18b4-45a0-9ed6-df5f62f78f70",
+			"b4586d6b-5e98-4467-ae82-dc1667cbbd13",
+			"26ed3cf1-7ecc-4a03-af1e-e79e6d637e16",
+			"40e73201-e611-44f4-84b5-7ed5154eacc1",
+			"ecea0c72-9d5e-4ec3-82e3-5244debb36b6",
+			"9b4aacaa-f3ed-4f20-bc1c-0fcda2da0ffa",
+			"dc72efcf-5fa3-4db4-a40a-4cf3dbd2cff8",
+			"f00bbfe5-e2f3-4f71-b471-cb6048610abb",
+			"00a8ee11-7e95-4e37-aaa4-e3f3131746b8",
+			"4f3887f2-d1dc-4e6d-a330-d2ba10c96e13",
+			"c9880213-c2b5-4bed-b552-2049bcb6ef45",
+			"ba885bc9-31f0-496f-b069-3efcc52defb4",
+			"d0a75f5b-a00d-48d8-9f1e-3c5b3781bd31",
+			"2f13db25-edba-49c1-a0f8-cb467915cd5b",
+			"202b14fa-a0b7-4ed4-827d-d1e89dd44179",
+			"9a96feca-7bb6-442d-afdb-74c59825f3c9",
+			"9b91b8bd-fc10-4e97-8169-9c94b20adfda",
+			"c504a1b4-80ea-42e8-8400-28fa222e75a1",
+			"2cade244-786b-48be-9fb4-8a471d6c2431",
+			"151e4732-3abc-4dc4-a840-dca1ea58b389",
+			"4134ad35-fedb-42d6-bfb0-c8f83677a82e",
+			"b53ddd3c-e9c4-4223-8969-7742bc9a3b9e",
+			"d69d3481-e7ef-417a-979d-a1b085e0dd9c",
+			"72d36aaf-77e5-4db2-b057-33ec9d82fd3a",
+			"516a3caf-b559-4d57-8027-f288098ec4df",
+			"2fe7596f-bb7b-43b4-a920-9c7ef580b069",
+			"2b7cfa13-50db-4a33-b5cf-ab1e43bb5b56",
+			"25d059a6-32f2-4ed0-a593-34ae5212607a",
+			"e1c35956-ec69-47ae-ad25-56a541ea38cc",
+			"67be68c8-0a7c-4016-90df-ab98fbbaf192",
+			"520a317a-db63-4966-9c9b-b2d979b7c071",
+			"5a597a10-db9e-4ef1-b824-05c5e26959c6",
+			"3e5ab581-abd5-43b6-8521-e833568a39fe",
+			"4ba4d83b-bccd-4b46-b5de-e0b3424bbdc8",
+			"f064ac05-8e34-4ad4-96ae-5971b546f1dc",
+			"59c4bf23-73e5-4059-bac6-ff4cce0da2a0",
+			"3416a2d6-37f0-44d0-8f85-4ebb76fcc4f9",
+			"bc66d184-1cd9-42f2-a023-c47fa0ac605e",
+			"0feb2069-1136-41b1-b136-ce8c4fc5f678",
+			"7cf3f067-7754-479c-aa66-df3cff0cd147"
+		],
+		"syllabus_toelichting_id": [
+			"e440bbfc-c6ca-4bfb-b52d-46f98d1b4102"
+		],
+		"syllabus_vakbegrip_id": [
+			"e03dc13b-f25c-4fb7-9cb8-6fd3f58111b3",
+			"91dce357-3509-4b29-9315-e74be379b641",
+			"3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+			"513c0f1d-681a-4323-ac82-75352dd629eb",
+			"b7b3c426-667a-42c3-9ce5-69e55ba25c68",
+			"d810a37d-5a92-40ff-8f20-407fdb213a17",
+			"0e16818d-4331-4c87-a978-f31898f151a3",
+			"ea60674d-16e8-4e71-960c-917422c88df3",
+			"fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
+			"e774d834-c713-409e-9546-1f09baf744bd",
+			"8b11efc9-3c19-4212-b0b7-2e10577f31ed",
+			"df4472b4-1885-4e4a-b348-d51d4a2af6f2",
+			"4a1f7479-30a9-4898-a416-d33c8d01260c",
+			"b4b167a1-5561-400a-8e5a-ee0b90ca69b0",
+			"c488cee3-73fc-451b-9263-13078b930862",
+			"bbbbe42d-98ef-4ba5-9251-07fdafbc0f80",
+			"6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
+			"9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
+			"736e2078-8650-4393-90ad-adb54ca97de7",
+			"75ba42b0-2c54-4815-ab56-7b823fde6acc",
+			"b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
+			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3",
+			"afac2285-80a1-4dc6-a6a9-8e5ca0b54d46"
+		],
+		"ce_se": "CE",
+		"ingangsdatum": "2018",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vmbo/2020/f=/aardrijkskunde_vmbo_2020_versie_2.pdf",
+		"jaargang": "2020",
+		"status": "Def.",
+		"examenprogramma_id": [
+			"544a0293-a7e3-4f6b-a973-30af7627bdea"
+		],
+		"replacedBy": [
+			"c4eef263-8648-40c8-b60f-206339831722"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"id": "5e0288e6-91be-4284-acef-d6ab9ae67228",
+		"title": "Syllabus aardrijkskunde vwo",
+		"syllabus_specifieke_eindterm_id": [
+			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
+			"9cead215-9642-4f41-9cab-dec0d4a65fec",
+			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
+			"2bcf086c-c39d-4dde-a36b-d411d8ae281d",
+			"1b9d4ac0-d346-4575-84f3-0530244248b0",
+			"ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
+			"b7059be1-3727-495b-827b-f29a7aed4cf1",
+			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
+			"cc67f770-1290-4bad-9d50-cece367e449c",
+			"8f23c07c-4b8c-4c48-9463-6aff96e1d101",
+			"d8711de6-437f-4f3e-86e7-2910e54d6526",
+			"552f6b7d-95f3-4537-a9f4-49ebf7af163a",
+			"fbc83147-99a6-4fc3-87bf-f5d3247c3257",
+			"ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
+			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
+			"7223dff9-dd0f-403a-9f3c-737d2df28032",
+			"d8f4c45d-50d9-4a4b-9368-d01dec9329bc",
+			"52d9d87d-9156-413a-a2fe-b6b719287a73",
+			"9bbe66a7-ac89-4a56-a65c-b63225e70ce6",
+			"68d91f3c-007f-4294-a446-2dcd0e96d7b5",
+			"9d044770-f8ff-4c61-8baf-39f5f7612731",
+			"ee446994-ce4c-45ae-a49b-29eb9eb5d128",
+			"42caabce-6edf-4124-bdfb-7bc88e0d2a3a",
+			"20143cd2-da3a-44e0-b4a6-1380d1a65e72",
+			"add18b1f-7d39-4991-8c0a-fd028cbc1593",
+			"d3b1ce89-89b7-411d-9f9e-4d09ae8989de",
+			"45796fa0-629c-40cf-93f5-b99cc47a4c0c",
+			"61bfd76b-d17c-4077-8946-4fd10f134b7e",
+			"e45c1ebc-ae93-4c9c-8b21-e592d9bca75b",
+			"6487c9e2-b0aa-4765-bf39-72840a9e0c9a",
+			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
+			"64930abe-36b8-4dfa-bc7c-0299853500f7",
+			"aa6c62cb-7edf-4157-a5a2-c2e359e38849",
+			"c2533654-0c74-40d0-817d-7567f5d11293",
+			"f0c02b0c-6f14-41fa-a3b2-2db835a9355d",
+			"87610bed-d96c-49d0-beb7-8209a5051d89",
+			"86bbf5f6-6f77-49b1-b592-c92aaf1e5e42",
+			"80722216-825e-4882-94ef-0df70d0f513d",
+			"fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
+			"160be35e-7518-4fb5-9746-89cd5b10e677",
+			"b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
+			"b129fee1-d5b3-452c-a157-02905344258d",
+			"233bbc36-86db-4010-933a-d7a764f19c9c",
+			"8ea0c097-a1e6-46d3-87ee-f67f6922404a",
+			"d1a75ed7-5a65-49c3-9a98-df7219bacd2d",
+			"2608d098-b9f5-48df-a0c3-2977ab9bad44",
+			"1135aa25-2a1c-4727-9524-2213d30f2a9b",
+			"127fe9b6-fe75-4390-9580-b746f7c5808c",
+			"8869ebfa-789b-44c0-ab76-3aa40ac67bb7",
+			"6a87caa4-fcf3-4129-b407-c887bfeb594b",
+			"7470cce5-a49b-4977-8880-3204cf187d8f",
+			"e28797e1-92bd-428e-bfdb-052a62047079",
+			"4b08356b-1675-4d24-abeb-1a819c9b5d4b",
+			"9535d99e-a398-491e-a61e-71b128135d87",
+			"174b5468-00f4-428d-a432-5037dc0359a4",
+			"548e0bc0-859a-415d-ba8b-c939e78ba5b1",
+			"7687df4f-719e-4016-8a68-f9eab8c17807",
+			"f63b5175-01c9-4bd1-aa42-27a271dedb75",
+			"e1865466-bd6b-4c52-9e6f-62ee110fc973",
+			"de42b9fb-1b03-4fe0-b650-b9c9b0380a10",
+			"134a507d-8823-49ec-87f9-86c0e563a43e",
+			"ca0da882-e7b7-404b-ad96-1454d339f4ab",
+			"74ade63b-5891-448c-a25b-0d9a113558fa",
+			"feffbd90-0209-4919-a537-3b195d9e80ab",
+			"a154f2bd-dee1-438e-800f-9a34e9cd7269",
+			"9767a7fa-47a9-434f-9598-caac96041aea"
+		],
+		"syllabus_toelichting_id": [
+			"4272453d-1376-4e23-b9b1-d697ca1dbf13",
+			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
+			"6ba9c801-098c-49d7-a134-c6acb5eef27d",
+			"84619b6b-423e-4f21-afea-862ca843a085",
+			"89ea187e-01fe-4611-a0f1-210a036a5dd5",
+			"c32e56c7-211d-44d4-9761-71219c56f8d5",
+			"627862f0-16f7-424f-bed2-0d22b5654659",
+			"1aab95af-729f-4855-bb54-14ca2a8f673f",
+			"18ba6cbf-5f04-4109-968a-ef34d6c3a639"
+		],
+		"syllabus_vakbegrip_id": [
+			"d2f957d6-3305-41bb-b434-088906bf753d",
+			"9193d525-e605-4b63-842e-9b1d76b98a95",
+			"ebc73da6-195f-4198-a8f7-65ba157f1480",
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2",
+			"f3648277-1a3b-4186-95c9-e3654538b385",
+			"7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
+			"13f79a25-d6ef-4600-81e4-3a20efe32303"
+		],
+		"ingangsdatum": "2015",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vwo/2020/f=/syllabus_aardrijkskunde_vwo_2_versie_2020_vermelding_gebied.pdf",
+		"jaargang": "2020",
+		"status": "def.",
+		"examenprogramma_id": [
+			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
+		],
+		"prefix": "",
+		"description": "",
+		"replacedBy": [
+			"a6e62d23-6d88-4b72-b020-4451aa4b3128"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
+		"title": "Syllabus aardrijkskunde havo",
+		"syllabus_specifieke_eindterm_id": [
+			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
+			"9cead215-9642-4f41-9cab-dec0d4a65fec",
+			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
+			"2bcf086c-c39d-4dde-a36b-d411d8ae281d",
+			"a3926f80-8735-4f2d-a018-8776a897f352",
+			"ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
+			"b7059be1-3727-495b-827b-f29a7aed4cf1",
+			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
+			"cc67f770-1290-4bad-9d50-cece367e449c",
+			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976",
+			"f8d50874-ec94-4e31-a448-6cf84e8c91f4",
+			"d8711de6-437f-4f3e-86e7-2910e54d6526",
+			"552f6b7d-95f3-4537-a9f4-49ebf7af163a",
+			"fbc83147-99a6-4fc3-87bf-f5d3247c3257",
+			"ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
+			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
+			"7223dff9-dd0f-403a-9f3c-737d2df28032",
+			"b8f777d7-a6c6-4998-a5c3-e2130c0d713a",
+			"a706af28-839f-4419-83c7-a97a797f951f",
+			"a1070a67-ac38-414f-9804-f2a0e9d42e70",
+			"316b4880-44a1-434f-b1cd-815ad609186c",
+			"96585cc8-6b18-403d-9408-ba6ff623423f",
+			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635",
+			"e81a3043-a7e7-4520-8d74-a902e222eb0f",
+			"e26494b7-c689-4d0a-97a9-68722fad20df",
+			"e6cefe7a-5f9b-413f-bb90-2888def56a9d",
+			"cd894aac-475a-4e37-9354-9a73d39de1c9",
+			"9a72a475-f1ed-4b71-9a35-02db80704773",
+			"9e59721f-052d-4597-819b-58f7fb3fb73c",
+			"171f2e3b-220b-4c38-9627-c4c243292b9c",
+			"112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
+			"e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
+			"89e22bea-f51a-46ea-bd2f-9748a9261694",
+			"9ec21827-2435-436f-b1da-f9159d1da076",
+			"a81aa608-eea8-4809-be8d-a4c69e8522da",
+			"1caec618-935d-473b-a189-8aabcce5038e",
+			"7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
+			"40751db4-5e29-42f8-8526-e70a4156a83e",
+			"34499fbb-80b6-4c42-999a-ca02668a5346",
+			"ceba831a-c62d-4ef0-83b3-e00f91adf105",
+			"7a7478fe-ecd9-41cc-bd61-63c59fb76e12",
+			"94c8943d-57e2-4795-9928-e27f8e1ef7c6",
+			"44dbdc18-b9a2-44bd-81bf-59c82d22c30d",
+			"912b4858-af9f-40f1-a645-00b31995e775",
+			"748312cf-e5d3-462d-8783-7e38814d3bc7",
+			"34df7865-9090-4c86-b280-40b12df201da",
+			"ea896233-8ebc-4749-8ae4-10ece96d8903",
+			"03dc0358-df69-41e1-95e3-0cb2289a4feb",
+			"b34803f3-bfcf-4b57-870a-94d01adbb2c4",
+			"dfad925b-9def-4545-944f-17c3f43afe98"
+		],
+		"syllabus_toelichting_id": [
+			"81fe3fc8-f93f-4f28-94f7-c45883846a27"
+		],
+		"ingangsdatum": "2018",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-havo/2020/f=/aardrijkskunde_havo_2020_versie_2.pdf",
+		"jaargang": "2020",
+		"status": "def.",
+		"examenprogramma_id": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		],
+		"prefix": "",
+		"description": "",
+		"replacedBy": [
+			"26f54685-adcc-4708-8abf-fb9e6355fc85"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"id": "c57afb62-7fa3-46ab-a8b2-ebdac3ed3976",
+		"prefix": "A1.1b.1",
+		"title": "De kandidaat kan geografische vragen herkennen en zelf formuleren",
+		"ce_se": "CE",
+		"examenprogramma_id": [
+			"dbc378e5-07e8-4aac-9959-764335da89ff"
+		],
+		"replacedBy": [
+			"8d0e5fee-01c6-4e44-bb44-d16c4b22b9c7"
+		],
+		"types": [
+			"syllabus_specifieke_eindterm"
+		]
+	},
+	{
+		"id": "6f7478ea-df72-49e0-8466-37dfdac6e560",
+		"title": "Uitwerking in examenvragen. Bij de informatievaardigheden gaat het om het toetsen van de economische begrippen die in gepresenteerde bronnen, al dan niet expliciet, aan de orde komen. Dit vereist een actieve beheersing van het begrippenapparaat. Tevens zal hier het onderscheid tussen havo en vwo inzichtelijker worden: leerlingen dienen uit de gepresenteerde bronnen, de benodigde gegevens en inzichten te halen die nodig zijn om problemen op te lossen of standpunten toe te lichten. Dit zijn bron-specifieke gegevens en/of economische begrippen zijn die de leerling ook in het antwoord moet gebruiken (de actieve beheersing: herkennen en toepassen). Bovendien kan het nodig zijn de gepresenteerde informatie te beoordelen op bruikbaarheid of relevantie (selecteren wat van belang is voor de gestelde vraag) en daarbij al dan niet te (her)ordenen en te bewerken (rekenkundig of grafisch). \r\nBij examenopgaven kunnen de volgende type informatievaardigheden voorkomen:\r\n- Informatie-selectievraag: het kunnen herkennen en selecteren van de economische begrippen die vallen onder de verschillende concepten.\r\n- informatiebegripsvraag: het kunnen herkennen van de economische begrippen die vallen onder de verschillende concepten en deze economische begrippen verbinden met andere begrippen (al dan niet expliciet benoemd)\r\n- informatiebewerkingsvraag het kunnen herkennen, selecteren en toepassen van de economische begrippen die vallen onder de verschillende concepten in dezelfde of een aanverwante context",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"1a8938c3-8f13-44b5-9d68-a94c5aeda50a"
+		],
+		"replacedBy": [
+			"534372a0-ae67-42bd-824a-b2474308b7b9"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "ff1d98c1-9388-4a0d-9d77-9fb2421626fa",
+		"title": "Bij rekenkundige vaardigheden gaat het om het toetsen van de beheersing van rekenkundige technieken en algoritmen. Het toetsen van begripsmatige kennis e.d. met een getallenvoorbeeld, wordt niet als rekenen aangemerkt omdat het rekenwerk daarbij geen doel is en uit zodanig elementaire bewerkingen bestaat dat het geen belemmering zou mogen opleveren.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"118fafc2-bbca-475b-b224-531ac608eff0",
+			"0de02d7b-54e7-42dd-b6d4-831084de1ecf"
+		],
+		"replacedBy": [
+			"443f37fa-d8b8-4342-ae34-d1eebf7abe57"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "21439b16-7476-41ec-9456-b3bda64ca4e5",
+		"title": "De grafische vaardigheden worden getoetst door bij voorkeur in elke context een of meer grafische elementen op te nemen (grafiek, figuur). Grafische vaardigheden worden weliswaar afzonderlijk genoemd, maar overlappen in het gebruik sterk met de informatie- en rekenkundige vaardigheden",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"118fafc2-bbca-475b-b224-531ac608eff0",
+			"0de02d7b-54e7-42dd-b6d4-831084de1ecf"
+		],
+		"replacedBy": [
+			"ad6b9bbb-16fb-41b0-9298-33d4f163cb8c"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "a813fd75-f98a-4207-af99-3ef08fd4d609",
+		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.\r\nVoorbeelden van geschikte vraagtypen zijn:\r\n- argumentatievraag (bij een bepaald standpunt)\r\n- standpuntvraag (bij een te kiezen standpunt)\r\n- schrijfopdracht (afweging van meerdere standpunten of meningen)\r\nBij een analyseopdracht moet de kandidaat een langer antwoord produceren dat meerdere aspecten belicht van een of meerdere keuzes. Daarbij wordt soms de keuze gelaten aan de kandidaat, soms is een keuze gegeven en moet deze met argumenten onderbouwd worden. Er wordt een advies gegeven voor het aantal te gebruiken woorden.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"ff4e2e88-4efe-4d9e-83d8-18085e43bab6"
+		],
+		"replacedBy": [
+			"918156cc-d2b0-416d-8710-81bb278b9c28"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "7070406a-80d1-46af-a336-23439d98f735",
+		"title": "Geografische vragen zijn vragen over: verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); de manier waarop geografische kennis wordt verworven en weergegeven (aardrijkskundige kennisverwerving of werkwijzen) ; ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"8f23c07c-4b8c-4c48-9463-6aff96e1d101"
+		],
+		"replacedBy": [
+			"a8694a38-0d22-41c6-bab2-2a393b6f7d52"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "091e7ba3-10e7-4433-a4b4-d5b6466c066b",
+		"title": "Het beschrijven en analyseren van verschijnselen en gebieden vanuit verschillende dimensies wordt gebruikt om een kritische beschouwing te geven. De denkvaardigheid is: verschillende aspecten aan een verschijnsel of gebied onderscheiden (natuur, economie, politiek, natuur) en de samenhangen daartussen op sporen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"fbc83147-99a6-4fc3-87bf-f5d3247c3257",
+			"44dbdc18-b9a2-44bd-81bf-59c82d22c30d"
+		],
+		"replacedBy": [
+			"a9c3b2a4-3e74-46b2-8f1b-3a4c13283f99"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "7aa3641a-d06e-488a-89b1-1d95e91ba12b",
+		"title": "Verschijnselen in hun geografische context plaatsen doe je door van verschijnselen en gebieden aan te geven uit welke delen ze bestaan en tot welke grotere gehelen ze behoren (wisselen van analyseniveau). De betreffende denkvaardigheden zijn: de structuur van een gebied beter begrijpen door een onderscheid maken tussen deelgebieden van een groter gebied (indelen) en samenhangen opsporen als nagegaan wordt tot welk groter geheel een gebied behoort (toedelen).",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
+			"912b4858-af9f-40f1-a645-00b31995e775"
+		],
+		"replacedBy": [
+			"207e4bd5-44d0-4e93-bbc9-b7a00bbe267b"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "01305b4c-3e69-4e6d-8b13-8fc40de8cf71",
+		"title": "Platentektoniek is een systeem van interacties tussen delen van de aardkorst. De beweging en de interactie worden veroorzaakt door de interne hitte van de aarde.\r\nHet actualiteitsbeginsel: the present is the key to the past. (Het uitgangspunt dat fysische processen zoals die nu plaatsvinden in het verleden ook zo plaatsvonden).\r\nPlaatbewegingen veranderen de aardkorst: vulkanen, aardbevingen en gebergten ontstaan.\r\nHet eruptietype van een vulkaan weerspiegelt zich in de vorm.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635"
+		],
+		"replacedBy": [
+			"f2bc3889-566b-424a-b39c-cf84cdb9587a"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "0cb9c89d-f1c9-4caf-9379-4f038c839623",
+		"title": "Door verwering en erosie worden gesteenten afgebroken.\r\nDe verweringsvorm die overheerst in een gebied wordt hoofdzakelijk bepaald door de klimaatomstandigheden.\r\nStroomsnelheid en transportmechanisme bepalen de korrelgrootteverdeling van het sediment.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e81a3043-a7e7-4520-8d74-a902e222eb0f"
+		],
+		"replacedBy": [
+			"f05cd4ec-4710-43aa-84ca-64095c672edf"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "b162c2e4-83d8-4d9b-ba25-6bf75415db4e",
+		"title": "Endogene krachten bouwen het reliëf voornamelijk op en exogene krachten breken het voornamelijk af.\r\nOnder invloed van de gesteentekringloop en de hydrologische kringloop ontstaan er nieuwe gesteenten en nieuw reliëf.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e26494b7-c689-4d0a-97a9-68722fad20df"
+		],
+		"replacedBy": [
+			"270895bd-e97c-4e9f-bf95-1fafd7d516f4"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "4552e186-5e09-437b-9863-21af4505c33c",
+		"title": "Zee- en luchtstromen zorgen voor verdeling van koude en warmte over de aarde.\r\nDe verdeling land-zee veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.\r\nDe ligging van hooggebergten veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"e6cefe7a-5f9b-413f-bb90-2888def56a9d"
+		],
+		"replacedBy": [
+			"c60a68f4-0695-4a6c-83d3-3b29897fec93"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "5facaea2-a501-47fe-acba-8085d44a5099",
+		"title": "Het landschap is een dynamisch systeem: als één van de geofactoren verandert, leidt dat tot verandering van de andere factoren.\r\nVooral het klimaat is bepalend voor de natuurlijke begroeiing.\r\nDe combinatie van klimaatzone en begroeiing vormt de (natuurlijke) landschapszones op aarde.\r\nDe grenzen tussen klimaat- en landschapszones vallen niet altijd met elkaar samen, waardoor de grenzen tussen de landschapszones geleidelijke overgangen zijn.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"cd894aac-475a-4e37-9354-9a73d39de1c9"
+		],
+		"replacedBy": [
+			"a273b53d-e967-41e0-bea1-69e99b37cbfe"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "a454d9c0-cd59-4176-8096-fc864e25f81f",
+		"title": "Landschapszones veranderen door (intensief) menselijk gebruik.\r\nDe gevoeligheid voor landdegradatie verschilt per landschapszone.\r\nDuurzaam landgebruik kan processen van landdegradatie stoppen of voorkomen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"9a72a475-f1ed-4b71-9a35-02db80704773"
+		],
+		"replacedBy": [
+			"6ccb72ca-9c7d-4c2a-a17e-90a6f1515ca3"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "c1ffad39-fd14-42db-8f6d-bb9244c46534",
+		"title": "Vanuit de culturele dimensie is het beeld van Brazilië voor velen dat van muziek, dans, sport, kleding en religie.\r\nVanuit de natuurlijke dimensie is het beeld van Brazilië voor velen dat van (bedreigd) oerwoud.\r\nHet imago van Brazilië kent verschillende paradoxen zoals gated communities naast krottenwijken en oerwoud naast grote landbouwgebieden en steden.\r\nBrazilië is een groot land met veel buurlanden, veel grote steden en veel grote rivieren.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"9e59721f-052d-4597-819b-58f7fb3fb73c"
+		],
+		"replacedBy": [
+			"aa95423b-05d0-47c2-a8c4-499715cade06"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "ddaaef2e-a201-41b9-b18d-a627677cd301",
+		"title": "Brazilië exporteert grondstoffen en agrarische producten maar ook hoogwaardige industrieproducten. Brazilië importeert vooral eindproducten.\r\nDe economische groei van Brazilië is aan het begin van 21e eeuw enerzijds gebaseerd op een toenemende vraag naar grondstoffen en buitenlandse investeringen die hiermee gepaard gaan en anderzijds op toenemende industrialisering en tertiarisering.\r\nDe informele sector is niet erg zichtbaar, maar speelt een grote rol in de economie van Brazilië.\r\nEind 20e eeuw gestart sociaaleconomisch beleid draagt bij aan economische groei en een vermindering van de armoede. Dit heeft ook invloed op de bevolkingsopbouw: vergrijzing, kleinere gezinnen.\r\nIn het dagelijks leven spelen raciale verschillen een grote rol.\r\nDe bevolking van Brazilië is in hoge mate gemestizeerd. Daarnaast zijn er van oorsprong inheemse, Afrikaanse, Europese en Aziatische bevolkingsgroepen.\r\nOndanks de toenemende sociale mobiliteit is er nog steeds een grote kloof tussen arm en rijk met bijbehorend verschil in ontwikkelingskansen.\r\nDe kustprovincies zijn het meest ontwikkeld, het dichtst bevolkt en het meest gemoderniseerd maar ook binnen de kustprovincies zijn er grote verschillen.\r\nDe verstedelijkingsgraad van Brazilië is hoog. Het verstedelijkingstempo ligt in het binnenland hoger dan aan de kust.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"171f2e3b-220b-4c38-9627-c4c243292b9c",
+			"112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
+			"e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
+			"89e22bea-f51a-46ea-bd2f-9748a9261694"
+		],
+		"replacedBy": [
+			"61b83986-ce35-48b6-9185-0a79b9e5613c"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "ccbe0def-4f47-4050-8407-0c23099572b7",
+		"title": "Geografische vragen zijn vragen over: \r\nverschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); \r\nde manier waarop geografische kennis wordt verworven en weergegeven (aardrijkskundige kennisverwerving of werkwijzen)\r\nruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"89e22bea-f51a-46ea-bd2f-9748a9261694"
+		],
+		"replacedBy": [
+			"5c6635a4-169d-4812-869f-a20824becfb1"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "6ad9957f-a3c1-4be4-9013-e6f9f44e15f1",
+		"title": "Brazilië kent verschillende deelgebieden. Belangrijke zijn het Amazonegebied, het Hoogland van Brazilië en het Hoogland van Guyana.\r\nDe regionale variaties in de hoeveelheid neerslag in Brazilië hangen onder andere samen met de ligging ten opzichte van hoge- en lage drukgebieden, de ligging ten opzichte van zee(stromen) en het reliëf.\r\nDe jaarlijkse variaties in neerslag en temperatuur in Brazilië hangen samen met de verschuiving van de ITCZ.\r\nIn het noordwesten van Brazilië en de kuststrook komt tropisch regenwoud (selvas) voor. In het noordoosten ligt een droog gebied met struikgewas (caatinga). In het midden bevindt zich een savanne met bomen (cerrado). In het grensgebied met Bolivia en Paraguay bevindt zich een groot vlak moerasgebied.\r\nBrazilië is rijk aan delfstoffen waaronder ijzererts, bauxiet en aardolie.\r\nBrazilië heeft omvangrijke aardoliereserves, deels aangeboord.\r\nIn Brazilië worden veel biobrandstoffen geproduceerd. Dit heeft naast voordelen ook nadelen voor mens en natuur.\r\nBrazilië heeft grote mogelijkheden voor het opwekken van hydro–elektriciteit.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"9ec21827-2435-436f-b1da-f9159d1da076",
+			"a81aa608-eea8-4809-be8d-a4c69e8522da",
+			"1caec618-935d-473b-a189-8aabcce5038e"
+		],
+		"replacedBy": [
+			"e66ab4dd-c175-4198-bb0e-0d698132cb20"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "f63207d3-0eba-44c1-9ab1-a1474efa6845",
+		"title": "Brazilië trekt economisch en politiek in Zuid-Amerika de rol van leider naar zich toe.\r\nBrazilië concurreert met andere landen in Zuid-Amerika als vestigingsplaats voor bedrijven.\r\nBrazilië heeft een actieve rol bij de geografische ontsluiting van Zuid-Amerika.\r\nDe ontsluiting van Zuid-Amerika staat vaak op gespannen voet met duurzaamheid en culturele diversiteit.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e"
+		],
+		"replacedBy": [
+			"84bc326d-7f4a-4557-bad8-c5185b8b95a7"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "59eb45c2-6a04-423b-89ee-517e686d4770",
+		"title": "De omvang van de handel van Brazilië met andere landen groeit en de samenstelling van de handel verandert.\r\nBrazilië is mondiaal politiek, cultureel en economisch steeds meer zichtbaar.\r\nBrazilië is in toenemende mate een belangrijke toeristische bestemming.",
+		"tag_id": [],
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"40751db4-5e29-42f8-8526-e70a4156a83e",
+			"34499fbb-80b6-4c42-999a-ca02668a5346",
+			"ceba831a-c62d-4ef0-83b3-e00f91adf105"
+		],
+		"replacedBy": [
+			"051d54ad-2de1-4d9a-9988-e30719400a5c"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "30c48400-afaa-4df5-8cfe-e517af72fc3d",
+		"title": "De grootste overstromingsrisico’s in Nederland ontstaan bij een combinatie van springtij, noordwesterstorm en piekafvoer van de rivieren.\r\nKlimaatverandering draagt bij aan een onregelmatiger regiem van de rivieren.\r\nMenselijk ingrijpen in het stroomgebied heeft geleid tot een onregelmatiger regiem, verkorting van de vertragingstijd en verhoogde piekafvoer.\r\nZeepspiegelstijging kan de afvoer van rivierwater en het spuien van water op zee bemoeilijken.\r\nAfsluitbare waterkeringen moeten er in combinatie met bergingsgebieden voor zorgen dat bij extreme omstandigheden overstromingsrisico’s beperkt worden, maar dat rivieren tijdens normale omstandigheden hun water kunnen afvoeren naar zee.\r\nIn het IJsselmeergebied en de Zuidwestelijke delta zijn er overstromingsrisico’s als bij (noord)westerstorm het water wordt opgestuwd.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"7a7478fe-ecd9-41cc-bd61-63c59fb76e12",
+			"94c8943d-57e2-4795-9928-e27f8e1ef7c6",
+			"44dbdc18-b9a2-44bd-81bf-59c82d22c30d",
+			"912b4858-af9f-40f1-a645-00b31995e775"
+		],
+		"replacedBy": [
+			"fbc357c1-fe37-4d87-b405-97f772d784bd"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "3bc65158-557e-4af0-8c31-8a3203f92f53",
+		"title": "Sinds de Tweede Deltacommissie ligt de focus van het waterbeleid op integraal waterbeleid. Er spelen in Nederland allerlei vraagstukken op het gebied van wateroverlast en overstromingsgevaar en die vraagstukken spelen op verschillende schalen. Dit vereist een samenhangend beleid.\r\nMaatregelen ter beheersing van het regiem betreffen niet alleen het rivierstelsel, maar omvatten het gehele stroomgebied.\r\nEr is in Nederland in 1995 een breuk opgetreden in het denken over overstromingsgevaar van de grote rivieren.\r\nDe Zuidwestelijke delta moet overtollig rivierwater tijdelijk opvangen bij extreme omstandigheden.\r\nDe Tweede Deltacommissie heeft voorgesteld het peil van het IJsselmeer te verhogen om spuien op de Waddenzee ook in de toekomst mogelijk te maken en om een grote strategische zoetwatervoorraad te hebben.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"748312cf-e5d3-462d-8783-7e38814d3bc7",
+			"34df7865-9090-4c86-b280-40b12df201da",
+			"ea896233-8ebc-4749-8ae4-10ece96d8903"
+		],
+		"replacedBy": [
+			"181b6815-c6aa-45c2-b235-f494fa5eac93"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "70e4e88c-fe3b-4ac1-a14b-e250da3bd173",
+		"title": "Steden zijn de motor van de kenniseconomie, de creatieve economie wordt steeds belangrijker.\r\nStedelijke (economische) ontwikkeling vereist bestuurlijke samenwerking over de grenzen van de stad heen en samenwerking tussen bestuur, bedrijfsleven en burgers.\r\nEr spelen belangrijke vraagstukken in steden rondom duurzaamheid, leefbaarheid en werken. Dit vraagt om gedachtevorming over de stad van de toekomst.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"03dc0358-df69-41e1-95e3-0cb2289a4feb"
+		],
+		"replacedBy": [
+			"80d0c219-1962-4ad4-9120-4d96d1ca7dc0"
+		],
+		"types": [
+			"syllabus_toelichting"
+		]
+	},
+	{
+		"id": "95ecbc93-d7b3-471f-9927-d4a14d87898d",
+		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland.\r\nLeefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving.\r\nDe leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en de sociale netwerken.\r\nDe beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief.\r\nBij stadsvernieuwing was er sprake van het fysiek opknappen van de woning voorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling) ingegrepen.",
+		"ce_se": "CE",
+		"syllabus_specifieke_eindterm_id": [
+			"b34803f3-bfcf-4b57-870a-94d01adbb2c4",
+			"dfad925b-9def-4545-944f-17c3f43afe98"
+		],
+		"replacedBy": [
+			"5c2e9bb6-9f51-4c2e-860b-1d432cf8d41e"
+		],
+		"types": [
+			"syllabus_toelichting"
 		]
 	}
 ]
