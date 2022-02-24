@@ -1,881 +1,5 @@
 [
 	{
-		"id": "fec8196b-7a2f-423c-94ae-ed49560387e3",
-		"title": "Syllabus Economie havo",
-		"syllabus_specifieke_eindterm_id": [
-			"1a8938c3-8f13-44b5-9d68-a94c5aeda50a",
-			"118fafc2-bbca-475b-b224-531ac608eff0",
-			"ff4e2e88-4efe-4d9e-83d8-18085e43bab6",
-			"4c869054-381b-45dd-9361-fc78151f2bfb",
-			"c334e0be-f7e9-491d-af27-bbd5a0bac111",
-			"ec8610c0-b0e2-4ef6-9d38-c75b531f82a6",
-			"724651ae-447d-4357-9794-f301647ac85d",
-			"8e1b49f8-c92e-44d6-9242-7e6f85c7c4d6",
-			"c0c4dd0a-8c78-4030-a935-341c207af865",
-			"16a3a014-6af6-44eb-980e-42e13c184fe4",
-			"24c7c627-0e9c-44c5-a09f-325e394b2e51",
-			"22e13ef7-bfd3-4977-aa31-f78d2e2ed074",
-			"0d7de95c-7587-4534-887a-0d3ff76b5942",
-			"1e05a23a-8ef1-43a4-b01e-9074ca30eb87",
-			"9f453a83-68c3-4fa4-bc76-03a962ca508d",
-			"ac603367-4f5a-4c87-aec8-ae3a07831575",
-			"4538a565-bace-4991-a68f-4891bf6c221a",
-			"329e7769-ad8c-4bc7-8c59-8d2ba95149fa",
-			"5913b0d9-6871-4c4e-aa9e-3172ac8b43b5",
-			"76900a89-3d71-48bc-8aeb-2a9d620b3a18",
-			"bd4f9c24-b961-47a4-bbb4-0219314cd6da",
-			"742e61e9-bf3e-4ce3-a27c-c20b42d7b90e",
-			"76283632-dd0a-47b7-a738-281a45a6215c",
-			"764f0a5f-d683-4b8e-8be1-ea55089d1f16",
-			"3388e8d3-c89d-4868-92a7-cce5b95fdfe5",
-			"88d332f6-f682-4aa5-abc2-0cb038741386",
-			"e2f62c3f-6d58-4e22-8f12-9639eaf0b17d",
-			"9a381503-3c60-4ba6-992e-efd050a7ce00",
-			"bd913e9a-c110-45bd-b401-a8c0c4aa8332",
-			"176a06d4-db37-45d9-8b44-9e1c0fdfb633",
-			"108f0f7c-72f9-4e3c-9737-29144e44534b",
-			"2ef782a9-270e-41e8-8882-6d2f831f3e69",
-			"6b592b49-3623-41da-9e60-72c1f79759b3",
-			"da26f4cf-1b57-4b96-acb7-929b13f1a344",
-			"42138fcb-cc98-4b15-883a-9205d7b14aad",
-			"df598453-ac1a-41d8-a4fd-f62f5e415841",
-			"fb44b858-8541-486d-9447-13b1e7cd5218",
-			"a0a8dda3-739a-4fa0-b099-db025b827a57",
-			"cce19a83-dd20-430c-b5b6-31ff1348581d",
-			"044b7443-644a-4fcf-ac05-1a556567b50d",
-			"bc427e19-f60e-4241-8d30-843e3a84df4f",
-			"f4a9924e-82e3-45d1-ba16-78985780c5a9",
-			"ba04bd34-7d4c-4ff8-9c30-dfc5e450757d",
-			"10a79e5f-ab5c-4c61-9f86-aed6cf01d0f0",
-			"618c13eb-ffec-4182-8692-f96ff6f26cba",
-			"8d36fec2-0b7e-43b8-a238-02458b2db443",
-			"c807bc5e-ae35-4389-87c4-7f2d9607269d",
-			"962d70b5-472a-4961-8106-be592676c630",
-			"e58235ed-2d43-4170-a73a-4da0bdef10f0",
-			"15cd7923-3309-4d98-9487-26c9f0fb67af",
-			"b281645b-0a82-4912-9b21-502ea9731c70",
-			"d828ac54-a5a6-49bc-a077-9200cf9477f8",
-			"1450d47a-1da2-43a5-b720-b825f5e1db3b",
-			"fd434a67-9b7c-48df-a07a-c86fc055b989",
-			"88d628a4-408a-422f-b8df-2f17d9251d38",
-			"a7755b61-d2fd-401f-83ac-a55c37d00f35",
-			"274d7993-e53c-4932-9561-817be34dfe71",
-			"4f221757-3615-4517-947e-e13d8452d16e",
-			"7974add1-c992-49e7-b3bd-ce759546370a",
-			"4eb3daaf-86ef-4200-a9cf-d8dfe6661d10",
-			"17d9fcc2-d2ad-479c-8186-e48544f26b09",
-			"e595872f-07bd-48e0-84f2-6af41ad80875",
-			"1fb5a506-f549-4f3e-8052-ece26d04325b",
-			"fb152f2e-47f7-4455-b2e4-ef1d081c5e46",
-			"b32055ab-4f40-421a-b777-b44512882e77",
-			"2f797c6a-b137-46d8-95a6-28c45e14e6f9",
-			"e738c6a7-3df6-43e8-beca-695c1299b692",
-			"5fcda330-a996-4dfd-bae6-2167fe853354",
-			"57078d08-b406-4b1f-afc6-200ac01c041d",
-			"adeef5d0-9bdd-48e1-ad84-7fc8ecd8d9eb",
-			"1228fdfd-fa96-472b-bf91-7ba178176a8b",
-			"991ad0f6-567f-4ca1-9577-ae66a4e16163",
-			"113197e7-8b54-474f-9c3a-f3ed13b054e7",
-			"ccd39c6d-05f7-4a8c-8602-d88452aaa654",
-			"4e6ae33e-0bbb-40f1-9362-0279c0593a1a",
-			"3ae89f72-d402-4171-a520-d6d2dc4d75f5",
-			"8a76a865-b730-4615-9547-9db697203584",
-			"8a3aa545-026e-4d4c-b346-16a9c9e866c4",
-			"3b077599-caf0-49b7-bcfd-c0c18413864b",
-			"9840e52a-6717-4a3d-b382-47d11e20e378",
-			"cee7281e-0d62-4814-942f-bb52a0dc5129",
-			"3ed06971-465b-469e-8c31-2bed1f3ec9fe",
-			"3e116a8e-59a1-4445-9ee2-9d9077171fcf",
-			"8a65c034-7306-4b11-b03d-d7787491910d",
-			"94b2b599-97e4-4a6c-80b7-c0755a4c7121",
-			"ed31b926-b00e-40f4-b9d6-9033f9971950",
-			"f1b65be8-4240-42e5-bc8e-78052ad43ec9",
-			"ef07977e-c2df-4a7e-a73f-6dc7e4d05a8d",
-			"c8496d7f-721c-4e66-a633-31bd64de7702",
-			"37804265-26e3-4f59-9eb1-cb7a0bd442fe",
-			"dba92148-b9cd-4baa-81d8-81e3e5d766d9",
-			"3249ecd8-6be4-4f34-a475-c5ab6396f1e4",
-			"020cbc80-9e8f-41f3-8d41-c7093dd1f762",
-			"657a05d9-4503-4057-9dba-720534a24d7f",
-			"6d3af5e5-bf01-41af-896e-b6035f4db60d",
-			"e51ee8cb-69d1-4267-b1af-a0902c4e3fca",
-			"e069087b-6032-41ad-847e-471123e82432",
-			"bb83f033-6ce0-4425-8777-4546093f828c",
-			"16722b09-9d81-441b-90e5-9ad9ab1bd00b",
-			"eff2786d-e04d-486a-9350-bb3df7566b79",
-			"9ad4f3a1-29a4-4811-97c2-32d17ff0af65",
-			"ec1ef93e-53cf-4198-be13-56db7e44b4ce",
-			"b447d757-c997-4d8a-872c-87fdb7fa3a5c",
-			"37d79d1e-6e40-42f3-8129-62b888f155b4",
-			"7cb1d172-e126-4976-9620-cf520ca1bbc0",
-			"d6c6100b-78f2-49c9-b2fb-09ca8b3e4e68",
-			"48646d6c-2bb0-4e26-ab62-f279938c5da2",
-			"3b0be7d6-01bf-4c2d-8263-3b50c559df64",
-			"48db255b-5b7d-4da0-a9d3-c94a5439411c",
-			"286f2c74-ac83-4b1f-9395-b14ca1b2a4bb",
-			"f9b029c0-9586-4ca9-9c32-ac4798328a83",
-			"29e149e3-26ad-40f6-b360-9d6a136f4450",
-			"110b9026-bc8b-49e1-9fcc-3fbc5aacfb8c",
-			"c8365133-0b5f-43e9-a29c-5551ac3c7336",
-			"2f042079-5df6-4468-aae5-4d8ae4faca48",
-			"edc9d5c8-c2ea-4a22-b3f6-23597d8711eb",
-			"2568dc76-5ec2-4568-b154-ef3827fe5659",
-			"d184cb95-6194-461d-a704-d613d470c645",
-			"c2d41cdf-c709-44d6-8128-f5a3d793170f",
-			"a3a844f9-3c60-42e1-a9d4-03b73104759c",
-			"e08fdade-e382-4579-9386-ce11a4a7e88c",
-			"24c16902-abaa-4c37-bdf5-e001895bb68d",
-			"0de02d7b-54e7-42dd-b6d4-831084de1ecf",
-			"25b18976-34a6-4273-9165-20e8c5c29d8f",
-			"aaf82c5e-6a33-4663-ac08-5b58b985a4ce",
-			"ccd65836-fb63-4adc-81b8-b876082cef24",
-			"fadfc0b8-812b-468d-957b-ec948b32e45d",
-			"89ddce13-58bc-4d85-9d4e-4ad85275b288",
-			"00a78362-2c57-4f67-94c2-6035665f8855",
-			"a8e208c3-8a2d-4d0a-90d5-4e02bee7d061",
-			"1c00f79d-9c5d-4be0-8fe2-d51fa33898f0",
-			"d4ff55d0-8ddb-4399-af04-51c27f810d46",
-			"41a75336-0776-4104-9e0c-1551ce454d5b",
-			"2c8a8edb-9771-425a-a07f-6e9022c8317d",
-			"61e52b0d-4ecd-4dde-b288-32890f7b97f7",
-			"f1d062b0-e064-45ea-bae1-fc3d19d08d3e",
-			"f7a27f17-e6ab-4b5c-9156-04c359ec017a",
-			"1d6e2871-b96c-4a93-b9b9-f17953cc0971",
-			"baeb3e2c-a594-4d61-8a7b-981a0752d3be",
-			"ee131a36-d815-40b0-bcb1-be7e3454c9a1",
-			"c7209ad9-cc0e-412c-ace5-6e12b2300b79",
-			"e9418f25-0668-40e5-a06e-c4ef95270868",
-			"58d08cd2-2fca-4f58-aec7-7f168f1b0315",
-			"78973805-e9ea-46d5-91cd-5b33c9493164",
-			"71a71d66-fb78-412c-b2fb-7319cea191dd",
-			"5ac87899-c42b-425e-8fcc-6ede952803e9",
-			"7bd5add7-afb8-4ba5-8cee-55076984f660",
-			"2a881f65-4e0d-4494-b8d9-0e9b8a7311e5",
-			"ed701cb3-1bb0-4acf-bffe-de33512f2177",
-			"67743118-3232-48d9-9730-5b308aece8fe",
-			"33f0efc0-acf0-41b0-9be0-2b0fa41e9ed8",
-			"4f74b797-4e37-4cc5-a4b6-8688c7ec77ba",
-			"e5b1f5ae-760d-473d-a4e2-a18041f2553d",
-			"ed7aed46-6819-49f3-9787-881a23752f91",
-			"5695d123-c794-4231-b3c1-50fbfe2f507c",
-			"722124f3-864c-411d-96cd-3cf004d42684",
-			"e238e5dc-e126-48f8-b841-3e30f9995721",
-			"543582a7-383b-4035-bd4b-cc16c2d11b6f",
-			"80bcb5ef-74c6-4b3e-844a-199acb2f78d8",
-			"87885ef1-9d1c-43c6-a852-4824a0cc1340",
-			"4f9951c3-044e-4948-baf2-a019bdb16299",
-			"11d633ce-09d1-427c-85b4-f88167630177",
-			"2c5e49f8-d2d9-4492-9042-5d6e149c75b1",
-			"a16d53b0-3839-4ee4-891d-07d0867438e6",
-			"17333068-eca0-4222-9d86-6083e694102a",
-			"d17635c7-cd15-46e8-b729-816179c87d39",
-			"478bf894-d0ce-492b-9eee-6e5a47e70013",
-			"787d0a52-cf5d-47c8-b749-74f83f603608",
-			"933b509b-ad6e-44e1-87fb-316b738b3cc8",
-			"68cc2880-d2e4-4915-a751-24b65ed2e6fb",
-			"3585f301-4ce7-4df8-9720-0d6ea2685dae",
-			"f039639d-e474-4ac5-8506-96ae4011a373",
-			"5c84da83-0540-4fa9-a3c2-5588eb23ec9d",
-			"19cfeb2b-22ba-44a7-9988-dcd1dd71e7c2",
-			"d7c8ca8d-57c6-4f8e-a808-3574a072c176",
-			"27252184-6585-4491-a577-8567eb89ac0c",
-			"7a945cd3-faf3-4e95-8325-8e41b8860da4",
-			"8e90899d-7b98-421a-8ba4-1536d09a9f34",
-			"95e5daee-9124-444d-a498-5622d1173e62",
-			"f3e6b6ea-ac39-4b79-8012-ab5abc5a44a9",
-			"de4fc168-dc53-40e9-a8aa-af3dde982309",
-			"0d353765-6ead-472b-9404-b2213ce9e975",
-			"99ea2a9c-0e42-4baa-bcf6-e9ae92f09b16",
-			"557a0ded-0846-41aa-bd8a-edbdf1414798",
-			"3ca78deb-5a3d-4f55-bf4c-1c5573eb3bc4",
-			"469ae566-207c-4980-a209-8d41a894fd96",
-			"621c550c-3a3a-4973-a3b2-7ed26f991a03",
-			"535f1ac8-8cab-451f-b829-e37ed1a8030d",
-			"7537cb9e-ab07-4e2d-bb4e-88765bf5d72f",
-			"b94c2d56-3f75-49b6-b769-fb59d085bd54",
-			"22b036fa-2781-4c1d-8e8d-ec16e4db9ce1",
-			"7226bbec-295e-4c4b-956b-10579c6d130b",
-			"b112a081-d273-4ceb-8e1b-0980e438ba9f",
-			"bd6444ca-ce2b-4b0d-97af-ab355e21c15c",
-			"d515bf71-1ce6-4b9a-9428-8f6e19023530",
-			"b47c10d6-6932-4143-aff8-ed1984cf8587",
-			"4d8a5b0e-8455-40c4-853d-7ff523f3896f",
-			"739b3891-4ecf-4a22-940b-8dfd5c5dc2ea",
-			"6b93b531-129b-4569-9287-ba2eb9e52b68",
-			"8400c029-1248-4402-acf9-3185a05b52d0",
-			"9130a70c-959a-4556-95b4-3ddc6522126c",
-			"69079984-a2cc-4f86-bed7-b93214d1dd70",
-			"9868c28e-8363-44f0-9f94-0cc46b90a030",
-			"cc6b320a-face-4739-a5e9-adf5863dfee7",
-			"67099c57-675d-4db5-96db-b166e85973c7",
-			"2d638394-d554-4748-a181-bf88a290e507",
-			"2556dbc7-ab5d-42d2-84f1-1c732f4f4f0c",
-			"8b65ee4c-2746-4c69-814e-77f32bec8fe1",
-			"748a1d9a-b883-4ed0-ba96-55394f4d0e89",
-			"843d1bce-1317-4fc4-a292-526a9dddf6cd",
-			"35780568-f0f6-4302-a97e-322f6894b568"
-		],
-		"syllabus_toelichting_id": [
-			"3336bc6d-5b27-4131-9121-e31568091d22",
-			"a8502ebd-92bf-4d0c-b351-9cdf644aa9a4",
-			"d411ca5c-36d0-486a-b1d0-bb5674d9d0b5",
-			"77ae3b57-cab9-46f9-ada2-049ee168e17d",
-			"81b40e43-492c-4f1a-a127-6bf3f7eea679"
-		],
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"versie": "2",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vwo/2020/f=/economie_vwo_2020_versie_2.pdf",
-		"dirty": true,
-		"examenprogramma_id": [
-			"b8284953-724c-4ee1-b757-71f9b4b431e4"
-		],
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"syllabus_vakleergebied_id": [
-			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
-		]
-	},
-	{
-		"id": "7a95110b-9d2c-4afd-9f91-49a863d3a628",
-		"title": "Syllabus Economie vmbo",
-		"syllabus_specifieke_eindterm_id": [
-			"9ae29f0e-2eca-4d46-8123-d898ea88b930",
-			"d142cc4f-53d3-4471-b2b3-bb0d5095bb48",
-			"da392347-fa87-49f5-878e-bfd088aa5e11",
-			"6265f678-8b45-43af-b835-680b5e128f82",
-			"5e6a48f8-3e19-4e13-9964-6a952da102c6",
-			"48e4a65d-77b2-41cf-9292-4ed10a6e5197",
-			"0cc7794d-15dc-459e-a15e-49addcd7e9dc",
-			"a8393cbe-2f69-4021-93ab-f3abb96affa0",
-			"0017e5ef-7221-4ecb-af15-08f3392c2d5f",
-			"7896b0d6-5023-4c89-9c19-4f1a0962f584",
-			"d8945b84-effc-4430-b0db-21db27adba67",
-			"b8f1e00d-00da-4bad-9a25-4696ecb1a552",
-			"e46a22dd-395d-455b-b9b3-1b7c8f00eb1a",
-			"72c670b6-aa9d-4233-8b70-bd522ed8d0b4",
-			"47c257f8-1f01-4f00-9cab-a69de9dfafba",
-			"94376a26-93b0-4736-9020-2cd5fbf66c95",
-			"f27e6e4f-c7a4-4421-9ed8-0b777b2820cf",
-			"5d2bab60-2e88-4e4e-b02c-651b9efe71ce",
-			"a3efa6ac-9bea-47fe-a7c5-83f6146357b5",
-			"e31eb4b2-66bb-4d12-a7ca-bc7227a80826",
-			"e6345bd0-bfaf-4b59-8529-e9453fabc69e",
-			"ea5ed7bd-1f78-4dd1-9b18-5dd65d3cad0c",
-			"20e15437-c71a-4d5b-84d5-1b6fde0e10ff",
-			"6aa5177d-319a-4582-868b-7660b724198e",
-			"00d0a585-8120-4fa3-bc5a-1e4090e8ac0c",
-			"3accafcb-dd28-4de1-b8d8-84ba4975eb57",
-			"d21a12ff-ec8c-4c39-9493-16f580a7b94f",
-			"a65fdf77-bdb7-4504-b4f0-8d9941b9b920",
-			"2e874201-c54b-4edc-aeea-3c13ac5d2ec1",
-			"85556d99-2426-4cfb-ade9-e11e155a1840",
-			"7a3d2838-3420-4c73-afd6-ef697c6b51e9",
-			"5237cff7-9a74-46eb-bb27-c765288d2749",
-			"db48637b-398c-41b8-b15c-2347742e13d6",
-			"49ea4159-d71f-4d40-88f9-ec6e076c50b9",
-			"a6b113b9-2f93-41d1-957d-7397f8c3b5dd",
-			"a0d3f98b-05bc-43fd-b361-7e29f148cad8",
-			"f96b86ac-0998-4b76-a808-4181784f9268",
-			"7b8290d7-dd33-44e2-9213-13636828c69f",
-			"9cb04163-221d-4e10-b92a-95a901b9ecb5",
-			"8c36f08c-10c3-43b2-8536-440bcc221a64",
-			"0968d8b6-0157-488d-841b-abd26e7d9f15",
-			"c2f9a492-9791-439d-af0d-862158f44bbb",
-			"94c32a84-5080-4326-9cd1-8bfe84798d3c",
-			"2acb168b-d0a9-4b92-ade6-e39a0cc7c4ec",
-			"ca67964b-8287-4da4-8e4b-7b9364bf8a44",
-			"6e37578e-a489-4581-bea9-1b485627cb16",
-			"16088996-6331-4761-a3ac-4d7fafe8ff04",
-			"5682d03a-3995-4cbe-99bb-bafe5be0c0c0"
-		],
-		"syllabus_toelichting_id": [
-			"539a5eca-a1b0-4434-9ca6-56c055113de1",
-			"388f2831-7b8b-42f1-8e66-6bb60c3f40aa"
-		],
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"versie": "2",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vmbo/2020/f=/economie_vmbo_2020_versie_2.pdf",
-		"status": "def.",
-		"description": "",
-		"prefix": "",
-		"dirty": "1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"syllabus_vakleergebied_id": [
-			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
-		],
-		"examenprogramma_id": [
-			"c2f884f2-c673-4af7-a5c2-8832390f5f49"
-		]
-	},
-	{
-		"id": "43000602-18bc-40a0-a8dd-f7405a4d21cd",
-		"title": "Syllabus Biologie vwo",
-		"syllabus_specifieke_eindterm_id": [
-			"2b50a822-fd44-4496-8f76-f7c75621e54f",
-			"25b9cf29-7367-4b82-825d-a41620e75a8e",
-			"ab777bce-fae8-4754-abbd-29645446aadf",
-			"eb630c11-df86-4328-94dd-6a06cddac672",
-			"749f774b-7702-48f9-80a0-b39204b7b8d3",
-			"1c7d1729-440e-437e-8ad0-5aa44ae6d65a",
-			"cfbac93d-a564-47f6-a0b2-048b484644f3",
-			"42a1aaed-e9c5-4be9-beb4-f5bae8b1aa3c",
-			"556666c2-260a-4c15-9f02-988337c344c5",
-			"fc8592c8-eaab-4209-9355-dff3bf6573c8",
-			"de273067-b5f4-4d56-818e-0739816cd334",
-			"897484df-50d8-4c3a-9ff5-a442e6cefbab",
-			"044ca634-15ae-4ca2-9600-76a1a25781f2",
-			"e40adf10-7295-49d8-ba83-4ac73b124355",
-			"44813a33-d500-4feb-a1b0-9cbd0aaa6023",
-			"1ad6faa1-d2ce-4663-b1b0-52fd80256640",
-			"260313a8-01fb-4aeb-ab15-20fe3470567b",
-			"decf0946-2de4-4d53-a9f9-28e09be2885a",
-			"8325496d-4ad6-49b6-9e70-a335cd2c6d64",
-			"f00bdae3-e2de-44dd-9abd-668a61f96a39",
-			"d9b77a06-2496-43f6-8741-105b04152b51",
-			"a57631f1-0e23-4313-bf80-c0046a1e7421",
-			"07434ca9-4d94-4f9d-a9f2-eea2d35c8884",
-			"6b0188df-f9f0-4f85-abf5-382aea1c8989",
-			"c7926b9a-f22e-4b07-8ab4-ec06a6572f6a",
-			"b2e5e9e3-e8d5-412c-a38f-363b7fe017ef",
-			"8fbf75d3-c2bc-41a4-b31c-831b9cab47a3",
-			"69d05b6f-3948-4718-9644-9c235beffdd1",
-			"b2425c62-285b-4742-8c73-b85a7905bb04",
-			"01a01603-27d6-45e1-b805-bf90d1edb0e3",
-			"0be17845-78a5-4313-b5db-9cf8b2e15920",
-			"db44d71c-33e6-4c1f-9ee9-799112c1baff",
-			"194be2bb-3eae-439c-a2de-646c07c9acf8",
-			"6a7090ef-eac3-4c8a-8f8f-de082ed4b4e8",
-			"8b90d21d-6981-4f32-94ec-ca94a037b3aa",
-			"bfa0acf1-562e-4f73-a048-eaac531d48d8",
-			"7f7e9c2d-5b7a-4508-92d4-a3d48384de3c",
-			"a5927a80-5ec0-4851-b745-02bea82fc56a",
-			"295d45ef-6a5d-43b5-9ec4-992624051d4c",
-			"41ca7f90-f6c6-42d9-93a8-b1067b096011",
-			"603f9436-0246-41ba-a8ca-3d7d4780205b",
-			"b4aef026-afd8-438e-9b40-6b29c858ef2e",
-			"b10d0e2c-7a1c-4923-87c1-ec00e95ced91",
-			"dd9fee74-fe65-4d87-8c87-599f52dc9508",
-			"ee50638a-bade-45f8-9954-1d53318f1944",
-			"fe1338d8-29d7-4397-a43e-d064505b38bf",
-			"f7568eb9-7f9f-49c9-8651-244f4ee7acf1",
-			"78a2a21d-c8d1-417b-a93e-67ff25fa56a8",
-			"e2cd6c72-978c-4d38-b4b4-a7d3777030b7",
-			"24e3767a-8176-4d2e-9303-45748e9661f7",
-			"72d6984d-a6b0-4f99-a1f0-905796b6df63",
-			"108d6e2b-15c5-4613-8c8b-9272ac7e00ae",
-			"2583255f-5e00-4b54-bd1f-ba747c311904",
-			"3c1eb0a2-97fe-47cd-a7a8-484fa82286ae",
-			"1082f458-cb33-4b54-b415-2a492b286f94",
-			"3800508d-59b5-42e2-be12-7a1d26f010ec",
-			"ef8eed65-73e7-4252-8c2e-a3e269109642",
-			"b8b2b939-1774-432d-b792-e309bac5cbb9",
-			"af5a9007-17ce-4b4d-ab27-26da86745719",
-			"50c62c53-9bf0-4294-a1d1-3c0496f1a2ab",
-			"761c7d2f-bd09-42b0-88b5-150d031e8298",
-			"795ad2d3-d9ba-429e-9bf7-dac4fec39dc2",
-			"ac864d1c-5a3e-4565-911b-dca65aa60dc0",
-			"b261f0ad-84b6-448e-9cd8-4fa58bc52138",
-			"6c3b6aa5-f69d-475d-8dcd-83136dab2dd1",
-			"a716bc74-b5a6-4b05-a288-bce1e31f9b64",
-			"0a5ca995-a5f9-4740-add5-03819bd24682",
-			"102224a0-2545-43db-97b4-0d2306d64081",
-			"9b93814b-cc7d-4ae0-892d-24446ab446b5",
-			"3e3144d2-81fb-4100-8ce5-c554192632e8",
-			"452b60aa-7a24-4422-8603-6591fb319dd3",
-			"24392345-9cbc-4459-92e1-d759099d8ed6",
-			"2444c54b-2d3c-4b57-ae0b-ed1c1665f174",
-			"c24fd8a6-f65c-486e-a3de-e65d36ea919b",
-			"6a618a4b-fda1-4928-953c-72bf2621badb",
-			"70791187-2aeb-4498-ac69-d7268a3d1cbb",
-			"82bcfd7c-1b2b-487e-89b8-0d55c9527f5f",
-			"ee400f20-119e-4415-ba28-6eadf6751c7d",
-			"e5c1af5b-707e-49aa-b444-f3e7e445a787",
-			"f36ec9fc-7b86-4211-adce-253168be3758",
-			"30ef5f25-ea9e-473b-a1d0-88484318a9e6",
-			"bf264ad0-0095-426c-b728-e8897ad5969e",
-			"e583b91f-cf69-4556-bc97-a68470ba669f",
-			"dfd2797c-c8bf-43a8-a8ba-c98647540ad9",
-			"0c08fa0d-78c7-4a76-873f-55013a933da6",
-			"a7caec29-c4ea-4c11-8185-496fd1692ae6",
-			"9100f55d-5409-4ae4-a23e-2050eb065349",
-			"9d350ab5-170c-4cc1-858f-532c556089a5",
-			"a19dbb6b-880a-47fb-8115-4417cea3614d",
-			"84171bbc-756e-45d8-a0df-7ad040192f24",
-			"fb844472-ce4f-4970-b5ed-7bfe85249e34",
-			"8699d286-9027-4e22-8677-40b065025433",
-			"a0a58c95-ef5e-40a5-b7a4-0bb78e8a6760",
-			"285abd4b-ebe8-4ba0-aff7-a22f81e3077b",
-			"ed27d774-4415-457c-8dd5-adb6d93cdd0c",
-			"3ae5b304-5275-4024-8985-ee9b71dfd54c",
-			"03801a11-08f9-4438-9fc2-b8b0f49a2b27",
-			"4604335f-2681-47f4-bd2a-b8d1e5fc71fb",
-			"ee0db6d7-940c-4918-ac07-352863d8f493",
-			"cc7499b2-7055-4914-a2d5-3575d2890c24",
-			"451686a2-37f0-40be-b485-6f068db98d32",
-			"981ce5a9-fa74-43b2-bc78-38a203f5063e",
-			"c3239910-aeae-4fe5-9c90-70641172a6e7",
-			"b124be21-4127-44de-ba04-91e124dfa357",
-			"7eebab88-e3e7-448c-aff2-5a2f26edc094",
-			"b96039bf-6286-46d0-875b-f95c0f37fc39",
-			"5c46d0ce-91a3-4386-a4fc-98f0d8312a3d",
-			"63c3c70b-db9a-41d2-888b-6b8f0d228101",
-			"7f525f57-4ffb-4a0d-9b2d-3ad962a75558",
-			"1ddf9ad8-06ab-4fb0-b211-1c3b6e7a9924",
-			"9fe0decf-5e8e-454b-a893-c9620895e97d",
-			"35430f4f-2d3f-447f-833d-eb563ec6444d",
-			"a0342a0d-631d-48c8-b411-fe7ce596a09e",
-			"209b7e1c-f2ce-475f-a630-b6e058ab3424",
-			"0a837d72-a77e-413d-8eac-5ee0d1d36b77",
-			"3887ef88-a77e-432d-98b6-200e82934d3d",
-			"6c313054-166f-4eeb-ba28-643e88bdbb27",
-			"7828ff43-59ff-463b-ad20-484a05f69488",
-			"bf4eed8f-546d-4e53-a7f7-2066ac4b00d0",
-			"3fed86cc-b4af-4d61-a972-f231d3b8004a",
-			"09ffad63-07f3-43df-8a08-d1af4060172a",
-			"be2026f3-8a78-49a3-a45d-ec23e0a89053",
-			"4a3965d7-4dc6-4ccf-adad-6abe19f438ec",
-			"cb9d1b4a-25f0-4f88-add0-8f6e9a073640",
-			"1f23b74f-8044-48f7-88c2-deeb93f1e016",
-			"8f3f92ac-fb1f-455d-94ca-31cb34d3ba16",
-			"31ea9e6d-d94c-44a6-bacc-57ade7ad3c33",
-			"bc9d0518-d12b-44cd-9267-c604ea1ad9de",
-			"25713c69-827b-4628-bea2-62f15c28e688",
-			"d64e5bee-e9bf-404a-a059-525860e225cb",
-			"69470a8e-ae86-4c3d-b7dc-d64924b35622",
-			"d9f3d2b9-caae-4676-8498-160001fba66a",
-			"c39f921b-a58e-487f-a1b7-0b71093a608f",
-			"c3ec2197-8fd1-4aed-9fc8-558bf533223c",
-			"b5c9e671-9d2c-4fd1-b973-b2d8c5dea840",
-			"902a1c2a-c1c4-4a86-8c9a-a55653347875",
-			"0e5151e3-6ba8-4de2-b010-133a35c98bc5",
-			"7c963227-2143-4b49-8589-78ca5d0b52da",
-			"57ea90c5-0424-4d63-9703-faad2d8f50af",
-			"427ca53b-5d9d-4663-8719-a9a86df7e88f",
-			"93869a0a-9f30-4d38-b832-0a54ae19db5e",
-			"3102c779-c20d-4175-a7dd-0e1d70cfd5e2",
-			"dd2b8b73-5d5f-461f-83e5-bf384292a401",
-			"59538f7d-f414-4b72-bb25-267a06673b6c",
-			"2e6958ae-24f0-47ac-a2a7-bd7ad2d870ef",
-			"95a0f407-2377-4512-828b-41096172aa16",
-			"2c07c6bb-6b76-4552-abc9-e51691395ed9",
-			"e5dace91-e342-43a0-88a6-4c157f54eb74",
-			"03df0c18-dad8-46c0-a405-42a5098458f5",
-			"c33c8c63-3f13-46dc-b80a-4f19e12ec394",
-			"6eb5ddc7-f87e-4ebc-a70d-62b6c037648d",
-			"949c7b16-4932-4ecd-b364-bf9c4e468af1",
-			"4cb3a4f2-3822-47d0-a030-03b168196b3f",
-			"41e3f07d-7aaf-4590-826e-45f0b9f042a3",
-			"d68d650c-2134-4842-a071-bcbf3452ec46",
-			"6660bffe-72c4-40ca-b623-20ea18258280",
-			"8e1102c6-9083-46b9-a136-0f5b48438980",
-			"51ecdd00-8a40-4f05-8a15-58e89da79dfd",
-			"c6ae8522-54e3-442e-8220-c0e1917cfdd6",
-			"93e726f9-129c-4cdf-a799-57ab8745ec21",
-			"ff21dac5-52db-40e6-9bd9-5bcf3b8e6ec3",
-			"78b48801-0f51-4a8d-bb57-922c7d713028",
-			"46de1939-1faa-4546-8831-6d97c860c820",
-			"fbd99df1-3033-4f69-9179-3c5a69da14d4",
-			"d52cdde7-e92d-4fae-9f8c-2de6051ed7a6",
-			"a53f97ea-c92c-4f0f-8fb7-1c81d268034e",
-			"8401a1ed-9d4d-48d3-af29-e4ac32fa9c3c",
-			"d2ac99b4-8d84-46d2-bba8-19d024b0863b",
-			"d8f9e7f4-6ea5-4cb4-a3e9-d6e28651d66a",
-			"e753f5c0-9046-4bfb-8e71-0ad6b7c46dd9",
-			"983a6519-2a12-45a9-999c-ce72168fc3ed",
-			"c7a4486f-1dce-4647-b622-091d660eb0df",
-			"c44e035c-357f-4a78-b9d9-9657c7741304",
-			"4054eeab-1a22-40aa-a51b-2bf2994901a1",
-			"56543a7b-29b7-4f84-998d-eb8fb8d1da24",
-			"eadd676c-73ea-467e-952b-46f2efb75913",
-			"db371634-a3dc-4e8f-818c-f529003bf781",
-			"7b96aa4e-8b99-492f-bf98-1a5180ff74ed",
-			"056b413d-dd6f-463a-a4c1-c2b6f7c5eebc",
-			"271ccab5-62f7-429a-bbb8-307494b0a26e",
-			"13dca3fa-4c0e-4e8f-bc4e-90e7eaf148bc",
-			"42b6998b-4fa8-4311-be24-603996650adb",
-			"493b4692-ef0b-4624-8901-a17c90cf7d62",
-			"71d953b1-a863-4eee-9144-82e7923af646",
-			"40f1a99c-9b67-4c8d-b0e0-f38383613423",
-			"d817148b-7c68-4b0f-b3df-5514b57b8707",
-			"ff6b1751-2925-4851-9208-1c22c1fe59ce",
-			"39892ad1-2d4c-4aea-aa05-8f272cf235e3",
-			"3e7f3443-210b-424b-a8ab-4721c9fbbd27",
-			"28a3d837-f6cf-443f-8933-0ddc9289866f",
-			"2b1ad2df-84c7-4707-bf18-3bf2ab9a04a2",
-			"208e069e-d4cc-415a-a4b9-914372da2a33",
-			"12943e06-b5de-4f46-b113-b0daeb60240b",
-			"fafbbe28-b926-4e7f-a500-f854bbe2c9b4",
-			"c19aa139-b8f9-431c-b3d4-3bc98e88dc4f"
-		],
-		"syllabus_toelichting_id": [
-			"ba3e81d8-86d5-46f7-9532-93c2deaa932c",
-			"19218c72-1418-4cd4-ba77-7f609a8d3e84",
-			"dd7b316a-ddaa-45ff-8a54-851b6fd68446",
-			"14023738-c367-4eb6-81b4-7c57485e586f",
-			"00ea3672-6274-4a63-93db-ba2ebe5c1234",
-			"9883c7fe-4df0-46ac-b305-0c52b6caaf40"
-		],
-		"syllabus_vakbegrip_id": [
-			"bee44e51-7a8a-409c-80f3-544929057fc4",
-			"b3e6e1c9-6209-46fd-936e-3c3a8306f351",
-			"ed610f45-c8f8-49b7-b09e-c03333174738",
-			"f8679993-4bea-484a-b037-ff6f7d735889",
-			"ae904615-f8d5-49a2-8fe9-bf99929f6c5a",
-			"53f6fb02-1ebc-4531-a10a-e0416fae358b",
-			"2c5a5829-deb7-465a-a6fe-044416c3f89a",
-			"c7518196-ad48-4b1b-a662-8eab7de491a5",
-			"abed141e-acbe-470a-bcb2-a75d4ff0c332",
-			"976a72e2-4c1a-45f9-882c-6e35f8b77c31",
-			"b9a0188d-0361-42d1-90e0-02556a1aac0b",
-			"9d10f7f3-b595-4205-a1bb-1909f0526077",
-			"7008b962-043f-4c33-ac04-ac93ecc5d98a",
-			"0f7079c0-6928-4e8b-be13-c6961a8824be",
-			"f5c21f9c-30d9-4d0c-8e2f-f230a5fff314",
-			"baf7d76b-7500-448a-ab9b-d7a657b81a8d",
-			"4ff4ebf1-19a4-4fca-9992-efba3c3e396e",
-			"851d03b2-b549-40aa-948d-e2c78d04624c",
-			"7dbc6cb4-da1b-4241-8bdd-3cb474a79bac",
-			"f623e528-e5aa-4706-af47-d5aec074d368",
-			"771350fe-161d-4338-a478-d120a80169a2",
-			"6c92a443-68a1-4422-b49b-ea47d3831efd",
-			"bec978f5-56c8-4046-9764-a6d4a06fc5c1",
-			"272f7b4e-8293-4fb0-9aeb-b7a4a6927842",
-			"cdf02a75-82bc-450b-a565-b722a690ad59",
-			"3bcf46ab-3c65-4597-9176-d8a39314fc79",
-			"cdfde1b3-1762-4cf5-9a5e-664f5a53dd33",
-			"82fbede5-934b-407f-ad33-3d31a74a0908",
-			"90b969fa-36d9-4db3-ab41-c1023c78019a",
-			"4dbcc50c-2dbf-40b1-8155-a1e0d0baff53",
-			"9a6ccbdf-53fc-4517-a2e2-f18bda5e730b",
-			"06d007e9-a381-45aa-b802-52fd2587cc80",
-			"6963ccf2-2551-42e3-80af-887c403482f6",
-			"22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
-			"db34fc3d-7d7d-4025-812a-5594724a7880"
-		],
-		"ce_se": "CE",
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-biologie-vwo/2020/f=/biologie_2_versie_vwo_2020.pdf",
-		"examenprogramma_id": [
-			"92f57200-9ac6-449c-964c-b18c8996df85"
-		],
-		"dirty": true,
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"syllabus_vakleergebied_id": [
-			"d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
-		]
-	},
-	{
-		"id": "a9f8ab5a-5998-48ba-a901-b273e6615ec3",
-		"title": "Syllabus Aardrijkskunde vmbo",
-		"syllabus_specifieke_eindterm_id": [
-			"7f403e70-323c-4480-9d7e-e2846621d5b3",
-			"879bda9c-5a3c-444a-8138-187dcdaea563",
-			"79183393-789c-41f0-bb9a-e9b7ddecd899",
-			"fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
-			"b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
-			"71cc1ba5-d6b9-498e-9642-93553d2fb7c6",
-			"b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
-			"836458b7-bbb9-4e11-a95f-7245e8b3a578",
-			"e4feb30e-f9c6-4d77-98a2-4fad54dca628",
-			"2a140987-3760-45cf-ac04-b5c5dfe06ab0",
-			"b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
-			"8e6153de-3e72-4c1a-b8ad-2785a581a7c1",
-			"8ad176d8-7308-4fd8-8628-fa4002989a88",
-			"38f2bdf4-b3a6-4a4e-b17c-f39232dbbb47",
-			"a5fdc6b3-1735-4414-aae4-529309444df1",
-			"b7e6fef2-7239-4659-a6df-31952d201ab1",
-			"b26bdeb9-fa3c-4372-a396-f5a80db033a9",
-			"06f72591-0cda-4a25-bbfe-4e364e6d804c",
-			"03d625f7-8ece-4410-9fa9-26bd739b7aea",
-			"4f2b327b-0cf6-49f9-99a4-96e55c4e2f37",
-			"95f66bf4-0e67-4d83-bca4-4a5a5e4e265d",
-			"a7919a84-88c8-43c1-9d27-eb5f8d3f7c42",
-			"a4559d94-c9f2-4eb8-bbba-8da7d0851b12",
-			"9a58cc23-bd5e-4fd2-b34b-402953f865a8",
-			"e9ca0afd-cdfe-44a5-90b8-4f3bcdef8994",
-			"5b2af51a-14be-4250-883e-ea1ac96e2da9",
-			"1a798fdc-7b1e-483e-ac22-aa0f7e05906a",
-			"2b058050-cd08-4ae2-995e-91ec55383487",
-			"9a551f5d-ea1f-4129-8a8f-398833709c6d",
-			"b5030f63-61a5-4dec-846c-e3fb8e7ae0bb",
-			"5f9d21ff-ac69-4d8c-be6d-b35b59fa60b5",
-			"2ed6d35f-d1d8-4061-9a37-053187ac4b21",
-			"b6462cc7-1f1d-407f-8813-48434d501e63",
-			"6470175f-6fff-4e93-a3e3-a4e273cd0f12",
-			"6d573c26-c5e3-48de-a057-f277ac88aa44",
-			"feba7a18-7b4c-4ec4-a742-53269f6dc328",
-			"ab370215-fa35-4505-a31f-2b35a3fce4bc",
-			"ca19e3c0-dcd5-43ec-b7df-1af4ff247459",
-			"16cb7de8-afe4-4491-be09-09fb331227b6",
-			"ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
-			"8a0e84f4-2b1c-448e-83c8-8471de322a22",
-			"e372077c-89d2-411b-ae7a-6328d6e4ec68",
-			"e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
-			"1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
-			"a11d098a-ea88-41f0-b88d-de4f01042612",
-			"62d1e847-0b3d-41e6-b56b-45aae2e50dee",
-			"8787dc0a-5c86-4da4-a1f6-23fcdbf73d00",
-			"f2cbf239-75ce-4c6e-92d2-6ce1fda9e196",
-			"0b0b387d-1b35-4012-9e0c-80403b133a0f",
-			"e212f1ae-7c85-41a0-94b5-60c6dd136a80",
-			"abbf8427-5b56-4c74-bc94-36b8c92f3b14",
-			"58843a76-d3d2-4e95-9f6d-679bbfa7269e",
-			"7a6b4b28-1b0a-4596-b925-22eeba55c091",
-			"19d045b3-e595-453b-ab50-c9a6cb381938",
-			"df36ddb4-dedc-401b-a66f-faf618e582e7",
-			"b4586d6b-5e98-4467-ae82-dc1667cbbd13",
-			"26ed3cf1-7ecc-4a03-af1e-e79e6d637e16",
-			"40e73201-e611-44f4-84b5-7ed5154eacc1",
-			"ecea0c72-9d5e-4ec3-82e3-5244debb36b6",
-			"dc72efcf-5fa3-4db4-a40a-4cf3dbd2cff8",
-			"f00bbfe5-e2f3-4f71-b471-cb6048610abb",
-			"00a8ee11-7e95-4e37-aaa4-e3f3131746b8",
-			"4f3887f2-d1dc-4e6d-a330-d2ba10c96e13",
-			"c9880213-c2b5-4bed-b552-2049bcb6ef45",
-			"ba885bc9-31f0-496f-b069-3efcc52defb4",
-			"d0a75f5b-a00d-48d8-9f1e-3c5b3781bd31",
-			"2f13db25-edba-49c1-a0f8-cb467915cd5b",
-			"202b14fa-a0b7-4ed4-827d-d1e89dd44179",
-			"9a96feca-7bb6-442d-afdb-74c59825f3c9",
-			"9b91b8bd-fc10-4e97-8169-9c94b20adfda",
-			"c504a1b4-80ea-42e8-8400-28fa222e75a1",
-			"2cade244-786b-48be-9fb4-8a471d6c2431",
-			"151e4732-3abc-4dc4-a840-dca1ea58b389",
-			"4134ad35-fedb-42d6-bfb0-c8f83677a82e",
-			"b53ddd3c-e9c4-4223-8969-7742bc9a3b9e",
-			"d69d3481-e7ef-417a-979d-a1b085e0dd9c",
-			"72d36aaf-77e5-4db2-b057-33ec9d82fd3a",
-			"516a3caf-b559-4d57-8027-f288098ec4df",
-			"2fe7596f-bb7b-43b4-a920-9c7ef580b069",
-			"2b7cfa13-50db-4a33-b5cf-ab1e43bb5b56",
-			"25d059a6-32f2-4ed0-a593-34ae5212607a",
-			"e1c35956-ec69-47ae-ad25-56a541ea38cc",
-			"67be68c8-0a7c-4016-90df-ab98fbbaf192",
-			"520a317a-db63-4966-9c9b-b2d979b7c071",
-			"5a597a10-db9e-4ef1-b824-05c5e26959c6",
-			"3e5ab581-abd5-43b6-8521-e833568a39fe",
-			"4ba4d83b-bccd-4b46-b5de-e0b3424bbdc8",
-			"f064ac05-8e34-4ad4-96ae-5971b546f1dc",
-			"59c4bf23-73e5-4059-bac6-ff4cce0da2a0",
-			"3416a2d6-37f0-44d0-8f85-4ebb76fcc4f9",
-			"bc66d184-1cd9-42f2-a023-c47fa0ac605e",
-			"0feb2069-1136-41b1-b136-ce8c4fc5f678",
-			"7cf3f067-7754-479c-aa66-df3cff0cd147"
-		],
-		"syllabus_vakbegrip_id": [
-			"3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
-			"0e16818d-4331-4c87-a978-f31898f151a3",
-			"fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
-			"e774d834-c713-409e-9546-1f09baf744bd",
-			"8b11efc9-3c19-4212-b0b7-2e10577f31ed",
-			"4a1f7479-30a9-4898-a416-d33c8d01260c",
-			"c488cee3-73fc-451b-9263-13078b930862",
-			"6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
-			"9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
-			"736e2078-8650-4393-90ad-adb54ca97de7",
-			"b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
-			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3"
-		],
-		"ce_se": "CE",
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"versie": "2",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vmbo/2020/f=/aardrijkskunde_vmbo_2020_versie_2.pdf",
-		"status": "Def.",
-		"examenprogramma_id": [
-			"544a0293-a7e3-4f6b-a973-30af7627bdea"
-		],
-		"dirty": true,
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"syllabus_vakleergebied_id": [
-			"85f2ed0a-794c-4269-b933-2eff604826a6"
-		]
-	},
-	{
-		"id": "5e0288e6-91be-4284-acef-d6ab9ae67228",
-		"title": "Syllabus Aardrijkskunde vwo",
-		"syllabus_specifieke_eindterm_id": [
-			"52d9d87d-9156-413a-a2fe-b6b719287a73",
-			"9bbe66a7-ac89-4a56-a65c-b63225e70ce6",
-			"68d91f3c-007f-4294-a446-2dcd0e96d7b5",
-			"9d044770-f8ff-4c61-8baf-39f5f7612731",
-			"ee446994-ce4c-45ae-a49b-29eb9eb5d128",
-			"42caabce-6edf-4124-bdfb-7bc88e0d2a3a",
-			"20143cd2-da3a-44e0-b4a6-1380d1a65e72",
-			"add18b1f-7d39-4991-8c0a-fd028cbc1593",
-			"d3b1ce89-89b7-411d-9f9e-4d09ae8989de",
-			"45796fa0-629c-40cf-93f5-b99cc47a4c0c",
-			"61bfd76b-d17c-4077-8946-4fd10f134b7e",
-			"e45c1ebc-ae93-4c9c-8b21-e592d9bca75b",
-			"6487c9e2-b0aa-4765-bf39-72840a9e0c9a",
-			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
-			"64930abe-36b8-4dfa-bc7c-0299853500f7",
-			"aa6c62cb-7edf-4157-a5a2-c2e359e38849",
-			"c2533654-0c74-40d0-817d-7567f5d11293",
-			"f0c02b0c-6f14-41fa-a3b2-2db835a9355d",
-			"87610bed-d96c-49d0-beb7-8209a5051d89",
-			"86bbf5f6-6f77-49b1-b592-c92aaf1e5e42",
-			"80722216-825e-4882-94ef-0df70d0f513d",
-			"fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
-			"160be35e-7518-4fb5-9746-89cd5b10e677",
-			"b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
-			"b129fee1-d5b3-452c-a157-02905344258d",
-			"233bbc36-86db-4010-933a-d7a764f19c9c",
-			"8ea0c097-a1e6-46d3-87ee-f67f6922404a",
-			"d1a75ed7-5a65-49c3-9a98-df7219bacd2d",
-			"2608d098-b9f5-48df-a0c3-2977ab9bad44",
-			"1135aa25-2a1c-4727-9524-2213d30f2a9b",
-			"127fe9b6-fe75-4390-9580-b746f7c5808c",
-			"8869ebfa-789b-44c0-ab76-3aa40ac67bb7",
-			"6a87caa4-fcf3-4129-b407-c887bfeb594b",
-			"7470cce5-a49b-4977-8880-3204cf187d8f",
-			"e28797e1-92bd-428e-bfdb-052a62047079",
-			"4b08356b-1675-4d24-abeb-1a819c9b5d4b",
-			"9535d99e-a398-491e-a61e-71b128135d87",
-			"174b5468-00f4-428d-a432-5037dc0359a4",
-			"548e0bc0-859a-415d-ba8b-c939e78ba5b1",
-			"7687df4f-719e-4016-8a68-f9eab8c17807",
-			"f63b5175-01c9-4bd1-aa42-27a271dedb75",
-			"e1865466-bd6b-4c52-9e6f-62ee110fc973",
-			"de42b9fb-1b03-4fe0-b650-b9c9b0380a10",
-			"134a507d-8823-49ec-87f9-86c0e563a43e",
-			"ca0da882-e7b7-404b-ad96-1454d339f4ab",
-			"74ade63b-5891-448c-a25b-0d9a113558fa",
-			"feffbd90-0209-4919-a537-3b195d9e80ab",
-			"a154f2bd-dee1-438e-800f-9a34e9cd7269",
-			"9767a7fa-47a9-434f-9598-caac96041aea"
-		],
-		"syllabus_toelichting_id": [
-			"4272453d-1376-4e23-b9b1-d697ca1dbf13",
-			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
-			"6ba9c801-098c-49d7-a134-c6acb5eef27d",
-			"84619b6b-423e-4f21-afea-862ca843a085",
-			"89ea187e-01fe-4611-a0f1-210a036a5dd5",
-			"c32e56c7-211d-44d4-9761-71219c56f8d5",
-			"627862f0-16f7-424f-bed2-0d22b5654659",
-			"1aab95af-729f-4855-bb54-14ca2a8f673f",
-			"18ba6cbf-5f04-4109-968a-ef34d6c3a639"
-		],
-		"syllabus_vakbegrip_id": [
-			"d2f957d6-3305-41bb-b434-088906bf753d",
-			"9193d525-e605-4b63-842e-9b1d76b98a95",
-			"ebc73da6-195f-4198-a8f7-65ba157f1480",
-			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2",
-			"f3648277-1a3b-4186-95c9-e3654538b385",
-			"7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
-			"13f79a25-d6ef-4600-81e4-3a20efe32303"
-		],
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"versie": "2",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vwo/2020/f=/syllabus_aardrijkskunde_vwo_2_versie_2020_vermelding_gebied.pdf",
-		"jaargang": "2020",
-		"status": "def.",
-		"examenprogramma_id": [
-			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
-		],
-		"prefix": "",
-		"description": "",
-		"dirty": true,
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"syllabus_vakleergebied_id": [
-			"85f2ed0a-794c-4269-b933-2eff604826a6"
-		]
-	},
-	{
-		"id": "32c94cbf-a11e-47c2-8403-c53e90777c18",
-		"title": "Syllabus Aardrijkskunde havo",
-		"syllabus_specifieke_eindterm_id": [
-			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
-			"9cead215-9642-4f41-9cab-dec0d4a65fec",
-			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
-			"2bcf086c-c39d-4dde-a36b-d411d8ae281d",
-			"a3926f80-8735-4f2d-a018-8776a897f352",
-			"ee934bf4-6b0d-4eb8-80fc-f84767ea8aac",
-			"b7059be1-3727-495b-827b-f29a7aed4cf1",
-			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a",
-			"cc67f770-1290-4bad-9d50-cece367e449c",
-			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976",
-			"d8711de6-437f-4f3e-86e7-2910e54d6526",
-			"552f6b7d-95f3-4537-a9f4-49ebf7af163a",
-			"fbc83147-99a6-4fc3-87bf-f5d3247c3257",
-			"ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62",
-			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f",
-			"7223dff9-dd0f-403a-9f3c-737d2df28032",
-			"b8f777d7-a6c6-4998-a5c3-e2130c0d713a",
-			"a706af28-839f-4419-83c7-a97a797f951f",
-			"a1070a67-ac38-414f-9804-f2a0e9d42e70",
-			"316b4880-44a1-434f-b1cd-815ad609186c",
-			"96585cc8-6b18-403d-9408-ba6ff623423f",
-			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635",
-			"e81a3043-a7e7-4520-8d74-a902e222eb0f",
-			"e26494b7-c689-4d0a-97a9-68722fad20df",
-			"e6cefe7a-5f9b-413f-bb90-2888def56a9d",
-			"cd894aac-475a-4e37-9354-9a73d39de1c9",
-			"9a72a475-f1ed-4b71-9a35-02db80704773",
-			"9e59721f-052d-4597-819b-58f7fb3fb73c",
-			"171f2e3b-220b-4c38-9627-c4c243292b9c",
-			"112ee084-efd7-4aaa-8d2b-70a5e747f6c0",
-			"e0dbeaa7-8516-44b0-b9a4-aa69b63f289c",
-			"89e22bea-f51a-46ea-bd2f-9748a9261694",
-			"9ec21827-2435-436f-b1da-f9159d1da076",
-			"a81aa608-eea8-4809-be8d-a4c69e8522da",
-			"1caec618-935d-473b-a189-8aabcce5038e",
-			"7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e",
-			"40751db4-5e29-42f8-8526-e70a4156a83e",
-			"34499fbb-80b6-4c42-999a-ca02668a5346",
-			"ceba831a-c62d-4ef0-83b3-e00f91adf105",
-			"7a7478fe-ecd9-41cc-bd61-63c59fb76e12",
-			"94c8943d-57e2-4795-9928-e27f8e1ef7c6",
-			"44dbdc18-b9a2-44bd-81bf-59c82d22c30d",
-			"912b4858-af9f-40f1-a645-00b31995e775",
-			"748312cf-e5d3-462d-8783-7e38814d3bc7",
-			"34df7865-9090-4c86-b280-40b12df201da",
-			"ea896233-8ebc-4749-8ae4-10ece96d8903",
-			"03dc0358-df69-41e1-95e3-0cb2289a4feb",
-			"b34803f3-bfcf-4b57-870a-94d01adbb2c4",
-			"dfad925b-9def-4545-944f-17c3f43afe98"
-		],
-		"syllabus_toelichting_id": [
-			"81fe3fc8-f93f-4f28-94f7-c45883846a27"
-		],
-		"ingangsdatum": "",
-		"examenjaar": "2020",
-		"versie": "2",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-havo/2020/f=/aardrijkskunde_havo_2020_versie_2.pdf",
-		"status": "def.",
-		"examenprogramma_id": [
-			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
-		],
-		"prefix": "",
-		"description": "",
-		"dirty": true,
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"syllabus_vakleergebied_id": [
-			"85f2ed0a-794c-4269-b933-2eff604826a6"
-		]
-	},
-	{
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-bedrijfseconomie-havo/2021/f=/bedrijfseconomie_havo_2021_versie_4.pdf",
 		"versie": "44016",
@@ -1055,7 +179,6 @@
 		],
 		"title": "Syllabus Bedrijfseconomie, ondernemerschap en financiële zelfredzaamheid havo",
 		"id": "6cf07b23-accb-4f8f-b1c4-28d467ab29e8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -1270,7 +393,6 @@
 		],
 		"title": "Syllabus Bedrijfsecnomie, ondernemerschap en financiële zelfredzaamheid vwo",
 		"id": "4a11f556-1c8b-496a-8d2a-655abd4dbaee",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -1280,7 +402,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"266a32b4-aed8-495f-9e78-da585f8cc370"
+			"a5b11d00-618b-4d82-be22-72bd9b9ab03f"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"17959bb5-584f-4cfa-8516-132df9e9872b",
@@ -1455,7 +577,6 @@
 		],
 		"title": "Syllabus Economie vwo",
 		"id": "9f64a2ee-2cd8-4995-8cb5-e5dd5667d4e3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -1593,7 +714,6 @@
 		],
 		"title": "Syllabus Natuurkunde havo",
 		"id": "25f8c171-4638-4e90-bd2e-17ff212eef7f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -1764,7 +884,6 @@
 		],
 		"title": "Syllabus Natuurkunde vwo",
 		"id": "6ccfdeda-55dc-49f1-b3b9-6892a8702337",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -1948,7 +1067,6 @@
 		],
 		"title": "Syllabus Natuur- en scheikunde I vmbo",
 		"id": "b349bb39-9895-402f-9f00-7119196ee23a",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -2065,7 +1183,6 @@
 		],
 		"title": "Syllabus Natuur- en scheikunde II vmbo",
 		"id": "b9413528-2f3a-45d3-88d8-319fe69e033f",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -2241,7 +1358,6 @@
 		],
 		"title": "Syllabus Scheikunde havo",
 		"id": "6d43b010-b99e-4118-bfc6-06370c1e6a29",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -2441,7 +1557,6 @@
 		],
 		"title": "Syllabus Scheikunde vwo",
 		"id": "e8db50bc-c29b-4dae-b0b6-400a337db13d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -2485,7 +1600,6 @@
 		],
 		"title": "Syllabus Nederlandse taal havo",
 		"id": "efbaa1f6-ec25-4482-be23-46cb74ab82f3",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -2531,7 +1645,6 @@
 		],
 		"title": "Syllabus Nederlandse taal vwo",
 		"id": "ba789609-e0ba-4a79-9926-eb1cef208f12",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -2601,7 +1714,6 @@
 		],
 		"title": "Syllabus Nederlandse taal vmbo",
 		"id": "ff8ea612-0010-443d-a4df-bcfd31d838d8",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -2614,8 +1726,8 @@
 	},
 	{
 		"examenprogramma_id": [
-			"f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
-			"c247ec44-bebe-42e3-8b65-5722389a3add"
+			"0f445c0f-6897-4c07-a8be-4af4d4743a40",
+			"43c690b5-2667-4bd8-a77f-c0cafba01af9"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"46dcbe47-b88e-4921-bbaf-07fb82752e1b",
@@ -2625,7 +1737,6 @@
 		],
 		"title": "Syllabus Friese taal en cultuur vwo/havo",
 		"id": "b24a305a-cc34-4325-8250-085e8386a63a",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -2739,7 +1850,6 @@
 		],
 		"title": "Syllabus Wiskunde A havo",
 		"id": "f73debf4-e1fe-4366-a92a-18a69855400c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -2749,7 +1859,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"6f5d3c16-1274-4f69-9601-cb96188e1b54"
+			"bf9ca021-894a-47e9-a14a-15bebeb94247"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"044fe829-4a51-477d-85ef-c5b63787f850",
@@ -2829,7 +1939,6 @@
 		],
 		"title": "Syllabus Wiskunde A vwo",
 		"id": "43cdc2cb-a388-4fee-bfc0-9c5a8ac839f1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -2956,7 +2065,6 @@
 		],
 		"title": "Syllabus Wiskunde B havo",
 		"id": "c7a25b87-c755-41f2-9be4-0e5856049e81",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -3159,7 +2267,6 @@
 		],
 		"title": "Syllabus Biologie havo",
 		"id": "30414e4c-d41a-4afb-a66d-44244f33de78",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -3338,7 +2445,6 @@
 		],
 		"title": "Syllabus Wiskunde B vwo",
 		"id": "3398fa1c-0689-4412-9871-37e2fc6dd70e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -3348,7 +2454,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"4758779f-48a8-4876-a491-262ee888cd62"
+			"94b8d9a4-3eca-477a-aa36-7f1839aa37df"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"19ed30dd-8752-4edc-aff3-09b68ec0e72d",
@@ -3451,7 +2557,6 @@
 		],
 		"title": "Syllabus Wiskunde C vwo",
 		"id": "195c38bb-fd1c-45bc-a96e-9113db377f42",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -3760,7 +2865,6 @@
 		],
 		"title": "Syllabus Biologie vmbo",
 		"id": "cc683faf-c778-4b36-8213-75782478375c",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -4001,23 +3105,7 @@
 			"609c2e54-f2b9-4f9c-93e0-55819bfa9503"
 		],
 		"title": "Syllabus Wiskunde vmbo",
-		"id": "61c66644-fb98-4d89-9e6f-1e0214010801",
-		"unreleased": true
-	},
-	{
-		"syllabus_specifieke_eindterm_id": [
-			"8bb2b0ce-ec62-4d1e-9f84-5c86eeba3ee1",
-			"f7f3819c-68ce-496f-9e37-86d714011c51"
-		],
-		"title": "Syllabus Moderne vreemde talen Arabisch vwo",
-		"id": "c642c322-2934-4453-b69b-f7aa4b5447dc",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"syllabus"
-		]
+		"id": "61c66644-fb98-4d89-9e6f-1e0214010801"
 	},
 	{
 		"examenprogramma_id": [
@@ -4172,7 +3260,6 @@
 		],
 		"title": "Syllabus Filosofie vwo",
 		"id": "65b04e56-8792-41a8-9091-a256a86b592a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -4197,7 +3284,6 @@
 		],
 		"title": "Syllabus Filosofie havo",
 		"id": "9ca99c08-48e8-436a-a509-22d0cabe78df",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -4323,10 +3409,10 @@
 	{
 		"examenprogramma_id": [
 			"a9a3ba23-bf44-43f1-a40d-1bf368d39470",
-			"fd4b7c27-0ca8-4e46-a613-90f24509a4a3",
-			"18ff572d-ac19-42b5-a558-9a7659339889",
-			"6cbb98e3-a020-4623-816d-89673d10793b",
-			"d343fb75-ba02-4969-960c-3ff5e009e946"
+			"10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+			"afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+			"71434822-51a6-4500-93b6-b4620e1d488e"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"444566fd-a978-4b91-a459-e8fe14217ce5",
@@ -4391,7 +3477,6 @@
 		],
 		"title": "Syllabus Kunst (algemeen) havo",
 		"id": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -4406,7 +3491,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"74f5153b-7b26-4b3a-88a9-380c0a6d7a96"
+			"0af199be-802e-4374-9c1b-37baad1b798f"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"740dad14-376b-44aa-bc33-9c40a59205b8",
@@ -4421,7 +3506,6 @@
 		],
 		"title": "Syllabus Handvaardigheid havo",
 		"id": "19dd736c-6416-4ac1-8cea-da8bde2e3725",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -4436,34 +3520,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"6e4551e4-a5a1-4266-b4c4-c75f49ce19e0"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"e1cbfc0e-bd13-4a05-94da-0c2186d89967",
-			"349331ad-283c-4810-87af-451ec93777ea",
-			"48d24cd0-dadb-45d7-986e-660b1ea13353",
-			"df07c1b7-224f-4175-9e87-576df1ca6860",
-			"2e78091a-4227-46db-a6d5-2a3281d39d29",
-			"a79054e6-f80f-4b80-9253-d68f569d42a4",
-			"3ec35e9c-4a68-4801-8242-509cfeb34562",
-			"45218bd5-9b72-4b83-b823-2eca7fd568f6",
-			"26d1559f-32a5-4bbe-bde0-131f66c18612",
-			"a3328b97-be22-463b-a106-87dc6cec43d1",
-			"bf53165c-7f44-4b9d-b52c-6fbbd99895f0"
-		],
-		"title": "Syllabus Kunst Dans vmbo",
-		"id": "a9802336-4eab-49a6-b7bf-f82bb0c0f3d5",
-		"unreleased": true,
-		"description": "",
-		"prefix": "",
-		"deleted": 1,
-		"types": [
-			"syllabus"
-		]
-	},
-	{
-		"examenprogramma_id": [
-			"6e4551e4-a5a1-4266-b4c4-c75f49ce19e0"
+			"6fc64ff5-e3c5-4d1f-827b-99f266dbfb13"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"b1a54cd1-e5dc-4ee8-b126-1e419c87a467",
@@ -4480,7 +3537,6 @@
 		],
 		"title": "Syllabus Dans vmbo",
 		"id": "8744b397-6420-43d7-84ae-dd42bda9294b",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -4514,7 +3570,6 @@
 		],
 		"title": "Syllabus Beeldende vorming vmbo",
 		"id": "d376b67a-0019-414f-8f67-0a92fd0a85a3",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -4531,7 +3586,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"d10201e5-a936-45cb-b8a8-36f576d78b77"
+			"57f3047b-dd0a-4f36-9877-d050aef50835"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"dbc0ea7e-ed79-42ad-8c9c-b0f502bf85d9",
@@ -4545,7 +3600,6 @@
 		],
 		"title": "Syllabus Drama vmbo",
 		"id": "518b5546-d831-412f-bab7-d0b46d420425",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -4561,7 +3615,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"340236bd-8944-4768-8361-7f0c5d349eb4"
+			"8ee23adb-1f87-4fe7-8ca4-7bb464205859"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"07207d64-22da-4398-87f1-ad5fad6e6891",
@@ -4623,7 +3677,6 @@
 		],
 		"title": "Syllabus Muziek vmbo",
 		"id": "f882d69a-0a6b-4839-932a-cc8abcfc03ed",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -4668,7 +3721,6 @@
 		],
 		"title": "Syllabus Latijnse taal en cultuur vwo",
 		"id": "a8e1c130-a35c-44ca-b6b3-b5616277c61a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -4678,7 +3730,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"aa932a9b-5996-449d-82bc-c0942bed68d2"
+			"1abce396-eafa-49e6-8f4e-251aed90f56a"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"794604de-b33c-44bf-b3ec-ae38dd7b4c69",
@@ -4700,7 +3752,6 @@
 		],
 		"title": "Syllabus Griekse taal en cultuur vwo",
 		"id": "d107557f-c4fc-4a58-a694-15342d639efa",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -4710,11 +3761,11 @@
 	},
 	{
 		"examenprogramma_id": [
-			"0d872678-c7ed-4cf2-b8eb-96580d330dfa",
-			"78cd103c-54e3-4d1b-b392-5b93c880582a",
-			"530811b4-b704-429a-9ff2-2f2f0f472d50",
-			"0e62e61e-23e5-40e8-a12f-b4dbdc591812",
-			"90f32bf1-0834-4288-93ba-2ceb6bc40e49"
+			"afbb154b-87f6-43f6-83a7-f77e527b9ede",
+			"a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"ebfb3974-666a-443a-9251-a4cf628b5228",
+			"f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+			"dde74cc0-810e-4e92-a4b9-99c0e12d0786"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"08be6c0c-9eeb-4b32-b845-54a2abbea5c5",
@@ -4831,7 +3882,6 @@
 		],
 		"title": "Syllabus Kunst (algemeen) vwo",
 		"id": "40ad9d1a-77cb-413e-bbcd-47f96cd810f1",
-		"unreleased": true,
 		"description": "",
 		"prefix": "",
 		"niveau_id": [
@@ -4846,7 +3896,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"6def654f-0bf6-45b3-8afe-f86bf41eb89e"
+			"46fe59a1-c8de-4e0c-9ecf-6f03fb326e66"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"06648fd3-5142-415e-a83c-d7b95d3e11c9",
@@ -4861,7 +3911,6 @@
 		],
 		"title": "Syllabus Textiele vormgeving havo",
 		"id": "780bdbcf-2691-42b8-858a-e275d0a43fa5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -4907,7 +3956,6 @@
 		],
 		"title": "Syllabus Geschiedenis havo",
 		"id": "6b8d8910-fca8-48ab-84b1-4b59ef470105",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -4949,7 +3997,6 @@
 		],
 		"title": "Syllabus Geschiedenis vwo",
 		"id": "8a2647ad-b7ec-4f42-a73c-559c2ae5b64b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5004,7 +4051,6 @@
 		],
 		"title": "Syllabus Maatschappijkunde vmbo bb",
 		"id": "80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"url": "",
@@ -5019,7 +4065,7 @@
 	},
 	{
 		"examenprogramma_id": [
-			"0af05781-3b4e-4137-9f16-cb700db72b88"
+			"5fbc4877-8077-4404-988b-f623203730a2"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"0d9b3e9a-bd24-4c04-a85e-97aa981c24e2",
@@ -5102,7 +4148,6 @@
 		],
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo",
 		"id": "cc355108-5616-44a9-a7de-92b2b828df47",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -5176,7 +4221,6 @@
 		],
 		"title": "Syllabus Maatschappijkunde vmbo kb",
 		"id": "0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
-		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
@@ -5262,7 +4306,6 @@
 		],
 		"title": "Syllabus Maatschappijkunde vmbo gt",
 		"id": "021a91b1-2d3d-410f-a138-34eef9798f1d",
-		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
@@ -5282,7 +4325,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Duits vwo",
 		"id": "1da5d8c6-a9b2-4ac4-b12e-537a75face84",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5299,7 +4341,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Engels vwo",
 		"id": "6a9a7f83-06c9-4ba8-a181-00db933d13ba",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5316,7 +4357,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Frans vwo",
 		"id": "880e66c6-5787-4d65-b73b-5f58e77e254e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5333,7 +4373,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Spaans vwo",
 		"id": "734e8982-36ba-4a79-9dbb-0a1588563b28",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5350,7 +4389,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Arabisch vwo",
 		"id": "e6ade6cc-4fe9-48aa-8b9e-7363cdf1dc2f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5367,7 +4405,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Turks vwo",
 		"id": "05906842-43c4-40c5-b9f3-547bea74c2cb",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5377,14 +4414,13 @@
 	},
 	{
 		"examenprogramma_id": [
-			"3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3"
+			"17fd3fa2-df89-4296-a34f-fc9302284659"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"6ae12bd8-d260-49ba-85e4-7e4028b4fdee"
 		],
 		"title": "Syllabus Moderne vreemde talen Russisch vwo",
 		"id": "301caa22-0134-432c-90b4-dc668210850b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5401,7 +4437,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Italiaans vwo",
 		"id": "f5b4dd1d-83c5-41d8-8db1-ea430131bb1b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5418,7 +4453,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Chinees vwo",
 		"id": "d9f10a63-7e5c-4475-a4d6-3764bc22134f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -5435,7 +4469,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Duits havo",
 		"id": "44fdf9e4-ce6f-433f-be4b-60243048a003",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5452,7 +4485,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Engels havo",
 		"id": "57e56d65-93ea-429d-97d8-85937ae88533",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5469,7 +4501,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Frans havo",
 		"id": "8c5ccfca-d957-4da4-8678-8e4d57901ac2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5479,14 +4510,13 @@
 	},
 	{
 		"examenprogramma_id": [
-			"129ba6cd-7884-4fbb-9b4f-7abbec127976"
+			"02370357-c94e-4b52-a261-b659a82f5700"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
 		],
 		"title": "Syllabus Moderne vreemde talen Spaans havo",
 		"id": "6b3ec012-afd2-49ca-90aa-b4d042df84bb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5503,7 +4533,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Arabisch havo",
 		"id": "dc992c11-c07b-4dce-ad68-bac92bb07312",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5520,7 +4549,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Turks havo",
 		"id": "82924484-e04e-42db-85b0-981d349ccddc",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5537,7 +4565,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Russisch havo",
 		"id": "c5741e3e-8cf3-412f-8e05-e7b6f65657e2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5554,7 +4581,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Italiaans havo",
 		"id": "1a041ffa-b1d1-4eab-8491-20f376065663",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -5571,7 +4597,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Duits vmbo kb, gl, tl",
 		"id": "3fa880dc-0c86-41ee-b565-d2e84ce60b20",
-		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -5590,7 +4615,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Duits vmbo bb",
 		"id": "443ac44f-a099-40b1-ad73-ed48a73fa92a",
-		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
@@ -5610,28 +4634,12 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
 		"id": "2408d18a-2a9b-45f2-826c-3439cac2dcae",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"syllabus_vakleergebied_id": [
 			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
-		]
-	},
-	{
-		"examenprogramma_id": [
-			"51b44493-004b-4b9a-aa90-a83d6155561f"
-		],
-		"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
-		"id": "0b211c91-1b51-4993-9a12-8e0fc2de69fd",
-		"unreleased": true,
-		"url": "",
-		"ingangsdatum": "",
-		"versie": "",
-		"deleted": 1,
-		"types": [
-			"syllabus"
 		]
 	},
 	{
@@ -5643,7 +4651,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Frans vmbo gl, tl",
 		"id": "7e6df60b-8050-41fd-9a43-e85bd2c884cf",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -5661,7 +4668,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Frans vmbo kb",
 		"id": "d156f8dc-a306-4fa3-bd8e-d561c7dbd421",
-		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
@@ -5678,7 +4684,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Frans vmbo bb",
 		"id": "159ce633-bf0a-46a0-b604-9a88c17f75c8",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
@@ -5688,14 +4693,13 @@
 	},
 	{
 		"examenprogramma_id": [
-			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+			"053d8c12-a648-4c32-a941-f4626c57f624"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"e13ad375-d051-4650-9636-7f0e33dd2cc7"
 		],
 		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb",
 		"id": "3263f2b0-db5f-4af3-9625-54c8edb96ccd",
-		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
@@ -5705,14 +4709,13 @@
 	},
 	{
 		"examenprogramma_id": [
-			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+			"053d8c12-a648-4c32-a941-f4626c57f624"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"801fe2fa-5924-4c37-890a-40890b29803b"
 		],
 		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb",
 		"id": "a34cd4fd-5c15-42be-b129-fbdb080b51e1",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
@@ -5722,14 +4725,13 @@
 	},
 	{
 		"examenprogramma_id": [
-			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+			"053d8c12-a648-4c32-a941-f4626c57f624"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"bdc16c21-3a24-4832-b483-8aa9b87f7647"
 		],
 		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl, tl",
 		"id": "3ccb4772-f5e1-4a7c-befd-22f10725ba0e",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -5747,7 +4749,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Arabisch vmbo kb",
 		"id": "4d2ed70b-b6c3-4766-ac0b-6e9b2171376d",
-		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
@@ -5764,7 +4765,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Arabisch vmbo bb",
 		"id": "f296755e-f3d9-4733-9e88-1502e4a23743",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
@@ -5781,7 +4781,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Arabisch vmbo gl, tl",
 		"id": "5afb59c2-9178-408a-ad8a-fe7eee2fe903",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -5799,7 +4798,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Turks vmbo gl, tl",
 		"id": "0bde3c8b-79a1-46d1-b979-4be69cd189f9",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -5817,7 +4815,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Turks vmbo bb",
 		"id": "b3b5f41e-f70d-46e5-b359-55421fa1df28",
-		"unreleased": true,
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
@@ -5834,7 +4831,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Turks vmbo kb",
 		"id": "5d51560f-8269-4af6-83bb-4858235240bf",
-		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
@@ -5855,7 +4851,6 @@
 		],
 		"title": "Syllabus Moderne vreemde talen Engels vmbo bb, kb",
 		"id": "e59047dc-0b54-4224-bcb2-09e6382602de",
-		"unreleased": true,
 		"syllabus_vakleergebied_id": [
 			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
 		]
@@ -5939,7 +4934,6 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen havo",
 		"id": "6588bd7e-7324-4d83-85a3-9b1fdb5fe971",
-		"unreleased": true,
 		"syllabus_vakleergebied_id": [
 			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
 		]
@@ -5949,7 +4943,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"examenprogramma_id": [
-			"3c9904b3-a5ee-4b1f-8068-bdd79a48ffcc"
+			"0194202a-4dd4-4240-9bee-c17bd67695e5"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"b1e8cbe7-3f49-47ce-9cf9-7b873c88e457",
@@ -6070,7 +5064,6 @@
 		],
 		"title": "Syllabus Maatschappijwetenschappen vwo",
 		"id": "42dd818e-1559-4f4c-9657-c409e643ceb6",
-		"unreleased": true,
 		"syllabus_vakleergebied_id": [
 			"a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
 		]
@@ -6095,7 +5088,6 @@
 		],
 		"title": "Syllabus Tekenen havo",
 		"id": "7e7cdfb9-0232-4be1-8092-ba1811074771",
-		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
@@ -6143,7 +5135,6 @@
 		],
 		"title": "Syllabus Tekenen vwo",
 		"id": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"url": "",
@@ -6158,7 +5149,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"examenprogramma_id": [
-			"ec850fae-47a6-4dbc-939c-bf7190546ddc"
+			"672f3357-9ce4-4667-b625-3c7ed402230c"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"42e19ea6-dafa-4892-9bbf-58f92783b7f8",
@@ -6191,7 +5182,6 @@
 		],
 		"title": "Syllabus Textiele vormgeving vwo",
 		"id": "0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
-		"unreleased": true,
 		"url": "",
 		"ingangsdatum": "",
 		"versie": "",
@@ -6204,7 +5194,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"examenprogramma_id": [
-			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
+			"a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"866b4fde-2d53-4077-8896-a9cda5c58f68",
@@ -6239,12 +5229,11 @@
 		"id": "08de9c20-5fb7-41cd-9e83-5d22a1a7543f",
 		"syllabus_vakleergebied_id": [
 			"fbbd2952-218e-4aa9-916f-0d301124d18c"
-		],
-		"unreleased": true
+		]
 	},
 	{
 		"examenprogramma_id": [
-			"8dc6a212-3df6-4a46-8c95-008890be0807"
+			"ebb3d82f-5f70-4d80-9a66-561f154458de"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"942a4850-0093-4335-8b5b-98e016bcf1de",
@@ -6271,7 +5260,6 @@
 		],
 		"title": "Syllabus Muziek havo",
 		"id": "9c6d718f-c2e1-4c8f-bf2b-0aff2b1b05e5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -6289,7 +5277,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"examenprogramma_id": [
-			"9c7ce10d-f8bb-4726-9387-078466916b43"
+			"39557c3d-328c-4bf3-913e-b5e17edc5249"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"9dd6f127-b61e-4c8f-8f02-f5ef7147e1d8",
@@ -6332,7 +5320,894 @@
 			"d43593c2-f31a-492d-a5c9-b03dd321fcf9"
 		],
 		"title": "Syllabus Muziek vwo",
-		"id": "8d1d9291-1cc4-4e47-9812-7c9a5dfa33f3",
-		"unreleased": true
+		"id": "8d1d9291-1cc4-4e47-9812-7c9a5dfa33f3"
+	},
+	{
+		"id": "27b082f4-f12f-44a0-9139-cda65b7d929d",
+		"title": "Syllabus Economie havo",
+		"syllabus_specifieke_eindterm_id": [
+			"76bd4c20-1011-4078-b522-c8202037a993",
+			"223023c7-9c77-4cb4-a91c-ceff0b85a45f",
+			"ae2a0463-8131-4c0f-b7b1-e472e3a332f4",
+			"879ee85f-9393-4d24-a096-fe26b253cf28",
+			"347dc315-8409-4d4d-9c44-364ad7d7b174",
+			"c89725c9-29ff-4e9f-96b0-08d26dff6512",
+			"e4403f29-c621-4d29-a792-8afa0f37b6bc",
+			"11aa9fdf-cda6-46fe-9502-0d85b44eb971",
+			"cd7976d1-e88b-4c21-bbbf-e52a17d7f2bf",
+			"21514627-f633-4f98-a4c3-e31264bb40c7",
+			"53ef4932-edaf-46d5-b5c5-07b2c9aa33f4",
+			"3bce8e42-a58b-43bf-a3f4-8062396d63db",
+			"00a185c7-d0e6-449e-bd49-7a9a900d9bb5",
+			"720093b0-2049-4613-8b10-0d836a7bffa8",
+			"66d0bca2-c403-4898-8b2c-656dbaabc7d2",
+			"2e600989-0885-434c-b263-618f5059822f",
+			"d4402aaa-04a8-4940-b1d9-24df6bc60d83",
+			"d3619e28-9949-416d-8782-74f9e5f261a8",
+			"5913b0d9-6871-4c4e-aa9e-3172ac8b43b5",
+			"33ff89d6-61a1-49c8-b855-b07372ab2b5c",
+			"5cc497c5-6b4e-416b-9f88-78a17ef65102",
+			"24f18d49-4ade-41de-9d26-6cbd641a82af",
+			"34e5c748-f84f-47ca-bfa1-55056bd6a30c",
+			"5bbf3afe-285d-4096-b73e-336eebc950f1",
+			"9c8d1138-78e8-4561-a01e-019ac340ce81",
+			"eb42cc56-57d1-42dc-887c-9da2345787ff",
+			"b79861f3-e189-4863-ba1f-f62898ba623a",
+			"1ca207f7-2319-4eba-8736-d4c1d33347e3",
+			"f6cf148b-b1e4-40fe-899a-62352762f548",
+			"2e2b89be-dc97-4f5c-b8eb-03a6f58a0ad1",
+			"01953f9d-0e34-4a6a-b50f-9848726cd878",
+			"ac20f563-377f-45dd-b2f2-dd54b5562e62",
+			"a349504c-a390-4f13-a75e-2fceee00892d",
+			"b7e34927-99e6-4e3a-8b1e-20ebadbcb33e",
+			"d4056161-6609-4260-b5d8-951c4c635b4f",
+			"39f8950a-7874-4523-a681-1e97d3d7ee80",
+			"32677086-8bc0-4eb2-9110-301dbf5ac8fd",
+			"10c3bdc3-0e80-4915-96d6-dedb98181f42",
+			"41d572b1-85af-4831-9b89-18b177941048",
+			"fffe70cd-13a7-49ba-9672-34c47eab618e",
+			"edc3a975-b6f4-48e3-abef-5c6509d6091c",
+			"cc1f7059-7996-4924-a717-d99c80e57689",
+			"55fed7d4-9646-4b40-b549-191fc7830967",
+			"4271bc2c-7e03-4ccd-80f1-367f15549e61",
+			"67abbe64-e3e1-45eb-92cf-f3f99adbd44e",
+			"00549abf-479b-4513-97f7-0f42b13aa98d",
+			"d268f065-e2a9-42ba-9959-ab852f83dd54",
+			"afa107cb-4cdc-47b0-934c-26b6cb1aca23",
+			"c7786736-84f7-4c03-a2e9-a854128b4ebb",
+			"b7849d9f-12b6-465c-a144-2b006fe38eb4",
+			"fe8796ac-5f9a-46af-8846-f711a41036f5",
+			"376e8aa4-43d5-414e-97d4-a4f087e9dd7f",
+			"0feb64d7-2589-40c3-9472-0ed66f124478",
+			"ed2c1fd8-5c23-42bb-b3e4-bb3246a75e64",
+			"f971c7d1-252f-467f-8b8c-97e52db04711",
+			"c6552bfa-4701-4f5f-9092-43af548626d9",
+			"9c440a8a-4e6d-4348-aa59-e086880cecac",
+			"9b920c97-1291-45e0-9c78-34522daeeba8",
+			"efcc1076-874e-4978-bd96-e77a52800fe1",
+			"f7664165-970e-4ddd-82e7-848fbcd38e54",
+			"3188ae5e-4ab8-4adb-bbb8-e796362c49fe",
+			"223607dc-6c42-4367-aa00-31387623d83a",
+			"62b3240f-db1e-4d54-b400-dc2a83f813cc",
+			"4c0fd3a9-b410-4db8-b572-9c3ba2b98605",
+			"f72dff91-9389-4b99-a9a8-deda7a11e78c",
+			"095e4a96-d283-4454-afd8-661f47d97edb",
+			"1b670f05-5a94-402c-a8c0-39104390635a",
+			"17ac29b3-6b71-4a98-bcc8-fbca12cd0ed0",
+			"af13b28e-a2ce-4cb3-a10b-97e23b91d6f1",
+			"687c6999-dff6-48ba-ad6b-fef7442116d3",
+			"e3b20d54-ac54-4cb8-884f-95651d195411",
+			"bff2b053-2ac2-4c0f-85ff-0ede6cf42c64",
+			"37fa6d8c-2f3e-4325-8760-0626639fe7ab",
+			"6796055b-0676-4629-a289-82c7f910f54c",
+			"3ae7c36a-9b05-47ff-8fb8-6bf0686e6c85",
+			"3964eaa2-558f-4c4f-a673-2c5a57be749d",
+			"fe94bae9-fc03-4ad9-9ef8-bc54af451834",
+			"93403b90-0d1b-41e7-b844-67a74c0c55db",
+			"1df0a5e8-6c6a-42df-b0d7-b6354a7add4d",
+			"7c24f95e-8396-47d3-8261-22ccd2aaccb5",
+			"086eac7f-c884-4a4c-9cc9-fd9a7d700aec",
+			"da64e04e-4ca7-46ec-9269-6e3233a79091",
+			"86da151d-54e7-4fa3-bf26-60e24912a0c8",
+			"0abbd35b-7d5c-4301-b26c-4cae8f43690a",
+			"6b4f489b-e5b4-4cc3-873a-6a48aea84134",
+			"4335555d-188c-4665-a03f-46082bb35d06",
+			"2146ec24-5d0d-4e45-b03d-74c62f237c8a",
+			"7b3b2e5a-a43b-4513-970c-9fdd9aa387b6",
+			"6cd20491-49a4-4042-82df-37d8b34a52c5",
+			"79500fc3-3354-44df-a75f-98b79f2fc663",
+			"442317d1-828f-4d18-8079-9b1110735e56",
+			"c18a8b17-a0b7-455f-bb79-b750c03d3283",
+			"41bcee85-9835-407c-ad16-6650f5dac30f",
+			"dcda975f-46e8-43c4-ab25-d3d65d007703",
+			"c9f3b852-e59d-4e2f-8ee6-fec56a2f30de",
+			"5b160207-96ac-4dad-adbd-4d775c24e55a",
+			"61a51fa0-9ed2-48ad-8adf-faca599a5870",
+			"d3e85a65-3186-46d9-ae8e-30a149dcce33",
+			"ea746e22-f950-4576-afad-94b15d286d7b",
+			"aa32242f-7d1a-48f1-a5ac-8d64a0d12655",
+			"75866576-1bc3-4a75-99ce-cd462050fde8",
+			"4ae5da61-36b6-4118-ab2d-458c9687a3d6",
+			"1669320e-271a-4257-9086-716026314de9",
+			"5b0b879a-ebbc-4b65-bc6f-23b2f8d786ff",
+			"79f6e6ed-c054-40dc-90e0-a0ea80dbc61a",
+			"db189485-37e0-4d59-9ca7-4dfb5eccfce8",
+			"52a37749-69d4-4a7b-baf7-51e58544b46b",
+			"868904eb-aba0-47b2-a719-af2087e42563",
+			"0020a7cf-ab88-4023-b4ca-b678b36ce8ec",
+			"b34c6b67-2423-4405-9446-e4db03209977",
+			"18912aca-3944-4f3b-9dc9-9d10ebf0c54a",
+			"55970c9e-6e51-4155-9461-03f2381cfc1f",
+			"b4161046-5f09-4e99-a459-7f53806f09ed",
+			"db77088c-a15c-4d4d-a78f-49cb1a8231c2",
+			"a6593bf0-d10d-4568-88c8-0b0e874d7f8a",
+			"fe6ff4e6-31f6-41e3-898d-73d9b452518d",
+			"0fbd6a0a-9423-4236-8492-adf0780d3d92",
+			"4f1b2b75-4a28-4b37-8a8e-8d2864ede88c",
+			"967ad658-9ba0-44d6-be1e-ccc19b48dbea",
+			"e74621b3-9d05-4d7e-b08e-69951aa162e6",
+			"182c9a41-bbe6-4b20-8b7c-28a7a7536f88",
+			"24c16902-abaa-4c37-bdf5-e001895bb68d",
+			"0de02d7b-54e7-42dd-b6d4-831084de1ecf",
+			"25b18976-34a6-4273-9165-20e8c5c29d8f",
+			"aaf82c5e-6a33-4663-ac08-5b58b985a4ce",
+			"ccd65836-fb63-4adc-81b8-b876082cef24",
+			"fadfc0b8-812b-468d-957b-ec948b32e45d",
+			"89ddce13-58bc-4d85-9d4e-4ad85275b288",
+			"00a78362-2c57-4f67-94c2-6035665f8855",
+			"a8e208c3-8a2d-4d0a-90d5-4e02bee7d061",
+			"1c00f79d-9c5d-4be0-8fe2-d51fa33898f0",
+			"d4ff55d0-8ddb-4399-af04-51c27f810d46",
+			"41a75336-0776-4104-9e0c-1551ce454d5b",
+			"2c8a8edb-9771-425a-a07f-6e9022c8317d",
+			"61e52b0d-4ecd-4dde-b288-32890f7b97f7",
+			"f1d062b0-e064-45ea-bae1-fc3d19d08d3e",
+			"f7a27f17-e6ab-4b5c-9156-04c359ec017a",
+			"1d6e2871-b96c-4a93-b9b9-f17953cc0971",
+			"baeb3e2c-a594-4d61-8a7b-981a0752d3be",
+			"ee131a36-d815-40b0-bcb1-be7e3454c9a1",
+			"c7209ad9-cc0e-412c-ace5-6e12b2300b79",
+			"e9418f25-0668-40e5-a06e-c4ef95270868",
+			"58d08cd2-2fca-4f58-aec7-7f168f1b0315",
+			"78973805-e9ea-46d5-91cd-5b33c9493164",
+			"71a71d66-fb78-412c-b2fb-7319cea191dd",
+			"5ac87899-c42b-425e-8fcc-6ede952803e9",
+			"7bd5add7-afb8-4ba5-8cee-55076984f660",
+			"2a881f65-4e0d-4494-b8d9-0e9b8a7311e5",
+			"ed701cb3-1bb0-4acf-bffe-de33512f2177",
+			"67743118-3232-48d9-9730-5b308aece8fe",
+			"33f0efc0-acf0-41b0-9be0-2b0fa41e9ed8",
+			"4f74b797-4e37-4cc5-a4b6-8688c7ec77ba",
+			"e5b1f5ae-760d-473d-a4e2-a18041f2553d",
+			"ed7aed46-6819-49f3-9787-881a23752f91",
+			"5695d123-c794-4231-b3c1-50fbfe2f507c",
+			"722124f3-864c-411d-96cd-3cf004d42684",
+			"e238e5dc-e126-48f8-b841-3e30f9995721",
+			"543582a7-383b-4035-bd4b-cc16c2d11b6f",
+			"80bcb5ef-74c6-4b3e-844a-199acb2f78d8",
+			"87885ef1-9d1c-43c6-a852-4824a0cc1340",
+			"4f9951c3-044e-4948-baf2-a019bdb16299",
+			"11d633ce-09d1-427c-85b4-f88167630177",
+			"2c5e49f8-d2d9-4492-9042-5d6e149c75b1",
+			"a16d53b0-3839-4ee4-891d-07d0867438e6",
+			"17333068-eca0-4222-9d86-6083e694102a",
+			"d17635c7-cd15-46e8-b729-816179c87d39",
+			"478bf894-d0ce-492b-9eee-6e5a47e70013",
+			"787d0a52-cf5d-47c8-b749-74f83f603608",
+			"933b509b-ad6e-44e1-87fb-316b738b3cc8",
+			"68cc2880-d2e4-4915-a751-24b65ed2e6fb",
+			"3585f301-4ce7-4df8-9720-0d6ea2685dae",
+			"f039639d-e474-4ac5-8506-96ae4011a373",
+			"5c84da83-0540-4fa9-a3c2-5588eb23ec9d",
+			"7519e2fe-48fd-4451-bbff-e38a46003a2e",
+			"9d7ffbc6-6f2d-4226-b389-731845942e27",
+			"50529372-b630-4c49-9d59-8ef798175084",
+			"b4c8106d-4922-4834-ac3c-0f816c734019",
+			"8e90899d-7b98-421a-8ba4-1536d09a9f34",
+			"95e5daee-9124-444d-a498-5622d1173e62",
+			"f3e6b6ea-ac39-4b79-8012-ab5abc5a44a9",
+			"de4fc168-dc53-40e9-a8aa-af3dde982309",
+			"2e7fc13b-733a-4da6-bf1d-7c9422a30363",
+			"99ea2a9c-0e42-4baa-bcf6-e9ae92f09b16",
+			"557a0ded-0846-41aa-bd8a-edbdf1414798",
+			"3ca78deb-5a3d-4f55-bf4c-1c5573eb3bc4",
+			"469ae566-207c-4980-a209-8d41a894fd96",
+			"621c550c-3a3a-4973-a3b2-7ed26f991a03",
+			"535f1ac8-8cab-451f-b829-e37ed1a8030d",
+			"7537cb9e-ab07-4e2d-bb4e-88765bf5d72f",
+			"b94c2d56-3f75-49b6-b769-fb59d085bd54",
+			"b8340efb-e599-4c02-975f-fa4c402c677a",
+			"7226bbec-295e-4c4b-956b-10579c6d130b",
+			"b112a081-d273-4ceb-8e1b-0980e438ba9f",
+			"bd6444ca-ce2b-4b0d-97af-ab355e21c15c",
+			"d515bf71-1ce6-4b9a-9428-8f6e19023530",
+			"b47c10d6-6932-4143-aff8-ed1984cf8587",
+			"4d8a5b0e-8455-40c4-853d-7ff523f3896f",
+			"739b3891-4ecf-4a22-940b-8dfd5c5dc2ea",
+			"6b93b531-129b-4569-9287-ba2eb9e52b68",
+			"8400c029-1248-4402-acf9-3185a05b52d0",
+			"9130a70c-959a-4556-95b4-3ddc6522126c",
+			"69079984-a2cc-4f86-bed7-b93214d1dd70",
+			"9868c28e-8363-44f0-9f94-0cc46b90a030",
+			"cc6b320a-face-4739-a5e9-adf5863dfee7",
+			"67099c57-675d-4db5-96db-b166e85973c7",
+			"2d638394-d554-4748-a181-bf88a290e507",
+			"2556dbc7-ab5d-42d2-84f1-1c732f4f4f0c",
+			"8b65ee4c-2746-4c69-814e-77f32bec8fe1",
+			"748a1d9a-b883-4ed0-ba96-55394f4d0e89",
+			"843d1bce-1317-4fc4-a292-526a9dddf6cd",
+			"35780568-f0f6-4302-a97e-322f6894b568"
+		],
+		"syllabus_toelichting_id": [
+			"cdd24cf4-a22a-46e1-a8c3-4e38ff67ec10",
+			"f16a5017-3518-4f90-a5b4-8d88fc2c8066",
+			"2e962abe-3135-4612-ad0b-925bb7d120fa",
+			"77ae3b57-cab9-46f9-ada2-049ee168e17d",
+			"3cf7966c-b882-496d-81c9-23ec15fabacc"
+		],
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vwo/2020/f=/economie_vwo_2020_versie_2.pdf",
+		"examenprogramma_id": [
+			"b8284953-724c-4ee1-b757-71f9b4b431e4"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		],
+		"replaces": [
+			"fec8196b-7a2f-423c-94ae-ed49560387e3"
+		]
+	},
+	{
+		"id": "9f8a3ae4-e1d3-4c43-85b3-71873bfff759",
+		"title": "Syllabus Economie vmbo",
+		"syllabus_specifieke_eindterm_id": [
+			"9ae29f0e-2eca-4d46-8123-d898ea88b930",
+			"05dec1a7-cada-4574-ad7f-2a9a70fc97af",
+			"ec4c71df-88d8-4afc-8305-57a02eba9078",
+			"41f4cbfd-d237-41b4-8a4b-b36156cca6f5",
+			"9f9a7fdf-ce1e-4f26-a6f9-3f5c5a22ee95",
+			"8f0e363d-58fb-461d-8fec-9f54e6ed1ae7",
+			"0cc7794d-15dc-459e-a15e-49addcd7e9dc",
+			"a8393cbe-2f69-4021-93ab-f3abb96affa0",
+			"0017e5ef-7221-4ecb-af15-08f3392c2d5f",
+			"7896b0d6-5023-4c89-9c19-4f1a0962f584",
+			"d8945b84-effc-4430-b0db-21db27adba67",
+			"b8f1e00d-00da-4bad-9a25-4696ecb1a552",
+			"e46a22dd-395d-455b-b9b3-1b7c8f00eb1a",
+			"72c670b6-aa9d-4233-8b70-bd522ed8d0b4",
+			"47c257f8-1f01-4f00-9cab-a69de9dfafba",
+			"94376a26-93b0-4736-9020-2cd5fbf66c95",
+			"f27e6e4f-c7a4-4421-9ed8-0b777b2820cf",
+			"5d2bab60-2e88-4e4e-b02c-651b9efe71ce",
+			"a3efa6ac-9bea-47fe-a7c5-83f6146357b5",
+			"e31eb4b2-66bb-4d12-a7ca-bc7227a80826",
+			"e6345bd0-bfaf-4b59-8529-e9453fabc69e",
+			"ea5ed7bd-1f78-4dd1-9b18-5dd65d3cad0c",
+			"20e15437-c71a-4d5b-84d5-1b6fde0e10ff",
+			"6aa5177d-319a-4582-868b-7660b724198e",
+			"00d0a585-8120-4fa3-bc5a-1e4090e8ac0c",
+			"3accafcb-dd28-4de1-b8d8-84ba4975eb57",
+			"d21a12ff-ec8c-4c39-9493-16f580a7b94f",
+			"a65fdf77-bdb7-4504-b4f0-8d9941b9b920",
+			"2e874201-c54b-4edc-aeea-3c13ac5d2ec1",
+			"85556d99-2426-4cfb-ade9-e11e155a1840",
+			"7a3d2838-3420-4c73-afd6-ef697c6b51e9",
+			"5237cff7-9a74-46eb-bb27-c765288d2749",
+			"db48637b-398c-41b8-b15c-2347742e13d6",
+			"49ea4159-d71f-4d40-88f9-ec6e076c50b9",
+			"a6b113b9-2f93-41d1-957d-7397f8c3b5dd",
+			"a0d3f98b-05bc-43fd-b361-7e29f148cad8",
+			"f96b86ac-0998-4b76-a808-4181784f9268",
+			"7b8290d7-dd33-44e2-9213-13636828c69f",
+			"9cb04163-221d-4e10-b92a-95a901b9ecb5",
+			"8c36f08c-10c3-43b2-8536-440bcc221a64",
+			"0968d8b6-0157-488d-841b-abd26e7d9f15",
+			"c2f9a492-9791-439d-af0d-862158f44bbb",
+			"94c32a84-5080-4326-9cd1-8bfe84798d3c",
+			"2acb168b-d0a9-4b92-ade6-e39a0cc7c4ec",
+			"ca67964b-8287-4da4-8e4b-7b9364bf8a44",
+			"6e37578e-a489-4581-bea9-1b485627cb16",
+			"16088996-6331-4761-a3ac-4d7fafe8ff04",
+			"5682d03a-3995-4cbe-99bb-bafe5be0c0c0"
+		],
+		"syllabus_toelichting_id": [
+			"539a5eca-a1b0-4434-9ca6-56c055113de1",
+			"388f2831-7b8b-42f1-8e66-6bb60c3f40aa"
+		],
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-economie-vmbo/2020/f=/economie_vmbo_2020_versie_2.pdf",
+		"status": "def.",
+		"description": "",
+		"prefix": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		],
+		"examenprogramma_id": [
+			"adf337ad-8430-4c4c-b999-c855b2b5ff40"
+		],
+		"replaces": [
+			"7a95110b-9d2c-4afd-9f91-49a863d3a628"
+		]
+	},
+	{
+		"id": "135cac9b-77ef-414e-9e88-459ace5fa0fa",
+		"title": "Syllabus Biologie vwo",
+		"syllabus_specifieke_eindterm_id": [
+			"2b50a822-fd44-4496-8f76-f7c75621e54f",
+			"25b9cf29-7367-4b82-825d-a41620e75a8e",
+			"ab777bce-fae8-4754-abbd-29645446aadf",
+			"eb630c11-df86-4328-94dd-6a06cddac672",
+			"749f774b-7702-48f9-80a0-b39204b7b8d3",
+			"1c7d1729-440e-437e-8ad0-5aa44ae6d65a",
+			"cfbac93d-a564-47f6-a0b2-048b484644f3",
+			"42a1aaed-e9c5-4be9-beb4-f5bae8b1aa3c",
+			"556666c2-260a-4c15-9f02-988337c344c5",
+			"fc8592c8-eaab-4209-9355-dff3bf6573c8",
+			"de273067-b5f4-4d56-818e-0739816cd334",
+			"897484df-50d8-4c3a-9ff5-a442e6cefbab",
+			"044ca634-15ae-4ca2-9600-76a1a25781f2",
+			"e40adf10-7295-49d8-ba83-4ac73b124355",
+			"44813a33-d500-4feb-a1b0-9cbd0aaa6023",
+			"1ad6faa1-d2ce-4663-b1b0-52fd80256640",
+			"260313a8-01fb-4aeb-ab15-20fe3470567b",
+			"decf0946-2de4-4d53-a9f9-28e09be2885a",
+			"8325496d-4ad6-49b6-9e70-a335cd2c6d64",
+			"f00bdae3-e2de-44dd-9abd-668a61f96a39",
+			"d9b77a06-2496-43f6-8741-105b04152b51",
+			"a57631f1-0e23-4313-bf80-c0046a1e7421",
+			"07434ca9-4d94-4f9d-a9f2-eea2d35c8884",
+			"6b0188df-f9f0-4f85-abf5-382aea1c8989",
+			"c7926b9a-f22e-4b07-8ab4-ec06a6572f6a",
+			"b2e5e9e3-e8d5-412c-a38f-363b7fe017ef",
+			"8fbf75d3-c2bc-41a4-b31c-831b9cab47a3",
+			"69d05b6f-3948-4718-9644-9c235beffdd1",
+			"b2425c62-285b-4742-8c73-b85a7905bb04",
+			"01a01603-27d6-45e1-b805-bf90d1edb0e3",
+			"0be17845-78a5-4313-b5db-9cf8b2e15920",
+			"db44d71c-33e6-4c1f-9ee9-799112c1baff",
+			"194be2bb-3eae-439c-a2de-646c07c9acf8",
+			"6a7090ef-eac3-4c8a-8f8f-de082ed4b4e8",
+			"8b90d21d-6981-4f32-94ec-ca94a037b3aa",
+			"bfa0acf1-562e-4f73-a048-eaac531d48d8",
+			"7f7e9c2d-5b7a-4508-92d4-a3d48384de3c",
+			"a5927a80-5ec0-4851-b745-02bea82fc56a",
+			"295d45ef-6a5d-43b5-9ec4-992624051d4c",
+			"41ca7f90-f6c6-42d9-93a8-b1067b096011",
+			"603f9436-0246-41ba-a8ca-3d7d4780205b",
+			"b4aef026-afd8-438e-9b40-6b29c858ef2e",
+			"b10d0e2c-7a1c-4923-87c1-ec00e95ced91",
+			"dd9fee74-fe65-4d87-8c87-599f52dc9508",
+			"ee50638a-bade-45f8-9954-1d53318f1944",
+			"fe1338d8-29d7-4397-a43e-d064505b38bf",
+			"f7568eb9-7f9f-49c9-8651-244f4ee7acf1",
+			"78a2a21d-c8d1-417b-a93e-67ff25fa56a8",
+			"e2cd6c72-978c-4d38-b4b4-a7d3777030b7",
+			"24e3767a-8176-4d2e-9303-45748e9661f7",
+			"72d6984d-a6b0-4f99-a1f0-905796b6df63",
+			"108d6e2b-15c5-4613-8c8b-9272ac7e00ae",
+			"2583255f-5e00-4b54-bd1f-ba747c311904",
+			"3c1eb0a2-97fe-47cd-a7a8-484fa82286ae",
+			"1082f458-cb33-4b54-b415-2a492b286f94",
+			"3800508d-59b5-42e2-be12-7a1d26f010ec",
+			"ef8eed65-73e7-4252-8c2e-a3e269109642",
+			"b8b2b939-1774-432d-b792-e309bac5cbb9",
+			"af5a9007-17ce-4b4d-ab27-26da86745719",
+			"50c62c53-9bf0-4294-a1d1-3c0496f1a2ab",
+			"761c7d2f-bd09-42b0-88b5-150d031e8298",
+			"795ad2d3-d9ba-429e-9bf7-dac4fec39dc2",
+			"ac864d1c-5a3e-4565-911b-dca65aa60dc0",
+			"b261f0ad-84b6-448e-9cd8-4fa58bc52138",
+			"6c3b6aa5-f69d-475d-8dcd-83136dab2dd1",
+			"a716bc74-b5a6-4b05-a288-bce1e31f9b64",
+			"0a5ca995-a5f9-4740-add5-03819bd24682",
+			"102224a0-2545-43db-97b4-0d2306d64081",
+			"9b93814b-cc7d-4ae0-892d-24446ab446b5",
+			"3e3144d2-81fb-4100-8ce5-c554192632e8",
+			"452b60aa-7a24-4422-8603-6591fb319dd3",
+			"24392345-9cbc-4459-92e1-d759099d8ed6",
+			"2444c54b-2d3c-4b57-ae0b-ed1c1665f174",
+			"c24fd8a6-f65c-486e-a3de-e65d36ea919b",
+			"6a618a4b-fda1-4928-953c-72bf2621badb",
+			"70791187-2aeb-4498-ac69-d7268a3d1cbb",
+			"82bcfd7c-1b2b-487e-89b8-0d55c9527f5f",
+			"ee400f20-119e-4415-ba28-6eadf6751c7d",
+			"e5c1af5b-707e-49aa-b444-f3e7e445a787",
+			"f36ec9fc-7b86-4211-adce-253168be3758",
+			"30ef5f25-ea9e-473b-a1d0-88484318a9e6",
+			"bf264ad0-0095-426c-b728-e8897ad5969e",
+			"e583b91f-cf69-4556-bc97-a68470ba669f",
+			"dfd2797c-c8bf-43a8-a8ba-c98647540ad9",
+			"0c08fa0d-78c7-4a76-873f-55013a933da6",
+			"a7caec29-c4ea-4c11-8185-496fd1692ae6",
+			"9100f55d-5409-4ae4-a23e-2050eb065349",
+			"9d350ab5-170c-4cc1-858f-532c556089a5",
+			"a19dbb6b-880a-47fb-8115-4417cea3614d",
+			"84171bbc-756e-45d8-a0df-7ad040192f24",
+			"fb844472-ce4f-4970-b5ed-7bfe85249e34",
+			"8699d286-9027-4e22-8677-40b065025433",
+			"a0a58c95-ef5e-40a5-b7a4-0bb78e8a6760",
+			"285abd4b-ebe8-4ba0-aff7-a22f81e3077b",
+			"ed27d774-4415-457c-8dd5-adb6d93cdd0c",
+			"3ae5b304-5275-4024-8985-ee9b71dfd54c",
+			"03801a11-08f9-4438-9fc2-b8b0f49a2b27",
+			"4604335f-2681-47f4-bd2a-b8d1e5fc71fb",
+			"ee0db6d7-940c-4918-ac07-352863d8f493",
+			"cc7499b2-7055-4914-a2d5-3575d2890c24",
+			"451686a2-37f0-40be-b485-6f068db98d32",
+			"981ce5a9-fa74-43b2-bc78-38a203f5063e",
+			"c3239910-aeae-4fe5-9c90-70641172a6e7",
+			"b124be21-4127-44de-ba04-91e124dfa357",
+			"7eebab88-e3e7-448c-aff2-5a2f26edc094",
+			"b96039bf-6286-46d0-875b-f95c0f37fc39",
+			"5c46d0ce-91a3-4386-a4fc-98f0d8312a3d",
+			"63c3c70b-db9a-41d2-888b-6b8f0d228101",
+			"7f525f57-4ffb-4a0d-9b2d-3ad962a75558",
+			"1ddf9ad8-06ab-4fb0-b211-1c3b6e7a9924",
+			"9fe0decf-5e8e-454b-a893-c9620895e97d",
+			"35430f4f-2d3f-447f-833d-eb563ec6444d",
+			"a0342a0d-631d-48c8-b411-fe7ce596a09e",
+			"209b7e1c-f2ce-475f-a630-b6e058ab3424",
+			"0a837d72-a77e-413d-8eac-5ee0d1d36b77",
+			"3887ef88-a77e-432d-98b6-200e82934d3d",
+			"6c313054-166f-4eeb-ba28-643e88bdbb27",
+			"7828ff43-59ff-463b-ad20-484a05f69488",
+			"bf4eed8f-546d-4e53-a7f7-2066ac4b00d0",
+			"3fed86cc-b4af-4d61-a972-f231d3b8004a",
+			"09ffad63-07f3-43df-8a08-d1af4060172a",
+			"be2026f3-8a78-49a3-a45d-ec23e0a89053",
+			"4a3965d7-4dc6-4ccf-adad-6abe19f438ec",
+			"cb9d1b4a-25f0-4f88-add0-8f6e9a073640",
+			"1f23b74f-8044-48f7-88c2-deeb93f1e016",
+			"8f3f92ac-fb1f-455d-94ca-31cb34d3ba16",
+			"31ea9e6d-d94c-44a6-bacc-57ade7ad3c33",
+			"bc9d0518-d12b-44cd-9267-c604ea1ad9de",
+			"25713c69-827b-4628-bea2-62f15c28e688",
+			"d64e5bee-e9bf-404a-a059-525860e225cb",
+			"69470a8e-ae86-4c3d-b7dc-d64924b35622",
+			"d9f3d2b9-caae-4676-8498-160001fba66a",
+			"c39f921b-a58e-487f-a1b7-0b71093a608f",
+			"c3ec2197-8fd1-4aed-9fc8-558bf533223c",
+			"b5c9e671-9d2c-4fd1-b973-b2d8c5dea840",
+			"902a1c2a-c1c4-4a86-8c9a-a55653347875",
+			"0e5151e3-6ba8-4de2-b010-133a35c98bc5",
+			"7c963227-2143-4b49-8589-78ca5d0b52da",
+			"57ea90c5-0424-4d63-9703-faad2d8f50af",
+			"427ca53b-5d9d-4663-8719-a9a86df7e88f",
+			"93869a0a-9f30-4d38-b832-0a54ae19db5e",
+			"3102c779-c20d-4175-a7dd-0e1d70cfd5e2",
+			"dd2b8b73-5d5f-461f-83e5-bf384292a401",
+			"59538f7d-f414-4b72-bb25-267a06673b6c",
+			"2e6958ae-24f0-47ac-a2a7-bd7ad2d870ef",
+			"95a0f407-2377-4512-828b-41096172aa16",
+			"2c07c6bb-6b76-4552-abc9-e51691395ed9",
+			"e5dace91-e342-43a0-88a6-4c157f54eb74",
+			"03df0c18-dad8-46c0-a405-42a5098458f5",
+			"c33c8c63-3f13-46dc-b80a-4f19e12ec394",
+			"6eb5ddc7-f87e-4ebc-a70d-62b6c037648d",
+			"949c7b16-4932-4ecd-b364-bf9c4e468af1",
+			"4cb3a4f2-3822-47d0-a030-03b168196b3f",
+			"41e3f07d-7aaf-4590-826e-45f0b9f042a3",
+			"d68d650c-2134-4842-a071-bcbf3452ec46",
+			"6660bffe-72c4-40ca-b623-20ea18258280",
+			"8e1102c6-9083-46b9-a136-0f5b48438980",
+			"51ecdd00-8a40-4f05-8a15-58e89da79dfd",
+			"c6ae8522-54e3-442e-8220-c0e1917cfdd6",
+			"93e726f9-129c-4cdf-a799-57ab8745ec21",
+			"ff21dac5-52db-40e6-9bd9-5bcf3b8e6ec3",
+			"78b48801-0f51-4a8d-bb57-922c7d713028",
+			"46de1939-1faa-4546-8831-6d97c860c820",
+			"fbd99df1-3033-4f69-9179-3c5a69da14d4",
+			"d52cdde7-e92d-4fae-9f8c-2de6051ed7a6",
+			"a53f97ea-c92c-4f0f-8fb7-1c81d268034e",
+			"8401a1ed-9d4d-48d3-af29-e4ac32fa9c3c",
+			"d2ac99b4-8d84-46d2-bba8-19d024b0863b",
+			"d8f9e7f4-6ea5-4cb4-a3e9-d6e28651d66a",
+			"e753f5c0-9046-4bfb-8e71-0ad6b7c46dd9",
+			"983a6519-2a12-45a9-999c-ce72168fc3ed",
+			"c7a4486f-1dce-4647-b622-091d660eb0df",
+			"c44e035c-357f-4a78-b9d9-9657c7741304",
+			"4054eeab-1a22-40aa-a51b-2bf2994901a1",
+			"56543a7b-29b7-4f84-998d-eb8fb8d1da24",
+			"eadd676c-73ea-467e-952b-46f2efb75913",
+			"db371634-a3dc-4e8f-818c-f529003bf781",
+			"7b96aa4e-8b99-492f-bf98-1a5180ff74ed",
+			"056b413d-dd6f-463a-a4c1-c2b6f7c5eebc",
+			"271ccab5-62f7-429a-bbb8-307494b0a26e",
+			"13dca3fa-4c0e-4e8f-bc4e-90e7eaf148bc",
+			"42b6998b-4fa8-4311-be24-603996650adb",
+			"493b4692-ef0b-4624-8901-a17c90cf7d62",
+			"71d953b1-a863-4eee-9144-82e7923af646",
+			"40f1a99c-9b67-4c8d-b0e0-f38383613423",
+			"d817148b-7c68-4b0f-b3df-5514b57b8707",
+			"ff6b1751-2925-4851-9208-1c22c1fe59ce",
+			"39892ad1-2d4c-4aea-aa05-8f272cf235e3",
+			"3e7f3443-210b-424b-a8ab-4721c9fbbd27",
+			"28a3d837-f6cf-443f-8933-0ddc9289866f",
+			"2b1ad2df-84c7-4707-bf18-3bf2ab9a04a2",
+			"208e069e-d4cc-415a-a4b9-914372da2a33",
+			"12943e06-b5de-4f46-b113-b0daeb60240b",
+			"fafbbe28-b926-4e7f-a500-f854bbe2c9b4",
+			"c19aa139-b8f9-431c-b3d4-3bc98e88dc4f"
+		],
+		"syllabus_toelichting_id": [
+			"ba3e81d8-86d5-46f7-9532-93c2deaa932c",
+			"19218c72-1418-4cd4-ba77-7f609a8d3e84",
+			"dd7b316a-ddaa-45ff-8a54-851b6fd68446",
+			"14023738-c367-4eb6-81b4-7c57485e586f",
+			"00ea3672-6274-4a63-93db-ba2ebe5c1234",
+			"9883c7fe-4df0-46ac-b305-0c52b6caaf40"
+		],
+		"syllabus_vakbegrip_id": [
+			"bee44e51-7a8a-409c-80f3-544929057fc4",
+			"b3e6e1c9-6209-46fd-936e-3c3a8306f351",
+			"ed610f45-c8f8-49b7-b09e-c03333174738",
+			"f8679993-4bea-484a-b037-ff6f7d735889",
+			"ae904615-f8d5-49a2-8fe9-bf99929f6c5a",
+			"53f6fb02-1ebc-4531-a10a-e0416fae358b",
+			"2c5a5829-deb7-465a-a6fe-044416c3f89a",
+			"c7518196-ad48-4b1b-a662-8eab7de491a5",
+			"abed141e-acbe-470a-bcb2-a75d4ff0c332",
+			"976a72e2-4c1a-45f9-882c-6e35f8b77c31",
+			"b9a0188d-0361-42d1-90e0-02556a1aac0b",
+			"9d10f7f3-b595-4205-a1bb-1909f0526077",
+			"7008b962-043f-4c33-ac04-ac93ecc5d98a",
+			"0f7079c0-6928-4e8b-be13-c6961a8824be",
+			"f5c21f9c-30d9-4d0c-8e2f-f230a5fff314",
+			"baf7d76b-7500-448a-ab9b-d7a657b81a8d",
+			"4ff4ebf1-19a4-4fca-9992-efba3c3e396e",
+			"851d03b2-b549-40aa-948d-e2c78d04624c",
+			"7dbc6cb4-da1b-4241-8bdd-3cb474a79bac",
+			"f623e528-e5aa-4706-af47-d5aec074d368",
+			"771350fe-161d-4338-a478-d120a80169a2",
+			"6c92a443-68a1-4422-b49b-ea47d3831efd",
+			"bec978f5-56c8-4046-9764-a6d4a06fc5c1",
+			"272f7b4e-8293-4fb0-9aeb-b7a4a6927842",
+			"cdf02a75-82bc-450b-a565-b722a690ad59",
+			"3bcf46ab-3c65-4597-9176-d8a39314fc79",
+			"cdfde1b3-1762-4cf5-9a5e-664f5a53dd33",
+			"82fbede5-934b-407f-ad33-3d31a74a0908",
+			"90b969fa-36d9-4db3-ab41-c1023c78019a",
+			"4dbcc50c-2dbf-40b1-8155-a1e0d0baff53",
+			"9a6ccbdf-53fc-4517-a2e2-f18bda5e730b",
+			"06d007e9-a381-45aa-b802-52fd2587cc80",
+			"6963ccf2-2551-42e3-80af-887c403482f6",
+			"22771fc8-5ae8-4127-83f2-6efbb17f9d5a",
+			"db34fc3d-7d7d-4025-812a-5594724a7880"
+		],
+		"ce_se": "CE",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-biologie-vwo/2020/f=/biologie_2_versie_vwo_2020.pdf",
+		"examenprogramma_id": [
+			"92f57200-9ac6-449c-964c-b18c8996df85"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"d4e350b3-b83d-48c9-a6de-1b09f942c7bc"
+		],
+		"replaces": [
+			"43000602-18bc-40a0-a8dd-f7405a4d21cd"
+		]
+	},
+	{
+		"id": "c4eef263-8648-40c8-b60f-206339831722",
+		"title": "Syllabus Aardrijkskunde vmbo",
+		"syllabus_specifieke_eindterm_id": [
+			"7f403e70-323c-4480-9d7e-e2846621d5b3",
+			"879bda9c-5a3c-444a-8138-187dcdaea563",
+			"79183393-789c-41f0-bb9a-e9b7ddecd899",
+			"fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
+			"b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
+			"71cc1ba5-d6b9-498e-9642-93553d2fb7c6",
+			"b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
+			"836458b7-bbb9-4e11-a95f-7245e8b3a578",
+			"e4feb30e-f9c6-4d77-98a2-4fad54dca628",
+			"2a140987-3760-45cf-ac04-b5c5dfe06ab0",
+			"b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
+			"8e6153de-3e72-4c1a-b8ad-2785a581a7c1",
+			"8ad176d8-7308-4fd8-8628-fa4002989a88",
+			"38f2bdf4-b3a6-4a4e-b17c-f39232dbbb47",
+			"a5fdc6b3-1735-4414-aae4-529309444df1",
+			"b7e6fef2-7239-4659-a6df-31952d201ab1",
+			"b26bdeb9-fa3c-4372-a396-f5a80db033a9",
+			"06f72591-0cda-4a25-bbfe-4e364e6d804c",
+			"03d625f7-8ece-4410-9fa9-26bd739b7aea",
+			"4f2b327b-0cf6-49f9-99a4-96e55c4e2f37",
+			"95f66bf4-0e67-4d83-bca4-4a5a5e4e265d",
+			"a7919a84-88c8-43c1-9d27-eb5f8d3f7c42",
+			"a4559d94-c9f2-4eb8-bbba-8da7d0851b12",
+			"9a58cc23-bd5e-4fd2-b34b-402953f865a8",
+			"e9ca0afd-cdfe-44a5-90b8-4f3bcdef8994",
+			"4cc73ee9-cd8c-4b67-89b6-7b3de97b2385",
+			"5abd415e-0af3-40bf-971b-ebd6c90097ca",
+			"61747ff2-b246-42ca-b1f9-9218a5c1e968",
+			"43bd9110-b6ca-44e5-bbb1-4d09f8e68186",
+			"58e012df-bc2f-43c7-bc44-17623f813d3b",
+			"5f9d21ff-ac69-4d8c-be6d-b35b59fa60b5",
+			"2ed6d35f-d1d8-4061-9a37-053187ac4b21",
+			"b6462cc7-1f1d-407f-8813-48434d501e63",
+			"6470175f-6fff-4e93-a3e3-a4e273cd0f12",
+			"6d573c26-c5e3-48de-a057-f277ac88aa44",
+			"feba7a18-7b4c-4ec4-a742-53269f6dc328",
+			"ab370215-fa35-4505-a31f-2b35a3fce4bc",
+			"7dad5883-cb20-40c4-886a-972a466594b0",
+			"16cb7de8-afe4-4491-be09-09fb331227b6",
+			"c5410ae8-f1e8-434a-b06b-4d8ac1d46abb",
+			"8a0e84f4-2b1c-448e-83c8-8471de322a22",
+			"3eac5028-0da3-4c71-b43c-fe6705897b85",
+			"e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
+			"1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
+			"a11d098a-ea88-41f0-b88d-de4f01042612",
+			"62d1e847-0b3d-41e6-b56b-45aae2e50dee",
+			"8787dc0a-5c86-4da4-a1f6-23fcdbf73d00",
+			"f2cbf239-75ce-4c6e-92d2-6ce1fda9e196",
+			"0b0b387d-1b35-4012-9e0c-80403b133a0f",
+			"e212f1ae-7c85-41a0-94b5-60c6dd136a80",
+			"abbf8427-5b56-4c74-bc94-36b8c92f3b14",
+			"58843a76-d3d2-4e95-9f6d-679bbfa7269e",
+			"7a6b4b28-1b0a-4596-b925-22eeba55c091",
+			"19d045b3-e595-453b-ab50-c9a6cb381938",
+			"df36ddb4-dedc-401b-a66f-faf618e582e7",
+			"b4586d6b-5e98-4467-ae82-dc1667cbbd13",
+			"26ed3cf1-7ecc-4a03-af1e-e79e6d637e16",
+			"40e73201-e611-44f4-84b5-7ed5154eacc1",
+			"ecea0c72-9d5e-4ec3-82e3-5244debb36b6",
+			"0a191b30-aaf7-415a-8619-21a8bcf579ff",
+			"1ba6b51b-c7ea-4bbb-878b-0904281c7f86",
+			"1eedef36-af1c-48c0-bd11-61b2e69da927",
+			"367d4dce-9a70-4bbe-bf1f-f22011547ef5",
+			"eb7614f2-f1e2-42df-ad20-d1d10cc3b08b",
+			"2ff0d57f-af4f-4685-bc97-b06621ea8ab3",
+			"473351e9-913f-4a98-bbae-2a35b1e7264c",
+			"2f13db25-edba-49c1-a0f8-cb467915cd5b",
+			"202b14fa-a0b7-4ed4-827d-d1e89dd44179",
+			"9a96feca-7bb6-442d-afdb-74c59825f3c9",
+			"9b91b8bd-fc10-4e97-8169-9c94b20adfda",
+			"c504a1b4-80ea-42e8-8400-28fa222e75a1",
+			"2cade244-786b-48be-9fb4-8a471d6c2431",
+			"151e4732-3abc-4dc4-a840-dca1ea58b389",
+			"4134ad35-fedb-42d6-bfb0-c8f83677a82e",
+			"b53ddd3c-e9c4-4223-8969-7742bc9a3b9e",
+			"d69d3481-e7ef-417a-979d-a1b085e0dd9c",
+			"72d36aaf-77e5-4db2-b057-33ec9d82fd3a",
+			"516a3caf-b559-4d57-8027-f288098ec4df",
+			"2fe7596f-bb7b-43b4-a920-9c7ef580b069",
+			"2b7cfa13-50db-4a33-b5cf-ab1e43bb5b56",
+			"25d059a6-32f2-4ed0-a593-34ae5212607a",
+			"e1c35956-ec69-47ae-ad25-56a541ea38cc",
+			"67be68c8-0a7c-4016-90df-ab98fbbaf192",
+			"520a317a-db63-4966-9c9b-b2d979b7c071",
+			"5a597a10-db9e-4ef1-b824-05c5e26959c6",
+			"3e5ab581-abd5-43b6-8521-e833568a39fe",
+			"4ba4d83b-bccd-4b46-b5de-e0b3424bbdc8",
+			"f064ac05-8e34-4ad4-96ae-5971b546f1dc",
+			"59c4bf23-73e5-4059-bac6-ff4cce0da2a0",
+			"3416a2d6-37f0-44d0-8f85-4ebb76fcc4f9",
+			"bc66d184-1cd9-42f2-a023-c47fa0ac605e",
+			"0feb2069-1136-41b1-b136-ce8c4fc5f678",
+			"7cf3f067-7754-479c-aa66-df3cff0cd147"
+		],
+		"syllabus_vakbegrip_id": [
+			"3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+			"6ffdf547-1fa2-4006-9998-a1a2c97eaecd",
+			"fa5e030f-6cf7-4397-b086-f5d3c1527c0e",
+			"e774d834-c713-409e-9546-1f09baf744bd",
+			"89f48479-84d4-4299-9194-4f2842986e98",
+			"4a1f7479-30a9-4898-a416-d33c8d01260c",
+			"c488cee3-73fc-451b-9263-13078b930862",
+			"6d53af7b-1ca5-435a-bc7d-a1f9811d28c7",
+			"9fbdd9cd-b02c-49ca-aede-65fab5db82d4",
+			"736e2078-8650-4393-90ad-adb54ca97de7",
+			"b5e0ce20-1c59-4ebd-bcca-2ffb9a42676d",
+			"52ae6fb2-8e8d-44fd-a816-6140d8ca64b3"
+		],
+		"ce_se": "CE",
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vmbo/2020/f=/aardrijkskunde_vmbo_2020_versie_2.pdf",
+		"status": "Def.",
+		"examenprogramma_id": [
+			"544a0293-a7e3-4f6b-a973-30af7627bdea"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
+		],
+		"replaces": [
+			"a9f8ab5a-5998-48ba-a901-b273e6615ec3"
+		]
+	},
+	{
+		"id": "a6e62d23-6d88-4b72-b020-4451aa4b3128",
+		"title": "Syllabus Aardrijkskunde vwo",
+		"syllabus_specifieke_eindterm_id": [
+			"52d9d87d-9156-413a-a2fe-b6b719287a73",
+			"9bbe66a7-ac89-4a56-a65c-b63225e70ce6",
+			"68d91f3c-007f-4294-a446-2dcd0e96d7b5",
+			"9d044770-f8ff-4c61-8baf-39f5f7612731",
+			"ee446994-ce4c-45ae-a49b-29eb9eb5d128",
+			"42caabce-6edf-4124-bdfb-7bc88e0d2a3a",
+			"20143cd2-da3a-44e0-b4a6-1380d1a65e72",
+			"add18b1f-7d39-4991-8c0a-fd028cbc1593",
+			"d3b1ce89-89b7-411d-9f9e-4d09ae8989de",
+			"45796fa0-629c-40cf-93f5-b99cc47a4c0c",
+			"61bfd76b-d17c-4077-8946-4fd10f134b7e",
+			"e45c1ebc-ae93-4c9c-8b21-e592d9bca75b",
+			"6487c9e2-b0aa-4765-bf39-72840a9e0c9a",
+			"c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
+			"64930abe-36b8-4dfa-bc7c-0299853500f7",
+			"aa6c62cb-7edf-4157-a5a2-c2e359e38849",
+			"c2533654-0c74-40d0-817d-7567f5d11293",
+			"f0c02b0c-6f14-41fa-a3b2-2db835a9355d",
+			"87610bed-d96c-49d0-beb7-8209a5051d89",
+			"86bbf5f6-6f77-49b1-b592-c92aaf1e5e42",
+			"80722216-825e-4882-94ef-0df70d0f513d",
+			"fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
+			"160be35e-7518-4fb5-9746-89cd5b10e677",
+			"b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
+			"b129fee1-d5b3-452c-a157-02905344258d",
+			"233bbc36-86db-4010-933a-d7a764f19c9c",
+			"8ea0c097-a1e6-46d3-87ee-f67f6922404a",
+			"d1a75ed7-5a65-49c3-9a98-df7219bacd2d",
+			"2608d098-b9f5-48df-a0c3-2977ab9bad44",
+			"1135aa25-2a1c-4727-9524-2213d30f2a9b",
+			"127fe9b6-fe75-4390-9580-b746f7c5808c",
+			"8869ebfa-789b-44c0-ab76-3aa40ac67bb7",
+			"6a87caa4-fcf3-4129-b407-c887bfeb594b",
+			"7470cce5-a49b-4977-8880-3204cf187d8f",
+			"e28797e1-92bd-428e-bfdb-052a62047079",
+			"4b08356b-1675-4d24-abeb-1a819c9b5d4b",
+			"9535d99e-a398-491e-a61e-71b128135d87",
+			"174b5468-00f4-428d-a432-5037dc0359a4",
+			"548e0bc0-859a-415d-ba8b-c939e78ba5b1",
+			"7687df4f-719e-4016-8a68-f9eab8c17807",
+			"f63b5175-01c9-4bd1-aa42-27a271dedb75",
+			"e1865466-bd6b-4c52-9e6f-62ee110fc973",
+			"de42b9fb-1b03-4fe0-b650-b9c9b0380a10",
+			"134a507d-8823-49ec-87f9-86c0e563a43e",
+			"ca0da882-e7b7-404b-ad96-1454d339f4ab",
+			"74ade63b-5891-448c-a25b-0d9a113558fa",
+			"feffbd90-0209-4919-a537-3b195d9e80ab",
+			"a154f2bd-dee1-438e-800f-9a34e9cd7269",
+			"9767a7fa-47a9-434f-9598-caac96041aea"
+		],
+		"syllabus_toelichting_id": [
+			"4272453d-1376-4e23-b9b1-d697ca1dbf13",
+			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
+			"6db0c7be-11a3-4b46-a624-2551454debcf",
+			"5306687e-87c8-472f-a75d-8ca0fe9ef608",
+			"47562ccd-9606-41b3-b2e2-4cfbc0b0a286",
+			"53923262-f5a0-434b-94db-8e75fdc95ee9",
+			"1a547aba-a318-4259-b002-90e8faaaf713",
+			"1aab95af-729f-4855-bb54-14ca2a8f673f",
+			"621b96de-4526-4d01-b388-826fab3dd924"
+		],
+		"syllabus_vakbegrip_id": [
+			"d2f957d6-3305-41bb-b434-088906bf753d",
+			"9193d525-e605-4b63-842e-9b1d76b98a95",
+			"ebc73da6-195f-4198-a8f7-65ba157f1480",
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2",
+			"f3648277-1a3b-4186-95c9-e3654538b385",
+			"7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
+			"13f79a25-d6ef-4600-81e4-3a20efe32303"
+		],
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-vwo/2020/f=/syllabus_aardrijkskunde_vwo_2_versie_2020_vermelding_gebied.pdf",
+		"jaargang": "2020",
+		"status": "def.",
+		"examenprogramma_id": [
+			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
+		],
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
+		],
+		"replaces": [
+			"5e0288e6-91be-4284-acef-d6ab9ae67228"
+		]
+	},
+	{
+		"id": "26f54685-adcc-4708-8abf-fb9e6355fc85",
+		"title": "Syllabus Aardrijkskunde havo",
+		"syllabus_specifieke_eindterm_id": [
+			"63a8ab18-e90f-469b-9c36-43700b234793",
+			"cef7084f-343f-480f-9b9c-a802bd49925d",
+			"27aae361-384b-4444-9501-91cb91d5b3cc",
+			"7f0e3c3c-d92d-4b19-be7e-84f640f3cf76",
+			"a3926f80-8735-4f2d-a018-8776a897f352",
+			"3ff98659-8e15-486d-b190-858ac5d95c23",
+			"8f1fd7b1-8a2a-4d6d-9b23-9d25425a84fe",
+			"6648bb2c-dd11-41ff-a686-09ff0b79f105",
+			"074b4f70-f641-4726-8e16-8323188929e1",
+			"8d0e5fee-01c6-4e44-bb44-d16c4b22b9c7",
+			"2c0c1e19-e420-416e-bd0c-638bf0d8e88f",
+			"e62991d7-c1b3-414f-a40c-14cbb456571f",
+			"8658afb2-cf37-427c-aa4e-4d81c5f11e96",
+			"b044ed0b-cc82-41c1-8e0d-6d615fc6c115",
+			"1213766c-c5e8-4640-9c3b-42287b90cfcd",
+			"b5408605-bd94-4f8c-afac-88637460d47f",
+			"b9469404-3d07-4039-b39d-d0320f87b2c3",
+			"4a76e7aa-094c-4237-ba47-fb72f299715a",
+			"d1374c54-2d89-4f4f-8559-0ec183c11b6e",
+			"e3104224-6c99-4dad-b6f3-1946aeae9c0e",
+			"7e2b95f5-d009-4ecc-9b45-09aaac318801",
+			"d3cb77be-c9ff-4d4a-96bd-e4d52847b22a",
+			"97205271-efe2-4b8e-bf33-15582f66c0f0",
+			"c2985f6e-52a6-4dae-9401-6a15af89eb1f",
+			"499bd6eb-9f45-4e98-a394-d2e06a771abc",
+			"7f63cdcf-9237-4c5b-8f28-9248cdf4fe3e",
+			"46f0febd-3754-46ee-9d11-5c7f7b7ceb33",
+			"c728e2f8-b068-4d06-bbf6-23ccb1ceaaa4",
+			"b608153e-0923-4660-8e7c-c3e207dd432d",
+			"59d2b4ae-9f95-4910-84c5-f2b0abb46608",
+			"81ced6a4-92f0-4029-b281-7e679ff682d4",
+			"8529d976-e16e-4ada-9697-0e7627399863",
+			"9278e18c-9f9a-45d0-a37b-ab538942f06a",
+			"1198ead0-213f-4d26-a6b3-793684982640",
+			"85a8b7b4-6aaf-46aa-bd45-cbe9653be0e2",
+			"14ddba07-080d-4143-b409-ef4690e6d921",
+			"379451cf-69de-4502-898c-4fb242560bd9",
+			"3c1777ea-019f-4141-9bcf-fb3cb2d83260",
+			"14a71657-c1af-47c3-a9a9-4b1ee47cab8a",
+			"c3f79586-0d36-4b0d-a3a7-c0b34fb5c7c0",
+			"157eb785-7243-44c7-a246-e01229006db9",
+			"0d50d5f4-75bf-4815-b08f-25c75fd5eb86",
+			"8d83f739-8087-4bd3-b5e1-0307f336adeb",
+			"e4e0b6a1-22a4-4ada-9192-23d2165d0073",
+			"86268faf-6362-49af-b770-d1448d9a9412",
+			"c37b6050-af49-4882-ad1e-2dbd4382ae02",
+			"ae3fa9b4-f215-4280-a5a3-4a11b4de2c54",
+			"984a3f40-3fb7-48db-b942-1d2d16389523",
+			"3a7d84e4-5227-4907-8f09-29bc22402e92"
+		],
+		"syllabus_toelichting_id": [
+			"81fe3fc8-f93f-4f28-94f7-c45883846a27"
+		],
+		"ingangsdatum": "",
+		"examenjaar": "2020",
+		"versie": "2",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-2020-aardrijkskunde-havo/2020/f=/aardrijkskunde_havo_2020_versie_2.pdf",
+		"status": "def.",
+		"examenprogramma_id": [
+			"e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
+		],
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"85f2ed0a-794c-4269-b933-2eff604826a6"
+		],
+		"replaces": [
+			"32c94cbf-a11e-47c2-8403-c53e90777c18"
+		]
 	}
 ]
