@@ -35,6 +35,12 @@
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
 					]
+				},
+				"syllabus_toelichting_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/syllabus_toelichting" } }
+					]
 				}
 			}
 		},
