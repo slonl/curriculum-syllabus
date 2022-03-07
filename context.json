@@ -1,95 +1,5 @@
 {
 	"definitions": {
-		"syllabus_specifieke_eindterm": {
-			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
-			"properties": {
-				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
-				"prefix": { "type": "string" },
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
-					]
-				},
-				"examenprogramma_eindterm_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
-					]
-				},
-				"examenprogramma_domein_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein" } }
-					]
-				},
-				"examenprogramma_subdomein_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein" } }
-					]
-				},
-				"syllabus_vakbegrip_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
-					]
-				},
-				"syllabus_toelichting_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "#/definitions/syllabus_toelichting" } }
-					]
-				}
-			}
-		},
-		"syllabus_toelichting" : {
-			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
-			"properties": {
-				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
-				"prefix": { "type": "string" },
-				"syllabus_specifieke_eindterm_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "#/definitions/syllabus_specifieke_eindterm" } }
-					]
-				},
-				"examenprogramma_eindterm_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
-					]
-				},
-				"examenprogramma_domein_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein" } }
-					]
-				},
-				"examenprogramma_subdomein_id": {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein" } }
-					]
-				}
-			}
-		},
-		"syllabus_vakbegrip": {
-			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
-			"properties": {
-				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
-				"prefix": { "type": "string" },
-				"examenprogramma_eindterm_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
-					]
-				}
-			}
-		},
 		"syllabus_vakleergebied": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
@@ -148,8 +58,96 @@
 			},
 			"required": ["id", "title", "examenprogramma_id", "syllabus_specifieke_eindterm_id"]
 		},
+		"syllabus_specifieke_eindterm": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"description": { "type": "string" },
+				"ce_se": { "type": "string" },
+				"prefix": { "type": "string" },
+				"niveau_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+					]
+				},
+				"examenprogramma_eindterm_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
+					]
+				},
+				"examenprogramma_domein_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein" } }
+					]
+				},
+				"examenprogramma_subdomein_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein" } }
+					]
+				},
+				"syllabus_vakbegrip_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/syllabus_vakbegrip" } }
+					]
+				},
+				"syllabus_toelichting_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/syllabus_toelichting" } }
+					]
+				}
+			}
+		},
+		"syllabus_toelichting" : {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"description": { "type": "string" },
+				"ce_se": { "type": "string" },
+				"prefix": { "type": "string" },
+				"examenprogramma_eindterm_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
+					]
+				},
+				"examenprogramma_domein_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_domein" } }
+					]
+				},
+				"examenprogramma_subdomein_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_subdomein" } }
+					]
+				}
+			}
+		},
+		"syllabus_vakbegrip": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"description": { "type": "string" },
+				"ce_se": { "type": "string" },
+				"prefix": { "type": "string" },
+				"examenprogramma_eindterm_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json#/definitions/examenprogramma_eindterm" } }
+					]
+				}
+			}
+		},
         "allEntities" : {
             "properties" : {
+                "syllabus_vakleergebied_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+                    "items": {"itemTypeReference": "#/definitions/syllabus_vakleergebied" }
+                },
                 "syllabus_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": { "itemTypeReference": "#/definitions/syllabus" }
@@ -165,10 +163,6 @@
                 "syllabus_vakbegrip_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {"itemTypeReference": "#/definitions/syllabus_vakbegrip" }
-                },
-                "syllabus_vakleergebied_id" : {
-                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
-                    "items": {"itemTypeReference": "#/definitions/syllabus_vakleergebied" }
                 }
             }
         }
@@ -177,6 +171,20 @@
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"properties": {
+		"syllabus_vakleergebied": {
+			"#file": "data/vakleergebieden.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/syllabus_vakleergebied"
+			}
+		},
+		"syllabus" : {
+			"#file": "data/syllabus.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/syllabus"
+			}
+		},
 		"syllabus_specifieke_eindterm": {
 			"#file": "data/specifieke_eindtermen.json",
 			"type" : "array",
@@ -196,20 +204,6 @@
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/syllabus_vakbegrip"
-			}
-		},
-		"syllabus_vakleergebied": {
-			"#file": "data/vakleergebieden.json",
-			"type" : "array",
-			"items": {
-				"$ref": "#/definitions/syllabus_vakleergebied"
-			}
-		},
-		"syllabus" : {
-			"#file": "data/syllabus.json",
-			"type" : "array",
-			"items": {
-				"$ref": "#/definitions/syllabus"
 			}
 		},
 		"deprecated": {
