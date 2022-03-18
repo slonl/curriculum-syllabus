@@ -1182,7 +1182,10 @@
 		"ce_se": "CE",
 		"examenprogramma_id": [
 			"2adb6958-435d-4a60-828a-5814adac4f4f"
-		]
+		],
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -25290,7 +25293,6 @@
 		"id": "73157d37-f959-4759-a230-390991dd0f48",
 		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen. \nEconomische ontwikkelingen zijn de drijvende kracht achter globalisering. \nNetwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en op individuen. \nEconomische globalisering gaat vaak samen met culturele globalisering en politiek samenwerken tussen gebieden of landen. \nEconomische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen. \nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten. \nPolitieke globalisering leidt tot verandering van de positie van staten in politieke samenwerkingsverbanden.",
 		"ce_se": "CE",
-		"syllabus_specifieke_eindterm_id": [],
 		"prefix": "",
 		"description": "",
 		"replaces": [
