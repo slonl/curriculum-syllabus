@@ -4118,53 +4118,6 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42638,53 +42591,6 @@
 		"description": "Kaarten selecteren",
 		"replaces": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42698,53 +42604,6 @@
 		"description": "Kaarten lezen",
 		"replaces": [
 			"9cead215-9642-4f41-9cab-dec0d4a65fec"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42758,53 +42617,6 @@
 		"description": "Kaarten analyseren",
 		"replaces": [
 			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42818,53 +42630,6 @@
 		"description": "Kaarten interpreteren",
 		"replaces": [
 			"2bcf086c-c39d-4dde-a36b-d411d8ae281d"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42878,53 +42643,6 @@
 		"description": "",
 		"replaces": [
 			"ee934bf4-6b0d-4eb8-80fc-f84767ea8aac"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42938,53 +42656,6 @@
 		"description": "",
 		"replaces": [
 			"b7059be1-3727-495b-827b-f29a7aed4cf1"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -42998,53 +42669,6 @@
 		"description": "",
 		"replaces": [
 			"014b4a37-2d7b-4a38-82a9-6f15fe8b624a"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43058,53 +42682,6 @@
 		"description": "",
 		"replaces": [
 			"cc67f770-1290-4bad-9d50-cece367e449c"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1a",
-				"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43131,53 +42708,6 @@
 		"description": "",
 		"replaces": [
 			"d8711de6-437f-4f3e-86e7-2910e54d6526"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43191,53 +42721,6 @@
 		"description": "",
 		"replaces": [
 			"552f6b7d-95f3-4537-a9f4-49ebf7af163a"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43251,53 +42734,6 @@
 		"description": "",
 		"replaces": [
 			"fbc83147-99a6-4fc3-87bf-f5d3247c3257"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43311,53 +42747,6 @@
 		"description": "",
 		"replaces": [
 			"ab21f20b-3a7a-4ce5-ad13-44ddf0c89b62"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43371,53 +42760,6 @@
 		"description": "",
 		"replaces": [
 			"fe7307af-04b1-44da-9a28-f38ae8f5ff7f"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43431,53 +42773,6 @@
 		"description": "",
 		"replaces": [
 			"7223dff9-dd0f-403a-9f3c-737d2df28032"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1c",
-				"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43491,53 +42786,6 @@
 		],
 		"replaces": [
 			"b8f777d7-a6c6-4998-a5c3-e2130c0d713a"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinB/B2/4a",
-				"id": "7db4405a-ea3d-48f0-a1f1-5a2330889c74",
-				"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld mondiale spreidings- en relatiepatronen van economische, demografische en sociaal-culturele verschijnselen beschrijven en in hoofdlijnen verklaren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "d396a627-9202-40a9-844f-b5d8da88c714"
-							}
-						]
-					},
-					{
-						"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "d6d5435e-fb28-481e-8813-01d187130e73"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43551,53 +42799,6 @@
 		],
 		"replaces": [
 			"a706af28-839f-4419-83c7-a97a797f951f"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinB/B2/4a",
-				"id": "7db4405a-ea3d-48f0-a1f1-5a2330889c74",
-				"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld mondiale spreidings- en relatiepatronen van economische, demografische en sociaal-culturele verschijnselen beschrijven en in hoofdlijnen verklaren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "d396a627-9202-40a9-844f-b5d8da88c714"
-							}
-						]
-					},
-					{
-						"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "d6d5435e-fb28-481e-8813-01d187130e73"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43611,53 +42812,6 @@
 		],
 		"replaces": [
 			"a1070a67-ac38-414f-9804-f2a0e9d42e70"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinB/B2/4a",
-				"id": "7db4405a-ea3d-48f0-a1f1-5a2330889c74",
-				"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld mondiale spreidings- en relatiepatronen van economische, demografische en sociaal-culturele verschijnselen beschrijven en in hoofdlijnen verklaren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "d396a627-9202-40a9-844f-b5d8da88c714"
-							}
-						]
-					},
-					{
-						"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "d6d5435e-fb28-481e-8813-01d187130e73"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43671,53 +42825,6 @@
 		],
 		"replaces": [
 			"316b4880-44a1-434f-b1cd-815ad609186c"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinB/B2/4b",
-				"id": "54bf972b-fb44-4f5e-ae7b-f37845522ded",
-				"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld  het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "d396a627-9202-40a9-844f-b5d8da88c714"
-							}
-						]
-					},
-					{
-						"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "d6d5435e-fb28-481e-8813-01d187130e73"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43731,53 +42838,6 @@
 		],
 		"replaces": [
 			"96585cc8-6b18-403d-9408-ba6ff623423f"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinB/B2/4b",
-				"id": "54bf972b-fb44-4f5e-ae7b-f37845522ded",
-				"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld  het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "d396a627-9202-40a9-844f-b5d8da88c714"
-							}
-						]
-					},
-					{
-						"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "d6d5435e-fb28-481e-8813-01d187130e73"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43791,48 +42851,6 @@
 		],
 		"replaces": [
 			"c50d1475-68f3-4ad1-8843-ae6e6b0bf635"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7a",
-				"id": "8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijden ruimteschalen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43846,48 +42864,6 @@
 		],
 		"replaces": [
 			"e81a3043-a7e7-4520-8d74-a902e222eb0f"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7a",
-				"id": "8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijden ruimteschalen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43901,48 +42877,6 @@
 		],
 		"replaces": [
 			"e26494b7-c689-4d0a-97a9-68722fad20df"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7a",
-				"id": "8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijden ruimteschalen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -43956,48 +42890,6 @@
 		],
 		"replaces": [
 			"e6cefe7a-5f9b-413f-bb90-2888def56a9d"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7a",
-				"id": "8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijden ruimteschalen.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44011,48 +42903,6 @@
 		],
 		"replaces": [
 			"cd894aac-475a-4e37-9354-9a73d39de1c9"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7b",
-				"id": "3e445646-70d4-4db4-ae6b-f89e11b38913",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde de kenmerken van de landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44066,48 +42916,6 @@
 		],
 		"replaces": [
 			"9a72a475-f1ed-4b71-9a35-02db80704773"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinC/C2/7b",
-				"id": "3e445646-70d4-4db4-ae6b-f89e11b38913",
-				"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde de kenmerken van de landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f"
-							}
-						]
-					},
-					{
-						"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "15e550de-b304-459a-9fbb-5af70396f67d"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44121,48 +42929,6 @@
 		],
 		"replaces": [
 			"9e59721f-052d-4597-819b-58f7fb3fb73c"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44176,48 +42942,6 @@
 		],
 		"replaces": [
 			"171f2e3b-220b-4c38-9627-c4c243292b9c"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44231,48 +42955,6 @@
 		],
 		"replaces": [
 			"112ee084-efd7-4aaa-8d2b-70a5e747f6c0"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44286,48 +42968,6 @@
 		],
 		"replaces": [
 			"e0dbeaa7-8516-44b0-b9a4-aa69b63f289c"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44341,48 +42981,6 @@
 		],
 		"replaces": [
 			"89e22bea-f51a-46ea-bd2f-9748a9261694"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44396,48 +42994,6 @@
 		],
 		"replaces": [
 			"9ec21827-2435-436f-b1da-f9159d1da076"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44451,48 +43007,6 @@
 		],
 		"replaces": [
 			"a81aa608-eea8-4809-be8d-a4c69e8522da"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44506,48 +43020,6 @@
 		],
 		"replaces": [
 			"1caec618-935d-473b-a189-8aabcce5038e"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinD/D1/9a",
-				"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44561,49 +43033,6 @@
 		],
 		"replaces": [
 			"7e4ca16c-a6c4-4afa-bbc8-4b7cb9ea0c5e"
-		],
-		"childNodes": [
-			{
-				"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
-				"prefix": "9b.",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44617,49 +43046,6 @@
 		],
 		"replaces": [
 			"40751db4-5e29-42f8-8526-e70a4156a83e"
-		],
-		"childNodes": [
-			{
-				"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
-				"prefix": "9b.",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44673,49 +43059,6 @@
 		],
 		"replaces": [
 			"34499fbb-80b6-4c42-999a-ca02668a5346"
-		],
-		"childNodes": [
-			{
-				"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
-				"prefix": "9b.",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44729,49 +43072,6 @@
 		],
 		"replaces": [
 			"ceba831a-c62d-4ef0-83b3-e00f91adf105"
-		],
-		"childNodes": [
-			{
-				"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
-				"prefix": "9b.",
-				"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4"
-							}
-						]
-					},
-					{
-						"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "e348697b-75bb-4ac0-a742-975c4b97109b"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44785,53 +43085,6 @@
 		],
 		"replaces": [
 			"7a7478fe-ecd9-41cc-bd61-63c59fb76e12"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44845,53 +43098,6 @@
 		],
 		"replaces": [
 			"94c8943d-57e2-4795-9928-e27f8e1ef7c6"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44905,53 +43111,6 @@
 		],
 		"replaces": [
 			"44dbdc18-b9a2-44bd-81bf-59c82d22c30d"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -44965,53 +43124,6 @@
 		],
 		"replaces": [
 			"912b4858-af9f-40f1-a645-00b31995e775"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45025,53 +43137,6 @@
 		],
 		"replaces": [
 			"748312cf-e5d3-462d-8783-7e38814d3bc7"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45085,53 +43150,6 @@
 		],
 		"replaces": [
 			"34df7865-9090-4c86-b280-40b12df201da"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45145,53 +43163,6 @@
 		],
 		"replaces": [
 			"ea896233-8ebc-4749-8ae4-10ece96d8903"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11a",
-				"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45205,53 +43176,6 @@
 		],
 		"replaces": [
 			"03dc0358-df69-41e1-95e3-0cb2289a4feb"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11b",
-				"id": "c0a6d118-9998-40bb-883a-4ae007397235",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45265,53 +43189,6 @@
 		],
 		"replaces": [
 			"b34803f3-bfcf-4b57-870a-94d01adbb2c4"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11b",
-				"id": "c0a6d118-9998-40bb-883a-4ae007397235",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45325,53 +43202,6 @@
 		],
 		"replaces": [
 			"dfad925b-9def-4545-944f-17c3f43afe98"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinE/E1/11b",
-				"id": "c0a6d118-9998-40bb-883a-4ae007397235",
-				"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 0,
-				"kern": 0,
-				"keuze": 0,
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27"
-							}
-						]
-					},
-					{
-						"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
@@ -45384,56 +43214,6 @@
 		],
 		"replaces": [
 			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976"
-		],
-		"childNodes": [
-			{
-				"prefix": "AK/H/DomeinA/A1/1b",
-				"id": "f30785d5-8cc4-48d2-ad6b-0026ff65e77b",
-				"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
-				"niveau_id": [
-					"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-				],
-				"ce_se": "CE",
-				"description": "",
-				"ce": 1,
-				"se": 1,
-				"kern": 0,
-				"keuze": 0,
-				"replaces": [
-					"dbc378e5-07e8-4aac-9959-764335da89ff"
-				],
-				"section": "examenprogramma_eindterm",
-				"children": [],
-				"parents": [
-					{
-						"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
-						"type": "examenprogramma",
-						"ids": [
-							{
-								"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e"
-							}
-						]
-					},
-					{
-						"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-						"type": "examenprogramma_domein",
-						"ids": [
-							{
-								"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6"
-							}
-						]
-					},
-					{
-						"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-						"type": "examenprogramma_subdomein",
-						"ids": [
-							{
-								"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
-							}
-						]
-					}
-				]
-			}
 		]
 	},
 	{
