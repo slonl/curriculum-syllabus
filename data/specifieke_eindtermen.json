@@ -4114,11 +4114,13 @@
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1e",
 		"id": "a3926f80-8735-4f2d-a018-8776a897f352",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\n- kiest de leerling de geschikte projectie en schaal \r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\n- kiest de leerling voor een geschikte klassenindeling \r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
-		]
+		],
+		"dirty": true,
+		"description": "Kaarten maken"
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1b",
@@ -42591,7 +42593,8 @@
 		"description": "Kaarten selecteren",
 		"replaces": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1b",
@@ -42604,7 +42607,8 @@
 		"description": "Kaarten lezen",
 		"replaces": [
 			"9cead215-9642-4f41-9cab-dec0d4a65fec"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1c",
@@ -42617,7 +42621,8 @@
 		"description": "Kaarten analyseren",
 		"replaces": [
 			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1d",
@@ -42630,7 +42635,8 @@
 		"description": "Kaarten interpreteren",
 		"replaces": [
 			"2bcf086c-c39d-4dde-a36b-d411d8ae281d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.2a",
@@ -42997,7 +43003,7 @@
 		]
 	},
 	{
-		"prefix": "AK/H/DomeinD/D1/9a.3a",
+		"prefix": "AK/H/DomeinD/D1/9a.3b",
 		"id": "1198ead0-213f-4d26-a6b3-793684982640",
 		"title": "De kandidaat kan het ontstaan en de ruimtelijke spreiding van natuurlijke hulpbronnen in Brazilië op hoofdlijnen beschrijven en verklaren.",
 		"ce_se": "CE",
@@ -43007,10 +43013,17 @@
 		],
 		"replaces": [
 			"a81aa608-eea8-4809-be8d-a4c69e8522da"
+		],
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"36806a36-ae12-4c4b-b302-40047627ebf4"
+		],
+		"syllabus_toelichting_id": [
+			"da180070-0b51-4900-af36-d9075a42fe2a"
 		]
 	},
 	{
-		"prefix": "AK/H/DomeinD/D1/9a.3a",
+		"prefix": "AK/H/DomeinD/D1/9a.3c",
 		"id": "85a8b7b4-6aaf-46aa-bd45-cbe9653be0e2",
 		"title": "De kandidaat kan de gebruiksmogelijkheden voor de mens van verschillende landschappen in Brazilië beschrijven en verklaren.",
 		"ce_se": "CE",
@@ -43020,6 +43033,13 @@
 		],
 		"replaces": [
 			"1caec618-935d-473b-a189-8aabcce5038e"
+		],
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"36806a36-ae12-4c4b-b302-40047627ebf4"
+		],
+		"syllabus_toelichting_id": [
+			"da180070-0b51-4900-af36-d9075a42fe2a"
 		]
 	},
 	{
@@ -43206,14 +43226,19 @@
 	},
 	{
 		"id": "8d0e5fee-01c6-4e44-bb44-d16c4b22b9c7",
-		"prefix": "A1.1b.1",
-		"title": "De kandidaat kan geografische vragen herkennen en zelf formuleren",
+		"prefix": "AK/H/DomeinA/A1/1b.1",
+		"title": "De kandidaat kan aangeven waarover geografische vragen gaan.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b"
 		],
 		"replaces": [
 			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"cae5c4b9-d6b2-4262-a286-d2ea775f0833"
 		]
 	},
 	{
@@ -43464,5 +43489,15 @@
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/H/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b"
+		],
+		"title": "De kandidaat kan de volgende typen geografisch vragen herkennen en formuleren: beschrijvende vragen, verklarende vragen, voorspellende vragen, waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
+		"id": "0e5099de-67f8-45de-9f3b-768fda8a493c",
+		"unreleased": true
 	}
 ]
