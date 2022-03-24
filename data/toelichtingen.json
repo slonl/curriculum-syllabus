@@ -25731,9 +25731,10 @@
 	{
 		"ce_se": "CE",
 		"prefix": "AK/H/Domein A/A1/1b-toel.",
-		"title": "Geografische vragen zijn vragen over: - verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); - de manier waarop geografische kennis wordt verworven en\r\nweergegeven (aardrijkskundige kennisverwerving of werkwijzen); - ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"title": "Geografische vragen zijn vragen over: - verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); - de manier waarop geografische kennis wordt verworven en\r\r\nweergegeven (aardrijkskundige kennisverwerving of werkwijzen); - ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
 		"id": "cae5c4b9-d6b2-4262-a286-d2ea775f0833",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1c.1-toel.",
@@ -25872,7 +25873,9 @@
 		"prefix": "AK/H/DomeinD/D1/9a.3-toel",
 		"title": "Brazilië kent verschillende deelgebieden. Belangrijke zijn het Amazonegebied, het Hoogland van Brazilië en het Hoogland van Guyana. De regionale variaties in de hoeveelheid neerslag in Brazilië hangen onder andere samen met de ligging ten opzichte van hogeen lage drukgebieden, de ligging ten opzichte van zee(stromen) en het reliëf. De jaarlijkse variaties in neerslag en temperatuur in Brazilië hangen samen met de verschuiving van de ITCZ. In het noordwesten van Brazilië en de kuststrook komt tropisch regenwoud (selvas) voor. In het noordoosten ligt een droog gebied met struikgewas (caatinga). In het midden bevindt zich een savanne met bomen (cerrado). In het grensgebied met Bolivia en Paraguay bevindt zich een groot vlak moerasgebied. Brazilië is rijk aan delfstoffen waaronder ijzererts, bauxiet en aardolie. Brazilië heeft omvangrijke aardoliereserves, deels aangeboord. In Brazilië worden veel biobrandstoffen geproduceerd. Dit heeft naast voordelen ook nadelen voor mens en natuur. Brazilië heeft grote mogelijkheden voor het opwekken van hydro–elektriciteit.",
 		"id": "da180070-0b51-4900-af36-d9075a42fe2a",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "AK/H/DomeinD/D1/9b.1-toel",
