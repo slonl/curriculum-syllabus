@@ -5945,5 +5945,125 @@
 		"replaces": [
 			"8b11efc9-3c19-4212-b0b7-2e10577f31ed"
 		]
+	},
+	{
+		"ce_se": "ce",
+		"title": "Economische indicatoren: BBP/BRP, (gemiddeld) inkomen (per capita), koopkracht, (samenstelling van) beroepsbevolking; Demografische indicatoren: bevolkingsspreiding en dichtheid, bevolkingsgroei (fase in de demografische transitie), leeftijdsopbouw, verstedelijking; Sociaal-culturele idicatoren: analfabetisme, taal, godsdienst",
+		"id": "78d65ceb-0e73-4c3a-b705-526a910b0f98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Economisch: wereldsysteem: centrum, semiperiferie, periferie, internationale arbeidsverdeling, vestigingskolonie, exploitatie kolonie, dekolonisatie. Demografisch: demografische transitie, demografische druk, verstedelijking. Sociaal-cultureel: cultuurgebied, diffusie.",
+		"id": "784872b3-df7e-494f-af67-8b2bc4d78f86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Triade, Vrijhandel, Ruilvoet, Multinationale onderneming (MNO) / multinational, Arbeidsmigratie, Push en pull factoren",
+		"id": "5293364e-960b-43ca-9be4-c5c9b80dd8df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Tijd-ruimte compressie, Transporttechnologie, Communicatietechnologie, Economische globalisering: global shift - nieuwe internationale - arbeidsverdeling - productieketen - regionale en sociale ongelijkheid - afwenteling in ruimte en tijd - WTO, Culturele globalisering: Amerikanisering - Lingua franca - identiteit, Mondiale netwerken, Wereldstad",
+		"id": "5c3ac9da-c5a1-47a3-9659-e292295c2b25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Industrialisatie, De-industrialisatie, Zakelijke (en financiële) dienstverlening",
+		"id": "ac2ba66c-7923-4e7a-b734-f72d7a66336a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Platentektoniek: (mid)oceanische rug - subductie - diepzeetrog - lithosfeer - convergente plaatgrenzen - divergente plaatgrenzen - transforme plaatgrenzen - convectiestromen - hotspot, Vulkanisme: stratovulkaan - explosieve eruptie - caldera - schildvulkaan -  effusieve eruptie, Aardbevingen: schaal van Richter - tsunami, Gebergtevorming: breukgebergten (horsten en slenken) - plooiingsgebergten, Geologische tijdschaal",
+		"id": "514b5ed0-733e-4a5a-a3bf-9a1b55f4546b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "stroomgebied, verwering: mechanisch - chemisch, erosie, transport, sedimentatie: delta - morene - puinhelling - puinwaaier, aardverschuiving",
+		"id": "fd1a6a3a-88c9-447c-b9b5-34fa5604bead",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "hydrologische kringloop, gesteentekringloop, stollings-/dieptegesteenten: graniet - basalt, metamorfe gesteenten: marmer - leisteen, sedimentgesteenten: zand(steen) - kalksteen",
+		"id": "edaae129-3179-4fa7-821d-8b2fcfb3466f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "atmosferische circulatie / grote windsystemen: ITCZ / zone van equatoriale lage - luchtdruk - wet van Buys Ballot - passaat en moesson, oceanische circulatie: warmte zeestromen - koude zeestromen, klimaatgebieden (volgens Köppen), klimaatverandering (het gaat alleen om gevolgen voor het\r\nsysteem)",
+		"id": "dd3c6eab-459e-486e-a2bf-1d54839bb7fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "geofactoren: gesteente en reliëf - klimaat en lucht - bodem - water - plantenwereld - dierenwereld - de mens, landschapszones: polaire zone - boreale zone - gematigde zone - subtropische zone - aride zone - tropische zone",
+		"id": "e59a389c-9864-4f73-8ae2-35ead8de68f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "landdegradatie, vormen van landdegradatie: (versnelde) bodemerosie - verzilting - verwoestijning, oorzaken van landdegradatie: overbeweiding - ontbossing, irrigatie, drainage, duurzaam landgebruik",
+		"id": "48923604-925b-431c-8a36-9f7dd8da700d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "perceptie, stereotype, mental map, geografisch beeld",
+		"id": "34b526f9-1a04-4faf-9da6-93581a72fbfa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "verstedelijkingsgraad, verstedelijkingstempo, stedelijk netwerk, sloppenwijken (favelas), ommuurde woonwijken (gated communities), bevolkingsdruk, gezinsplanning, natuurlijke bevolkingsgroei, sociale bevolkingsgroei /migratie, etniciteit, mestizering, bevolkingsparticipatie, democratisering, good governance, BBP per hoofd /BRP per hoofd, import- en exportpakket, handelsbalans, Lorenzcurve, informele sector, grootgrondbezit, UNASUR",
+		"id": "c2e36f8b-b8ad-4fed-9d09-f2e8e0c3daf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "hoogvlakte/ hoogland, ertsen / ertsvorming, fossiele energiebronnen, Tropisch regenwoud (selva), savanne (cerrado en caatinga), mangrove, biodiversiteit, landroof (landgrabbing)",
+		"id": "36806a36-ae12-4c4b-b302-40047627ebf4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "UNASUR, etnische en culturele diversiteit, buitenlandse investeringen (Foreign Direct Investments)",
+		"id": "35d34385-d9fe-4bfe-af65-708cf5695988",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "externe economische relaties, BRIC(S),  exportgerichtheid /handelsoriëntatie",
+		"id": "f11c1f9f-c54b-4a33-b68e-b5973e6603bb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "stroomgebied, stroomstelsel, waterscheiding, waterafvoer: debiet - regiem - vertragingstijd - piekafvoer - verhang - verval, dwarsprofiel rivieren (benedenloop): uiterwaarden - zomerbed - winterbed, lengteprofiel rivieren: bovenloop - middenloop - benedenloop, klimaatverandering: zeespiegelstijging - temperatuurstijging, onregelmatiger neerslagregiem, menselijke ingrepen: verstening van het oppervlak - ontbossing - kanalisatie - stuw - krib - dijkverzwaring - waterkeringen",
+		"id": "824403f5-402d-4f98-a13d-bd9d595357a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "Rijkswaterstaat, Waterschappen, Tweede Deltacommissie, integraal waterbeleid, watertoets, ruimte voor de rivier, noodoverloopgebied, rivierbedverruiming: verdieping - verbreding/dijkverlegging - obstakels verwijderen - kribverlaging - nevengeulen aanleggen - uiterwaardvergraving, drietrapsstrategie: vasthouden (retentie) - bergen - afvoeren bevorderen, Rijnconferentie, overstromingsrisicobewustzijn",
+		"id": "969feffd-fb6b-49aa-ac2e-362144f2b4a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "creatieve stad,  kenniseconomie, Science Parks, zakelijke dienstverlening, duale arbeidsmarkt, publiek-private samenwerking, duurzame stad (sustainable city), Smart city",
+		"id": "ba51b964-f553-45f6-8897-a116849ecea2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"title": "buurtprofiel, woningkenmerken: naar ouderdom - naar eigendom - naar woningtype - naar onderhoud, bewonerskenmerken: naar grootte van huishoudens - naar etniciteit - naar inkomen - naar gezinsfase - naar leeftijd, woonomgeving, buurt-/ wijkvoorzieningen, sociale cohesie, sociale (on)veiligheid: objectieve (on)veiligheid - subjectieve (on)veiligheid, openbare ruimte: toegankelijkheid - onderhoud - overzichtelijkheid - toezicht, stadsvernieuwing, herstructurering, Gentrification",
+		"id": "4a52dfde-4a39-4cc5-90f0-9353c7f871f5",
+		"unreleased": true
 	}
 ]
