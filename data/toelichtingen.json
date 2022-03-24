@@ -25727,5 +25727,187 @@
 		"replaces": [
 			"95ecbc93-d7b3-471f-9927-d4a14d87898d"
 		]
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/H/Domein A/A1/1b-toel.",
+		"title": "Geografische vragen zijn vragen over: - verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); - de manier waarop geografische kennis wordt verworven en\r\nweergegeven (aardrijkskundige kennisverwerving of werkwijzen); - ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"id": "cae5c4b9-d6b2-4262-a286-d2ea775f0833",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.1-toel.",
+		"title": "Het vergelijken van verschijnselen en gebieden in ruimte en tijd. Het gaat daarbij om het maken van vergelijkingen door het aangeven van overeenkomsten en verschillen tussen gebieden en tussen verschijnselen. Het vergelijken van gebieden en verschijnselen wordt gedaan om categorieën te vormen. De\r\ndenkvaardigheid die daarbij wordt gehanteerd is: het onderscheiden van overeenkomsten en verschillen.",
+		"id": "68fe2987-0a69-443e-aeae-3aae22fb3601",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.2-toel.",
+		"title": "Bij het leggen van relaties gaat het om het aangeven van samenhangen tussen verschijnselen binnen een gebied (verticaal), met name tussen natuur en samenleving en tussen ruimtelijke structuur en gedrag, en om het aangeven van samenhangen tussen gebieden (horizontaal). Relaties worden gelegd om een samenhangend geografisch (wereld)beeld op te bouwen. De betreffende denkvaardigheid is: verbanden opsporen tussen gebieden (horizontale relaties) en tussen verschijnselen binnen gebieden (verticale relaties).",
+		"id": "95ee87e5-9cf7-432a-9c9c-76e1886f820f",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.3-toel",
+		"title": "Het beschrijven en analyseren van verschijnselen en gebieden\r\nvanuit verschillende dimensies wordt gebruikt om een\r\nkritische beschouwing te geven.\r\nDe denkvaardigheid is: verschillende aspecten aan een verschijnsel of gebied onderscheiden (natuur, economie, politiek, cultuur) en de samenhangen daartussen op sporen.",
+		"id": "61e1495e-84d8-4a13-a4db-82ffbaa669b1",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.4-toel",
+		"title": "Verschijnselen in hun geografische context plaatsen doe je door van verschijnselen en gebieden aan te geven uit welke delen ze bestaan en tot welke grotere gehelen ze behoren (wisselen van analyseniveau). De betreffende denkvaardigheden zijn: de structuur van een gebied beter begrijpen door een onderscheid maken tussen deelgebieden van een groter gebied (indelen) en samenhangen opsporen als nagegaan wordt tot welk groter geheel een gebied behoort (toedelen).",
+		"id": "b858db12-4662-4180-98e8-0cfeaa43c8ab",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.5-toel",
+		"title": "Het op verschillende schaal beschrijven en analyseren van verschijnselen en gebieden (veranderen van ruimtelijke schaal). Veranderen van ruimtelijke schaal wordt gebruikt om globale geografische beelden te detailleren (concretiseren) en om van gedetailleerde geografische beelden de essentie weer te geven (abstraheren). De betreffende denkvaardigheid is: een onderscheid maken tussen globale en gedetailleerde ruimtelijke patronen.",
+		"id": "0c0ad153-b786-43a3-b056-59c804dcb269",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1c.6-toel",
+		"title": "Verschijnselen en gebieden beschrijven en analyseren door het bijzondere en algemene te onderscheiden en relaties daartussen te leggen (inductief en deductief redeneren), doen we om te zien hoe algemene processen een specifieke vorm krijgen afhankelijk van het land of de regio waarin zij zich \r\nafspelen. De denkvaardigheid is: het algemene en bijzondere van een verschijnsel of gebied onderscheiden en de samenhangen daartussen opsporen.",
+		"id": "1cbcfeaf-4cce-42e0-a04e-e75fcd0e35d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4a.1-toel",
+		"title": "Indicatoren maken het vergelijken en categoriseren van landen mogelijk. Indicatoren op nationale schaal verhullen ruimtelijke en sociale verschillen.",
+		"id": "2fc43f91-4ff0-4f6f-bee4-f48171a5ce56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4a.2-toel/1",
+		"title": "Op basis van economische indicatoren kan de wereld ingedeeld worden in een wereldsysteem met een centrum, periferie en semiperiferie. Het (oorspronkelijke) mondiale centrum-periferie patroon hangt samen met de erfenis van het koloniale verleden en de internationale arbeidsverdeling die daar uit naar voren kwam. De periferie (het zuiden) raakt meer gedifferentieerd (opkomende landen, middengroep, achterblijvers).",
+		"id": "61b0a1c2-6717-4ee9-b0cc-8a73dcd2d8f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4a.2-toel/2",
+		"title": "Op basis van de demografische indicatoren kan de wereld ingedeeld worden naar fasen in de demografische transitie. Demografische transities zijn vaak gerelateerd aan economische ontwikkeling.",
+		"id": "9703824c-620a-4689-bd78-1bfba67579a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4a.2-toel/3",
+		"title": "Op basis van culturele indicatoren kan de wereld ingedeeld worden in cultuurgebieden. Talen en godsdiensten zijn (o.a.) door kolonialisme en migratie verspreid. Culturele grenzen zijn door huidige migratie en culturele uitwisseling steeds moeilijker te trekken.",
+		"id": "399391c6-f7bc-451c-8c4f-961c2693eb93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4a.3-toel",
+		"title": "Internationale handels- en investeringsstromen voltrekken zich in grote mate binnen en tussen de drie kerngebieden (de triade). Opkomende economieën en MNO’s uit deze landen spelen een steeds grotere rol in internationale handels- en investeringsstromen, China krijgt een grotere rol op het wereldtoneel, Zuid-Zuid handel en investeringen worden belangrijker. Internationale migratiestromen zijn al geruime tijd in grote mate Zuid-Noord gericht met als belangrijkste bestemmingen: NoordAmerika, EU en het Midden-Oosten. Internationale Zuid-Zuid migratie neemt toe met de economische\r\nontwikkeling van gebieden / regio’s.",
+		"id": "e3bddc5c-3671-4141-a003-bdedefce6c4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4b.1-toel",
+		"title": "Globalisering leidt tot integratie van gebieden en samenlevingen. Technologische innovatie en vrijhandel zijn de motoren van het globaliseringsproces. Economische globalisering leidt vaak tot grotere economische verschillen en concurrentie tussen gebieden en groepen mensen.\r\nCulturele globalisering leidt tot tegenreacties zoals de herwaardering van regionale (en nationale) identiteiten. Netwerken (van bedrijven, instellingen, migranten) omspannen de wereld en oefenen hun invloed uit op steden en gebieden, op sociale groepen en individuen. Wereldsteden spelen een\r\nbelangrijke rol in deze netwerken.",
+		"id": "08780012-0c73-404b-ace0-a96f7ec7339b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "AK/H/DomeinB/B2/4b.2-toel",
+		"title": "Groot-Brittannië als huidig kern land (centrum) en voorheen grote koloniale mogendheid, transformatie van een industriële naar een diensteneconomie, positie van wereldstad Londen in mondiale economie.  India als voormalige Britse kolonie en opkomende economische mogendheid, diversificatie van de economie, positie in de mondiale economie. In beide landen nemen onder invloed van globalisering de sociale en ruimtelijke verschillen toe. (Historisch gegroeide) economische en culturele banden tussen beide landen zijn zichtbaar in (huidige) handels-, investeringsen migratiepatronen.",
+		"id": "73f33b0e-58a1-4487-b29b-4e107bccc8aa",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7a.1-toel",
+		"title": "Platentektoniek is een systeem van interacties tussen delen van de aardkorst. De beweging en de interactie worden veroorzaakt door de interne hitte van de aarde. Het actualiteitsbeginsel: the present is the key to the past. (Het uitgangspunt dat fysische processen zoals die nu plaatsvinden in het  verleden ook zo plaatsvonden). Plaatbewegingen veranderen de aardkorst: vulkanen, aardbevingen en gebergten ontstaan. Het eruptietype van een vulkaan weerspiegelt zich in de vorm.",
+		"id": "36cda7dc-d7a3-455d-957e-41cb4b2cf3b3",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7a.2-toel",
+		"title": "Door verwering en erosie worden gesteenten afgebroken. De verweringsvorm die overheerst in een gebied wordt hoofdzakelijk bepaald door de klimaatomstandigheden. Stroomsnelheid en transportmechanisme bepalen de korrelgrootteverdeling van het sediment.",
+		"id": "89f565b4-cd99-4039-97e6-2ec6fa88a882",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7a.3-toel",
+		"title": "Endogene krachten bouwen het reliëf voornamelijk op en exogene krachten breken het voornamelijk af. Onder invloed van de gesteentekringloop en de hydrologische kringloop ontstaan er nieuwe gesteenten en nieuw reliëf.",
+		"id": "8c54ba11-c4c6-44de-8d8f-024902fb7816",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7a.4-toel",
+		"title": "Zee- en luchtstromen zorgen voor verdeling van koude en warmte over de aarde. De verdeling land-zee veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon. De ligging van hooggebergten veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.",
+		"id": "aa7ee115-9ef0-4435-847c-1c22e073eee7",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7b.1-toel",
+		"title": "Het landschap is een dynamisch systeem: als één van de geofactoren verandert, leidt dat tot verandering van de andere factoren.  Vooral het klimaat is bepalend voor de natuurlijke begroeiing.  De combinatie van klimaatzone en begroeiing vormt de (natuurlijke) landschapszones op aarde. De grenzen tussen klimaat- en landschapszones vallen niet altijd met elkaar samen, waardoor de grenzen tussen de landschapszones geleidelijke overgangen zijn.",
+		"id": "4acae08a-c57e-4113-a97b-984dfaa131a3",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2/7b.2-toel",
+		"title": "Landschapszones veranderen door (intensief) menselijk gebruik. De gevoeligheid voor landdegradatie verschilt per landschapszone. Duurzaam landgebruik kan processen van landdegradatie stoppen of voorkomen.",
+		"id": "df47cff0-7fe9-47ba-a78c-1179d8c584d1",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1/9a.1-toel",
+		"title": "Vanuit de culturele dimensie is het beeld van Brazilië voor velen dat van muziek, dans, sport, kleding en religie. Vanuit de natuurlijke dimensie is het beeld van Brazilië voor velen dat van (bedreigd) oerwoud. Het imago van Brazilië kent verschillende paradoxen zoals gated communities naast krottenwijken en oerwoud naast grote landbouwgebieden en steden. Brazilië is een groot land met veel buurlanden, veel grote steden en veel grote rivieren.",
+		"id": "ef225b07-0060-4c0a-aa3c-2c38d234685b",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1/9a.2-toel",
+		"title": "Brazilië exporteert grondstoffen en agrarische producten maar ook hoogwaardige industrieproducten. Brazilië importeert vooral eindproducten. De economische groei van Brazilië is aan het begin van 21e eeuw enerzijds gebaseerd op een toenemende vraag naar grondstoffen en buitenlandse investeringen die hiermee gepaard gaan en anderzijds op toenemende industrialisering en tertiarisering. De informele sector is niet erg zichtbaar, maar speelt een grote rol in de economie van Brazilië.  Eind 20e eeuw gestart sociaaleconomisch beleid draagt bij aan economische groei en een vermindering van de armoede. Dit heeft ook invloed op de bevolkingsopbouw: vergrijzing, kleinere gezinnen. In het dagelijks leven spelen raciale verschillen een grote rol. De bevolking van Brazilië is in hoge mate gemestizeerd. Daarnaast zijn er van oorsprong inheemse, Afrikaanse, Europese en Aziatische  bevolkingsgroepen. Ondanks de toenemende sociale mobiliteit is er nog steeds een grote kloof tussen arm en rijk met bijbehorend verschil in ontwikkelingskansen. De kustprovincies zijn het meest ontwikkeld, het dichtst bevolkt en het meest gemoderniseerd maar ook binnen de kustprovincies zijn er grote verschillen. De verstedelijkingsgraad van Brazilië is hoog. Het verstedelijkingstempo ligt in het binnenland hoger dan aan de kust.",
+		"id": "d63f2f49-d0af-4e5b-8597-6dd0631478ba",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1/9a.3-toel",
+		"title": "Brazilië kent verschillende deelgebieden. Belangrijke zijn het Amazonegebied, het Hoogland van Brazilië en het Hoogland van Guyana. De regionale variaties in de hoeveelheid neerslag in Brazilië hangen onder andere samen met de ligging ten opzichte van hogeen lage drukgebieden, de ligging ten opzichte van zee(stromen) en het reliëf. De jaarlijkse variaties in neerslag en temperatuur in Brazilië hangen samen met de verschuiving van de ITCZ. In het noordwesten van Brazilië en de kuststrook komt tropisch regenwoud (selvas) voor. In het noordoosten ligt een droog gebied met struikgewas (caatinga). In het midden bevindt zich een savanne met bomen (cerrado). In het grensgebied met Bolivia en Paraguay bevindt zich een groot vlak moerasgebied. Brazilië is rijk aan delfstoffen waaronder ijzererts, bauxiet en aardolie. Brazilië heeft omvangrijke aardoliereserves, deels aangeboord. In Brazilië worden veel biobrandstoffen geproduceerd. Dit heeft naast voordelen ook nadelen voor mens en natuur. Brazilië heeft grote mogelijkheden voor het opwekken van hydro–elektriciteit.",
+		"id": "da180070-0b51-4900-af36-d9075a42fe2a",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1/9b.1-toel",
+		"title": "Brazilië trekt economisch en politiek in Zuid-Amerika de rol van leider naar zich toe. Brazilië concurreert met andere landen in Zuid-Amerika als vestigingsplaats voor bedrijven. Brazilië heeft een actieve rol bij de geografische ontsluiting van Zuid-Amerika. De ontsluiting van Zuid-Amerika staat vaak op gespannen voet met duurzaamheid en culturele diversiteit.",
+		"id": "20fca9e0-088c-4410-b0ff-e5081f4c2517",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1/9b.2-toel",
+		"title": "De omvang van de handel van Brazilië met andere landen groeit en de samenstelling van de handel verandert. Brazilië is mondiaal politiek, cultureel en economisch steeds meer zichtbaar. Brazilië is in toenemende mate een belangrijke toeristische bestemming.",
+		"id": "7e163b3b-1b5a-40be-9844-eaa9b29c274e",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinE/E1/11a.1-toel",
+		"title": "De grootste overstromingsrisico’s in Nederland ontstaan bij een combinatie van springtij, noordwesterstorm en piekafvoer van de rivieren. Klimaatverandering draagt bij aan een onregelmatiger regiem van de rivieren. Menselijk ingrijpen in het stroomgebied heeft geleid tot een onregelmatiger regiem, verkorting van de vertragingstijd en verhoogde piekafvoer. Zeespiegelstijging kan de afvoer van rivierwater en het spuien van water op zee bemoeilijken. Afsluitbare waterkeringen moeten er in combinatie met bergingsgebieden voor zorgen dat bij extreme omstandigheden overstromingsrisico’s beperkt worden, maar dat rivieren tijdens normale omstandigheden hun water kunnen afvoeren naar zee. In het IJsselmeergebied en de Zuidwestelijke delta zijn er overstromingsrisico’s als bij (noord)westerstorm het water wordt opgestuwd.",
+		"id": "28a3c9b8-6f2b-44b4-ab72-607900a00ccd",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinE/E1/11a.2-toel",
+		"title": "Sinds de Tweede Deltacommissie ligt de focus van het waterbeleid op integraal waterbeleid. Er spelen in Nederland allerlei vraagstukken op het gebied van wateroverlast en overstromingsgevaar en die vraagstukken spelen op verschillende schalen. Dit vereist een samenhangend beleid. Maatregelen ter beheersing van het regiem betreffen niet alleen het rivierstelsel, maar omvatten het gehele stroomgebied. Er is in Nederland in 1995 een breuk opgetreden in het denken over overstromingsgevaar van de grote rivieren. De Zuidwestelijke delta moet overtollig rivierwater tijdelijk opvangen bij extreme omstandigheden. De Tweede Deltacommissie heeft voorgesteld het peil van het IJsselmeer te verhogen om spuien op de Waddenzee ook in de toekomst mogelijk te maken en om een grote strategische zoetwatervoorraad te hebben.",
+		"id": "f884f648-221e-4af0-88b8-5b9c8cebfdaa",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinE/E1/11b.1-toel",
+		"title": "Steden zijn de motor van de kenniseconomie, de creatieve economie wordt steeds belangrijker. Stedelijke (economische) ontwikkeling vereist bestuurlijke samenwerking over de grenzen van de stad heen en samenwerking tussen bestuur, bedrijfsleven en burgers. Er spelen belangrijke vraagstukken in steden rondom duurzaamheid, leefbaarheid en werken. Dit vraagt om gedachtevorming over de stad van de toekomst.",
+		"id": "f235b171-9178-4d90-929c-54a84d2c2c68",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/H/DomeinE/E1/11b.2-toel",
+		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland. Leefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving. De leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en de sociale netwerken. De beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief. Bij stadsvernieuwing was er sprake van het fysiek opknappen van de woning voorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling) ingegrepen.",
+		"id": "b45261ee-2a3c-4359-a5d5-6a45442fb3be",
+		"unreleased": true
 	}
 ]
