@@ -654,7 +654,9 @@
 			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
 		],
 		"title": "verzekeren, levensverzekering, schadeverzekering, lenen, consumptief krediet, hypothecair krediet, rente- en aflossingsverplichtingen, financiële gevolgen, sparen, enkelvoudige en samengestelde interest, contante waarde, eindwaarde, direct opneembare en niet-direct opneembare spaartegoeden, bedrijfspensioen als een vorm van verplicht sparen, beleggen, aandelen, obligaties, beleggingsfondsen, effectenbeurs.",
-		"id": "77b88ece-356b-48b5-8ad4-9e3ebbb71856"
+		"id": "77b88ece-356b-48b5-8ad4-9e3ebbb71856",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -662,7 +664,10 @@
 			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
 		],
 		"title": "huren, kopen, partijen op hypotheekmarkt, bank, hypotheekadviseur, makelaar, notaris, hypothecair krediet, lineaire hypotheek, annuïteitenhypotheek.",
-		"id": "33601ce1-c1dd-410c-8f24-67aa85015564"
+		"id": "33601ce1-c1dd-410c-8f24-67aa85015564",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -670,7 +675,10 @@
 			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
 		],
 		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract, trouwen, geregistreerd partnerschap, scheiden, in -beperkte-gemeenschap van goederen, op huwelijkse voorwaarden/partnerschapsvoorwaarden, partnerpensioenrechten, alimentatie, schenken, overeenkomst om niet, schenkbelasting, belastingvrijstelling, verijstellingen bij schenkingen aan ANBI, erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving/beneficiair aanvaarden, zuiver aanvaarden, erfbelastingen en vrijstellingen.",
-		"id": "c26f5ec2-2999-4fae-8fe1-4aeb97ef1c8e"
+		"id": "c26f5ec2-2999-4fae-8fe1-4aeb97ef1c8e",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -678,7 +686,10 @@
 			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
 		],
 		"title": "causation, marktdefinitie, segmentatie (geconcentreerd, gedifferentieerd, ongedifferentieerd), positioneren, effectuation, nieuwe markten en uitgaan van beschikbare middelen, strategische partners, stakeholders.",
-		"id": "5abb1bbd-4189-4614-b5cc-1d93c3e94f66"
+		"id": "5abb1bbd-4189-4614-b5cc-1d93c3e94f66",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -686,7 +697,10 @@
 			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
 		],
 		"title": "persoonlijk plan, persoonlijke gegevens, persoonlijke motieven, persoonlijke kwaliteiten, marketingplan, het idee, trends en ontwikkelingen, doelgroepen, concurrentie, SWOT analyse, product, prijs, promotie, plaats/distributie, doelstellingen. Financieel plan, investeringsbegroting, financieringsbegroting, exploitatiebegroting, liquiditeitsbegroting.",
-		"id": "a811226c-6289-4493-a040-d4ef43c9e5dd"
+		"id": "a811226c-6289-4493-a040-d4ef43c9e5dd",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -694,7 +708,10 @@
 			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
 		],
 		"title": "oprichtingsverplichtingen, inschrijving bij Kamer van Koophandel, registratie bij de Belastingdienst, vergunningen.",
-		"id": "54fcd120-d9fa-4fde-bdd5-402017d98a75"
+		"id": "54fcd120-d9fa-4fde-bdd5-402017d98a75",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -702,7 +719,10 @@
 			"af1daaa8-cf10-4d96-91da-59225b8317c0"
 		],
 		"title": "rechtsvorm: natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap, stichting, vereniging, organen binnen organisatie: bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders, beëindigen organisatie: surseance van betaling, faillissement, zonder bedrijfsopvolging/verkoop.",
-		"id": "334ea6c3-08d5-40d1-bcb7-26cc2f4a3e0a"
+		"id": "334ea6c3-08d5-40d1-bcb7-26cc2f4a3e0a",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -710,7 +730,10 @@
 			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
 		],
 		"title": "absolute omvang, relatieve omvang:  marktaandeel (afzet en omzet), doelstelling: commercieel, niet-commercieel, maatschappelijke behoeften: product of dienst, werkgelegenheid, innovatie, belastingopbrengsten, inkomen, controleverklaring: verslaggeving.",
-		"id": "ea93bd50-7676-4bd5-9fe7-992a8dc9fd39"
+		"id": "ea93bd50-7676-4bd5-9fe7-992a8dc9fd39",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -718,7 +741,10 @@
 			"185cf54f-8835-4a27-af49-be9ed99f5a89"
 		],
 		"title": "arbeidsrelatie: individuele arbeidsovereenkomst, ZZP, voorwaarden individuele arbeidsovereenkomst: gezagsverhouding, arbeidsverplichting, loon, vormen individuele arbeidsovereenkomst:  voor onbepaalde tijd, voor bepaalde tijd, oproep, nul-uren, wetgeving: ontslagrecht, arbowetgeving, personeelsvertegenwoordiging, ondernemingsraad, vakbond, beloningsvormen, in geld, in aandelen, carrièreperspectief, mogelijk tot professionele ontwikkeling.",
-		"id": "b6184c12-c7ff-455d-9402-ee252a391fed"
+		"id": "b6184c12-c7ff-455d-9402-ee252a391fed",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -726,7 +752,10 @@
 			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
 		],
 		"title": "Financieringswijzen, banken, overige vermogensverschaffers, eigen inbreng",
-		"id": "57af86ad-5429-473e-a682-37a0d8dcb5f2"
+		"id": "57af86ad-5429-473e-a682-37a0d8dcb5f2",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -734,7 +763,10 @@
 			"405ca3fd-c731-4a8f-b2fc-f14677adc03e"
 		],
 		"title": "vermogensmarkt, openbaar en onderhands vermogen, effectenbeurs, aandelen, obligaties, beleggingsfondsen, koersverloop, toezichthouders, AFM, DNB, ACM",
-		"id": "9a8cb35e-6ee2-4e3d-80e9-658382efe07f"
+		"id": "9a8cb35e-6ee2-4e3d-80e9-658382efe07f",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -742,7 +774,10 @@
 			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd"
 		],
 		"title": "aandelenkapitaal: maatschappelijk aandelenkapitaal, geplaatst aandelenkapitaal, aandeel: nominale waarde, intrinsieke waarde, emissiekoers, agio op aandelen, beurskoers, lang vreemd vermogen: hypothecaire lening, onderhandse lening, obligatielening, kort vreemd vermogen: rekening-courantkrediet (bankkrediet), leverancierskrediet, afnemerskrediet.",
-		"id": "87089cec-63d2-4b29-a362-67b4a8cc6ac9"
+		"id": "87089cec-63d2-4b29-a362-67b4a8cc6ac9",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -750,7 +785,10 @@
 			"a71428de-c563-4aa6-b71a-40109e9556a6"
 		],
 		"title": "de verhouding eigen vermogen/vreemd vermogen, faillissementsrisico",
-		"id": "008696b5-3c38-4cff-82df-b48b57f0055f"
+		"id": "008696b5-3c38-4cff-82df-b48b57f0055f",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -758,7 +796,10 @@
 			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
 		],
 		"title": "marketingmix, productbeleid, prijsbeleid, plaatsbeleid, promotiebeleid, marketingstrategie, push-strategie, pull-strategie, marketing, B2C (Business to Conumer), B2B (Business tot Business), C2B (consumer to Business), C2C (Consumer to Consumer).",
-		"id": "75d80f6a-6f82-4983-9b2e-34e48eafdaa0"
+		"id": "75d80f6a-6f82-4983-9b2e-34e48eafdaa0",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -766,7 +807,10 @@
 			"439b7592-f5e3-4941-a04f-341a73d6ae75"
 		],
 		"title": "financiële feiten: inkoop (en ontvangst) van goederen en diensten (contant en op rekening), verkoop (en aflevering) van goederen en diensten (contant en op rekening), aflossen van schulden, afschrijving (op basis van aanschafwaarde), btw aangifte, privéontvangsten en -uitgaven, overige ontvangsten per kas en bank, overige utigaven per kas en bank, financiële overzichten, beginbalans, liquiditeitsbegroting, exploitatiebegroting, geprognosticeerde eindbalans, winst- en verliesrekening, afzet, verkoopprijs, omzet, kosten, bedrijfsresultaat, financieringsresultaat, resultaat voor winstbelasting, resultaat na winstbelasting, eigen vermogen, verandering liquide middelen, liquide middelen, gerealiseerde balans, voorraadgrootheden, stroomgrootheden, overlopende posten, nog te betalen bedragen, nog te ontvangen bedragen, vooruit betaalde bedragen, vooruit ontvangen bedragen.",
-		"id": "9615ff1c-f0ff-481b-83a0-54269375e2f4"
+		"id": "9615ff1c-f0ff-481b-83a0-54269375e2f4",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -774,7 +818,10 @@
 			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
 		],
 		"title": "niet financiële informatie, kritische succesfactoren/prestatie-indicator, assortiment, innovatiekracht, leveringstermijn, efficiency, kwaliteit processen/trainingsdagen, klanttevredenheid/klachten, communicatie/frequentie interne communicatie.",
-		"id": "ad961f52-e045-48d8-b347-be7333721a57"
+		"id": "ad961f52-e045-48d8-b347-be7333721a57",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -782,7 +829,10 @@
 			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
 		],
 		"title": "opbrengsten: omzet, constante/variabele kosten: proportionele kosten, BTW: te vorderen BTW, te betalen BTW, af te dragen BTW, break even omzet, break even afzet: afzet, verkoopprijs, dekkingsbijdrage per product, periodetoerekeningstelsel, kasstelsel: ontvangsten, opbrengsten, uitgaven, kosten, financiële opbrengsten en kosten, interestkosten, interestopbrengsten, bedrijfsresultaat, resultaat voor winsbelasting, resultaat na winstbelasting: vennootschapsbelasting, inkomstenbelasting, ondernemersinkomen/-beloning: ondernemersrisico, gewaardeerd loon, gederfde interest, winstverdeling: resultaat voor winstbelasting, dividend in euro's, dividendbelasting, winstreservering",
-		"id": "3704a62a-3b21-4037-b1bc-d205029b68b3"
+		"id": "3704a62a-3b21-4037-b1bc-d205029b68b3",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -790,7 +840,10 @@
 			"13cd9721-b461-4e24-b227-5f40390f9f5a"
 		],
 		"title": "jaarverslag: bestuursverslag, jaarrekening: balans, winst- en verliesrekening,  vaste activa: immateriële vaste activia, materiële vaste activa, financiële vaste activa, vlottende activa: voorraad, debiteuren, effecten, overlopende posten/transitorische posten, liquide middelen, eigen vermogen: reserves, resultaat, verplichtingen op lange termijn: hypothecaire lening, onderhandse lening, voorziening, verplichtingen op korte termijn: crediteuren, rekening-courantkrediet, overlopende posten/transitorische posten, voorzieningen: onderbouwsvoorziening, garantievoorziening, pensioenvoorziening, niet uit de balans blijkende verplichtingen en risico's, winst- en verliesrekening: omzet, kosten, resultaat, financiële kengetallen: liduiditeitsratio - current ratio - quick ratio, solvabilieitsratio - EV/VV - VV/TV, rentabilieitsratio - resultaat per aandeel - cashflow per aandeel - REV - RTV - IVV, controleverklaring van de accountant, verkoopwinst",
-		"id": "e2289b48-af88-474e-a89e-9032de529213"
+		"id": "e2289b48-af88-474e-a89e-9032de529213",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
