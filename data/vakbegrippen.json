@@ -6028,7 +6028,9 @@
 		"ce_se": "ce",
 		"title": "hoogvlakte/ hoogland, ertsen / ertsvorming, fossiele energiebronnen, Tropisch regenwoud (selva), savanne (cerrado en caatinga), mangrove, biodiversiteit, landroof (landgrabbing)",
 		"id": "36806a36-ae12-4c4b-b302-40047627ebf4",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "ce",
