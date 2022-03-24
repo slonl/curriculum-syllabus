@@ -4114,7 +4114,7 @@
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1e",
 		"id": "a3926f80-8735-4f2d-a018-8776a897f352",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"1cc802a0-93e4-4e46-b3c6-6577ba055046"
@@ -43498,6 +43498,7 @@
 		],
 		"title": "De kandidaat kan de volgende typen geografisch vragen herkennen en formuleren: beschrijvende vragen, verklarende vragen, voorspellende vragen, waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
 		"id": "0e5099de-67f8-45de-9f3b-768fda8a493c",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	}
 ]
