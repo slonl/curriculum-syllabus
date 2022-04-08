@@ -958,11 +958,14 @@
 	},
 	{
 		"id": "77ae3b57-cab9-46f9-ada2-049ee168e17d",
-		"title": "Voor Havo beperkt het gebruik van speltheorie zich tot de volgende groep van spelen:\r\n- spelers bewegen simultaan;\r\n- spelen worden niet herhaald;\r\n- spelers hebben een dominante strategie;\r\n- spelers beschikken over dezelfde informatie;\r\n- er zijn nooit meer dan twee spelers.",
+		"title": "Voor Havo beperkt het gebruik van speltheorie zich tot de volgende groep van spelen:\r\r\n- spelers bewegen simultaan;\r\r\n- spelen worden niet herhaald;\r\r\n- spelers hebben een dominante strategie;\r\r\n- spelers beschikken over dezelfde informatie;\r\r\n- er zijn nooit meer dan twee spelers.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "ba3e81d8-86d5-46f7-9532-93c2deaa932c",
@@ -25217,12 +25220,14 @@
 	},
 	{
 		"id": "3cf7966c-b882-496d-81c9-23ec15fabacc",
-		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \n- de objectieve methode, \n- subjectieve methode",
+		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \r\n- de objectieve methode, \r\n- subjectieve methode",
 		"ce_se": "CE",
 		"description": "",
 		"replaces": [
 			"81b40e43-492c-4f1a-a127-6bf3f7eea679"
-		]
+		],
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"id": "e1e95f8e-de33-4dee-ab71-cbc14bfec858",
