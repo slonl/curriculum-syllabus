@@ -9541,8 +9541,10 @@
 		"examenprogramma_eindterm_id": [
 			"317b21f1-fbe8-46b1-9437-8e9722c9cf7d"
 		],
-		"title": "De kandidaat kan gebruik maken van kennis over materialen, meetinstrumenten en apparaten voor het in de praktijk uitvoeren van experimenten en technisch ontwerpen met betrekking tot de in de domeinen genoemde vakinhoud in elke geval de volgende materialen, meetinstrumenten en apparaten: \nmeetlint, maatglas, stopwatch en weegschaal; stemvork, toongenerator, oscilloscoop, GM-teller; krachtmeter, luchtkussenbaan, stroboscoop; (vloeistof)thermometer, veer; filters, spectroscoop; elektroscoop, voedingsapparaat, regelbare weerstand.",
-		"id": "c81ae14e-266f-4414-ae3a-a36dab850df0"
+		"title": "De kandidaat kan gebruik maken van kennis over materialen, meetinstrumenten en apparaten voor het in de praktijk uitvoeren van experimenten en technisch ontwerpen met betrekking tot de in de domeinen genoemde vakinhoud in elke geval de volgende materialen, meetinstrumenten en apparaten: \r\nmeetlint, maatglas, stopwatch en weegschaal; stemvork, toongenerator, oscilloscoop, GM-teller; krachtmeter, luchtkussenbaan, stroboscoop; (vloeistof)thermometer, veer; filters, spectroscoop; elektroscoop, voedingsapparaat, regelbare weerstand.",
+		"id": "c81ae14e-266f-4414-ae3a-a36dab850df0",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -9550,8 +9552,10 @@
 		"examenprogramma_eindterm_id": [
 			"317b21f1-fbe8-46b1-9437-8e9722c9cf7d"
 		],
-		"title": "De kandidaat kan gebruik maken van kennis over ICT-toepassingen voor het uitvoeren van experimenten en modelstudies met betrekking tot de in de domeinen genoemde vakinhoud, in elk geval de volgende toepassingen:\ncomputer met sensoren, lichtpoortje; videometen, meetprogrammatuur; modelleerprogrammatuur; programmatuur voor het verwerken en analyseren van meetgegevens.",
-		"id": "3a10a647-3ca3-4e29-9a8a-1443a5e20338"
+		"title": "De kandidaat kan gebruik maken van kennis over ICT-toepassingen voor het uitvoeren van experimenten en modelstudies met betrekking tot de in de domeinen genoemde vakinhoud, in elk geval de volgende toepassingen:\r\ncomputer met sensoren, lichtpoortje; videometen, meetprogrammatuur; modelleerprogrammatuur; programmatuur voor het verwerken en analyseren van meetgegevens.",
+		"id": "3a10a647-3ca3-4e29-9a8a-1443a5e20338",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -9955,8 +9959,13 @@
 		"examenprogramma_eindterm_id": [
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
-		"title": "De kandidaat kan krachten op een systeem analyseren zowel aan de hand van een vectortekening als met behulp van goniometrische relaties, waaronder het samenstellen van en ontbinden in componenten en het bepalen van de grootte en/of richting van krachten",
-		"id": "eda46d02-489e-4e43-a35c-0b70ad5b4fe5"
+		"title": "De kandidaat kan krachten op een systeem analyseren zowel aan de hand van een vectortekening als met behulp van goniometrische relaties, waaronder het samenstellen van en ontbinden in componenten en het bepalen van de grootte en/of richting van krachten.",
+		"id": "eda46d02-489e-4e43-a35c-0b70ad5b4fe5",
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"13b5821c-1f2b-4876-857a-2d68db5dd3f3"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -9964,8 +9973,13 @@
 		"examenprogramma_eindterm_id": [
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
-		"title": "De kandidaat kan de eerste wet van Newton uitleggen en toepassen",
-		"id": "6614b7a8-4372-467a-a865-25061f1309f3"
+		"title": "De kandidaat kan de eerste wet van Newton uitleggen en toepassen.",
+		"id": "6614b7a8-4372-467a-a865-25061f1309f3",
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"3ff9c66a-0481-4e1b-a36c-a760ab54de2e"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -9973,8 +9987,10 @@
 		"examenprogramma_eindterm_id": [
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
-		"title": "De kandidaat kan de tweede wet van Newton uitleggen en toepassen",
-		"id": "52523c67-d825-4ea5-aa24-ceb78eb46b55"
+		"title": "De kandidaat kan de tweede wet van Newton uitleggen en toepassen.",
+		"id": "52523c67-d825-4ea5-aa24-ceb78eb46b55",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -9982,8 +9998,10 @@
 		"examenprogramma_eindterm_id": [
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
-		"title": "De kandidaat kan de derde wet van Newton uitleggen en toepassen",
-		"id": "d251df0b-726d-42e7-ab79-cf59c9fe9fda"
+		"title": "De kandidaat kan de derde wet van Newton uitleggen en toepassen.",
+		"id": "d251df0b-726d-42e7-ab79-cf59c9fe9fda",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -9991,8 +10009,10 @@
 		"examenprogramma_eindterm_id": [
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
-		"title": "De kandidaat kan op grond van een analyse van krachten een geschikt numeriek model voor een beweging kiezen en het model gebruiken om de beweging te analyseren",
-		"id": "05b64ba9-630f-4f4b-9795-7069195d7aae"
+		"title": "De kandidaat kan op grond van een analyse van krachten een geschikt numeriek model voor een beweging kiezen en het model gebruiken om de beweging te analyseren.",
+		"id": "05b64ba9-630f-4f4b-9795-7069195d7aae",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -10109,7 +10129,9 @@
 			"7dd9e461-a738-4835-bdc6-62b754ed9789"
 		],
 		"title": "De kandidaat kan stroomkringen analyseren en daarbij voor serie- en parallelschakelingen berekeningen maken over spanning, stroomsterkte, weerstand en geleidbaarheid, de volgende componenten toepassen binnen een schakeling: diode, LDR, NTC, PTC, ohmse weerstand, lamp, motor, verwarmingselement, zekering, aardlekschakelaar.",
-		"id": "af70fd96-3a73-488a-900c-b254c02a81be"
+		"id": "af70fd96-3a73-488a-900c-b254c02a81be",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -10171,8 +10193,10 @@
 		"examenprogramma_eindterm_id": [
 			"be6953da-563b-44ec-a7fa-bf8c909ca73c"
 		],
-		"title": "De kandidaat kan elektromagnetische inductieverschijnselen in verschillende situaties analyseren, gebruik maken van de definitie van flux.",
-		"id": "20ac00e1-48d2-41ce-b5fc-bc1515076451"
+		"title": "De kandidaat kan elektromagnetische inductieverschijnselen in verschillende situaties analyseren, gebruik maken van de definitie van flux. Minimaal in de contexten: dynamo en microfoon.",
+		"id": "20ac00e1-48d2-41ce-b5fc-bc1515076451",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
