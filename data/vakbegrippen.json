@@ -1160,7 +1160,10 @@
 			"975e8f13-91db-4c7f-85ea-f294c6ed636b"
 		],
 		"title": "periode, gereduceerde fase, faseverschil",
-		"id": "2e838e27-afb0-466b-9479-ed86b3801eb4"
+		"id": "2e838e27-afb0-466b-9479-ed86b3801eb4",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1168,7 +1171,10 @@
 			"975e8f13-91db-4c7f-85ea-f294c6ed636b"
 		],
 		"title": "eigenfrequentie, resonantie",
-		"id": "09d05331-d2bb-431c-96e0-00264fc1d79d"
+		"id": "09d05331-d2bb-431c-96e0-00264fc1d79d",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1176,7 +1182,10 @@
 			"975e8f13-91db-4c7f-85ea-f294c6ed636b"
 		],
 		"title": "gereduceerde fase, fasevershil, lopende golf, voortplantingssnelheid, geluidsnelheid, lichtsnelheid, transversaal, longitudinaal",
-		"id": "bedbb20c-8e43-4674-bc40-896631a96d8a"
+		"id": "bedbb20c-8e43-4674-bc40-896631a96d8a",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1184,7 +1193,10 @@
 			"975e8f13-91db-4c7f-85ea-f294c6ed636b"
 		],
 		"title": "knoop, buik, grondtoon, boventoon",
-		"id": "97783119-d2c4-430c-9051-d2ddba5d020c"
+		"id": "97783119-d2c4-430c-9051-d2ddba5d020c",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1192,7 +1204,10 @@
 			"de23f8f5-77ea-48a9-87ac-58ad37047005"
 		],
 		"title": "absorptie, emissie, elektromagnetische golf, foton",
-		"id": "6cb17c7e-f372-4ac5-9539-dc1179d53d68"
+		"id": "6cb17c7e-f372-4ac5-9539-dc1179d53d68",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1200,7 +1215,10 @@
 			"de23f8f5-77ea-48a9-87ac-58ad37047005"
 		],
 		"title": "stralingsbron, radioactief verval, isotoop, kern, proton, neutron, elektron, atomaire massaeenheid, ioniserend en doordringend vermogen, dracht, röntgenstraling, α-, β- en γ-straling, kosmische straling, achtergrondstraling, bestraling, besmetting, effectieve totale lichaamsdosis in relatie tot stralingsbeschermingsnormen, dosimeter",
-		"id": "4cdd4adf-d71d-467f-ba4e-3cbd71d8ecfa"
+		"id": "4cdd4adf-d71d-467f-ba4e-3cbd71d8ecfa",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1208,7 +1226,10 @@
 			"de23f8f5-77ea-48a9-87ac-58ad37047005"
 		],
 		"title": "doorlaatkromme, vervalkromme",
-		"id": "ea569894-fd76-4fb8-a6df-12ff0c039fc1"
+		"id": "ea569894-fd76-4fb8-a6df-12ff0c039fc1",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1216,7 +1237,10 @@
 			"de23f8f5-77ea-48a9-87ac-58ad37047005"
 		],
 		"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, PET-scan, echografie en nucleaire diagnostiek",
-		"id": "f2e45e18-7c59-468e-b7e9-ad0d61e824b3"
+		"id": "f2e45e18-7c59-468e-b7e9-ad0d61e824b3",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1224,7 +1248,10 @@
 			"de23f8f5-77ea-48a9-87ac-58ad37047005"
 		],
 		"title": "Natuurkundige achtergronden: halveringsdikte van menselijke weefsels, magnetisch veld en resonantie, annihilatie, creatie van een elektronpositronpaar, ultrasone geluidsgolf, geluidsnelheid in menselijke weefsels, absorptie, transmissie, terugkaatsing, tracer",
-		"id": "dccaf2d0-901f-4cab-8bcf-e0de158cb7f7"
+		"id": "dccaf2d0-901f-4cab-8bcf-e0de158cb7f7",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1232,7 +1259,10 @@
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
 		"title": "Krachten: zwaartekracht, schuifwrijvingskracht, rolweerstandskracht, luchtweerstandskracht, normaalkracht, spankracht, spierkracht, veerkracht",
-		"id": "13b5821c-1f2b-4876-857a-2d68db5dd3f3"
+		"id": "13b5821c-1f2b-4876-857a-2d68db5dd3f3",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1240,7 +1270,10 @@
 			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
 		],
 		"title": "traagheid",
-		"id": "3ff9c66a-0481-4e1b-a36c-a760ab54de2e"
+		"id": "3ff9c66a-0481-4e1b-a36c-a760ab54de2e",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1253,7 +1286,10 @@
 			"d441e477-cfb9-48f0-9163-1585ce30184f"
 		],
 		"title": "potentiële energie, (positieve en negatieve) arbeid, wrijvingsarbeid, periodieke beweging;",
-		"id": "d457c3f1-a272-4c98-a3b4-c978a0f401b0"
+		"id": "d457c3f1-a272-4c98-a3b4-c978a0f401b0",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1261,7 +1297,10 @@
 			"0f4fb8bf-987f-4a74-a3d7-ad4908bec68b"
 		],
 		"title": "omlooptijd, baanstraal, baansnelheid",
-		"id": "f1feaea4-a04e-4814-ab00-ee85d1f78a79"
+		"id": "f1feaea4-a04e-4814-ab00-ee85d1f78a79",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1269,7 +1308,10 @@
 			"0f4fb8bf-987f-4a74-a3d7-ad4908bec68b"
 		],
 		"title": "gravitatiewisselwerking, ellipsbaan, geostationaire baan",
-		"id": "205bd0b1-43e5-440b-a945-474ed28505ac"
+		"id": "205bd0b1-43e5-440b-a945-474ed28505ac",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1277,7 +1319,10 @@
 			"7dd9e461-a738-4835-bdc6-62b754ed9789"
 		],
 		"title": "vrij elektron, ion, elementaire lading, spanningsbron, batterij, accu",
-		"id": "dced0540-aaa2-446f-8701-69ccb5ee2af9"
+		"id": "dced0540-aaa2-446f-8701-69ccb5ee2af9",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1285,7 +1330,10 @@
 			"7dd9e461-a738-4835-bdc6-62b754ed9789"
 		],
 		"title": "stroomdeling, spanningsdeling, kortsluiting",
-		"id": "fd94d994-22e9-49bb-9312-774616c0c112"
+		"id": "fd94d994-22e9-49bb-9312-774616c0c112",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1293,7 +1341,10 @@
 			"be6953da-563b-44ec-a7fa-bf8c909ca73c"
 		],
 		"title": "afstotende en aantrekkende elektrische kracht, homogeen en radiaal elektrisch veld, veldlijn",
-		"id": "2c9f79d1-eb71-46ba-a45f-d6b92af44716"
+		"id": "2c9f79d1-eb71-46ba-a45f-d6b92af44716",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1301,7 +1352,10 @@
 			"be6953da-563b-44ec-a7fa-bf8c909ca73c"
 		],
 		"title": "homogeen en inhomogeen magnetisch veld, veldlijn, elektromagneet",
-		"id": "6c537e2e-04f1-4a48-8d7d-4880d52d7d22"
+		"id": "6c537e2e-04f1-4a48-8d7d-4880d52d7d22",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1309,7 +1363,10 @@
 			"0b63ceb3-984a-489f-86be-2e8816edcaf6"
 		],
 		"title": "foton, grondtoestand, aangeslagen toestand, ionisatie-energie",
-		"id": "28b8ca6a-35e7-4661-84ae-1069ca76dc6d"
+		"id": "28b8ca6a-35e7-4661-84ae-1069ca76dc6d",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1317,7 +1374,10 @@
 			"0b63ceb3-984a-489f-86be-2e8816edcaf6"
 		],
 		"title": "fraunhoferlijn, roodverschuiving en blauwverschuiving",
-		"id": "fbc5d521-2e36-4bf1-9d26-24de1dfdeba1"
+		"id": "fbc5d521-2e36-4bf1-9d26-24de1dfdeba1",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1325,7 +1385,10 @@
 			"0b63ceb3-984a-489f-86be-2e8816edcaf6"
 		],
 		"title": "planck-kromme, continu, spectrum",
-		"id": "86a295aa-6fe1-4326-a371-b33de66a2768"
+		"id": "86a295aa-6fe1-4326-a371-b33de66a2768",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1333,7 +1396,10 @@
 			"0b63ceb3-984a-489f-86be-2e8816edcaf6"
 		],
 		"title": "zonneconstante",
-		"id": "2451806d-ffe4-4e6e-89d8-1c67675fe1ba"
+		"id": "2451806d-ffe4-4e6e-89d8-1c67675fe1ba",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1341,7 +1407,10 @@
 			"efcc671d-f652-4945-8c98-f611f0f86304"
 		],
 		"title": "waarschijnlijkheid, waarschijnlijkheidsverdeling",
-		"id": "92af3d8a-2224-428a-a920-97143ef6fb81"
+		"id": "92af3d8a-2224-428a-a920-97143ef6fb81",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1349,7 +1418,10 @@
 			"efcc671d-f652-4945-8c98-f611f0f86304"
 		],
 		"title": "foton, uittree-energie, energiequantum",
-		"id": "e025a51d-64c6-4b6b-bf50-2649279e9531"
+		"id": "e025a51d-64c6-4b6b-bf50-2649279e9531",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1357,7 +1429,10 @@
 			"efcc671d-f652-4945-8c98-f611f0f86304"
 		],
 		"title": "bohrstraal, nulpuntsenergie",
-		"id": "ca3c64f2-5975-4aa9-bd90-9b455887f240"
+		"id": "ca3c64f2-5975-4aa9-bd90-9b455887f240",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1365,7 +1440,10 @@
 			"20f9a476-f242-4b40-8372-8d88dae038f9"
 		],
 		"title": "natuurwet, natuurconstante, verband, vergelijking",
-		"id": "9ce80f8a-3b88-45be-9983-88f886d3bc85"
+		"id": "9ce80f8a-3b88-45be-9983-88f886d3bc85",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1373,7 +1451,10 @@
 			"20f9a476-f242-4b40-8372-8d88dae038f9"
 		],
 		"title": "iteratief proces",
-		"id": "fcda7c6a-040c-4e63-8d3a-b56fecaaa67a"
+		"id": "fcda7c6a-040c-4e63-8d3a-b56fecaaa67a",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -1381,7 +1462,10 @@
 			"20f9a476-f242-4b40-8372-8d88dae038f9"
 		],
 		"title": "rekencapaciteit, stapgrootte, beginvoorwaarde",
-		"id": "18c65ad8-043d-49cc-8166-11548455815a"
+		"id": "18c65ad8-043d-49cc-8166-11548455815a",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
