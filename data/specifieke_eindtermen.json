@@ -9069,8 +9069,10 @@
 		"examenprogramma_eindterm_id": [
 			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
 		],
-		"title": "De kandidaat kan warmtetransport verklaren met behulp van materiemodellen het verband tussen de warmtestroom en de thermische geleidbaarheid van een stof uitleggen en eenvoudige berekeningen aan de warmtestroom maken. Minimaal in de context: energiebesparing door isolatie.\r\nOnder warmtestroom wordt verstaan de hoeveelheid warmte die per tijdseenheid door een wand gaat. Hierbij mag de invloed van de luchtlagen aan weerszijden van de wand verwaarloosd worden.",
-		"id": "ecb8796a-7efa-42f9-81d9-053393f77a03"
+		"title": "De kandidaat kan warmtetransport verklaren met behulp van materiemodellen het verband tussen de warmtestroom en de thermische geleidbaarheid van een stof uitleggen en eenvoudige berekeningen aan de warmtestroom maken. Minimaal in de context: energiebesparing door isolatie.\r\r\nOnder warmtestroom wordt verstaan de hoeveelheid warmte die per tijdseenheid door een wand gaat. Hierbij mag de invloed van de luchtlagen aan weerszijden van de wand verwaarloosd worden.",
+		"id": "ecb8796a-7efa-42f9-81d9-053393f77a03",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -9258,8 +9260,10 @@
 		"examenprogramma_eindterm_id": [
 			"9d99bebf-ad0c-4bcb-a242-7e6e6ae8499c"
 		],
-		"title": "De kandidaat kan fysische principes en wetmatigheden toepassen op technologische ontwikkelingen en daarbij de gespecificeerde natuurkundige kennis hanteren. Principes: model als vereenvoudigde weergave van de werkelijkheid, analogie denken in ordes van grootte.\r\nWetmatigheden: wet van behoud van energie, wetten van Newton (eerste en tweede)",
-		"id": "8385cd52-9e74-4b34-b13f-41fef98aa0b6"
+		"title": "De kandidaat kan fysische principes en wetmatigheden toepassen op technologische ontwikkelingen en daarbij de gespecificeerde natuurkundige kennis hanteren. Principes: model als vereenvoudigde weergave van de werkelijkheid, analogie denken in ordes van grootte.\r\r\nWetmatigheden: wet van behoud van energie, wetten van Newton (eerste en tweede)",
+		"id": "8385cd52-9e74-4b34-b13f-41fef98aa0b6",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
