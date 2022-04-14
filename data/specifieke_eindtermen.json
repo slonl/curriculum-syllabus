@@ -43999,5 +43999,27 @@
 		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en uv-lichtgevoeligheid, en maakt daarbij gebruik van: de aanwezigheid van meervoudige atoombindingen; vorming van crosslinks.",
 		"id": "eab06afe-7c69-4002-afaf-990b0ec8a40e",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/V/DomeinB/B1/16.16",
+		"examenprogramma_eindterm_id": [
+			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
+		],
+		"title": "De kandidaat kan met behulp van de structuurformule van koolstofverbindingen met een al dan niet vertakte koolstofketen met maximaal 10 koolstofatomen met hoogstens twee soorten functionele / karakteristieke groep de systematische IUPAC-naam aangeven en omgekeerd: alkanen, alkenen/halogeenalkenen, alkynen, alkanolen, alkanalen, alkanonen, alkaanzuren/hydroxyalkaanzuren, alkaanaminen, aminozuren, halogeenalkanen, cycloalkanen, benzeen en benzeenderivaten, alkoxyalkanen, alkylalkanoaten.",
+		"id": "c7225269-c2e0-4120-a717-edba07420399",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/V/DomeinB/B4/19.1c",
+		"examenprogramma_eindterm_id": [
+			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en uv-lichtgevoeligheid, en maakt daarbij gebruik van: de aanwezigheid van meervoudige atoombindingen; vorming van crosslinks.",
+		"id": "38a9f7bf-a582-4e74-b550-55b1c18cc0a5",
+		"unreleased": true
 	}
 ]
