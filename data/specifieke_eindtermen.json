@@ -13828,8 +13828,10 @@
 		"examenprogramma_eindterm_id": [
 			"b4ff69e2-499c-421f-9888-a21e37f330cf"
 		],
-		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen:\r\n- gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;\r\n- grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
-		"id": "c6593362-2592-4711-a57c-c36135e510ea"
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen:\r\r\n- gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;\r\r\n- grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
+		"id": "c6593362-2592-4711-a57c-c36135e510ea",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14161,8 +14163,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan het symbool gebruiken van de volgende niet-metalen als de naam gegeven is en omgekeerd:\r\nargon, boor, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel.",
-		"id": "7ab3e33d-660d-492f-84b0-24303096eb07"
+		"title": "De kandidaat kan het symbool gebruiken van de volgende niet-metalen als de naam gegeven is en omgekeerd:\r\r\nargon, boor, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel.",
+		"id": "7ab3e33d-660d-492f-84b0-24303096eb07",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14170,8 +14174,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\naluminium, barium, cadmium, calcium, chroom, goud, ijzer, kalium, kobalt, koper, kwik, lithium, lood, mangaan, magnesium, natrium, nikkel, platina, tin, uraan, zilver, zink.",
-		"id": "67480404-ed2f-4df5-93b5-d9384f300cea"
+		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\r\naluminium, barium, cadmium, calcium, chroom, goud, ijzer, kalium, kobalt, koper, kwik, lithium, lood, mangaan, magnesium, natrium, nikkel, platina, tin, uraan, zilver, zink.",
+		"id": "67480404-ed2f-4df5-93b5-d9384f300cea",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14179,8 +14185,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide , zwaveldioxide, zwaveltrioxide, zwavelzuur.",
-		"id": "e92f4d26-2970-43d8-b7a2-2be56d0d178b"
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide , zwaveldioxide, zwaveltrioxide, zwavelzuur.",
+		"id": "e92f4d26-2970-43d8-b7a2-2be56d0d178b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14188,8 +14196,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\n- de formules van niet-ontleedbare stoffen: niet-metalen, metalen.",
-		"id": "7c2362d0-a25a-4b0a-8b23-ec1f9faa695a"
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\n- de formules van niet-ontleedbare stoffen: niet-metalen, metalen.",
+		"id": "7c2362d0-a25a-4b0a-8b23-ec1f9faa695a",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14206,8 +14216,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen:\r\nAg+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, MnO4– , NO3–, NO2−, O2–, OH–, PO43–, S2–, SO32–, SO42–, S2O32–.",
-		"id": "438a514e-ba8d-454b-a8de-aa514346e03b"
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen:\r\r\nAg+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, MnO4– , NO3–, NO2−, O2–, OH–, PO43–, S2–, SO32–, SO42–, S2O32–.",
+		"id": "438a514e-ba8d-454b-a8de-aa514346e03b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14215,8 +14227,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan de volgende zuren herkennen:\r\nHCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH.",
-		"id": "c0564d0a-3c94-4c2f-a926-38313ba4dad3"
+		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\nHCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH.",
+		"id": "c0564d0a-3c94-4c2f-a926-38313ba4dad3",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14224,8 +14238,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan de volgende basen herkennen:\r\nNH3, OH–, CO32–, O2–, HCO3−",
-		"id": "06ddbbcf-aa8a-4249-b4d0-b5fcba6de668"
+		"title": "De kandidaat kan de volgende basen herkennen:\r\r\nNH3, OH–, CO32–, O2–, HCO3−",
+		"id": "06ddbbcf-aa8a-4249-b4d0-b5fcba6de668",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14278,8 +14294,10 @@
 		"examenprogramma_eindterm_id": [
 			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
 		],
-		"title": "De kandidaat kan in moleculen van organische verbindingen functionele / karakteristieke groepen herkennen:\r\nC=C, C≡C, OH groep (hydroxyl), C=O groep (aldehyde en keton), COOH groep (carboxyl), NH2 groep (amino), COC groep (ether), COOC groep (ester), CONHC groep (peptide / amide), C-X (X= F, Cl, Br, I).",
-		"id": "7341c41d-e165-4e30-a948-e8395949caa5"
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele / karakteristieke groepen herkennen:\r\r\nC=C, C≡C, OH groep (hydroxyl), C=O groep (aldehyde en keton), COOH groep (carboxyl), NH2 groep (amino), COC groep (ether), COOC groep (ester), CONHC groep (peptide / amide), C-X (X= F, Cl, Br, I).",
+		"id": "7341c41d-e165-4e30-a948-e8395949caa5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14341,8 +14359,10 @@
 		"examenprogramma_eindterm_id": [
 			"e92a747c-ff37-4df0-b024-3888f843e355"
 		],
-		"title": "De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken:\r\n- oplossing: onverzadigd, verzadigd, suspensie, emulsie, emulgator, legering, homogene en heterogene mengsels.",
-		"id": "223edc90-d533-498b-a464-9509603ae7b2"
+		"title": "De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken:\r\r\n- oplossing: onverzadigd, verzadigd, suspensie, emulsie, emulgator, legering, homogene en heterogene mengsels.",
+		"id": "223edc90-d533-498b-a464-9509603ae7b2",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14422,8 +14442,10 @@
 		"examenprogramma_eindterm_id": [
 			"66cd324c-3a61-471c-9136-d82fc94a44d6"
 		],
-		"title": "De kandidaat kan de sterkte van de binding tussen de samenstellende deeltjes van een stof / stoffen in verband brengen met faseovergangen en hechting aan een oppervlak:\r\n- ionbinding, vanderwaalsbinding / molecuulbinding, waterstofbrug, dipool-dipool binding, metaalbinding.",
-		"id": "88dd0021-8126-4775-b06b-bc8cb3e097a0"
+		"title": "De kandidaat kan de sterkte van de binding tussen de samenstellende deeltjes van een stof / stoffen in verband brengen met faseovergangen en hechting aan een oppervlak:\r\r\n- ionbinding, vanderwaalsbinding / molecuulbinding, waterstofbrug, dipool-dipool binding, metaalbinding.",
+		"id": "88dd0021-8126-4775-b06b-bc8cb3e097a0",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14440,8 +14462,10 @@
 		"examenprogramma_eindterm_id": [
 			"66cd324c-3a61-471c-9136-d82fc94a44d6"
 		],
-		"title": "De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met:\r\n- vanderwaalsbinding, dipool-dipool binding en waterstofbruggen, polair en apolair.",
-		"id": "3386d88e-a0d0-4948-b6ea-fe9dc7be5eb6"
+		"title": "De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met:\r\r\n- vanderwaalsbinding, dipool-dipool binding en waterstofbruggen, polair en apolair.",
+		"id": "3386d88e-a0d0-4948-b6ea-fe9dc7be5eb6",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14467,8 +14491,10 @@
 		"examenprogramma_eindterm_id": [
 			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
 		],
-		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en vervormbaarheid, en maakt daarbij gebruik van: \r\n- de roosteropbouw van de stof; \r\n- de aanwezigheid van weekmakers in polymeren; \r\n- de structuur van polymere materialen: thermoplasten, thermoharders.",
-		"id": "3f5193e2-3faf-4c9b-9592-7253e1f58f38"
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en vervormbaarheid, en maakt daarbij gebruik van: \r\r\n- de roosteropbouw van de stof; \r\r\n- de aanwezigheid van weekmakers in polymeren; \r\r\n- de structuur van polymere materialen: thermoplasten, thermoharders.",
+		"id": "3f5193e2-3faf-4c9b-9592-7253e1f58f38",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14494,8 +14520,10 @@
 		"examenprogramma_eindterm_id": [
 			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
 		],
-		"title": "De kandidaat kan voor composieten, polymeren, legeringen en keramische materialen een verband leggen tussen de structuur / ruimtelijke ordening van bouwstenen en de volgende eigenschappen:\r\n- vervormbaarheid, geleidend vermogen, waterbindend vermogen, corrosiegevoeligheid, uv-lichtgevoeligheid, brandbaarheid, hardheid, brosheid.",
-		"id": "3781b0a6-ffd2-4a2d-8b9c-1d8ebc226bfd"
+		"title": "De kandidaat kan voor composieten, polymeren, legeringen en keramische materialen een verband leggen tussen de structuur / ruimtelijke ordening van bouwstenen en de volgende eigenschappen:\r\r\n- vervormbaarheid, geleidend vermogen, waterbindend vermogen, corrosiegevoeligheid, uv-lichtgevoeligheid, brandbaarheid, hardheid, brosheid.",
+		"id": "3781b0a6-ffd2-4a2d-8b9c-1d8ebc226bfd",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14503,8 +14531,10 @@
 		"examenprogramma_eindterm_id": [
 			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
 		],
-		"title": "De kandidaat kan met behulp van de Valentie-Schil-Elektronen-Paar-Repulsie-Theorie (VSEPR-theorie) de ruimtelijke bouw van samengestelde ionen en moleculen, of delen daarvan, aangeven:\r\n- omringingsgetal 2, 3 en 4;\r\n- 4 omringing: tetraëder, bindingshoek ongeveer 109 graden\r\n- 3 omringing: plat vlak, bindingshoek ongeveer 120 graden\r\n- 2 omringing: lineair, bindingshoek 180 graden",
-		"id": "7a58384e-c455-4f51-808f-449fa9127ada"
+		"title": "De kandidaat kan met behulp van de Valentie-Schil-Elektronen-Paar-Repulsie-Theorie (VSEPR-theorie) de ruimtelijke bouw van samengestelde ionen en moleculen, of delen daarvan, aangeven:\r\r\n- omringingsgetal 2, 3 en 4;\r\r\n- 4 omringing: tetraëder, bindingshoek ongeveer 109 graden\r\r\n- 3 omringing: plat vlak, bindingshoek ongeveer 120 graden\r\r\n- 2 omringing: lineair, bindingshoek 180 graden",
+		"id": "7a58384e-c455-4f51-808f-449fa9127ada",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14674,8 +14704,10 @@
 		"examenprogramma_eindterm_id": [
 			"979d6f1a-6d5e-4cea-b480-ea58bf1b7b1b"
 		],
-		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking geven in structuurformules en Lewisstructuren:\r\n- condensatiereacties; ester, peptide/amide; - hydrolysereacties; - additiereacties; - substitutiereacties.",
-		"id": "5cf82f08-8328-437b-8945-77b7a9693c18"
+		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking geven in structuurformules en Lewisstructuren:\r\r\n- condensatiereacties; ester, peptide/amide; - hydrolysereacties; - additiereacties; - substitutiereacties.",
+		"id": "5cf82f08-8328-437b-8945-77b7a9693c18",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14692,8 +14724,10 @@
 		"examenprogramma_eindterm_id": [
 			"54562663-b603-4dad-a52c-e5ae4718f5e7"
 		],
-		"title": "De kandidaat kan de volgende begrippen gebruiken in berekening:\r\n- massa; symbool m, eenheid kg, - volume; symbool V, eenheid m3, - relatieve molecuulmassa; symbool Mr, - chemische hoeveelheid; symbool n(X), eenheid mol, - molaire massa; symbool M(X),  eenheid g mol-1, - molair volume; symbool Vm,  eenheid m3 mol-1, - dichtheid; symbool ρ, eenheid kg m-3, - concentratie; symbool c(X), [X],  eenheid mol L-1, - massapercentage; eenheid %, - massa-ppm; eenheid ppm, mg kg-1, - massa-ppb; eenheid ppb, μg kg-1, - volumepercentage; eenheid %, - volume-ppm; eenheid ppm, μL L-1, cm3 m-3, - zuurgraad; symbool pH, pH = - log [H+]; pH = -log[H3O+], pOH = - log [OH-], pH + pOH = 14,00 (bij 298K), [H+] = 10-pH; [H3O+] = 10-pH, [OH-] = 10-pOH.",
-		"id": "e8af66f3-64f3-4193-b901-469c1eafa280"
+		"title": "De kandidaat kan de volgende begrippen gebruiken in berekening:\r\r\n- massa; symbool m, eenheid kg, - volume; symbool V, eenheid m3, - relatieve molecuulmassa; symbool Mr, - chemische hoeveelheid; symbool n(X), eenheid mol, - molaire massa; symbool M(X),  eenheid g mol-1, - molair volume; symbool Vm,  eenheid m3 mol-1, - dichtheid; symbool ρ, eenheid kg m-3, - concentratie; symbool c(X), [X],  eenheid mol L-1, - massapercentage; eenheid %, - massa-ppm; eenheid ppm, mg kg-1, - massa-ppb; eenheid ppb, μg kg-1, - volumepercentage; eenheid %, - volume-ppm; eenheid ppm, μL L-1, cm3 m-3, - zuurgraad; symbool pH, pH = - log [H+]; pH = -log[H3O+], pOH = - log [OH-], pH + pOH = 14,00 (bij 298K), [H+] = 10-pH; [H3O+] = 10-pH, [OH-] = 10-pOH.",
+		"id": "e8af66f3-64f3-4193-b901-469c1eafa280",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14701,8 +14735,10 @@
 		"examenprogramma_eindterm_id": [
 			"54562663-b603-4dad-a52c-e5ae4718f5e7"
 		],
-		"title": "De kandidaat kan de volgende principes gebruiken in berekeningen aan en beschrijvingen van chemische processen:\r\n- massaverhouding;\r\n- volumeverhouding van gassen bij reacties;\r\n- overmaat / ondermaat;\r\n- stoichiometrische verhouding;\r\n- rendement als fractie of percentage van de theoretische opbrengst.",
-		"id": "4f2f25bb-fb82-4046-ad5c-9deb6d39621b"
+		"title": "De kandidaat kan de volgende principes gebruiken in berekeningen aan en beschrijvingen van chemische processen:\r\r\n- massaverhouding;\r\r\n- volumeverhouding van gassen bij reacties;\r\r\n- overmaat / ondermaat;\r\r\n- stoichiometrische verhouding;\r\r\n- rendement als fractie of percentage van de theoretische opbrengst.",
+		"id": "4f2f25bb-fb82-4046-ad5c-9deb6d39621b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -14809,8 +14845,10 @@
 		"examenprogramma_eindterm_id": [
 			"20cd3235-9fce-4cdd-a2f7-3b35813cae42"
 		],
-		"title": "De kandidaat kan van een oplossing met bekende concentratie van een zuur of van een base de pH berekenen of omgekeerd uit de pH de concentratie berekenen.\r\n- sterk zuur, éénwaardig zwak zuur,  sterke base, éénwaardige zwakke base.",
-		"id": "77a01850-17a9-4e96-9abf-960b73b6caa4"
+		"title": "De kandidaat kan van een oplossing met bekende concentratie van een zuur of van een base de pH berekenen of omgekeerd uit de pH de concentratie berekenen.\r\r\n- sterk zuur, éénwaardig zwak zuur,  sterke base, éénwaardige zwakke base.",
+		"id": "77a01850-17a9-4e96-9abf-960b73b6caa4",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -15142,8 +15180,10 @@
 		"examenprogramma_eindterm_id": [
 			"4674546b-60b2-4f44-bb94-c4838cfd0116"
 		],
-		"title": "De kandidaat kan redeneren over aspecten van duurzaamheid die een rol spelen bij de omzetting van chemische energie in elektrische energie en omgekeerd en kan daarbij voorstellen voor aanpassingen beoordelen: elektrochemische cel / batterij / brandstofcel. \r\n- aangeven dat bij een elektrochemische cel een redoxreactie optreedt waarbij elektronen via een externe verbinding worden overgedragen, - reductor / oxidator, - halfreacties / totaalreactie, - positieve en negatieve elektrode, - elektrolyt, - membraan, - opladen, - recycling, - verhouding energie / massa.",
-		"id": "315a10a6-c710-4d6b-8882-598913a7c66b"
+		"title": "De kandidaat kan redeneren over aspecten van duurzaamheid die een rol spelen bij de omzetting van chemische energie in elektrische energie en omgekeerd en kan daarbij voorstellen voor aanpassingen beoordelen: elektrochemische cel / batterij / brandstofcel. \r\r\n- aangeven dat bij een elektrochemische cel een redoxreactie optreedt waarbij elektronen via een externe verbinding worden overgedragen, - reductor / oxidator, - halfreacties / totaalreactie, - positieve en negatieve elektrode, - elektrolyt, - membraan, - opladen, - recycling, - verhouding energie / massa.",
+		"id": "315a10a6-c710-4d6b-8882-598913a7c66b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -43936,6 +43976,28 @@
 		],
 		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties.",
 		"id": "f51a60b3-2123-450f-8858-bdd8634a91e6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/V/DomeinB/B1/16.16",
+		"examenprogramma_eindterm_id": [
+			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
+		],
+		"title": "De kandidaat kan met behulp van de structuurformule van koolstofverbindingen met een al dan niet vertakte koolstofketen met maximaal 10 koolstofatomen met hoogstens twee soorten functionele / karakteristieke groep de systematische IUPAC-naam aangeven en omgekeerd: alkanen, alkenen/halogeenalkenen, alkynen, alkanolen, alkanalen, alkanonen, alkaanzuren/hydroxyalkaanzuren, alkaanaminen, aminozuren, halogeenalkanen, cycloalkanen, benzeen en benzeenderivaten, alkoxyalkanen, alkylalkanoaten.",
+		"id": "08b22660-4112-4f12-b753-22c933ab2542",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/V/DomeinB/B4/19.1c",
+		"examenprogramma_eindterm_id": [
+			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en uv-lichtgevoeligheid, en maakt daarbij gebruik van: de aanwezigheid van meervoudige atoombindingen; vorming van crosslinks.",
+		"id": "eab06afe-7c69-4002-afaf-990b0ec8a40e",
 		"unreleased": true
 	}
 ]
