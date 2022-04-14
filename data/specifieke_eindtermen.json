@@ -12607,8 +12607,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan met een atoommodel van kern en elektronen de bouw van atomen en ionen beschrijven en daarbij de volgende begrippen hanteren:\r\n- bouw van de kern; protonen, neutronen, massagetal, atoomnummer, isotopen.",
-		"id": "4f3e7db5-ac9a-473e-b846-f4d73e634576"
+		"title": "De kandidaat kan met een atoommodel van kern en elektronen de bouw van atomen en ionen beschrijven en daarbij de volgende begrippen hanteren:\r\r\n- bouw van de kern; protonen, neutronen, massagetal, atoomnummer, isotopen.",
+		"id": "4f3e7db5-ac9a-473e-b846-f4d73e634576",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12670,8 +12672,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan uit de plaats in het periodiek systeem voor de volgende atoomsoorten de genoemde covalentie aangeven:\r\n- H, F, Cl, I, Br covalentie 1;\r\n- O, S covalentie 2;\r\n- N, P covalentie 3;\r\n- C, Si covalentie 4.",
-		"id": "b948ed08-65d3-45af-86b1-964417c15760"
+		"title": "De kandidaat kan uit de plaats in het periodiek systeem voor de volgende atoomsoorten de genoemde covalentie aangeven:\r\r\n- H, F, Cl, I, Br covalentie 1;\r\r\n- O, S covalentie 2;\r\r\n- N, P covalentie 3;\r\r\n- C, Si covalentie 4.",
+		"id": "b948ed08-65d3-45af-86b1-964417c15760",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12688,8 +12692,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\naluminium, barium, calcium, cadmium, chroom, goud, kalium, kobalt, koper, kwik, lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, ijzer, zilver, zink.",
-		"id": "425ded83-ca8e-4290-8376-c812f4531278"
+		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\r\naluminium, barium, calcium, cadmium, chroom, goud, kalium, kobalt, koper, kwik, lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, ijzer, zilver, zink.",
+		"id": "425ded83-ca8e-4290-8376-c812f4531278",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12697,8 +12703,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam is gegeven en omgekeerd: \r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide, zwaveldioxide, zwaveltrioxide, zwavelzuur.",
-		"id": "c27d8d8b-ec49-4a05-b5c6-e7b42c0039a7"
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam is gegeven en omgekeerd: \r\r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide, zwaveldioxide, zwaveltrioxide, zwavelzuur.",
+		"id": "c27d8d8b-ec49-4a05-b5c6-e7b42c0039a7",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12706,8 +12714,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam is gegeven en omgekeerd:\r\n- de formules van niet-ontleedbare stoffen; niet-metalen, genoemd in B1/16.4, metalen, genoemd in B1/16.5.",
-		"id": "1daa7a1d-2955-412e-bf7d-4e8cae0d8e75"
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam is gegeven en omgekeerd:\r\r\n- de formules van niet-ontleedbare stoffen; niet-metalen, genoemd in B1/16.4, metalen, genoemd in B1/16.5.",
+		"id": "1daa7a1d-2955-412e-bf7d-4e8cae0d8e75",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12733,8 +12743,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan de volgende zuren herkennen:\r\nHCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH.",
-		"id": "259814ba-4025-4ca7-9c31-4df320f04244"
+		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\nHCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH.",
+		"id": "259814ba-4025-4ca7-9c31-4df320f04244",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12742,8 +12754,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan de volgende basen herkennen:\r\nNH3 , OH– , CO32– , O2– , HCO3–.",
-		"id": "4e125490-f49c-40ae-a3b6-c30f87e449e2"
+		"title": "De kandidaat kan de volgende basen herkennen:\r\r\nNH3 , OH– , CO32– , O2– , HCO3–.",
+		"id": "4e125490-f49c-40ae-a3b6-c30f87e449e2",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -12787,8 +12801,10 @@
 		"examenprogramma_eindterm_id": [
 			"0ecc2f37-9b50-43ef-8479-07b27490773b"
 		],
-		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\r\nC=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
-		"id": "2ee25da3-52ad-4ab7-89b5-44d0bde00171"
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\r\r\nC=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
+		"id": "2ee25da3-52ad-4ab7-89b5-44d0bde00171",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -13093,8 +13109,10 @@
 		"examenprogramma_eindterm_id": [
 			"1c92ec4f-9564-4176-a1f3-24551bd368d0"
 		],
-		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking weergeven in structuurformules: \r\ncondensatiereacties; ester en peptide / amide, hydrolysereacties; additiereacties; substitutiereacties; alkanen met halogenen; kraken.",
-		"id": "b2c91c41-b70a-43e7-8b19-4f63adce58d2"
+		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking weergeven in structuurformules: \r\r\ncondensatiereacties; ester en peptide / amide, hydrolysereacties; additiereacties; substitutiereacties; alkanen met halogenen; kraken.",
+		"id": "b2c91c41-b70a-43e7-8b19-4f63adce58d2",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -13102,8 +13120,10 @@
 		"examenprogramma_eindterm_id": [
 			"3375252f-03e0-4658-8d1a-603aa23199f6"
 		],
-		"title": "De kandidaat kan de volgende begrippen gebruiken in berekeningen:\r\n- massa; symbool m en eenheid kg\r\n- volume; symbool V en eenheid m3\r\n- relatieve molecuulmassa; symbool Mr\r\n- relatieve atoommassa; symbool Ar\r\n- chemische hoeveelheid; symbool n(X) en eenheid mol\r\n- molaire massa; symbool M(X) en eenheid g mol-1\r\n- dichtheid; symbool ρ en eenheid kg m-3\r\n- concentratie; symbool c(X), [X] en eenheid mol L-1\r\n- massapercentage; eenheid %\r\n- massa-ppm; eenheid ppm, mg kg-1\r\n- massa-ppb; eenheid ppb, μg kg-1\r\n- volumepercentage; eenheid %\r\n- zuurgraad; symbool pH; pH = - log [H+]; pOH = - log [OH-]; pH + pOH = 14,00 (bij 298K); [H+] = 10-pH; [OH-] = 10-pOH",
-		"id": "2de68fa7-40c8-4055-9462-68f834f8f4b7"
+		"title": "De kandidaat kan de volgende begrippen gebruiken in berekeningen:\r\r\n- massa; symbool m en eenheid kg\r\r\n- volume; symbool V en eenheid m3\r\r\n- relatieve molecuulmassa; symbool Mr\r\r\n- relatieve atoommassa; symbool Ar\r\r\n- chemische hoeveelheid; symbool n(X) en eenheid mol\r\r\n- molaire massa; symbool M(X) en eenheid g mol-1\r\r\n- dichtheid; symbool ρ en eenheid kg m-3\r\r\n- concentratie; symbool c(X), [X] en eenheid mol L-1\r\r\n- massapercentage; eenheid %\r\r\n- massa-ppm; eenheid ppm, mg kg-1\r\r\n- massa-ppb; eenheid ppb, μg kg-1\r\r\n- volumepercentage; eenheid %\r\r\n- zuurgraad; symbool pH; pH = - log [H+]; pOH = - log [OH-]; pH + pOH = 14,00 (bij 298K); [H+] = 10-pH; [OH-] = 10-pOH",
+		"id": "2de68fa7-40c8-4055-9462-68f834f8f4b7",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -13111,8 +13131,10 @@
 		"examenprogramma_eindterm_id": [
 			"3375252f-03e0-4658-8d1a-603aa23199f6"
 		],
-		"title": "De kandidaat kan de volgende principes gebruiken bij het rekenen aan chemische processen:\r\n- massaverhouding; - overmaat / ondermaat; - stoichiometrische verhouding; - rendement als fractie of percentage van de theoretische opbrengst.",
-		"id": "d1e311a7-e71a-4863-8705-89070e10e663"
+		"title": "De kandidaat kan de volgende principes gebruiken bij het rekenen aan chemische processen:\r\r\n- massaverhouding; - overmaat / ondermaat; - stoichiometrische verhouding; - rendement als fractie of percentage van de theoretische opbrengst.",
+		"id": "d1e311a7-e71a-4863-8705-89070e10e663",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -13480,8 +13502,10 @@
 		"examenprogramma_eindterm_id": [
 			"f7a521df-cfdd-4cd8-b7b9-3200e78b4c27"
 		],
-		"title": "De kandidaat kan brandstoffen met elkaar vergelijken en redeneren over aspecten van duurzaamheid die daarbij een rol spelen: optredende emissies bij verbranding; CO2, NOx, SO2.\r\n- Olieraffinage; gefractioneerde destillatie, kraken",
-		"id": "adc78543-2471-47eb-a4ee-d3faad8107c7"
+		"title": "De kandidaat kan brandstoffen met elkaar vergelijken en redeneren over aspecten van duurzaamheid die daarbij een rol spelen: optredende emissies bij verbranding; CO2, NOx, SO2.\r\r\n- Olieraffinage; gefractioneerde destillatie, kraken",
+		"id": "adc78543-2471-47eb-a4ee-d3faad8107c7",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
