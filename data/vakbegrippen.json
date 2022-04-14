@@ -1812,7 +1812,10 @@
 			"7a4641ba-55ac-42ba-8c63-eacdeb1d4b69"
 		],
 		"title": "aggregatietoestand/fase, toestandsaanduidingen (s) (l) (g) en (aq), atomaire massa eenheid (u), alcoholen, ammonia, carbonzuren, coëfficiënt, destilaat, explosie, extractiemiddel, fase-overgang, filtraat, index, indicator, loopvloeistof, molariteit/molair (M), natronloog, ontbrandingstemperatuur, ontledingsreactie: elektrolyse, fotolyse en thermolyse, onvolledige verbanding, oplosmiddel, reagens, residu, titratie, triviale naam, vertakte koolstofketen, ijklijn, zoutzuur.",
-		"id": "be6e367e-4295-4f38-b732-577d15e0114f"
+		"id": "be6e367e-4295-4f38-b732-577d15e0114f",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
