@@ -1611,30 +1611,36 @@
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "EC/V/DomeinA/1.A2/toel.",
+		"prefix": "EC/V/DomeinA/A2/toel.",
 		"examenprogramma_eindterm_id": [
 			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
 		],
 		"title": "Bij rekenkundige vaardigheden gaat het om het toetsen van de beheersing van rekenkundige technieken en algoritmen. Het toetsen van begripsmatige kennis e.d. met een getallenvoorbeeld, wordt niet als rekenen aangemerkt omdat het rekenwerk daarbij geen doel is en uit zodanig elementaire bewerkingen bestaat dat het geen belemmering zou mogen opleveren.",
-		"id": "281a9752-f2ad-4200-af5f-f1c528d445d1"
+		"id": "281a9752-f2ad-4200-af5f-f1c528d445d1",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "EC/V/DomeinA/1.A2/toel.",
+		"prefix": "EC/V/DomeinA/A2/toel.",
 		"examenprogramma_eindterm_id": [
 			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
 		],
 		"title": "De grafische vaardigheden worden getoetst door bij voorkeur in elke context een of meer grafische elementen op te nemen (grafiek, figuur). Grafische vaardigheden worden weliswaar afzonderlijk genoemd, maar overlappen in het gebruik sterk met de informatie- en rekenkundige vaardigheden",
-		"id": "03244815-bcbd-4f1a-bce3-63f14731f748"
+		"id": "03244815-bcbd-4f1a-bce3-63f14731f748",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "EC/V/DomeinA/1.A3/toel.",
+		"prefix": "EC/V/DomeinA/A3/toel.",
 		"examenprogramma_eindterm_id": [
 			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
 		],
 		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.",
-		"id": "288e60f2-d984-4ad8-80cc-5a2ab925cf2e"
+		"id": "288e60f2-d984-4ad8-80cc-5a2ab925cf2e",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
