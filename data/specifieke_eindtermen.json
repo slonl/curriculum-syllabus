@@ -44021,5 +44021,1130 @@
 		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en uv-lichtgevoeligheid, en maakt daarbij gebruik van: de aanwezigheid van meervoudige atoombindingen; vorming van crosslinks.",
 		"id": "38a9f7bf-a582-4e74-b550-55b1c18cc0a5",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.4",
+		"examenprogramma_eindterm_id": [
+			"cee45644-2f21-4475-9fbb-b2511a43516e"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de omvang van het totale surplus als maatstaf voor de economische doelmatigheid van de economische uitkomst.",
+		"id": "031a962b-bd6e-4268-9f18-890cbcc6723a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinD/4.D3.5",
+		"examenprogramma_eindterm_id": [
+			"cee45644-2f21-4475-9fbb-b2511a43516e"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen bij een maximaal totaal surplus (som van consumenten- en producentensurplus) is de uitkomst Pareto-efficiënt.",
+		"id": "83062a77-af04-401a-b564-07570bd527c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.4a",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen rente als beloning voor het uitstellen van consumptie (sparen) en het dragen van risico (lenen) en als compensatie voor inflatie; verschillende rentes door bijvoorbeeld verschillen in looptijd, risico en liquiditeit.",
+		"id": "ebf0ecea-6c58-4b14-ad30-d8e8884d7838",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.4b",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen rente als beloning voor het uitstellen van consumptie (sparen) en het dragen van risico (lenen) en als compensatie voor inflatie; rente op bijvoorbeeld staatsobligaties, bedrijfsleningen en consumentenkrediet.",
+		"id": "c31e44b1-b27a-49d0-85e7-9fe3133525ba",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.5a",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen financiële sector en financieel risico - De financiële sector bemiddelt tussen spaarders en investeerders en verschuift risico van mensen/partijen die risico willen afstaan naar mensen/partijen die risico willen dragen.",
+		"id": "bba35084-159d-4ab4-b4cb-adaa07d3849d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.5b",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen financiële sector en financieel risico - De invloed van risico’s als (dreiging van) wanbetaling en informatieasymmetrie.",
+		"id": "37decc2c-14fe-4dbb-9d1f-4139d382d5eb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E1.5c",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen financiële sector en financieel risico - Het risico omtrent inflatie op het gedrag van aanbieders en/of vragers van vermogen en daarmee op de rente.",
+		"id": "09ed3856-82d9-427c-9ff7-5ac5cabcf5dc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinE/5.E2.2",
+		"examenprogramma_eindterm_id": [
+			"ca5d40d1-862b-404a-b966-ba4d55d77cf9"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de vermogenspositie van de overheid met daarbij: - de staatsschuld en het begrotingsaldo (tekort/overschot).\r\nDe eisen van het Stabiliteits- en groeipact zijn: Het begrotingstekort mag niet boven de 3 procent van het bbp komen en de staatsschuld mag niet meer dan 60 procent van het bbp bedragen.",
+		"id": "711542a1-2e1b-4eea-8294-e02a17b8ebcb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.3",
+		"examenprogramma_eindterm_id": [
+			"564d6843-83f0-45fc-88da-8158cd4968a3"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het onderscheid tussen een simultaan en een sequentieel spel en een herhaald (simultaan) spel.",
+		"id": "665b5d52-897b-485d-90af-08c73d9aef84",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.9",
+		"examenprogramma_eindterm_id": [
+			"564d6843-83f0-45fc-88da-8158cd4968a3"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen het effect van de reputatie die de spelers gedurende het spel hebben opgebouwd op de pay-offs in de matrix gedurende een tijdsperiode en het effect hiervan op de keuze(s) die één of meerdere spelers gedurende het verdere verloop van het spel maken.",
+		"id": "1af3dfce-1095-47c2-a3f3-579db198a507",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.10",
+		"examenprogramma_eindterm_id": [
+			"564d6843-83f0-45fc-88da-8158cd4968a3"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de invloed van het herhalen van een simultaan spel op de mogelijke evenwichten.",
+		"id": "076d4419-8a5d-4fdb-b4e5-fc784974df87",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinF/6.F1.12",
+		"examenprogramma_eindterm_id": [
+			"564d6843-83f0-45fc-88da-8158cd4968a3"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de afruil tussen binding en flexibiliteit bij langdurige relaties, bijvoorbeeld arbeidsrelaties, kartelafspraken en internationale handel.",
+		"id": "f38a8e86-d49a-446b-bb4b-6670800c4e5b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.1a",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen macro-economische begrippen - Inkomen: de vorming van het bbp (Bruto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: - Bestedingsmethode: inkomen = consumptie + investeringen + overheidsbestedingen + export – import; - Objectieve methode: inkomen = som toegevoegde waarde = totale omzet – totale kosten leveringen van derden; - Subjectieve methode: inkomen = arbeidsinkomen (loonsom werknemers + toegerekende lonen zelfstandigen) + kapitaalinkomen (rente, dividend, pacht, huur en winst) + afschrijvingen.",
+		"id": "f6a03f50-62c9-49ba-a8d3-373e8a774a41",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.1b",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen macro-economische begrippen - Categoriale inkomensverdeling.",
+		"id": "3916ef63-b84e-4a7e-96ad-779667101bdb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.1c",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen macro-economische begrippen - Loonkosten per eenheid product en de arbeidsinkomensquote (=AIQ) arbeidsinkomen als deel van het nationaal inkomen.",
+		"id": "0df9d2cb-5e54-463f-b917-f3088983a392",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2a",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: Reële kringloop: Y = C + I + O + E – M",
+		"id": "36bb32e6-d91d-4598-b75f-d9e542c6b05c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2b",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: Bestedingen van de een is het inkomen van een ander (evenwicht goederenmarkt).",
+		"id": "325425a0-a469-492e-a3b3-583f69c27425",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2c",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: Financiële kringloop: S = I + (O – B) + (E – M).",
+		"id": "c938e07e-b999-4087-8426-db9bdba731f1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2d",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: De vordering van de een is de verplichting van de ander (evenwicht vermogensmarkt).",
+		"id": "8838882e-b4cc-4585-a1cc-b6bb373dfea5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2e",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: In open economie: saldo lopende rekening = nationaal spaarsaldo = particulier spaarsaldo + overheidssaldo.",
+		"id": "69b0922a-b388-47d6-8b44-98b962535ede",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2f",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: Voor iedere transactie in de reële sfeer (reële kringloop) bestaat er een transactie in de financiële sfeer (financiële kringloop) .",
+		"id": "83cb1ca6-a480-4f2a-8d37-896a7cab8afe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H1.2g",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de economische kringloop, reëel en financieel: Betalingsbalans, lopende rekening (reële transacties met buitenland) en financiële rekening (financiële transacties met buitenland).",
+		"id": "9c262cda-6976-4a10-9094-34e265c8d6c0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.1",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen op lange termijn wordt de economische groei bepaald door de groei van de productiefactoren en technologie (het aanbod) in de economie.",
+		"id": "887bcae6-b4bc-427c-89e6-20deb2a1067b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.2a",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de productiefunctie: Y = Af(K, L) : f(·): productiefunctie, A: (totale factor) productiviteit, K: kapitaal en land, L: arbeid.",
+		"id": "73aa9c9c-c0f2-4b87-ad52-9a0dd7d1bb61",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.2b",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de productiefunctie: Y = Af(K, L) : Potentiële productie Y stijgt/daalt door meer/minder kapitaal (K hoger), meer/minder arbeid (L hoger), hogere/lagere (totale factor) productiviteit (A hoger).",
+		"id": "7300ca55-7268-440d-84c2-b77a3cf49269",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.2c",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de productiefunctie: Y = Af(K, L) : Positieve maar afnemende meeropbrengsten van kapitaal K en arbeid L.",
+		"id": "89fefd57-13ab-4ab7-91ec-e7e88cc13599",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.2d",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de productiefunctie: Y = Af(K, L) : Constante schaalopbrengsten: verdubbeling K en L leidt tot verdubbeling Y.",
+		"id": "49196fd5-964f-4b87-a0d6-1662467f0b46",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.3",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen factoren die de totale factorproductiviteit bepalen. De totale factorproductiviteit stijgt (A hoger) door innovatie (proces- en product-), R&D, learning-by-doing, onderwijs, onderzoek, handel, betere instituties, betere infrastructuur, beter milieu, gunstige geografische ligging politieke stabiliteit. Onder instituties wordt onder meer verstaan: kwaliteit overheid, eigendomsrechten en rechtsstaat, regels voor eerlijke mededinging.",
+		"id": "3ee74ebb-180f-4571-bf9e-fab53fb72e5b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H2.4",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen structureel of groeibevorderend beleid: beleid dat A, K, of L verhoogt.",
+		"id": "38b0b5f2-6632-4d9a-b986-ea742f1edef9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.1",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen welvaart van een huishouden - De (brede) welvaart van een gezinshuishoudens is waarde van behoeftebevrediging van schaarse goederen zoals consumptie van goederen en diensten, vrije tijd, milieu, leefomgeving, collectieve goederen, infrastructuur, risico (negatief), ongelijkheid (negatief), veiligheid, overheidspaternalisme.",
+		"id": "c75c8dee-4863-43b3-8c4c-e37b504fbc60",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2a",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen maatschappelijke welvaart: Maatschappelijke (brede) welvaart = een optelsom van (brede) welvaart van alle huishoudens.",
+		"id": "a174804b-a501-41f9-955d-bc18bdb98a40",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2b",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen maatschappelijke welvaart: Alleen gezinshuishoudens dragen bij aan de maatschappelijke welvaart. Ondernemingen dragen indirect bij aan de welvaart via de winstuitkeringen aan de huishoudens.",
+		"id": "1a8a1c33-cdea-4415-8d4a-8b60cbcb1f90",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2c",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen maatschappelijke welvaart: Maatschappelijke welvaart houdt politieke waardeoordelen in over ongelijkheid (wiens welvaart weegt het zwaarste in de optelling van welvaart van huishoudens).",
+		"id": "49a22cd4-6dbe-4672-a3e1-0517bbf46a38",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2d",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen maatschappelijke welvaart: De maatschappelijke welvaart kan alleen in geld worden uitgedrukt als alle (materiële en immateriële) maatschappelijke kosten en baten van schaarse goederen, bijvoorbeeld als de baten of kosten van\r\n(inkomens)risico, infrastructuur, milieu, leefomgeving en veiligheid in geld kunnen worden uitgedrukt, en welvaartsvergelijking tussen huishoudens mogelijk is.",
+		"id": "ccb36cc9-c7b0-4d92-a79b-74889fca3d55",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.2e",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen maatschappelijke welvaart: Verschil tussen welvaart en bbp: het verschil tussen brede maatschappelijke welvaart en de totale waarde van markttransacties.",
+		"id": "5f7d8272-04c5-47a5-98f0-319bedea3d48",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.3",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Maximale maatschappelijke welvaart is niet gelijk aan Pareto-optimum: maatschappelijke welvaart neemt toe als de maatschappelijke winst van de een groter is dan het maatschappelijke verlies van de ander.",
+		"id": "8a151816-b228-4a07-a188-c80117813f8d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.4",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Welzijn gaat over de behoeftebevrediging ontleend aan schaarse en nietschaarse goederen en brede welvaart alleen over de behoeftebevrediging ontleend aan schaarse goederen.",
+		"id": "91fb7244-011b-4249-b384-7a34c5b85a1f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H3.5",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Groen bbp per hoofd: groen bbp = bbp minus geschatte (monetaire) waarde van schade aan milieu plus geschatte (monetaire) waarde van verbetering aan milieu.",
+		"id": "124d1da2-90a8-42f5-8e7c-473067d89df6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.1",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Gini-coëfficiënt en percentielenratio als maatstaven voor inkomensongelijkheid.",
+		"id": "ed9e56b0-5e31-46e9-a856-d90dc60e2087",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.2",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Maatstaven voor inkomen kunnen verschillen: huishouden vs. Individu, arbeidsinkomen vs. totaal inkomen (inclusief kapitaalinkomen en uitkeringen),  primair en secundair inkomen.",
+		"id": "d49e8ee0-8417-4ba5-94ca-766f42d3b16b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.3",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Ongelijkheid van vermogen.",
+		"id": "9830ab48-1285-4aaa-94f4-e98832fcad3b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.4",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Nivelleren en denivelleren: met beleid verkleinen of vergroten van de relatieve inkomensverschillen tussen huishoudens.",
+		"id": "fc500dcd-ea8b-4003-a0aa-a7be9da39b73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.5",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Er kan een afruil zijn tussen doelmatigheid en rechtvaardigheid als herverdeling van inkomen en vermogen leidt tot minder prikkels voor economische activiteiten, bijvoorbeeld om te werken (uren, participatie, uittreding), te sparen, te scholen, te ondernemen, en tot meer prikkels om te migreren of belasting te ontwijken. Deze afruil hoeft niet op te treden als herverdeling niet leidt tot minder sterke prikkels voor economische activiteiten (via bijvoorbeeld onderwijs, kinderopvang, sociale zekerheid).",
+		"id": "e82e14b9-dbb7-4a27-a097-682e242c2f1b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.6",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen Belasting: Gemiddeld en marginaal tarief; Belastingwig; Progressief /degressief belastingstelsel: gemiddeld tarief stijgt /daalt met inkomen; Vlaktaks: 1 marginaal tarief; Belasting op inkomen uit arbeid; Belasting op vermogen;  Heffingskortingen;  Aftrekposten en bijtellingen; Vennootschapsbelasting; Indirecte belastingen, zoals de btw en de accijnzen.",
+		"id": "4e755892-b9b2-42d5-a944-7d73de68c3c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H4.7",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Uitkeringen en toeslagen als instrumenten voor herverdeling en verzekering.",
+		"id": "75872700-3456-4dd3-b097-ef0bc1c6bab8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H5.1",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Begrippen voor de beschrijving van de arbeidsmarkt: Arbeidsaanbod (= beroepsbevolking);  Arbeidsvraag (werkgelegenheid + openstaande vacatures);  Werkloosheid;  Vacatures;  Loonontwikkeling;  Flexwerk en zzp.",
+		"id": "2fe9f624-3606-4587-9c20-b78d6872983e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H5.2",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Verschillende soorten werkloosheid: Structurele werkloosheid, waaronder frictiewerkloosheid en Conjuncturele werkloosheid.",
+		"id": "3b61e72e-5355-43b9-b10e-cfef60bf0dfe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinH/8.H5.3",
+		"examenprogramma_eindterm_id": [
+			"34f295b0-a99e-412c-a39c-58f86dc4d884"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen: Verklaringen structurele en frictiewerkloosheid.",
+		"id": "ad61ccdd-d807-4acf-91d5-839aafa29902",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.1",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen begrippen voor de beschrijving van de conjunctuur:  Bbp-groei & niveau;  Output gap = feitelijke productie (= Y) – potentiële productie (= Y*);  Werkloosheid en werkgelegenheid;  Inflatie en prijspeil (consumentenprijsindex);  Nominale rente centrale bank;  Reële rente.",
+		"id": "92c36951-28a6-4247-9017-84be76a14542",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.2",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen conjunctuur, output gap en werkloosheid: Structureel aanbod op lange termijn = potentiële productie Y*;  Geaggregeerde vraag = feitelijke productie Y;  Natuurlijke werkloosheid: structurele werkloosheid die hoort bij potentiële productie en constante inflatie; Hoogconjunctuur: overbesteding, output gap > 0, werkloosheid < structurele werkloosheid;  Laagconjunctuur: onderbesteding, output gap < 0, werkloosheid > structurele werkloosheid.",
+		"id": "dfbc0a93-00b0-43d1-bc1d-659ce1db99bd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.3",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen conjunctuur en welvaart:  Schommelingen in de inflatie, het inkomen en werkloosheid veroorzaken welvaartsverliezen.",
+		"id": "60ae9911-3c1f-4332-ad2a-34152aac6032",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.4",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen reële versus nominale grootheden:  Koopkracht en inflatie;  De relatie tussen het prijsindexcijfer, koopkracht en inflatie/deflatie;  Reële rente = (1 + nominale rente)/(1 + verwachte inflatie) – 1;  Geldillusie: mensen verwarren reële en nominale grootheden.",
+		"id": "39f8903b-a551-4cdb-bdc2-67de5b21baa8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I1.5",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen conjunctuurpolitiek: Het beïnvloeden van de conjunctuur door middel van monetair of begrotingsbeleid; timing en dosering van actieve begrotingspolitiek en monetair beleid.",
+		"id": "746f9bcc-d8d5-4b88-9bcf-47c950aa0469",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.1",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen anticyclisch / procyclisch begrotingsbeleid: stimulerend / verkrappend begrotingsbeleid (hogere uitgaven of lagere belastingen) bij laagconjunctuur en verkrappend / stimulerend begrotingsbeleid bij hoogconjunctuur.",
+		"id": "d9bba44c-02d8-4724-a5c3-9e9a93aac9f7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.2",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen automatische stabilisatoren bij hoogconjunctuur en laagconjunctuur: sociale uitkeringen en belastingen.",
+		"id": "eba8e318-5163-4347-aaef-68cadd253f63",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I2.3",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen inverdieneffecten bij het begrotingsbeleid zijn de hogere belastinginkomsten en lagere uitgaven aan uitkeringen doordat economie wordt gestimuleerd. Omgekeerde geldt bij uitverdieneffecten.",
+		"id": "810fe369-577a-4a21-95b8-57221789d288",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.1",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de Europese Centrale Bank (ECB) voert monetair beleid en houdt financieel toezicht.",
+		"id": "753e0490-57a7-4fb3-a05a-153366c76133",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.2",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de geldhoeveelheid: geld in handen van publiek in omloop - M1 als maatstaf van de maatschappelijke geldhoeveelheid.",
+		"id": "30112298-c303-494a-92b0-c89b22790040",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.3a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - doelstelling monetair beleid centrale bank:  Enkelvoudig mandaat: prijsstabiliteit (ECB).",
+		"id": "b613f100-8706-4403-b317-41ba68346b8d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.3b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen  - doelstelling monetair beleid centrale bank: Duaal mandaat: prijsstabiliteit en economische groei (bijvoorbeeld FED).",
+		"id": "d40f22dd-dfb7-42bf-8d97-73a415830291",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.4a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - geldschepping: Proces van geldschepping via simultane kredietverlening en creatie van bankdeposito’s en vice versa voor geldvernietiging.",
+		"id": "28ef68a1-522e-4119-831b-8b59dd902c2e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.4b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - geldschepping: Hogere rente centrale bank remt kredietverlening en creatie deposito’s af en vertraagt de geldgroei omdat de financieringskosten van banken toenemen.",
+		"id": "ffd06a08-c3ec-4947-a182-041f0670ba5b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.5a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - monetair beleid (rentebeleid):  De rente van de centrale bank (ECB: refi-rente) bepaalt uiteindelijk de geldhoeveelheid: een hogere (lagere) rente leidt tot minder (meer) kredietverlening door banken en dus een lagere (hogere) geldhoeveelheid.",
+		"id": "3fce215b-c073-4be0-8a99-ff7e17297092",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.5b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - monetair beleid (rentebeleid): De Centrale Bank bereikt de aangekondigde rente door interventies op de geldmarkt.",
+		"id": "098ba887-641d-46a7-b6b6-4d3b7b5c7fa1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.6a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - effectieve ondergrens nominale rente: Zodra de nominale rente negatief wordt, ontstaan er prikkels om vermogen contant aan te houden.",
+		"id": "fcda31e4-c85d-43a1-88e7-5bc17736fc5b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.6b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - effectieve ondergrens nominale rente: In een geldeconomie kan de rente op spaargeld en overheidsobligaties enigszins negatief worden want het aanhouden van veel kasgeld is onpraktisch en kostbaar.",
+		"id": "78ea9ca6-8250-48bc-a314-4c0b42866c96",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.7",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - banken en financieel toezicht:  Een bankrun kan ontstaan doordat de langlopende bezittingen van een bank niet op korte termijn kunnen worden verkocht om aan de kortlopende verplichtingen te voldoen; Depositogarantiestelsel vermindert de kans op bankruns en de ECB treedt op als lener-in-laatste-instantie aan banken.",
+		"id": "e6c3296e-c5a0-4d9a-aa76-8181c4a90ef9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer:  Wisselkoers: prijs van een munt in termen van een andere munt (bijvoorbeeld euro per dollar).",
+		"id": "60beac48-022e-4db0-b96e-b7c402ed44f5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Internationale concurrentiepositie van een land hangt af van buitenlands prijspeil ten opzichte van binnenlands prijspeil en de wisselkoers.",
+		"id": "befcbc6e-60a5-482b-b160-e47d214cc846",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Depreciatie/appreciatie van de munt leidt tot toename/afname van het saldo op de lopende rekening en een toename/afname van het saldo op de financiële rekening.",
+		"id": "a534fb69-332f-4bb6-b6dc-27e44b0b34f7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8d",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Een hogere/lagere nominale rente leidt tot appreciatie/depreciatie van de munt door een hogere/lagere kapitaalinvoer.",
+		"id": "9bc4995e-a22c-47f8-b43d-7d3ce010c4b4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8e",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Wisselkoersregimes: vaste en zwevende wisselkoersen.",
+		"id": "ce279b6f-9075-4013-a5c2-566e04157fff",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8f",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Bij vaste wisselkoersen en vrij kapitaalverkeer kan de Centrale Bank geen onafhankelijke rentepolitiek voeren: als de centrale bank de rente verhoogt, leidt dat tot een kapitaalinstroom uit het buitenland, waardoor de wisselkoers apprecieert.",
+		"id": "af6df446-1f18-4eb6-abb8-7aa5d9febd7f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.8g",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - rente, wisselkoersen en kapitaalverkeer: Trilemma monetair beleid: maar twee van de volgende drie kunnen worden gekozen: vrij kapitaalverkeer,  zelfstandig monetair beleid,  vaste wisselkoers.",
+		"id": "da35de37-46ef-44eb-9541-12762278308c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.9a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - EMU: Een muntunie heeft als voordeel dat wisselkoersschommelingen worden voorkomen waardoor financiële stabiliteit kan worden bevorderd.",
+		"id": "04770b78-4ab9-4d51-9c68-616787abfdf5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.9b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - EMU: Een muntunie heeft als nadeel dat economieën in de muntunie niet meer schokken kunnen opvangen via aanpassing van de wisselkoers waardoor de conjunctuurbeweging wordt versterkt.",
+		"id": "16b6eb99-566f-4ac7-8149-7bde1344ea10",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I3.9c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - EMU: Theorie optimale valutagebieden: bij afwezigheid van wisselkoers is alternatief aanpassingsmechanisme nodig via prijzen, lonen, migratie of inkomensoverdrachten (transfers).",
+		"id": "b4e4c294-953b-414e-ab06-e9efb5fc81fb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: de consumptie stijgt als het besteedbaar inkomen toeneemt en als de autonome consumptie toeneemt.",
+		"id": "f9df91e8-6c10-4325-90c5-a605bb2e347d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: de investeringen zijn autonoom.",
+		"id": "200af668-5d01-44bb-8db8-52f5cb380a7e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: het Keynesiaanse kruis geeft het evenwicht tussen de bestedingen en het inkomen bij gegeven rente en inflatie.",
+		"id": "7c97a334-845a-4008-b399-dbc5663c5ffe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1d",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: de bestedingen van de een zijn het inkomen van een ander: de totale bestedingen nemen toe/af als het inkomen stijgt/daalt (ceteris paribus).",
+		"id": "7dd64705-647f-4d49-8921-d2886878f6f5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1e",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: mechanisme: inkomen Y past zich aan om evenwicht te geven op de goederenmarkt.",
+		"id": "2713d7ee-8d4f-48dd-9a95-019eba35dc9e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1f",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: consumentenvertrouwen en producentenvertrouwen, optimisme/pessimisme (‘animal spirits’): hogere/ lagere autonome consumptie of investeringen . Bij ieder inkomen willen huishoudens of bedrijven meer/minder\r\nconsumeren of investeren.",
+		"id": "a412db52-b21d-4a15-89fb-7fc3ce115231",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1g",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: hogere/lagere overheidsuitgaven O of lagere belastingen B verhogen/verlagen bestedingen waardoor een hoger/lager inkomen.\r\nwordt bereikt (en vice versa)",
+		"id": "0aed1677-161e-4e4d-8cd6-1b3c67d08042",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1h",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: als de goederenmarkt in evenwicht is, dat is de vermogensmarkt automatisch ook in evenwicht. Uit de kringloop (bij gesloten economie) volgt dat aanbod gelijk is aan de vraag op de vermogensmarkt: S = I + (O – B).",
+		"id": "4976195a-25b6-490a-ba50-514d8fa7a480",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1i",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: een hoge marginale consumptiequote (lagere marginale spaarquote) zorgt voor een steilere (vlakkere) helling van de bestedingslijn, waardoor de effecten van hogere bestedingen op het inkomen (multipliers) groter (kleiner) zijn.",
+		"id": "0b043cc8-b94e-4214-b357-b665299f5de5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.1j",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Het Keynesiaanse kruis: de grootte van de multiplier hangt af van het spaarlek en het belastinglek.",
+		"id": "9cf3b74e-7c96-4695-941d-0e71da989789",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.2a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de IS-curve geeft de combinaties van inkomen en reële rente waarbij de goederenmarkt in evenwicht is: productie = bestedingen. Op de horizontale as staat het inkomen en op de verticale as de reële rente. De IS-curve geeft een dalend verband weer tussen de rente en het\r\ninkomen.",
+		"id": "6e46e7cf-8724-4a05-841e-5ae811871a65",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.2b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen mechanisme voor dalend verband: de consumptie en de investeringen stijgen/dalen als de reële rente daalt/stijgt.",
+		"id": "a02652dd-9ce3-4476-948d-08219552f51d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.2c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen stijging/daling van autonome bestedingen (bijvoorbeeld door lagere autonome consumptie of investeringen of stimulerend/verkrappend begrotingsbeleid) leidt tot een hoger/lager inkomen. De IS-curve schuift naar rechts/links, want bij iedere reële rente zal het inkomen hoger/lager zijn om evenwicht op de goederenmarkt te realiseren.",
+		"id": "939f23f5-4c57-474e-ba46-8ba6fda89596",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de MB-curve geeft de monetaire beleidsregel van de Centrale Bank. Op de horizontale as staat het inkomen en op de verticale as de reële rente. De MB-curve geeft een horizontaal verband tussen de reële rente r en het inkomen Y.",
+		"id": "1ee65a3f-6799-451a-aff5-d292d2b0f5e1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de centrale bank voert een ruimer/krapper monetair beleid (heeft een hogere/lagere inflatiedoelstelling) als het een lagere/hogere rente zet bij ieder inkomen Y.",
+		"id": "814fecb3-71e8-4e6a-9803-6e55abef09ea",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen monetaire beleidsregel centrale bank: de reële rente gaat omhoog/omlaag (MB-curve schuift omhoog/omlaag) als inflatie stijgt/daalt.",
+		"id": "0f53bb38-4b38-43f7-a3c5-007ef7a2a5f2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3d",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen mechanisme: de Centrale Bank verhoogt/verlaagt de nominale rente als de inflatie stijgt/daalt. Bij gegeven inflatieverwachtingen betekent dit dat de reële rente stijgt/daalt.",
+		"id": "a239b25d-9eba-48e0-9eda-88d20ed6b835",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.3e",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen bij een sterkere afkeer van inflatie zal de Centrale Bank de nominale rente meer aanpassen als de inflatie stijgt/daalt (en zal de MB-curve meer omhoog/omlaag verschuiven).",
+		"id": "e85c7b93-5c16-4088-95b5-06911c05d89c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.4a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen de GA-curve geeft het geaggregeerde aanbod van goederen en diensten bij ieder inflatieniveau. De GA-curve is stijgend in de inflatie. Op de horizontale as staat het inkomen en op de verticale as de inflatie. Punt op de GA-curve waarbij Y = Y* geeft de verwachte inflatie weer.",
+		"id": "d65565f2-680a-425a-8e65-ba2f056a8677",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.4b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen hoe groter/kleiner de mate van loon- en prijsflexibiliteit is, hoe steiler/vlakker de helling van de GA-curve.",
+		"id": "643d7dea-2976-4a89-9432-69099ab459cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.4c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen mechanisme: GA is stijgend door loon- en prijsrigiditeit. Bij een hogere/lagere dan verwachte inflatie dalen/stijgen de reële lonen en de reële productiekosten omdat nominale lonen en inkoopprijzen op de korte termijn zijn vastgelegd in contracten. Bij lagere/hogere reële productiekosten zullen bedrijven meer/minder produceren.",
+		"id": "f9f3ec38-daa9-4c18-a993-a0f4c34fe10d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.4d",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen mechanisme achter verschuiving curve over de tijd: Aanpassingen van KT naar LT-evenwicht verlopen via de aanpassing van de verwachte inflatie over de tijd. Als de inflatie stijgt /daalt, zal de inflatieverwachting ook toenemen/afnemen, waardoor lonen en inkoopprijzen opnieuw worden onderhandeld op basis van de hogere/lagere inflatieverwachtingen. De GA-curve schuift dan omhoog/omlaag over de tijd.",
+		"id": "7aa11444-e148-4839-995b-e591d4b8c4c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.5",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen conjuncturele werkloosheid treedt op bij een negatieve output gap en neemt toe als de output gap negatiever wordt.",
+		"id": "b6050888-a6e1-4399-8f10-5b5605cf104d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.6a",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA. Keynesianen: begrotingsbeleid is krachtig, monetair beleid is zwak; IS-curve is steil: bestedingen reageren weinig op de renteveranderingen; MB verschuift weinig: centrale bank verhoogt rente weinig bij\r\nstijgende inflatie.",
+		"id": "522144b2-154b-4075-8389-39664aca8136",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.6b",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA: Monetaristen: begrotingsbeleid is zwak, monetair beleid is sterk; IS-curve is vlak: bestedingen reageren sterk op de rente; MB verschuift veel: centrale bank verhoogt rente sterk bij stijgende inflatie.",
+		"id": "34c58bca-39b4-43e0-b033-5cd2e5281140",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.6c",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen  - Economische scholen en IS-MB-GA: Keynesianen en monetaristen: er is geen perfecte loon- en prijsflexibiliteit waardoor GA-curve niet verticaal is. Op korte termijn is Y niet gelijk aan potentiële productie Y*.",
+		"id": "6f9ea3a5-1e53-426a-8143-be6fc2942c64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "EC/V/DomeinI/9.I4.6d",
+		"examenprogramma_eindterm_id": [
+			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		],
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA: Neo- en Nieuw klassieken: er is sprake van perfecte loon- en prijsflexibiliteit. GA is verticaal en Y is gelijk aan potentiële productie Y*. Hierdoor is vraagstimulering (budgettair en monetair) niet effectief: geen effect op inkomen, alleen effect op inflatie.",
+		"id": "b63b93d0-6b7a-4181-aee5-eca6f6cdd7dc",
+		"unreleased": true
 	}
 ]
