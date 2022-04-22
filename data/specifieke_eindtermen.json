@@ -5952,8 +5952,10 @@
 		"examenprogramma_eindterm_id": [
 			"dad9c0f0-d9e6-48f6-98a8-b1d0d3e15f07"
 		],
-		"title": "De kandidaat kan de verworven en/of gegeven informatie vanuit een gegeven (onderzoeks)vraag analyseren en daarbij: \r\n(a) informatie beoordelen op bruikbaarheid, betrouwbaarheid en representativiteit",
-		"id": "e91c5039-fae1-4d89-bd84-97ee0c93fae1"
+		"title": "De kandidaat kan de verworven en/of gegeven informatie vanuit een gegeven (onderzoeks)vraag analyseren en daarbij: \r\r\n(a) informatie beoordelen op bruikbaarheid, betrouwbaarheid en representativiteit",
+		"id": "e91c5039-fae1-4d89-bd84-97ee0c93fae1",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -6015,8 +6017,10 @@
 		"examenprogramma_eindterm_id": [
 			"2d1421fb-48a7-4e99-b45c-46766272609b"
 		],
-		"title": "De kandidaat kan op basis van consistente redeneringen een advies uitbrengen en dit uitleggen en daarbij  in het geding zijnde waarden noemen: \r\neigen opvattingen analyseren, mogelijke consequenties van een standpunt beoordelen en een beargumenteerd standpunt opstellen.",
-		"id": "066eab60-5874-4917-9a01-aa9a9b2024c0"
+		"title": "De kandidaat kan op basis van consistente redeneringen een advies uitbrengen en dit uitleggen en daarbij  in het geding zijnde waarden noemen: \r\r\neigen opvattingen analyseren, mogelijke consequenties van een standpunt beoordelen en een beargumenteerd standpunt opstellen.",
+		"id": "066eab60-5874-4917-9a01-aa9a9b2024c0",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -6033,8 +6037,10 @@
 		"examenprogramma_eindterm_id": [
 			"2d1421fb-48a7-4e99-b45c-46766272609b"
 		],
-		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met de gegevens rekenkundig en/of grafisch uitleggen, basisrekenvaardigheden in bedrijfseconomische vraagstukken zoals : \r\n1. rekenregels optellen, aftrekken, vermenigvuldigen, delen \r\n2. positieve en negatieve getallen/breuken/decimalen \r\n3. procenten, promillen en percentages \r\n4. onderscheid procentuele verandering en procentpunt verandering",
-		"id": "45621361-8a2c-4019-9155-bdd01d8f7047"
+		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met de gegevens rekenkundig en/of grafisch uitleggen, basisrekenvaardigheden in bedrijfseconomische vraagstukken zoals : \r\r\n1. rekenregels optellen, aftrekken, vermenigvuldigen, delen \r\r\n2. positieve en negatieve getallen/breuken/decimalen \r\r\n3. procenten, promillen en percentages \r\r\n4. onderscheid procentuele verandering en procentpunt verandering",
+		"id": "45621361-8a2c-4019-9155-bdd01d8f7047",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -6042,8 +6048,10 @@
 		"examenprogramma_eindterm_id": [
 			"2d1421fb-48a7-4e99-b45c-46766272609b"
 		],
-		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met de gegevens rekenkundig en/of grafisch uitleggen, vergelijkingen, beschrijvende statistiek en grafieken in bedrijfseconomische vraagstukken zoals: \r\n1. werken met eerstegraadsvergelijkingen \r\n2. werken met assenstelsels (X en Y) \r\n3. waarden bepalen en grafieken tekenen en/of bewerken \r\n4. berekeningen maken op basis van grafieken \r\n5. indexcijfers \r\n6. diagrammen \r\n7. tabellen: rijen/kolommen \r\n8. machten \r\n9. gemiddelden: gewogen en ongewogen.",
-		"id": "11db321f-6b31-4bed-ab73-5e27e7aa11b9"
+		"title": "De kandidaat kan berekeningen maken met behulp van relevante rekenkundige en grafische vaardigheden, rekening houdend met de gegevens rekenkundig en/of grafisch uitleggen, vergelijkingen, beschrijvende statistiek en grafieken in bedrijfseconomische vraagstukken zoals: \r\r\n1. werken met eerstegraadsvergelijkingen \r\r\n2. werken met assenstelsels (X en Y) \r\r\n3. waarden bepalen en grafieken tekenen en/of bewerken \r\r\n4. berekeningen maken op basis van grafieken \r\r\n5. indexcijfers \r\r\n6. diagrammen \r\r\n7. tabellen: rijen/kolommen \r\r\n8. machten \r\r\n9. gemiddelden: gewogen en ongewogen.",
+		"id": "11db321f-6b31-4bed-ab73-5e27e7aa11b9",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -6204,8 +6212,13 @@
 		"examenprogramma_eindterm_id": [
 			"f54a0a2f-d5c0-46fb-933e-144890a1ce18"
 		],
-		"title": "De kandidaat kan de verschillen in risico en rendement tussen de vermogenstitels analyseren",
-		"id": "2b2047c7-cfbb-4b71-b396-abef03637d1f"
+		"title": "De kandidaat kan de verschillen in risico en rendement tussen de vermogenstitels analyseren.",
+		"id": "2b2047c7-cfbb-4b71-b396-abef03637d1f",
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"9b584fc0-4322-42f8-9491-2ed2959a9460"
+		]
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1f",
@@ -6918,8 +6931,14 @@
 		"examenprogramma_eindterm_id": [
 			"22124844-67bc-4c3b-b216-2d9476777d16"
 		],
-		"title": "De kandidaat kan op basis van de samenhang tussen de marketinginstrumenten, het\r\nmarketingbeleid beoordelen.",
-		"id": "1fa32b1e-a0c0-4771-b84f-19f33a9b351f"
+		"title": "De kandidaat kan op basis van de samenhang tussen de marketinginstrumenten, het\r\r\nmarketingbeleid beoordelen.",
+		"id": "1fa32b1e-a0c0-4771-b84f-19f33a9b351f",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"syllabus_vakbegrip_id": [
+			"44ddf4ce-6a9f-4d12-8a7f-4a19e870a37f"
+		]
 	},
 	{
 		"prefix": "BE/V/DomeinE/E2/25.3",
@@ -7238,8 +7257,14 @@
 		"examenprogramma_eindterm_id": [
 			"f0e575aa-be53-44e7-95d1-89ea67af73f9"
 		],
-		"title": "De kandidaat kan kengetallen ter beoordeling van de onderneming berekenen:\r\n- liquiditeitsratio’s: current ratio, quick ratio\r\n- solvabiliteitsratio’s: elk verhoudingsgetal EV/VV/TV\r\n- rentabiliteitsratio’s: resultaat per aandeel, REV, RTV, IVV, cash flow per aandeel",
-		"id": "b5c2713b-5a27-4840-a0a9-3fcbf2eb0872"
+		"title": "De kandidaat kan kengetallen ter beoordeling van de onderneming berekenen:\r\r\n- liquiditeitsratio’s: current ratio, quick ratio\r\r\n- solvabiliteitsratio’s: elk verhoudingsgetal EV/VV/TV\r\r\n- rentabiliteitsratio’s: resultaat per aandeel, REV, RTV, IVV, cash flow per aandeel",
+		"id": "b5c2713b-5a27-4840-a0a9-3fcbf2eb0872",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"syllabus_vakbegrip_id": [
+			"7c3f984d-68bb-49a7-801b-f44ade3ad382"
+		]
 	},
 	{
 		"prefix": "BE/V/DomeinG/32.4",
