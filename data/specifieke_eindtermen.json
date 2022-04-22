@@ -43812,10 +43812,10 @@
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
 		],
 		"syllabus_vakbegrip_id": [
-			"ead079bc-a92c-475e-9153-356a87cd59f7"
+			"8c3418f4-96ac-4a99-b7f2-9a7608c7bc6b"
 		],
 		"syllabus_toelichting_id": [
-			"94d82bd7-1cd9-48ae-803a-5479df3bbd38"
+			"07bcb11e-5d7c-4a5b-b463-72ffeba72251"
 		]
 	},
 	{
@@ -45546,6 +45546,56 @@
 		],
 		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: vragen gericht op het maken van keuzes en het oplossen van problemen - een oplossing bevat een mogelijke uitkomst voor een vraagstuk.",
 		"id": "fd93ec1e-0556-4476-86ad-8beb94f3f057",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: beschrijvende vragen - een beschrijving bevat een (stapsgewijze) weergave van een locatie, kenmerk, proces of patroon.",
+		"id": "569eada4-ea70-47e7-8b86-2446d798d3ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: verklarende vragen - een verklaring of een uitleg bevat een weergave van een relatie tussen twee of meer gegevens of verschijnselen bijvoorbeeld in de vorm van een oorzaak-gevolgrelatie.",
+		"id": "1b397001-529b-4562-8d3a-75058014c627",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.4",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: voorspellende vragen - een voorspelling bevat een onderbouwd toekomstbeeld dat is samengesteld op basis van een verwachting.",
+		"id": "4dd50184-e045-4d53-a3bb-4b069ed6d51a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.5",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: een waardering bevat een onderbouwd oordeel over een keuze of een beslissing.",
+		"id": "4f86313b-855c-4763-8190-f2182a21c0ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.6",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: vragen gericht op het maken van keuzes en het oplossen van problemen - een oplossing bevat een mogelijke uitkomst voor een vraagstuk.",
+		"id": "7b1adecb-9751-42ee-9b61-e4e8f53aed7c",
 		"unreleased": true
 	}
 ]
