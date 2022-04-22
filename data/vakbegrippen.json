@@ -509,15 +509,21 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "ebc73da6-195f-4198-a8f7-65ba157f1480",
-		"title": "Zachte kunsten, duinen, wadden, estuaria, harde kusten, zeedijken, waterkeringen, kustprocessen (opbouw en afbraak), zeestroming, getuidenstroming, eb en vloed, springtij en doodtij, wind, zeespiegelstijging, absolute zeespiegelstijging, bodemdaling, relatieve zeespiegelstijging, stroomgebied, stroomstelsel, waterscheiding, waterafvoer, debiet, regiem, vertragingstijd, (verhoogde) piekafvoer, verhang, verval, dwarsprofiel rivieren (benedenloop), uiterwaarden, zomerbed, winterbad, lengteprofiel rivieren, bovenloop, middenloop, benedenloop, klimaatverandering, temperatuurstijging, onregelmatiger neerslagregiem, menselijke ingrepen, verstening van het oppervlak, ontbossing, kanalisatie, stuw, krib, dijk (verzwaring)",
+		"title": "Zachte kusten, duinen,wadden, estuaria, harde kusten, zeedijken, waterkeringen, kustprocessen (opbouw en afbraak), zeestroming, getuidenstroming, eb en vloed, springtij en doodtij, wind, zeespiegelstijging, absolute zeespiegelstijging, bodemdaling, relatieve zeespiegelstijging, stroomgebied, stroomstelsel, waterscheiding, waterafvoer, debiet, regiem, vertragingstijd, (verhoogde) piekafvoer, verhang, verval, dwarsprofiel rivieren (benedenloop), uiterwaarden, zomerbed, winterbad, lengteprofiel rivieren, bovenloop, middenloop, benedenloop, klimaatverandering, temperatuurstijging, onregelmatiger neerslagregiem, menselijke ingrepen, verstening van het oppervlak, ontbossing, kanalisatie, stuw, krib, dijk (verzwaring)",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "e2e0b040-7168-4a6e-80e4-ab0e282fdde2",
@@ -525,7 +531,10 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "f3648277-1a3b-4186-95c9-e3654538b385",
@@ -533,7 +542,10 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "7f992f38-0d95-46c6-8c44-a8ee005b0b3e",
@@ -551,7 +563,10 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "42840e4f-e15e-4045-8c56-a1415c5a08ac",
@@ -6209,6 +6224,128 @@
 		"ce_se": "ce",
 		"title": "buurtprofiel, woningkenmerken: naar ouderdom - naar eigendom - naar woningtype - naar onderhoud, bewonerskenmerken: naar grootte van huishoudens - naar etniciteit - naar inkomen - naar gezinsfase - naar leeftijd, woonomgeving, buurt-/ wijkvoorzieningen, sociale cohesie, sociale (on)veiligheid: objectieve (on)veiligheid - subjectieve (on)veiligheid, openbare ruimte: toegankelijkheid - onderhoud - overzichtelijkheid - toezicht, stadsvernieuwing, herstructurering, Gentrification",
 		"id": "4a52dfde-4a39-4cc5-90f0-9353c7f871f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Globalisering, Global village, Mondiale en transnationale netwerken, Economische globalisering: kapitaalstromen- internationale arbeidsverdeling- multinationale onderneming- productieketen- WTO- zuid-zuid-investeringen- opkomende grootmachten (BRICS-landen)- multipolaire wereld, culturele globalisering: amerikanisering- cultuurgebied- lingua franca- identiteit, politieke globalisering: (veranderende rol van de) staat- geopolitiek- blokvorming- regionalisme- burgerschap- anders-globalisten.",
+		"id": "ead079bc-a92c-475e-9153-356a87cd59f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Wereldsysteem: centrum; semie-periferie; periferie, Diffusie, Fragmentarische modernisering, Regionale ongelijkheid, Sociale ongelijkheid, Spread-effecten, Backwash-effecten, Afwenteling in ruimte en tijd, Ruimtelijke ongelijkheid",
+		"id": "145f2b4f-a543-4deb-9e5a-d7ab306917d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Tijdruimtecompressie: absolute en relatieve afstand; absolute en relatieve ligging, Afstandsverval, Transporttechnologie, Transportnetwerk, Informatietechnologie",
+		"id": "ed06c818-c492-4249-a87e-b7256f3158db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Snel opkomende economieën, BRICS, BRICSMIT, Reshoring, Hegemoniale staat Tot 1970: Europeanisering; Kolonialisme; Imperialisme; Dekolonisatie, Hegemoniale staat Na 1970: Triade; Nieuwe industrielanden; Uitschuiving; Nieuwe internationale arbeidsverdeling; Global shift; Pacific Rim",
+		"id": "f31b6c97-d6a9-413c-910c-fa83e4a2dfcd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Cultureel: cultuurgebieden, demografisch: bevolkingsspreiding en dichtheid; bevolkingsgroei (fase in de demografische transitie ); demografische druk; leeftijdsopbouw; kindersterfte; vruchtbaarheid, Economisch: BBP/BRP; inkomen (per capita); koopkracht; begroepsbevolking, Politiek: democratisch gehalte; mensenrechten; samenwerkingsverbanden, sociaal: analfabetisme; verstedelijkingsgraad en -tempo.",
+		"id": "96f5c0e1-6bd0-499a-9c54-547589d257ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "VN-ontwikkelingsindex (HDI), Regionale ongelijkheid, Sociale ongelijkheid",
+		"id": "2344d31d-cbe9-440a-9aae-565a5fa375ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Megalopolis, Wereldstad/Metropool, Hub en spoke-netwerk, Mainportregio, Achterland, Stedelijke geleding: edge city; CBD, Gentrification, Stedelijk netwerk, (Economisch) cluster, Internationale dienstverlening, Mondiale financiële markten, Creatieve stad, Innovatie, Kosmopolitisme, Urban Sprawl",
+		"id": "92be801e-d4f0-405e-b07c-3e3873cc745f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "ruimtelijke segregatie, sociale polarisatie, getto, ommuurde woonwijk (gated community), migranten netwerken",
+		"id": "0a03f286-8f0f-47d6-be2d-cd8fa6c3ec8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Platentektoniek: asthenosfeer; convectiestromen; lithosfeer; (mid_oceanische rug; subductie; diepzeetrog; convergente plaatgrenzen; divergente plaatgrenzen; transforme plaatgrenzen; hotspot, Vulkanisme: explosieve eruptie; stratovulkaan; caldera; effusieve eruptie; schildvulkaan; pyroklastica, Aardbevingen: magnitude (schaal van Richter); intensiteit (schaal van Mercalli); tsunami, Gebergtevorming: breukgebergten; horsten en slenken; plooiingsgebergten, Geologische tijdschaal",
+		"id": "479fa580-89a6-4a78-af64-96cf38bcca3e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Stroomgebied, Rivierstelsel, Estuarium, Verwering: mechnisch (fysisch) en chemisch, Erosie, Transport, Sedimentatie: delta; morene; puinhelling; puinwaaier, Massabewegingen",
+		"id": "3b8dd6ec-83ab-4b8b-8971-7de3f4fc2112",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Gesteentekringloop, Stollingsgesteenten: basalt en graniet, Sedimentgesteenten: kalksteen en zandsteen, Metamorfe gesteenten: leisteen en marmer, Hydrologische kringloop",
+		"id": "af0dd685-4ddc-4cd1-8315-4295a8c33d90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Atmosferische circulatie: hoge luchtdrukgebied; lage luchtdrukgebied; ITCZ; corioliseffect; wet van Buys Ballot; passaat en moesson, Oceanische circulatie: thermohaliene circulatie; diepwaterpomp; warme en koude zeestroom, Stralingsbalans, Klimaatgebied",
+		"id": "1088f0e3-f46d-43ff-b467-34e6048fa29b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Geofactoren: gesteente en reliëf; klimaat en lucht; bodem; water; flora en fauna; de mens, Landschapszones: polaire zone; boreale zone; gematigde zone; subtropische zone; (semi)aride zone; tropische zone",
+		"id": "850d4e53-2b91-4a14-8aee-8e22c4220354",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Landdegradatie, Vormen van landdegradatie: (versnelde) bodemerosie; verzilting; verwoestijning, Oorzaken van landdegradatie: overbeweiding en ontbossing, Klimaatverandering",
+		"id": "e7c7e50b-9657-4fd4-a1c6-eeaf7b07f3c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Alpien plooiingsgebied, Subtropische landschapszone, Mediterrane vegetatie, Mediterrane landbouwtypen, (grond)Waterproblematiek, Waterbalans, Duurzaam water- en landgebruik, Natuurramp, Milieuramp, Hazard Management",
+		"id": "350d16e2-6400-419a-9804-2f745158a1c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Perceptie,  Stereotypen,  Mental map, Geografisch beeld",
+		"id": "d097b116-3faa-4b4e-8c38-d51ed294a039",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Schild, Hoogtezones, Hoogvlakte/hoogland, Ertsen / ertsvorming, Fossiele energiebronnen, Andesiet, Tropisch regenwoud (selva), Savanne (llanos, cerrado en caatinga), Steppe (pampa), Tropisch laagland, Mangrove, Bevolkingsdruk, Gezinsplanning, Natuurlijke bevolkingsgroei, Sociale bevolkingsgroei/migratie, Etniciteit, Mestizering, Latino, Bevolkingsparticipatie, Democratisering, Sociale polarisatie, Gini-coëfficiënt/Lorenzcurve, Elite, BBP per hoofd /BRP per hoofd, Import- en exportpakket, Handelsbalans, Megasteden, Sloppenwijken (favelas), Informal city, Informele sector, Cliëntelisme, Latifundia, Grondbezitverhouding, El Niño",
+		"id": "f2eebc7a-4241-4b0f-875c-ce76964328b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Demografische transitie, Demografische druk, Etnische / religieuze conflicten, Informele en formele machtsstructuur",
+		"id": "98d7a1f3-bffc-4e5f-81e7-630c6c410ce5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "Noordvleugel, Zuidvleugel, Mainports, Groene Hart, Stedelijk netwerk, Grootstedelijke functies: reikwijdte en verzorgingsgebied, Metropoolvorming, Ruimtelijk beleid, ruimtelijke ordening, sectoraal beleid, groeikernen, VINEX-locaties, structuurvisies over de Randstad (zoals Randstad 2040)",
+		"id": "0ed6c88c-f050-4137-a685-ca68e4d8cb2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Creatieve stad, Kenniseconomie, Science Parks, Zakelijke dienstverlening, Duale arbeidsmarkt, Publiek-private samenwerking, Duurzame stad (sustainable city), Smart city",
+		"id": "a755412d-f662-4171-bc1c-d6222d71c8c5",
 		"unreleased": true
 	}
 ]
