@@ -3714,199 +3714,363 @@
 	},
 	{
 		"id": "52d9d87d-9156-413a-a2fe-b6b719287a73",
-		"prefix": "B1.3a.2",
+		"prefix": "AK/V/DomeinB/B1/3a.2",
 		"title": "De kandidaat kan aan de hand van voorbeelden aangeven wat de effecten zijn van en de reacties zijn op globalisering in verschillende landen: een centrumland, een semi-perifeer land en een perifeer land.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"145f2b4f-a543-4deb-9e5a-d7ab306917d8"
+		],
+		"syllabus_toelichting_id": [
+			"7bbb0afc-bfec-4d9b-a35d-d4b62f4a0a76"
 		]
 	},
 	{
 		"id": "9bbe66a7-ac89-4a56-a65c-b63225e70ce6",
-		"prefix": "B1.3a.3",
+		"prefix": "AK/V/DomeinB/B1/3a.3",
 		"title": "De kandidaat kan aan de hand van voorbeelden uitleggen hoe technologische ontwikkelingen, tijdruimtecompressie en globalisering samenhangen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ed06c818-c492-4249-a87e-b7256f3158db"
+		],
+		"syllabus_toelichting_id": [
+			"8addf0b6-8ae6-432b-8191-845d8b5e9433"
 		]
 	},
 	{
 		"id": "68d91f3c-007f-4294-a446-2dcd0e96d7b5",
-		"prefix": "B1.3a.4",
+		"prefix": "AK/V/DomeinB/B1/3a.4",
 		"title": "De kandidaat kan beschrijven hoe processen van internationalisering en globalisering zich in grote lijnen sedert de koloniale periode hebben ontwikkeld en wat de rol is van hegemoniale staten in deze processen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f31b6c97-d6a9-413c-910c-fa83e4a2dfcd"
+		],
+		"syllabus_toelichting_id": [
+			"562ea8d5-32f5-4497-9982-ac2ef2734540"
+		]
 	},
 	{
 		"id": "9d044770-f8ff-4c61-8baf-39f5f7612731",
-		"prefix": "B1.3b.1a",
+		"prefix": "AK/V/DomeinB/B1/3b.1",
 		"title": "De kandidaat kan aan de hand van verschillende indicatoren de wereld indelen en landen met elkaar vergelijken en mondiale spreidingspatronen verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0cc2c6d7-94d6-45c7-852d-9c405701703f"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"96f5c0e1-6bd0-499a-9c54-547589d257ab"
+		],
+		"syllabus_toelichting_id": [
+			"8e2b2a89-5598-436e-8675-546489fad14e"
+		]
 	},
 	{
 		"id": "ee446994-ce4c-45ae-a49b-29eb9eb5d128",
-		"prefix": "B1.3b.2",
+		"prefix": "AK/V/DomeinB/B1/3b.2",
 		"title": "De kandidaat kan de waarden en beperking van de in 3b1 genoemde indicatoren voor gebruik op nationale schaal beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0cc2c6d7-94d6-45c7-852d-9c405701703f"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"2344d31d-cbe9-440a-9aae-565a5fa375ff"
+		],
+		"syllabus_toelichting_id": [
+			"0251155f-4ca5-4f52-a759-c3febc04d8f2"
 		]
 	},
 	{
 		"id": "42caabce-6edf-4124-bdfb-7bc88e0d2a3a",
-		"prefix": "B1.3b.3",
+		"prefix": "AK/V/DomeinB/B1/3b.3",
 		"title": "De kandidaat kan uitleggen hoe demografische kenmerken en verstedelijking samenhangen met het sociaal-economisch ontwikkelingspeil van een land. Deze samenhang toepassen op drie typen landen: een centrumland, een semiperifeer land en een perifeer land.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0cc2c6d7-94d6-45c7-852d-9c405701703f"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_toelichting_id": [
+			"65758517-787b-4a54-9678-6948c0a784fc"
+		]
 	},
 	{
 		"id": "20143cd2-da3a-44e0-b4a6-1380d1a65e72",
-		"prefix": "B1.3c.1",
+		"prefix": "AK/V/DomeinB/B1/3c.1",
 		"title": "De kandidaat kan de posities van New York, Washington en Los Angeles als machtscentra en als knooppunten van informatie-, geld- en goederenstromen beschrijven en verklaren, de ruimtelijke kenmerken van deze steden benoemen die samenhangen met hun positie als mondiaal knooppunt.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e74cf7d2-0fb9-4c69-b006-8ccb22779b87"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"92be801e-d4f0-405e-b07c-3e3873cc745f"
+		],
+		"syllabus_toelichting_id": [
+			"cb8b0751-8718-4aee-851d-d97d73e3682a"
+		]
 	},
 	{
 		"id": "add18b1f-7d39-4991-8c0a-fd028cbc1593",
-		"prefix": "B1.3c.2",
+		"prefix": "AK/V/DomeinB/B1/3c.2",
 		"title": "De kandidaat kan de internationale migratie naar de drie grote Amerikaanse steden beschrijven en de sociale polarisatie binnen de steden analyseren vooral gelet op de etnische samenstelling van de bevolking.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e74cf7d2-0fb9-4c69-b006-8ccb22779b87"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"0a03f286-8f0f-47d6-be2d-cd8fa6c3ec8a"
+		],
+		"syllabus_toelichting_id": [
+			"4577fcc5-26ef-4e09-b1de-e094149a6697"
 		]
 	},
 	{
 		"id": "d3b1ce89-89b7-411d-9f9e-4d09ae8989de",
-		"prefix": "C1.5a.1",
+		"prefix": "AK/V/DomeinC/C1/5a.1",
 		"title": "De kandiaat kan endogene processen die samenhangen met de patentektoniek beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c098057e-c3b2-4f91-bb2b-2177ec2ae4b8"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"479fa580-89a6-4a78-af64-96cf38bcca3e"
+		],
+		"syllabus_toelichting_id": [
+			"679ad136-a43b-4e6e-8e61-c59f9a68d6bc"
 		]
 	},
 	{
 		"id": "45796fa0-629c-40cf-93f5-b99cc47a4c0c",
-		"prefix": "C1.5a.2",
+		"prefix": "AK/V/DomeinC/C1/5a.2",
 		"title": "De kandidaat kan exogene processen beschrijven en hun invloed op de vorming van het aardoppervlak verklaren, deze exogenen processen in twee stroomgebieden (in de gematigde en de aride zone) vergelijken en de verschillen verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c098057e-c3b2-4f91-bb2b-2177ec2ae4b8"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"3b8dd6ec-83ab-4b8b-8971-7de3f4fc2112"
+		],
+		"syllabus_toelichting_id": [
+			"c6a1af59-b153-4fbf-a27e-7ad79dbd01a6"
 		]
 	},
 	{
 		"id": "61bfd76b-d17c-4077-8946-4fd10f134b7e",
-		"prefix": "C1.5a.3",
+		"prefix": "AK/V/DomeinC/C1/5a.3",
 		"title": "De kandidaat kan de interactie tussen endogene en exogene processen beschrijven en verklaren (aan de hand van de kringlopen).",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c098057e-c3b2-4f91-bb2b-2177ec2ae4b8"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"af0dd685-4ddc-4cd1-8315-4295a8c33d90"
+		],
+		"syllabus_toelichting_id": [
+			"0e693576-803f-46a4-a49b-4820ec931972"
 		]
 	},
 	{
 		"id": "e45c1ebc-ae93-4c9c-8b21-e592d9bca75b",
-		"prefix": "C1.5a.4",
+		"prefix": "AK/V/DomeinC/C1/5a.4",
 		"title": "De kandidaat kan de door zonne-energie aangedreven grote windsystemen en zeestromingen op aarde bepalen de ligging van klimaatgebieden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c098057e-c3b2-4f91-bb2b-2177ec2ae4b8"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"1088f0e3-f46d-43ff-b467-34e6048fa29b"
+		],
+		"syllabus_toelichting_id": [
+			"9586b54f-db5a-41b2-a0c1-890db39415e6"
 		]
 	},
 	{
 		"id": "6487c9e2-b0aa-4765-bf39-72840a9e0c9a",
-		"prefix": "C1.5b.1",
+		"prefix": "AK/V/DomeinC/C1/5b.1",
 		"title": "De kandidaat kan de landschapszones op aarde herkennen en beschrijven als dynamische systemen en de relaties tussen geofactoren binnen landschapszones beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cdd9990a-366c-44e3-bf8a-4f1419c7bbf6"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"850d4e53-2b91-4a14-8aee-8e22c4220354"
+		],
+		"syllabus_toelichting_id": [
+			"44c5d7df-20d9-44d4-9008-c8438bec4fd2"
 		]
 	},
 	{
 		"id": "c0b28e75-c000-4ff4-a4fa-9497a486a1f4",
-		"prefix": "C1.5b.2",
+		"prefix": "AK/V/DomeinC/C1/5b.2",
 		"title": "De kandidaat kan de invloed van menselijke activiteiten op andere geofactoren in verschillende landschapszones beschrijven en verklaren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"cdd9990a-366c-44e3-bf8a-4f1419c7bbf6"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"e7c7e50b-9657-4fd4-a1c6-eeaf7b07f3c6"
+		],
+		"syllabus_toelichting_id": [
+			"f1136c8e-a2f4-4a8b-92cd-14ece6a87814"
 		]
 	},
 	{
 		"id": "64930abe-36b8-4dfa-bc7c-0299853500f7",
-		"prefix": "C1.5c.1",
+		"prefix": "AK/V/DomeinC/C1/5c",
 		"title": "De kandidaat kan de natuurlijke en landschappelijke kenmerken van het Middellandse Zeegebied beschrijven en aangeven hoe natuur en samenleving in dat gebied elkaar wederzijds beïnvloeden. De gevolgen van landdegradatie en de manier waarop de mens daarmee omgaat analyseren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"31190e79-a7c2-4792-b385-aac415392dd3"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"350d16e2-6400-419a-9804-2f745158a1c6"
+		],
+		"syllabus_toelichting_id": [
+			"174ee762-80bd-4d64-a8e4-c63239bc654a"
 		]
 	},
 	{
 		"id": "aa6c62cb-7edf-4157-a5a2-c2e359e38849",
-		"prefix": "D1.7a.1",
+		"prefix": "AK/V/DomeinD/D1/7a.1",
 		"title": "De kandidaat kan eigen en andermans beelden van de regio Zuid-Amerika beschrijven en aangeven hoe die beelden tot stand komen en de invloed van beeldvorming op ruimtelijk handelen illustreren aan de hand van voorbeelden ten aanzien van Zuid-Amerika",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"42a530ea-fa30-4c34-a402-85bd0a3b30e4"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"d097b116-3faa-4b4e-8c38-d51ed294a039"
+		],
+		"syllabus_toelichting_id": [
+			"873f7c71-45a3-4515-bb03-ddb9d7892947"
 		]
 	},
 	{
 		"id": "c2533654-0c74-40d0-817d-7567f5d11293",
-		"prefix": "D1.7a.2",
-		"title": "De kandidaat kan Zuid-Amerika beschrijven aan de hand van liggingskenmerken, typeren met behulp van fysisch-geografische en sociaalgeografische indicatoren, Zuid-Amerika afbakenen als formele regio aan de hand van verschillende criteria",
+		"prefix": "AK/V/DomeinD/D1/7a.2",
+		"title": "De kandidaat kan Zuid-Amerika beschrijven aan de hand van liggingskenmerken, typeren met behulp van fysisch-geografische en sociaalgeografische indicatoren, Zuid-Amerika afbakenen als formele regio aan de hand van verschillende criteria.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"42a530ea-fa30-4c34-a402-85bd0a3b30e4"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f2eebc7a-4241-4b0f-875c-ce76964328b2"
+		],
+		"syllabus_toelichting_id": [
+			"f110f15f-2493-49f4-a3e2-399a1d3ce160",
+			"0808fbfe-99c2-4ad2-be3d-2ab3cecd94ba",
+			"78b46789-4c32-4215-b805-9700acb56ac3",
+			"4cd485e5-d62e-414d-bfbc-d9d79ca627d4"
+		]
 	},
 	{
 		"id": "f0c02b0c-6f14-41fa-a3b2-2db835a9355d",
-		"prefix": "D1.7b.1a",
-		"title": "De kandidaat kan Zuid-Amerika op hoofdlijnen vergelijken met een andere ontwikkelingsregio op basis van natuurlijke, sociaaleconomische en sociaal-culturele kenmerken",
+		"prefix": "AK/V/DomeinC/D1/7b.1a",
+		"title": "De kandidaat kan Zuid-Amerika op hoofdlijnen vergelijken met een andere ontwikkelingsregio op basis van natuurlijke, sociaaleconomische en sociaal-culturele kenmerken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6001b9b6-7718-497b-aefe-9cee846ad13b"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"98d7a1f3-bffc-4e5f-81e7-630c6c410ce5"
+		],
+		"syllabus_toelichting_id": [
+			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
+			"582ddb68-b9ff-4606-843b-88cc73a855f3"
 		]
 	},
 	{
 		"id": "87610bed-d96c-49d0-beb7-8209a5051d89",
-		"prefix": "D1.7b.1b",
+		"prefix": "AK/V/DomeinC/D1/7b.1b",
 		"title": "De kandidaat kan verschillen en overeenkomsten tussen Zuid-Amerika en een andere ontwikkelingsregio ten aanzien van sociaaleconomische en sociaal-culturele kenmerken verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6001b9b6-7718-497b-aefe-9cee846ad13b"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"98d7a1f3-bffc-4e5f-81e7-630c6c410ce5"
+		],
+		"syllabus_toelichting_id": [
+			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
+			"582ddb68-b9ff-4606-843b-88cc73a855f3"
+		]
 	},
 	{
 		"id": "86bbf5f6-6f77-49b1-b592-c92aaf1e5e42",
-		"prefix": "D1.7b.1c",
+		"prefix": "AK/V/DomeinC/D1/7b.1c",
 		"title": "De kandidaat kan vergelijkenderwijs toekomstscenario's beschrijven ten aanzien van de verdere ontwikkeling van Zuid-Amerika en van een andere ontwikkelingsregio",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"6001b9b6-7718-497b-aefe-9cee846ad13b"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"98d7a1f3-bffc-4e5f-81e7-630c6c410ce5"
+		],
+		"syllabus_toelichting_id": [
+			"44086280-ffcb-43c6-8d6f-f9b40bbb2b15",
+			"582ddb68-b9ff-4606-843b-88cc73a855f3"
 		]
 	},
 	{
 		"id": "80722216-825e-4882-94ef-0df70d0f513d",
-		"prefix": "D1.7c.1a",
+		"prefix": "AK/V/DomeinC/D1/7c.1a",
 		"title": "De kandidaat kan het ontwikkelings- en democratiseringsproces vanaf de jaren negentig op hoofdlijnen beschrijven in vergelijking met de voorgaande politieke ontwikkelingsfasen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"9193d525-e605-4b63-842e-9b1d76b98a95"
+		],
+		"syllabus_toelichting_id": [
+			"731baa50-590f-4619-a307-40b8bae3337c"
+		]
 	},
 	{
 		"id": "fcbae5fa-d660-4c5e-9b38-3e341f2d4197",
@@ -3915,8 +4079,15 @@
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
 		],
-		"prefix": "D1.7c.1b",
-		"description": ""
+		"prefix": "AK/V/DomeinC/D1/7c.1b",
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"9193d525-e605-4b63-842e-9b1d76b98a95"
+		],
+		"syllabus_toelichting_id": [
+			"731baa50-590f-4619-a307-40b8bae3337c"
+		]
 	},
 	{
 		"id": "160be35e-7518-4fb5-9746-89cd5b10e677",
@@ -3925,8 +4096,15 @@
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
 		],
-		"prefix": "D1.7c.1c",
-		"description": ""
+		"prefix": "AK/V/DomeinC/D1/7c.1c",
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"9193d525-e605-4b63-842e-9b1d76b98a95"
+		],
+		"syllabus_toelichting_id": [
+			"731baa50-590f-4619-a307-40b8bae3337c"
+		]
 	},
 	{
 		"id": "b6cd0863-a0d9-4f3a-9457-9d69c2c84fac",
@@ -3935,8 +4113,15 @@
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
 		],
-		"prefix": "D1.7c.1d",
-		"description": ""
+		"prefix": "AK/V/DomeinC/D1/7c.1d",
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"9193d525-e605-4b63-842e-9b1d76b98a95"
+		],
+		"syllabus_toelichting_id": [
+			"731baa50-590f-4619-a307-40b8bae3337c"
+		]
 	},
 	{
 		"id": "b129fee1-d5b3-452c-a157-02905344258d",
@@ -3945,34 +4130,65 @@
 		"examenprogramma_eindterm_id": [
 			"8bfe88c7-8bbe-45ae-a7b3-046096a0da91"
 		],
-		"prefix": "D1.7c.1e",
-		"description": ""
+		"prefix": "AK/V/DomeinC/D1/7c.1e",
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"9193d525-e605-4b63-842e-9b1d76b98a95"
+		],
+		"syllabus_toelichting_id": [
+			"731baa50-590f-4619-a307-40b8bae3337c"
+		]
 	},
 	{
 		"id": "233bbc36-86db-4010-933a-d7a764f19c9c",
-		"prefix": "E1.9a.1a",
+		"prefix": "AK/V/DomeinE/E1/9a.1a",
 		"title": "De kandidaat kan de in Nederland voorkomende typen kusten beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
 		"id": "8ea0c097-a1e6-46d3-87ee-f67f6922404a",
-		"prefix": "E1.9a.1b",
+		"prefix": "AK/V/DomeinE/E1/9a.1b",
 		"title": "De kandidaat kan beschrijven hoe zeestromingen, getijdenstroming en wind de Nederlandse kust als een dynamisch systeem vormgeven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
 		"id": "d1a75ed7-5a65-49c3-9a98-df7219bacd2d",
-		"prefix": "E1.9a.1c",
+		"prefix": "AK/V/DomeinE/E1/9a.1c",
 		"title": "De kandidaat kan beschrijven hoe dynamische (zee)kusten veranderen als gevolg van zeespiegelstijging en/of menselijk ingrijpen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
@@ -3986,186 +4202,342 @@
 	},
 	{
 		"id": "1135aa25-2a1c-4727-9524-2213d30f2a9b",
-		"prefix": "E1.9a.1e",
+		"prefix": "AK/V/DomeinE/E1/9a.1e",
 		"title": "De kandidaat kan de invloed van het veranderende klimaat en menselijk ingrijpen op de waterafvoer van Rijn en Maas beschrijven.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
 		"id": "127fe9b6-fe75-4390-9580-b746f7c5808c",
-		"prefix": "E1.9a.1f",
+		"prefix": "AK/V/DomeinE/E1/9a.1f",
 		"title": "De kandidaat kan overstromingsgevaar relateren aan ruimtelijke inrichting, zowel binnen- als buitendijks.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
 		"id": "8869ebfa-789b-44c0-ab76-3aa40ac67bb7",
-		"prefix": "E1.9a.1g",
+		"prefix": "AK/V/DomeinE/E1/9a.1g",
 		"title": "De kandidaat kan beschrijven hoe in het IJsselmeer gebied en de Zuidwestelijke delta risico’s kunnen ontstaan ten aanzien van overstromingen en wateroverlast.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"ebc73da6-195f-4198-a8f7-65ba157f1480"
+		],
+		"syllabus_toelichting_id": [
+			"6329ca75-8691-4fca-95fa-ecf54ccc3919"
 		]
 	},
 	{
 		"id": "6a87caa4-fcf3-4129-b407-c887bfeb594b",
-		"prefix": "E1.9a.2a",
+		"prefix": "AK/V/DomeinE/E1/9a.2a",
 		"title": "De kandidaat kan het integraal waterbeleid dat in Nederland wordt gevoerd beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2"
+		],
+		"syllabus_toelichting_id": [
+			"4d710d4a-f811-41af-a904-e9b129ed7d8a"
 		]
 	},
 	{
 		"id": "7470cce5-a49b-4977-8880-3204cf187d8f",
-		"prefix": "E1.9a.2b",
+		"prefix": "AK/V/DomeinE/E1/9a.2b",
 		"title": "De kandidaat kan het beheer van de Nederlandse kust beschrijven en beoordelen, bezien vanuit de natuurlijke kustprocessen en vanuit ecologische en economische waarden van het kustgebied.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2"
+		],
+		"syllabus_toelichting_id": [
+			"4d710d4a-f811-41af-a904-e9b129ed7d8a"
 		]
 	},
 	{
 		"id": "e28797e1-92bd-428e-bfdb-052a62047079",
-		"prefix": "E1.9a.2c",
+		"prefix": "AK/V/DomeinE/E1/9a.2c",
 		"title": "De kandidaat kan recent Nederlands en internationaal rivierbeleid beschrijven en beoordelen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2"
+		],
+		"syllabus_toelichting_id": [
+			"4d710d4a-f811-41af-a904-e9b129ed7d8a"
 		]
 	},
 	{
 		"id": "4b08356b-1675-4d24-abeb-1a819c9b5d4b",
-		"prefix": "E1.9a.2d",
+		"prefix": "AK/V/DomeinE/E1/9a.2d",
 		"title": "De kandidaat kan het aanleggen van strategische zoetwatervoorraden beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"e2e0b040-7168-4a6e-80e4-ab0e282fdde2"
+		],
+		"syllabus_toelichting_id": [
+			"4d710d4a-f811-41af-a904-e9b129ed7d8a"
 		]
 	},
 	{
 		"id": "9535d99e-a398-491e-a61e-71b128135d87",
-		"prefix": "E1.9a.3a",
+		"prefix": "AK/V/DomeinE/E1/9a.3a",
 		"title": "De kandidaat kan de invloed van het veranderende klimaat en meer extreme weersomstandigheden relateren aan wateroverlast en watertekorten in laag gelegen gebieden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f3648277-1a3b-4186-95c9-e3654538b385"
+		],
+		"syllabus_toelichting_id": [
+			"5d723715-98ba-4fd3-95c3-d70c3e5cf1c0"
+		]
 	},
 	{
 		"id": "174b5468-00f4-428d-a432-5037dc0359a4",
-		"prefix": "E1.9a.3b",
+		"prefix": "AK/V/DomeinE/E1/9a.3b",
 		"title": "De kandidaat kan uitleggen waarom lage veengebieden kwetsbaar zijn voor wateroverlast en droogte.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"f3648277-1a3b-4186-95c9-e3654538b385"
+		],
+		"syllabus_toelichting_id": [
+			"5d723715-98ba-4fd3-95c3-d70c3e5cf1c0"
 		]
 	},
 	{
 		"id": "548e0bc0-859a-415d-ba8b-c939e78ba5b1",
-		"prefix": "E1.9a.3c",
+		"prefix": "AK/V/DomeinE/E1/9a.3c",
 		"title": "De kandidaat kan uitleggen dat veel stedelijke gebieden kwetsbaar zijn voor wateroverlast.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f3648277-1a3b-4186-95c9-e3654538b385"
+		],
+		"syllabus_toelichting_id": [
+			"5d723715-98ba-4fd3-95c3-d70c3e5cf1c0"
+		]
 	},
 	{
 		"id": "7687df4f-719e-4016-8a68-f9eab8c17807",
-		"prefix": "E1.9a.3d",
+		"prefix": "AK/V/DomeinE/E1/9a.3d",
 		"title": "De kandidaat kan maatregelen beschrijven die wateroverlast en watertekorten op regionale schaal kunnen beperken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f3648277-1a3b-4186-95c9-e3654538b385"
+		],
+		"syllabus_toelichting_id": [
+			"5d723715-98ba-4fd3-95c3-d70c3e5cf1c0"
+		]
 	},
 	{
 		"id": "f63b5175-01c9-4bd1-aa42-27a271dedb75",
-		"prefix": "E1.9a.3e",
+		"prefix": "AK/V/DomeinE/E1/9a.3e",
 		"title": "De kandidaat kan manieren beschrijven waarop sprake is van adaptie aan water en/of acceptatie van leven met risico’s op wateroverlast of watertekorten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"syllabus_vakbegrip_id": [
+			"f3648277-1a3b-4186-95c9-e3654538b385"
+		],
+		"syllabus_toelichting_id": [
+			"5d723715-98ba-4fd3-95c3-d70c3e5cf1c0"
+		]
 	},
 	{
 		"id": "e1865466-bd6b-4c52-9e6f-62ee110fc973",
-		"prefix": "E1.9b.1a",
+		"prefix": "AK/V/DomeinE/E1/9b.1a",
 		"title": "De kandidaat kan aangeven dat de Randstad concurreert met andere stedelijke gebieden in Europa waar het gaat om het aantrekken van bedrijven, instellingen en bewoners.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"0ed6c88c-f050-4137-a685-ca68e4d8cb2d"
+		],
+		"syllabus_toelichting_id": [
+			"98d22180-f1ce-4438-a085-694867a1a3c3"
 		]
 	},
 	{
 		"id": "de42b9fb-1b03-4fe0-b650-b9c9b0380a10",
-		"prefix": "E1.9b.1b",
+		"prefix": "AK/V/DomeinE/E1/9b.1b",
 		"title": "De kandidaat kan aangeven dat er een globale ontwikkeling is van demografische krimp in plattelandsgebieden en concentratie van mensen, bedrijven en diensten in de Randstad",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"0ed6c88c-f050-4137-a685-ca68e4d8cb2d"
+		],
+		"syllabus_toelichting_id": [
+			"98d22180-f1ce-4438-a085-694867a1a3c3"
 		]
 	},
 	{
 		"id": "134a507d-8823-49ec-87f9-86c0e563a43e",
-		"prefix": "E1.9b.1c",
+		"prefix": "AK/V/DomeinE/E1/9b.1c",
 		"title": "De kandidaat kan de differentiatie binnen de Randstad, met name tussen noord- en zuidvleugel, beschrijven en analyseren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"0ed6c88c-f050-4137-a685-ca68e4d8cb2d"
+		],
+		"syllabus_toelichting_id": [
+			"98d22180-f1ce-4438-a085-694867a1a3c3"
 		]
 	},
 	{
 		"id": "ca0da882-e7b7-404b-ad96-1454d339f4ab",
-		"prefix": "E1.9b.1d",
+		"prefix": "AK/V/DomeinE/E1/9b.1d",
 		"title": "De kandidaat kan het beleid van de overheid ten aanzien van de ruimtelijke vraagstukken in de Randstad beschrijven en kritisch beoordelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"0ed6c88c-f050-4137-a685-ca68e4d8cb2d"
+		],
+		"syllabus_toelichting_id": [
+			"98d22180-f1ce-4438-a085-694867a1a3c3"
 		]
 	},
 	{
 		"id": "74ade63b-5891-448c-a25b-0d9a113558fa",
-		"prefix": "E1.9b.2",
+		"prefix": "AK/V/DomeinE/E1/9b.2",
 		"title": "De kandidaat kan stedelijke vraagstukken rond de stedelijke economie analyseren en beoordelen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"a755412d-f662-4171-bc1c-d6222d71c8c5"
+		],
+		"syllabus_toelichting_id": [
+			"5b4a9a68-ebad-41b0-82be-7fd99cfc9f27"
 		]
 	},
 	{
 		"id": "feffbd90-0209-4919-a537-3b195d9e80ab",
-		"prefix": "E1.9b.3a",
+		"prefix": "AK/V/DomeinE/E1/9b.3a",
 		"title": "De kandidaat kan een buurtprofiel van een stedelijke buurt opstellen aan de hand van fysiek-ruimtelijke en sociale elementen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"13f79a25-d6ef-4600-81e4-3a20efe32303"
+		],
+		"syllabus_toelichting_id": [
+			"c4e83085-9f59-4c8f-9cb4-2024e75df358"
 		]
 	},
 	{
 		"id": "a154f2bd-dee1-438e-800f-9a34e9cd7269",
-		"prefix": "E1.9b.3b",
+		"prefix": "AK/V/DomeinE/E1/9b.3b",
 		"title": "De kandidaat kan beargumenteerde uitspraken doen over leefbaarheid in wijken/buurten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"13f79a25-d6ef-4600-81e4-3a20efe32303"
+		],
+		"syllabus_toelichting_id": [
+			"c4e83085-9f59-4c8f-9cb4-2024e75df358"
 		]
 	},
 	{
 		"id": "9767a7fa-47a9-434f-9598-caac96041aea",
-		"prefix": "E1.9b.3c",
+		"prefix": "AK/V/DomeinE/E1/9b.3c",
 		"title": "De kandidaat kan stedelijk beleid gericht op wijken en buurten beschrijven en beoordelen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_vakbegrip_id": [
+			"13f79a25-d6ef-4600-81e4-3a20efe32303"
+		],
+		"syllabus_toelichting_id": [
+			"c4e83085-9f59-4c8f-9cb4-2024e75df358"
 		]
 	},
 	{
@@ -43430,97 +43802,82 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "64bfe510-4e46-4726-928c-925f95327333",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan aan het proces van mondialisering/globalisering economische, culturele en politieke dimensies onderscheiden en aangeven hoe deze dimensies elkaar beïnvloeden.",
 		"description": "",
-		"prefix": "B1.3a.1",
+		"prefix": "AK/V/DomeinB/B1/3a.1",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
+		],
+		"syllabus_vakbegrip_id": [
+			"ead079bc-a92c-475e-9153-356a87cd59f7"
+		],
+		"syllabus_toelichting_id": [
+			"94d82bd7-1cd9-48ae-803a-5479df3bbd38"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "f0cabd14-0d35-46a1-81b3-1355367876ef",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De leerling kan kaarten zoeken en de juiste kaart kiezen door de geografische informatiewaarde en cartografische geschiktheid van de kaart te beoordelen. Bij het beoordelen van de cartografische geschiktheid betrekt de leerling de projectie, schaal en de mate en wijze van generalisatie en symbolisatie.",
-		"prefix": "A1/1a.1a",
-		"description": "",
+		"prefix": "AK/V/DomeinA/A1/1a.1a",
+		"description": "Kaarten selecteren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "74b42a80-2638-437c-8aa0-0dd9595a9689",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De leerling kan elementen in de kaart identificeren en benoemen, en de kenmerken van de elementen beschrijven. De leerling kan ook de kaarten bevragen: hij kan zoeken welke kenmerken bepaalde elementen bezitten en welke elementen bepaalde kenmerken bezitten.",
-		"prefix": "A1.1a.1b",
-		"description": "",
+		"prefix": "AK/V/DomeinA/A1/1a.1b",
+		"description": "Kaarten lezen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "9d847f1e-2a6e-4382-aa5c-fac94e9e306c",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De leerling kan patronen (spreidingen en geledingen) in de kaart herkennen en beschrijven, en kan correlaties tussen twee patronen herkennen en beschrijven.",
-		"prefix": "A1.1a.1c",
-		"description": "",
+		"prefix": "AK/V/DomeinA/A1/1a.1c",
+		"description": "Kaarten analyseren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "66f4a996-ac94-4eac-aab6-6e0fda62fcce",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De leerling kan verklaringen geven voor de kenmerken en patronen van elementen en de aanwezigheid van correlaties, en kan voorspellingen doen voor veranderingen in de kenmerken en patronen van elementen. Hierbij maakt de leerling gebruik van achtergrondkennis.",
-		"prefix": "A1.1a.1d",
-		"description": "",
+		"prefix": "AK/V/DomeinA/A1/1a.1d",
+		"description": "Kaarten interpreteren",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "f5b017bb-ba36-4c28-abfb-1e461e17a5e1",
-		"dirty": "1",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij:\n- kiest de leerling de geschikte projectie en schaal\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen\n- kiest de leerling voor een geschikte klassenindeling\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden.\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
-		"prefix": "A1.1a.1e",
-		"description": "",
+		"dirty": true,
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"prefix": "AK/V/DomeinA/A1/1a.1e",
+		"description": "Kaarten maken",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "f3d022de-bd06-4761-bd61-98215204cd69",
-		"dirty": "1",
-		"title": "De kandidaat kan verschillende typen Geo-ICT applicaties als informatiebron benutten.\n",
-		"prefix": "A1.1a.2a",
+		"dirty": true,
+		"title": "De kandidaat kan verschillende typen Geo-ICT applicaties als informatiebron benutten.",
+		"prefix": "AK/V/DomeinA/A1/1a.2a",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -43528,13 +43885,10 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "7a1d45f5-31bf-4404-bd81-a90f3efccf14",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan GPS applicaties gebruiken om geografische gegevens te verzamelen.",
-		"prefix": "A1.1a.2b",
+		"prefix": "AK/V/DomeinA/A1/1a.2b",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -43542,13 +43896,10 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "858ef559-1a90-4240-99e1-1dd592b81adc",
-		"dirty": "1",
-		"title": "De kandidaat kan eenvoudige GIS software hanteren bij het werken met digitale kaarten.",
-		"prefix": "A1.1a.2c",
+		"dirty": true,
+		"title": "De kandidaat kan eenvoudige GIS software hanteren bij het werken met digitale kaarten",
+		"prefix": "AK/V/DomeinA/A1/1a.2c",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -43556,13 +43907,10 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "36554192-5500-4f64-a6c3-9765c6ed7be2",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan relevante informatie selecteren, analyseren, interpreteren en produceren bij gegeven geografische vragen.",
-		"prefix": "A1.1a.3a",
+		"prefix": "AK/V/DomeinA/A1/1a.3",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -43570,17 +43918,17 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "3ad8ae9a-9825-40b4-89d1-d8aaecd352e8",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan aangeven waarover geografische vragen gaan.",
-		"prefix": "A1.1b.1",
+		"prefix": "AK/V/DomeinA/A1/1b.1",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"syllabus_toelichting_id": [
+			"fcfa803f-87a8-42c9-892d-3452d47a62f1"
 		]
 	},
 	{
@@ -43598,84 +43946,87 @@
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "fec46926-1fa8-48c8-977c-198584fde28f",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan verschijnselen en gebieden vergelijken in ruimte en tijd.",
-		"prefix": "A1.1c.1",
+		"prefix": "AK/V/DomeinA/A1/1c.1",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"a46a47ee-cdb0-48df-acf9-6fe7c532fa5a"
 		]
 	},
 	{
 		"id": "27b02419-c9da-4bf2-b413-7c51e9008fd7",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan relaties leggen binnen een gebied en tussen gebieden.",
-		"prefix": "A1.1c.2",
+		"prefix": "AK/V/DomeinA/A1/1c.2",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"55a27497-e16e-47bd-957d-85e0ebc30da8"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "41906aa6-f37e-4d08-8260-3bef24fa4cf5",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan verschijnselen en gebieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, cultuur).",
-		"prefix": "A1.1c.3",
+		"prefix": "AK/V/DomeinA/A1/1c.3",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"133c2941-09aa-41ed-8267-d22d8ae55205"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "252eac08-883d-4339-9ccb-259f1bcd3fec",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan verschijnselen en gebieden in hun geografische context plaatsen.",
-		"prefix": "A1.1c.4",
+		"prefix": "AK/V/DomeinA/A1/1c.4",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"d617e5c3-8ff7-4001-b774-0699cc13207e"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "8c90e3b2-632b-43ef-b1fc-25257cdd6d74",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan verschijnselen en gebieden op verschillende ruimtelijke schalen beschrijven en analyseren.",
-		"prefix": "A1.1c.5",
+		"prefix": "AK/V/DomeinA/A1/1c.5",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"0142c3e7-1cfe-4b97-9c0d-4ffe2c7fb3ff"
 		]
 	},
 	{
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"id": "ba396e8c-aa39-472d-b683-4e7a00547157",
-		"dirty": "1",
+		"dirty": true,
 		"title": "De kandidaat kan verschijnselen en gebieden beschrijven en analyseren door relaties te leggen tussen het bijzondere en het algemene.",
-		"prefix": "A1.1c.6",
+		"prefix": "AK/V/DomeinA/A1/1c.6",
 		"description": "",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"99f84e49-ece7-45ff-8385-b02acb7ad481"
+		],
+		"syllabus_toelichting_id": [
+			"a8508a55-4709-4909-86f4-2d7f819344b6"
 		]
 	},
 	{
@@ -45145,6 +45496,56 @@
 		],
 		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA: Neo- en Nieuw klassieken: er is sprake van perfecte loon- en prijsflexibiliteit. GA is verticaal en Y is gelijk aan potentiële productie Y*. Hierdoor is vraagstimulering (budgettair en monetair) niet effectief: geen effect op inkomen, alleen effect op inflatie.",
 		"id": "b63b93d0-6b7a-4181-aee5-eca6f6cdd7dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: beschrijvende vragen - een beschrijving bevat een (stapsgewijze) weergave van een locatie, kenmerk, proces of patroon.",
+		"id": "23fdae32-65f7-4c71-b833-d8bf9854b682",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: verklarende vragen - een verklaring of een uitleg bevat een weergave van een relatie tussen twee of meer gegevens of verschijnselen bijvoorbeeld in de vorm van een oorzaak-gevolgrelatie.",
+		"id": "bfe1b6e2-c6b1-4883-bf33-6fbe0b2ccf38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.4",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: voorspellende vragen - een voorspelling bevat een onderbouwd toekomstbeeld dat is samengesteld op basis van een verwachting.",
+		"id": "07a04e85-a331-4d6c-8217-7a680b5b8881",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.5",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: een waardering bevat een onderbouwd oordeel over een keuze of een beslissing.",
+		"id": "1aca97e4-55be-444f-82e0-618a5fa1396a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "AK/V/DomeinA/A1/1b.6",
+		"examenprogramma_eindterm_id": [
+			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
+		],
+		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: vragen gericht op het maken van keuzes en het oplossen van problemen - een oplossing bevat een mogelijke uitkomst voor een vraagstuk.",
+		"id": "fd93ec1e-0556-4476-86ad-8beb94f3f057",
 		"unreleased": true
 	}
 ]
