@@ -12222,5 +12222,44 @@
 		"title": "Syllabus Griekse taal en cultuur vwo 2022",
 		"id": "592da4c1-2f99-4eae-8c42-0929581697ab",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"2e8e7a6b-b40e-4ead-92db-8dd90f0b7b36"
+		],
+		"syllabus_vakleergebied_id": [
+			"6734ffba-4cf2-4a2e-b249-fe2d0eaad304"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"49eb99b1-5a95-470c-b247-51448f6f378f",
+			"7dd84061-8749-44b6-8306-85b6bf36565f",
+			"4880ab54-f409-4840-a21b-09e5f6cff95e",
+			"4cb9c914-a890-4286-86f4-7591f4f8d96d",
+			"ecf31667-4b47-4a62-85ce-dd47507fea8d",
+			"ae981544-9130-4e07-87ce-2340baa5a69a",
+			"231b6a4b-47eb-4b72-bb47-c3846bf33643",
+			"6a9242c0-8215-4203-bb09-181e4eb2873a",
+			"c05982f8-ec6b-4ca0-91db-13f09746b91b",
+			"7f2d5a98-e688-47e2-88d0-cd7e6c63292a",
+			"ea71230c-98dd-48ee-bce6-82dc852599f0",
+			"62c1a9ac-3e0d-41da-b00f-b38e81b72894",
+			"6642c229-368d-4426-a7f6-be5cf4a64f00",
+			"5529fc78-cafb-411a-94d9-7fc84ed7eb75",
+			"1a2d2ba4-1a59-4f94-ba4e-834dbe0b0b06",
+			"0d31c307-d558-4983-ada2-c1d2f96be9ad",
+			"7746a01f-55b4-47fe-a933-4c75bfe096d4",
+			"c9fffec8-8550-40db-9b09-4bbe5b51c3c8",
+			"158ce70a-1d51-4288-82ab-0e03f8570691"
+		],
+		"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+		"id": "b895f7ce-1a9f-4c52-b335-0f058e045d10",
+		"unreleased": true
 	}
 ]
