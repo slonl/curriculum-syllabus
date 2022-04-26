@@ -12189,5 +12189,38 @@
 		"title": "Syllabus Wiskunde B vwo 2023",
 		"id": "d2f66eb2-d359-49c0-babe-5a4f591ecfa3",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"1abce396-eafa-49e6-8f4e-251aed90f56a"
+		],
+		"syllabus_vakleergebied_id": [
+			"cb54b707-b612-4c78-aa8d-3daa938d2a1b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ed4ccb5-d215-4df7-ae23-8ed5f69a9859",
+			"aa524a97-e437-4f2c-b417-6b01034eaa2c",
+			"fd361953-7eac-4a40-b74a-6528415c3a48",
+			"6df88f56-e2dc-436f-a46c-624ba15773f4",
+			"f4056df1-4c8d-43bd-adbc-447af385773e",
+			"4efa744e-1a03-42e7-8fca-75aeb3305110",
+			"63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"f9c707c4-646e-4f2e-9edc-11c540471c4b",
+			"88521a03-d733-4282-9375-292887880be9",
+			"3eeaeeb2-17e1-4acb-9910-74153b7b8643",
+			"d4557af0-6334-4b08-97f5-17530a14995e",
+			"214e9a4e-0bbc-49ca-9ad7-a169e8e6b2d7",
+			"a139df11-6b62-416b-926f-969380c5a138"
+		],
+		"title": "Syllabus Griekse taal en cultuur vwo 2022",
+		"id": "592da4c1-2f99-4eae-8c42-0929581697ab",
+		"unreleased": true
 	}
 ]
