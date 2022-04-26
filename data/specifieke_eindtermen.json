@@ -21974,8 +21974,10 @@
 		"examenprogramma_eindterm_id": [
 			"eeeec97d-18b4-41c0-a4cb-5b5346c45e8d"
 		],
-		"title": "De kandidaat kan bij het raadplegen van wiskundige informatie, bij het verkennen van\r\nwiskundige situaties, bij het geven van wiskundige redeneringen en bij het uitvoeren van wiskundige berekeningen gebruik maken van geschikte ICTmiddelen.",
-		"id": "3d4897b1-24d3-47ca-827c-9e3a0c74b5f6"
+		"title": "De kandidaat kan bij het raadplegen van wiskundige informatie, bij het verkennen van\r\r\nwiskundige situaties, bij het geven van wiskundige redeneringen en bij het uitvoeren van wiskundige berekeningen gebruik maken van geschikte ICTmiddelen.",
+		"id": "3d4897b1-24d3-47ca-827c-9e3a0c74b5f6",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE;SE",
@@ -21994,7 +21996,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kent de begrippen absoluut en relatief.",
-		"id": "c2c184c3-e7e3-48bf-8dd6-be3a8a0d7040"
+		"id": "c2c184c3-e7e3-48bf-8dd6-be3a8a0d7040",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22004,7 +22007,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan berekeningen maken met en zonder variabelen waarbij gebruik gemaakt wordt van verschillen de rekenregels, inclusief die van machten en wortels, maar niet die voor het werken met logaritmen.",
-		"id": "144b87f0-c6d6-46d3-926e-0f0a1603ba52"
+		"id": "144b87f0-c6d6-46d3-926e-0f0a1603ba52",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22014,7 +22018,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan berekeningen maken met verhoudingen, percentages en breuken.",
-		"id": "85b6191a-c376-4929-9fd0-f27c6bd114e0"
+		"id": "85b6191a-c376-4929-9fd0-f27c6bd114e0",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22024,7 +22029,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan werken met haakjes en vereenvoudigen door haakjes weg te werken.",
-		"id": "d26ed6f5-639d-40a4-9011-eef94270a47c"
+		"id": "d26ed6f5-639d-40a4-9011-eef94270a47c",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22034,7 +22040,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan rekenregels gebruiken om algebraïsche expressies te herleiden en te verifiëren.",
-		"id": "0c5f2b03-3177-4ae7-8200-2485e940c316"
+		"id": "0c5f2b03-3177-4ae7-8200-2485e940c316",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22044,7 +22051,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan berekeningen maken met verhoudingen, percentages en breuken met daarin een of meer variabelen.",
-		"id": "438a46b2-0f7d-4123-82c7-1670d588a539"
+		"id": "438a46b2-0f7d-4123-82c7-1670d588a539",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22054,7 +22062,8 @@
 			"38ba01c8-dd02-4398-859a-0c3b171106c9"
 		],
 		"title": "De kandidaat kan werken met grootheden, samengestelde grootheden en maatsystemen, en eenheden omrekenen.",
-		"id": "76c99af2-17c4-46c0-be59-51ede693a4de"
+		"id": "76c99af2-17c4-46c0-be59-51ede693a4de",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22064,7 +22073,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan het aantal permutaties en het aantal combinaties berekenen en deze gebruiken, desgevraagd in verband met de driehoek van Pascal.",
-		"id": "d8b18adf-cda9-48e7-9f31-a0974532f852"
+		"id": "d8b18adf-cda9-48e7-9f31-a0974532f852",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22074,7 +22084,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan gebruik maken van een gegeven boomdiagram, gegeven wegendiagram, gegeven rooster en gegeven driehoek van Pascal.",
-		"id": "e42856b7-3020-40fd-a186-491a2b5423f2"
+		"id": "e42856b7-3020-40fd-a186-491a2b5423f2",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22084,7 +22095,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan bij een telprobleem aangeven of er gebruik kan worden gemaakt van permutaties dan wel combinaties.",
-		"id": "b3c6e4b1-335f-48da-a679-9698519c0b6a"
+		"id": "b3c6e4b1-335f-48da-a679-9698519c0b6a",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22094,7 +22106,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan bij een telprobleem mogelijkheden systematisch ordenen en eenvoudige symmetrieoverwegingen gebruiken.",
-		"id": "c699f511-ba0e-4126-992d-b4bb7d7aaca3"
+		"id": "c699f511-ba0e-4126-992d-b4bb7d7aaca3",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22104,7 +22117,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan  bij een telprobleem een passende representatie, waaronder boomdiagram, wegendiagram en rooster, maken.",
-		"id": "ae32644f-766f-4857-82c4-f8590108a00e"
+		"id": "ae32644f-766f-4857-82c4-f8590108a00e",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22114,7 +22128,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan een probleem als een telprobleem identificeren.",
-		"id": "da5c383a-5d7c-451a-9c35-3ece0cfa4d7a"
+		"id": "da5c383a-5d7c-451a-9c35-3ece0cfa4d7a",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22124,7 +22139,8 @@
 			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
 		],
 		"title": "De kandidaat kan bij een telprobleem een strategie bedenken en daarmee het probleem oplossen.",
-		"id": "0f3c50da-1b96-4cad-acd2-a061c937ef28"
+		"id": "0f3c50da-1b96-4cad-acd2-a061c937ef28",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22134,7 +22150,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent eerstegraadsverbanden y = a . x + b",
-		"id": "9563a383-28ec-4dbf-9bd2-5a315b8893a3"
+		"id": "9563a383-28ec-4dbf-9bd2-5a315b8893a3",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22144,7 +22161,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent tweedegraadsverbanden y = a . X^2 + b . X + c",
-		"id": "95136f58-297c-4cef-9fa2-f4f8a79e3f44"
+		"id": "95136f58-297c-4cef-9fa2-f4f8a79e3f44",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22154,7 +22172,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent machtsverbanden y = a . X^2 (p rationaal).",
-		"id": "e55f454e-f242-4073-a89e-32695c0b7cb4"
+		"id": "e55f454e-f242-4073-a89e-32695c0b7cb4",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22164,7 +22183,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent exponentiële verbanden y = b . g^x (niet y = b . e^x), inclusief de begrippen exponent, beginwaarde en groeifactor.",
-		"id": "9562db97-7c98-4f1d-b64c-45b1e46095de"
+		"id": "9562db97-7c98-4f1d-b64c-45b1e46095de",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22174,7 +22194,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent logaritmische verbanden y = ^g log(x) (niet y = ln(x))",
-		"id": "097506eb-c9ca-4051-b121-9c4298dddcdf"
+		"id": "097506eb-c9ca-4051-b121-9c4298dddcdf",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22184,7 +22205,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent de regel p wortel x - formule volgt nog.",
-		"id": "93aaf6d4-102a-4703-a91c-0ac392356b09"
+		"id": "93aaf6d4-102a-4703-a91c-0ac392356b09",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22194,7 +22216,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde verbanden behorende karakteristieke eigenschappen snijpunt(en) met de x-as en met de y-as.",
-		"id": "85dcc488-7b79-4c3c-b79d-380f05b188b1"
+		"id": "85dcc488-7b79-4c3c-b79d-380f05b188b1",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22204,7 +22227,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde verbanden behorende karakteristieke eigenschappen maximum(waarde) en minimum(waarde).",
-		"id": "e48ac7cc-121c-4474-a98d-2a2c827d1599"
+		"id": "e48ac7cc-121c-4474-a98d-2a2c827d1599",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22214,7 +22238,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde verbanden behorende karakteristieke eigenschappen asymptotisch gedrag.",
-		"id": "29468da1-4c10-491e-ae46-5d880819e312"
+		"id": "29468da1-4c10-491e-ae46-5d880819e312",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22224,7 +22249,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan bij een gegeven formule een tabel en een grafiek maken.",
-		"id": "abf50d4f-ec8e-482b-94f0-c76ee3469d34"
+		"id": "abf50d4f-ec8e-482b-94f0-c76ee3469d34",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22234,7 +22260,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan van de verbanden, genoemd onder parate kennis, de grafieken herkennen.",
-		"id": "65e5f7e8-59b7-4270-98ce-5c94fe3eaf9b"
+		"id": "65e5f7e8-59b7-4270-98ce-5c94fe3eaf9b",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22244,7 +22271,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan van de verbanden, genoemd onder parate kennis, de karakteristieke eigenschappen benoemen.",
-		"id": "79fb5cb3-a843-45fc-9b2b-3ca21da704d0"
+		"id": "79fb5cb3-a843-45fc-9b2b-3ca21da704d0",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22254,7 +22282,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan verbanden van de vorm y = a . x ((recht) evenredig) en van de vorm y = a/x  (omgekeerd evenredig) herkennen en hun karakteristieke eigenschappen (recht evenredig: bijzondere vorm van lineair verband, omgekeerd evenredig: bijzondere vorm van constant product) benoemen.",
-		"id": "748e1748-9853-4054-976c-d2373944107f"
+		"id": "748e1748-9853-4054-976c-d2373944107f",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22264,7 +22293,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan aan de hand van een tabel vaststellen of er sprake is van een lineair of exponentieel verband.",
-		"id": "13b542c1-6087-420e-a8ad-167bea7f1780"
+		"id": "13b542c1-6087-420e-a8ad-167bea7f1780",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22274,7 +22304,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan bij de formules van de vorm y = a . X + b, y = b . g^2, y = a . x^p en y = ^g log(x) de variabele x uitdrukken in y.",
-		"id": "8f5fe13c-4b4e-4999-ba65-837820545a82"
+		"id": "8f5fe13c-4b4e-4999-ba65-837820545a82",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22284,7 +22315,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan van een periodieke verschijnsel de periode, amplitude en de evenwichtswaarde bepalen.",
-		"id": "68ce96d2-beeb-428f-a315-e1acadbde8f5"
+		"id": "68ce96d2-beeb-428f-a315-e1acadbde8f5",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22294,7 +22326,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan lineair interpoleren en lineair extrapoleren bij twee of meer gegeven meetwaarden.",
-		"id": "6522986b-f09a-49e6-9f74-1dc2638bff95"
+		"id": "6522986b-f09a-49e6-9f74-1dc2638bff95",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22304,7 +22337,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan op een logaritmische schaalverdeling meetwaarden aflezen en aangeven.",
-		"id": "bfd22b08-d351-4874-90a1-6ef420c35b10"
+		"id": "bfd22b08-d351-4874-90a1-6ef420c35b10",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22314,7 +22348,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan bij een exponentieel verband een formule opstellen aan de hand van een tabel.",
-		"id": "484c01c0-2ffc-4cc7-9345-088efc858bb7"
+		"id": "484c01c0-2ffc-4cc7-9345-088efc858bb7",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22324,7 +22359,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan een gegeven groeifactor omrekenen naar een groeipercentage, en omgekeerd.",
-		"id": "d842f955-9a5a-4daf-b63a-ef8176eecd15"
+		"id": "d842f955-9a5a-4daf-b63a-ef8176eecd15",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22334,7 +22370,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan bij een gegeven groeifactor de halveringstijd/verdubbelingstijd berekenen, en omgekeerd.",
-		"id": "e1c0c7e4-eaa3-4804-b475-de1a6a5a8c2b"
+		"id": "e1c0c7e4-eaa3-4804-b475-de1a6a5a8c2b",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22344,7 +22381,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan binnen een probleemsituatie de verschillende representaties van een verband (formule, tabel, grafiek, tekst) doelgericht gebruiken.",
-		"id": "ab16a164-a7b8-401c-a1b9-baa80d70afb2"
+		"id": "ab16a164-a7b8-401c-a1b9-baa80d70afb2",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22354,7 +22392,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan de verbanden, genoemd onder parate kennis en C.4, en hun grafieken gebruiken met hun karakteristieke eigenschappen.",
-		"id": "98880d56-9ba8-47a9-a667-530c005674a5"
+		"id": "98880d56-9ba8-47a9-a667-530c005674a5",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22364,7 +22403,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan de verbanden, genoemd onder parate kennis en C.4, samenstellen, optellen, aftrekken, vermenigvuldigen en delen in probleemsituaties.",
-		"id": "054bc42b-6c63-4338-8d2f-99f5b0383995"
+		"id": "054bc42b-6c63-4338-8d2f-99f5b0383995",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22374,7 +22414,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan een trend beschrijven aan de hand van een gegeven probleemsituatie.",
-		"id": "9f5e082f-cb54-47df-80cf-9d10ed3f9239"
+		"id": "9f5e082f-cb54-47df-80cf-9d10ed3f9239",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22384,7 +22425,8 @@
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
 		],
 		"title": "De kandidaat kan vergelijkingen en ongelijkheden in een probleemsituatie oplossen met behulp van verschillende representaties.",
-		"id": "fab42b54-d3ef-4a84-9c2a-2b9ea5f88748"
+		"id": "fab42b54-d3ef-4a84-9c2a-2b9ea5f88748",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22394,7 +22436,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kent de notaties voor rijen: a en a(n), waarbij n zowel bij 0 als bij 1 kan beginnen.",
-		"id": "793030ea-26c9-4c31-adf3-3e6d52fb92f5"
+		"id": "793030ea-26c9-4c31-adf3-3e6d52fb92f5",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22404,7 +22447,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan vaststellen op welke intervallen er sprake is van een constant, een stijgend of een dalend verloop van de grafiek van een functie en tevens vaststellen of een stijging/daling toenemend of afnemend is.",
-		"id": "850653da-2ca7-47b9-a43c-dd71bc3b1c16"
+		"id": "850653da-2ca7-47b9-a43c-dd71bc3b1c16",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22414,7 +22458,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan de gemiddelde verandering op een interval berekenen.",
-		"id": "a604fd34-7aa3-4b9f-a227-2c5a58e1f469"
+		"id": "a604fd34-7aa3-4b9f-a227-2c5a58e1f469",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22424,7 +22469,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan grafisch de helling van een grafiek in een punt bepalen.",
-		"id": "c0828b53-b5b8-4660-891b-9af749789fb3"
+		"id": "c0828b53-b5b8-4660-891b-9af749789fb3",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22434,7 +22480,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan de kandidaat kan het veranderingsgedrag van de onder de parate kennis genoemde verbanden herkennen en beschrijven met behulp van hun grafieken, tabellen en formules.",
-		"id": "d8bd5ca8-80a5-4adb-a84f-f9a78e281e46"
+		"id": "d8bd5ca8-80a5-4adb-a84f-f9a78e281e46",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22444,7 +22491,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan de termen berekenen van een rij getallen die gegeven is door een recursieve formule of een directe formule.",
-		"id": "940bf5c6-fdc5-4c7e-846e-d39ae55e5496"
+		"id": "940bf5c6-fdc5-4c7e-846e-d39ae55e5496",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22454,7 +22502,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan een directe formule of recursieve formule opstellen van een rij getallen waarvan gegeven is dat deze hoort bij een lineair of exponentieel verband.",
-		"id": "937774c5-8fbd-4894-85f4-45137fe91c38"
+		"id": "937774c5-8fbd-4894-85f4-45137fe91c38",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22464,7 +22513,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan het veranderingsgedrag van verbanden beschrijven op basis van een gegeven formule en dit in verband brengen met de probleemsituatie.",
-		"id": "b6f61470-36cc-4253-8030-42036727a6e3"
+		"id": "b6f61470-36cc-4253-8030-42036727a6e3",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22474,7 +22524,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan de gemiddelde verandering op een interval interpreteren binnen een probleemsituatie.",
-		"id": "8050c6a0-5747-41e8-ab44-bc7dc24233f4"
+		"id": "8050c6a0-5747-41e8-ab44-bc7dc24233f4",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22484,7 +22535,8 @@
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		],
 		"title": "De kandidaat kan de helling van grafieken in verschillende punten met elkaar vergelijken.",
-		"id": "0002a889-203e-496d-9f29-c84b7ebf0e99"
+		"id": "0002a889-203e-496d-9f29-c84b7ebf0e99",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22494,7 +22546,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kent de logische symbolen (volgen nog)",
-		"id": "d02dc13a-8a5e-4be6-a72e-d0efa707c6da"
+		"id": "d02dc13a-8a5e-4be6-a72e-d0efa707c6da",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22504,7 +22557,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kent bij redeneringen de begrippen conclusie, uitgangspunt, definitie, redeneerstap, correct, volledig en onvolledig.",
-		"id": "1dacba3b-8de0-4ca7-8798-bcffdbb7c6b5"
+		"id": "1dacba3b-8de0-4ca7-8798-bcffdbb7c6b5",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22514,7 +22568,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kent de begrippen contradictie en paradox.",
-		"id": "07269049-d2dd-4015-8930-4558346722d7"
+		"id": "07269049-d2dd-4015-8930-4558346722d7",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22524,7 +22579,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan aangeven hoe een redenering is opgebouwd uit redeneerstappen.",
-		"id": "5ebb6120-d427-4d1d-9641-52d6656cf4f9"
+		"id": "5ebb6120-d427-4d1d-9641-52d6656cf4f9",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22534,7 +22590,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan  “als-dan” redeneringen verbinden met de “hier-uit-volgt” conclusie.",
-		"id": "500c8d07-6ae5-4b4b-aea7-b3fb77675c0b"
+		"id": "500c8d07-6ae5-4b4b-aea7-b3fb77675c0b",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22544,7 +22601,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan gegevens uit een Venn-diagram halen.",
-		"id": "bc3a9aae-75f7-451f-96dd-c53a291c5631"
+		"id": "bc3a9aae-75f7-451f-96dd-c53a291c5631",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22554,7 +22612,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan een onderscheid maken tussen een nodige en een voldoende voorwaarde.",
-		"id": "471522a8-d6cd-4d72-803d-7b5a04b369aa"
+		"id": "471522a8-d6cd-4d72-803d-7b5a04b369aa",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22564,7 +22623,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan de correctheid van redeneringen en daarbij horende conclusies, zoals gebruikt in het maatschappelijk debat, verifiëren en analyseren.",
-		"id": "ff56b68f-1747-4cae-9850-be6d86008380"
+		"id": "ff56b68f-1747-4cae-9850-be6d86008380",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22574,7 +22634,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan gebruik maken van voorbeelden als illustratie van een bewering en van een tegenvoorbeeld om een bewering te weerleggen.",
-		"id": "cb498208-384e-4494-994f-541073ca97bd"
+		"id": "cb498208-384e-4494-994f-541073ca97bd",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22584,7 +22645,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan een contradictie en een paradox herkennen en beschrijven.",
-		"id": "310c0fb5-837d-41c9-b1a1-dc840290f44c"
+		"id": "310c0fb5-837d-41c9-b1a1-dc840290f44c",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22594,7 +22656,8 @@
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
 		],
 		"title": "De kandidaat kan verschillende representaties, zoals tabel en (Venn-)diagram, en logische symbolen gebruiken bij het analyseren en oplossen van logische problemen.",
-		"id": "05bed4ca-e1f2-47f6-b1ea-9964da405540"
+		"id": "05bed4ca-e1f2-47f6-b1ea-9964da405540",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22604,7 +22667,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent de stelling van Pythagoras",
-		"id": "69595c4c-3cd8-4a12-b8b7-2982606a5fa0"
+		"id": "69595c4c-3cd8-4a12-b8b7-2982606a5fa0",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22614,7 +22678,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent de gulden snede als verhouding.",
-		"id": "4dc7a984-01dc-4424-9f3a-7fefa6366598"
+		"id": "4dc7a984-01dc-4424-9f3a-7fefa6366598",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22624,7 +22689,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent de formules voor het berekenen van de oppervlakte van een rechthoek, een driehoek en een cirkel.",
-		"id": "d231799e-c046-4c66-8bc5-c95d897b56ff"
+		"id": "d231799e-c046-4c66-8bc5-c95d897b56ff",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22634,7 +22700,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent de volgende inhoudsformules: I = G . H (voor balk, prisma en cilinder) en I = 1/3 G . h (voor piramide en kegel).",
-		"id": "d1a76c4a-7fca-478a-914a-0cc842a1afe3"
+		"id": "d1a76c4a-7fca-478a-914a-0cc842a1afe3",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22644,7 +22711,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent de begrippen horizon, oogpunt en verdwijnpunt.",
-		"id": "852304e9-9d34-4844-9a06-43c0757ce2be"
+		"id": "852304e9-9d34-4844-9a06-43c0757ce2be",
+		"dirty": true
 	},
 	{
 		"description": "Parate kennis",
@@ -22654,7 +22722,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kent het begrip regelmatige veelhoek.",
-		"id": "19f568f2-1b48-4f41-acb4-16a58eed1c23"
+		"id": "19f568f2-1b48-4f41-acb4-16a58eed1c23",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22664,7 +22733,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan aanzichten maken van een balk, een piramide en een prisma.",
-		"id": "c79fdf65-62c8-4477-bafa-236fb90c2544"
+		"id": "c79fdf65-62c8-4477-bafa-236fb90c2544",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22674,7 +22744,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan een éénpuntsperspectieftekening en een tweepuntsperspectieftekening maken van een balk.",
-		"id": "23e09b3a-a82c-472a-a87c-3a2478788d32"
+		"id": "23e09b3a-a82c-472a-a87c-3a2478788d32",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22684,7 +22755,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan het midden van elke zijde van een rechthoek in een perspectieftekening bepalen.",
-		"id": "82e68157-fd4c-401b-a79a-8f3fc54d98c6"
+		"id": "82e68157-fd4c-401b-a79a-8f3fc54d98c6",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22694,7 +22766,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan de oppervlakte van een rechthoek, een driehoek en een cirkel berekenen.",
-		"id": "799b8b45-5214-46aa-827e-cfee9267f98d"
+		"id": "799b8b45-5214-46aa-827e-cfee9267f98d",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22704,7 +22777,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan als de oppervlakte van het grondvlak gegeven is, de inhoud van een balk, een piramide, een prisma, een kegel en een cilinder berekenen.",
-		"id": "a1679db3-ba98-4f63-84b4-8bb208f8e3d5"
+		"id": "a1679db3-ba98-4f63-84b4-8bb208f8e3d5",
+		"dirty": true
 	},
 	{
 		"description": "Parate vaardigheden",
@@ -22714,7 +22788,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan bij een gegeven vergrotingsfactor van de lengte de oppervlakte van gelijkvormige figuren en de inhoud van gelijkvormige objecten berekenen, op basis van de oppervlakte van de oorspronkelijke figuur cq. de inhoud van het oorspronkelijke object.",
-		"id": "34cc6d7d-284f-4f3c-abe0-1114b6179df3"
+		"id": "34cc6d7d-284f-4f3c-abe0-1114b6179df3",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22724,7 +22799,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan bij het beschrijven van vlakke meetkundige figuren gebruik maken van gelijkvormigheid en symmetrie.",
-		"id": "f670b09c-ffba-4e10-8645-056f4136715f"
+		"id": "f670b09c-ffba-4e10-8645-056f4136715f",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22734,7 +22810,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan vanuit een perspectieftekening en/of gegeven aanzichten een ruimtelijk object beschrijven.",
-		"id": "8a586675-0702-4429-9e4b-cdb31a973617"
+		"id": "8a586675-0702-4429-9e4b-cdb31a973617",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22744,7 +22821,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan bij een afbeelding nagaan of de regels van perspectieftekenen goed gehanteerd zijn.",
-		"id": "965fcd6f-5f67-4cd7-97cb-145329a98e10"
+		"id": "965fcd6f-5f67-4cd7-97cb-145329a98e10",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22754,7 +22832,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan gebruik maken van de oppervlakte van de figuren die genoemd zijn in G.4, en van de inhoud van de ruimtelijke objecten die genoemd zijn in G.5, om daarmee de oppervlakte en de inhoud van ruimtelijke objecten te berekenen en/of te schatten.",
-		"id": "017307c3-305d-444b-84a9-9d4ad57d27b3"
+		"id": "017307c3-305d-444b-84a9-9d4ad57d27b3",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22764,7 +22843,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan berekeningen uitvoeren m.b.t. de inhoud en de oppervlakte van gelijkvormige figuren.",
-		"id": "75639f1f-1ac5-4821-9c4a-7f3078a2bc2d"
+		"id": "75639f1f-1ac5-4821-9c4a-7f3078a2bc2d",
+		"dirty": true
 	},
 	{
 		"description": "Productieve vaardigheden",
@@ -22774,7 +22854,8 @@
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
 		],
 		"title": "De kandidaat kan een éénpuntsperspectieftekening en een tweepuntsperspectieftekening maken van een veelhoek.",
-		"id": "8ec7dbda-ec7e-4b81-93d6-7b726949f747"
+		"id": "8ec7dbda-ec7e-4b81-93d6-7b726949f747",
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
