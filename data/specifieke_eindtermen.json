@@ -47092,5 +47092,225 @@
 		"title": "Historische realiteit",
 		"id": "a139df11-6b62-416b-926f-969380c5a138",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/teksten",
+		"syllabus_toelichting_id": [
+			"4125de6b-cf25-4c03-8778-664bb9c88f14"
+		],
+		"title": "Specificatie examenstof",
+		"id": "49eb99b1-5a95-470c-b247-51448f6f378f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"e3673f18-557f-48ed-9692-a39e3a532dee"
+		],
+		"title": "Genre - Epistolografie",
+		"id": "7dd84061-8749-44b6-8306-85b6bf36565f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"94d9f971-1dda-4221-89d0-9e74262f57c6"
+		],
+		"title": "Genre - Epigram",
+		"id": "4880ab54-f409-4840-a21b-09e5f6cff95e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1.1.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"19611970-4ffb-4bba-a4eb-1a1852d55b0b"
+		],
+		"title": "Genre - Epideictische retorica",
+		"id": "4cb9c914-a890-4286-86f4-7591f4f8d96d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "De auteurs en hun werken",
+		"id": "ae981544-9130-4e07-87ce-2340baa5a69a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1a",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"91b8488f-1d08-45c2-b423-f4f76f56ef02"
+		],
+		"title": "Het leven van Plinius",
+		"id": "231b6a4b-47eb-4b72-bb47-c3846bf33643",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1b",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"ccbdacc2-08f9-497c-91d2-6cb6c95cd7ae"
+		],
+		"title": "De werken van Plinius",
+		"id": "6a9242c0-8215-4203-bb09-181e4eb2873a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.2a",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"b7de68b0-8487-4369-9a0a-ffb424d79f09"
+		],
+		"title": "Het leven van Martialis",
+		"id": "c05982f8-ec6b-4ca0-91db-13f09746b91b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.2b",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"060f90d7-1190-4ff5-adf5-04f4d147e8e9"
+		],
+		"title": "De werken van Martialis",
+		"id": "7f2d5a98-e688-47e2-88d0-cd7e6c63292a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Cultuurhistorische achtergronden in het Rome van de eerste eeuw voor en na Christus",
+		"id": "62c1a9ac-3e0d-41da-b00f-b38e81b72894",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.1",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"2a9ec449-fd8d-4db7-9745-4d55cac05f87"
+		],
+		"title": "Politieke geschiedenis",
+		"id": "6642c229-368d-4426-a7f6-be5cf4a64f00",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.2",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"157f1d37-e41e-4030-a6d3-a4943358abbd"
+		],
+		"title": "Literatuur onder de keizers",
+		"id": "5529fc78-cafb-411a-94d9-7fc84ed7eb75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.3",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"ccf3e2ad-0ffb-492c-9c7b-fb6f5aa1e4ee"
+		],
+		"title": "Maatschappelijke omstandigheden",
+		"id": "1a2d2ba4-1a59-4f94-ba4e-834dbe0b0b06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.4",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"20d145ef-4b12-4e67-8e78-18ef863c3dcb"
+		],
+		"title": "Rechtspraak",
+		"id": "0d31c307-d558-4983-ada2-c1d2f96be9ad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.5",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"47df2302-a2f9-4c07-b100-287d574c4f51"
+		],
+		"title": "Welsprekendheid",
+		"id": "7746a01f-55b4-47fe-a933-4c75bfe096d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.6",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"1241f7ff-a080-4f67-a861-f00cce62f50c"
+		],
+		"title": "Militaire activiteiten",
+		"id": "c9fffec8-8550-40db-9b09-4bbe5b51c3c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/2.7",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"b89b5fd2-5375-4aea-9e89-9dd72efa432a"
+		],
+		"title": "Christendom",
+		"id": "158ce70a-1d51-4288-82ab-0e03f8570691",
+		"unreleased": true
 	}
 ]
