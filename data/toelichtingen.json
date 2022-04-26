@@ -26372,5 +26372,451 @@
 		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland.\r\nLeefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving.\r\nDe leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en sociale netwerken.\r\nDe beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief.\r\nBij stadsvernieuwing was er sprake van het fysiek opknappen van de woningvoorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling).\r\ningegrepen.",
 		"id": "828641e7-5850-423b-9231-5e55d47d7084",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een informatiebron is objectief indien de verstrekte informatie gebaseerd is op wetenschappelijke bevindingen en feiten en niet op subjectieve meningen, gevoelens en (voor)oordelen. De objectiviteit van een informatiebron kan worden bepaald door de volgende vragen: Wat is het doel van het geschrevene? Hoe zijn woorden en illustraties/afbeeldingen gekozen? Wat is de bredere context van het geschrevene? Waar, wanneer en door wie is de informatie tot stand gekomen? Op welke wijze zijn informatiebronnen verzameld? Denk daarbij bijvoorbeeld aan selectiecriteria of referentiekader.\r\nHoe zijn informatiebronnen weergegeven? Denk daarbij bijvoorbeeld aan toepassing van journalistieke principes als het hoor en wederhoor, scheiding van feiten en commentaar, streven naar objectiviteit, juiste weergave van feiten, citaten en het checken van bronnen.",
+		"id": "49134637-892b-42af-8371-1d79f1ce0fae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een informatiebron is betrouwbaar indien er maximale zekerheid bestaat dat de geleverde informatie correct is. Een betrouwbare bron is gedegen, controleerbaar en de informatie in de bron kan door andere bronnen worden bevestigd.",
+		"id": "f0734e2f-f3c1-4578-89c6-0533f646bc30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een informatiebron is representatief indien de verstrekte informatie gebaseerd is op een zo volledig mogelijke weerspiegeling van het betreffende fenomeen of de groep waar het om gaat. Een niet - representatieve informatiebron richt zich enkel op unieke en specifieke gevallen.",
+		"id": "c2c9c7e2-55bf-4478-a01f-2d0af2078c8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A2/1",
+		"examenprogramma_eindterm_id": [
+			"edde833b-994d-4a2c-a935-386b509c3e31"
+		],
+		"title": "In het centraal examen wordt kandidaten gevraagd om hoofd- of kernconcepten toe te passen op bekende of nieuwe contexten. Zij dienen de concepten actief te gebruiken. Actief gebruik van een concept gaat verder dan alleen reproductie van de definitie; kandidaten moeten de omschrijving van het concept concreet maken (toepassen) in de gegeven context (recontextualiseren)",
+		"id": "95feb029-62e0-443f-9296-7a3fa9a371d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Binnen de politieke en sociale wetenschappen worden verschillende meetinstrumenten gebruikt. Een meetinstrument wordt gebruikt om onderzoeksgegevens te verzamelen, zoals interviews, enquêtes, observaties en experimenten. De keuze voor het meetinstrument hangt af van de onderzoeksvraag en de hypothesen.",
+		"id": "4fff6191-fcd4-48f2-b7a5-fef8a5d80458",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Representativiteit van een steekproef kan men vaststellen door te kijken in welke mate de opbouw van de steekproef overeenkomt met de opbouw van de populatie waarover men een uitspraak wil doen. Hoe groter deze overeenkomst, hoe beter de representativiteit van de steekproef. Meestal wordt dan naar belangrijke sociaal-demografische kenmerken gekeken zoals de overeenkomst van populatie en steekproef betreffende het percentage ouderen/jongeren, mannen/vrouwen, hoog/laag opgeleiden en/of personen met of zonder migratiegeschiedenis.",
+		"id": "bd1b6c7e-e545-41d4-a2c4-c2db0ce23609",
+		"unreleased": true
+	},
+	{
+		"title": "Een onderzoeksvraag is niet eenvoudigweg met ‘ja’ of ‘nee’ te beantwoorden, maar gaat over verschillende alternatieven, verklaringen of beschrijvingen.",
+		"id": "911cc326-ab78-4e5c-adcb-5b8c79376f9a",
+		"unreleased": true
+	},
+	{
+		"title": "Een hypothese is een toetsbare uitspraak/stelling over de werkelijkheid. Een hypothese kan geformuleerd worden in de ‘als x – dan y’ vorm. Varianten hierop zijn de vormen: ‘hoe meer/minder x… des te meer/minder y…’, of ‘hoe groter/kleiner’, ‘indien/dan’, of ‘naarmate/dan’.",
+		"id": "0942d085-9bd0-4452-807a-829703557144",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Onafhankelijke en afhankelijke variabelen worden in een onderzoek geoperationaliseerd, dat wil zeggen meetbaar gemaakt. Bij het operationaliseren van variabelen worden concrete indicatoren geformuleerd, die de criteria bepalen wanneer het betreffende verschijnsel gegeven is en in welke mate dit het geval is. Een operationalisering is dus de manier waarop de centrale verschijnselen in het onderzoek worden gemeten. Bijvoorbeeld kan ‘motivatie’ gemeten worden door de uren die iemand werkt, maar ook door een lijst met vragen over de inschatting van de eigen motivatie.",
+		"id": "dc7115f3-2651-447b-a85a-8edcb311e87e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Correlatie betekent dat twee variabelen, oftewel de verschijnselen waarnaar deze variabelen verwijzen, een samenhang vertonen. Deze samenhang kan positief of negatief zijn: bij een positieve correlatie wordt de ene variabele groter als de andere groter wordt of juist kleiner als de andere ook kleiner wordt. Bij een negatieve correlatie wordt de ene variabele groter als de ander juist kleiner wordt en andersom.",
+		"id": "59e2d88e-2992-4be4-92c8-442349273c63",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Causaliteit betekent dat een verband oorzakelijk is: de onafhankelijke variabele oftewel het verschijnsel waarnaar deze variabele verwijst is de oorzaak voor de afhankelijke variabele.",
+		"id": "2167f7d0-cced-4555-b1bf-d01d36d03853",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Socialisatie is “het proces van overdracht en verwerving van de cultuur van de groep(en) en de samenleving waar mensen toe behoren. Het proces bestaat uit opvoeding, opleiding en andere vormen van omgang met anderen”. Mensen verschillen van dieren door de lange periode van onvolwassenheid, waarin zij de cultuur overnemen van de mensen om hen heen, de zogenaamde socialisatoren.",
+		"id": "2a9abc5b-887b-46cc-84c5-5c75378b5e22",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een cultuur is “het geheel van voorstellingen, uitdrukkingsvormen, opvattingen, waarden en normen die mensen als lid van een groep of samenleving hebben verworven”. Culturen zijn tijd- en plaatsgebonden, en dus dynamisch van karakter. Ze veranderen onder meer onder invloed van gewijzigde omstandigheden zoals veranderingen in de politieke of economische situatie, door uitwisseling met mensen buiten de groep of gemeenschap, of door een verandering van de samenstelling van de groep of gemeenschap. Deze nieuwe omstandigheden en veranderingen hebben dan weer invloed op\r\nsocialisatieprocessen, waardoor de volgende generatie verandert en daarmee ook de cultuur als geheel.",
+		"id": "c7ecb934-9952-445a-947d-9dc44b252e3b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In de periode na de Tweede Wereldoorlog verandert de functie en het relatieve belang van verschillende socialisatoren in Nederland. Er vindt een verschuiving plaats van een grote rol voor kerk en vereniging naar een grote rol voor onderwijs, peergroup en media. De betekenis van onderwijs als socialisator neemt toe doordat scholing steeds belangrijker wordt en kinderen steeds vroeger en langer buiten de directe sfeer van het gezin in een regime van educatie en socialisatie worden geplaatst. Van scholen wordt in toenemende mate verwacht dat zij aandacht besteden aan opvoedingstaken zoals de opvoeding in normen en waarden en de sociale vorming van de leerlingen.",
+		"id": "c5205a9d-8df4-4ce0-84b7-be9fb2a82826",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Onderzoekers hebben diverse hypothesen geformuleerd over de socialiserende werking van media, ofwel: op welke manier media mensen vormen: De cultivatiehypothese; de opinieleidershypothese; de mediaframing hypothese en de selectiviteitshypothese.",
+		"id": "ab327eec-67de-4cf9-a92b-57a1fbc63c25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Identiteit is “Het beeld dat iemand van zichzelf heeft, dat hij uitdraagt en anderen voorhoudt en dat hij als kenmerkend en blijvend beschouwt voor zijn eigen persoon en dat is afgeleid van zijn perceptie over de groep(en) waar hij wel of juist ook niet deel van uitmaakt”. Identiteit wordt gevormd tijdens de socialisatie en is het resultaat van interactie met andere mensen of met anonieme socialisatoren zoals media. Identiteit kan gezien worden als het ‘kruispunt’ van zelfbeeld en groepsbinding: het beeld dat iemand heeft van zichzelf wordt bepaald door de groepen en sociale categorieën waar zij of hij toe behoort en waartoe hij of zij zichzelf vindt behoren. Een belangrijk aspect hiervan is bijvoorbeeld gender. Ieder kind ontwikkelt al vroeg een besef van zichzelf als vrouw , man of – minder vaak – geen van beide. Dit besef leidt zowel tot de ontwikkeling van een zelfbeeld, als de ontwikkeling van een gevoel van groepslidmaatschap. Dit gevoel van groepslidmaatschap stimuleert identificatie: mensen proberen de positie, het perspectief en het gedrag over te nemen van de als eigen ervaren groep. Op deze manieren leren mensen zich ‘vrouwelijk’ of ‘mannelijk’ te gedragen",
+		"id": "244e0a96-e6fe-49c0-bb1c-cf2bf3eb2612",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Er wordt onderscheid gemaakt tussen persoonlijke identiteit, sociale identiteit en collectieve of groepsidentiteit.",
+		"id": "80739bf9-7143-4d53-805e-aeca82d5d458",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Cultuur is “het geheel van voorstellingen, uitdrukkingsvormen, opvattingen, waarden en normen die mensen als lid van een groep of samenleving hebben verworven”",
+		"id": "153dd218-2710-4153-8964-e80ff08e0a24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Landen en culturen verschillen qua waarden, normen en opvattingen. Hofstede onderscheidt zes dimensies, waarop je culturen van elkaar kunt onderscheiden. Grote machtsafstand versus kleine machtsafstand; Individualistisch versus collectivistisch; Masculien versus feminien; Lage onzekerheidsvermijding versus hoge onzekerheidsvermijding; Langetermijngerichtheid versus kortetermijngerichtheid; Hedonisme versus soberheid.",
+		"id": "4376080a-ea90-4b5b-86cf-65d23f8ddf16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Politieke socialisatie is “het proces van overdracht en verwerving van de politieke cultuur van de groep(en) en samenleving waar mensen toe behoren. Het proces bestaat uit opvoeding, opleiding en andere vormen van omgang met anderen”. Politieke cultuur is het geheel van politieke relevante tradities, kennis, opvattingen en oordelen die kenmerkend zijn voor een land, maar ook voor groepen daarbinnen en voor groepen/organisaties die landsgrenzen doorkruisen",
+		"id": "ec5e84b2-4d16-4882-8cd2-0876455e01d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het Nederlandse politieke landschap kende traditioneel drie hoofdstromingen: de confessionele, de liberale en de socialistische/sociaaldemocratische stroming. Confessionalisme met van oorsprong uitgangspunten als: christelijke waarden en samenwerking in maatschappelijke verbanden zoals verenigingen, scholen en kerken. Lliberalisme met van oorsprong uitgangspunten als: individuele rechten en individuele vrijheden. Socialisme/sociaaldemocratie met van oorsprong uitgangspunten als: gelijk(waardig)heid en een sturende rol van de overheid om dit te kunnen realiseren.",
+		"id": "fb6ba25d-fcb4-44f5-b92a-b894278ff7f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De geschiedenis van het gezin is vanaf de jaren twintig van de 20e eeuw te classificeren in vier perioden aan de hand van kenmerkende maatschappelijke ontwikkelingen in die tijd. De periode van de jaren twintig tot de jaren zestig; de periode van de jaren zestig tot de jaren tachtig. De jaren tachtig en negentig van de 20e eeuw en de 21ste eeuw.",
+		"id": "c5532fca-0154-4f6c-bdb6-bfb895482d9e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het gezinsbeleid van de Nederlandse overheid kenmerkt zich van oudsher door terughoudendheid bij de opvoeding. De rol van de overheid blijft over het algemeen beperkt tot het bieden van een wettelijk kader, bijvoorbeeld bepalingen die gaan over het ouderlijk gezag, en tot het scheppen van noodzakelijke financiële en praktische (rand)voorwaarden. Deze relatieve terughoudendheid van de overheid op pedagogisch gebied heeft zijn oorsprong in de verzuiling. Terughoudendheid van de overheid is geen vanzelfsprekendheid: in totalitaire staten bemoeit de staat zich veel intensiever met de opvoeding van de kinderen.",
+		"id": "47d74185-9203-4bd2-8623-41f445efd084",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In de confessionele ideologie is het streven om, vanuit een christelijk-ethische manier van denken, het gezin te behouden als hoeksteen van de samenleving, met daarin ruimte voor traditionele rollen voor mannen en vrouwen. In de liberale ideologie is vrijheid van het individu het streven; de overheid moet die vrijheid beschermen en zich verder neutraal opstellen in ethische kwesties. Ook bij de socialistische/sociaaldemocratische ideologie is de vrijheid van het individu voor een samenlevingsvorm het streven; de overheid mag actief ingrijpen om gelijkheid tussen mannen en vrouwen en tussen verschillende samenlevingsvormen vorm te geven.",
+		"id": "b2f3b6a9-cd94-4f4b-ae21-2215692b53ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In de Nederlandse samenleving ontwikkelden zich andere waarden en normen ten aanzien van ‘relaties’, zoals het ongehuwd samenwonen. Aanvankelijk werd dit afgekeurd en vond men het getuigen van zedeloosheid, maar onder invloed van de subculturen en protestbewegingen in de zestiger jaren werd dit steeds meer geaccepteerd en in de zeventiger jaren geïnstitutionaliseerd onder andere in nieuwe wetgeving zoals de scheidingswet van 1971. Sinds 1971 is in Nederland discriminatie van homoseksuelen wettelijk verboden.",
+		"id": "97979b34-37d7-4145-a4ff-cda3291434f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Voor alle waarneembare verschillen tussen mensen geldt dat ze sociaal gevormd zijn, dat wil zeggen dat er binnen een bepaalde samenleving verwachtingen aan verbonden worden en dat er een betekenis aan gegeven wordt, waardoor die verschillen anders uitwerken55. Het maken van onderscheid op basis van deze verschillen uit zich in sociale ongelijkheid. Het gaat daarbij om vier soorten sociale ongelijkheid oftewel, ongelijke verdelingen van hulpbronnen: ongelijke verdeling van economische hulpbronnen; ongelijke verdeling van sociale hulpbronnen; ongelijke verdeling van symbolische hulpbronnen en ongelijke verdeling van politieke hulpbronnen.",
+		"id": "a8dafa05-d7a1-411c-a4a3-9acb6a12d8e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Sociale stratificatie is een verdeling van de maatschappij in groepen of sociale lagen, waartussen sociale ongelijkheid bestaat.",
+		"id": "359dd0b3-144a-455b-9246-b781e9e025ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het proces van positietoewijzing verwijst naar maatschappelijke oorzaken waardoor een persoon of groep op een bepaalde positie terechtkomt. Deze maatschappelijke oorzaken werken van buitenaf op de persoon of groep in. Het proces van positieverwerving verwijst naar het verkrijgen van een maatschappelijke positie door de eigen bijdrage van een persoon of de groep waartoe iemand behoort.",
+		"id": "531f2586-42c1-4e89-aa2c-633a3b2ac2ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De maatschappelijke positie heeft invloed op de mate waarin mensen in staat zijn om zelf vorm te geven aan hun leven. In het socialisatieproces vormen mensen zich met kennis, opvattingen en verwachtingen die van invloed zijn op schoolsucces, gezondheid, politieke participatie en vrijetijdsbesteding.",
+		"id": "bc689fca-7e81-42db-9aaa-ee7c4444f985",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Macht is “het vermogen om hulpbronnen in te zetten om bepaalde doelstellingen te bereiken en de handelingsmogelijkheden van anderen te beperken of te vergroten”. Macht is een relationeel begrip, komt op alle niveaus voor en kent verschillende soorten. Er wordt een onderscheid gemaakt tussen formele en informele macht. Macht kan voortvloeien uit verschillende machtsbronnen: economische bronnen, cognitieve bronnen, politieke bronnen en affectieve bronnen.",
+		"id": "4b80acdc-4d32-497f-9261-7b6ae56c7267",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De mate van politieke participatie wordt beïnvloed door variabelen als opleiding, inkomen, religie, sekse en etniciteit. Politieke participatie wordt gewoonlijk onderscheiden in: electorale en niet-electorale participatie.",
+		"id": "0fcbb08a-1977-4761-b5b6-0bb1b965e60c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Volgens de ontwikkelingsvisie is politieke participatie een doel op zichzelf. Burgers willen politiek actief zijn en leren er veel van. Hun kennis, zelfvertrouwen en bekwaamheid om te participeren neemt toe wanneer zij echt betrokken zijn bij grote politieke vraagstukken",
+		"id": "450c039f-74c6-42a9-9670-847dce226fb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Volgens de theorie van het pluralisme bestaat de moderne samenleving uit een veelheid van maatschappelijke groepen die allemaal verschillende belangen vertegenwoordigen. Volgens de machtselitetheorie is er een machtselite, die sleutelposities inneemt op sociaaleconomisch en\r\npolitiek terrein.",
+		"id": "c3ce70af-71b4-4624-9912-49a777415838",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Binnen de sociale wetenschappen worden de verschijnselen macht en gezag analytisch van elkaar gescheiden en eenduidig geformuleerd. Gezag is “macht die als legitiem beschouwd wordt”. T",
+		"id": "3cb51e01-4a0b-449c-b8ca-15c1515ba4f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Er is sprake van een conflict in “een situatie waarin individuen, groepen en/of staten elkaar tegenwerken om de eigen doelen te bereiken”. Conflicten komen voor op micro-, meso- en macroniveau. Bi jmaatschappelijke en sociale conflicten spelen vaak machtsverschillen tussen individuen,\r\n(bevolkings)groepen of landen een rol.",
+		"id": "afad1de3-95bc-485c-b999-cd435da63431",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In de sociale wetenschappen bestaan er twee benaderingen die zich nadrukkelijk bezig houden met maatschappelijke en politieke conflicten: conflictbenadering van Marx en conflictbenadering van Huntington.",
+		"id": "a5fc3b20-a106-4541-9ef0-ed4e0c711989",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Niemand kan voorspellen wanneer en hoe een maatschappelijk of politiek conflict zal uitbreken en hoe groot het conflict zal zijn. Scheidslijnen tussen groepen leiden soms tot botsingen en protesten (met name als ze samengaan met ongelijke behandeling) maar de geschiedenis leert dat deze tegenstellingen vaak ook tot rust komen en gepacificeerd worden. Een door mensen als onrechtvaardig ervaren ongelijkheid kan leiden tot conflicten.",
+		"id": "f6d4aebc-1090-4c3d-b419-6a1b83f0e410",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Maatschappelijke en politieke conflicten kunnen verschillende gevolgen hebben: afname van de sociale cohesie in een maatschappij; versterking van de sociale cohesie binnen de partijen in een conflict; sociale verandering/maatschappelijke ontwikkeling en het blokkeren van sociale verandering doordat er een machtsevenwicht ontstaat.",
+		"id": "a4abfb1a-f6b2-4871-85d9-0289a794fcab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Bij het omgaan met conflicten kunnen twee maatschappelijke modellen voor onderhandelen worden onderscheiden: het harmoniemodel en het conflictmodel. De Nederlandse versie van het harmoniemodel wordt poldermodel genoemd.",
+		"id": "953557e8-24fb-46d1-b5ca-4c23bee3cd2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Samenwerking is “het proces waarin individuen, groepen en/of staten relaties vormen om hun handelen op elkaar af te stemmen voor een gemeenschappelijk doel”. Dat kan door het handelen van mensen of collectiviteiten op elkaar af te stemmen, gebruikmakend van: elkaars sterke punten of de macht van het getal (samen staan we sterker).",
+		"id": "19914782-fa93-4d52-8cff-ec56c7ac9967",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Op basis van onderzoek waarin mensen wordt gevraagd beroepen te rangschikken volgens de status die zij aan die beroepen toekennen kan een ‘beroepsprestigeladder’ worden vastgesteld.",
+		"id": "45b3b893-6a64-4ec1-8310-42531e0c1e9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De veelgebruikte beeldspraak van ‘maatschappelijke ladder’ suggereert dat het voor iedereen heel gemakkelijk is om hogerop te klimmen in de maatschappij. Dat is echter niet in alle gevallen zo. Afkomst, geslacht en geërfd bezit zijn minder belangrijk geworden voor iemands positie in de samenleving.",
+		"id": "98a06d82-26ba-410c-9540-efc4a545101a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De arbeidsparticipatie van onder meer vrouwen, jongeren, ouderen, laagopgeleiden - met name de ongediplomeerden onder hen - gedeeltelijk arbeidsgeschikten en Nederlanders met een niet-westerse migratieachtergrond allochtonen ligt onder het gemiddelde.",
+		"id": "c1f620be-bd2c-4afa-a06f-cfd43ec766b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Sociale uitsluiting kan effect hebben op de sociale cohesie van de samenleving. Deze sociale uitsluiting heeft vier componenten met behulp waarvan de mate van uitsluiting van een groep kan worden vastgesteld: beperkte sociale en politieke participatie; beperkte normatieve integratie; niet goed kunnen voorzien in elementaire levensbehoeften; geringe toegang tot sociale grondrechten.",
+		"id": "047fb7e7-0a50-4f53-9670-0dbf8e2adcab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De afgelopen decennia is het percentage studenten aan universiteiten en hogescholen uit de lage sociale milieus gestegen. Dat geldt ook voor (tweedegeneratie) jongvolwassenen met een migratieachtergrond.",
+		"id": "c5da5476-b257-4c04-88f1-d7d6280f1846",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Eurpoeanisering en globalisering; informatisering en digitalisering; veranderende man-vrouw verhouding; stijging opleidingsniveau en ontwikkeling naar postindustriële samenleving.",
+		"id": "da77a67d-4ca6-4e1d-9794-ef2b7fd7a689",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Met de Grondwetswijziging van 1848 werden rechtstreekse verkiezingen ingevoerd, maar het aantal stemgerechtigden werd nauwelijks uitgebreid. Een groot deel van de mannen beschikte volgens conservatieven en liberalen (de belangrijkste politieke stromingen uit die tijd) niet over de vermogens om daadwerkelijk politieke rechten uit te oefenen.",
+		"id": "35b8fbb8-1226-4d38-b915-0f1c6952eb10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De sociale ongelijkheid op het gebied van inkomen is de loop van de twintigste eeuw afgenomen, maar na 1985 weer toegenomen. Doordat de overheid sinds de jaren tachtig meer nadruk legt op eigen verantwoordelijkheid kunnen zwakkere groepen in de samenleving minder rekenen op bescherming van collectieve regelingen. Tegelijkertijd dreigt dubbele marginalisering van gekleurde minderheidsgroepen met een lage scholingsgraad.",
+		"id": "ca5ae669-0318-4a78-b66e-216a67bc3521",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De overheid heeft een aantal instrumenten om sociale ongelijkheid te beïnvloeden, zoals: mensen verzekeren tegen bepaalde vormen van inkomensverlies en zorg bieden voor mensen die door fysieke of cognitieve beperkingen onvoldoende mee kunnen komen; ongelijkheid in de inkomensverdeling via belasting- en premieheffing en subsidies neutraliseren of verminderen; onderwijsbeleid, gericht op het verminderen van verschillende vormen van sociale ongelijkheid;  wijkgericht achterstandbeleid; actief arbeidsmarktbeleid.",
+		"id": "3163ced3-6cfa-4ec4-9bfa-ad7a8a7608fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Overheidsmaatregelen kunnen verschillende effecten hebben. De beoordeling of iets een positief of negatief effect is, hangt samen met iemands politieke overtuiging.",
+		"id": "236c6a90-25a4-4179-961a-e7a21bd5df56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Vanuit de liberale stroming/ideologie wordt oorspronkelijk90 de nadruk gelegd op eigen verantwoordelijkheid en eigen initiatief bij burgers: dereguleren en privatisering. Vanuit de socialistische/sociaaldemocratische stroming/ideologie wordt oorspronkelijk de nadruk gelegd op een wat grotere rol voor de overheid om de gelijkheid tussen mensen te bevorderen. Vanuit de confessionele stroming/ideologie wordt oorspronkelijk de nadruk gelegd op gespreide verantwoordelijkheid.",
+		"id": "4ece53d3-4074-42a5-b4c2-ed6c2f7a90de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De verschillende afhankelijkheden kunnen in vier ideaaltypische vormen van sociale bindingen worden beschreven: economische bindingen; politieke bindingen; cognitieve bindingen en affectieve bindingen.",
+		"id": "6f41ee05-fb69-4926-9400-5549ca0cdc0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Er is sprake van groepsvorming als er “bindingen tussen meer dan twee mensen tot stand komen, doordat ze elkaar beïnvloeden en gemeenschappelijke waarden en normen ontwikkelen”9",
+		"id": "b3311d9a-be52-4ecf-b787-428ed59a00af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Sociale cohesie is “het aantal en de kwaliteit van de bindingen die mensen in een ruimer sociaal kader met elkaar hebben, het gevoel een groep te zijn, lid te zijn van een gemeenschap, de mate van verantwoordelijkheid voor elkaars welzijn, en de mate waarin anderen daar ook een beroep op kunnen doen”",
+		"id": "2d653144-8de3-422d-98c5-c0e5ccab5c2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Sociale controle heeft een functie bij het handhaven van de binding in de samenleving: mensen halen andere mensen over zich op een bepaalde manier te gedragen",
+		"id": "11c452c3-37bd-4e76-a62c-ee8608516474",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een sociale institutie is: “een complex van min of meer geformaliseerde regels die het gedrag van mensen en hun onderlinge relaties reguleren”. Het is een terugkerend collectief gedeeld patroon in het gedrag van mensen dat het handelen van hen een vaste betekenis, een zekere mate van voorspelbaarheid en stabiliteit geeft.",
+		"id": "717439ca-b345-4367-a1c5-557d3f354685",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Een politieke institutie is een “complex van min of meer geformaliseerde regels die het gedrag van mensen en hun onderlinge relaties rond politieke machtsuitoefening en politieke besluitvorming reguleren”. Politieke bindingen kunnen leiden tot het ontstaan van politieke instituties.",
+		"id": "75bd8a42-b99a-449b-aa5d-a62c9f5c35f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Representatie is “de vertegenwoordiging van een groep in (politieke) organisaties door één of enkele betrokkenen die namens de groep optreden”. Dit vindt ook plaats in het politieke domein waar vertegenwoordigers politieke besluiten en wetgeving trachten te realiseren.",
+		"id": "f11652ac-cf82-4533-9ac6-edd2b84253bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In het algemeen worden de bedreigingen voor de veiligheid van groepen mensen naar hun aard in drie categorieën onderverdeeld:  bedreigingen van natuurlijke aard: van storm en overstroming tot meteoorinslag en (pan)epidemische ziekteverwekkers; bedreigingen van technologische aard: industriële ongevallen, brand of explosie in publieke gebouwen, ernstige lucht-, water- of bodemverontreiniging, uitval van systemen, bijvoorbeeld voor water-, voedsel-, energie- of communicatievoorziening; bedreigingen van sociale aard: criminaliteit, terreur, (burger-)oorlog, oproer.",
+		"id": "2804cf7b-cf74-49a1-a630-d4a942aff6a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Onveiligheid is een maatschappelijk vraagstuk omdat het hoog op de publieke agenda staat, zoals blijkt uit bevolkingsonderzoeken111. Onveiligheid is ook een politiek vraagstuk, omdat het verschaffen van veiligheid voor de burgers tot de basisfuncties van de staat wordt gerekend: de staat moet de orde handhaven.",
+		"id": "c2af7de1-3e31-4ed7-ad48-7220fba8008a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Er wordt een onderscheid gemaakt tussen objectieve en subjectieve (on)veiligheid: Bij objectieve (on)veiligheid gaat het om de aard en omvang van criminaliteit, ongevallen en rampen; Bij subjectieve (on)veiligheid gaat het erom hoe mensen de aard en omvang van criminaliteit, ongevallen en rampen beleven en wordt gekeken naar gevoelens van (on)veiligheid.",
+		"id": "19b4f0a6-2b9b-42b9-a29e-d94e923bf13e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Hoe mensen de risico’s inschatten voor wat betreft de bedreiging van hun veiligheid (hoeveel en welke?) wordt beïnvloed door de informatie die zij daarover ontvangen, door beeldvorming die media daarover creëren en door de prioriteit die daaraan gegeven wordt op de politieke agenda.",
+		"id": "074bf4f3-6486-44ff-8c54-b04a4c45a913",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In dit kader is sprake van een veiligheidsutopie: de huidige maatschappelijke cultuur vraagt optimale individuele vrijheid, maar anderzijds een krachtdadig optreden door de overheid om de negatieve gevolgen van die vrijheid in te dammen en collectieve veiligheid te kunnen garanderen.",
+		"id": "16d510d2-b723-401a-ab80-dafd7c44b7d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Criminaliteit is menselijk gedrag waarbij andere personen of dieren of het milieu worden uitgebuit of schade toegebracht en dat sociale regels schendt. Dit gedrag wordt criminaliteit genoemd als het ook door de overheid wettelijk strafbaar is gesteld. Voorbeelden van criminaliteit zijn: vermogensdelicten, geweldsdelicten en cybercriminaliteit.",
+		"id": "dcfd41ca-39ea-490f-8bad-bc40628df5fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Factoren die criminaliteit kunnen bevorderen zijn: minder sociale cohesie – en dus minder maatschappelijke bindingen en minder informele en formele sociale controle in bijvoorbeeld sociale relaties zoals gezin, school en verenigingsleven; meer groepsvorming en integratie in ‘criminele (jeugd)groepen’ – dus groepen waarin acceptatie van crimineel gedrag juist de norm is; meer losse gezagsverhoudingen tussen bevolking en politie; meer ongelijkheid - waardoor achtergestelden meer stress ervaren doordat zij relatief weinig kansen in de samenleving ervaren.",
+		"id": "6ff7b91e-5b78-43f7-ba10-feb420fbc9d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De klassieke school gaat ervan uit dat personen die een misdaad begaan uit vrije wil handelen, en hun keuzes baseren op een kostenbatenafweging. De moderne school in het strafrecht stelt de dader meer centraal, het daderrecht. Deze school gaat niet uit van ‘vrije wil’ en een puur economisch mensbeeld, maar benadrukt juist dat persoonskenmerken van potentiële daders en hun sociale omstandigheden ook bijdragen aan de kans dat zij criminaliteit plegen.",
+		"id": "52b354ce-76ea-4d26-a445-881ac8da3d58",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De liberale ideologie legt de nadruk op eigen verantwoordelijkheid van de burgers. Het nastreven van eigenbelang heeft in de liberale visie heilzame effecten voor de samenleving, maar dient wel plaats te vinden binnen een juridisch kader. De socialistische /sociaaldemocratische ideologie legt van oudsher meer nadruk op de maatschappelijke oorzaken van criminaliteit, zoals sociale ongelijkheid en een gebrek aan sociale cohesie. De confessionele ideologie hecht veel belang aan het gezin, de school en het maatschappelijke middenveld bij het voorkomen van criminaliteit.",
+		"id": "c21e9723-18e4-4877-a607-1cc7f6a4ddcb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In het beleid van de overheid om criminaliteit te bestrijden zijn drie strategieën te onderscheiden: Rechtshandhaving, Ondersteuning en hulpverlening, Het beperken van de gelegenheid tot criminaliteit.",
+		"id": "ed7974fa-7135-4889-9619-44d8d61a8d23",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Rationalisering is “het proces van het ordenen en systematiseren van de werkelijkheid met de bedoeling haar voorspelbaar en beheersbaar te maken en van het doelgericht inzetten van middelen ten einde zo efficiënt en effectief mogelijke resultaten te bereiken”.",
+		"id": "144a7d51-544d-45d8-a428-bc9b113ca84b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Individualisering is “het proces waarbij individuen in toenemende mate hun zelfstandigheid op verschillende gebieden kunnen vergroten” en meer dan vroeger hun eigen leven kunnen c.q. moeten gaan plannen en inrichten.",
+		"id": "85e39112-126b-49d0-baf4-f7bfa9916dbb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Institutionalisering is “het proces waarbij een complex van waarden en min of meer geformaliseerde regels vastgelegd wordt in standaardgedragspatronen, die het gedrag van mensen en hun onderlinge relaties reguleren”.",
+		"id": "85fd0fc6-1165-4bf5-b658-c528fe365da2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Staatsvorming is “de institutionalisering van politieke macht tot een staat”. Het proces van staatsvorming is een combinatie van economische, culturele en politieke ontwikkelingen.",
+		"id": "535a1ea3-f3ba-4978-9cc0-c1f556525da6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In het politieke domein heeft democratisering betrekking op het proces waarbij er naar gestreefd wordt een politiek systeem te ontwerpen, te consolideren en uit te bouwen waarin de burgers participeren in de politieke besluitvorming.",
+		"id": "bd89128d-8d98-476d-93e2-18a9e9031930",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Globalisering is “het proces van uitbreiding en intensivering van contacten en afhankelijkheden over zeer grote afstand en over landsgrenzen heen” op economisch, juridisch, politiek, sociaal-cultureel en ecologisch gebied, waardoor er een wereldwijde samenleving ontstaat (global society).",
+		"id": "5a6866b4-c792-48e7-ab6b-1fc6f242e858",
+		"unreleased": true
 	}
 ]
