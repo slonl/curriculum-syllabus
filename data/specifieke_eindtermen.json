@@ -46738,5 +46738,147 @@
 		"title": "De kandidaat kan in contexten herkennen , begrijpen en toepassen op welke manier een centrale bank het rente-instrument kan inzetten om de inflatie / deflatie te beïnvloeden. (Overheid, centrale bank en conjunctuur)",
 		"id": "435b3f34-0b9b-47ea-a55c-c88ce8f0cb12",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1a.1",
+		"examenprogramma_eindterm_id": [
+			"a66ec364-385e-41ed-8678-8083d851f4a8"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit een of meerdere informatiebronnen en de bruikbaarheid daarvan beoordelen.",
+		"id": "247b1ba8-d2e4-4d70-a117-6b6858c8fe34",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1a.2",
+		"examenprogramma_eindterm_id": [
+			"a66ec364-385e-41ed-8678-8083d851f4a8"
+		],
+		"syllabus_toelichting_id": [
+			"49134637-892b-42af-8371-1d79f1ce0fae",
+			"f0734e2f-f3c1-4578-89c6-0533f646bc30",
+			"c2c9c7e2-55bf-4478-a01f-2d0af2078c8b"
+		],
+		"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en te typeren naar de mate van objectivieit, de mate van betrouwbaarheid en de mate van representativiteit.",
+		"id": "b4a48f06-4cd6-4014-bab9-b7cf0fd3395c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.1",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "De kandidaat kan hoofd- en kernconcepten van maatschappijwetenschappen herkennen in gegeven informatiebronnen en op basis van de inhoud en de feiten waar deze concepten naar verwijzen beredeneerde conclusies trekken.",
+		"id": "b12a03d9-97c1-4599-9884-1c2c0777f836",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "De kandidaat kan een standpunt onderbouwen of weerleggen en daarbij gebruik maken van argumenten die gebaseerd zijn op informatie verworven uit een objectieve bron.",
+		"id": "593f76b6-f62b-477b-93af-3f6463501a2e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1"
+		],
+		"title": "De kandidaat kan elementaire statistische informatie uit grafieken en tabellen interpreteren. Het gaat om verhoudingen tussen absolute en relatieve getallen in tabellen, gemiddelde, spreidingsbreedte en het aflezen van de x-yas.",
+		"id": "509c4062-6c25-4cfa-b8bb-554432c74b27",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"c958d10e-ef93-44d1-999c-24086a7466d6"
+		],
+		"title": "De kandidaat kan een oordeel geven over een onderzoek: over de betrouwbaarheid (de mate waarin een meting onafhankelijk van toeval en vrij van willekeurige meetfouten is), validiteit (de onderzoeker meet wat hij wil meten) en representativiteit: de mate waarin een steekproef de beoogde populatie weerspiegelt. Een steekproef is de groep respondenten waarop het onderzoek is gebaseerd; een steekproef is een uittreksel van een populatie. De populatie is de groep waarover men een uitspraak na het onderzoek wilt doen.",
+		"id": "a8b02fbf-fdd5-4695-8f26-132df004e6c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3a.2",
+		"examenprogramma_eindterm_id": [
+			"c958d10e-ef93-44d1-999c-24086a7466d6"
+		],
+		"syllabus_toelichting_id": [
+			"4fff6191-fcd4-48f2-b7a5-fef8a5d80458",
+			"bd1b6c7e-e545-41d4-a2c4-c2db0ce23609"
+		],
+		"title": "De kandidaat kan de onderzoeksresultaten interpreteren en evalueren op basis van de gehanteerde meetmethoden. Dat geldt ook voor informatie over onderzoeksresultaten die in de media verschijnt.",
+		"id": "832435ac-2ce5-4ffa-ba60-982b984b051d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3b.1",
+		"examenprogramma_eindterm_id": [
+			"2b66de54-f9ca-4190-8b01-c71401258842"
+		],
+		"syllabus_toelichting_id": [
+			"911cc326-ab78-4e5c-adcb-5b8c79376f9a",
+			"0942d085-9bd0-4452-807a-829703557144"
+		],
+		"title": "De kandidaat kan over een maatschappelijk verschijnsel een onderzoeksvraag/hypothese formuleren die onderzoekbaar is. Tevens kan hij hoofd- en kernconcepten selecteren en opnemen in de vraagstelling of hypothese.",
+		"id": "059d0950-8376-4c18-93cc-0341ed522a2f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinA/A3/3b.2",
+		"examenprogramma_eindterm_id": [
+			"2b66de54-f9ca-4190-8b01-c71401258842"
+		],
+		"syllabus_toelichting_id": [
+			"dc7115f3-2651-447b-a85a-8edcb311e87e"
+		],
+		"title": "De kandidaat kan afhankelijke en onafhankelijke variabelen onderscheiden en deze operationaliseren, in\r\nindicatoren bijvoorbeeld van hoofd- en kernconcepten.",
+		"id": "26a8a6c0-6586-49b6-a034-df0656279c1b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinB/B3/6.1",
+		"examenprogramma_eindterm_id": [
+			"047efcdd-ea1c-4645-8522-f685e2c9afde"
+		],
+		"syllabus_toelichting_id": [
+			"c5532fca-0154-4f6c-bdb6-bfb895482d9e"
+		],
+		"title": "De geschiedenis van het gezin en andere samenlevingsvormen in Nederland vanaf de jaren twintig van de 20ste eeuw.",
+		"id": "9f76de29-b4d2-4f81-8e38-a0efcefdc3a6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/H/DomeinD/D3/16.7",
+		"examenprogramma_eindterm_id": [
+			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
+		],
+		"syllabus_toelichting_id": [
+			"6ff7b91e-5b78-43f7-ba10-feb420fbc9d3"
+		],
+		"title": "Met criminaliteit samenhangende sociale en politieke vraagstukken en wetenschappelijke verklaringen voor criminaliteit.",
+		"id": "9727fd75-d9e5-4967-be78-5e6d9d3d40c4",
+		"unreleased": true
 	}
 ]
