@@ -26828,5 +26828,87 @@
 		"title": "In het centraal examen wordt kandidaten gevraagd om hoofd- of kernconcepten toe te passen op bekende of nieuwe contexten. Zij dienen de concepten actief te gebruiken. Actief gebruik van een concept gaat verder dan alleen reproductie van de definitie; kandidaten moeten de omschrijving van het concept concreet maken (toepassen) in de gegeven context (recontextualiseren).",
 		"id": "98a0a3b0-2cd7-466b-8a62-b9be841bc717",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinA/Teksten",
+		"examenprogramma_domein_id": [
+			"2e79294f-9788-4c7d-87d6-a7f0eddda00e"
+		],
+		"title": "Kernauteur: Homerus; Genre: Epiek; Teksteditie: D.B. Munro & T.W. Allen, Homeri Opera I-II, Oxford 1920 (Oxford Classical Texts) Rode draad: Oorlog en slachtoffers.",
+		"id": "46e3222f-de86-4019-bb8d-758bb7f34749",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De CvTE-minimumlijst vormt het uitgangspunt bij de op het centrale examen gestelde vragen en bij de annotatie van de ongeziene authentieke tekst. Daarnaast worden de volgende verschijnselen bekend verondersteld.",
+		"id": "22937d2e-313a-45c2-b1c3-693406839875",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Algemeen: \r\n- niet gecontraheerde vormen: ἄλγεα i.p.v. ἄλγη, προσεφώνεε i.p.v. προσεφώνει\r\n- η in plaats van lange α ook na ε, ι of ρ: παχείῃ i.p.v. παχείᾳ\r\n- preposities: ἐνί = ἐν; ἐς = εἰς\r\n- κε(ν) = ἄν\r\n- -σσ- i.p.v. -ττ-: θᾶσσον i.p.v. θᾶττον\r\n- contractie van ε en ο tot ευ i.p.v. ου\r\n- variatie in vormen: diectasis: εἰσορόωντες; metrische verlenging: οὐλόμενος naast ὀλόμενος; vormen met enkele en dubbele medeklinker: γελάσας en γελάσσας, Ἀχιλλεύς en Ἀχιλεύς.",
+		"id": "a6b98592-b664-43bc-8a05-d8ebe41a9725",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Werkwoorden\r\n- het augment blijft vaak achterwege: τεῦχε = ἔτευχε, ἀμείβετο = ἠμείβετο\r\n- tmesis: κατὰ δάκρυ χέουσα\r\n- infinitivusuitgangen -(ε)μεν / -(ε)μεναι: φερέμεν = φέρειν, διεξίμεναι = διεξιέναι\r\n- uitgangen -ηαι / -εαι i.p.v. -ῃ / -ει (2e pers. ev. med.): πίθηαι = πίθῃ, δυνήσεαι = δυνήσει\r\n- iteratief suffix -σκ-\r\n- de afwijkende vormen van εἰμί (zijn) en εἶμι (gaan)\r\n- uitgang 1e pers. mv. med. -μεσθα i.p.v. -μεθα: μεταφρασόμεσθα = μεταφρασόμεθα\r\n- uitgang 3e pers. mv. -ν i.p.v. -σαν: ἔβαν = ἔβησαν.",
+		"id": "da5400a3-03ec-4287-b504-ef5e396e56c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Naamwoorden\r\n- gen. ev. o-decl.: -οιο i.p.v. -ου: χοροῖο i.p.v. χοροῦ\r\n- gen. ev. a-decl. mannelijke woorden op -ης: -αο / -εω i.p.v. -ου: Ἀτρεΐδαο, Πηληϊάδεω\r\n- gen. mv. a-decl.: -άων/-έων: Μουσάων, πασέων\r\n- dat. mv. a-decl.: -ῃσι(ν) i.p.v. -αις: γλαφυρῇσιν i.p.v. γλαφυραῖς\r\n- dat. mv. o-decl.: -οισι(ν) i.p.v. -οις: οἰωνοῖσι i.p.v. οἰωνοῖς\r\n- dat. mv. gem. decl.: -εσσι(ν) i.p.v. -σι(ν): ἄνδρεσσιν i.p.v. ἀνδράσι\r\n- verbuiging van νηῦς (= Att. ναῦς): νηός, νηί, νῆα, νῆες, νεῶν, νηυσίν/νέεσσι, νῆας\r\n- suffixen -δε en -θεν: οἶκόνδε, οἴκοθεν\r\n- verbuiging van Ζεύς\r\n- verbuiging van πόλις.",
+		"id": "9ea6c9d4-4e08-4b36-9f86-97cdf0f72903",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Voornaamwoorden\r\n- persoonlijke voornaamwoorden ἐγών, τοι, οὗ, οἱ, ἑ, σφί(ν), σφίσι(ν), μιν\r\n- het latere lidwoord met functie van aanwijzend voornaamwoord\r\n- het latere lidwoord (aanwijzend voornaamwoord) gebruikt als betrekkelijk voornaamwoord (beginnend met τ-)\r\n- bezittelijk voornaamwoord ὅς, ἥ, ὅν",
+		"id": "f1895236-b742-436e-ba7b-fac575d9c211",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Syntaxis\r\n- bijwoordelijk gebruik van voorzetsels: περὶ δὲ Τρῳαὶ ἅλις ἦσαν\r\n- τε in relatieve bijzinnen met algemene strekking en in vergelijkingen (“episch τε”)\r\n- plaatsing voorzetsels in postpositie (met verplaatsing van het accent): νηυσὶν ἔπι γλαφυρῇσιν.",
+		"id": "ceef7633-b153-4afa-8cb8-6c8fe83f1381",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De Ilias en de Odyssee staan van oudsher op naam van Homerus. Over zijn persoon en de plaats waar hij leefde is nauwelijks iets met zekerheid te zeggen. Hetzelfde geldt voor de periode waarin hij leefde: volgens de meeste geleerden was dat in de achtste eeuw v. Chr. Het is zelfs onzeker of hij als auteur van Ilias én Odyssee beschouwd kan worden. Deze onzekerheid bestond al in de oudheid.",
+		"id": "0615f783-ce24-4aae-9af9-b8e02df17fd8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De openingsverzen van de Ilias en de Odyssee geven reeds aan waar de epen over gaan: de Ilias over de wrok van Achilles, de Odyssee over de omzwervingen van Odysseus.",
+		"id": "6d5687b8-01bb-4673-b6a2-97f0300a6b6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Beide werken van Homerus zijn epen over helden die op de proef gesteld worden in uitzonderlijke situaties zoals oorlogen en verre reizen; het gaat daarbij voortdurend om de vraag hoe mannen zich moeten gedragen tegenover elkaar, de goden, de doden, en hun vrouwen en familie.",
+		"id": "187c76cd-bb77-40f9-9658-bb5fa8982df2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De homerische goden zijn onsterfelijk en verouderen niet. Ze leven op de Olympus. Ze zijn antropomorf: ze hebben een menselijke gedaante, handelen als mensen en vertonen menselijke emoties. De goden zijn ondergeschikt aan Zeus, de oppergod. De goden volgen de gebeurtenissen in de wereld van de stervelingen en grijpen daarin regelmatig in.",
+		"id": "d7af5bbd-8cbf-4438-add2-18d345221bc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De homerische epen stonden in de Oudheid in hoog aanzien. Grieken refereerden aan Homerus simpelweg als ὁ ποιητής, de dichter. Homerus gold niet alleen als de beste dichter van de Grieken, maar zijn werken vervulden ook een centrale rol in hun maatschappij en cultuur.",
+		"id": "3676f016-eea2-4c3f-8f27-358efc31644f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "In de periode van circa 1600-1200 v.Chr. bloeide op het Griekse vasteland de Myceense beschaving. Resten van burchten uit die periode zijn gevonden in onder andere Mycene en Tiryns. De paleizen in die burchten bestonden uit een complex van gebouwen rond een troonzaal met haardplaats (μέγαρον).",
+		"id": "868b1668-c6a6-4133-8a6d-93fe7aaf4070",
+		"unreleased": true
 	}
 ]
