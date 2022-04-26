@@ -939,7 +939,7 @@
 		"examenprogramma_eindterm_id": [
 			"f54a0a2f-d5c0-46fb-933e-144890a1ce18"
 		],
-		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract, trouwen, geregistreerd partnerschap, in beperkte gemeenschap van goederen, op huwelijkse voorwaarden/partnerschapsvoorwaarden, scheiden, partnerpensioenrechten, alimentatie, schenken, overeenkomst om niet, schenkbelasting, belastingvrijstelling, vrijstellingen bij schenkingen aan ANBI, erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving/beneficiair aanvaarden, zuiver aanvaarden, erfbelastingen en vrijstellingen",
+		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract, trouwen, geregistreerd partnerschap, in (beperkte) gemeenschap van goederen, op huwelijkse voorwaarden/partnerschapsvoorwaarden, scheiden, partnerpensioenrechten, alimentatie, schenken, overeenkomst om niet, schenkbelasting, belastingvrijstelling, vrijstellingen bij schenkingen aan ANBI, erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving/beneficiair aanvaarden, zuiver aanvaarden, erfbelastingen en vrijstellingen",
 		"id": "94108b43-ab5b-4850-b703-60c8ae5d574f",
 		"dirty": true,
 		"description": "",
@@ -972,7 +972,7 @@
 		"examenprogramma_eindterm_id": [
 			"cc5a5987-5723-4040-8100-ca8185179a78"
 		],
-		"title": "rechtsvorm, natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap, stichting, vereniging, organen binnen organisatie, bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders, beëindigen organisatie, surseance van betaling, faillissement, zonder bedrijfsopvolging/verkoop, stakeholders",
+		"title": "rechtsvorm, natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap, stichting, vereniging, organen binnen organisatie, bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders, beëindigen organisatie, surseance van betaling, faillissement, zonder bedrijfsopvolging/verkoop, stekeholders",
 		"id": "1302ee0f-707e-4e88-b26c-c9be280990a2",
 		"dirty": true,
 		"description": "",
@@ -6697,6 +6697,29 @@
 		"prefix": "",
 		"title": "financieringswijzen, banken, overige vermogensverschaffers, inclusief leasemaatschappijen, eigen inbreng",
 		"id": "a394391c-2a29-4f31-b55b-9a97feabf259",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "verzekeren, levensverzekering, schadeverzekeringen, lenen, consumptief krediet, hypothecair krediet, sparen, interest- en afslossingsverplichtingen, financiële gevolgen, enkelvoudige en samengestelde interest, contante waarde, eindwaarde, direct opneembare en niet-direct opneembare spaartegoeden, bedrijfspensioen als een vorm van verplicht sparen, beleggen, vermogenstitels, aandelen, obligaties, beleggingsfondsen, effectenbeurs, call-opties en put-opties",
+		"id": "7a66f3ed-0eea-4aa3-8e9b-4289bd7b26f4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "causation, marktdefinitie, segmentatie/richten, positioneren, effectuation, nieuwe markten en uitgaan van beschikbare middelen, strategische partners, stakeholders",
+		"id": "6d1187cb-258b-43ad-a763-0e9536b63b23",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "financieringswijzen, banken, overige vermogensverschaffers, inclusief leasemaatschappijen, eigen inbreng",
+		"id": "c8c06bd2-34a2-42eb-b6d8-3b4204c061ab",
 		"unreleased": true
 	}
 ]
