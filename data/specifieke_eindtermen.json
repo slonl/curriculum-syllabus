@@ -16874,8 +16874,10 @@
 		"examenprogramma_eindterm_id": [
 			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
 		],
-		"title": "De kandidaat kent de volgende bij de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\n- (constant, toenemend of afnemend) stijgen\r\n- (constant, toenemend of afnemend) dalen",
-		"id": "bc2fac57-26ef-4145-ae01-19c5630e54b1"
+		"title": "De kandidaat kent de volgende bij de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\r\n- (constant, toenemend of afnemend) stijgen\r\r\n- (constant, toenemend of afnemend) dalen",
+		"id": "bc2fac57-26ef-4145-ae01-19c5630e54b1",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -16883,8 +16885,10 @@
 		"examenprogramma_eindterm_id": [
 			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
 		],
-		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\n- snijpunt(en) met de x-as en met de y-as,\r\n- asymptotisch gedrag",
-		"id": "61addac4-5bc9-48d8-8728-101fd92ab4ab"
+		"title": "De kandidaat kent de volgende bij de grafieken van de genoemde standaardverbanden behorende karakteristieke eigenschappen\r\r\n- snijpunt(en) met de x-as en met de y-as,\r\r\n- asymptotisch gedrag",
+		"id": "61addac4-5bc9-48d8-8728-101fd92ab4ab",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -17189,8 +17193,10 @@
 		"examenprogramma_eindterm_id": [
 			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
 		],
-		"title": "De kandidaat kent de volgende vuistregels voor de normale verdeling met gemiddelde μ en standaardafwijking σ:\r\n- tussen μ–σ en μ+σ ligt ongeveer 68% van de waarnemingen,\r\n- tussen μ–2σ en μ+2σ ligt ongeveer 95% van de waarnemingen,\r\n- tussen μ–3σ en μ+3σ ligt nagenoeg 100% van de waarnemingen.",
-		"id": "51346e07-2581-4cf0-9506-3a9d37604176"
+		"title": "De kandidaat kent de volgende vuistregels voor de normale verdeling met gemiddelde μ en standaardafwijking σ:\r\r\n- tussen μ–σ en μ+σ ligt ongeveer 68% van de waarnemingen,\r\r\n- tussen μ–2σ en μ+2σ ligt ongeveer 95% van de waarnemingen,\r\r\n- tussen μ–3σ en μ+3σ ligt nagenoeg 100% van de waarnemingen.",
+		"id": "51346e07-2581-4cf0-9506-3a9d37604176",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE;SE",
