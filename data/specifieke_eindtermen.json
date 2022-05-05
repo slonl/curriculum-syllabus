@@ -47394,5 +47394,160 @@
 		"title": "De historische context - Historische realiteit en politieke situatie",
 		"id": "f76d20e9-6002-4efe-9b97-6d9affcf3c9b",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"title": "Genre - Epos",
+		"id": "abb045f3-2446-4887-ad28-c44c542e4939",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.1",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"552b9728-8a13-489a-9b4f-393410380360"
+		],
+		"title": "Definitie en kenmerk van het genre",
+		"id": "5c064d64-f32d-4d56-b186-7f21680806c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.2",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"e7f6dd7e-0c01-4290-aa9b-c57c358f8175",
+			"d510f74b-1858-4b2c-b948-0259264c0be7"
+		],
+		"title": "Ontstaan en ontwikkeling van het genre",
+		"id": "aebb05c1-0d24-4657-be54-37cf04199e6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.3",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"09f24095-cfe4-416a-9443-cedba61c7bdb"
+		],
+		"title": "Ovidius' Metamorphoses",
+		"id": "f3901902-11c1-430b-bcd2-8782702e0cf2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.3a",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"4bfe5fa6-aa23-458a-9d75-cb8691284b26"
+		],
+		"title": "De verteller",
+		"id": "d2f571f0-e784-49c2-8661-e2dd2e3eba65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.3b",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"bf1ee06e-99f9-4b28-a2b0-23db9c921ff0"
+		],
+		"title": "Specifieke structuurelementen",
+		"id": "c225422e-e47c-475b-8b3c-72113b5c5b22",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.3c",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"cfc3a846-1655-4fe7-82c7-be09e908ae94"
+		],
+		"title": "Centrale thema's",
+		"id": "10803082-edc1-4b3f-a4dc-67b2aa204189",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/3",
+		"examenprogramma_domein_id": [
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e"
+		],
+		"syllabus_toelichting_id": [
+			"09718500-c57f-41ff-b661-327a2ff3e399"
+		],
+		"title": "Taal en stijl",
+		"id": "7eb80dea-6386-404c-bdd4-65a0b9651624",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"title": "Ovidius' leven en werk",
+		"id": "d7fdeadc-e88a-43aa-bcfa-5774446de231",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1a",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"37b1c122-8dab-44ae-a030-0f11031ca89a"
+		],
+		"title": "Ovidius' leven",
+		"id": "5934163e-517d-4a71-ab7a-e3e49691adbf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1b",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"f9a97da9-7fa2-4d26-8bf5-23973a703134"
+		],
+		"title": "Ovidius' werken",
+		"id": "86f872c5-68fe-4422-9923-d11a641a11d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1c",
+		"examenprogramma_domein_id": [
+			"c744695c-029c-4b3c-917c-008cc4da728f"
+		],
+		"syllabus_toelichting_id": [
+			"61ddad2a-5a6a-409f-8fba-40440b1883f2"
+		],
+		"title": "Waardering in latere tijd",
+		"id": "05356091-60c4-4c41-b8da-d32c9dd6a7d9",
+		"unreleased": true
 	}
 ]
