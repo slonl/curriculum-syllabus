@@ -12261,5 +12261,37 @@
 		"title": "Syllabus Latijnse taal en cultuur vwo 2022",
 		"id": "b895f7ce-1a9f-4c52-b335-0f058e045d10",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"1abce396-eafa-49e6-8f4e-251aed90f56a"
+		],
+		"syllabus_vakleergebied_id": [
+			"cb54b707-b612-4c78-aa8d-3daa938d2a1b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ed4ccb5-d215-4df7-ae23-8ed5f69a9859",
+			"aa524a97-e437-4f2c-b417-6b01034eaa2c",
+			"58f2f3b8-dec6-4be0-9c9a-d7765e978a39",
+			"f9528833-a058-405a-80b3-e4e9b6eff468",
+			"6df88f56-e2dc-436f-a46c-624ba15773f4",
+			"f4056df1-4c8d-43bd-adbc-447af385773e",
+			"4efa744e-1a03-42e7-8fca-75aeb3305110",
+			"63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"c15b6e00-3000-41f7-b648-49ccfdbbe4c5",
+			"fc3248cc-fa69-44b1-abc4-c208a2beede8",
+			"2b498052-31b0-402f-9e7b-fff2c1c600bd",
+			"f76d20e9-6002-4efe-9b97-6d9affcf3c9b"
+		],
+		"title": "Syllabus Griekse taal en cultuur vwo 2023",
+		"id": "e010453c-c64f-4099-8a44-15a018f155b5",
+		"unreleased": true
 	}
 ]
