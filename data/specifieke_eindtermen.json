@@ -47008,7 +47008,11 @@
 		],
 		"title": "De verteller",
 		"id": "6df88f56-e2dc-436f-a46c-624ba15773f4",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"f5fdb9fd-5f5b-4561-a61b-e40f037d07ef"
+		]
 	},
 	{
 		"description": "",
@@ -47311,6 +47315,84 @@
 		],
 		"title": "Christendom",
 		"id": "158ce70a-1d51-4288-82ab-0e03f8570691",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinA/TekstA2",
+		"examenprogramma_domein_id": [
+			"2e79294f-9788-4c7d-87d6-a7f0eddda00e"
+		],
+		"title": "Genre",
+		"id": "58f2f3b8-dec6-4be0-9c9a-d7765e978a39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinA/TekstA2a",
+		"examenprogramma_domein_id": [
+			"2e79294f-9788-4c7d-87d6-a7f0eddda00e"
+		],
+		"syllabus_toelichting_id": [
+			"b5d8fcdb-a400-41e1-9d9a-0734ccff1a33"
+		],
+		"title": "Ontstaan en ontwikkeling van de geschiedschrijving.",
+		"id": "f9528833-a058-405a-80b3-e4e9b6eff468",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinB/1a",
+		"examenprogramma_domein_id": [
+			"d8004613-bbd5-4f55-907c-f7e5039a38da"
+		],
+		"syllabus_toelichting_id": [
+			"17fd0482-6150-4877-8ed3-23328abd3c80"
+		],
+		"title": "Leven van de auteur",
+		"id": "c15b6e00-3000-41f7-b648-49ccfdbbe4c5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinB/1b",
+		"examenprogramma_domein_id": [
+			"d8004613-bbd5-4f55-907c-f7e5039a38da"
+		],
+		"syllabus_toelichting_id": [
+			"b80a71bc-4c6e-4272-991e-61a26ba11965"
+		],
+		"title": "Centrale thema's van het werk",
+		"id": "fc3248cc-fa69-44b1-abc4-c208a2beede8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinB/1c",
+		"examenprogramma_domein_id": [
+			"d8004613-bbd5-4f55-907c-f7e5039a38da"
+		],
+		"syllabus_toelichting_id": [
+			"d69e9724-9bb5-4354-8b86-71358d2ce327"
+		],
+		"title": "Ontstaan en geschiedenis van het werk",
+		"id": "2b498052-31b0-402f-9e7b-fff2c1c600bd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinB/1.2",
+		"examenprogramma_domein_id": [
+			"d8004613-bbd5-4f55-907c-f7e5039a38da"
+		],
+		"syllabus_toelichting_id": [
+			"b480705b-add1-4516-aa94-cf7810e43366"
+		],
+		"title": "De historische context - Historische realiteit en politieke situatie",
+		"id": "f76d20e9-6002-4efe-9b97-6d9affcf3c9b",
 		"unreleased": true
 	}
 ]
