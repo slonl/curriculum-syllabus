@@ -12328,5 +12328,26 @@
 		"title": "Syllabus Latijnse taal en cultuur vwo 2023",
 		"id": "bf9eaa13-e9cc-4c67-9103-abb22f8c1afe",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"074e7ee9-4763-4391-b3b6-716155964bda"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"e0ff8e2b-3929-4ba5-a826-999a39480223"
+		],
+		"title": "Syllabus Moderne vreemde talen Arabisch havo 2022",
+		"id": "95f3bd71-4907-4a28-89e0-565de8ea5801",
+		"unreleased": true
 	}
 ]
