@@ -12391,5 +12391,26 @@
 		"title": "Syllabus Moderne vreemde talen Duits havo 2022",
 		"id": "76e0ed2c-a16b-482e-9d36-c46cb14aa91a",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"b318368e-baad-4b5c-b146-bdb589e44beb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"554f1f54-66fe-4be3-84a8-b0d521d1bfa6"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vwo 2022",
+		"id": "67091c48-efb0-4788-95d7-cd6a1de842ec",
+		"unreleased": true
 	}
 ]
