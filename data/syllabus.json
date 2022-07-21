@@ -14285,5 +14285,36 @@
 		"title": "Syllabus Tekenen havo 2023",
 		"id": "4e4938f4-808a-4662-84ab-c4547ee32089",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"46fe59a1-c8de-4e0c-9ecf-6f03fb326e66"
+		],
+		"syllabus_vakleergebied_id": [
+			"03148f32-44eb-4e69-8758-775dcb674597"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0e1107d9-fccf-4d23-abaa-14cfc82ae688",
+			"ff481b38-12d0-44b9-b6c2-8efa74ce0779",
+			"06648fd3-5142-415e-a83c-d7b95d3e11c9",
+			"f8eb9c8c-3b98-4058-955e-0b9e3209285f",
+			"f9d5a43d-ced9-4085-bbd6-97e582ec1c21",
+			"b88d9718-2a74-482c-b1d8-ff6c9627118b",
+			"a98428b3-39cf-4fa4-be57-f8a8132ae205",
+			"8cf5596b-62ca-475f-8bcf-11f16a0eef9b",
+			"a74d1cb9-7398-491b-ab7c-8eb7178c12a7",
+			"e27986e1-e647-48b5-9103-d49cf62d0ed2",
+			"92e9d187-9064-4e1d-a462-3fc88851bd11"
+		],
+		"title": "Syllabus Textiele vormgeving havo 2023",
+		"id": "a484c1a3-dd19-4b0b-abf7-a35d9f588d19",
+		"unreleased": true
 	}
 ]
