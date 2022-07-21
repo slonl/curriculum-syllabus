@@ -13993,5 +13993,51 @@
 		"title": "Syllabus Geschiedenis vwo 2022",
 		"id": "097affd1-634a-4407-a0cc-81e647494342",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"f12bad65-4404-4800-be79-a1f274513cf1"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"f006c204-f389-4a12-b6dc-c36d10d786f7",
+			"20feebc7-8871-4c48-bb7e-36d2099be41e",
+			"65c85bfe-804b-4220-afae-5289ca3fff4c",
+			"7bb034f8-b3b4-44ed-8626-1256016ecbbb",
+			"a6cbf03e-61a7-4c35-b19d-f693921416ef",
+			"16c75611-3a5d-4d7b-a8a6-f33ede58192a",
+			"419509b4-34fe-4e84-822e-0a71af8ec2a2",
+			"36d9e648-916b-4e22-8bfb-ef8fb8f058f1",
+			"0e65e7f9-c5af-4bea-bd98-240d47a9ac44",
+			"7b9d26f4-0d0b-4b36-9d68-afac059b2618",
+			"51764e9c-191a-4c88-8f43-269324fbe089",
+			"567ac731-9ac9-4375-9c11-af8a80e3a93f",
+			"a574cce7-59e6-4ef4-a29e-5062fa8bea6b",
+			"fb4a2a74-b81b-41c3-820a-bcb6cc391793",
+			"acdba2f3-b4a0-443a-83ae-bfa81c4b093f",
+			"e4d6e70d-86b8-4d71-973d-d297997eceaa",
+			"d4cd38d7-3dec-4563-9d0e-f6babae49584",
+			"7ebb6f81-9a88-4348-a535-0c7be494a741",
+			"f62df0c1-1edf-470f-917d-7266afacbd3e",
+			"33bf2ec1-0e1a-47f8-9f9f-4ef635774d94",
+			"5387dacb-bd43-4181-a2e7-fdbb6058b70a",
+			"46224b92-3fa9-4c07-ac78-2a83bfb2ccdb",
+			"17c3612f-c5dd-4b8f-8465-f00252732424",
+			"a803f4a2-3509-4b4c-813d-e04e9c446f4c",
+			"37469674-8600-4695-a1d8-6ab1c16ee144",
+			"c6b76d01-8325-48f1-8889-69142db1f573"
+		],
+		"title": "Syllabus Geschiedenis vwo 2023",
+		"id": "8469ffd9-cfde-4674-9c0c-35a3f411ed2d",
+		"unreleased": true
 	}
 ]
