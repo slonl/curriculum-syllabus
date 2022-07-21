@@ -33810,7 +33810,7 @@
 		"examenprogramma_eindterm_id": [
 			"514e57b6-028c-4ecf-ab08-6998ce494085"
 		],
-		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\r\nBijvoorbeeld directe en indirecte oorzaken, aanleiding (meest directe oorzaak), direct optredende gevolgen en gevolgen op de langere termijn, gewilde en ongewilde, bedoelde en onbedoelde gevolgen, gevolgen van meer en minder belang op grond van bijvoorbeeld schaal, intensiteit, duur.",
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\r\r\nBijvoorbeeld directe en indirecte oorzaken, aanleiding (meest directe oorzaak), direct optredende gevolgen en gevolgen op de langere termijn, gewilde en ongewilde, bedoelde en onbedoelde gevolgen, gevolgen van meer en minder belang op grond van bijvoorbeeld schaal, intensiteit, duur.",
 		"id": "f006c204-f389-4a12-b6dc-c36d10d786f7",
 		"dirty": true
 	},
@@ -33821,7 +33821,7 @@
 		"examenprogramma_eindterm_id": [
 			"514e57b6-028c-4ecf-ab08-6998ce494085"
 		],
-		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen. \r\r\nBijvoorbeeld oorzaken en gevolgen op politiek-bestuurlijk, sociaaleconomisch en cultureel- mentaal (waaronder godsdienstig)terrein.",
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen. \r\r\r\nBijvoorbeeld oorzaken en gevolgen op politiek-bestuurlijk, sociaaleconomisch en cultureel- mentaal (waaronder godsdienstig)terrein.",
 		"id": "16c75611-3a5d-4d7b-a8a6-f33ede58192a",
 		"dirty": true
 	},
@@ -33852,7 +33852,7 @@
 		"examenprogramma_eindterm_id": [
 			"54ddcfe5-4540-43d9-87fd-225e5bbc83d3"
 		],
-		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\nBijvoorbeeld in tempo (tamelijk snel en plotseling of langzaam en geleidelijk),duur, schaal, intensiteit, omvang etc.",
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\r\nBijvoorbeeld in tempo (tamelijk snel en plotseling of langzaam en geleidelijk),duur, schaal, intensiteit, omvang etc.",
 		"id": "0e65e7f9-c5af-4bea-bd98-240d47a9ac44",
 		"dirty": true
 	},
@@ -33863,7 +33863,7 @@
 		"examenprogramma_eindterm_id": [
 			"54ddcfe5-4540-43d9-87fd-225e5bbc83d3"
 		],
-		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\nBijvoorbeeld op politiek-bestuurlijk, sociaaleconomisch en cultureel/mentaal terrein.",
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\r\nBijvoorbeeld op politiek-bestuurlijk, sociaaleconomisch en cultureel/mentaal terrein.",
 		"id": "7b9d26f4-0d0b-4b36-9d68-afac059b2618",
 		"dirty": true
 	},
@@ -33904,7 +33904,7 @@
 		"examenprogramma_eindterm_id": [
 			"6ef0415c-ac8b-4124-9ea2-115d60f6cf4b"
 		],
-		"title": "De kandidaat kan menselijk gedrag (denken en doen) in het verleden verklaren vanuit de toen en daar bekende en geaccepteerde kennis en waarden en vanuit de identiteit van individuen en groepen die in die tijd en/of op die plaats leefden en hierbij rekening houden met verschillende factoren die de standplaatsgebondenheid van mensen of een groep bepalen.\r\r\nBijvoorbeeld: waardesystemen, politieke, sociaaleconomische en culturele oriëntatie, kennis, gender, karakter, toevallige factoren.",
+		"title": "De kandidaat kan menselijk gedrag (denken en doen) in het verleden verklaren vanuit de toen en daar bekende en geaccepteerde kennis en waarden en vanuit de identiteit van individuen en groepen die in die tijd en/of op die plaats leefden en hierbij rekening houden met verschillende factoren die de standplaatsgebondenheid van mensen of een groep bepalen.\r\r\r\nBijvoorbeeld: waardesystemen, politieke, sociaaleconomische en culturele oriëntatie, kennis, gender, karakter, toevallige factoren.",
 		"id": "fb4a2a74-b81b-41c3-820a-bcb6cc391793",
 		"dirty": true
 	},
@@ -52373,7 +52373,8 @@
 		],
 		"title": "Historische context: Steden en burgers in de Lage Landen 1050 - 1700",
 		"id": "17c3612f-c5dd-4b8f-8465-f00252732424",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -52400,7 +52401,8 @@
 		],
 		"title": "Historische context: Verlichting 1650 - 1900",
 		"id": "a803f4a2-3509-4b4c-813d-e04e9c446f4c",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "GS/V/DomeinB/3",
@@ -52430,7 +52432,9 @@
 		],
 		"title": "Historische context: China 1842 - 2001",
 		"id": "37469674-8600-4695-a1d8-6ab1c16ee144",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "GS/V/DomeinB/4",
@@ -52458,6 +52462,8 @@
 		],
 		"title": "Historische context: Duitsland in Europa 1918 - 1991",
 		"id": "c6b76d01-8325-48f1-8889-69142db1f573",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	}
 ]
