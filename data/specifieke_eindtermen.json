@@ -33810,8 +33810,9 @@
 		"examenprogramma_eindterm_id": [
 			"514e57b6-028c-4ecf-ab08-6998ce494085"
 		],
-		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\nBijvoorbeeld directe en indirecte oorzaken, aanleiding (meest directe oorzaak), direct optredende gevolgen en gevolgen op de langere termijn, gewilde en ongewilde, bedoelde en onbedoelde gevolgen, gevolgen van meer en minder belang op grond van bijvoorbeeld schaal, intensiteit, duur.",
-		"id": "f006c204-f389-4a12-b6dc-c36d10d786f7"
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen.\r\r\nBijvoorbeeld directe en indirecte oorzaken, aanleiding (meest directe oorzaak), direct optredende gevolgen en gevolgen op de langere termijn, gewilde en ongewilde, bedoelde en onbedoelde gevolgen, gevolgen van meer en minder belang op grond van bijvoorbeeld schaal, intensiteit, duur.",
+		"id": "f006c204-f389-4a12-b6dc-c36d10d786f7",
+		"dirty": true
 	},
 	{
 		"description": "Causaliteit",
@@ -33820,8 +33821,9 @@
 		"examenprogramma_eindterm_id": [
 			"514e57b6-028c-4ecf-ab08-6998ce494085"
 		],
-		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen. \r\nBijvoorbeeld oorzaken en gevolgen op politiek-bestuurlijk, sociaaleconomisch en cultureel- mentaal (waaronder godsdienstig)terrein.",
-		"id": "16c75611-3a5d-4d7b-a8a6-f33ede58192a"
+		"title": "De kandidaat kan rekening houden met verschillende soorten oorzaken en gevolgen. \r\r\nBijvoorbeeld oorzaken en gevolgen op politiek-bestuurlijk, sociaaleconomisch en cultureel- mentaal (waaronder godsdienstig)terrein.",
+		"id": "16c75611-3a5d-4d7b-a8a6-f33ede58192a",
+		"dirty": true
 	},
 	{
 		"description": "Causaliteit",
@@ -33850,8 +33852,9 @@
 		"examenprogramma_eindterm_id": [
 			"54ddcfe5-4540-43d9-87fd-225e5bbc83d3"
 		],
-		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\nBijvoorbeeld in tempo (tamelijk snel en plotseling of langzaam en geleidelijk),duur, schaal, intensiteit, omvang etc.",
-		"id": "0e65e7f9-c5af-4bea-bd98-240d47a9ac44"
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\nBijvoorbeeld in tempo (tamelijk snel en plotseling of langzaam en geleidelijk),duur, schaal, intensiteit, omvang etc.",
+		"id": "0e65e7f9-c5af-4bea-bd98-240d47a9ac44",
+		"dirty": true
 	},
 	{
 		"description": "Continuïteit en verandering",
@@ -33860,8 +33863,9 @@
 		"examenprogramma_eindterm_id": [
 			"54ddcfe5-4540-43d9-87fd-225e5bbc83d3"
 		],
-		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\nBijvoorbeeld op politiek-bestuurlijk, sociaaleconomisch en cultureel/mentaal terrein.",
-		"id": "7b9d26f4-0d0b-4b36-9d68-afac059b2618"
+		"title": "De kandidaat kan verschillende soorten verandering herkennen.\r\r\nBijvoorbeeld op politiek-bestuurlijk, sociaaleconomisch en cultureel/mentaal terrein.",
+		"id": "7b9d26f4-0d0b-4b36-9d68-afac059b2618",
+		"dirty": true
 	},
 	{
 		"description": "Continuïteit en verandering",
@@ -33900,8 +33904,9 @@
 		"examenprogramma_eindterm_id": [
 			"6ef0415c-ac8b-4124-9ea2-115d60f6cf4b"
 		],
-		"title": "De kandidaat kan menselijk gedrag (denken en doen) in het verleden verklaren vanuit de toen en daar bekende en geaccepteerde kennis en waarden en vanuit de identiteit van individuen en groepen die in die tijd en/of op die plaats leefden en hierbij rekening houden met verschillende factoren die de standplaatsgebondenheid van mensen of een groep bepalen.\r\nBijvoorbeeld: waardesystemen, politieke, sociaaleconomische en culturele oriëntatie, kennis, gender, karakter, toevallige factoren.",
-		"id": "fb4a2a74-b81b-41c3-820a-bcb6cc391793"
+		"title": "De kandidaat kan menselijk gedrag (denken en doen) in het verleden verklaren vanuit de toen en daar bekende en geaccepteerde kennis en waarden en vanuit de identiteit van individuen en groepen die in die tijd en/of op die plaats leefden en hierbij rekening houden met verschillende factoren die de standplaatsgebondenheid van mensen of een groep bepalen.\r\r\nBijvoorbeeld: waardesystemen, politieke, sociaaleconomische en culturele oriëntatie, kennis, gender, karakter, toevallige factoren.",
+		"id": "fb4a2a74-b81b-41c3-820a-bcb6cc391793",
+		"dirty": true
 	},
 	{
 		"description": "Bron en vraagstelling",
@@ -52344,6 +52349,115 @@
 		],
 		"title": "Waardering in latere tijd",
 		"id": "05356091-60c4-4c41-b8da-d32c9dd6a7d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/V/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
+		],
+		"syllabus_toelichting_id": [
+			"d1303d4e-5a8f-42c7-9ce3-38677c6d461e",
+			"bf70ed26-28db-49ac-b5e8-96b0ba2543c1",
+			"e04ac201-ef27-4437-ab3d-52c32cc33162",
+			"1da59c2f-1287-4dc4-9602-51c0ebf763f1",
+			"c0b06551-2dc3-4336-b33f-10de966695a3",
+			"e619a08e-fc88-4f53-98a3-9771340ae338",
+			"e1768539-5f83-4aae-a2e6-03e6e3a23639",
+			"75219f65-d096-4534-899f-faf5414df361",
+			"90101adc-7029-4f05-a89e-b7cd30da11d0",
+			"308c8505-1f70-41da-a845-b94b1bb5321c",
+			"20af95c7-5348-43f2-b070-a24dbe4dde60",
+			"d8bf6fc1-0f88-4ba6-8a5c-0602a1cbf374"
+		],
+		"title": "Historische context: Steden en burgers in de Lage Landen 1050 - 1700",
+		"id": "17c3612f-c5dd-4b8f-8465-f00252732424",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "GS/V/DomeinB/2",
+		"examenprogramma_domein_id": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
+		],
+		"syllabus_toelichting_id": [
+			"4043a3a2-4d76-4ac8-a521-40d8e486804b",
+			"e5d64ff8-9992-43ff-843c-740550933752",
+			"f2f50bae-2ab2-49e9-ad9f-f2f1c1ec7a78",
+			"9e81f146-ea7b-44cb-bdf1-e153ad22e0ce",
+			"bed834c2-fbd4-4d71-ba75-1d6e22ba580e",
+			"1ef2566f-a3d7-4eb0-a7e9-346c0825f758",
+			"0c62c232-69fb-47de-bab9-1f517057f537",
+			"926f80af-8fe5-455f-a921-9764edbce14d",
+			"34d360b3-36d8-40e5-80b9-8cf63e1f658c",
+			"415c165a-4c87-4670-9bf6-f24740bacf17",
+			"0a5b2fd5-0e87-4c45-bfe5-130fd71a1b21",
+			"79deb912-6993-4587-b33c-6fecabc7debe",
+			"9d675d9c-b1e1-4afa-be4e-5379722f5e3a",
+			"6e4e7074-8c05-4a88-928f-31751373a874",
+			"49fb61a5-b5ba-428b-872b-8dcdc8bdd5a2"
+		],
+		"title": "Historische context: Verlichting 1650 - 1900",
+		"id": "a803f4a2-3509-4b4c-813d-e04e9c446f4c",
+		"unreleased": true
+	},
+	{
+		"prefix": "GS/V/DomeinB/3",
+		"examenprogramma_domein_id": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
+		],
+		"syllabus_toelichting_id": [
+			"614611c5-dbf4-44ec-b6e8-663278254ac9",
+			"45f37ff3-0973-4ebe-a1b2-415d139e0aea",
+			"6a751a02-a8a1-473c-b7b9-b8a50a9fef1c",
+			"bcd431e7-9731-4e30-bc83-4f697a7c0064",
+			"ffb7a0f2-1780-489d-911c-3e474079417a",
+			"e56c914f-2faa-4722-8d3b-0debc155a029",
+			"530a4beb-7dcd-4b7c-8c61-7911f81d2391",
+			"8aca72c5-adcf-4a82-a801-c9f317d1dbfa",
+			"151cb803-7771-4442-9afc-112c9683e5a5",
+			"56a497a2-0c22-4d01-874d-2060b3c9bcb8",
+			"c7e82dbb-29af-4997-bb1f-fa9133f00a1f",
+			"59f64aa2-f5a3-4f47-b86d-c639e498460c",
+			"38789229-16cc-402e-bc28-3e59ba278daa",
+			"8248b5b2-8b4e-465d-8c02-4cc9a5747ec6",
+			"676eed3c-4c46-45dc-a906-acf4497aea0c",
+			"00af0578-b813-4ba8-bddc-75ce498d24c2",
+			"b5e4da56-d858-4cf8-9e70-37c18043498c",
+			"6e3d9cd0-07d0-415f-b740-7cd47a714b36",
+			"55d6c5c8-ea06-488b-a1fd-97d3d3cca631"
+		],
+		"title": "Historische context: China 1842 - 2001",
+		"id": "37469674-8600-4695-a1d8-6ab1c16ee144",
+		"unreleased": true
+	},
+	{
+		"prefix": "GS/V/DomeinB/4",
+		"examenprogramma_domein_id": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
+		],
+		"syllabus_toelichting_id": [
+			"b0bcfe3f-b401-4996-a420-e9db27276fde",
+			"b285c0dc-2bae-4917-8e2a-a2acfdf10545",
+			"d9e15705-c5e9-4da2-b24b-f41ea8136668",
+			"21fc2a66-12aa-4107-8a6d-64e4ca9c0386",
+			"33e6dd7b-6576-45cf-947a-a2bee3521d00",
+			"8821b87a-8473-48b8-9494-06e8bee09e0f",
+			"255a50f5-f74e-4281-a507-ad860af1d582",
+			"f3a4bf7d-e3e1-4b0e-b07b-15cbc78220a6",
+			"18633ae1-2f02-4850-a4ad-f403c7fc8130",
+			"5d9c841d-1e4c-4a22-82cf-859e0a95a639",
+			"64e64495-c450-45ce-bfb3-3aa437ca6c71",
+			"0fe1a152-7e9a-4e1c-960f-6a85442f863b",
+			"6ef5d209-bf61-44ed-b938-fc98b0af2a5a",
+			"dd547024-65af-48cc-9f90-34a7272d11f8",
+			"f10a8927-7392-45e6-9291-fe28b7367a95",
+			"2b2434a8-0603-45be-bf5e-99296a29d422",
+			"d754ee60-a921-4896-810b-e47666433253"
+		],
+		"title": "Historische context: Duitsland in Europa 1918 - 1991",
+		"id": "c6b76d01-8325-48f1-8889-69142db1f573",
 		"unreleased": true
 	}
 ]
