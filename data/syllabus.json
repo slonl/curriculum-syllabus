@@ -14254,5 +14254,36 @@
 		"title": "Syllabus Handvaardigheid havo 2023",
 		"id": "96c3de31-a839-4b8d-8d99-ca5aa767f404",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"ad4bf33e-7a6a-4bcb-98b9-997f01c638d8"
+		],
+		"syllabus_vakleergebied_id": [
+			"1a996972-1a61-4347-996d-eff9df182ed1"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0e1107d9-fccf-4d23-abaa-14cfc82ae688",
+			"ff481b38-12d0-44b9-b6c2-8efa74ce0779",
+			"9ef6a526-e235-40a6-86ec-16a3995721c9",
+			"7b3ab457-e4b2-49ec-8ac3-563e3b2f524f",
+			"de18691e-5a98-4f7c-83e1-ca83fd590101",
+			"724b953b-df79-45d5-aa1c-a89bb0b98496",
+			"64ac603f-912a-4ee1-863c-0ddd107316b4",
+			"0c76616f-5a5f-4376-af08-fd6e6ed6992f",
+			"45eab463-ec17-42ba-9b5b-465401018e6e",
+			"beaed965-854f-4ec9-8ef0-41abc1690182",
+			"8193cde9-01e3-43eb-b580-4558839f8f72"
+		],
+		"title": "Syllabus Tekenen havo 2023",
+		"id": "4e4938f4-808a-4662-84ab-c4547ee32089",
+		"unreleased": true
 	}
 ]
