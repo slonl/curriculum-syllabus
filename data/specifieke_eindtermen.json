@@ -52465,5 +52465,17 @@
 		"unreleased": true,
 		"description": "",
 		"ce_se": ""
+	},
+	{
+		"prefix": "THT/H/H/periode",
+		"title": "Elk jaar wordt in het examen aandacht besteed aan één periode voor vóór 1800 en dit jaar is dat de Middeleeuwen",
+		"id": "0e1107d9-fccf-4d23-abaa-14cfc82ae688",
+		"unreleased": true
+	},
+	{
+		"prefix": "THT/H/H/thema",
+		"title": "Thema 'Kunst en leven'",
+		"id": "ff481b38-12d0-44b9-b6c2-8efa74ce0779",
+		"unreleased": true
 	}
 ]
