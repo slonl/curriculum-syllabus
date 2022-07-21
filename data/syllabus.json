@@ -14084,5 +14084,31 @@
 		"title": "Syllabus Geschiedenis havo 2023",
 		"id": "2ea2760b-0805-4a0b-a8b7-07f41b23e572",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"0f445c0f-6897-4c07-a8be-4af4d4743a40",
+			"43c690b5-2667-4bd8-a77f-c0cafba01af9"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"46dcbe47-b88e-4921-bbaf-07fb82752e1b",
+			"7a797c5d-a8bb-4492-b2a9-365607d6d3c7",
+			"531a7db8-b630-4424-8160-669c3677b123",
+			"406c819f-f0a5-4144-95cc-59915389907c"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2022",
+		"id": "8761179e-231d-4f1c-ab55-0e5756bdf3e0",
+		"unreleased": true
 	}
 ]
