@@ -14223,5 +14223,36 @@
 		"title": "Syllabus Textiele vormgeving havo 2023",
 		"id": "b4dafb63-001f-4b78-b234-7b4264d89d08",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"0af199be-802e-4374-9c1b-37baad1b798f"
+		],
+		"syllabus_vakleergebied_id": [
+			"fbbd2952-218e-4aa9-916f-0d301124d18c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0e1107d9-fccf-4d23-abaa-14cfc82ae688",
+			"ff481b38-12d0-44b9-b6c2-8efa74ce0779",
+			"740dad14-376b-44aa-bc33-9c40a59205b8",
+			"73543cc1-3e18-4066-ab8b-871206a4b377",
+			"600a1555-fe4c-455d-9c31-8ea6f04b0103",
+			"a9235871-710f-49ca-b101-06635ab7a004",
+			"4200dc46-d433-48a8-bb97-4833677df028",
+			"eaadaeee-0f9e-4ec1-89c9-ddebbd96f374",
+			"2e340188-e9b8-4888-9329-c2899a10d04c",
+			"bbf98f18-03dd-4ad5-9f68-9fa201c69b77",
+			"45cef3f7-b4a0-49da-b6e6-9d16984ff400"
+		],
+		"title": "Syllabus Handvaardigheid havo 2023",
+		"id": "96c3de31-a839-4b8d-8d99-ca5aa767f404",
+		"unreleased": true
 	}
 ]
