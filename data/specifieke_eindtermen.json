@@ -18347,8 +18347,9 @@
 		"examenprogramma_eindterm_id": [
 			"7cadf24d-88e6-40ce-9d9e-4303d6781817"
 		],
-		"title": "De kandidaat kan de afgeleide berekenen van de standaardfuncties, met uitzondering van f(x) = sin(x).",
-		"id": "7c23b5e2-a77c-42b2-be7a-b16f5e5292f2"
+		"title": "De kandidaat kan de afgeleide berekenen van de standaardfuncties, met uitzondering van $f(x) = sin(x)$.",
+		"id": "7c23b5e2-a77c-42b2-be7a-b16f5e5292f2",
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
