@@ -52550,7 +52550,10 @@
 		],
 		"title": "Onderwerp: Cultuur van het moderne in de eerste helft van de twintigste eeuw",
 		"id": "07267f3f-d96c-4199-b99e-30daf950753f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "CE",
+		"prefix": ""
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -52588,6 +52591,48 @@
 		],
 		"title": "Onderwerp: Massacultuur vanaf 1950",
 		"id": "1e107628-b951-485b-8e2c-8b5468331ebb",
+		"unreleased": true,
+		"description": "",
+		"ce_se": "CE",
+		"prefix": ""
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3a43ced5-4b0c-4e50-9ead-484ee73e0524"
+		],
+		"syllabus_toelichting_id": [
+			"db1ca6ac-af20-49a8-b52b-93fe7b2ee66b",
+			"f99aebe9-b4f2-46d8-a6d7-e48260dae26a",
+			"be104bb7-9434-4397-a4f5-b6b2e5d9ddd7",
+			"84fe7e27-ada4-4ba6-a415-2b73e1f2bda5",
+			"aa4d9e03-881b-4562-8188-47412d729735",
+			"ea728101-3ec5-44ab-a330-62bb7a7e502d",
+			"9cc90158-f5ad-408f-a410-d3a5a7f5e9f9",
+			"3f2f89c3-b23d-4ce3-88e0-bf442f4044b0",
+			"8813d530-f28e-4cf9-a706-9edae721aad0",
+			"219aa31a-c41c-45a8-99e9-735e1543a27c",
+			"45e67e00-85d8-4f3e-9c31-6f9081b0a5ee",
+			"a4b6f12c-8796-4781-acd7-705b9463fd10",
+			"b5fd6991-1e71-4e0e-8e56-83b86dfcf580",
+			"a2124d69-b49e-4fb3-88e4-9ffe35d6418d",
+			"9bda1070-3196-47e5-8ee0-c7922155e3e7",
+			"faba5e08-6623-405c-a884-a000dc666d32",
+			"0b483537-ccc4-4563-83fc-9c55ed6373c0",
+			"b529204f-b20c-4ad6-99f8-f1957a22d97e",
+			"14173661-fc97-4fe1-ad84-38f686dc9c54",
+			"b1995b7a-35a7-41b4-90a7-5b065d0ae79c",
+			"33c11203-e98b-426b-987b-78c4e725e75c",
+			"c7481dfb-f837-405b-82a3-d401d54cc430",
+			"17438eba-8c71-4f4c-ba96-ccab57d1224c",
+			"a9b617b3-89bb-473b-a100-4ff841fa31e3",
+			"e5e89669-bb0e-44d7-a0f0-81ceac30c84f",
+			"c9f3dc65-90e4-4f62-accd-a3f12a59cc06",
+			"b45871ad-c76b-4f48-9191-8a4d8a16f740",
+			"9a802940-9d92-444e-8a04-596b924f66ec"
+		],
+		"title": "Onderwerp: Burgerlijke cultuur van Nederland in de 17de eeuw",
+		"id": "9c8a24ed-f521-4e5d-8496-8a92392d8f53",
 		"unreleased": true
 	}
 ]
