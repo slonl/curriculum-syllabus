@@ -14343,5 +14343,32 @@
 		"title": "Syllabus Kunst (algemeen) havo 2022",
 		"id": "b7ebc812-53ef-4494-94a9-af2c34ad9f22",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"a9a3ba23-bf44-43f1-a40d-1bf368d39470",
+			"10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+			"afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+			"71434822-51a6-4500-93b6-b4620e1d488e"
+		],
+		"syllabus_vakleergebied_id": [
+			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9c8a24ed-f521-4e5d-8496-8a92392d8f53",
+			"07267f3f-d96c-4199-b99e-30daf950753f",
+			"1e107628-b951-485b-8e2c-8b5468331ebb"
+		],
+		"title": "Syllabus Kunst (algemeen) havo 2023",
+		"id": "ba9e44b8-3566-4c7c-9a00-23e9bebf1b4a",
+		"unreleased": true
 	}
 ]
