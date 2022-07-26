@@ -14694,5 +14694,26 @@
 		"title": "Syllabus Moderne vreemde talen Engels havo 2022",
 		"id": "6204a085-e36f-4b16-a5b0-afa1c58cf3d5",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"585c656d-6e1a-48ef-a165-0a38ce28ca80"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels vwo 2022",
+		"id": "23b0414c-4fac-4a67-9900-1607e2e08b11",
+		"unreleased": true
 	}
 ]
