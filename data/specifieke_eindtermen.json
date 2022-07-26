@@ -52821,5 +52821,49 @@
 		"title": "Onderwerp: Massacultuur vanaf 1950",
 		"id": "10e54dec-9acc-4c23-b747-a8146f0f0080",
 		"unreleased": true
+	},
+	{
+		"prefix": "KUA/V/DomeinC/8",
+		"examenprogramma_eindterm_id": [
+			"b35b5d55-2c50-4b73-97ca-8856336afb60"
+		],
+		"syllabus_toelichting_id": [
+			"db1ca6ac-af20-49a8-b52b-93fe7b2ee66b",
+			"f99aebe9-b4f2-46d8-a6d7-e48260dae26a",
+			"be104bb7-9434-4397-a4f5-b6b2e5d9ddd7",
+			"84fe7e27-ada4-4ba6-a415-2b73e1f2bda5",
+			"aa4d9e03-881b-4562-8188-47412d729735",
+			"ea728101-3ec5-44ab-a330-62bb7a7e502d",
+			"fc29fdce-c405-41cf-a868-221508738d5e",
+			"9b1f5b86-a907-450c-b89c-1cb6782f7806",
+			"3f2f89c3-b23d-4ce3-88e0-bf442f4044b0",
+			"d94ab6dc-9bf5-4a17-8f74-19acd9d6a7d7",
+			"7fbe5744-c3ae-4bf2-9a3d-005b529d7900",
+			"131fe8d2-426f-4173-92ab-77280ab58bde",
+			"e5101584-d8a3-48b6-af7d-2e85d8efbedf",
+			"219aa31a-c41c-45a8-99e9-735e1543a27c",
+			"45e67e00-85d8-4f3e-9c31-6f9081b0a5ee",
+			"a4b6f12c-8796-4781-acd7-705b9463fd10",
+			"b5fd6991-1e71-4e0e-8e56-83b86dfcf580",
+			"a2124d69-b49e-4fb3-88e4-9ffe35d6418d",
+			"9bda1070-3196-47e5-8ee0-c7922155e3e7",
+			"faba5e08-6623-405c-a884-a000dc666d32",
+			"0b483537-ccc4-4563-83fc-9c55ed6373c0",
+			"b529204f-b20c-4ad6-99f8-f1957a22d97e",
+			"14173661-fc97-4fe1-ad84-38f686dc9c54",
+			"b1995b7a-35a7-41b4-90a7-5b065d0ae79c",
+			"33c11203-e98b-426b-987b-78c4e725e75c",
+			"a6af9a89-d415-41bc-b940-37495ab807d8",
+			"c7481dfb-f837-405b-82a3-d401d54cc430",
+			"17438eba-8c71-4f4c-ba96-ccab57d1224c",
+			"a9b617b3-89bb-473b-a100-4ff841fa31e3",
+			"c973f975-427b-430c-b8bf-6b859ecdad46",
+			"c9f3dc65-90e4-4f62-accd-a3f12a59cc06",
+			"b45871ad-c76b-4f48-9191-8a4d8a16f740",
+			"9a802940-9d92-444e-8a04-596b924f66ec"
+		],
+		"title": "Onderwerp: Burgerlijke cultuur in de 17de eeuw",
+		"id": "575bea88-9734-454f-a982-94d3fe2e4fe3",
+		"unreleased": true
 	}
 ]
