@@ -6721,5 +6721,29 @@
 		"title": "financieringswijzen, banken, overige vermogensverschaffers, inclusief leasemaatschappijen, eigen inbreng",
 		"id": "c8c06bd2-34a2-42eb-b6d8-3b4204c061ab",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/H/A/1a",
+		"title": "triool, break, fill, kickbeat, ritmisch ostinaat/ostinato, swing/triolenfeel, syncope, teleenheid, toonduur notenwaarden: hele tot en met zestiende noot, toonduur rusten: hele tot en met zestiende rust, toonduur verlenging van een noot of rust met een punt,  toonduur verbindingsboog",
+		"id": "98aba103-6fe5-49b8-ae12-eaec8d272592",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/H/A/1d",
+		"title": "het notenschrift, absolute notennamen, g-sleutel, f-sleutel, voortekens: herstellingsteken - kruis - mol, chromatiek, glissando, melodische intervallen tot en met octaaf: reine prime; kleine/grote secunde; kleine/grote terts; reine/overmatige kwart; verminderde/reine  kwint; kleine/grote sext; klein/groot septiem; rein octaaf, transponeren, melodische verdichting/verdunning",
+		"id": "350d59e4-a5e2-4624-a6d2-a9f3b99dc30b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/H/A/1g",
+		"title": "akkoord: grote drieklank/majeur en kleine drieklank/mineur, akkoordenschema, akkoordsymbolen: aanduiding voor majeur (bijv. C, F, Bb) en mineur (bijv. Cm, DmF#m), twaalfmatig bluesschema, bourdon, orgelpunt, close harmony, consonant en dissonant, gebroken drieklank, homofonie, polyfonie en unisono, harmonische intervallen tot en met het octaaf: reine prime; kleine/grote secunde; kleine/grote terts; reine/overmatige kwart; verminderde/reine kwint; kleine/grote sext; klein/groot septiem; rein octaaf, tweeklank, drieklank",
+		"id": "ac034581-3980-4144-bff3-a05ade82ad71",
+		"unreleased": true
 	}
 ]
