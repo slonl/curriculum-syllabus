@@ -19879,7 +19879,7 @@
 		"dirty": true
 	},
 	{
-		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"description": "Alleen kennisaspecten",
 		"ce_se": "CE",
 		"prefix": "MUZ/V/A/A3/jazz-jazzrock",
 		"title": "Fusion van rock, soul en jazz.",
@@ -19919,7 +19919,7 @@
 		"dirty": true
 	},
 	{
-		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"description": "Alleen kennisaspecten",
 		"ce_se": "CE",
 		"prefix": "MUZ/V/A/A3/jazz-nu",
 		"title": "Mengvorm van jazzelementen met andere muziekstijlen zoals: funk, soul, dance en vrije impovisatie en andere muziekculturen door globalisering.",
@@ -23665,6 +23665,74 @@
 		"prefix": "",
 		"title": "Rariteitenkabinetten: verzamelingen als studiemateriaal (bijvoorbeeld Rembrandt van Rijn); encyclopedische verzamelingen.",
 		"id": "c973f975-427b-430c-b8bf-6b859ecdad46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"title": "Herkennen van melodische intervallen: - reine prime - kleine/grote secunde - kleine/grote terts - reine kwart - reine kwint - rein octaaf",
+		"id": "1cc81e55-7a8b-4d5d-b3d4-f8715485bb86",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"title": "Herkennen en benoemen van: eenstemmigheid, tweestemmigheid, driestemmigheid.",
+		"id": "8efbc6eb-a11d-4ead-9eaf-7da903340105",
+		"unreleased": true
+	},
+	{
+		"prefix": "MUZ/V/A/1g",
+		"title": "herkennen van harmonische intervallen: - reine prime - kleine/grote terts - reine kwart - reine kwint - rein octaaf",
+		"id": "193dc120-2d74-4f33-b848-b14f15345876",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1m",
+		"title": "Onderscheiden in een concerto grosso van: concertino, tutti",
+		"id": "5c7bb0ca-5908-4f55-8cf0-9299cabcb9a9",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"prefix": "MUZ/V/A/A3/ren",
+		"title": "Herkennen van homofonie en polyfonie",
+		"id": "217388a0-e256-4b78-80f6-d7d8fb4a20dd",
+		"unreleased": true
+	},
+	{
+		"description": "kennisaspecten gekoppeld aan luistervaardigheid",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"title": "Concerten: In een concerto grosso onderscheiden van concertino en tutti.",
+		"id": "44bfa1a7-9a31-48b7-88c9-0494bc928e7d",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/barok",
+		"title": "Overeenkomsten en verschillen tussen cantate, passie, oratorium en opera suite",
+		"id": "91122ea1-693f-4568-b29b-6410a03722a8",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/20-21",
+		"title": "Technieken als kreeft, omkering in verband met compositietechnieken van de tweede Weense school.",
+		"id": "bf0d8a67-3aba-4ad2-bd26-e18b92462710",
+		"unreleased": true
+	},
+	{
+		"description": "Alleen kennisaspecten",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/A3/jazz-blues",
+		"title": "Historische ontwikkeling van de blues: worksongs en blues.",
+		"id": "c5fa42f9-c580-4c8b-885d-a596914b69ad",
 		"unreleased": true
 	}
 ]
