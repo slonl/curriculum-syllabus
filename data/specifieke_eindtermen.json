@@ -31807,7 +31807,7 @@
 			"fe710258-9341-4d54-b735-a0385d955cb8"
 		],
 		"syllabus_vakbegrip_id": [
-			"7bdc1950-7c0d-4e8c-aa80-65c9a795d396"
+			"98aba103-6fe5-49b8-ae12-eaec8d272592"
 		],
 		"title": "Ritme",
 		"id": "36a0f9b7-3f4e-4307-81b4-78d0d6f96e3c",
@@ -31872,7 +31872,7 @@
 			"fe710258-9341-4d54-b735-a0385d955cb8"
 		],
 		"syllabus_vakbegrip_id": [
-			"c605840e-5678-49f8-801c-21b6f5983134"
+			"350d59e4-a5e2-4624-a6d2-a9f3b99dc30b"
 		],
 		"title": "Toonhoogte",
 		"id": "7a701f5f-8ebc-4ec3-8d90-b5fabc3aba67",
@@ -31881,6 +31881,7 @@
 			"28e2259f-a715-4fa4-a80b-ebcf54701e41",
 			"767d9035-ecb8-4402-af47-a3a0b5d50d3e",
 			"b6cd8fe8-17b2-47dd-bc17-808b2bbd7bc3",
+			"2921f76c-427b-46c6-88e2-ed8e2243c5d9",
 			"0c3ed74e-8959-4349-ae78-8c30499d63dd"
 		],
 		"dirty": true
@@ -31930,13 +31931,14 @@
 			"fe710258-9341-4d54-b735-a0385d955cb8"
 		],
 		"syllabus_vakbegrip_id": [
-			"98588a33-92c5-4b78-9edb-1284c9d05f98"
+			"ac034581-3980-4144-bff3-a05ade82ad71"
 		],
 		"title": "Samenklank",
 		"id": "040a1533-7d04-4844-88a6-1e73ed72b441",
 		"syllabus_toelichting_id": [
-			"0ef39fb5-f6c6-4d8f-b67d-f681f3266277",
-			"4a9f9753-4908-4f00-afb8-73446f5afc73",
+			"6526da19-48c9-4ecc-887e-85d1395c3c01",
+			"d7c441bb-fde9-4544-9ab5-a372a6ce2f65",
+			"d1bf19ff-ad19-4c4c-b9b5-496fc89593c7",
 			"e5da5a45-e059-40c6-b958-2aff0bc8c826",
 			"66f47d10-cb8c-4753-8244-1102bd02b00f",
 			"77847936-a2c4-4468-93c7-49f7020ed89e",
@@ -32017,8 +32019,7 @@
 			"63c08c20-4d9e-4ed4-bba8-88890db69e5b",
 			"2ff9ae45-12b5-4e97-a656-bac15d1f3cf8",
 			"8013fbf9-71bf-49b9-a12b-19907d62fe17",
-			"ff895078-52be-4346-9743-3af508249eb7",
-			"19d12dce-c11a-4719-8edd-6e507385f1f0"
+			"ff895078-52be-4346-9743-3af508249eb7"
 		],
 		"dirty": true
 	},
@@ -32074,7 +32075,7 @@
 		"syllabus_toelichting_id": [
 			"08e4db13-2531-4dbd-a204-44ff98c7e38e",
 			"7b64354c-2684-40d1-b60f-f8660bafc432",
-			"f0ba422c-6a2e-412b-8920-7c03f5102152",
+			"dfaf0847-ba8e-46dd-b397-36438bdb685b",
 			"78564a6d-e01f-47cf-a51e-e2d07af3f9a2"
 		],
 		"dirty": true
