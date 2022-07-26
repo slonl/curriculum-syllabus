@@ -43312,7 +43312,7 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"50f2de4d-c478-471e-bcb2-916d5bb0475e"
+			"72b2ba32-55d8-48d7-97ea-58ee188d0db5"
 		],
 		"title": "Toonhoogte",
 		"id": "804b8e1e-9b76-46af-bcde-168ff09b2c0f",
@@ -43322,6 +43322,7 @@
 			"8c1c10a0-c660-48a2-b6e2-353966da15a8",
 			"352bf10b-cb23-4e46-8676-aa0e09a31dcc",
 			"c4b38820-26c6-46ff-bebd-1f008eaf9738",
+			"1cc81e55-7a8b-4d5d-b3d4-f8715485bb86",
 			"32698ba1-216d-4809-b8d5-5554d8caf331"
 		],
 		"dirty": true
@@ -43334,7 +43335,7 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"15a3df43-ce02-4504-812c-d727b535bef9"
+			"618c83c7-d394-4528-9184-8cc753a0f3c6"
 		],
 		"title": "Toonsoort",
 		"id": "0b8960b6-10d6-43e0-9801-58ba9164c912",
@@ -43371,13 +43372,14 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"465c3082-56c8-476c-bd17-85706e9a8a2b"
+			"bb9f80dc-eea4-4d6d-971a-4bba8346b796"
 		],
 		"title": "Samenklank",
 		"id": "269af096-a52c-4ddc-8bf2-2e0fe16cf4a3",
 		"syllabus_toelichting_id": [
-			"4b342289-9f54-4165-b5e0-b1d608b1ca37",
+			"8efbc6eb-a11d-4ead-9eaf-7da903340105",
 			"266e34f2-a3d8-4694-801c-4f467ac1056f",
+			"193dc120-2d74-4f33-b848-b14f15345876",
 			"cf65fbce-6846-4295-b29f-3dc20f4770d0",
 			"80766a52-cfc9-4365-9827-fbdba9a4b2ea",
 			"40623111-42b0-46da-8166-1cabc72f3d92",
@@ -43396,7 +43398,7 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"586c9aed-fbe0-4acf-a474-5910fc03ea21"
+			"6849998d-c199-461b-9006-c9de077f1746"
 		],
 		"title": "Uitvoeringspraktijk",
 		"id": "777bebe0-469f-4168-9f06-04a727ed8f5c",
@@ -43478,7 +43480,7 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"7a8221fd-1e0a-4929-9d10-6eba9065ad5b"
+			"9fff3e57-44d9-42b3-b1e6-bcbc8f4e1948"
 		],
 		"title": "Dansen",
 		"id": "4953e80b-a971-4032-94ae-2b33b880d45d",
@@ -43497,7 +43499,7 @@
 			"0f86c886-a889-4912-b4d2-b82294a25992"
 		],
 		"syllabus_vakbegrip_id": [
-			"6e77eb55-786d-4d13-8837-5cc2f3262ba8"
+			"d5a0769e-dcc7-4838-a310-ecd7b9f816b3"
 		],
 		"title": "Variatie",
 		"id": "fdc3651f-280f-4bd0-bec4-8fd0a9d980d4",
@@ -43525,7 +43527,7 @@
 		"syllabus_toelichting_id": [
 			"620f9ab3-5df8-4f9e-adc2-7d5b87109486",
 			"d1ba6cb5-da8b-47de-b0b1-d993a347ab9c",
-			"7544c235-8fea-42ee-b44c-28c1e89fa6db",
+			"5c7bb0ca-5908-4f55-8cf0-9299cabcb9a9",
 			"e0879bea-ae6c-4a66-8152-6f8c691d925e"
 		],
 		"dirty": true
@@ -43647,15 +43649,16 @@
 			"658ef60b-3569-47f0-a37e-cdea3aa54387",
 			"6fbd76da-8e30-4d1a-92ed-42095a6741be",
 			"a317f966-78e4-46e4-8e65-1605edff2417",
+			"217388a0-e256-4b78-80f6-d7d8fb4a20dd",
 			"4deaab34-7f54-481c-b752-32139b3daa15",
 			"fab7be2d-2f3e-422f-82a0-5903f02ea154",
 			"6648fb64-df34-405f-b044-1a03d5011db6",
 			"94c76b7f-e8e4-42bd-9891-0f0e78be598f",
 			"f403377b-bbf0-42a9-8692-ccf156983773",
-			"e8bae8f6-2f0b-4912-b756-649fecbf557b",
-			"595ab7c8-5faf-471c-bba2-1289caa228f0"
+			"e8bae8f6-2f0b-4912-b756-649fecbf557b"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -43675,7 +43678,7 @@
 			"e2aeb301-5f67-40d1-89e0-499411c6e34d",
 			"3cc7b347-f5d7-4ff0-b1ff-b34f51c7db17",
 			"720c3261-09ca-4b72-9ee2-5d7cba4630c1",
-			"67e37ed5-be6d-44cb-a2ae-650f069062c7",
+			"44bfa1a7-9a31-48b7-88c9-0494bc928e7d",
 			"d8d30e24-3e08-49fc-8adf-4c3d9ae43b8c",
 			"bd16a0ef-e653-4190-9348-c776dd17e908",
 			"2cf965e8-2e64-42f7-b302-2506326bef68",
@@ -43686,9 +43689,10 @@
 			"f59da0a4-5337-4128-a36a-aebd729027ac",
 			"6a3e8e24-94f7-4a42-b980-aa5a43f8c139",
 			"e66f2990-0d56-43af-af62-8c486edffb50",
-			"30fd1480-0b03-4d55-bb15-c7282c09a9eb"
+			"91122ea1-693f-4568-b29b-6410a03722a8"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -43802,7 +43806,7 @@
 			"58460297-0cc6-4df5-b823-11bea8376a9f",
 			"b6056cfa-421e-4c44-852b-827ca7fc1c6b",
 			"d9c4717b-7490-4c2a-949e-1c7ba6545502",
-			"16d977f2-ab34-4fa5-855a-3115d893de5c",
+			"bf0d8a67-3aba-4ad2-bd26-e18b92462710",
 			"e3294eb8-eebb-4513-a57a-249934ea5fb6",
 			"a4ca4e26-ba47-424d-9ee6-39647b30b214",
 			"8cbac536-1e8d-48ad-aa30-f7ae7d60793d",
@@ -43810,7 +43814,8 @@
 			"aeb96ce7-94bb-481e-8c44-c1dfa8030b15",
 			"b6859b11-b55b-4ade-adf5-7179754eaf9d"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -43830,11 +43835,12 @@
 			"1c9db3d0-da2c-4fe0-9d67-cafeaacd20cb",
 			"e5526b47-3d06-4492-b701-326ebb1b7321",
 			"e29a5a3e-1228-4816-a017-2df842983dcf",
-			"a310cb66-e72a-42da-8bde-78d9e266cc4c",
+			"c5fa42f9-c580-4c8b-885d-a596914b69ad",
 			"c3b5001d-e228-4820-b273-f5a4aca16c52",
 			"e244a587-85d0-4497-96ba-f75bb7d76e17"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
