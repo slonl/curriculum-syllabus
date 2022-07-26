@@ -17212,16 +17212,18 @@
 	{
 		"description": "Vakspecifieke handelingen",
 		"ce_se": "CE",
-		"title": "Herkennen van: \r\n- een (iconisch) kunstwerk; \r\n- bouwelementen; \r\n- schildertechniek.",
+		"title": "Herkennen van: \r\r\n- een (iconisch) kunstwerk; \r\r\n- bouwelementen; \r\r\n- schildertechniek.",
 		"id": "93421149-9ac3-4d69-8037-19804968a0cd",
-		"dirty": true
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Vakspecifieke handelingen",
 		"ce_se": "CE",
-		"title": "Herinneren: \r\n- in welke periode een kunstenaar actief was;\r\n- van historische tijdperken en kunsthistorische stromingen;\r\n- van termen en begrippen uit kunst analyse modellen.",
+		"title": "Herinneren: \r\r\n- in welke periode een kunstenaar actief was;\r\r\n- van historische tijdperken en kunsthistorische stromingen;\r\r\n- van termen en begrippen uit kunst analyse modellen.",
 		"id": "61be7207-8788-49fd-91fa-389202c3b9ee",
-		"dirty": true
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Vakspecifieke handelingen",
