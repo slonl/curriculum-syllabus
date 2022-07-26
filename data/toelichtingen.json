@@ -23046,5 +23046,42 @@
 		"title": "Weergave van andere culturen in de kunsten (bijvoorbeeld in liederen en kluchten); reisverslagen met Hollandse ogen: mensen, kleding, flora, fauna, landschappen (bijvoorbeeld Maria Sibylla Merian).",
 		"id": "9a802940-9d92-444e-8a04-596b924f66ec",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MUZ/HV/A/1d",
+		"title": "Herkennen van melodische intervallen: reine prime; kleine/grote secunde; kleine/grote terts; reine kwart'reine kwint; rein octaaf",
+		"id": "2921f76c-427b-46c6-88e2-ed8e2243c5d9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/HV/A/1g",
+		"title": "Herkennen en benoemen van: eenstemmigheid, tweestemmigheid, driestemmigheid.",
+		"id": "6526da19-48c9-4ecc-887e-85d1395c3c01",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/HV/A/1g",
+		"title": "Herkennen van eerstemmigheid.",
+		"id": "d7c441bb-fde9-4544-9ab5-a372a6ce2f65",
+		"unreleased": true
+	},
+	{
+		"prefix": "MUZ/HV/A/1g",
+		"title": "Herkennen van harmonische intervallen: reine prime; kleine/grote terts; reine kwart; reine kwint; rein octaaf",
+		"id": "d1bf19ff-ad19-4c4c-b9b5-496fc89593c7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/HV/A/1m",
+		"title": "Onderscheiden in een concerto grosso van: concertino, tutti",
+		"id": "dfaf0847-ba8e-46dd-b397-36438bdb685b",
+		"unreleased": true
 	}
 ]
