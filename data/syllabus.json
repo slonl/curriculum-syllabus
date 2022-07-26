@@ -14452,5 +14452,33 @@
 		"title": "Syllabus Muziek havo 2023",
 		"id": "464c129c-15b1-41c4-b73d-ccc31714090c",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"afbb154b-87f6-43f6-83a7-f77e527b9ede",
+			"a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"ebfb3974-666a-443a-9251-a4cf628b5228",
+			"f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+			"dde74cc0-810e-4e92-a4b9-99c0e12d0786"
+		],
+		"syllabus_vakleergebied_id": [
+			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"f23f76e5-d487-4bc3-ac13-b3f04bed8596",
+			"1fc4607a-046a-4ce6-b72e-f5e730185a3f",
+			"52366d44-a143-4531-bd21-15eb39e16f46",
+			"10e54dec-9acc-4c23-b747-a8146f0f0080"
+		],
+		"title": "Syllabus Kunst (algemeen) vwo 2022",
+		"id": "90ddf025-e61b-497e-97c7-f8d0c5289dcc",
+		"unreleased": true
 	}
 ]
