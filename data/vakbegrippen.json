@@ -6745,5 +6745,53 @@
 		"title": "akkoord: grote drieklank/majeur en kleine drieklank/mineur, akkoordenschema, akkoordsymbolen: aanduiding voor majeur (bijv. C, F, Bb) en mineur (bijv. Cm, DmF#m), twaalfmatig bluesschema, bourdon, orgelpunt, close harmony, consonant en dissonant, gebroken drieklank, homofonie, polyfonie en unisono, harmonische intervallen tot en met het octaaf: reine prime; kleine/grote secunde; kleine/grote terts; reine/overmatige kwart; verminderde/reine kwint; kleine/grote sext; klein/groot septiem; rein octaaf, tweeklank, drieklank",
 		"id": "ac034581-3980-4144-bff3-a05ade82ad71",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1d",
+		"title": "het notenschrift, absolute notennamen, g-sleutel, f-sleutel, c-sleutel, voortekens: herstellingsteken - kruis - mol, chromatiek, glissando, melodische intervallen tot en met octaaf: reine prime - kleine/grote secunde - kleine/grote terts - reine/overmatige kwart - verminderde/reine kwint - kleine/grote sext - klein/groot septiem - rein octaaf, transponeren, melodische verdichting/verdunning",
+		"id": "72b2ba32-55d8-48d7-97ea-58ee188d0db5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1e",
+		"title": "atonaliteit, bitonaliteit, polytonaliteit, dodecafonie, reeksen, melodische functies: grondtoon/subdominant(toon)/dominant(toon)/leidtoon/leidtoonspanning, modaliteit: dorisch/frygisch/lydisch/mixolydisch,  modulatie naar subdominant, dominant, parallelle en tertsverwante toonsoort, parallelle toonsoort, tertsverwantschap, tonaliteit: majeur/mineur, toonladders grote tertstoonladder / majeur tot en met zes voortekens, toonladders: kleine tertstoonladder / mineur tot en met zes voortekens: oorspronkelijk/harmonisch/melodisch, toonladders: bluestoonladder (1½-1-½-½-1½-1) toonladder: pentatoniek, toonladder: heletoonstoonladder/heletoonsreeks, toonladders chromatiek/chromatische toonladder/chromatische reeks",
+		"id": "618c83c7-d394-4528-9184-8cc753a0f3c6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1g",
+		"title": "akkoord: grote drieklank/majeur en kleine drieklank/mineur, akkoordenschema, akkoordfuncties: I (tonica/grondtoon) - II - IV (subdominant), V (dominant), akkoordsymbolen: aanduiding voor majeur (bijv. Cm F, Bb) - mineur (bijv. Cm, Dm, F#m) en dominant septiem (bijv. C7, Eb7, B7), albertijnse bas, partituur, twaalfmatig bluesschema, bourdon, orgelpunt, cadens, close harmony, cluster, consonant en dissonant, gebroken drieklank, homofonie, polyfonie en unisono, harmonische intervallen: reine prime - kleine/grote secunde - kleine/grote terts - reine/overmatige kwart - verminderde/reine kwint - kleine/grote sext - klein/groot septiem - rein octaaf, klanklaag/klankdichtheid, track(s), tweeklank, drieklank",
+		"id": "bb9f80dc-eea4-4d6d-971a-4bba8346b796",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1h",
+		"title": "articulatie: legato - portato - staccato - accent, frasering, speeltechnieken en effecten: aanslaan/tokkelen/slide (gitaar), aanslaan/raspen/schudden (slaginstrumenten), brushes (snaredrum), demper (koperen blaasinstrumenten), distortion, glissando,  strijken/arco - pizzicato, roffel, scratchen, slappen (basgitaar), uitvoeringswijzen: 8 boven (8va) of onder (8va basso) de sleutel, a capella, akoestisch, arpeggio, arrangement, bluenote, call-and-response/vraag-en-antwoord, cover, dacapo al fine, dal segno, coda, deejaymix, dirty intonation, double time,  elektronisch, fermate, generale pauze, herhalingstekens, instrumentatie, leadzanger, melismatisch/melisme, (grafische) partituur, slaggitaar en sologitaar (leadgitaar), stemgebruik: (human) beatbox - rappen -, scat  vocal - vibrato, syllabisch, transponerende blaasinstrumenten in bes en es, turntablism, tutti - solo, unplugged, versiering",
+		"id": "6849998d-c199-461b-9006-c9de077f1746",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1k",
+		"title": "suite: gaillarde - menuet - pavane - sarabande, mars, rag(time), wals",
+		"id": "9fff3e57-44d9-42b3-b1e6-bcbc8f4e1948",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MUZ/V/A/1l",
+		"title": "improvisatie, kreeft, omkering, variatie, variaties op een akkoordenschema onder andere het bluesschema, variaties op een ostinate bas, variaties op een thema waaronder melodische variatie - ritmische variatie - tonale/harmonische variatie",
+		"id": "d5a0769e-dcc7-4838-a310-ecd7b9f816b3",
+		"unreleased": true
 	}
 ]
