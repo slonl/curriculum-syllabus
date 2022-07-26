@@ -14673,5 +14673,26 @@
 		"title": "Syllabus Muziek vwo 2023",
 		"id": "9f201090-d695-4e7d-93b2-cec4ede64acf",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"1034551d-ce74-493e-8420-681c5bc95190"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"b4c3037a-c88d-41ad-bfd0-24e89fc57b8a"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels havo 2022",
+		"id": "6204a085-e36f-4b16-a5b0-afa1c58cf3d5",
+		"unreleased": true
 	}
 ]
