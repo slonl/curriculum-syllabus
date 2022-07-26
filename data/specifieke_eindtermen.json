@@ -43192,12 +43192,13 @@
 		"examenprogramma_subdomein_id": [
 			"fec4f085-a150-4de2-8985-f798f0ff4ae8"
 		],
-		"title": "De kandidaat kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. et\r\nbeeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
+		"title": "De kandidaat kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. et\r\r\nbeeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
 		"id": "f97bc701-2262-43fb-b67b-712183293b1b",
 		"syllabus_toelichting_id": [
 			"b56d92e0-0f3d-457c-a4ac-dcced8def2de"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
