@@ -22316,25 +22316,33 @@
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Verbinding christelijke heilsgeschiedenis, klassieke geschiedenis en mythologie.",
 		"id": "9f9b74f2-d5ff-422e-b15c-4aa451bd1322",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Kunst als propaganda van/voor vorsten via allegorische voorstellingen (bijvoorbeeld Catharina de Medici, Lodewijk XIV).",
 		"id": "fb79ff7b-a657-4e8a-8a0d-5a54b470ee84",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Humanisme: studie van klassieke teksten, levenshouding gericht op het wereldlijke en het individu.",
 		"id": "7d6428ee-b4bd-49b0-8589-599cc1e769cc",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Reformatie en contrareformatie",
 		"id": "f69b37ab-4f08-4340-a14d-0a1b931a7112",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
@@ -22346,49 +22354,65 @@
 		"description": "Kunst en esthetica",
 		"title": "Uomo universale als beschavingsideaal.",
 		"id": "fbe70a5b-6fc9-4ef3-8f39-eb2f5fc36373",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Invloed van contrareformatie op de kunsten.",
 		"id": "98f0a210-1aad-43ee-9af4-4c931d020373",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Ontwikkelingen binnen theater: aristotelische principes in de tragedie in Frankrijk (bijvoorbeeld Jean Racine) en Engeland (bijvoorbeeld William Shakespeare).",
 		"id": "c2aa7381-4a5c-41d7-b57a-880cf6accca0",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Lichaamshouding en dans als uiting van beschaving (bijvoorbeeld Baldassare Castiglione: 'Boek van de hoveling').",
 		"id": "6b479619-b392-48e0-8004-2ad90681a2ba",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Ontwikkelingen in de muziek: prima pratica (polyfonie en homofonie) en seconda pratica (Claudio Monteverdi): opera, monodie.",
 		"id": "97690ca8-e901-43e6-9ec2-6a618933b343",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Organisatie samenleving en bestuur: onafhankelijke stadsstaten in de zestiende eeuw in Italië; (absolute) monarchieën in de zeventiende eeuw (bijvoorbeeld in Frankrijk); centrale bestuursmacht van de vorst betekent ook economische macht.",
 		"id": "8ed2af65-e4cd-40d4-bbb7-654ccd46fffe",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Status van de kunstenaar: van ambachtsman naar kunstenaar (artes liberales), opkomst hofkunstenaar (musici, dansmeesters, toneelschrijvers, architecten, schilders) en 'vrije' ondernemer; academies.",
 		"id": "0f517e35-5032-4ce3-89b8-54b2acdbf787",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Positie van vrouwelijke kunstenaars: veelal afhankelijk van afkomst/familie (bijvoorbeeld Artemisia Gentileschi).",
 		"id": "962e807e-2505-426b-a67a-1506674cf8e6",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
@@ -22412,49 +22436,65 @@
 		"description": "Kunst en vermaak",
 		"title": "Villa's als 'lustoorden' en vermaaksfuncties van tuinen",
 		"id": "e107821c-c290-4086-80ef-e77af9030500",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Theaterspektakel (intermezzi), Italiaanse en Franse opera.",
 		"id": "3b940567-df07-4388-ab2b-635ac8f0bdb6",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Hofdans (gezelschapsdans) en hofballet (theatrale dans).",
 		"id": "ee11b01b-1ad5-4c20-9dd3-35f5ec715223",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Commedia dell'arte: stereotypering en improvisatie",
 		"id": "bf82ad89-d843-4c46-be79-47505681c3bd",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Toepassing van wetenschappelijke ontdekkingen in de kunsten: bijvoorbeeld optica, perspectief, anatomie, landmeten, cartografie, mechanica.",
 		"id": "ccf0c18b-7ff4-4b09-a7f4-add17e881ee7",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Ontwikkeling van muziekinstrumenten (bijvoorbeeld uitbreiding van de strijkinstrumenten)",
 		"id": "768dc88d-9b7f-4aa7-bf60-03359f5ddf5d",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Empirisch onderzoek van werkelijkheid (Leonardo da Vinci), samenhangend wereldbeeld.",
 		"id": "95182c22-499d-49db-a6a4-41eaf65551ca",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Ontdekkingsreizen en nieuwe zeeroutes, contacten met andere culturen (bijvoorbeeld Ottomaanse Rijk, Nieuwe Wereld, China).",
 		"id": "8a982465-5ef3-4a00-a747-81f6791039ca",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"title": "Accenten binnen het onderwerp:\r\r\n- avantgardistische stromingen;\r\r\n- expressie en abstractie;\r\r\n- architectuur: functionalisme;\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
@@ -22883,37 +22923,44 @@
 	{
 		"title": "Accenten binnen het onderwerp:\r\n- macht van de burger in de Republiek (bijvoorbeeld Stadhuis op de Dam);\r\n- genres in de schilderkunst;\r\n- rederijkers; de eerste stenen schouwburg in Amsterdam;\r\n- dans in het theater en in het sociale leven;\r\n- religieuze en wereldlijke muziek; muzikale genres voor de kleine kring.",
 		"id": "db1ca6ac-af20-49a8-b52b-93fe7b2ee66b",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Visies op geschiedenis: religieus én wereldlijk (bijvoorbeeld geschiedenis Batavieren als inspiratie voor de kunsten).",
 		"id": "f99aebe9-b4f2-46d8-a6d7-e48260dae26a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Diversiteit van christelijke levensovertuigingen, pragmatisme en religieuze tolerantie (reformatie en contrareformatie).",
 		"id": "be104bb7-9434-4397-a4f5-b6b2e5d9ddd7",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Diverse moralistische genres in literatuur, schilderkunst en theater; burgerlijke, calvinistische moraal (bijvoorbeeld emblemata, Vanitas).",
 		"id": "84fe7e27-ada4-4ba6-a415-2b73e1f2bda5",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "Rol van het orgel en samenzang binnen en buiten de eredienst (Jan Pieterszoon Sweelinck)",
 		"id": "aa4d9e03-881b-4562-8188-47412d729735",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Calvinistische visie op de kunsten.",
 		"id": "ea728101-3ec5-44ab-a330-62bb7a7e502d",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
@@ -22925,7 +22972,8 @@
 		"description": "Kunst en esthetica",
 		"title": "Inventiviteit en specialisatie (genrekunst)",
 		"id": "3f2f89c3-b23d-4ce3-88e0-bf442f4044b0",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
@@ -22937,91 +22985,106 @@
 		"description": "Kunst en esthetica",
 		"title": "Retorica (rederijkers).",
 		"id": "219aa31a-c41c-45a8-99e9-735e1543a27c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "De Republiek zoekt zijn plaats tussen grootmachten; Amsterdam als centrum van wereldhandel over zee",
 		"id": "45e67e00-85d8-4f3e-9c31-6f9081b0a5ee",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Ateliers van meesterschilders; studiereizen naar Italië; Collegium musicum als 'opleiding'",
 		"id": "a4b6f12c-8796-4781-acd7-705b9463fd10",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Status van de (geleerde) kunstenaar; studie oudheid belangrijk.",
 		"id": "b5fd6991-1e71-4e0e-8e56-83b86dfcf580",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Positie van vrouwen in de samenleving en in de kunsten (bijvoorbeeld Judith Leyster, Ariana Nozeman-van den Bergh, Lucretia van Merken).",
 		"id": "a2124d69-b49e-4fb3-88e4-9ffe35d6418d",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Vrije markt; opdrachtgevers: overheden, gezelschappen, verenigingen, burgers",
 		"id": "9bda1070-3196-47e5-8ee0-c7922155e3e7",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Ter lering en vermaak; vermaak als medicijn",
 		"id": "faba5e08-6623-405c-a884-a000dc666d32",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Genrestukken (bijvoorbeeld Jan Steen).",
 		"id": "0b483537-ccc4-4563-83fc-9c55ed6373c0",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Dans in tragedies en kluchten.",
 		"id": "b529204f-b20c-4ad6-99f8-f1957a22d97e",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Kluchten (bijvoorbeeld Gerbrand Adriaansz. Bredero), spektakelstukken (bijvoorbeeld Jan Vos).",
 		"id": "14173661-fc97-4fe1-ad84-38f686dc9c54",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Openbare concerten (bijvoorbeeld Jacob van Eijck).",
 		"id": "b1995b7a-35a7-41b4-90a7-5b065d0ae79c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Musiceren in huiselijke kring en colegium musicum; liedboeken",
 		"id": "33c11203-e98b-426b-987b-78c4e725e75c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Empirisch onderzoek (bijvoorbeeld anatomische theaters); cartografie",
 		"id": "c7481dfb-f837-405b-82a3-d401d54cc430",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Uitvindingen (bijvoorbeeld camera obscura).",
 		"id": "17438eba-8c71-4f4c-ba96-ccab57d1224c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Toneelmachines: kunst- en vliegwerk.",
 		"id": "a9b617b3-89bb-473b-a100-4ff841fa31e3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
@@ -23033,19 +23096,22 @@
 		"description": "Kunst intercultureel",
 		"title": "Westerse expansiedrift en koopmansgeest en de weerslag daarvan in de kunsten (bijvoorbeeld Stadhuis op de Dam en grachtenpanden).",
 		"id": "c9f3dc65-90e4-4f62-accd-a3f12a59cc06",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Handelscontacten: bijvoorbeeld invoer Chinees porselein en ontwikkeling Delfts aardewerk; wederzijdse beïnvloeding (beeldmotieven en vormgeving); invoer luxe materialen (bijvoorbeeld ebbenhout, zijde).",
 		"id": "b45871ad-c76b-4f48-9191-8a4d8a16f740",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Weergave van andere culturen in de kunsten (bijvoorbeeld in liederen en kluchten); reisverslagen met Hollandse ogen: mensen, kleding, flora, fauna, landschappen (bijvoorbeeld Maria Sibylla Merian).",
 		"id": "9a802940-9d92-444e-8a04-596b924f66ec",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23085,81 +23151,108 @@
 		"unreleased": true
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw;\r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV);\r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen);\r\n- hofdans en hofballet (ballet de cour);\r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
+		"title": "Accenten binnen het onderwerp:\r\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw;\r\r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV);\r\r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen);\r\r\n- hofdans en hofballet (ballet de cour);\r\r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
 		"id": "6f9ed551-4076-40e7-8651-ab553e67a72d",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Klassieke theorieën over schoonheid (Plato, Aristoteles): schoonheid als eenheid van delen, maat, verhouding, symmetrie, orde",
 		"id": "32e03a61-d9d8-4a20-b74e-913afd060f64",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Maakbare en beheersbare natuur (bijvoorbeeld tuinen).",
 		"id": "89db0f9a-d06c-4796-8c38-574a8f4bc51b",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Originaliteit: inventio en aemulatio (bijvoorbeeld 'David' van Michelangelo).",
 		"id": "b2f98088-6818-49a7-b717-599460dc6d03",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Retorica en affectenleer.",
 		"id": "e333f266-dcb7-468b-b0d0-31d5068eeb5d",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Hofballetten en opera's als poging om het Griekse totaaltheater tereconstrueren.",
 		"id": "ce0c94ef-58b9-401e-843e-c093ba07c750",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Mythologie als allegorische verwijzing naar politiek en status vorst.",
 		"id": "2d778355-f4fd-45ff-82e9-a60b99b31238",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Opdrachtgevers: hof, kerk, adel, vermogende burgers; patronage/mecenaat.",
 		"id": "267db3a0-d67f-4573-9614-64f86cb3a23d",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Encyclopedische verzamelingen van vorsten en wetenschappers.",
 		"id": "32c4b3dc-d15b-4a09-823c-71941f395112",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Mythologische verhalen als bron van vermaak (bijvoorbeeld Metamorphosen, Ovidius",
 		"id": "9d1aecc8-a97a-498e-961f-84cd06ffffc0",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Monodie: ontwikkeling instrumentale muziek vanuit de begeleiding van de dans (danssuite).",
 		"id": "38595191-6b12-4464-88e8-2eb12dde8ac3",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Tractaten in alle kunsten, naar voorbeeld van Vitruvius (opbouw: theoretisch en praktisch deel).",
 		"id": "c9b25116-0300-46d4-b999-ed3ebd372e34",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Invloed van het Midden-Oosten op de hernieuwde belangstelling voor de klassieke cultuur en op de ontwikkeling van de wetenschappen (bijvoorbeeld lijnperspectief, cartografie).",
 		"id": "c7366e69-eddf-4eab-9268-ecebbc2d5b9e",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"title": "Accenten binnen het onderwerp: \r\n- reactie op Verlichting en industriële revolutie: escapisme naast streven naar sociale rechtvaardigheid; \r\n- traditie tegenover vernieuwing (academie tegenover bijvoorbeeld romantische schilderkunst, realisme, impressionisme); fotografie en het effect ervan op de beeldende kunst; \r\n- architectuur; neostijlen, ingenieursbouw, Jugendstil; \r\n- melodrama; naturalistisch theater (bijvoorbeeld Henrik Ibsen, Johan August Strindberg); \r\n- romantisch ballet in West-Europa en bloei laatromantisch ballet in Rusland;\r\n- grand-opéra; Richard Wagner (Bayreuth, Gesamtkunstwerk); realisme in de opera (verismo);\r\n- muziek in kleine kring (salons, Schubertiades) naast grote orkesten.",
@@ -23371,115 +23464,205 @@
 		"unreleased": true
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\n- avantgardistische stromingen;\r\n- expressie en abstractie;\r\n- architectuur: functionalisme;\r\n- ontwikkelingen in de kunsten in Rusland (bijvoorbeeld constructivisme);\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\n- expressionisme en atonaliteit in de muziek;\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
+		"title": "Accenten binnen het onderwerp:\r\r\n- avantgardistische stromingen;\r\r\n- expressie en abstractie;\r\r\n- architectuur: functionalisme;\r\r\n- ontwikkelingen in de kunsten in Rusland (bijvoorbeeld constructivisme);\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
 		"id": "5b80ed80-d68a-49ad-b87c-7411cd7012da",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
 		"title": "‘Ontdekking’ van het onderbewuste (Sigmund Freud), esoterische stromingen, filosofische benaderingen versus christelijk mens- en wereldbeeld",
 		"id": "4fd3a86c-ceb1-4251-a099-768d5cc4b3f2",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Uitdrukking van het innerlijke van de kunstenaar.",
 		"id": "28c5e8eb-cdc8-4f7f-9be8-b7b9027b3747",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Theorievorming (bijvoorbeeld futuristisch manifest, Der Blaue Reiter, An Actor Prepares, twaalftoonstechniek, Rudolf von Laban).",
 		"id": "5d5629d0-c1b7-4377-af34-3cd0babee7fa",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Form follows function (bijvoorbeeld Louis Sullivan, Hendrik Petrus Berlage, Frank Lloyd Wright), morele aspecten van verwerpen van decoratie (Adolf Loos).",
 		"id": "af415cfd-d1f9-43ef-8345-e7b347326b7f",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Anti-establishment en anti-kunst (bijvoorbeeld Futuristen, Dada, Erik Satie).",
 		"id": "d8f4b6a0-a8e4-438b-8669-73a87b052b9e",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en vermaak",
 		"title": "Muziek: blues, ragtime, jazz, rhythm and blues, swing.",
 		"id": "b27f5def-2eee-4266-ade0-a9ffc76b2b7a",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Kunst probeert de werkwijze van wetenschap te hanteren: grondslagen- en bronnenonderzoek.",
 		"id": "e4459577-d51d-4fe7-bd17-464e1d158327",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Ontwikkeling opnametechnieken en distributie (radio, grammofoon, geluidsfilm)",
 		"id": "078a1f6a-becc-4e12-bdd7-21e6edb81982",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
-		"title": "Accenten binnen het onderwerp: \r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\n- multidisciplinaire kunst; fusion en cross over;\r\n- popart, postmodernistische kunst;\r\n- engagement; activistische kunst;\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\n- absurdistisch theater (bijvoorbeeld Samuel Beckett, Harold Pinter), locatietheater, vormingstheater;\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
+		"title": "Accenten binnen het onderwerp: \r\r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\r\n- multidisciplinaire kunst; fusion en cross over;\r\r\n- popart, postmodernistische kunst;\r\r\n- engagement; activistische kunst;\r\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\r\n- absurdistisch theater (bijvoorbeeld Samuel Beckett, Harold Pinter), locatietheater, vormingstheater;\r\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
 		"id": "67be3ca7-d279-4ace-ae5c-141e11412307",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Vergaande abstractie en conceptuele kunst (bijvoorbeeld Jackson Pollock, John Cage, Merce Cunningham); performance art (bijvoorbeeld Marina Abramović).",
 		"id": "f8b9ff7b-7e2d-4dc3-b288-5c814aa3f2e7",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "Verstilling en versobering in de muziek (bijvoorbeeld Arvo Pärt).",
 		"id": "76beb55d-c7b4-4fd9-950a-8baeb55c8a2d",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst en esthetica",
 		"title": "(Virtuele) realiteiten; simulacrumtheorie (Jean Baudrillard).",
 		"id": "59dd9f2f-bbd3-43df-b8e7-7f6c84cedaf1",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Zowel academische opleiding als individualistische en eclectische leerroutes.",
 		"id": "10d8c895-270d-43f7-ae1c-12355c95836c",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Onderscheid rol ontwerper en uitvoerder (bijvoorbeeld Damian Hirst).",
 		"id": "c242c038-c89b-43b0-9ebc-a2a74be502b2",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
 		"title": "Democratisering van de kunst (bijvoorbeeld Punk, Urban en straatkunst).",
 		"id": "369dab8e-c510-415e-931d-6a39ffd6c518",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst, wetenschap en techniek",
 		"title": "Kunst en ethiek (bijvoorbeeld met betrekking tot kunst en biotechnologie)",
 		"id": "528e8108-f87f-44ec-b54a-5bfe450cd630",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Wereldwijd opereren van kunstenaars (fysiek en/of digitaal);",
 		"id": "4e978769-d3ad-44b0-9ce9-181765442995",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Kunst intercultureel",
 		"title": "Gevolgen van globalisering, identiteit, hybriditeit (bijvoorbeeld Shirin Neshat).",
 		"id": "3dd9e61c-83ca-43c8-8f5b-7233ac2a1aad",
+		"unreleased": true,
+		"ce_se": "",
+		"prefix": ""
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Schoonheid van de zichtbare wereld, naast invloed klassieke theorieën",
+		"id": "fc29fdce-c405-41cf-a868-221508738d5e",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Theater van retorisch-didactisch naar klassieke voorbeelden; theorieën van Aristoteles (bijvoorbeeld Joost van den Vondel).",
+		"id": "9b1f5b86-a907-450c-b89c-1cb6782f7806",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Zichtbare (goddelijke) natuur (bijvoorbeeld anatomische preparaten van Frederik Ruysch).",
+		"id": "d94ab6dc-9bf5-4a17-8f74-19acd9d6a7d7",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"prefix": "",
+		"title": "Realisme tegenover idealisering (bijvoorbeeld Rembrandt van Rijn); theorieën van Karel van Mander, Gerard de Lairesse.",
+		"id": "7fbe5744-c3ae-4bf2-9a3d-005b529d7900",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Kennis van menselijke hartstochten (kluchten en tragedies).",
+		"id": "131fe8d2-426f-4173-92ab-77280ab58bde",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Affectenleer (muziek)",
+		"id": "e5101584-d8a3-48b6-af7d-2e85d8efbedf",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"title": "De Republiek als wetenschappelijke vrijplaats: universiteiten en uitgeverijen.",
+		"id": "a6af9a89-d415-41bc-b940-37495ab807d8",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"prefix": "",
+		"title": "Rariteitenkabinetten: verzamelingen als studiemateriaal (bijvoorbeeld Rembrandt van Rijn); encyclopedische verzamelingen.",
+		"id": "c973f975-427b-430c-b8bf-6b859ecdad46",
 		"unreleased": true
 	}
 ]
