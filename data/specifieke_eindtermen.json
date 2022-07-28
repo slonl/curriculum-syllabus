@@ -38127,7 +38127,7 @@
 		"examenprogramma_domein_id": [
 			"1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97"
 		],
-		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (overwegend B1-opgaven aangevuld met A2- en B2-opgaven)",
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\r\nB1 (overwegend B1-opgaven aangevuld met A2- en B2-opgaven)",
 		"id": "6ae12bd8-d260-49ba-85e4-7e4028b4fdee",
 		"syllabus_toelichting_id": [
 			"202db43e-af1b-4d07-bc85-4e8708679204",
@@ -38157,7 +38157,8 @@
 			"43dd3feb-4e80-4c7c-98cd-0a1bcec57680",
 			"54ef4931-badc-4eec-a51b-902f19af6f4f"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
