@@ -38105,7 +38105,7 @@
 		"examenprogramma_domein_id": [
 			"015ecedb-b86a-4508-824b-aa1253296bb3"
 		],
-		"title": "De kandidaat kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.\r\nDe kandidaat kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.\r\nC1",
+		"title": "De kandidaat kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.\r\r\nDe kandidaat kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.\r\r\nC1",
 		"id": "1bb3303d-6d3b-4440-b12f-ede531934f3d",
 		"syllabus_toelichting_id": [
 			"e479ef2a-ee71-49e0-9138-b0c2df2cee4d",
@@ -38120,7 +38120,8 @@
 			"e8f98cb2-3a28-45fc-b147-d9963f5385f5",
 			"c5f0fc01-21aa-45e4-9a25-1f4844ccd08e"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
