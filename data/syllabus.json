@@ -14757,5 +14757,26 @@
 		"title": "Syllabus Moderne vreemde talen Frans vwo 2022",
 		"id": "abd52c87-1e15-4bb3-9675-6abf8c970cca",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"f35c7f76-33bb-4bde-b274-7ab180bc322f"
+		],
+		"syllabus_vakleergebied_id": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"614374e4-1f27-4a89-b97d-46b1f5a43c42"
+		],
+		"title": "Syllabus Moderne vreemde talen Russisch havo 2022",
+		"id": "eeac6673-9edd-453a-a4f9-7edb74936c5b",
+		"unreleased": true
 	}
 ]
