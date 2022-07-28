@@ -14937,5 +14937,26 @@
 		"title": "Syllabus Nederlandse taal vwo 2022",
 		"id": "75def4bb-9a70-4e16-b334-41d4145d2b48",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"cb227107-e06f-40d7-8011-a770f8a9775b"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"e27633b0-cc68-440a-a2d7-be2bd68170ca"
+		],
+		"title": "Syllabus Moderne vreemde talen Turks havo 2022",
+		"id": "00263373-2c0f-4f2a-9198-23716a4df2ee",
+		"unreleased": true
 	}
 ]
