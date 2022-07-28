@@ -3257,7 +3257,7 @@
 	},
 	{
 		"id": "7f403e70-323c-4480-9d7e-e2846621d5b3",
-		"prefix": "AK/K/3.1",
+		"prefix": "AK/K/3/3.3a",
 		"title": "De kandidaat kan verschillende soorten digitale en papieren kaarten gebruiken, waaronder topografische kaarten, overzichtskaarten en thematische kaarten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3267,7 +3267,7 @@
 	},
 	{
 		"id": "879bda9c-5a3c-444a-8138-187dcdaea563",
-		"prefix": "AK/K/3.1",
+		"prefix": "AK/K/3/3.3b",
 		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse toepassen.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3277,7 +3277,7 @@
 	},
 	{
 		"id": "79183393-789c-41f0-bb9a-e9b7ddecd899",
-		"prefix": "AK/K/3.2",
+		"prefix": "AK/K/3/3.4a",
 		"title": "De kandidaat kan voorbewerkte informatie uit verschillende bronnen gebruiken, namelijk: informatie uit papieren en digitale kaarten, atlassen, teksten, figuren, tabellen, animaties.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3287,7 +3287,7 @@
 	},
 	{
 		"id": "fe9c1f4f-f999-4b9b-8f78-16c4dd71cb25",
-		"prefix": "AK/K/3.2",
+		"prefix": "AK/K/3/3.4a",
 		"title": "De kandidaat kan voorbewerkte informatie uit verschillende bronnen selecteren en gebruiken, namelijk: informatie uit papieren en digitale kaarten, atlassen, teksten, figuren, tabellen, animaties, luchtfoto’s en satellietbeelden.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3297,7 +3297,7 @@
 	},
 	{
 		"id": "b5a54bf1-dbd0-4236-b59f-791854e2bcc2",
-		"prefix": "AK/K/3.2",
+		"prefix": "AK/K/3/3.4b",
 		"title": "De kandidaat kan deze voorbewerkte informatie uit verschillende bronnen ordenen, analyseren en daarover conclusies trekken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
@@ -3357,12 +3357,13 @@
 	},
 	{
 		"id": "b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
-		"prefix": "AK/K/3.3",
+		"prefix": "AK/K/3/3.3c",
 		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen / maken.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8e6153de-3e72-4c1a-b8ad-2785a581a7c1",
@@ -28351,7 +28352,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3/3a.1a",
+		"prefix": "AK/K/3/3.1a",
 		"ce_se": ""
 	},
 	{
@@ -28361,7 +28362,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a/1a.1b",
+		"prefix": "AK/K/3/3.1b",
 		"ce_se": ""
 	},
 	{
@@ -28371,7 +28372,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3/1a.1c",
+		"prefix": "AK/K/3/3.1c",
 		"ce_se": ""
 	},
 	{
@@ -28381,7 +28382,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a.1d",
+		"prefix": "AK/K/3/3.1d",
 		"ce_se": ""
 	},
 	{
@@ -28391,7 +28392,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3/1a.1e",
+		"prefix": "AK/K/3/3.1e",
 		"ce_se": ""
 	},
 	{
@@ -28401,7 +28402,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3/1a.2",
+		"prefix": "AK/K/3/3.1f",
 		"ce_se": ""
 	},
 	{
@@ -28411,7 +28412,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3.2a",
+		"prefix": "AK/K/3/3.2a",
 		"ce_se": ""
 	},
 	{
@@ -28421,7 +28422,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3.2b",
+		"prefix": "AK/K/3/3.2b",
 		"ce_se": ""
 	},
 	{
@@ -28431,7 +28432,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a.2c",
+		"prefix": "AK/K/3/3.2c",
 		"ce_se": ""
 	},
 	{
@@ -28441,7 +28442,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a.2d",
+		"prefix": "AK/K/3/3.2d",
 		"ce_se": ""
 	},
 	{
@@ -28451,7 +28452,7 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a.2e",
+		"prefix": "AK/K/3/3.2e",
 		"ce_se": ""
 	},
 	{
@@ -28461,53 +28462,58 @@
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
 		],
-		"prefix": "AK/K/3a.2a kgt",
+		"prefix": "AK/K/3/3.2a",
 		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1e",
+		"prefix": "AK/K/3/3.2b",
 		"id": "edb2c8d2-48dd-406b-8210-83f8587e93bf",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: enkelvoudige/meervoudige verbanden leggen binnen een gebied en tussen gebieden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1ada",
+		"prefix": "AK/K/3/3.2c",
 		"id": "5f24b268-3d45-4c49-8e55-4da6ada94639",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen vanuit een of meer dimensie bekijken: natuurlijke, sociaal economische, culturele en politieke.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1ecd",
+		"prefix": "AK/K/3/3.2d",
 		"id": "b3c69ec6-3b43-4762-a66c-ecd70655c736",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: van gebieden en verschijnselen aangeven uit welke kleinere delen ze bestaan en tot welke grotere gehelen ze behoren.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1a",
+		"prefix": "AK/K/3/3.2e",
 		"id": "d0a66a89-de3f-4e50-a57e-26eba9d454ef",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: gebieden en verschijnselen op verschillende ruimtelijke schalen bekijken door in te zoomen en uit te zoomen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1c",
+		"prefix": "AK/K/3/3.2f",
 		"id": "95028b4e-2ff4-40b6-a33c-74c90f01d4f8",
 		"title": "De kandidaat kan de volgende aardrijkskundige werkwijzen herkennen en afzonderlijk en in samenhang hanteren: bij gebieden en verschijnselen onderscheid maken tussen het algemene en het bijzondere.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"cfd8c78e-8aa1-475d-b431-f0e62858391f"
-		]
+		],
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1f",
@@ -28537,13 +28543,14 @@
 		]
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1c",
+		"prefix": "AK/K/3/3.3d",
 		"id": "38a20e6a-c241-4a49-a5c7-6b91215f4b48",
 		"title": "De kandidaat kan verschijnselen op luchtfoto’s en satellietbeelden herkennen en met kaarten vergelijken.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
+		],
+		"ce_se": ""
 	},
 	{
 		"id": "07aedfda-1934-479e-961b-adcfc2f7eeb0",
