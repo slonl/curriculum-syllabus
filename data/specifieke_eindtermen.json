@@ -38407,7 +38407,7 @@
 		"examenprogramma_domein_id": [
 			"810edac4-adff-4c9c-9886-69146dc02abe"
 		],
-		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\nB2",
+		"title": "De kandidaat kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.\r\r\nB2",
 		"id": "e27633b0-cc68-440a-a2d7-be2bd68170ca",
 		"syllabus_toelichting_id": [
 			"a3840bb0-fd9d-4e84-a81a-c840bbd1a319",
@@ -38424,7 +38424,8 @@
 			"b286ed1b-1748-4c1e-ad1e-4673411d8acd",
 			"8c8ee1f8-6946-4201-8ff4-f19e38824583"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
