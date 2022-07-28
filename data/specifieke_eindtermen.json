@@ -52879,5 +52879,16 @@
 		"title": "Onderwerp: Burgerlijke cultuur in de 17de eeuw",
 		"id": "575bea88-9734-454f-a982-94d3fe2e4fe3",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NE/V/DomeinD/6b.1b",
+		"examenprogramma_eindterm_id": [
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		],
+		"title": "De kandidaat kan een betoog op aanvaardbaarheid beoordelen op basis van betrouwbaarheid van bronnen.",
+		"id": "c04843fc-4346-4295-8d47-38af270c7a29",
+		"unreleased": true
 	}
 ]
