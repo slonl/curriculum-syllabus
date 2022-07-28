@@ -14778,5 +14778,26 @@
 		"title": "Syllabus Moderne vreemde talen Russisch havo 2022",
 		"id": "eeac6673-9edd-453a-a4f9-7edb74936c5b",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"17fd3fa2-df89-4296-a34f-fc9302284659"
+		],
+		"syllabus_vakleergebied_id": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ae12bd8-d260-49ba-85e4-7e4028b4fdee"
+		],
+		"title": "Syllabus Moderne vreemde talen Russisch vwo 2022",
+		"id": "4c5811e7-6338-431c-8395-691a8ec0af41",
+		"unreleased": true
 	}
 ]
