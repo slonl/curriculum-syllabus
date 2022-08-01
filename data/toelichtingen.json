@@ -8,8 +8,10 @@
 	},
 	{
 		"id": "fe3e8dd8-8877-48a4-a7e0-87e35d823845",
-		"title": "De kandidaat betrekt daarbij de vraag naar goederen en diensten op basis van de voorkeuren (preferenties) van de consument, voorbeelden van het onderscheid tussen (primaire) basisbehoeften en overige (secundaire) behoeften:\r\n– het feit dat basisbehoeften meer prioriteit hebben dan overige behoeften\r\n– de relativiteit van het begrip ‘luxe’ in relatie tot het inkomen\r\n– het onderscheid tussen goederen en diensten, waarbij diensten worden opgevat als immaterieel\r\n– het onderscheid tussen verbruiks- en gebruiksgoederen\r\n– het onderscheid tussen noodzakelijke en luxe goederen/ diensten\r\n– het onderscheid tussen (primaire) basisbehoeften en(secundaire) overige behoeften",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de vraag naar goederen en diensten op basis van de voorkeuren (preferenties) van de consument, voorbeelden van het onderscheid tussen (primaire) basisbehoeften en overige (secundaire) behoeften:\r\r\n– het feit dat basisbehoeften meer prioriteit hebben dan overige behoeften\r\r\n– de relativiteit van het begrip ‘luxe’ in relatie tot het inkomen\r\r\n– het onderscheid tussen goederen en diensten, waarbij diensten worden opgevat als immaterieel\r\r\n– het onderscheid tussen verbruiks- en gebruiksgoederen\r\r\n– het onderscheid tussen noodzakelijke en luxe goederen/ diensten\r\r\n– het onderscheid tussen (primaire) basisbehoeften en(secundaire) overige behoeften",
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"id": "2f971167-feae-4582-8a81-c4766af1985a",
@@ -20,8 +22,10 @@
 	},
 	{
 		"id": "16cf525a-eee1-4c59-afed-c42e5be3da57",
-		"title": "De kandidaat betrekt daarbij de invloed van beschikbaarheid van middelen op consumptie:\r\n– beperkte mogelijkheden voor consumptie door gebrek aan tijd en geld\r\n– de noodzaak om prioriteiten te stellen\r\n– schaarste\r\n– zeldzaamheid",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de invloed van beschikbaarheid van middelen op consumptie:\r\n– schaarste\r\n– zeldzaamheid",
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"id": "cba437d6-6441-428d-913a-a8cf8a4c8229",
@@ -33,13 +37,19 @@
 	},
 	{
 		"id": "5181ba02-0a76-4596-bb72-8a913e86784b",
-		"title": "De kandidaat betrekt daarbij koop en verkoop als vorm van ruil:\r\n– geld fungeert bij koop en verkoop als ruilmiddel\r\n– directe ruil, indirecte ruil\r\n– chartaal geld, giraal geld",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij koop en verkoop als vorm van ruil:\r\r\n– geld fungeert bij koop en verkoop als ruilmiddel\r\r\n– directe ruil, indirecte ruil\r\r\n– chartaal geld, giraal geld",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "5849f90c-95d7-4726-ace4-d18980da41ed",
-		"title": "De kandidaat betrekt daarbij de samenhang tussen ruil, maatschappelijke arbeidsverdeling en geldgebruik:\r\n– geldgebruik vergemakkelijkt de ruil, gemakkelijke ruil bevordert de maatschappelijke arbeidsverdeling (het ontstaan van beroepenspecialisatie)",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de samenhang tussen ruil, maatschappelijke arbeidsverdeling en geldgebruik:\r\r\n– geldgebruik vergemakkelijkt de ruil, gemakkelijke ruil bevordert de maatschappelijke arbeidsverdeling (het ontstaan van beroepenspecialisatie)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "e6f7b60f-9602-429b-a710-94c5f093674c",
@@ -67,26 +77,43 @@
 	},
 	{
 		"id": "02438cdd-2dcf-4fbf-94a8-0a9a2cb89bd5",
-		"title": "De kandidaat betrekt daarbij  verschillende vormen van inkomen als beloning voor productiefactoren (natuur, kapitaal, arbeid en ondernemerschap) waarbij duidelijk wordt dat het totaal aan beloningen voor de productiefactoren gelijk is aan het nationaal inkomen; \r\n– inkomen uit arbeid: - loon of salaris, prestatiebeloning (arbeid) - vakantiegeld (arbeid) - loon in natura (arbeid) - winst (ondernemerschap, arbeid) \r\n– inkomen uit bezit: - rente, waarbij alleen bij GL/TL onderscheid gemaakt wordt tussen samengestelde en enkelvoudige intrest tot maximaal 3 jaar - dividend (kapitaal, ondernemerschap) - huur (kapitaal) - pacht (natuur) - winst (ondernemerschap)",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij  verschillende vormen van inkomen als beloning voor productiefactoren (natuur, kapitaal, arbeid en ondernemerschap) waarbij duidelijk wordt dat het totaal aan beloningen voor de productiefactoren gelijk is aan het nationaal inkomen; \r\r\n– inkomen uit arbeid: - loon of salaris, prestatiebeloning (arbeid) - vakantiegeld (arbeid) - loon in natura (arbeid) - winst (ondernemerschap, arbeid) \r\r\n– inkomen uit bezit: - rente, waarbij alleen bij GL/TL onderscheid gemaakt wordt tussen samengestelde en enkelvoudige intrest tot maximaal 3 jaar - dividend (kapitaal, ondernemerschap) - huur (kapitaal) - pacht (natuur) - winst (ondernemerschap)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "eb431d88-5f88-47f9-977a-9f282743197c",
-		"title": "De kandidaat betrekt daarbij inkomen uit overdrachten: \r\n- kinderbijslag - subsidies en/of toeslagen - bijstand - studiebeurs - sociale uitkeringen - studiekostenvergoeding",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij inkomen uit overdrachten: \r\r\n- kinderbijslag - subsidies en/of toeslagen - bijstand - studiebeurs - sociale uitkeringen - studiekostenvergoeding",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "1fe18e06-4530-4e64-830f-60e1fb95f79b",
-		"title": "De kandidaat betrekt daarbij informatie over inkomensverschillen in Nederland, zoals weergegeven kan worden in de personele inkomensverdeling, bijvoorbeeld met een gepresenteerde Lorenzcurve of andere grafiek, het modaal inkomen: \r\n– verschillen van inkomens zoals genoemd onder EC/K/4 2.1 \r\n– verschillen in inkomens leiden tot verschillen in consumptie (koopkracht, preferenties)",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij informatie over inkomensverschillen in Nederland, zoals weergegeven kan worden in de personele inkomensverdeling, bijvoorbeeld met een gepresenteerde Lorenzcurve of andere grafiek, het modaal inkomen: \r\r\n– verschillen van inkomens zoals genoemd onder EC/K/4 2.1 \r\r\n– verschillen in inkomens leiden tot verschillen in consumptie (koopkracht, preferenties)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "539a5eca-a1b0-4434-9ca6-56c055113de1",
-		"title": "De kandidaat kan verschil in machtspositie tussen consument en producent:\r\n– aantallen kopers en verkopers – rechten en plichten van koper en verkoper – productkennis – kennis van verkoopbevorderingtechnieken (zie EC/K/4A.3 marketing)"
+		"title": "De kandidaat kan verschil in machtspositie tussen consument en producent:\r\r\n– aantallen kopers en verkopers – rechten en plichten van koper en verkoper – productkennis – kennis van verkoopbevorderingtechnieken (zie EC/K/4A.3 marketing)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "388f2831-7b8b-42f1-8e66-6bb60c3f40aa",
-		"title": "De kandidaat kan de invloed die (jonge) kopers uitoefenen op de omvang en aard van de productie: \r\n– die invloed verschilt per doelgroep: - grootte van de groep - de koopkracht - de bestedingen\r\n– jonge kopers hebben een belangrijke invloed vanwege: - de omvang van hun koopkracht - de invloed op de bestedingen bij hen thuis - de vorming van koopgewoonten"
+		"title": "De kandidaat kan de invloed die (jonge) kopers uitoefenen op de omvang en aard van de productie: \r\r\n– die invloed verschilt per doelgroep: - grootte van de groep - de koopkracht - de bestedingen\r\r\n– jonge kopers hebben een belangrijke invloed vanwege: - de omvang van hun koopkracht - de invloed op de bestedingen bij hen thuis - de vorming van koopgewoonten",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "fe3dd86f-0922-4a1e-9851-01ffd26d49bc",
@@ -130,8 +157,11 @@
 	},
 	{
 		"id": "963aa415-9a04-42e6-98a0-ebdf91c8952a",
-		"title": "De kandidaat betrekt daarbij de geldfuncties: \r\n– ruilmiddel – rekenmiddel – spaarmiddel als mede: \r\n– de courante vormen van betaling – het omgaan met de bankrekening, rood staan en tegoed, berekenen van saldomutaties, telebankieren\r\n– debetsaldo/rood staan en creditsaldo/tegoed, debetrente, creditrente",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de geldfuncties: \r\r\n– ruilmiddel – rekenmiddel – spaarmiddel als mede: \r\r\n– de courante vormen van betaling – het omgaan met de bankrekening, rood staan en tegoed, berekenen van saldomutaties, telebankieren\r\r\n– debetsaldo/rood staan en creditsaldo/tegoed, debetrente, creditrente",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "546623d3-136b-4dd1-95a4-e5a10b866ccc",
@@ -143,13 +173,19 @@
 	},
 	{
 		"id": "33fce6ce-44ee-4f2a-846d-0404cf79b456",
-		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld, kredietkosten, kredietverlening:\r\n– sparen en lenen als het overhevelen van koopkracht in de tijd\r\n– de motieven om te sparen: - voor een doel - uit voorzorg - renteopbrengst\r\n– de motieven om te lenen omschrijven, en de diverse leenvormen beschrijven zoals persoonlijke lening, doorlopende lening, huurkoop, koop op afbetaling, leasing:  - aanschaf van duurzame consumptiegoederen - aanschaf onroerend goed (eigen woning) - opvangen van tijdelijke liquiditeitstekorten (N.B. Voor leerlingen kan gesproken worden van tijdelijke geldtekorten) - opvang van calamiteiten\r\n– de hoogte van het rentebedrag is afhankelijk van rentepercentage, looptijd, hoogte van het gespaarde of geleende bedrag",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld, kredietkosten, kredietverlening:\r\r\n– sparen en lenen als het overhevelen van koopkracht in de tijd\r\r\n– de motieven om te sparen: - voor een doel - uit voorzorg - renteopbrengst\r\r\n– de motieven om te lenen omschrijven, en de diverse leenvormen beschrijven zoals persoonlijke lening, doorlopende lening, huurkoop, koop op afbetaling, leasing:  - aanschaf van duurzame consumptiegoederen - aanschaf onroerend goed (eigen woning) - opvangen van tijdelijke liquiditeitstekorten (N.B. Voor leerlingen kan gesproken worden van tijdelijke geldtekorten) - opvang van calamiteiten\r\r\n– de hoogte van het rentebedrag is afhankelijk van rentepercentage, looptijd, hoogte van het gespaarde of geleende bedrag",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "18981e3c-b0af-46aa-a18f-66faf68a1963",
-		"title": "De kandidaat betrekt daarbij financiële instellingen en andere als bemiddelaars tussen vragers en aanbieders van geld:\r\n– de gezinnen, de bedrijven en de overheid als vrager en aanbieder van geld\r\n– de financiële instellingen als doorgeefluik van geld en/of bemiddelaars tussen vragers en aanbieders",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij financiële instellingen en andere als bemiddelaars tussen vragers en aanbieders van geld:\r\r\n– de gezinnen, de bedrijven en de overheid als vrager en aanbieder van geld\r\r\n– de financiële instellingen als doorgeefluik van geld en/of bemiddelaars tussen vragers en aanbieders",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "ef78196f-a539-4afd-b33b-6685db69db60",
@@ -200,8 +236,11 @@
 	},
 	{
 		"id": "001c80ac-25f6-419c-8f78-e0fc06ce89aa",
-		"title": "De kandidaat betrekt daarbij de gevolgen waarmee rekening moet worden gehouden:\r\n– de eigen (markt)positie als koper\r\n– de gevolgen voor het budget\r\n– de invloed van de bestedingen op werkgelegenheid en milieu in zowel binnen- als buitenland (ook ontwikkelingslanden)\r\n– de zogenoemde allocatieve werking van de bestedingen, waarmee wordt bedoeld dat de bestedingen (mede) bepalend zijn voor wat, waar en door wie wordt geproduceerd.",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de gevolgen waarmee rekening moet worden gehouden:\r\r\n– de eigen (markt)positie als koper\r\r\n– de gevolgen voor het budget\r\r\n– de invloed van de bestedingen op werkgelegenheid en milieu in zowel binnen- als buitenland (ook ontwikkelingslanden)\r\r\n– de zogenoemde allocatieve werking van de bestedingen, waarmee wordt bedoeld dat de bestedingen (mede) bepalend zijn voor wat, waar en door wie wordt geproduceerd.",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "e5f82017-2fff-4bbc-abcd-ba142dab0e39",
@@ -255,18 +294,27 @@
 	},
 	{
 		"id": "ca72dfd8-6a40-4ba5-8307-c76b60b81e1b",
-		"title": "De kandidaat betrekt daarbij de financieringssituatie: overschotten, tekorten;\r\nhet budget versus de werkelijke ontvangsten en uitgaven:\r\n- een gegeven budgetplan vergelijken met de werkelijke ontvangsten en uitgaven over dezelfde periode en vaststellen of er sprake is van een tijdelijk of structureel liquiditeitstekort of overschot",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de financieringssituatie: overschotten, tekorten;\r\r\nhet budget versus de werkelijke ontvangsten en uitgaven:\r\r\n- een gegeven budgetplan vergelijken met de werkelijke ontvangsten en uitgaven over dezelfde periode en vaststellen of er sprake is van een tijdelijk of structureel liquiditeitstekort of overschot",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "7f843ada-d604-4f76-85fa-d93b698dc18c",
-		"title": "De kandidaat betrekt daarbij berekening van het gemiddeld totaal aan uitgaven of benodigde afschrijvingen of reserveringen in een periode met gegeven financiële stukken:\r\n– bijvoorbeeld de gemiddelde persoonlijke uitgaven per week berekenen",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij berekening van het gemiddeld totaal aan uitgaven of benodigde afschrijvingen of reserveringen in een periode met gegeven financiële stukken:\r\r\n– bijvoorbeeld de gemiddelde persoonlijke uitgaven per week berekenen",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "8dbf6de4-dcb6-44df-91f3-f4d979ed2ed1",
-		"title": "De kandidaat betrekt daarbij berekening van reservering per maand, gegeven de aanschafprijs of vervangingsprijs, de gebruiksduur en een eventuele restwaarde (meer dan 1 euro):\r\n– aan de hand van herkenbare behoeften voorbeelden van duurzame consumptiegoederen, bijvoorbeeld een wasmachine, bromscooter, of computer een voorbeeldberekening kunnen maken:\r\n- aanschafwaarde of vervangingswaarde minus restwaarde / gebruiksduur in maanden",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij berekening van reservering per maand, gegeven de aanschafprijs of vervangingsprijs, de gebruiksduur en een eventuele restwaarde (meer dan 1 euro):\r\r\n– aan de hand van herkenbare behoeften voorbeelden van duurzame consumptiegoederen, bijvoorbeeld een wasmachine, bromscooter, of computer een voorbeeldberekening kunnen maken:\r\r\n- aanschafwaarde of vervangingswaarde minus restwaarde / gebruiksduur in maanden",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "5fa2869a-f3d1-4718-831d-3e81b8774344",
@@ -316,23 +364,35 @@
 	},
 	{
 		"id": "72d56f74-3d7b-4248-88d7-790b8ded9a8a",
-		"title": "De kandidaat betrekt daarbij afzet: – de afzet is de verkoop in eenheden\r\nmarktaandeel: – het marktaandeel is de afzet van een bedrijf als percentage van de totale afzet in een bedrijfstak",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij afzet: – de afzet is de verkoop in eenheden\r\r\nmarktaandeel: – het marktaandeel is de afzet van een bedrijf als percentage van de totale afzet in een bedrijfstak",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "d5caabd0-4f89-496b-b34c-8fc545099cdd",
-		"title": "De kandidaat betrekt daarbij bedrijfskosten: \r\n– voorbeelden van bedrijfskosten: - huisvestingskosten, loonkosten, in- en verkoopkosten - afschrijvingskosten \r\n– het verschil tussen vaste en variabele kosten waarmee gerekend moet kunnen worden, bijvoorbeeld door de invloed van een veranderende productieomvang om de kosten per eenheid product te bepalen",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij bedrijfskosten: \r\r\n– voorbeelden van bedrijfskosten: - huisvestingskosten, loonkosten, in- en verkoopkosten - afschrijvingskosten \r\r\n– het verschil tussen vaste en variabele kosten waarmee gerekend moet kunnen worden, bijvoorbeeld door de invloed van een veranderende productieomvang om de kosten per eenheid product te bepalen",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "2ebb7d2b-ec76-4318-b0d7-6229508013b9",
-		"title": "De kandidaat betrekt daarbij brutowinstopslag: \r\n– de brutowinst is het verschil tussen de omzet en de inkoopprijs van de verkopen (beide exclusief BTW)\r\n- de brutowinst wordt berekend door een percentage van de inkoopprijs te nemen. \r\n– de brutowinstmarge is de brutowinst uitgedrukt als percentage van de verkoopprijs of van de inkoopprijs",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij brutowinstopslag: \r\r\n– de brutowinst is het verschil tussen de omzet en de inkoopprijs van de verkopen (beide exclusief BTW)\r\r\n- de brutowinst wordt berekend door een percentage van de inkoopprijs te nemen. \r\r\n– de brutowinstmarge is de brutowinst uitgedrukt als percentage van de verkoopprijs of van de inkoopprijs",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "672506d2-feea-47c9-9089-aede9119c052",
-		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren: \r\n- vanuit de verkoopprijs exclusief BTW de verkoopprijs inclusief BTW kunnen bepalen \r\n- vanuit de verkoopprijs inclusief BTW de verkoopprijs exclusief BTW kunnen bepalen\r\n- verkoopprijs inclusief BTW = inkoopprijs exclusief BTW + brutowinstmarge (in geld) + BTW \r\n- verkoopprijs exclusief BTW - inkoopprijs exclusief BTW = brutowinst\r\n- verkoopprijs inclusief BTW = inkoopprijs exclusief BTW + brutowinstmarge (in geld of in procenten) + BTW",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren: \r\r\n- vanuit de verkoopprijs exclusief BTW de verkoopprijs inclusief BTW kunnen bepalen \r\r\n- vanuit de verkoopprijs inclusief BTW de verkoopprijs exclusief BTW kunnen bepalen\r\r\n- verkoopprijs inclusief BTW = inkoopprijs exclusief BTW + brutowinstmarge (in geld) + BTW \r\r\n- verkoopprijs exclusief BTW - inkoopprijs exclusief BTW = brutowinst\r\r\n- verkoopprijs inclusief BTW = inkoopprijs exclusief BTW + brutowinstmarge (in geld of in procenten) + BTW",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "46ef3c71-f0b3-40d1-83f9-965b617f4b1d",
@@ -366,13 +426,19 @@
 	},
 	{
 		"id": "fea37219-8e29-4950-a4dc-1fed763101f5",
-		"title": "De kandidaat betrekt daarbij huishoudens, beroepsbevolking, de toegenomen afhankelijkheid tussen individuen, huishoudens, beroepsbevolking, bedrijven en overheid:\r\n– het begrip arbeidsverdeling: - de arbeidsverdeling tussen individuen onderling, tussen bedrijven en samenlevingsverbanden, tussen de bedrijven onderling, zoals deze onder meer gestalte krijgt in de productiesectoren (primaire, secundaire, tertiaire en quartaire sector) en tussen de bedrijven en de overheid \r\n– de ruil als gevolg van arbeidsverdeling en de daardoor ontstane afhankelijkheid tussen individuen, samenlevingsverbanden, bedrijven en overheid",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij huishoudens, beroepsbevolking, de toegenomen afhankelijkheid tussen individuen, huishoudens, beroepsbevolking, bedrijven en overheid:\r\r\n– het begrip arbeidsverdeling: - de arbeidsverdeling tussen individuen onderling, tussen bedrijven en samenlevingsverbanden, tussen de bedrijven onderling, zoals deze onder meer gestalte krijgt in de productiesectoren (primaire, secundaire, tertiaire en quartaire sector) en tussen de bedrijven en de overheid \r\r\n– de ruil als gevolg van arbeidsverdeling en de daardoor ontstane afhankelijkheid tussen individuen, samenlevingsverbanden, bedrijven en overheid",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "aa61bf03-a37b-4678-8c83-ddab59723c4c",
-		"title": "De kandidaat betrekt daarbij positieve en negatieve gevolgen van arbeidsverdeling: – de toename van de arbeidsproductiviteit – de welvaartstoename\r\n– de welvaartstoename, zoals deze onder meer gestalte krijgt in de productiesectoren (primaire, secundaire, tertiaire en quartaire sector) \r\n– een ver doorgevoerde arbeidsverdeling leidt tot vervreemding tussen werknemer / arbeider en eindproduct",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij positieve en negatieve gevolgen van arbeidsverdeling: – de toename van de arbeidsproductiviteit – de welvaartstoename\r\r\n– de welvaartstoename, zoals deze onder meer gestalte krijgt in de productiesectoren (primaire, secundaire, tertiaire en quartaire sector) \r\r\n– een ver doorgevoerde arbeidsverdeling leidt tot vervreemding tussen werknemer / arbeider en eindproduct",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "d2609c62-e689-4bd3-8566-70169335a7bb",
@@ -381,8 +447,11 @@
 	},
 	{
 		"id": "566b9e6f-9986-4cfb-9154-d9f30e53baa5",
-		"title": "De kandidaat betrekt daarbij emancipatorische aspecten bij arbeidsverdeling: \r\n– geen verschillen in toegankelijkheid van beroepen voor mannen en vrouwen geen beloningsverschillen voor dezelfde arbeid, wet gelijke behandeling, arbeidsmotieven, Arbowet, automatisering en mechanisering \r\n– mogelijkheden voor deeltijdarbeid, Wet op deeltijdarbeid, kinderopvang, kinderopvang als mogelijkheid om personeel aan te trekken en zodoende de mogelijkheid te bieden om zorg en werk te combineren; de inspanning die de overheid (subsidie) en werkgevers leveren om de kinderopvang te organiseren, verruiming van de bedrijfstijden, thuiswerken",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij emancipatorische aspecten bij arbeidsverdeling: \r\r\n– geen verschillen in toegankelijkheid van beroepen voor mannen en vrouwen geen beloningsverschillen voor dezelfde arbeid, wet gelijke behandeling, arbeidsmotieven, Arbowet, automatisering en mechanisering \r\r\n– mogelijkheden voor deeltijdarbeid, Wet op deeltijdarbeid, kinderopvang, kinderopvang als mogelijkheid om personeel aan te trekken en zodoende de mogelijkheid te bieden om zorg en werk te combineren; de inspanning die de overheid (subsidie) en werkgevers leveren om de kinderopvang te organiseren, verruiming van de bedrijfstijden, thuiswerken",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "7b721230-9944-4dc4-8061-77f3feb539b7",
@@ -399,8 +468,11 @@
 	},
 	{
 		"id": "cf907973-231a-4d1b-abc4-2cb52de97e1b",
-		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband: \r\n– het onderscheid tussen betaalde en onbetaalde arbeid \r\n– het onderscheid tussen (hoog)geschoolde en ongeschoolde arbeid\r\n– het onderscheid tussen uitvoerende en leidinggevende arbeid\r\n– de keuze tussen betaald en onbetaald werk die mede afhankelijk is van de mate waarin betaald werk beschikbaar is\r\n– de keuze tussen betaald (vaste baan, flexwerk, uitzendwerk) en onbetaald werk die mede afhankelijk is van de mate waarin betaald werk beschikbaar is, hierbij rekening houdend met arbeidsmotieven – het verschijnsel zwart of grijs werk (zwarte en grijze circuit) waarin een deel van de betaalde arbeid plaatsvindt – de waarde van de productie van zwart / grijs werk wordt buiten de registratie gehouden (N.B. Hierbij kan verwezen worden naar definities als die van het CBS)",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband: \r\r\n– het onderscheid tussen betaalde en onbetaalde arbeid \r\r\n– het onderscheid tussen (hoog)geschoolde en ongeschoolde arbeid\r\r\n– het onderscheid tussen uitvoerende en leidinggevende arbeid\r\r\n– de keuze tussen betaald en onbetaald werk die mede afhankelijk is van de mate waarin betaald werk beschikbaar is\r\r\n– de keuze tussen betaald (vaste baan, flexwerk, uitzendwerk) en onbetaald werk die mede afhankelijk is van de mate waarin betaald werk beschikbaar is, hierbij rekening houdend met arbeidsmotieven – het verschijnsel zwart of grijs werk (zwarte en grijze circuit) waarin een deel van de betaalde arbeid plaatsvindt – de waarde van de productie van zwart / grijs werk wordt buiten de registratie gehouden (N.B. Hierbij kan verwezen worden naar definities als die van het CBS)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "486e60c0-bc97-4519-b2b4-c5bb28088783",
@@ -409,8 +481,11 @@
 	},
 	{
 		"id": "343b08c3-c5f8-494f-baa9-d0c01c41a7de",
-		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten, overspannen / gespannen arbeidsmarkt, krap en ruim \r\n– de arbeidsmarkt als het geheel van vraag naar en aanbod van arbeid, waarbij rekening gehouden wordt met het onderscheid tussen arbeid in manjaren (manjaar = arbeidsjaar = FTE) en arbeid in personen in verband met deeltijdarbeid; het loon is de prijs van de arbeid. \r\n– de samenstelling van de vraag naar arbeid: - bezette arbeidsplaatsen en vacatures \r\n– de vraag naar arbeid (werkgelegenheid) van bedrijven en van de overheid, economische sectoren en bedrijfstakken \r\n– het aanbod van arbeid dat bestaat uit werkenden en werkzoekenden, beroepsbevolking\r\n– een tekort op de arbeidsmarkt dat schaarste aan personeel betekent met gevolgen voor lonen, arbeidsvoorwaarden, internationale concurrentiepositie \r\n– een overschot op de arbeidsmarkt dat werkloosheid betekent met gevolgen voor lonen, arbeidsvoorwaarden, concurrentiepositie",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten, overspannen / gespannen arbeidsmarkt, krap en ruim \r\r\n– de arbeidsmarkt als het geheel van vraag naar en aanbod van arbeid, waarbij rekening gehouden wordt met het onderscheid tussen arbeid in manjaren (manjaar = arbeidsjaar = FTE) en arbeid in personen in verband met deeltijdarbeid; het loon is de prijs van de arbeid. \r\r\n– de samenstelling van de vraag naar arbeid: - bezette arbeidsplaatsen en vacatures \r\r\n– de vraag naar arbeid (werkgelegenheid) van bedrijven en van de overheid, economische sectoren en bedrijfstakken \r\r\n– het aanbod van arbeid dat bestaat uit werkenden en werkzoekenden, beroepsbevolking\r\r\n– een tekort op de arbeidsmarkt dat schaarste aan personeel betekent met gevolgen voor lonen, arbeidsvoorwaarden, internationale concurrentiepositie \r\r\n– een overschot op de arbeidsmarkt dat werkloosheid betekent met gevolgen voor lonen, arbeidsvoorwaarden, concurrentiepositie",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "4520c24d-c1c9-4ef4-8484-c470dc2b46b9",
@@ -442,8 +517,11 @@
 	},
 	{
 		"id": "a9ef2411-94eb-4f03-b1ef-7191a13a2286",
-		"title": "De kandidaat betrekt daarbij stagnatie / daling van de vraag naar goederen en diensten, de conjunctuur: \r\n– conjuncturele werkloosheid die aan de vraagkant veroorzaakt wordt door daling / stagnatie van de bestedingen (consumptie, investeringen, export, overheidsbestedingen)\r\n– loon / prijsspiraal: vraag stijgt of aanbod daalt > prijs stijgt > loon stijgt > prijs stijgt > enz. \r\n– de vicieuze cirkel tussen bestedingen en werkloosheid / werkgelegenheid",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij stagnatie / daling van de vraag naar goederen en diensten, de conjunctuur: \r\r\n– conjuncturele werkloosheid die aan de vraagkant veroorzaakt wordt door daling / stagnatie van de bestedingen (consumptie, investeringen, export, overheidsbestedingen)\r\r\n– loon / prijsspiraal: vraag stijgt of aanbod daalt > prijs stijgt > loon stijgt > prijs stijgt > enz. \r\r\n– de vicieuze cirkel tussen bestedingen en werkloosheid / werkgelegenheid",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "fdef608b-2407-464a-8dc6-90150d1318c1",
@@ -475,8 +553,11 @@
 	},
 	{
 		"id": "c8f4b014-843f-49f5-9f94-a19fa955a43b",
-		"title": "De kandidaat betrekt daarbij vergroten van de vraag naar goederen en diensten: \r\n– toename van de bestedingen door het verhogen van de inkomens, het verlagen van de belastingen en sociale premies \r\n– het verhogen van overheidsuitgaven door het aanbesteden (het laten uitvoeren of het laten aannemen) van werken en het verlenen van subsidies \r\n– het verlagen van de prijzen door efficiënter te werken en/of innovatie (de technologische ontwikkelingen)\r\n– loonkosten per eenheid product",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij vergroten van de vraag naar goederen en diensten: \r\r\n– toename van de bestedingen door het verhogen van de inkomens, het verlagen van de belastingen en sociale premies \r\r\n– het verhogen van overheidsuitgaven door het aanbesteden (het laten uitvoeren of het laten aannemen) van werken en het verlenen van subsidies \r\r\n– het verlagen van de prijzen door efficiënter te werken en/of innovatie (de technologische ontwikkelingen)\r\r\n– loonkosten per eenheid product",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "6cb72c21-397f-4278-89ae-25c4ff0b691c",
@@ -485,8 +566,11 @@
 	},
 	{
 		"id": "edddb5d2-e4de-4d89-9636-f477b3b8b8ec",
-		"title": "De kandidaat betrekt maatregelen in het kader van arbeidstijd / bedrijfstijd: – verkorting van de arbeidstijd – verlenging van de bedrijfstijd\r\n- verkorting van de arbeidstijd om meer mensen aan het werk te helpen, (tijdelijke) verlenging van de arbeidstijd bij piekproductie – verlenging van de bedrijfstijd om de productie te vergroten, de vaste kosten per eenheid product te beperken en daardoor goedkoper te produceren",
-		"dirty": true
+		"title": "De kandidaat betrekt maatregelen in het kader van arbeidstijd / bedrijfstijd: – verkorting van de arbeidstijd – verlenging van de bedrijfstijd\r\r\n- verkorting van de arbeidstijd om meer mensen aan het werk te helpen, (tijdelijke) verlenging van de arbeidstijd bij piekproductie – verlenging van de bedrijfstijd om de productie te vergroten, de vaste kosten per eenheid product te beperken en daardoor goedkoper te produceren",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "9922d598-b981-47fb-916a-cf7cf40e9086",
@@ -563,8 +647,11 @@
 	},
 	{
 		"id": "1a75ad59-b215-41b6-9046-65854fb1b7af",
-		"title": "De kandidaat betrekt daarbij consumptie: \r\n– de afhankelijkheid van Nederland van het buitenland voor de consumptie\r\n– de samenstelling van de Nederlandse import, importwaarde: \r\n– de betalingsbalans: - de waarde van de import en export van grondstoffen en eindproducten, goederen en diensten \r\n– de factoren die de omvang van de import bepalen: - assortiment, kosten, kwaliteitsverschillen en natuur \r\n- de factoren die de omvang van de import bepalen: - importquotum, vreemde valuta, wisselkoersen, invoerrechten \r\n– de invloed van wisselkoersen op de prijs van de binnenlandse consumptie \r\n– de Nederlandse import als percentage van het nationale inkomen \r\n– de importquote \r\n– de internationale concurrentiepositie, het tegengaan van concurrentievervalsing (oneerlijke concurrentie door landen en bedrijven), globalisering\r\n– noodzakelijke import \r\n– de belangrijkste toeleverende handelspartners van Nederland \r\n– het relatief grote aandeel van de Europese Unie in de handel van Nederland, de handelspartners, toetreding tot de EU \r\n– de invloed van wisselkoersen op de prijs van de binnenlandse consumptie en het belang van de EMU op de prijsvorming",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij consumptie: \r\r\n– de afhankelijkheid van Nederland van het buitenland voor de consumptie\r\r\n– de samenstelling van de Nederlandse import, importwaarde: \r\r\n– de betalingsbalans: - de waarde van de import en export van grondstoffen en eindproducten, goederen en diensten \r\r\n– de factoren die de omvang van de import bepalen: - assortiment, kosten, kwaliteitsverschillen en natuur \r\r\n- de factoren die de omvang van de import bepalen: - importquotum, vreemde valuta, wisselkoersen, invoerrechten \r\r\n– de invloed van wisselkoersen op de prijs van de binnenlandse consumptie \r\r\n– de Nederlandse import als percentage van het nationale inkomen \r\r\n– de importquote \r\r\n– de internationale concurrentiepositie, het tegengaan van concurrentievervalsing (oneerlijke concurrentie door landen en bedrijven), globalisering\r\r\n– noodzakelijke import \r\r\n– de belangrijkste toeleverende handelspartners van Nederland \r\r\n– het relatief grote aandeel van de Europese Unie in de handel van Nederland, de handelspartners, toetreding tot de EU \r\r\n– de invloed van wisselkoersen op de prijs van de binnenlandse consumptie en het belang van de EMU op de prijsvorming",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "e7ec59ae-eb61-4ef9-ba19-88ad9e3e5418",
@@ -589,8 +676,11 @@
 	},
 	{
 		"id": "ccfbd441-05ff-435a-9101-cd733719bdc6",
-		"title": "De kandidaat betrekt daarbij werkgelegenheid: \r\n– de invloed van export en van import op de werkgelegenheid \r\n– de invloed van de internationale concurrentiepositie op de werkgelegenheid \r\n– Nederland als open economie, (versus een gesloten economie)\r\n– de samenhang tussen internationale arbeidsverdeling en internationale welvaart",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij werkgelegenheid: \r\r\n– de invloed van export en van import op de werkgelegenheid \r\r\n– de invloed van de internationale concurrentiepositie op de werkgelegenheid \r\r\n– Nederland als open economie, (versus een gesloten economie)\r\r\n– de samenhang tussen internationale arbeidsverdeling en internationale welvaart",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "a7462a27-cb84-4df8-aeab-2c61eccc29c2",
@@ -627,8 +717,11 @@
 	},
 	{
 		"id": "9c0e5485-9d2e-4e1d-8137-1fd8542ab0d0",
-		"title": "De kandidaat betrekt daarbij coördinatie van economische politiek: \r\n– bescherming van de concurrentiepositie van de bedrijven in de EU-landen ten opzichte van de bedrijven uit andere landen d.m.v. importquota, contingentering \r\n– bevordering van een eerlijke concurrentie tussen bedrijven binnen de EU \r\n– gemeenschappelijke afspraken over het begrotingsbeleid van de nationale overheden: - tekort beperken - belastingpolitiek afstemmen \r\n– milieumaatregelen binnen EU-verband \r\n– de rol van de Europese Centrale Bank: het bewaken van de interne waarde van de euro met name ten aanzien van de inflatie en externe waarde van de euro (de wisselkoers) - bankbiljettencirculatie - rente vaststellen - waarde van de euro bewaken \r\n– het belang van de waarde van de euro in relatie tot dollar, yen en pond. (N.B. het is niet de bedoeling te vragen naar kwantitatieve effecten op het binnenlands prijspeil en dergelijke.)",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij coördinatie van economische politiek: \r\r\n– bescherming van de concurrentiepositie van de bedrijven in de EU-landen ten opzichte van de bedrijven uit andere landen d.m.v. importquota, contingentering \r\r\n– bevordering van een eerlijke concurrentie tussen bedrijven binnen de EU \r\r\n– gemeenschappelijke afspraken over het begrotingsbeleid van de nationale overheden: - tekort beperken - belastingpolitiek afstemmen \r\r\n– milieumaatregelen binnen EU-verband \r\r\n– de rol van de Europese Centrale Bank: het bewaken van de interne waarde van de euro met name ten aanzien van de inflatie en externe waarde van de euro (de wisselkoers) - bankbiljettencirculatie - rente vaststellen - waarde van de euro bewaken \r\r\n– het belang van de waarde van de euro in relatie tot dollar, yen en pond. (N.B. het is niet de bedoeling te vragen naar kwantitatieve effecten op het binnenlands prijspeil en dergelijke.)",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "ae26bfbe-a024-4d54-97a2-84cc5122e045",
@@ -640,8 +733,11 @@
 	},
 	{
 		"id": "048f9a12-c3be-4424-9c48-07da88f43bc2",
-		"title": "De kandidaat betrekt daarbij kenmerken van economische (onder)ontwikkeling: \r\n– de kenmerken van onderontwikkeling zijn bijvoorbeeld: - laag inkomen per hoofd van de bevolking - grote werkloosheid - ondervoeding - snelle bevolkingsgroei - analfabetisme - beperkte technische ontwikkeling - eenzijdige economische structuur - slechte positie op de wereldmarkt, o.a. door monoculturen - ongelijke inkomensverdeling",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij kenmerken van economische (onder)ontwikkeling: \r\r\n– de kenmerken van onderontwikkeling zijn bijvoorbeeld: - laag inkomen per hoofd van de bevolking - grote werkloosheid - ondervoeding - snelle bevolkingsgroei - analfabetisme - beperkte technische ontwikkeling - eenzijdige economische structuur - slechte positie op de wereldmarkt, o.a. door monoculturen - ongelijke inkomensverdeling",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "cddacbbb-6b8c-4a45-816a-8a4db6020fc9",
@@ -653,13 +749,19 @@
 	},
 	{
 		"id": "82440bdb-b124-4cf3-ac57-33a53a0f3aac",
-		"title": "De kandidaat betrekt daarbij oorzaken en gevolgen van economische (onder)ontwikkeling: \r\n– de oorzaken van onderontwikkeling zijn bijvoorbeeld: - tekort aan natuurlijke hulpbronnen - beperkte scholing en technische kennis - gebrekkige infrastructuur - snelle bevolkingsgroei - protectionisme van de rijke landen - internationale schuldverplichtingen - rampen en conflicten - politieke instabiliteit\r\n- de gevolgen van onderontwikkeling zijn bijvoorbeeld: - armoede - werkloosheid - lage levensverwachting - internationale schuldenproblematiek - politieke instabiliteit",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij oorzaken en gevolgen van economische (onder)ontwikkeling: \r\r\n– de oorzaken van onderontwikkeling zijn bijvoorbeeld: - tekort aan natuurlijke hulpbronnen - beperkte scholing en technische kennis - gebrekkige infrastructuur - snelle bevolkingsgroei - protectionisme van de rijke landen - internationale schuldverplichtingen - rampen en conflicten - politieke instabiliteit\r\r\n- de gevolgen van onderontwikkeling zijn bijvoorbeeld: - armoede - werkloosheid - lage levensverwachting - internationale schuldenproblematiek - politieke instabiliteit",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "115ece55-cdae-4390-80f5-e4df240e99ce",
-		"title": "De kandidaat betrekt daarbij economische onderontwikkeling als een vicieuze cirkel: \r\n– een voorbeeld van een vicieuze cirkel: als gevolg van een laag inkomen per hoofd van de bevolking kan weinig gespaard en geïnvesteerd worden. Hierdoor is slechts een geringe uitbreiding van de productie(capaciteit) mogelijk waardoor het inkomen per hoofd van de bevolking laag blijft",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij economische onderontwikkeling als een vicieuze cirkel: \r\r\n– een voorbeeld van een vicieuze cirkel: als gevolg van een laag inkomen per hoofd van de bevolking kan weinig gespaard en geïnvesteerd worden. Hierdoor is slechts een geringe uitbreiding van de productie(capaciteit) mogelijk waardoor het inkomen per hoofd van de bevolking laag blijft",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "26bf34c9-c9ca-48cc-83ba-37c956db70bc",
@@ -671,8 +773,11 @@
 	},
 	{
 		"id": "6c5822ce-fb74-4acd-a4da-b8a85c4a47b9",
-		"title": "De kandidaat betrekt daarbij het nationaal inkomen per hoofd van de bevolking als gebrekkige maatstaf voor internationale welvaartsvergelijking: \r\n– het nationale inkomen (per hoofd van de bevolking) is een gebrekkige maatstaf, er wordt bijvoorbeeld geen rekening gehouden met: - zelfvoorziening - ongelijke inkomensverdeling - onbetaalde productie, zoals vrijwilligerswerk - factoren zoals de situatie in de gezondheidszorg, het analfabetisme - prijspeil van het land",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij het nationaal inkomen per hoofd van de bevolking als gebrekkige maatstaf voor internationale welvaartsvergelijking: \r\r\n– het nationale inkomen (per hoofd van de bevolking) is een gebrekkige maatstaf, er wordt bijvoorbeeld geen rekening gehouden met: - zelfvoorziening - ongelijke inkomensverdeling - onbetaalde productie, zoals vrijwilligerswerk - factoren zoals de situatie in de gezondheidszorg, het analfabetisme - prijspeil van het land",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "e5a6d600-4b9a-4a55-9fa0-69cafb58d78f",
@@ -700,28 +805,43 @@
 	},
 	{
 		"id": "bfe541e3-9013-4879-ab16-1f8e757b021e",
-		"title": "De kandidaat berekt daarbij inkomen: \r\n– de invloed op het inkomen in ontwikkelingslanden bijvoorbeeld door: - hulp bij de verbetering van de landbouw en industrie - aankoop van producten in ontwikkelingslanden - grondstofovereenkomsten",
-		"dirty": true
+		"title": "De kandidaat berekt daarbij inkomen: \r\r\n– de invloed op het inkomen in ontwikkelingslanden bijvoorbeeld door: - hulp bij de verbetering van de landbouw en industrie - aankoop van producten in ontwikkelingslanden - grondstofovereenkomsten",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "7706a658-b5fa-457e-9300-9dce6d39d888",
-		"title": "De kandidaat betrekt daarbij bestedingsmogelijkheden: \r\n– de invloed op de bestedingsmogelijkheden in ontwikkelingslanden bijvoorbeeld door: - giften bij acties - noodhulp - buitenlandse investeringen - noodhulp, structurele hulp, bilaterale hulp, gebonden hulp, ongebonden hulp - (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij bestedingsmogelijkheden: \r\r\n– de invloed op de bestedingsmogelijkheden in ontwikkelingslanden bijvoorbeeld door: - giften bij acties - noodhulp - buitenlandse investeringen - noodhulp, structurele hulp, bilaterale hulp, gebonden hulp, ongebonden hulp - (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "ce702c3f-4fbc-477e-bd68-8734a9d60134",
-		"title": "De kandidaat betrekt daarbij de maatregelen: \r\n– de rol van de Verenigde Naties in het bevorderen van de vrije wereldhandel en in de strijd tegen armoede en onderontwikkeling, met name de rol van aan de VN gelieerde organisaties zoals het Internationale Monetaire Fonds (IMF), de Wereldbank en de Wereld Handels Organisatie (WHO)\r\n – internationale hulp \r\n– (gunstige) voorwaarden bij kredietverlening met zogenoemde zachte leningen en de betekenis van het verstrekken van microkredieten (kredietkosten) in de strijd tegen de armoede \r\n– bevorderen van vrije wereldhandel – handelsovereenkomsten – grondstofovereenkomsten",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij de maatregelen: \r\r\n– de rol van de Verenigde Naties in het bevorderen van de vrije wereldhandel en in de strijd tegen armoede en onderontwikkeling, met name de rol van aan de VN gelieerde organisaties zoals het Internationale Monetaire Fonds (IMF), de Wereldbank en de Wereld Handels Organisatie (WHO)\r\r\n – internationale hulp \r\r\n– (gunstige) voorwaarden bij kredietverlening met zogenoemde zachte leningen en de betekenis van het verstrekken van microkredieten (kredietkosten) in de strijd tegen de armoede \r\r\n– bevorderen van vrije wereldhandel – handelsovereenkomsten – grondstofovereenkomsten",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "6c03a8cf-a58a-4d7d-91ec-9ef7b7947a76",
-		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: \r\n– noodhulp – financiële hulp – kennis \r\n– de genoemde maatregelen en het Nederlandse ontwikkelingsbeleid hebben effecten op: - werkgelegenheid - inkomen - bestedingen\r\n– de overheid is verantwoordelijk voor bijvoorbeeld: - ontwikkelingssamenwerking - internationale overeenkomsten \r\n– particulieren zijn verantwoordelijk voor bijvoorbeeld: - eigen activiteiten\r\n– non gouvernementele organisaties",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: \r\r\n– noodhulp – financiële hulp – kennis \r\r\n– de genoemde maatregelen en het Nederlandse ontwikkelingsbeleid hebben effecten op: - werkgelegenheid - inkomen - bestedingen\r\r\n– de overheid is verantwoordelijk voor bijvoorbeeld: - ontwikkelingssamenwerking - internationale overeenkomsten \r\r\n– particulieren zijn verantwoordelijk voor bijvoorbeeld: - eigen activiteiten\r\r\n– non gouvernementele organisaties",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "d8d0b9fb-6b34-44b4-9eb8-a3eb7f3893f7",
-		"title": "De kandidaat betrekt daarbij invloed op overheid: \r\n– onderscheid tussen noodhulp (korte termijn) en structurele hulp (lange termijn) \r\n– onderscheid tussen hulp in relatieve en absolute zin en de gevolgen voor de overheid en de ontwikkelingslanden",
-		"dirty": true
+		"title": "De kandidaat betrekt daarbij invloed op overheid: \r\r\n– onderscheid tussen noodhulp (korte termijn) en structurele hulp (lange termijn) \r\r\n– onderscheid tussen hulp in relatieve en absolute zin en de gevolgen voor de overheid en de ontwikkelingslanden",
+		"dirty": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"id": "32b20a8b-cadc-4ef2-9370-7b3c8ca5c691",
@@ -23854,6 +23974,19 @@
 		"prefix": "MUZ/V/A/A3/jazz-blues",
 		"title": "Historische ontwikkeling van de blues: worksongs en blues.",
 		"id": "c5fa42f9-c580-4c8b-885d-a596914b69ad",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "",
+		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden:\r\n– het milieu: - de eigen gezondheid en die van anderen\r\n– de werkgelegenheid: - in eigen land versus andere landen\r\n– de ontwikkelingslanden: - bijvoorbeeld kinderarbeid\r\n- het milieu, positieve en negatieve externe effecten",
+		"id": "4a76fc50-21ee-4fac-b5a2-7ba6e6185779",
+		"unreleased": true
+	},
+	{
+		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden: het milieu, positieve en negatieve externe effecten.",
+		"id": "f0150827-d37d-44b7-bc68-878ebc2a1167",
 		"unreleased": true
 	}
 ]
