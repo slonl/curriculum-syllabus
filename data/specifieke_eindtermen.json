@@ -305,7 +305,7 @@
 	{
 		"id": "6aa5177d-319a-4582-868b-7660b724198e",
 		"prefix": "EC/K/5A.4a",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: \r\n- het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS en UWV werkbedrijf).\r\n- de over het land ongelijke verdeelde werkloosheid: regionale werkloosheid\r\n- de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid\r\n- de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid\r\n- taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling; werkloosheidsregistratie; regelen werkloosheidsuitkering; verwijzing naar mogelijke werkgevers; ondersteuning bij scholing\r\n- de werkloosheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid en het niet of niet officieel vervullen van vacatures",
+		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: \r\r\n- het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS en UWV werkbedrijf).\r\r\n- de over het land ongelijke verdeelde werkloosheid: regionale werkloosheid\r\r\n- de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid\r\r\n- de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid\r\r\n- taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling; werkloosheidsregistratie; regelen werkloosheidsuitkering; verwijzing naar mogelijke werkgevers; ondersteuning bij scholing\r\r\n- de werkloosheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid en het niet of niet officieel vervullen van vacatures",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
@@ -479,7 +479,7 @@
 	{
 		"id": "a6b113b9-2f93-41d1-957d-7397f8c3b5dd",
 		"prefix": "EC/K/7.3a",
-		"title": "De kandidaat kan oorzaken en gevolgen van onderontwikkeling in ontwikkelingslanden noemen en de invloed van internationale handel op de welvaartsverdeling in de wereld beschrijven: \r\r\nde welvaartsverdeling in de wereld blijft ongelijk: langzame groei van de welvaart in de ontwikkelingslanden, (economische groei) - snelle groei van de welvaart in de rijke landen.",
+		"title": "De kandidaat kan oorzaken en gevolgen van onderontwikkeling in ontwikkelingslanden noemen en de invloed van internationale handel op de welvaartsverdeling in de wereld beschrijven: \r\r\r\nde welvaartsverdeling in de wereld blijft ongelijk: langzame groei van de welvaart in de ontwikkelingslanden, (economische groei) - snelle groei van de welvaart in de rijke landen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
@@ -525,13 +525,15 @@
 	{
 		"id": "7b8290d7-dd33-44e2-9213-13636828c69f",
 		"prefix": "EC/K/7.4",
-		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden",
+		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden",
 		"syllabus_toelichting_id": [
 			"e5a6d600-4b9a-4a55-9fa0-69cafb58d78f",
 			"81f533e8-dbaf-4518-ad8a-c962f453410e",
 			"7a6385c5-9216-44b5-b1c7-11f56932be45"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"id": "9cb04163-221d-4e10-b92a-95a901b9ecb5",
