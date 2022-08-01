@@ -62,7 +62,9 @@
 		"syllabus_toelichting_id": [
 			"02438cdd-2dcf-4fbf-94a8-0a9a2cb89bd5",
 			"eb431d88-5f88-47f9-977a-9f282743197c",
-			"1fe18e06-4530-4e64-830f-60e1fb95f79b"
+			"1fe18e06-4530-4e64-830f-60e1fb95f79b",
+			"539a5eca-a1b0-4434-9ca6-56c055113de1",
+			"388f2831-7b8b-42f1-8e66-6bb60c3f40aa"
 		],
 		"dirty": true
 	},
@@ -137,7 +139,9 @@
 			"fdab71e2-7c72-425c-852e-36619c4da707",
 			"bd414ab5-83f5-4ed8-8ea7-c6f603a5c58b",
 			"bbfb414a-4934-4a15-b317-21289ca5f4f3",
-			"440d38b2-866d-4eca-a636-8a1d7f69e7b2"
+			"440d38b2-866d-4eca-a636-8a1d7f69e7b2",
+			"4a76fc50-21ee-4fac-b5a2-7ba6e6185779",
+			"f0150827-d37d-44b7-bc68-878ebc2a1167"
 		],
 		"dirty": true
 	},
@@ -318,8 +322,8 @@
 	},
 	{
 		"id": "00d0a585-8120-4fa3-bc5a-1e4090e8ac0c",
-		"prefix": "EC/K/5A.4",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS (en UWV werkbedrijf). \n",
+		"prefix": "EC/K/5A.4a",
+		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: \r\n- het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS (en UWV werkbedrijf). \r\n- de over het land ongelijke verdeelde werkloosheid: regionale werkloosheid\r\n- de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid\r\n- de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid\r\n- taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling; werkloosheidsregistratie; regelen werkloosheidsuitkering; verwijzing naar mogelijke werkgevers; ondersteuning bij scholing\r\n- de werkloosheidscijfers/werkgelegenheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid/werkgelegenheid en het niet of niet officieel vervullen van vacatures",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
@@ -331,7 +335,8 @@
 			"86eb6c21-3dff-4fac-a8e4-0a979ca64ed3",
 			"a9ef2411-94eb-4f03-b1ef-7191a13a2286"
 		],
-		"dirty": true
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "3accafcb-dd28-4de1-b8d8-84ba4975eb57",
@@ -380,12 +385,14 @@
 	},
 	{
 		"id": "2e874201-c54b-4edc-aeea-3c13ac5d2ec1",
-		"prefix": "EC/K/5A.6",
+		"prefix": "EC/K/5A.6a",
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de kandidaat weet dat er verschil bestaat tussen bedrijfskosten (onderdeel van de verkoopprijs) en de kosten/opbrengsten die niet in de verkoopprijs zijn opgenomen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "85556d99-2426-4cfb-ade9-e11e155a1840",
@@ -503,7 +510,7 @@
 	{
 		"id": "f96b86ac-0998-4b76-a808-4181784f9268",
 		"prefix": "EC/K/7.3b",
-		"title": "De kandidaat kan oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: \n– de oorzaken van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - lage wereldmarktprijzen - de invoerrechten van de rijke landen \n– de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - de immigratie in de rijke landen - lage wereldmarktprijzen (gevolgen voor de ruilvoet)(N.B. geen berekening) - de emigratie naar de rijke landen - geldstroom van arm naar rijk vanwege de schulden.",
+		"title": "De kandidaat kan oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: \r\n– de oorzaken van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - lage wereldmarktprijzen - de invoerrechten van de rijke landen \r\n– de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: - de immigratie in de rijke landen - lage wereldmarktprijzen (gevolgen voor de ruilvoet)(N.B. geen berekening) - de emigratie naar de rijke landen - geldstroom van arm naar rijk vanwege de schulden.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
@@ -512,7 +519,8 @@
 			"26bf34c9-c9ca-48cc-83ba-37c956db70bc",
 			"6c5822ce-fb74-4acd-a4da-b8a85c4a47b9"
 		],
-		"dirty": true
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "7b8290d7-dd33-44e2-9213-13636828c69f",
@@ -528,13 +536,15 @@
 	{
 		"id": "9cb04163-221d-4e10-b92a-95a901b9ecb5",
 		"prefix": "EC/K/7.4",
-		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden\r\n– (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden \r\n– grondstofovereenkomsten/buffervoorraden",
+		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden\r\r\n– (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden \r\r\n– grondstofovereenkomsten/buffervoorraden",
 		"syllabus_toelichting_id": [
 			"e5a6d600-4b9a-4a55-9fa0-69cafb58d78f",
 			"bfe541e3-9013-4879-ab16-1f8e757b021e",
 			"7706a658-b5fa-457e-9300-9dce6d39d888"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"id": "8c36f08c-10c3-43b2-8536-440bcc221a64",
@@ -53083,6 +53093,28 @@
 		],
 		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen dagelijks leven het belang van de Europese Unie en Europese Monetaire Unie beschrijven:\r\n- de lidstaten van de Europese Unie (EU) en van de eurozone (EMU)\r\n- vrij verkeer van goederen, diensten, personen en kapitaal.",
 		"id": "0710fa6f-ce6a-4491-a266-a9efecadb288",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A.6b",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
+		"id": "3bec18f4-9f24-46dc-9292-d161839c89fc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A.6c",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, die worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
+		"id": "e9a9ae69-694f-4f21-9d98-c1065e851688",
 		"unreleased": true
 	}
 ]
