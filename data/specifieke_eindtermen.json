@@ -3865,12 +3865,13 @@
 	{
 		"id": "516a3caf-b559-4d57-8027-f288098ec4df",
 		"prefix": "AK/K/8/18.3",
-		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.\nBraindrain.",
+		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.\r\nBraindrain.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "2fe7596f-bb7b-43b4-a920-9c7ef580b069",
@@ -53117,6 +53118,256 @@
 		],
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, die worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
 		"id": "e9a9ae69-694f-4f21-9d98-c1065e851688",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/3/3.3c",
+		"examenprogramma_eindterm_id": [
+			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
+		],
+		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
+		"id": "7ab904ea-70bc-49d0-a2e9-07eb59d6e117",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/4/5.1",
+		"examenprogramma_eindterm_id": [
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"syllabus_vakbegrip_id": [
+			"bc1b7574-f72d-4b7c-b0f8-b350d0a71cc4",
+			"6f2e65a3-e60a-4714-92de-69fec4100188"
+		],
+		"title": "De kandidaat kan het weer in Nederland beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren.",
+		"id": "aeb7e32b-18de-4130-85d0-265934b903f3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/4/5.3",
+		"examenprogramma_eindterm_id": [
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"syllabus_vakbegrip_id": [
+			"8238bf39-2c38-4d54-8f62-334ab08c4746"
+		],
+		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.",
+		"id": "6317dbc7-dbcf-4da2-8d42-1b03b5d7997b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/4/5.5",
+		"examenprogramma_eindterm_id": [
+			"56af26ec-a03f-48e3-bf32-e036c3cb4ee6"
+		],
+		"syllabus_vakbegrip_id": [
+			"1c3f6b75-f6bb-4a50-bc27-18fb1984f7a7",
+			"aeffe58b-dc8a-4342-b091-d9119e06901c"
+		],
+		"syllabus_toelichting_id": [
+			"2506e51f-dcc3-46ed-b35f-034b8b68c9e3"
+		],
+		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland (West-Europa) beschrijven en verklaren.\r\nDrainage en vormen van irrigatie",
+		"id": "b4a118d6-11a6-4b98-976c-4625c7dc66de",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/4/6.2",
+		"examenprogramma_eindterm_id": [
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"syllabus_vakbegrip_id": [
+			"da226e22-909f-42a1-9468-05c91a684a65",
+			"f0486dd4-2337-4620-8dfb-651225bf5fa0",
+			"bb89b06f-17e2-48c4-b69b-e9105e7dce7b",
+			"0b3ec86e-ac3e-4143-aebd-fefa3575848b"
+		],
+		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.",
+		"id": "2623f23b-ccab-453e-83ba-4004e2d2684b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/4/6.3",
+		"examenprogramma_eindterm_id": [
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
+		],
+		"syllabus_vakbegrip_id": [
+			"481ba663-23ce-4556-b619-e4ce23673e09"
+		],
+		"syllabus_toelichting_id": [
+			"aeb5be10-904e-4151-bc29-66ffa371247f"
+		],
+		"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\r\nLoef- en lijzijde (regenschaduw).",
+		"id": "4f13f878-b4c0-45a9-a4cc-92e3ddbc1f24",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/6/11.1",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"9cb7b74f-2e29-4e5e-822f-baf08871a56a"
+		],
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven.",
+		"id": "63ddb231-7935-43f2-8925-0507e78eb386",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/6/11.2",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"b2d2f005-bf3b-434e-ac0d-b1fda2c2bbe2",
+			"ed08d969-d132-40e3-9188-b9e26f26d736",
+			"492ac6f0-dfdc-45a9-bff3-bda69e2157c0"
+		],
+		"title": "De kandidaat kan drinkwaterwinning en watergebruik in Nederland beschrijven en verklaren",
+		"id": "16f34011-45bb-40d9-81ce-94c80bed4f94",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/6/11.5",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"6cefb05b-5197-4c16-92e2-07040fdc1915",
+			"e9d4b465-2382-4b61-855f-28e6fd77f379",
+			"1f595210-f8cb-4b95-bec1-a87ac00b190f"
+		],
+		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.",
+		"id": "efac5b11-4828-4ff5-9873-3608312ceae5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/6/11.6",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"75f1a1a1-3a1c-4ccd-8289-b0ad0a2de9e5",
+			"19588244-1c53-432f-8881-aeeff64d3ba0"
+		],
+		"title": "De kandidaat kan waterbeheer en (duurzame) maatregelen tegen wateroverlast en watertekort in Nederland beschrijven.",
+		"id": "6e4fe1c2-d25a-4da4-9928-f36a7ff78d71",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/6/12.5",
+		"examenprogramma_eindterm_id": [
+			"7ff69461-6922-418f-9ae2-948a8a86936c"
+		],
+		"syllabus_vakbegrip_id": [
+			"68a78713-abd3-4282-88e8-39d5276c7f44",
+			"fece7eee-9568-40e0-ae32-b8596968d28d"
+		],
+		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en de ruimtelijke gevolgen daarvan beschrijven en verklaren.",
+		"id": "351c5a8d-a8bf-4ef9-ae3f-26e3bdba9d44",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/17.1",
+		"examenprogramma_eindterm_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
+		],
+		"syllabus_vakbegrip_id": [
+			"d171545e-8e25-4f36-989c-93049e42467d",
+			"21581c69-c321-42f5-a052-e7ac782156e5",
+			"3e36b656-19ff-463f-b506-195369f08a58",
+			"bd9917d5-8402-41cf-a1e7-25ca13b03f0c",
+			"998bb30a-fb12-4b7b-9d7c-4e1f37e6d67f"
+		],
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland vanaf 1945 op hoofdlijnen beschrijven en verklaren.",
+		"id": "c4d136cc-8405-4f10-8a5f-72194d19c1af",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/17.2",
+		"examenprogramma_eindterm_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
+		],
+		"syllabus_vakbegrip_id": [
+			"374b444d-91f3-4d9d-a32e-818175b50ba6"
+		],
+		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1945 in Nederland beschrijven.",
+		"id": "6c7fc7d6-59f4-4585-ba93-06cea6b28318",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/17.4",
+		"examenprogramma_eindterm_id": [
+			"35c01a1f-1ad2-48da-98fa-8ba88d76c639"
+		],
+		"syllabus_vakbegrip_id": [
+			"ec325942-434f-4a42-bbed-cffd11023bb7",
+			"bdaa0f14-cd1f-4945-8a1e-8a541dcc5191",
+			"5ce95bed-b3d9-41a5-b403-a5d25858005b",
+			"7b1041b4-88c0-41ab-a489-01ed0de7e5c0",
+			"de15e9c2-b508-4f58-bd3e-97a4380b5460",
+			"8c74a482-269b-4e71-bd77-870d3cf371e2"
+		],
+		"syllabus_toelichting_id": [
+			"c84dfe0b-dc10-4587-aad7-7519a68ed5cd"
+		],
+		"title": "De kandidaat kan de veranderingen vanaf 1945 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden en leefbaarheid in Nederland op hoofdlijnen beschrijven.",
+		"id": "25a81935-ff52-4dec-9858-de95b1079aa1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/18.1",
+		"examenprogramma_eindterm_id": [
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		],
+		"syllabus_vakbegrip_id": [
+			"c7a80b4c-fd4a-45df-ba0e-a3ae4133b0d1"
+		],
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking vanaf 1980 in China op hoofdlijnen beschrijven en verklaren.",
+		"id": "f9736e28-cde5-4303-9375-cfc259b07eed",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/18.2",
+		"examenprogramma_eindterm_id": [
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		],
+		"syllabus_vakbegrip_id": [
+			"328583d2-4aa9-421e-bfe1-063359f5a081"
+		],
+		"title": "De kandidaat kan de omvang en de richting van binnenlandse migratie en de ontwikkeling daarin vanaf 1980 op hoofdlijnen in China beschrijven en verklaren.",
+		"id": "86cf12bc-e4df-4c9f-83ee-0b22a8adb669",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "AK/K/8/18.5",
+		"examenprogramma_eindterm_id": [
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		],
+		"syllabus_vakbegrip_id": [
+			"085d094d-1fcc-4df3-be6b-8461744e6aa8"
+		],
+		"syllabus_toelichting_id": [
+			"3808b5d5-df95-4e92-9641-8eec7ec3f3c1"
+		],
+		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking vanaf 1980 in China voor wonen, werken, verkeer en milieu beschrijven.\r\nHutong.",
+		"id": "9ea6a3fd-6427-4dce-97d0-60780e0868b1",
 		"unreleased": true
 	}
 ]
