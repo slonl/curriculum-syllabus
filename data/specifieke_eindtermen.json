@@ -29893,8 +29893,10 @@
 		"examenprogramma_domein_id": [
 			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
 		],
-		"title": "De kandidaat kan zelfstandig een probleemstelling formuleren en komen tot autonoom of toegepast beeldend werk\r\n- voor kandidaten in het vak tekenen betekent dit komen tot tweedimensionale beelden\r\n- voor kandidaten in het vak handenarbeid betekent dit komen tot driedimensionale beelden\r\n- voor kandidaten in het vak textiele werkvormen betekent dit komen tot twee- of driedimensionale beelden in textiel\r\n- voor kandidaten in het vak audiovisuele vormgeving betekent dit komen tot een geënsceneerde sb/ bg (stilstaand beeld/bewegend beeld) of een documentaire",
-		"id": "195b89ea-a487-47e3-b33e-e05065d0c381"
+		"title": "De kandidaat kan zelfstandig een probleemstelling formuleren en komen tot autonoom of toegepast beeldend werk\r\r\n- voor kandidaten in het vak tekenen betekent dit komen tot tweedimensionale beelden\r\r\n- voor kandidaten in het vak handenarbeid betekent dit komen tot driedimensionale beelden\r\r\n- voor kandidaten in het vak textiele werkvormen betekent dit komen tot twee- of driedimensionale beelden in textiel\r\r\n- voor kandidaten in het vak audiovisuele vormgeving betekent dit komen tot een geënsceneerde sb/ bg (stilstaand beeld/bewegend beeld) of een documentaire",
+		"id": "195b89ea-a487-47e3-b33e-e05065d0c381",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
