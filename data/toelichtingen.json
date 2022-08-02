@@ -24067,5 +24067,41 @@
 		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden: het milieu, positieve en negatieve externe effecten.",
 		"id": "f0150827-d37d-44b7-bc68-878ebc2a1167",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "",
+		"title": "Kaartbeeld Nederland: Noordzee",
+		"id": "2506e51f-dcc3-46ed-b35f-034b8b68c9e3",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains",
+		"id": "aeb5be10-904e-4151-bc29-66ffa371247f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "",
+		"title": "Kaartbeeld Nederland: Eems, Maas, IJssel, IJsselmeer, Rijn, Schelde, Waal",
+		"id": "cb74d0b1-2105-45ac-868e-765e112f5a7a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "",
+		"title": "Kaartbeeld Midden-Oosten: Dode Zee, Eufraat, Jordaan, Nijl, Tigris.",
+		"id": "be3d19fb-6b6a-47b4-bf64-69303575561e",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Nederland: 12 Nederlandse provincies, Amsterdam, Den Haag, Groene Hart, Randstad, Rotterdam, Utrecht",
+		"id": "c84dfe0b-dc10-4587-aad7-7519a68ed5cd",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld China: Beijing, Guangzhou (Kanton), Hongkong, Shanghai",
+		"id": "3808b5d5-df95-4e92-9641-8eec7ec3f3c1",
+		"unreleased": true
 	}
 ]
