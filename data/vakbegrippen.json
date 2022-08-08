@@ -7194,5 +7194,55 @@
 		"title": "Gated communities (beveiligde wijken)",
 		"id": "bdb8e6a9-086c-4fed-9090-094c5ea1810e",
 		"unreleased": true
+	},
+	{
+		"title": "dansexpressie/dansimprovisatie",
+		"id": "97cbba4e-f171-4b2f-b889-fdfd46e0daf1",
+		"unreleased": true
+	},
+	{
+		"title": "werelddans",
+		"id": "5fd58ba3-2cab-4fc4-a9db-0e9331378acf",
+		"unreleased": true
+	},
+	{
+		"title": "jazzdans",
+		"id": "1654a257-e216-4ee9-acd6-cea883496380",
+		"unreleased": true
+	},
+	{
+		"title": "tap",
+		"id": "8d364b6e-44fa-49cc-b4d7-2318cd01dd32",
+		"unreleased": true
+	},
+	{
+		"title": "show-musicaldans",
+		"id": "0cddc8ac-7728-48a5-bce9-0997f1c941ca",
+		"unreleased": true
+	},
+	{
+		"title": "klassieke dans",
+		"id": "9568f717-203b-404d-9dca-f334a760e12a",
+		"unreleased": true
+	},
+	{
+		"title": "klassiek ballet",
+		"id": "b20e4647-d8aa-4301-842f-f184a88f1051",
+		"unreleased": true
+	},
+	{
+		"title": "academische dans",
+		"id": "de89833a-bea5-4fb4-9856-41822fdf01a1",
+		"unreleased": true
+	},
+	{
+		"title": "moderne dans",
+		"id": "05869e21-ab7b-4e55-960e-c07f74fde890",
+		"unreleased": true
+	},
+	{
+		"title": "urban dans",
+		"id": "8d7b8129-3c86-46a7-9af3-a563501b946c",
+		"unreleased": true
 	}
 ]
