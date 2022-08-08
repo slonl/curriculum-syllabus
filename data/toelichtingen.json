@@ -2633,7 +2633,7 @@
 		"description": "Functies van drama",
 		"ce_se": "CE",
 		"prefix": "DR/K/8/8a",
-		"title": "Functies van drama: - informeren / leren, bijvoorbeeld: educatief kindertheater over dieren - amuseren, bijvoorbeeld: het vertellen van een mop in de klas - overtuigen, bijvoorbeeld: maatschappij kritisch cabaret - overhalen om iets te doen, bijvoorbeeld: een reclamespot",
+		"title": "Functies van drama: \r\n- informeren / leren, bijvoorbeeld: educatief kindertheater over dieren - amuseren, bijvoorbeeld: het vertellen van een mop in de klas\r\n- overtuigen, bijvoorbeeld: maatschappij kritisch cabaret\r\n - overhalen om iets te doen, bijvoorbeeld: een reclamespot",
 		"id": "34494e75-4cad-423f-97a6-5361d8fac332",
 		"dirty": true
 	},
@@ -24322,6 +24322,55 @@
 	{
 		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de Afro-Amerikaanse en de witte bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
 		"id": "54cd3931-2c51-4f5c-90a6-8905e73c8642",
+		"unreleased": true
+	},
+	{
+		"description": "werkelijkheid",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Nabootsing: een directe verwijzing naar de werkelijkheid, bijvoorbeeld: Zoon komt 's avonds na een feestje pas om 3 uur thuis. Vader zit in de woonkamer hem op te wachten en is boos, want de zoon is veel te laat.",
+		"id": "36b2b745-6d42-41d1-97a5-8c5fa8190b5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Typering: één eigenschap uit de werkelijkheid wordt gekozen en vergroot vormgegeven, bijvoorbeeld: De agressiviteit van de vader die zijn zoon uitfoetert, wordt vergroot.",
+		"id": "f6418efe-8c4c-4ee2-8d2b-f4fa86d8235b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Omkering: gespeeld wordt met de verwachting van het publiek. Niet het voorspelbare gebeurt, maar juist het omgekeerde, bijvoorbeeld: Vader reageert: Waarom ben je nu al thuis? Je mag pas om zes uur thuiskomen. Mijn huis uit en feesten tot zes uur!",
+		"id": "7dee5b9f-356f-435e-86d2-d982848a579e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Oefensituatie: het oefenen van gedrag in een nagespeelde situatie, rollenspel in een beroepsopleiding of een therapiesessie, bijvoorbeeld: Vader oefent met een andere vader, die de zoon naspeelt, om goed met elkaar en met de situatie om te leren gaan.",
+		"id": "94d5fad6-f1a7-43b0-b9e1-1f9a5e1d5685",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Metafoor: een indirecte verwijzing naar de werkelijkheid, bijvoorbeeld: Vader staat symbool voor de overheid en maakt de regels, zoon staat symbool voor de burger die de regels moet volgen.",
+		"id": "86d66a5c-3d82-40c7-821a-fc9a1af63850",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Vrije verbeelding: verwijzing naar de werkelijkheid die niet vastligt, bijvoorbeeld: De vader-zoon conflictsituatie wordt gespeeld als een sprookje.",
+		"id": "d68fd921-d23b-4898-a5b9-a62ba9f5f467",
+		"unreleased": true
+	},
+	{
+		"description": "andere plaatsen dan het theater",
+		"ce_se": "CE",
+		"title": "Andere plaatsen dan het theater zijn bijvoorbeeld: televisie, internet, op locatie.",
+		"id": "41e4fd6c-1655-4380-bd22-01f2968974b9",
+		"unreleased": true
+	},
+	{
+		"title": "Tot de dramatische technieken om informatie vorm te geven behoren onder andere: \r\n- Fictionalisering, bijvoorbeeld hoe ware gebeurtenissen worden nagespeeld\r\n- Enscenering, bijvoorbeeld hoe een verhaal/ de werkelijkheid in scène wordt gezet \r\n- Verhaalopbouw, bijvoorbeeld de volgorde waarin informatie is geordend \r\n- Rolverdeling, bijvoorbeeld benoemen van de personages in dramaproducties.",
+		"id": "5a327b66-5d1d-4471-9ca5-81996a273d5d",
 		"unreleased": true
 	}
 ]
