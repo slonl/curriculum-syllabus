@@ -16200,5 +16200,61 @@
 		"title": "Syllabus Aardrijkskunde vmbo tl 2023",
 		"id": "cc7ec399-3948-48c7-800d-fafe004cb239",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"5fbc4877-8077-4404-988b-f623203730a2"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0d9b3e9a-bd24-4c04-a85e-97aa981c24e2",
+			"389de267-40ac-48b5-a0ab-46021c45e439",
+			"bae6b1f2-b898-4508-82c7-095bb408a609",
+			"32661cf7-e8ea-453d-9036-61c2a4bd042d",
+			"3f7f9a3c-d633-4059-9e95-5caa4dfa1ad5",
+			"e7e8ae29-b6ef-436e-8d0a-5961651d9dbd",
+			"11cd8799-6f1b-4011-bdfd-77767b8df8da",
+			"14e67c03-cfd2-4fbc-8d3d-eb79a3405194",
+			"86bc3e33-c496-454c-838a-0b5e2b0a1007",
+			"0eefebab-95cc-4685-84a1-a4cc1d945347",
+			"1c472bf8-16ae-482d-bbd0-be88349b8b3f",
+			"fb303fa5-ffe7-44ff-b7c5-5ba17829b8e2",
+			"3020f44b-8b41-490b-a0ef-1790f18243e3",
+			"71a4dd3a-f4ce-403f-bc04-cc5bf22fa19d",
+			"b93e2430-ce4d-48b4-bda2-5ada546792c4",
+			"048f2f56-d43c-44ca-a043-826c48606282",
+			"6b529fb9-8ca0-49f1-bdf4-0e16323c7cfe",
+			"a9918c00-effd-4bc2-a0b5-b0523cabf50e",
+			"5e69c299-5aa0-431e-9aef-010ae31c1265",
+			"1b4a5892-3f26-4216-97a8-bb8f70dedaa1",
+			"720f312c-aecf-4dc6-8804-e2eee4341c5a",
+			"c783f25a-dae7-42c1-9d53-d3159b79f719",
+			"f579c3af-e520-4737-9ec2-52973c0f983e",
+			"676ed461-cfd0-48b7-859c-f3f429d09d57",
+			"b6844d69-7716-43f3-bf28-1be55a999cbb",
+			"27a3db66-502c-4b09-836a-7e6ee1a9f197",
+			"f1949798-89ff-4b18-8891-e00409760418",
+			"4bbc8e81-d4a8-4db6-9c29-d7f923b6005e",
+			"dd68557f-2769-471a-987c-0d4953b183fa",
+			"ee5b03b0-f13e-4c29-b6f5-0b6298782407",
+			"c3d5bdea-ffa2-437b-bdd0-6caff8a07ba8",
+			"be02b030-873e-41d4-8226-4fc5064b9192",
+			"ff6df5ef-4832-4d82-9756-7c66c342de85",
+			"67375e23-2d49-442b-b938-3834c201cdfe",
+			"d08e0656-9621-4c57-b329-25d801b5230f",
+			"dc2c0fb5-98d2-4be4-be62-4a6e7c973c34"
+		],
+		"title": "Syllabus Geschiedenis en staatsinrichting vmbo bb 2022",
+		"id": "51d46591-5a21-46f8-9d6f-4ca78f8c0818",
+		"unreleased": true
 	}
 ]
