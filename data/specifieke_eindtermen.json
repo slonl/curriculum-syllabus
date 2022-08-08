@@ -3865,7 +3865,7 @@
 	{
 		"id": "516a3caf-b559-4d57-8027-f288098ec4df",
 		"prefix": "AK/K/8/18.3",
-		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.\r\nBraindrain.",
+		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.\r\r\nBraindrain.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
@@ -53493,7 +53493,8 @@
 		"ce_se": "CE",
 		"prefix": "AK/K/4/6.3",
 		"examenprogramma_eindterm_id": [
-			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9",
+			"74812d84-8450-49d0-a53c-94ea869a7c5c"
 		],
 		"syllabus_vakbegrip_id": [
 			"481ba663-23ce-4556-b619-e4ce23673e09"
