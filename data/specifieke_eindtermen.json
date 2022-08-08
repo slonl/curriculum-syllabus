@@ -29237,7 +29237,8 @@
 			"5453b3b7-1507-43b6-87cb-b9c2a5deff26",
 			"b069623c-c104-4f7a-be88-6519fde39212",
 			"a14f5020-7884-470e-af6a-1879ae18ed20",
-			"e3eb8bfe-33ec-428b-a76e-af66777bc856"
+			"e3eb8bfe-33ec-428b-a76e-af66777bc856",
+			"8818597f-9c0d-4f38-aa80-fc32ff9e8d75"
 		],
 		"dirty": true,
 		"syllabus_vakbegrip_id": [
@@ -29250,7 +29251,17 @@
 			"b20e4647-d8aa-4301-842f-f184a88f1051",
 			"de89833a-bea5-4fb4-9856-41822fdf01a1",
 			"05869e21-ab7b-4e55-960e-c07f74fde890",
-			"8d7b8129-3c86-46a7-9af3-a563501b946c"
+			"8d7b8129-3c86-46a7-9af3-a563501b946c",
+			"aa17cefd-fe4b-46c6-a80f-f0af017d0ee9",
+			"5806b36a-3367-401a-b916-694c1fb5d9d9",
+			"215d4005-c84a-4ab8-9f7c-74d2b06ee532",
+			"3c1daa7e-f8e9-45b0-958a-05c443b28c55",
+			"1ff5271e-b511-4391-893e-abcb8c13b89c",
+			"7de2e269-b633-4f2e-af0f-63b072cd6427",
+			"95568ddd-e044-4b8a-979d-be9c6351dca7",
+			"25a783a9-2520-4c1c-8414-0bf75ea6cfc4",
+			"b8f3baef-68f8-4a1f-8169-5a1021be841f",
+			"9b375ec2-f037-4d25-aa4c-a7b23d42bc89"
 		]
 	},
 	{
@@ -54014,6 +54025,273 @@
 		],
 		"title": "Urban dans",
 		"id": "c92350f4-048e-40b4-b798-0d3bf9f53473",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.1",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"c286ede5-3c9d-4b49-af27-961b43b6cc73",
+			"bdea349d-89c6-4a72-bf6e-44d074c48e98"
+		],
+		"title": "Dansexpressie - Beschouwen",
+		"id": "dd82c629-d948-4030-a328-9268e6df1dab",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.2",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"05bbabea-7dbe-49a7-918b-8885029f11a3",
+			"3613e554-8b7e-4e46-8d67-31947e80b912"
+		],
+		"title": "Werelddans - Beschouwen",
+		"id": "9b4c3005-f6fc-4fe6-b620-c59852180c57",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.3",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"0ad38975-0967-4115-8e67-3fe7713c45ca",
+			"6930f719-ab4a-4386-820e-87fe7d8e5946"
+		],
+		"title": "Jazzdans - Beschouwen",
+		"id": "8db8b9a1-83d0-4cf2-8e5c-6d14042a8de4",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.4",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"a32fc102-b385-4b8d-9885-cc035d8d5120",
+			"9d6a4f6d-a280-421c-b91b-898d1d5b231f"
+		],
+		"title": "Klassieke dans - Beschouwen",
+		"id": "d5d007d2-34f8-458e-b2e3-0285ba884756",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.5",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"b069623c-c104-4f7a-be88-6519fde39212",
+			"da70af3f-aa8f-477a-b1d0-d67d1099348f"
+		],
+		"title": "Moderne dans - Beschouwen",
+		"id": "974e4fd9-65b2-42f4-9e7f-ecc24ced4490",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7a.6",
+		"examenprogramma_eindterm_id": [
+			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
+		],
+		"syllabus_toelichting_id": [
+			"a27443be-e79d-4d26-b931-43643f337ddd",
+			"0789f33a-aead-4a30-9167-b5a28a397c57"
+		],
+		"title": "Urban dans - Beschouwen",
+		"id": "1e67c27d-76c3-4449-a0e3-3d844dd9566b",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"344de566-f325-4b64-8adc-5f47cb8107c6",
+			"ddc6a1ef-c826-474d-9ff2-f1ed4c551906"
+		],
+		"title": "Danser - Beschouwen",
+		"id": "05554577-fffe-485f-9a73-97c5942474d0",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.2",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"745aaa5a-aab5-45c0-8d59-6a3c52251355",
+			"c10d9e89-4908-49f8-ab08-4404f0250204",
+			"2fc9b097-968b-4f58-abd4-9dbae8221bde",
+			"d912e6de-db99-40ed-b340-2a0ac4dc4385"
+		],
+		"title": "Dans: Danselementen",
+		"id": "33d35e8c-b58d-4486-8b20-242fcc99d34f",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.3",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"6a26dba7-0f9d-4939-9596-a6f4cbfbc528"
+		],
+		"title": "Dans: Lichaam",
+		"id": "45cca8ad-254b-41ba-a0d5-c6e7ebf52ba8",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.4",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"13c1ef55-dabe-4a10-a975-2191f20f3478"
+		],
+		"title": "Dans: Structuur",
+		"id": "0750184c-75b6-45de-bb6f-282f187bc77d",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.5",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"58504cc5-7c58-4083-866b-08e59e1161a9"
+		],
+		"title": "Geluid",
+		"id": "078a5e51-04ca-402e-9fcd-7ff07690fee5",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.6",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"a31e991d-f134-43cc-ab20-44a4cf6fdb8f"
+		],
+		"title": "Ruimte/locatie",
+		"id": "6d6b5ea3-1c89-45c8-84a8-fc29df69f40e",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.7",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"ca81cb8d-c06a-4166-a95e-00ff0b1dd21c",
+			"e8e7bc17-af87-43dc-adab-925d10e07989",
+			"3665ab4f-9915-410a-b697-d3fefb9c2389",
+			"54f7aedd-d00b-4fbc-9726-832acf38e2f1",
+			"f3b5ea22-ad06-4085-a6ba-78f475555acb",
+			"3e2d09a0-31d6-4173-b497-8b69557a8330",
+			"1a774ad4-cf36-4c83-91c2-887fb3475c25",
+			"4be519ff-b44a-4280-af4b-d3e8ec3ea61e",
+			"ef66c081-465c-4fbc-a772-480ee0620dc2"
+		],
+		"title": "Theatrale middelen",
+		"id": "1cef3aa9-4ace-4582-914f-78e3d491a78b",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/7/7b.8",
+		"examenprogramma_eindterm_id": [
+			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
+		],
+		"syllabus_toelichting_id": [
+			"7586dd6d-52c4-4415-bf52-ba07a8a356c6"
+		],
+		"title": "Dansinhoud / betekens",
+		"id": "46bc5cef-ea8d-41d8-85db-caf572e98862",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8a",
+		"examenprogramma_eindterm_id": [
+			"cce9e56f-d4e3-4a88-abb3-8f48be3d1574"
+		],
+		"syllabus_toelichting_id": [
+			"27031c07-03c7-4ad4-ad2d-6e058d917217",
+			"3df6d2de-b83c-43d9-932a-f66e281622a3",
+			"976e5986-5820-4b09-90c0-64c7f6251935",
+			"654684c0-c5b2-4197-bd4f-58e95e1d05d1",
+			"216c8528-9270-4fb0-9cc3-7f16f78e77dd",
+			"2f32a5dc-b86f-43dd-a333-a7f08c2a406b",
+			"d27ea1f2-fd59-4567-881c-f7f1af090d41",
+			"43d80191-d5e3-4f3a-af88-79fc7c889df8"
+		],
+		"title": "Dans en maatschappij",
+		"id": "90cd52f7-3d99-440b-8e9e-099b96454b5b",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8b.1",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"syllabus_toelichting_id": [
+			"d4d521c4-9bb4-4daa-859f-a5cc543fcfcc"
+		],
+		"title": "Rituele dans",
+		"id": "e5723d76-9d56-4fc0-8396-f6d767b22124",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8b.2",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"syllabus_toelichting_id": [
+			"c9acbe64-3c96-41b6-8419-ad30fb9848fb"
+		],
+		"title": "Klassieke dans",
+		"id": "cf6a6d94-6cc9-4c06-9521-e0381b2964b3",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8b.3",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"syllabus_toelichting_id": [
+			"250b4116-ce7f-4fbf-b029-a911164845a5",
+			"865cf1f7-a045-4a82-be52-646a9cd4f1a6",
+			"ebec4cb9-8e30-4058-8804-9e8500cf395d"
+		],
+		"title": "Moderne dans",
+		"id": "25b51519-5f99-4105-adf7-78ca029f8c4e",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8b.4",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"syllabus_toelichting_id": [
+			"0dc2b07c-3bab-4dc6-adb9-1d6cf5a407fc"
+		],
+		"title": "Jazz dans",
+		"id": "c48081ba-2133-4177-a15b-445d1ab42c27",
+		"unreleased": true
+	},
+	{
+		"prefix": "DA/K/8/8b.5",
+		"examenprogramma_eindterm_id": [
+			"3c8d5283-6791-4525-9e94-0393dcb20a48"
+		],
+		"syllabus_toelichting_id": [
+			"a71641a5-2b3a-4dc8-a651-349e85b9f894"
+		],
+		"title": "Urban dans",
+		"id": "dbf125a8-d0c4-443c-a73f-d907247a8529",
 		"unreleased": true
 	}
 ]
