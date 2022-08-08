@@ -3784,8 +3784,10 @@
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "sociaal-economische veranderingen:",
-		"id": "81bf2b0b-6ba8-4347-b3ed-9bd587fa61d1"
+		"title": "sociaal-economische veranderingen",
+		"id": "81bf2b0b-6ba8-4347-b3ed-9bd587fa61d1",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Periode 1848-1914; Geschiedenis van Nederland",
@@ -3910,8 +3912,10 @@
 	{
 		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "rechtstreekse verkiezingen op:",
-		"id": "1a9658e5-88e5-4e98-97ca-cb7626ee93fd"
+		"title": "rechtstreekse verkiezingen op",
+		"id": "1a9658e5-88e5-4e98-97ca-cb7626ee93fd",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Periode 1848-1914; Staatsinrichting van Nederland",
@@ -4252,8 +4256,10 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "Grondwet van 1917:",
-		"id": "40cd374c-8adf-4ac7-a836-67dfbc081c46"
+		"title": "Grondwet van 1917",
+		"id": "40cd374c-8adf-4ac7-a836-67dfbc081c46",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
@@ -4576,8 +4582,10 @@
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "Jaarlijkse herdenkingen:",
-		"id": "f3a85da7-b706-470c-95b7-c96102eff1ec"
+		"title": "Jaarlijkse herdenkingen",
+		"id": "f3a85da7-b706-470c-95b7-c96102eff1ec",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Geschiedenis van Nederland",
@@ -5206,8 +5214,10 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "Centralen:",
-		"id": "99f59585-13d2-4abe-ae23-eeac85866b50"
+		"title": "Centralen",
+		"id": "99f59585-13d2-4abe-ae23-eeac85866b50",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
@@ -5224,8 +5234,10 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "Geallieerden:",
-		"id": "6770e05a-9479-48f8-b1b6-71fadaee406f"
+		"title": "Geallieerden",
+		"id": "6770e05a-9479-48f8-b1b6-71fadaee406f",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
@@ -5800,8 +5812,10 @@
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "oorlog in Azië:",
-		"id": "f5d17144-6b58-4a5c-bf6c-ae27d5122511"
+		"title": "oorlog in Azië",
+		"id": "f5d17144-6b58-4a5c-bf6c-ae27d5122511",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
