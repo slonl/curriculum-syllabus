@@ -53647,5 +53647,61 @@
 		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.",
 		"id": "22f144cf-7cdd-4858-8624-06b466a813df",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/V/1/22.1",
+		"examenprogramma_eindterm_id": [
+			"34618247-e404-4f12-9965-4a49b8c3e9e4"
+		],
+		"syllabus_vakbegrip_id": [
+			"68614301-c49c-4f08-9cbe-100729ede19b"
+		],
+		"title": "De kandidaat kan kenmerken van tropische orkanen en tornado's in de Verenigde Staten beschrijven.",
+		"id": "58300c40-333c-4569-ae8f-14deb88f596b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/V/3/24.1",
+		"examenprogramma_eindterm_id": [
+			"3c0d13c6-9474-4568-84d5-edf052993c72"
+		],
+		"syllabus_vakbegrip_id": [
+			"b2660c2d-c637-4aac-8f84-1f8675ca0f10"
+		],
+		"title": "De kandidaat kan de ligging van grote waterbouwkundige projecten in het Midden-Oosten beschrijven en verklaren.",
+		"id": "fd0582a9-0b93-4987-b010-a516e6999562",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/V/5/26.1",
+		"examenprogramma_eindterm_id": [
+			"0198c336-b31b-48cb-9df7-18f9b412473c"
+		],
+		"syllabus_vakbegrip_id": [
+			"44909855-d0af-4133-bf2a-bf1925d4d838"
+		],
+		"title": "De kandidaat kan de ligging van de stedelijke zones Guangzhou en Shanghai beschrijven en verklaren.",
+		"id": "0a3a8e42-7850-4309-a5c1-e0f9fc96688e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/V/5/26.3",
+		"examenprogramma_eindterm_id": [
+			"0198c336-b31b-48cb-9df7-18f9b412473c"
+		],
+		"syllabus_vakbegrip_id": [
+			"bdb8e6a9-086c-4fed-9090-094c5ea1810e"
+		],
+		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking voor de inrichting en de ruimtelijke kwaliteit van de stedelijke zones Guangzhou en Shanghai beschrijven en verklaren en de overeenkomsten en verschillen tussen de betreffende regio’s beschrijven.",
+		"id": "4bcf8584-d501-4556-8a44-5fb743c92e40",
+		"unreleased": true
 	}
 ]
