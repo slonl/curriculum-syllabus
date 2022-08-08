@@ -24076,9 +24076,12 @@
 		"unreleased": true
 	},
 	{
-		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains.",
+		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains",
 		"id": "aeb5be10-904e-4151-bc29-66ffa371247f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "",
