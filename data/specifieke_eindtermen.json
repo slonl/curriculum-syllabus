@@ -53245,7 +53245,8 @@
 		"syllabus_vakbegrip_id": [
 			"6cefb05b-5197-4c16-92e2-07040fdc1915",
 			"e9d4b465-2382-4b61-855f-28e6fd77f379",
-			"1f595210-f8cb-4b95-bec1-a87ac00b190f"
+			"1f595210-f8cb-4b95-bec1-a87ac00b190f",
+			"f4ccd863-3392-4157-84bc-1f16d24eaa28"
 		],
 		"title": "De kandidaat kan wateroverlast en watertekorten in Nederland en de ruimtelijke effecten daarvan beschrijven en verklaren.",
 		"id": "efac5b11-4828-4ff5-9873-3608312ceae5",
@@ -53370,6 +53371,281 @@
 		],
 		"title": "De kandidaat kan de gevolgen van de snelle verstedelijking vanaf 1980 in China voor wonen, werken, verkeer en milieu beschrijven.\r\nHutong.",
 		"id": "9ea6a3fd-6427-4dce-97d0-60780e0868b1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/5.1",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"syllabus_vakbegrip_id": [
+			"bc1b7574-f72d-4b7c-b0f8-b350d0a71cc4",
+			"6f2e65a3-e60a-4714-92de-69fec4100188",
+			"408f093c-0c74-4b94-a1c6-54d80f6303cb",
+			"a4033cc1-bc5c-4054-81a0-bb959b394a0c"
+		],
+		"title": "De kandidaat kan het weer in Nederland beschrijven aan de hand van de weerelementen temperatuur, neerslag, luchtdruk, wind en bewolking en voor gegeven omstandigheden het weer verklaren met behulp van weer-en klimaatfactoren.",
+		"id": "9b3d336a-8b4b-4846-bd7c-c232b45bb8ae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/5.3",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"syllabus_vakbegrip_id": [
+			"8238bf39-2c38-4d54-8f62-334ab08c4746",
+			"4fc894c7-e1e9-4f63-adc2-5bb2f2f33b28",
+			"aefa5bcd-89c5-4f21-9494-9ba610a0508f",
+			"ab4b5bfc-66e2-4440-8446-7dfe6e201389",
+			"bb89b06f-17e2-48c4-b69b-e9105e7dce7b",
+			"758ccc4d-ad8c-4092-9e2f-d33070149b9a"
+		],
+		"title": "De kandidaat kan de kenmerken van het klimaat in Nederland (West-Europa) en Spanje (Zuid-Europa) beschrijven en verklaren aan de hand van de klimaatfactoren.",
+		"id": "5b1a69b4-4ec9-4d1f-bee6-48b4fec70554",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/5.5",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"syllabus_vakbegrip_id": [
+			"1c3f6b75-f6bb-4a50-bc27-18fb1984f7a7",
+			"3c5a483e-2e11-4076-a233-d499e0363a9f",
+			"6dfb19b0-f4b7-45d5-94d8-160f8510b698",
+			"aeffe58b-dc8a-4342-b091-d9119e06901c",
+			"22dc8586-e152-446e-a30c-ddd95981a51b"
+		],
+		"title": "De kandidaat kan de samenhang tussen klimaat enerzijds en vegetatie en agrarisch bodemgebruik anderzijds in Nederland (West-Europa) en Spanje (Zuid-Europa) beschrijven en verklaren.",
+		"id": "8fc1f26d-37eb-436c-bdb9-daff990ea9df",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/5.6",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"syllabus_vakbegrip_id": [
+			"fa15e145-2527-4cf3-9f5b-73594115970a",
+			"80508c13-359a-4403-bb11-f18d62b0480e",
+			"d87c75b6-a526-40ea-a1e0-614c333a6cbf"
+		],
+		"title": "De kandidaat kan de mogelijke samenhang tussen het versterkt broeikaseffect en klimaatverandering voor Nederland en Spanje beschrijven.",
+		"id": "e62e55b1-7263-4913-bc90-bc9c56db2f24",
+		"unreleased": true
+	},
+	{
+		"prefix": "AK/K/4/5.8",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"title": "De kandidaat kan oorzaken van het versterkt broeikaseffect beschrijven en maatregelen om het versterkt broeikaseffect aan te pakken.",
+		"id": "fbb1e20e-a2bb-4d60-b5ed-e3d49e7c64fb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "AK/K/4/5.9",
+		"examenprogramma_eindterm_id": [
+			"6de9b38f-bf64-4a82-b0bb-260d767c0340"
+		],
+		"syllabus_vakbegrip_id": [
+			"fdf92779-77f4-426e-bf95-d1a8175c72cd",
+			"aa9fe7b0-11e2-4075-a429-8c57e5eb6ad0"
+		],
+		"title": "De kandidaat kan mogelijke maatregelen tegen de gevolgen van het versterkt broeikaseffect voor Nederland en Spanje beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.",
+		"id": "482ca30b-e33a-4281-8312-76ab0d88d72c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/6.2",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"syllabus_vakbegrip_id": [
+			"6f9d2601-92cb-4f60-8204-f7604aff2ca5",
+			"8c77ad03-19ca-43aa-b5b9-6873068400da",
+			"bb89b06f-17e2-48c4-b69b-e9105e7dce7b",
+			"14fe3aa3-a47c-412b-afa1-dc7fe17c7224",
+			"e2a7eeaa-b88d-4a52-adda-aeee72240685",
+			"06c48468-90c7-4725-91c8-c0255fbcb32f",
+			"c2f77beb-bdd2-429a-968f-779a2e144317",
+			"7bbd8d30-cccb-40c1-9308-d1d8561731b2"
+		],
+		"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.",
+		"id": "181abe8b-9438-4f11-88d1-211e4e1fd8a8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/4/6.3",
+		"examenprogramma_eindterm_id": [
+			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
+		],
+		"syllabus_vakbegrip_id": [
+			"481ba663-23ce-4556-b619-e4ce23673e09"
+		],
+		"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\r\nLoef- en lijzijde (regenschaduw).",
+		"id": "ce00d50d-ce80-43d8-8f11-9332adfaa1bc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "AK/K/6/11.1",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"71ec8c76-fdd2-4d99-b00c-b5975a61aaa3",
+			"9cb7b74f-2e29-4e5e-822f-baf08871a56a",
+			"5565c09e-88db-4ef9-a702-4e34c1d7d62d"
+		],
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in Nederland beschrijven en verklaren.",
+		"id": "f1d610a0-af84-43ba-8ebe-677d47426a91",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "AK/K/6/11.6",
+		"examenprogramma_eindterm_id": [
+			"7d7e96e6-9d5d-40dd-a192-671c152b48d8"
+		],
+		"syllabus_vakbegrip_id": [
+			"75f1a1a1-3a1c-4ccd-8289-b0ad0a2de9e5",
+			"19588244-1c53-432f-8881-aeeff64d3ba0"
+		],
+		"title": "De kandidaat kan waterbeheer en (duurzame) maatregelen tegen wateroverlast en watertekort in Nederland en de ruimtelijke effecten daarvan beschrijven en de voor- en nadelen vanuit verschillende dimensies beschrijven.",
+		"id": "47ed4a9d-aaf4-4ee0-8fb9-06fad07399f2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/6/12.1",
+		"examenprogramma_eindterm_id": [
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"syllabus_vakbegrip_id": [
+			"05d00396-ec34-40f6-a699-8f93b3f7abbc",
+			"66180b1c-8875-4c64-a495-a0aa8153db0e"
+		],
+		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"id": "d8268264-9106-46de-b092-2b8294dadf16",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/6/12.5",
+		"examenprogramma_eindterm_id": [
+			"f2531523-a977-4a13-9a70-6c247ff70f3b"
+		],
+		"syllabus_vakbegrip_id": [
+			"68a78713-abd3-4282-88e8-39d5276c7f44",
+			"fece7eee-9568-40e0-ae32-b8596968d28d"
+		],
+		"title": "De kandidaat kan wateroverlast en watertekorten in het Midden-Oosten en China en de ruimtelijke gevolgen daarvan beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.",
+		"id": "1da89caa-5531-440e-8ff6-ca83f8934671",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/8/17.1",
+		"examenprogramma_eindterm_id": [
+			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
+		],
+		"syllabus_vakbegrip_id": [
+			"d02673cd-a49c-42ca-b53c-9e3db3682dae",
+			"d171545e-8e25-4f36-989c-93049e42467d",
+			"21581c69-c321-42f5-a052-e7ac782156e5",
+			"3e36b656-19ff-463f-b506-195369f08a58",
+			"bd9917d5-8402-41cf-a1e7-25ca13b03f0c",
+			"998bb30a-fb12-4b7b-9d7c-4e1f37e6d67f"
+		],
+		"title": "De kandidaat kan de samenstelling, ontwikkeling en spreiding van de bevolking in Nederland en Duitsland vanaf 1945 op hoofdlijnen beschrijven en verklaren en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"id": "9e34a265-d2ff-404f-b4e7-1df0d5cf5655",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/8/17.2",
+		"examenprogramma_eindterm_id": [
+			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
+		],
+		"syllabus_vakbegrip_id": [
+			"f148c427-c4f5-4524-9ff7-578c516f9c00",
+			"374b444d-91f3-4d9d-a32e-818175b50ba6",
+			"5c2bdf22-9235-4deb-bb00-42d4a7f1d8a6"
+		],
+		"title": "De kandidaat kan de omvang en richting van binnenlandse en buitenlandse migratie en de ontwikkeling daarin vanaf 1945 in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"id": "248bae01-3bd5-4132-9a7d-f8bedae09ee1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/8/17.4",
+		"examenprogramma_eindterm_id": [
+			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
+		],
+		"syllabus_vakbegrip_id": [
+			"ec325942-434f-4a42-bbed-cffd11023bb7",
+			"569ab20a-4434-471d-860f-31f4cbf41f8c",
+			"bdaa0f14-cd1f-4945-8a1e-8a541dcc5191",
+			"5ce95bed-b3d9-41a5-b403-a5d25858005b",
+			"7b1041b4-88c0-41ab-a489-01ed0de7e5c0",
+			"de15e9c2-b508-4f58-bd3e-97a4380b5460",
+			"0926f27c-351e-45ea-8654-c1b5ae7dcc88",
+			"8c74a482-269b-4e71-bd77-870d3cf371e2"
+		],
+		"title": "De kandidaat kan de veranderingen vanaf 1945 in de inrichting voor wonen, werken, voorzieningen, recreatie, verkeer en natuur in stedelijke en landelijke gebieden en leefbaarheid in Nederland en Duitsland op hoofdlijnen beschrijven en de verschillen en overeenkomsten tussen beide landen beschrijven en verklaren.",
+		"id": "02534369-194f-4743-bdd6-d814c51a2135",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/8/17.5",
+		"examenprogramma_eindterm_id": [
+			"d84f39b5-25fc-438c-a6a2-bae2149ba9f4"
+		],
+		"syllabus_vakbegrip_id": [
+			"716d17ea-7ac1-4cdd-b6bf-efccbbc9eecc",
+			"670781b3-c78e-461c-a3ca-809e14550c08"
+		],
+		"title": "De kandidaat kan de woonkwaliteit, infrastructuur, bereikbaarheid en voorzieningen in stedelijke gebieden in Nederland en Duitsland beschrijven en de verschillen en overeenkomsten tussen beide gebieden beschrijven en verklaren.",
+		"id": "e554874f-8a64-4682-ab70-2ed8a1dbfc8a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "AK/K/8/18.3",
+		"examenprogramma_eindterm_id": [
+			"c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6"
+		],
+		"syllabus_vakbegrip_id": [
+			"22cf12fa-5543-4d8f-ab3a-6f6034f4def5"
+		],
+		"title": "De kandidaat kan aan de hand van gegeven toekomstverwachtingen van de Chinese bevolkingsontwikkeling in de komende decennia de daarmee samenhangende demografische, sociaaleconomische en ruimtelijke gevolgen beschrijven en verklaren.",
+		"id": "22f144cf-7cdd-4858-8624-06b466a813df",
 		"unreleased": true
 	}
 ]
