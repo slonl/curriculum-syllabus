@@ -7143,5 +7143,39 @@
 		"title": "braindrain",
 		"id": "22cf12fa-5543-4d8f-ab3a-6f6034f4def5",
 		"unreleased": true
+	},
+	{
+		"title": "hurricane",
+		"id": "68614301-c49c-4f08-9cbe-100729ede19b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "hazard management",
+		"id": "69353928-feae-46cc-874b-3e27f631ae10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "risicoperceptie",
+		"id": "e84bc5c3-1617-4a58-8fba-19fc1ed832ab",
+		"unreleased": true
+	},
+	{
+		"title": "Zuidoost-Anatoliëproject",
+		"id": "b2660c2d-c637-4aac-8f84-1f8675ca0f10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "megastad",
+		"id": "44909855-d0af-4133-bf2a-bf1925d4d838",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Gated communities (beveiligde wijken)",
+		"id": "bdb8e6a9-086c-4fed-9090-094c5ea1810e",
+		"unreleased": true
 	}
 ]
