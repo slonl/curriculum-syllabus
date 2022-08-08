@@ -16398,5 +16398,37 @@
 		"title": "Syllabus Beeldende vorming vmbo gl 2023",
 		"id": "f76d4383-faec-444f-9c08-6aa27bcad0d0",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"98074bac-0cd1-47df-86a4-c94e1084ba18"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7461634-68a7-43bc-82c8-1afe8a65bdde"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0a0b98b4-557a-463d-9ac1-7b045b756a94",
+			"e90ff464-419b-4250-a286-9805c50d31b7",
+			"9d22e895-e94d-45dc-9bce-a2646c1f390e",
+			"999c4126-73ac-4d11-9fdf-42d8b9dc1c95",
+			"533abb64-32a5-4468-b5b4-c7360000625e",
+			"709f86d0-61a7-403e-a864-d29a1e30aeab",
+			"abd8fa64-a120-439f-8cf0-47bdf3b301db",
+			"195b89ea-a487-47e3-b33e-e05065d0c381",
+			"c6b33032-c5fc-4ed1-a4f4-71f1d45e704a",
+			"bba8dee6-a8ec-4cf8-9d82-c770554a8ea2",
+			"3a6043cf-aa3f-47b8-a438-ea650cd7095b",
+			"10fbfab6-e202-4b9c-82a2-146be432f285"
+		],
+		"title": "Syllabus Beeldende vorming vmbo tl 2023",
+		"id": "74b38530-bfbc-4879-b9f8-277588ae3e48",
+		"unreleased": true
 	}
 ]
