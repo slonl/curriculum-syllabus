@@ -6925,7 +6925,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Migratiemotieven.",
+		"title": "Migratiemotieven",
 		"id": "374b444d-91f3-4d9d-a32e-818175b50ba6",
 		"unreleased": true
 	},
@@ -6972,6 +6972,176 @@
 	{
 		"title": "hutong",
 		"id": "085d094d-1fcc-4df3-be6b-8461744e6aa8",
+		"unreleased": true
+	},
+	{
+		"title": "uv straling",
+		"id": "408f093c-0c74-4b94-a1c6-54d80f6303cb",
+		"unreleased": true
+	},
+	{
+		"title": "wet van Buys Ballot",
+		"id": "a4033cc1-bc5c-4054-81a0-bb959b394a0c",
+		"unreleased": true
+	},
+	{
+		"title": "globale windsysteem (alleen beschrijven)",
+		"id": "4fc894c7-e1e9-4f63-adc2-5bb2f2f33b28",
+		"unreleased": true
+	},
+	{
+		"title": "hooggebergte klimaat",
+		"id": "aefa5bcd-89c5-4f21-9494-9ba610a0508f",
+		"unreleased": true
+	},
+	{
+		"title": "Mediterraan/Middellandse zeeklimaat",
+		"id": "ab4b5bfc-66e2-4440-8446-7dfe6e201389",
+		"unreleased": true
+	},
+	{
+		"title": "steppeklimaat",
+		"id": "758ccc4d-ad8c-4092-9e2f-d33070149b9a",
+		"unreleased": true
+	},
+	{
+		"title": "intensieve en extensieve landbouw",
+		"id": "3c5a483e-2e11-4076-a233-d499e0363a9f",
+		"unreleased": true
+	},
+	{
+		"title": "neerslagverdeling",
+		"id": "6dfb19b0-f4b7-45d5-94d8-160f8510b698",
+		"unreleased": true
+	},
+	{
+		"title": "waterbalans: (neerlag- verdamping) + (aanvoer - afvoer) en verwoestijning.",
+		"id": "22dc8586-e152-446e-a30c-ddd95981a51b",
+		"unreleased": true
+	},
+	{
+		"title": "broeikasgassen",
+		"id": "fa15e145-2527-4cf3-9f5b-73594115970a",
+		"unreleased": true
+	},
+	{
+		"title": "natuurlijk broeikaseffect",
+		"id": "80508c13-359a-4403-bb11-f18d62b0480e",
+		"unreleased": true
+	},
+	{
+		"title": "neerslagintensiteit",
+		"id": "d87c75b6-a526-40ea-a1e0-614c333a6cbf",
+		"unreleased": true
+	},
+	{
+		"title": "duurzaamheid",
+		"id": "fdf92779-77f4-426e-bf95-d1a8175c72cd",
+		"unreleased": true
+	},
+	{
+		"title": "klimaatverdrag",
+		"id": "aa9fe7b0-11e2-4075-a429-8c57e5eb6ad0",
+		"unreleased": true
+	},
+	{
+		"title": "gematigd zeeklimaat",
+		"id": "6f9d2601-92cb-4f60-8204-f7604aff2ca5",
+		"unreleased": true
+	},
+	{
+		"title": "hooggebergte klimaat",
+		"id": "8c77ad03-19ca-43aa-b5b9-6873068400da",
+		"unreleased": true
+	},
+	{
+		"title": "Mediterraan/Middellandse zeeklimaat",
+		"id": "14fe3aa3-a47c-412b-afa1-dc7fe17c7224",
+		"unreleased": true
+	},
+	{
+		"title": "steppeklimaat",
+		"id": "e2a7eeaa-b88d-4a52-adda-aeee72240685",
+		"unreleased": true
+	},
+	{
+		"title": "(sub)tropische klimaten",
+		"id": "06c48468-90c7-4725-91c8-c0255fbcb32f",
+		"unreleased": true
+	},
+	{
+		"title": "toendraklimaat",
+		"id": "c2f77beb-bdd2-429a-968f-779a2e144317",
+		"unreleased": true
+	},
+	{
+		"title": "woestijnklimaat",
+		"id": "7bbd8d30-cccb-40c1-9308-d1d8561731b2",
+		"unreleased": true
+	},
+	{
+		"title": "debiet",
+		"id": "71ec8c76-fdd2-4d99-b00c-b5975a61aaa3",
+		"unreleased": true
+	},
+	{
+		"title": "regiem",
+		"id": "5565c09e-88db-4ef9-a702-4e34c1d7d62d",
+		"unreleased": true
+	},
+	{
+		"title": "kwelwater",
+		"id": "f4ccd863-3392-4157-84bc-1f16d24eaa28",
+		"unreleased": true
+	},
+	{
+		"title": "aquifer",
+		"id": "05d00396-ec34-40f6-a699-8f93b3f7abbc",
+		"unreleased": true
+	},
+	{
+		"title": "fossiel water",
+		"id": "66180b1c-8875-4c64-a495-a0aa8153db0e",
+		"unreleased": true
+	},
+	{
+		"title": "demografische transitie",
+		"id": "d02673cd-a49c-42ca-b53c-9e3db3682dae",
+		"unreleased": true
+	},
+	{
+		"title": "integratie",
+		"id": "f148c427-c4f5-4524-9ff7-578c516f9c00",
+		"unreleased": true
+	},
+	{
+		"title": "segregatie",
+		"id": "5c2bdf22-9235-4deb-bb00-42d4a7f1d8a6",
+		"unreleased": true
+	},
+	{
+		"title": "congestie",
+		"id": "569ab20a-4434-471d-860f-31f4cbf41f8c",
+		"unreleased": true
+	},
+	{
+		"title": "reikwijdte",
+		"id": "0926f27c-351e-45ea-8654-c1b5ae7dcc88",
+		"unreleased": true
+	},
+	{
+		"title": "agglomeratie(vorming)",
+		"id": "716d17ea-7ac1-4cdd-b6bf-efccbbc9eecc",
+		"unreleased": true
+	},
+	{
+		"title": "stedelijke zone",
+		"id": "670781b3-c78e-461c-a3ca-809e14550c08",
+		"unreleased": true
+	},
+	{
+		"title": "braindrain",
+		"id": "22cf12fa-5543-4d8f-ab3a-6f6034f4def5",
 		"unreleased": true
 	}
 ]
