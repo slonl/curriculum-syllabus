@@ -7244,5 +7244,55 @@
 		"title": "urban dans",
 		"id": "8d7b8129-3c86-46a7-9af3-a563501b946c",
 		"unreleased": true
+	},
+	{
+		"title": "dansexpressie/dansimprovisatie",
+		"id": "aa17cefd-fe4b-46c6-a80f-f0af017d0ee9",
+		"unreleased": true
+	},
+	{
+		"title": "werelddans",
+		"id": "5806b36a-3367-401a-b916-694c1fb5d9d9",
+		"unreleased": true
+	},
+	{
+		"title": "jazzdans",
+		"id": "215d4005-c84a-4ab8-9f7c-74d2b06ee532",
+		"unreleased": true
+	},
+	{
+		"title": "tap",
+		"id": "3c1daa7e-f8e9-45b0-958a-05c443b28c55",
+		"unreleased": true
+	},
+	{
+		"title": "show-musicaldans",
+		"id": "1ff5271e-b511-4391-893e-abcb8c13b89c",
+		"unreleased": true
+	},
+	{
+		"title": "klassieke dans",
+		"id": "7de2e269-b633-4f2e-af0f-63b072cd6427",
+		"unreleased": true
+	},
+	{
+		"title": "klassiek ballet",
+		"id": "95568ddd-e044-4b8a-979d-be9c6351dca7",
+		"unreleased": true
+	},
+	{
+		"title": "academische dans",
+		"id": "25a783a9-2520-4c1c-8414-0bf75ea6cfc4",
+		"unreleased": true
+	},
+	{
+		"title": "moderne dans",
+		"id": "b8f3baef-68f8-4a1f-8169-5a1021be841f",
+		"unreleased": true
+	},
+	{
+		"title": "urban dans",
+		"id": "9b375ec2-f037-4d25-aa4c-a7b23d42bc89",
+		"unreleased": true
 	}
 ]
