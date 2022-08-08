@@ -16430,5 +16430,55 @@
 		"title": "Syllabus Beeldende vorming vmbo tl 2023",
 		"id": "74b38530-bfbc-4879-b9f8-277588ae3e48",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"6fc64ff5-e3c5-4d1f-827b-99f266dbfb13"
+		],
+		"syllabus_vakleergebied_id": [
+			"d64fa318-6d38-4671-84e1-7243c3c16452"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"b1a54cd1-e5dc-4ee8-b126-1e419c87a467",
+			"4e342726-ef3b-450e-b31b-18d11ec1b450",
+			"25475913-b0ee-461b-99df-58a4e641ae4c",
+			"6b0a66dd-c0da-44f1-b655-dab70e5955c1",
+			"aea9b7a1-8d20-4b26-a0ef-8a3703150490",
+			"2d7065d7-deb8-465e-be5e-8eb6b4a97b32",
+			"09c3f9b4-72e2-4fdb-9c22-c7614a62fc9f",
+			"b2bd63f0-299c-41d0-9bf7-ffcd0f93289a",
+			"0ec8bc86-bd9f-4f5e-970a-43b34d79f34b",
+			"274b582a-a992-4c39-9e3a-143c1743bb8e",
+			"e6dd395a-f782-4c8a-8d4d-2f16eae18d69",
+			"fb29f38c-6a78-4820-a896-00d82f4463ef",
+			"7bc34f86-ae22-4c45-b3a7-195a69c345ab",
+			"ab3a000c-f086-4954-bf76-540750e9c8fb",
+			"3f3dd96e-3933-4a59-bce7-e5e9ffdb1d4f",
+			"9d35d9db-74c8-432f-ac0e-3de2596c5be1",
+			"e8347577-1880-479a-bfeb-a072c824968c",
+			"48d5655a-8585-4114-becd-5cd17d50f1fb",
+			"7828bb16-d2d8-4a84-b2a6-878b78c3bcb3",
+			"5e5a5d17-a6ed-4b77-8196-4f40966ad67c",
+			"660e23c5-0b71-4d0d-9e62-ea87670cb3e5",
+			"425c7295-ecbf-4c86-9269-fdba1ddd80b2",
+			"81b298fa-5498-4d20-9b10-d6b7bc250e49",
+			"09e3c37e-42c4-45ac-b85c-55ceb22ffbbb",
+			"87a44036-6d0b-463b-98d6-3f4130d950e2",
+			"d10aa8cb-bfa0-4b76-96d9-ad162c95e5f6",
+			"3090e351-89a9-4d7f-9c38-da60c85fd6fb",
+			"c92350f4-048e-40b4-b798-0d3bf9f53473",
+			"0c9add4a-b9cb-470f-b7d8-d57e297e9065",
+			"cfc8f9f3-d148-4bc7-963a-e85f8fed215f"
+		],
+		"title": "Syllabus Dans vmbo tl 2022",
+		"id": "a8efc5ca-3561-4b06-aaff-0279fd356181",
+		"unreleased": true
 	}
 ]
