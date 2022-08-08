@@ -34731,7 +34731,7 @@
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "GS/K/3/3.3",
+		"prefix": "GS/K/3/3.3/bb",
 		"examenprogramma_eindterm_id": [
 			"2f6610e3-640b-4afd-b750-1b120f36279b"
 		],
@@ -34741,7 +34741,8 @@
 			"0efcb8a0-7a9c-45c3-81cf-9ba36cd82656",
 			"40da9ed5-07a5-4700-a51e-10e7239e92f6"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -34794,7 +34795,8 @@
 			"3058eb2a-7a0f-4d4a-b6f7-d1bb6db33547",
 			"32c1a165-c190-4d42-a83d-c7b34afeddd4",
 			"c9ed9a83-d553-44bd-acd0-1368e3a11d24",
-			"ee8a033b-0263-409e-953f-b06fdeb5ee1e"
+			"ee8a033b-0263-409e-953f-b06fdeb5ee1e",
+			"31f35ea1-07fa-4d56-a813-9a030baafb50"
 		],
 		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen",
 		"id": "b6844d69-7716-43f3-bf28-1be55a999cbb"
@@ -34894,7 +34896,15 @@
 			"cabc6254-d5e2-4de6-bf3d-980dac1c93bd",
 			"8328b5f1-a010-4f1c-b00b-cb55971a2a02",
 			"b65c850c-9734-4445-ba6f-f1d42dba4d87",
-			"27bb51c0-7b96-417a-b97f-25066e9381cb"
+			"27bb51c0-7b96-417a-b97f-25066e9381cb",
+			"4b78ddff-00f7-48ed-80a5-669277121a44",
+			"d154e1be-7e9b-4345-9ee8-1fb4c90e2195",
+			"03b3aca0-4978-4911-ba0b-ec2ca34371ec",
+			"1b0d0a4d-d9d1-4e4d-a6c0-f733636de07a",
+			"581d5315-d35a-48d0-a375-9f148b9f1201",
+			"b4d2c88c-eacb-488b-87c7-97a494bd48e5",
+			"ccf780a7-cbfb-48a7-bbb6-515d6cfc18cc",
+			"16fb2e1a-885f-4c12-9801-7784c146e2f6"
 		],
 		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
 		"id": "676ed461-cfd0-48b7-859c-f3f429d09d57"
@@ -35193,7 +35203,8 @@
 			"0d557444-d222-4906-bd6d-3ddc31397042",
 			"b4325dc4-4f74-47a1-9a0a-bc48d4651303",
 			"b6e1be90-29f1-4307-b660-b38c2c04a29d",
-			"f7aac76a-53aa-4dde-a03f-7324259013e8"
+			"f7aac76a-53aa-4dde-a03f-7324259013e8",
+			"9df7a960-8d25-4315-9e8b-0bba35ab3235"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland tijdens de Eerste Wereldoorlog herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "a9918c00-effd-4bc2-a0b5-b0523cabf50e"
@@ -35229,7 +35240,8 @@
 			"40cd374c-8adf-4ac7-a836-67dfbc081c46",
 			"e7d18c6a-87d9-48ef-b3c8-549c7ba0cc4e",
 			"381a81ce-ebdf-4875-a7a1-b668d5448277",
-			"fa525c62-98ac-4a59-9999-1af730a6eeb6"
+			"fa525c62-98ac-4a59-9999-1af730a6eeb6",
+			"3cbbad91-87d7-485c-af14-1bda47998125"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen",
 		"id": "5e69c299-5aa0-431e-9aef-010ae31c1265"
@@ -35375,7 +35387,9 @@
 			"db4a9b7c-fab9-48c3-89ea-27dbcf448c7f",
 			"15fa14ae-8e5b-4a16-a94d-6c2cc64cce59",
 			"67cf01c6-11db-4f17-b39d-f50891df09d7",
-			"e19b0f2f-f7f5-4103-a0a3-fbbca87072eb"
+			"e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
+			"e0337b38-1f86-412d-8641-25b6b3ceadc2",
+			"53f92bd2-50d4-44e5-815e-6e17cfb92b15"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "b93e2430-ce4d-48b4-bda2-5ada546792c4"
@@ -35635,7 +35649,8 @@
 			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
 		],
 		"syllabus_vakbegrip_id": [
-			"d7d9f4ec-2346-4855-a477-fa6be1bc684e"
+			"d7d9f4ec-2346-4855-a477-fa6be1bc684e",
+			"8bebf765-e419-4da7-87f3-d4218997cc42"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in de Nederlandse staatsinrichting herkennen.",
 		"id": "c3d5bdea-ffa2-437b-bdd0-6caff8a07ba8"
@@ -35700,7 +35715,9 @@
 			"86a4f657-cfef-465d-b37a-fb5347c2c32d",
 			"b9639ca2-1d80-4681-8aee-1606fe61da78",
 			"e85fd48a-46e3-4251-add8-69cd00b2449c",
-			"e9fddca5-9137-4bf1-ae9a-fb23f62699a9"
+			"e9fddca5-9137-4bf1-ae9a-fb23f62699a9",
+			"e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"1178233f-349d-4599-b810-3d9ac9baa967"
 		],
 		"title": "De kandidaat kan de oorzaken, aanleiding, verloop en afloop van de Eerste Wereldoorlog (1914-1918) herkennen en beschrijven.",
 		"id": "fb303fa5-ffe7-44ff-b7c5-5ba17829b8e2"
@@ -35911,7 +35928,9 @@
 			"6c04be45-c492-4931-b397-75cd25eaacee",
 			"983bcdef-67fd-41b2-993f-eab1e4383b71",
 			"7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
-			"c85bee34-43be-46e7-8763-f130478fd074"
+			"c85bee34-43be-46e7-8763-f130478fd074",
+			"1178233f-349d-4599-b810-3d9ac9baa967",
+			"47bfdc2e-ce0b-41a8-89b3-574291bfaa22"
 		],
 		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland herkennen.",
 		"id": "14e67c03-cfd2-4fbc-8d3d-eb79a3405194"
@@ -36119,7 +36138,8 @@
 			"53f92bd2-50d4-44e5-815e-6e17cfb92b15",
 			"fc196efc-e309-4718-9c70-c3ea00925ef2",
 			"3867dd84-17ef-4bfd-a755-218a65b0fa45",
-			"f05bd737-f5b2-4908-871f-b6bc65c1c206"
+			"f05bd737-f5b2-4908-871f-b6bc65c1c206",
+			"f47f51f5-9322-4a61-b027-314c8406296f"
 		],
 		"title": "De kandidaat kan de bondgenootschappen van As-mogendheden en Geallieerden herkennen en noemen.",
 		"id": "32661cf7-e8ea-453d-9036-61c2a4bd042d"
