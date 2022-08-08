@@ -24128,5 +24128,20 @@
 		"title": "Kaartbeeld Duitsland: Berlijn, Hamburg, Frankfurt, München, Ruhrgebied",
 		"id": "9ed6a8d9-14b8-4ddb-aa26-20770b3f0029",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3c0d13c6-9474-4568-84d5-edf052993c72"
+		],
+		"title": "Kaarbeeld Watermanagement: Aswandam, Atatürkdam",
+		"id": "fd98fee8-19fe-4ff4-98bc-f33067516d77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Kaartbeeld Bevolking en ruimte in grootstedelijke gebieden: Shenzen, Macau",
+		"id": "47cd6ae1-a3a7-4d3e-924c-04962acd3c3d",
+		"unreleased": true
 	}
 ]
