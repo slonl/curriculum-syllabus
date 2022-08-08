@@ -2400,7 +2400,7 @@
 		"description": "Ruimte / locatie",
 		"ce_se": "CE",
 		"prefix": "DA/K/7/7b/7",
-		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
+		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
 		"id": "a31e991d-f134-43cc-ab20-44a4cf6fdb8f",
 		"dirty": true
 	},
@@ -24373,6 +24373,183 @@
 	{
 		"title": "Tot de dramatische technieken om informatie vorm te geven behoren onder andere: \r\n- Fictionalisering, bijvoorbeeld hoe ware gebeurtenissen worden nagespeeld\r\n- Enscenering, bijvoorbeeld hoe een verhaal/ de werkelijkheid in scène wordt gezet \r\n- Verhaalopbouw, bijvoorbeeld de volgorde waarin informatie is geordend \r\n- Rolverdeling, bijvoorbeeld benoemen van de personages in dramaproducties.",
 		"id": "5a327b66-5d1d-4471-9ca5-81996a273d5d",
+		"unreleased": true
+	},
+	{
+		"title": "De kenmerken van de verschillende danssoorten kunnen worden geordend naar: specifieke bewegingskenmerken; thematiek; uitgangspositie van het lichaam; dansacties;  ruimtegebruik; samenwerkingsvormen; kleding / kostuums; muziek.",
+		"id": "8818597f-9c0d-4f38-aa80-fc32ff9e8d75",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Er wordt uitgegaan van een thema. Er wordt geëxploreerd, geïmproviseerd en gecomponeerd aan de hand van een thema. De dans is een persoonlijke weergave van de ideeën, gevoelens en ervaringen van de danser. Persoonlijke expressie staat centraal. De danser gebruikt tijdens het dansen zijn eigen specifieke bewegingsmogelijkheden, naast de technieken die hij heeft geleerd.",
+		"id": "bdea349d-89c6-4a72-bf6e-44d074c48e98",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Gemeenschapsdans (groepsdans). Ontstaan naar aanleiding van gebeurtenissen of rituelen. Ontstaan in een bepaald(e) land, streek of dorp. Beïnvloed door klimaat, geografische ligging, middelen van bestaan en religie. Specifieke passen. Specifieke groepsopstellingen zoals kring, rij. De dansers zijn tijdens het dansen echt op elkaar gericht in het samen dansen (een sociale functie). Aparte vrouwen- en mannenrollen (mannen en vrouwen hebben vaak hun eigen manier van dansen). Gebruik van specifieke kostuums. Er is een sterke relatie tussen de dans en de muziek.\r\n- De dansers maken vaak gebruik van hun stem, door middel van zingen, roepen,\r\nfluiten.",
+		"id": "3613e554-8b7e-4e46-8d67-31947e80b912",
+		"unreleased": true
+	},
+	{
+		"title": "Jazzdans is een samensmelting van Afro-Amerikaanse dans, ballet en moderne dans uit het begin van de 20e eeuw, hedendaagse dans en tapdans. Jazzdans wordt onder andere gebruikt in musical, film en t.v. Hieruit is showmusical dans voortgekomen. Tapdans is een aparte stijl binnen jazzdans.",
+		"id": "0ad38975-0967-4115-8e67-3fe7713c45ca",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Veel bewegingen met gebogen benen. Geïsoleerd bewegen van lichaamsdelen (hoofd, schouders, bekken).  De dans bestaat vaak uit strakke en energieke bewegingen. De accenten in de dans vallen vaak samen met de beat/accenten van de muziek. Kenmerkende bewegingen: onder andere jazzhands.",
+		"id": "6930f719-ab4a-4386-820e-87fe7d8e5946",
+		"unreleased": true
+	},
+	{
+		"title": "Ook wel academisch ballet, academische dans of klassiek ballet genoemd. Theaterdansvorm die ontstaat in de 17e eeuw aan het hof van Lodewijk XIV (de 14e). Tot de 20e eeuw stond de klassieke dans centraal in de westerse theaterdans.",
+		"id": "a32fc102-b385-4b8d-9885-cc035d8d5120",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Vijf voetposities. Specifieke armhoudingen, (zoals port de bras). Opgestrekte lichaamshouding. Uitdraaien van de benen en voeten. Specifieke passen en sprongen, zoals arabesque, plié, pirouette, relevé. Gebruik van spitzentechniek. Ontkennen van de zwaartekracht. Lifttechniek. Kostuum: tutu’s, spitzen. Vaak sprookjeswereld als thema. Klassieke muziek.",
+		"id": "9d6a4f6d-a280-421c-b91b-898d1d5b231f",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Natuurlijke lichaamshouding. Gebruik van natuurlijke bewegingen / acties zoals lopen, rennen, vallen, rollen, springen. Beweeglijkheid van de romp; de aanzet van de beweging komt vaak vanuit het centrum. Acties over de grond waarbij gebruik gemaakt wordt van zwaartekracht. Gebruik van adem als steun en / of aanzet van de dansacties. Voeten parallel. Dansen op sportschoenen of sokken of blote voeten. Gebruik van dagelijkse kleding.",
+		"id": "da70af3f-aa8f-477a-b1d0-d67d1099348f",
+		"unreleased": true
+	},
+	{
+		"title": "Urban dans is de verzamelnaam voor breakdance en verschillende vormen van streetdance. Breakdance behoort samen met o.a. rap en graffiti tot de hiphop cultuur, ontstaan als straatcultuur in de jaren 80 in New York en Los Angeles. Het lijkt erop dat urban dans nog blijvend in ontwikkeling is.",
+		"id": "a27443be-e79d-4d26-b931-43643f337ddd",
+		"unreleased": true
+	},
+	{
+		"description": "Kenmerken",
+		"title": "Freestyle/ improvisatie. Specifieke bewegingen zoals, staccatoachtige moves, acrobatische moves/powermoves, isolatie, slides, snel, flitsend voetenwerk. Dancebattle. Draaien en steunen op steunpunten anders dan je voeten: backspin/belly mill/headspin/flare. Diverse stijlen als: locking, popping,  waving. Alledaagse kleding. Hiphop cultuur: muziek / scratchen / breaks / rap / graffiti. Dans van de straat. Individualiteit. Sociale functie.",
+		"id": "0789f33a-aead-4a30-9167-b5a28a397c57",
+		"unreleased": true
+	},
+	{
+		"title": "De kandidaat kan naar aanleiding van de danselementen en de bijbehorende aspecten dansproducten analyseren in relatie tot de dansinhoud / betekenis.",
+		"id": "745aaa5a-aab5-45c0-8d59-6a3c52251355",
+		"unreleased": true
+	},
+	{
+		"title": "Aspecten van Ruimte: – richtingen (hoog, laag, voor, achter, links, rechts, diagonaal) – vlakken (sagittaal, verticaal, horizontaal) – lagen (hoog, midden, diep / laag) – ruimtelijke vorm van het lichaam (bijvoorbeeld rond, hoekig, open, groot, klein) – ruimtelijke vormverandering – patronen (vloerpatronen) – op de plek – verplaatsend.",
+		"id": "c10d9e89-4908-49f8-ab08-4404f0250204",
+		"unreleased": true
+	},
+	{
+		"title": "Aspecten van Tijd: – tempo (snel, langzaam) – duur (kort, lang) – maat / ritme (bijvoorbeeld regelmatig, onregelmatig) – frasering (danszinnen, begin, verloop, einde) – versnellen / vertragen, stops / doorgaand (vloeiend), herhaling",
+		"id": "2fc9b097-968b-4f58-abd4-9dbae8221bde",
+		"unreleased": true
+	},
+	{
+		"title": "Aspecten van Kracht: Gespannen / ontspannen - Krachtig / licht, zwaar - Gecontroleerd / vrijuit / ongecontroleerd.",
+		"id": "d912e6de-db99-40ed-b340-2a0ac4dc4385",
+		"unreleased": true
+	},
+	{
+		"description": "Theatrale middelen",
+		"title": "De kandidaat moet kunnen herkennen en benoemen hoe de theatrale middelen zijn toegepast, vaak in relatie tot de dansinhoud / betekenis.",
+		"id": "ca81cb8d-c06a-4166-a95e-00ff0b1dd21c",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - decor: alles wat zich op het dansvlak / podium bevindt, zoals neutraal of beschilderd achterdoek, coulissen, decorstukken, installaties (waar je in, op, onder en/of doorheen kunt), filmprojecties, video- en computerprojecties. Ook ballonnen, confetti of bijvoorbeeld bellenblaasbellen die naar beneden komen dwarrelen behoren tot het decor.",
+		"id": "e8e7bc17-af87-43dc-adab-925d10e07989",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - geluid: muziek: tempo, melodie, ritme, instrumentatie / geluid. Maar ook stilte, stem, door de dansers gemaakte geluiden als klappen en stampen, live en/of opgenomen.",
+		"id": "3665ab4f-9915-410a-b697-d3fefb9c2389",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - grime: make-up op het gezicht, body-paint, gelakte nagels van handen en voeten, speciale kapsels (ingevlochten haar, opgediste haarcoupes e.d.); nepbloed, nepwimpers, gebruik van poeder.",
+		"id": "54f7aedd-d00b-4fbc-9726-832acf38e2f1",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - belichting / licht: kleurgebruik, waar het licht vandaan komt (voor, zij, achter, boven, onder), sterkte van het licht, en soort licht zoals spots.",
+		"id": "f3b5ea22-ad06-4085-a6ba-78f475555acb",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - rekwisieten: attributen waar de dansers gebruik van maken, zoals stoelen, tafels, waaiers, stokken, elastiek e.d. waarmee gedanst wordt",
+		"id": "3e2d09a0-31d6-4173-b497-8b69557a8330",
+		"unreleased": true
+	},
+	{
+		"title": "Theatrale middelen zijn: - kostuums: kleding van de dansers, accessoires: sieraden, corsages, linten in het haar, om de polsen, hoofdtooien, schoenen enz.",
+		"id": "1a774ad4-cf36-4c83-91c2-887fb3475c25",
+		"unreleased": true
+	},
+	{
+		"title": "Bij theatrale middelen horen ook: audiovisuele middelen zoals foto-, film- en videoprojecties.",
+		"id": "4be519ff-b44a-4280-af4b-d3e8ec3ea61e",
+		"unreleased": true
+	},
+	{
+		"title": "Het verschil tussen decor en rekwisiet / attribuut: Stoelen en tafels bijvoorbeeld kunnen zowel decor als attribuut zijn. Als het gehanteerd wordt (overgooien, erop leunen e.d.) zijn het attributen, als ze een duidelijke plek op het podium hebben en deel uitmaken van het toneelbeeld is het (ook) decor.",
+		"id": "ef66c081-465c-4fbc-a772-480ee0620dc2",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Decoratieve functie: de dans wordt gebruikt als decoratie. Bijvoorbeeld een dansgroepje bij het optreden van een popgroep.",
+		"id": "3df6d2de-b83c-43d9-932a-f66e281622a3",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Economische functie: de dans wordt gebruikt voor reclame of werk",
+		"id": "976e5986-5820-4b09-90c0-64c7f6251935",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Educatieve functie: het is de bedoeling dat de toeschouwer tot nieuwe inzichten komt, iets leert",
+		"id": "654684c0-c5b2-4197-bd4f-58e95e1d05d1",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Esthetische functie: het dansstuk is gemaakt om schoonheid te tonen, of juist het tegengestelde: anti-schoonheid (vervreemding, confrontatie). Bij de toeschouwer gaat het om inleven en genieten van schoonheid.",
+		"id": "216c8528-9270-4fb0-9cc3-7f16f78e77dd",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Levensbeschouwelijke functie: de dans wordt gebruikt bij religieuze of rituele vieringen",
+		"id": "2f32a5dc-b86f-43dd-a333-a7f08c2a406b",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Maatschappijkritische functie: via dans reageren op maatschappelijke en/of politieke toestanden of verhoudingen bijvoorbeeld via parodie. Recreatieve functie: dansen als vrijetijdsbesteding",
+		"id": "d27ea1f2-fd59-4567-881c-f7f1af090d41",
+		"unreleased": true
+	},
+	{
+		"title": "Functie van de dans is Sociale functie: het dansen is gericht op het samen dansen, gericht op het samenzijn in een groep",
+		"id": "43d80191-d5e3-4f3a-af88-79fc7c889df8",
+		"unreleased": true
+	},
+	{
+		"title": "Rond 1900 vond er een revolutie plaats op het gebied van alle kunst. In dans betekende dat dat men niet meer in het strakke keurslijf van tutu en spitzen wilde dansen, maar veel natuurlijker, met vrije, losse bewegingen. Ook mocht de eigen emotie getoond worden in dans, in plaats van bestaande verhalen zoals sprookjes uit te beelden. Zo is in de eerste helft van de twintigste eeuw de moderne dans ontstaan.",
+		"id": "250b4116-ce7f-4fbf-b029-a911164845a5",
+		"unreleased": true
+	},
+	{
+		"title": "In Noord-Amerika zijn de belangrijke vernieuwers van de dans Isadora Duncan en Martha Graham met haar sterk dramatisch getinte dansen (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "865cf1f7-a045-4a82-be52-646a9cd4f1a6",
+		"unreleased": true
+	},
+	{
+		"title": "In de periode tussen de twee wereldoorlogen ontwikkelt zich in Europa onder invloed van Rudolf von Laban, Mary Wigman en Kurt Jooss de Ausdruckstanz, de expressionistische dans. Dit is een vorm van moderne dans waarin uitdrukking wordt gegeven aan emoties, waarbij de persoonlijke lichaamstaal van de danser belangrijk is. Hieruit is dansexpressie ontstaan (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "ebec4cb9-8e30-4058-8804-9e8500cf395d",
+		"unreleased": true
+	},
+	{
+		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de Afro-Amerikaanse en de witte bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
+		"id": "0dc2b07c-3bab-4dc6-adb9-1d6cf5a407fc",
 		"unreleased": true
 	}
 ]
