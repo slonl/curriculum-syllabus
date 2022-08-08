@@ -24076,7 +24076,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains",
+		"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains.",
 		"id": "aeb5be10-904e-4151-bc29-66ffa371247f",
 		"unreleased": true
 	},
@@ -24102,6 +24102,31 @@
 	{
 		"title": "Kaartbeeld China: Beijing, Guangzhou (Kanton), Hongkong, Shanghai",
 		"id": "3808b5d5-df95-4e92-9641-8eec7ec3f3c1",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Spanje: Cantabrisch Gebergte, Middellandse Zee, Pyreneeën en Sierra Nevada.",
+		"id": "de236961-2321-444c-b0d9-53952985934d",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Nederland: Eems, Maas, Ijssel, Ijsselmeer, Rijn, Schelde, Waal.",
+		"id": "851a2db0-92e7-4e08-bafc-12c5344c50d7",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Midden-Oosten: Dode Zee, Eufraat, Jordaan, Nijl, Tigris",
+		"id": "dd6a8f7c-c0fa-49cb-8481-7835837f3a3f",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld China: Chang Jiang, Drieklovendam, Grote Kanaal, Himalaya, Huang He, Lössplateau, Xi-Jang",
+		"id": "b56fb9d0-e415-441d-89cc-dce96e7076c3",
+		"unreleased": true
+	},
+	{
+		"title": "Kaartbeeld Duitsland: Berlijn, Hamburg, Frankfurt, München, Ruhrgebied",
+		"id": "9ed6a8d9-14b8-4ddb-aa26-20770b3f0029",
 		"unreleased": true
 	}
 ]
