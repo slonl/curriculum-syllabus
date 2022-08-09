@@ -2633,7 +2633,7 @@
 		"description": "Functies van drama",
 		"ce_se": "CE",
 		"prefix": "DR/K/8/8a",
-		"title": "Functies van drama: \r\n- informeren / leren, bijvoorbeeld: educatief kindertheater over dieren - amuseren, bijvoorbeeld: het vertellen van een mop in de klas\r\n- overtuigen, bijvoorbeeld: maatschappij kritisch cabaret\r\n - overhalen om iets te doen, bijvoorbeeld: een reclamespot",
+		"title": "Functies van drama: \r\r\n- informeren / leren, bijvoorbeeld: educatief kindertheater over dieren - amuseren, bijvoorbeeld: het vertellen van een mop in de klas\r\r\n- overtuigen, bijvoorbeeld: maatschappij kritisch cabaret\r\r\n - overhalen om iets te doen, bijvoorbeeld: een reclamespot",
 		"id": "34494e75-4cad-423f-97a6-5361d8fac332",
 		"dirty": true
 	},
@@ -24371,9 +24371,12 @@
 		"unreleased": true
 	},
 	{
-		"title": "Tot de dramatische technieken om informatie vorm te geven behoren onder andere: \r\n- Fictionalisering, bijvoorbeeld hoe ware gebeurtenissen worden nagespeeld\r\n- Enscenering, bijvoorbeeld hoe een verhaal/ de werkelijkheid in scène wordt gezet \r\n- Verhaalopbouw, bijvoorbeeld de volgorde waarin informatie is geordend \r\n- Rolverdeling, bijvoorbeeld benoemen van de personages in dramaproducties.",
+		"title": "Tot de dramatische technieken om informatie vorm te geven behoren onder andere: \r\r\n- Fictionalisering, bijvoorbeeld hoe ware gebeurtenissen worden nagespeeld\r\r\n- Enscenering, bijvoorbeeld hoe een verhaal/ de werkelijkheid in scène wordt gezet \r\r\n- Verhaalopbouw, bijvoorbeeld de volgorde waarin informatie is geordend \r\r\n- Rolverdeling, bijvoorbeeld benoemen van de personages in dramaproducties.",
 		"id": "5a327b66-5d1d-4471-9ca5-81996a273d5d",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"title": "De kenmerken van de verschillende danssoorten kunnen worden geordend naar: specifieke bewegingskenmerken; thematiek; uitgangspositie van het lichaam; dansacties;  ruimtegebruik; samenwerkingsvormen; kleding / kostuums; muziek.",
