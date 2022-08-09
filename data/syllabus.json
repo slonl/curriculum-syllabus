@@ -16635,5 +16635,33 @@
 		"title": "Syllabus Dans vmbo tl 2023",
 		"id": "9136cd7c-4685-44b6-8d18-92cc88bb08be",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"57f3047b-dd0a-4f36-9877-d050aef50835"
+		],
+		"syllabus_vakleergebied_id": [
+			"dd728106-6600-496b-99c7-df31fb3137f7"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"dbc0ea7e-ed79-42ad-8c9c-b0f502bf85d9",
+			"a1532bf6-cf01-41cf-95ea-18738713647f",
+			"9488e619-3d28-4385-8fc8-f2bb8389ddff",
+			"499c58d7-df0b-4d54-bf24-cffc4939460c",
+			"b04ee5f1-c2e9-4b3b-9324-e5c3832cd8b9",
+			"55e0f185-5e4e-48d0-be1d-088a7b082e67",
+			"f7705a1d-8b2e-4d5d-86aa-d10365b589ec",
+			"012108d3-d1e7-4109-b434-04c03f79c356"
+		],
+		"title": "Syllabus Drama vmbo gl 2023",
+		"id": "417155d9-32f4-4494-90d4-0965f2353e08",
+		"unreleased": true
 	}
 ]
