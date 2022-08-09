@@ -17307,5 +17307,45 @@
 		"title": "Syllabus Nederlandse taal vmbo tl 2023",
 		"id": "e6fbeb38-ad02-44ff-a105-4c179bb6d4a5",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"b15aa61b-37e4-4454-b510-fe358565faa3"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9e3165e0-a4a1-42ee-a9a2-4c3a5c89857a",
+			"7efcae7f-ec95-42f3-a5d8-599e3a8b7df0",
+			"90de6426-57c4-40fd-a7e5-0e68a02c98c5",
+			"fd805bd3-b64d-42cd-bcb7-ede02538df3f",
+			"a0754d0f-ad09-42e6-982e-328519d0836f",
+			"b1f15832-f03f-40a5-a5a1-156507477e43",
+			"dd11a5c8-1f2d-4204-956d-2646766b7ef9",
+			"14150c35-fa49-4d31-bad2-3019eefe065f",
+			"df5b91a9-36c4-42ed-8859-67a069e34bf9",
+			"5194eb71-c786-41eb-a462-f8c85f96480c",
+			"e3b233b5-e4c2-43cb-b86e-4122041f716b",
+			"265f70da-a4fb-4763-94ac-5eb332fb1a49",
+			"66a014c9-c419-4862-8be2-e1ce6d47301a",
+			"f751582f-5dbb-419b-b1d0-49ccfc75faa9",
+			"6bb33ad0-fded-4587-823d-0296845775fe",
+			"70b6994d-2e36-43a4-ba2e-60944c79c296",
+			"ac0ae654-ee8f-4c35-96c7-c4aace51cc78",
+			"a9018e06-0516-457c-942e-2c502cde8c3a",
+			"8de358ac-2204-4d87-9fdf-21e411da176b"
+		],
+		"title": "Syllabus Friese taal en cultuur vmbo gl/tl 2022",
+		"id": "93425d43-da7a-4947-ae13-f1f3d160f8dc",
+		"unreleased": true
 	}
 ]
