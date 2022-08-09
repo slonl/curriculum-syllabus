@@ -2673,7 +2673,7 @@
 		"description": "(Muziek)notatie",
 		"ce_se": "CE",
 		"prefix": "MU/K/7/3",
-		"title": "grafische notatie en traditionele notatie",
+		"title": "(Muziek)notatie: grafische notatie en traditionele notatie",
 		"id": "b9aeb186-2e0d-4df2-bab1-648940acb35b",
 		"dirty": true
 	},
@@ -2681,7 +2681,7 @@
 		"description": "Noteren",
 		"ce_se": "CE",
 		"prefix": "MU/K/7/4",
-		"title": "aanvullen, ordenen, wijzigen van grafische notatietekens en/of woorden/letters",
+		"title": "Noteren: aanvullen, ordenen, wijzigen van grafische notatietekens en/of woorden/letters",
 		"id": "96f5d019-1cb2-494c-8603-85b6edea238c",
 		"dirty": true
 	},
@@ -24550,6 +24550,70 @@
 	{
 		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de Afro-Amerikaanse en de witte bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
 		"id": "0dc2b07c-3bab-4dc6-adb9-1d6cf5a407fc",
+		"unreleased": true
+	},
+	{
+		"description": "Ritmisch fragment",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/1",
+		"title": "Ritmische fragment bestaat uit alleen een ritme (zie voor toonduur de begrippenlijst)",
+		"id": "ce9e47af-6919-486c-97a0-96c825d13136",
+		"unreleased": true
+	},
+	{
+		"description": "Melodisch fragment",
+		"ce_se": "CE",
+		"prefix": "MU/K/7/2",
+		"title": "Melodisch fragment bestaat uit ritme en toonhoogte",
+		"id": "5bd30a53-5a70-4148-bdb0-ac459d8e4c43",
+		"unreleased": true
+	},
+	{
+		"description": "beeldende kunst",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/1",
+		"title": "Andere kunstvormen dan muziek zijn Beeldende kunst - architectuur, beeldhouwkunst, grafische vormgeving, industriële vormgeving, mode, schilderkunst",
+		"id": "156a1a0c-9e59-4580-8036-00acb9ba6253",
+		"unreleased": true
+	},
+	{
+		"description": "dans",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/2",
+		"title": "Andere kunstvormen dan muziek zijn Dans - klassiek ballet, moderne dans, danstrends zoals breakdance, streetdance",
+		"id": "96b64343-6f0d-45a7-8bda-3ea1ff7b3ef9",
+		"unreleased": true
+	},
+	{
+		"description": "drama",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/3",
+		"title": "Andere kunstvormen dan muziek zijn Drama - bijvoorbeeld toneel, soap",
+		"id": "dfacb937-9d50-4480-a78d-104434b22bde",
+		"unreleased": true
+	},
+	{
+		"description": "film",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/4",
+		"title": "Andere kunstvormen dan muziek zijn Film - bijvoorbeeld speelfilm, documentaire, tv serie, videokunst/ audiovisuele kunst",
+		"id": "f41d3e60-9425-4374-b1fc-9a2cd7d144b3",
+		"unreleased": true
+	},
+	{
+		"description": "literatuur",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/5",
+		"title": "Andere kunstvormen dan muziek zijn Literatuur - teksten (beeld en/ of woord)",
+		"id": "7dcb2f21-7bc2-45af-bade-97f3132bfcd5",
+		"unreleased": true
+	},
+	{
+		"description": "Functies",
+		"ce_se": "CE",
+		"prefix": "MU/K/9/6",
+		"title": "Functies kunnen bijvoorbeeld zijn: - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning Bijvoorbeeld: Dans: de dans in een videoclip, waarin de dans een decoratieve functie heeft Drama: de dramatische structuur in een musical om een verhaallijn weer te geven (verhalende functie). Beeldende kunst: in een opera, waarin de beeldende kunst (het decor) bijvoorbeeld een decoratieve functie heeft. Filmprojectie om de dramatische en emotionele impact te versterken.",
+		"id": "e4d05c54-3a82-459c-b6e0-9c933cd31591",
 		"unreleased": true
 	}
 ]
