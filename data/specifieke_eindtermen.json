@@ -16651,7 +16651,7 @@
 		"examenprogramma_eindterm_id": [
 			"377d7705-a313-4c0d-a634-cdec22c80799"
 		],
-		"title": "De kandidaat kan de belangrijkse elementen van een programma weergeven: hoofdonderwerp; hoofdgedachte; relatie tussen tekst en beeld.\r\r\nBij de relatie tussen tekst en beeld gaat het om het herkennen, analyseren en interpreteren van elementen van een programma, waaronder gesproken tekst, geschreven tekst, overige geluidselementen (zoals intonatie, achtergrondgeluid, muziek), overige beeldelementen (zoals mimiek, gebaren, rekwisieten).",
+		"title": "De kandidaat kan de belangrijkse elementen van een programma weergeven: hoofdonderwerp; hoofdgedachte; relatie tussen tekst en beeld.\r\r\r\nBij de relatie tussen tekst en beeld gaat het om het herkennen, analyseren en interpreteren van elementen van een programma, waaronder gesproken tekst, geschreven tekst, overige geluidselementen (zoals intonatie, achtergrondgeluid, muziek), overige beeldelementen (zoals mimiek, gebaren, rekwisieten).",
 		"id": "3178df1a-849e-4720-8e1a-fe7d034961dc",
 		"dirty": true,
 		"description": ""
@@ -16705,7 +16705,8 @@
 		"ce_se": "CE",
 		"prefix": "NE/K/6/6d.1",
 		"examenprogramma_eindterm_id": [
-			"d9e17a3a-b8d6-4534-8fe5-d4620f5c7e47"
+			"d9e17a3a-b8d6-4534-8fe5-d4620f5c7e47",
+			"75489a75-bfdf-4d4e-98f2-b514eaeb99f0"
 		],
 		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven: informatie verstrekken, overtuigen,  een mening geven, tot handelen aanzetten, amuseren, gevoelens oproepen/uitdrukken.",
 		"id": "b3284f83-5298-451c-8f88-6d9801ef6304"
@@ -16784,12 +16785,14 @@
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "NE/K/6/6h.2",
+		"prefix": "NE/K/6/6i.2",
 		"examenprogramma_eindterm_id": [
 			"273612a7-45e5-4b14-8c80-a3ccf1c7a96b"
 		],
 		"title": "De kandidaat kan een oordeel geven over de tekst en dit toelichten op grond van aanwijsbare tekstgegevens.",
-		"id": "4d8cb052-1a9b-43ff-b25d-2c545e71a004"
+		"id": "4d8cb052-1a9b-43ff-b25d-2c545e71a004",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -54437,6 +54440,58 @@
 		],
 		"title": "De kandidaat kan een instructie uitvoeren",
 		"id": "e6f93c7d-d390-495f-b400-b138719aa65f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/4/4e.3",
+		"examenprogramma_eindterm_id": [
+			"72975a32-c44a-4124-85ed-0d538d035dc0"
+		],
+		"title": "De kandidaat kan de waarde en betrouwbaarheid aangeven van de informatie die door de massamedia verspreid wordt.",
+		"id": "681cd175-251e-482b-bb75-6da3781e45b4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NE/K/6/6f.1",
+		"examenprogramma_eindterm_id": [
+			"d9130865-866a-4de4-966f-0f00e96a5be5"
+		],
+		"title": "De kandidaat kan van een tekst het hoofdonderwerp en de hoofdgedachte aangeven.",
+		"id": "1b24b61a-1b5b-4223-9b20-4534c9c4b473",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/6h.1",
+		"examenprogramma_eindterm_id": [
+			"35abc711-1046-48c6-a922-aee5c9348bac"
+		],
+		"title": "De kandidaat kan in verschillende tekstsoorten de hoofdzaken herkennen, onderscheiden en ordenen.",
+		"id": "83653386-ca4b-4a10-bf9c-5ae903ae2af8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NE/K/6/6h.2",
+		"examenprogramma_eindterm_id": [
+			"35abc711-1046-48c6-a922-aee5c9348bac"
+		],
+		"title": "De kandidaat kan op eenvoudig niveau verschillende tekstrelaties herkennen, zoals oorzaak-gevolg, doel-middel, algemene uitspraak-voorbeeld, tegenstelling, opsomming, voorwaarde, argumenten-conclusie.",
+		"id": "398d918d-f32b-428c-b724-001a980a2cda",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NE/K/6/6i.1",
+		"examenprogramma_eindterm_id": [
+			"273612a7-45e5-4b14-8c80-a3ccf1c7a96b"
+		],
+		"title": "De kandidaat kan talige middelen herkennen die een schrijver hanteert om zijn of haar doel te bereiken zoals beeldspraak en ironie.",
+		"id": "65e09ef2-1d24-4e26-a416-d886e4f8eed2",
 		"unreleased": true
 	}
 ]
