@@ -2582,8 +2582,9 @@
 		"examenprogramma_eindterm_id": [
 			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
 		],
-		"title": "elektronische en elektrisch versterkte instrumenten: basgitaar elektrische gitaar keyboard/synthesizer",
-		"id": "ce9a7daf-60cf-4072-a177-db0ddbf96492"
+		"title": "elektronische en elektrisch versterkte instrumenten: basgitaar, elektrische gitaar, keyboard/synthesizer",
+		"id": "ce9a7daf-60cf-4072-a177-db0ddbf96492",
+		"dirty": true
 	},
 	{
 		"description": "Klankkleur",
@@ -7293,6 +7294,612 @@
 	{
 		"title": "urban dans",
 		"id": "9b375ec2-f037-4d25-aa4c-a7b23d42bc89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "break",
+		"id": "e7bb8f29-653d-4052-8662-4278ec81f4dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "fill",
+		"id": "f8d283d8-ab05-47d1-bc3d-3bf731fb54be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "ritmisch ostinaat/ostinato",
+		"id": "5dd6ee67-6cd5-456f-bc10-5956a3385468",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "swing",
+		"id": "c206385f-7885-418b-b721-a26f5b637d49",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "syncope",
+		"id": "8854cb62-4bfc-4b0e-8b9c-4429ea6979d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "toonduur - notenwaarden: hele tot en met zestiende noot",
+		"id": "950f8531-fb08-4b9e-b70c-36b4706a2712",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "toonduur - rusten: hele tot en met zestiende rust",
+		"id": "e6ed5a55-ea95-4cb2-b052-55bf1735b486",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "toonduur - verlenging van een noot met een punt achter de noot",
+		"id": "920db8f0-f6af-458d-87d9-6fbe4a0b0b96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "toonduur - verbindingsboog,",
+		"id": "ad30bf7e-de13-4207-b5c4-f72393e4af6d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "triool (als achtsten triool)",
+		"id": "42c50eef-11f5-400a-9d3a-c5ebc9843785",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "beat en afterbeat",
+		"id": "dd196680-ed90-4b73-8263-9f52d1d7d2c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "maataanduiding - tweedeling: 2/4, 4/4, C, 6/8",
+		"id": "7d45fe25-7f48-44d3-88ef-375231134d19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "maataanduiding - driedeling: 3/4, 3/8",
+		"id": "ba266916-6e5a-4b38-be2f-5d914e8d720e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "maatstreep",
+		"id": "5ebd4e30-21c4-452e-a537-788cdc1e81cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "maatwisseling",
+		"id": "52ba8069-1bab-4428-ba3c-7e5c7b3f9bd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "opmaat",
+		"id": "ad5856ec-e821-49ce-85a2-3b608a72d9eb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "tempo-aanduidingen - klaassiek: adagio, andante, allegro",
+		"id": "87a614c8-9bf2-4e6e-a39d-cb57434c4e18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "tempo-aanduidingen - pop: slow, medium, up tempo",
+		"id": "de83afa0-a0d8-4ee8-9d81-b3862565bbfc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "tempowijzigingen: accelerando",
+		"id": "13208c73-5d98-45a1-ac59-4f046e2fd112",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f3090276-e7be-48c1-a1b3-fd7a4db0bdf1"
+		],
+		"title": "tempowijzigingen: ritenuto",
+		"id": "9d0e0f58-b388-4e13-b1ef-d3d380c4ee80",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "het notenschrift - absolute notennamen",
+		"id": "82966212-568e-4db9-87f4-59a85d0e403f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "het notenschrift - G-sleutel",
+		"id": "8783af54-f688-4810-ad23-adf27aa9585f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "het notenschrift - F-sleutel",
+		"id": "a48ed6ff-7f2e-4e9f-afb2-47170a71110d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "het notenschrift - voortekens: herstellingsteken, kruis, mol",
+		"id": "4398ce3b-3794-472d-9909-13fa02a33156",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "majeur",
+		"id": "e6e465df-c3ac-40e8-9f0e-34781fdb071f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "mineur",
+		"id": "b576d63d-f620-4d59-9a9a-2f0969143e64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "dynamiek aanduidingen - fotissimo ff, fort f, mezzo-forte mf, piano p, pianissimo pp",
+		"id": "9bcabf20-eb9f-4cb1-b5b0-74eb3512a540",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "dynamiekaanduidingen - crescendo <, decrescendo >",
+		"id": "1a6686a6-16cf-4d6d-84dc-f0899015f92c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "fade out",
+		"id": "e2bb6054-b25b-4ba1-8cb9-a553cbfb9417",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "overgangsdynamiek",
+		"id": "bb9aa019-2f34-4f19-9d0f-828e62291426",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "terrassendynamiek",
+		"id": "09804dac-b46c-40d0-aa8e-2f69f3c1838b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "akkoord, akkoordenschema",
+		"id": "2cdaaadd-f136-452e-a4b6-0cc1ec54d799",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "homofonie, polyfonie en unisono",
+		"id": "2c54974e-79a4-45eb-a6fe-0bb6fb314ba0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "tweeklank",
+		"id": "160e231d-9cd8-42f3-b3ee-99f7b8469558",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "articulatie - legato, staccato",
+		"id": "f32ce9d6-4f79-4429-bc20-4c81e2e8e5d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - aanslaan / tokkelen (gitaar)",
+		"id": "ada91e8e-2173-48c7-b9e7-ca9508588f56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - aanslaan / raspen / schudden (slaginstrumenten",
+		"id": "c748dca0-49e2-4dd2-a650-1d614da03595",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - glissando",
+		"id": "a3e0cba5-932b-47f9-8c89-f5ba218510d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - pizzicato/strijken (strijkinstrumenten)",
+		"id": "79886455-6df4-4cb0-bfaf-267a69b02cfe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - scratchen",
+		"id": "efbfd673-b06b-4655-9394-824f3f0bff85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "speeltechnieken en effecten - slappen (basgitaar)",
+		"id": "9c4d0d04-0f37-4a06-8653-1e81e590bcf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - a capella",
+		"id": "9e97d9bb-3392-4657-89d6-bec89cbd4851",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - akoestisch",
+		"id": "87ad395a-ae71-45dc-9a51-5a4b6ae75022",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - elektronisch",
+		"id": "a8037ebd-8638-41dc-93d7-a2e8d81fbcd8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - cover",
+		"id": "2a595ea5-44da-4d5f-bc2e-ff8440c273fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - fermate",
+		"id": "bb3165a2-f916-4f25-91c6-0dcfddf41984",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - herhalingstekens",
+		"id": "69e382ff-f982-4507-a941-196c0a812499",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - instrumentatie",
+		"id": "78bea10c-4b21-4f30-9115-48946963b910",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - slaggitaar en sologitaar (leadgitaar)",
+		"id": "44d8eaa6-3059-452e-8bf5-1a0dff8bbcdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - stemgebruik: human beatbox, rappen",
+		"id": "0685b752-0da6-4d88-88c3-695ed50411bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - tutti - solo",
+		"id": "592282ce-13f8-407b-b189-736d7e0563a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - unplugged",
+		"id": "e303f535-bbcc-43c1-96a5-927f9a8cf8f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "uitvoeringswijzen - versiering",
+		"id": "0735e60f-87c5-453f-97e1-b9bb2aff5a11",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"title": "slaginstrumenten zonder vel: beatring bekkens / cymbals buisklokken cabasa, guiro / rasp castagentten, claves, woodblock cow-bell hi-hat (gesloten en open), klokkenspel maraca('s), shaker, tamtam, triangel, vibrafoon / metallofoon, xylofoon / marimba",
+		"id": "6802e1c2-4615-4057-8dda-a5d32ae71411",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "slaginstrumenten met vel: bassdrum/kick(drum), bongo('s), conga('s), djembé, floor tom, grote trom, kleine trom/snaredrum, pauk(en), tamboerijn, tomtoms",
+		"id": "1f93484d-736f-4ae5-9e50-ea8726c47a71",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"title": "houten blaasinstrumenten: blokfluit, panfluit, (dwars)fluit, hobo, klarinet, fagot, saxofoon",
+		"id": "cbce6b93-8c99-4324-9646-4fdc3a350465",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "koperen blaasinstrumenten: trompet , hoorn, trombone,  tuba",
+		"id": "a8e1746d-7bb8-4735-884d-a7fc19cf8545",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "blaas-/toetsinstrumenten: accordeon, orgel",
+		"id": "23759d28-7a78-4750-ab4d-36ed1d1a92b3",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"title": "snaarinstrumenten - getokkeld: akoestische gitaar, elektrische gitaar, basgitaar,  harp,  klavecimbel",
+		"id": "fe24c821-b5ef-4948-a630-1e3af5aa1f08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "snaarinstrumenten - gestreken: viool, altviool, cello, contrabas",
+		"id": "a921bce6-549b-4744-be29-4c1d0644a35a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "snaarinstrumenten - aangeslagen: piano",
+		"id": "14589e4d-2977-4883-9c3b-78606fc26ad4",
+		"unreleased": true
+	},
+	{
+		"description": "Klankkleur",
+		"ce_se": "CE",
+		"title": "orkesten en ensembles - vocale ensembles: achtergrondkoor/backing vocals, gemengd koor, mannenkoor, vrouwenkoor",
+		"id": "1ab40db9-be64-4632-9665-5b40acd76ffa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "orkesten en ensembles - instrumentale ensembles: bigband, jazzcombo,  blaasorkest (harmonie/ fanfare/ brassband),  rockgroep/popgroep, strijkorkest, strijkers, strings, symfonieorkest",
+		"id": "cae43033-6b3a-44fc-95ac-3885810707b9",
+		"unreleased": true
+	},
+	{
+		"description": "Melodische relaties",
+		"ce_se": "CE",
+		"prefix": "MU/K/3/3j",
+		"title": "break",
+		"id": "f9648140-a165-4829-9ab7-acc43ecca8f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "motief",
+		"id": "8505daf4-0be8-4b03-95a5-891d2551948c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "ostinato",
+		"id": "2e816e06-1ab6-4787-afe3-3036fd0a16cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "riff",
+		"id": "224b5068-e0db-4a57-ae59-52a887bfcd3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "sequens",
+		"id": "f575706e-bcfb-4e8c-89ae-71a674aef510",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "thema",
+		"id": "38ffb42a-8a40-4e7f-926b-eadcffd013dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "voor- en nazin",
+		"id": "dc3cad6e-c9e6-4fd6-bcf6-98a67a34804d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "improvisatie",
+		"id": "ae2b373c-d402-461b-88e0-c8034fe9e5bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "variaties op een (akkoorden)schema, melodie, ritme",
+		"id": "b23860e5-7232-4d63-aeef-b8115a8b49df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "canon",
+		"id": "08f5df4a-c331-4774-b968-3402d6b90b9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "gelijke / parallelle beweging / tweede stem",
+		"id": "528412b6-d1f0-4343-b020-d5ed0a6d762b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "homofonie",
+		"id": "30bfa75e-ccd5-4493-9ca2-6aa37df11e8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "imitatie",
+		"id": "85e5c8ef-090c-4a65-9b56-1ae7c6f51361",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "polyfonie",
+		"id": "f3ca92ff-58bf-4f32-a781-aa7ed71384a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "tegenbeweging",
+		"id": "732689e0-e5a7-42b5-b999-e7a9b27a2fb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "tegenmelodie / tegenstem",
+		"id": "2c4c7d7e-48f2-49ea-87fe-a6f7a0e3dbcd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "aria",
+		"id": "8db5fb53-2b64-4109-b6b7-75e1ea42c09d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "opera",
+		"id": "de559c93-fa2e-4d73-bf9e-26df5e3b3603",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "song",
+		"id": "cb0ef6b9-f607-4641-a05e-1ec8eacc97fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "musical",
+		"id": "d3b716dd-20a0-4531-8384-2b8d57896517",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "bridge",
+		"id": "aeca1dcd-e353-4d2b-8a30-cca3ac1a38de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "couplet / verse",
+		"id": "058a5a7f-a2b3-4e70-8a05-32aab6203e81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "intro / inleiding / voorspel",
+		"id": "da621546-51de-48ef-938d-7520c6fe81ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "naspel / coda",
+		"id": "470423af-ba3e-425e-91f5-005935e1389d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "refrein / chorus",
+		"id": "cba3a421-56da-4f97-812f-f756de7a70ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "tussenspel",
+		"id": "4859bc5c-c8b7-4516-98c6-33467ee78aef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "vormschema (letterschema zo nodig met accenten)",
+		"id": "463a928a-42bc-4944-a21c-fbbf18cdcf77",
 		"unreleased": true
 	}
 ]
