@@ -4701,8 +4701,10 @@
 	{
 		"description": "De periode 1945-1989, Geschiedenis van Nederland",
 		"ce_se": "CE",
-		"title": "economische veranderingen:",
-		"id": "a0aef920-a25a-4587-a130-089795338eda"
+		"title": "economische veranderingen",
+		"id": "a0aef920-a25a-4587-a130-089795338eda",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "De periode 1945-1989, Geschiedenis van Nederland",
@@ -5219,7 +5221,7 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "Centralen",
+		"title": "Centralen:",
 		"id": "99f59585-13d2-4abe-ae23-eeac85866b50",
 		"dirty": true,
 		"prefix": ""
@@ -5295,8 +5297,10 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "Rusland (tot 1917: val van de tsaar en uitbreken Russische Revolutie)",
-		"id": "0fcd1fef-f13e-4ee0-b24e-b276d47f4c7c"
+		"title": "Rusland (1917: val van de tsaar en uitbreken Russische Revolutie)",
+		"id": "0fcd1fef-f13e-4ee0-b24e-b276d47f4c7c",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
