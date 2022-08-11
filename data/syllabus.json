@@ -17557,5 +17557,67 @@
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo kb 2022",
 		"id": "63aefb4c-32b4-4e26-a3e8-357b57f79df6",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"5fbc4877-8077-4404-988b-f623203730a2"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"fe84c32c-0215-450f-848b-f4a105cb122c",
+			"38113410-4677-44bd-a472-d4df8e697ca5",
+			"29be8bb7-8c06-4b79-98d2-4282031239fa",
+			"72f33b41-71e7-44e1-bddd-cf7ea525474d",
+			"5cebfc68-e998-461e-8aa1-fbb36167271d",
+			"6ab8c6de-0186-477b-8323-6144eca536c9",
+			"767b1458-9bf2-4cfc-9e06-60cba5d5c6e5",
+			"22b3ad06-e887-40a0-a607-29150a559b30",
+			"261fb75b-8476-4bbd-ad0b-a230ce1c44ea",
+			"836d8927-3d81-4f65-b876-6c7ee7503168",
+			"6add507c-9cfd-4ae1-8e27-047ac0636e7b",
+			"8346945c-108f-4c15-86b7-6baa1c19f731",
+			"d8e7ba05-f1b8-4ed8-b702-a4a636a564e5",
+			"e6a07b95-768b-4139-bcc7-1a32f99eaf77",
+			"4e4fcf82-dc0f-4422-a0b2-4f9005d53630",
+			"f35806cc-ef64-448f-85df-70e19246e427",
+			"bb0633aa-0028-46d9-af20-0f049ce3f984",
+			"1294d6ad-aa96-4129-8184-61c465e0ebdf",
+			"5267dff5-a760-48f9-ac49-cebacdf86c25",
+			"3ecea6a1-168e-4800-8ac1-1a4445026d66",
+			"f1ac94a7-a67c-4dd8-b7e2-6404550ddb76",
+			"0cd964c8-289b-4007-95c1-6e0521d90745",
+			"67499639-a14f-453a-89dd-21e7f394f3a4",
+			"352d26c5-a801-45ef-8ded-988c73974fda",
+			"e0c5e2fe-a7f0-4197-a0c5-f5f9aa5fa8bb",
+			"27bbdd02-1c59-46e4-8147-4306b37eb1bb",
+			"bf3cd21a-a2ff-4905-9274-e1167d804b2d",
+			"988b34d3-4d72-47ef-89fc-3958a5e95e65",
+			"d60169d9-9f0c-4aa7-a82d-abea55e7ffe7",
+			"bd81d94d-b9a1-4b81-ad24-239a3b539786",
+			"45f6912b-075b-4ef5-97f0-b3d5108743a8",
+			"84fa7cda-08e8-47b8-af0c-8d159867df61",
+			"833a2be9-13cf-4a4a-a9b6-08d79c9de453",
+			"4bbc8e81-d4a8-4db6-9c29-d7f923b6005e",
+			"dd68557f-2769-471a-987c-0d4953b183fa",
+			"9d84c32b-a8e8-4778-aea9-13e4f0b3a064",
+			"92ebe049-8f2a-4b6a-a902-9a178cfede9b",
+			"5d7f4bf9-952e-4721-8bf1-ea7df36729a5",
+			"b9cf623f-27fd-4229-bdc0-e9480bb66d64",
+			"59be65e6-5f24-4a37-af2e-9dc6dafceb9c",
+			"cf31c830-e8ec-494b-bf47-eac41a7f7a02",
+			"fa1164a7-8be6-42d6-b054-ea09f29c38a6"
+		],
+		"title": "Syllabus Geschiedenis en staatsinrichting vmbo gl 2022",
+		"id": "2cbad206-adc2-4f1e-b439-90e2415b2a5c",
+		"unreleased": true
 	}
 ]
