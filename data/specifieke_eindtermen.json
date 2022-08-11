@@ -38560,7 +38560,7 @@
 		"examenprogramma_domein_id": [
 			"02232950-2959-4d7d-abbc-9f184ee4d942"
 		],
-		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\nB1 (bij ruime voldoende)",
+		"title": "De kandidaat kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.\r\r\nB1 (bij ruime voldoende)",
 		"id": "0b62d26e-9a6d-4618-9f5a-4839c8174ac5",
 		"syllabus_toelichting_id": [
 			"463625df-859c-4958-8925-2923ef93678c",
@@ -38590,7 +38590,8 @@
 			"e3b44eb0-6fc7-470b-a23c-b4ca2b7dc654",
 			"8c0c01d8-a28e-4ddd-a133-30f52fe337bf"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
