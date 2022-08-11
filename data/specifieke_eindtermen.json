@@ -34862,7 +34862,7 @@
 	},
 	{
 		"ce_se": "CE",
-		"prefix": "GS/K/3/3.3",
+		"prefix": "GS/K/3/3.3/bb",
 		"examenprogramma_eindterm_id": [
 			"2f6610e3-640b-4afd-b750-1b120f36279b"
 		],
@@ -35036,7 +35036,9 @@
 			"581d5315-d35a-48d0-a375-9f148b9f1201",
 			"b4d2c88c-eacb-488b-87c7-97a494bd48e5",
 			"ccf780a7-cbfb-48a7-bbb6-515d6cfc18cc",
-			"16fb2e1a-885f-4c12-9801-7784c146e2f6"
+			"16fb2e1a-885f-4c12-9801-7784c146e2f6",
+			"e48388fe-b01a-4135-a431-1c7913dd28c5",
+			"8bebf765-e419-4da7-87f3-d4218997cc42"
 		],
 		"title": "De kandidaat kan enkele grondrechten herkennen en noemen, die in de loop van de 19e en 20e eeuw in de grondwet zijn opgenomen en daarbij onderscheid maken tussen klassieke en sociale grondrechten. Hij kan daarbij aangeven dat bepaalde grondrechten met elkaar op gespannen voet kunnen staan.",
 		"id": "676ed461-cfd0-48b7-859c-f3f429d09d57"
@@ -35533,7 +35535,8 @@
 			"67cf01c6-11db-4f17-b39d-f50891df09d7",
 			"e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
 			"e0337b38-1f86-412d-8641-25b6b3ceadc2",
-			"53f92bd2-50d4-44e5-815e-6e17cfb92b15"
+			"53f92bd2-50d4-44e5-815e-6e17cfb92b15",
+			"f51cbb8a-2664-44c5-a0fd-db9f93db5d93"
 		],
 		"title": "De kandidaat kan de kenmerkende gebeurtenissen en ontwikkelingen in Nederland herkennen en in het juiste tijdsgewricht plaatsen.",
 		"id": "b93e2430-ce4d-48b4-bda2-5ada546792c4"
@@ -35936,7 +35939,8 @@
 			"5db90d83-6a6a-4d68-ba54-aed68bb4c5fb",
 			"65798f9f-46b1-41c7-b2c4-e70191a3750e",
 			"3cbbad91-87d7-485c-af14-1bda47998125",
-			"15ed2275-7940-4d6c-8d34-ef1f09047077"
+			"15ed2275-7940-4d6c-8d34-ef1f09047077",
+			"b131f505-63b9-4020-99e4-7b692d1ab45f"
 		],
 		"title": "De kandidaat kan de bondgenootschappen van Centralen en Gealieerden herkennen en noemen",
 		"id": "86bc3e33-c496-454c-838a-0b5e2b0a1007"
@@ -36088,7 +36092,8 @@
 			"7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
 			"c85bee34-43be-46e7-8763-f130478fd074",
 			"1178233f-349d-4599-b810-3d9ac9baa967",
-			"47bfdc2e-ce0b-41a8-89b3-574291bfaa22"
+			"47bfdc2e-ce0b-41a8-89b3-574291bfaa22",
+			"056cc4c2-6310-42c6-9b3e-5b4936363e94"
 		],
 		"title": "De kandidaat kan de belangrijkste ontwikkelingen in nazi-Duitsland herkennen.",
 		"id": "14e67c03-cfd2-4fbc-8d3d-eb79a3405194"
@@ -36536,7 +36541,8 @@
 			"adc3d76b-f8d3-4d42-a52c-b27b32f125a0",
 			"fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
 			"3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
-			"b984897c-5fb4-438e-9504-deb84dc1b590"
+			"b984897c-5fb4-438e-9504-deb84dc1b590",
+			"3dc6173a-8587-4bd6-b380-47f52d2a2735"
 		],
 		"title": "De kandidaat kan de gevolgen van het einde van de Koude Oorlog en de daardoor gewijzigde machtsverhoudingen herkennen.",
 		"id": "bae6b1f2-b898-4508-82c7-095bb408a609"
@@ -54706,6 +54712,81 @@
 		],
 		"title": "De kandidaat kan een oordeel geven over de tekst op grond van aanwijsbare tekstgegevens.",
 		"id": "8de358ac-2204-4d87-9fdf-21e411da176b",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
+		"ce_se": "CE",
+		"prefix": "GS/K/5/6.14/bb",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4"
+		],
+		"syllabus_vakbegrip_id": [
+			"615623aa-a271-4f34-bf0d-dd419abca638",
+			"b4d2c88c-eacb-488b-87c7-97a494bd48e5",
+			"ccf780a7-cbfb-48a7-bbb6-515d6cfc18cc",
+			"16fb2e1a-885f-4c12-9801-7784c146e2f6",
+			"32db1876-0e57-46ef-abdc-d1ac3e98ba5c",
+			"27bb51c0-7b96-417a-b97f-25066e9381cb",
+			"0faf41f5-a097-4fd3-aac8-9833bd89903e"
+		],
+		"title": "De kandidaat kan sociale grondrechten noemen die in 1983 in de grondwet zijn opgenomen.",
+		"id": "6f8a2b01-eb41-4cab-b6ae-60f1888a1a1e",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.1/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaats gevonden die in deze eindterm genoemd worden.",
+		"id": "c4632b5e-7f0e-4ea4-8b8f-2c3f07f75f18",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.4/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "677dbd94-ea03-4b79-b7b7-851695e69225",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.8/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "e0b65543-66cf-43d5-8b6b-073319932c6a",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.11/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "332cba40-214f-49ba-bbf3-604736ab4966",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.15/bb",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "4509ae83-d791-4e0e-86da-c4ee0ab08ce5",
 		"unreleased": true
 	}
 ]
