@@ -17799,5 +17799,64 @@
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo gl 2023",
 		"id": "a62aeda4-d75b-4860-a690-11f784ace5d5",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"5fbc4877-8077-4404-988b-f623203730a2"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"fe84c32c-0215-450f-848b-f4a105cb122c",
+			"38113410-4677-44bd-a472-d4df8e697ca5",
+			"29be8bb7-8c06-4b79-98d2-4282031239fa",
+			"72f33b41-71e7-44e1-bddd-cf7ea525474d",
+			"5cebfc68-e998-461e-8aa1-fbb36167271d",
+			"6ab8c6de-0186-477b-8323-6144eca536c9",
+			"22b3ad06-e887-40a0-a607-29150a559b30",
+			"261fb75b-8476-4bbd-ad0b-a230ce1c44ea",
+			"836d8927-3d81-4f65-b876-6c7ee7503168",
+			"6add507c-9cfd-4ae1-8e27-047ac0636e7b",
+			"8346945c-108f-4c15-86b7-6baa1c19f731",
+			"d8e7ba05-f1b8-4ed8-b702-a4a636a564e5",
+			"e6a07b95-768b-4139-bcc7-1a32f99eaf77",
+			"4e4fcf82-dc0f-4422-a0b2-4f9005d53630",
+			"f35806cc-ef64-448f-85df-70e19246e427",
+			"1294d6ad-aa96-4129-8184-61c465e0ebdf",
+			"3ecea6a1-168e-4800-8ac1-1a4445026d66",
+			"f1ac94a7-a67c-4dd8-b7e2-6404550ddb76",
+			"0cd964c8-289b-4007-95c1-6e0521d90745",
+			"67499639-a14f-453a-89dd-21e7f394f3a4",
+			"352d26c5-a801-45ef-8ded-988c73974fda",
+			"e0c5e2fe-a7f0-4197-a0c5-f5f9aa5fa8bb",
+			"27bbdd02-1c59-46e4-8147-4306b37eb1bb",
+			"bf3cd21a-a2ff-4905-9274-e1167d804b2d",
+			"988b34d3-4d72-47ef-89fc-3958a5e95e65",
+			"d60169d9-9f0c-4aa7-a82d-abea55e7ffe7",
+			"bd81d94d-b9a1-4b81-ad24-239a3b539786",
+			"d05e17b6-939c-4b26-86ed-ce3366b62926",
+			"84fa7cda-08e8-47b8-af0c-8d159867df61",
+			"833a2be9-13cf-4a4a-a9b6-08d79c9de453",
+			"4bbc8e81-d4a8-4db6-9c29-d7f923b6005e",
+			"dd68557f-2769-471a-987c-0d4953b183fa",
+			"9d84c32b-a8e8-4778-aea9-13e4f0b3a064",
+			"92ebe049-8f2a-4b6a-a902-9a178cfede9b",
+			"9cfb82f4-3f86-4069-bb2a-89c0acf3777f",
+			"4097dc1f-c4b3-4382-b966-8ba1a8c963f7",
+			"5f9a3379-bdc4-42d0-8a55-bf6ce7ace8cf",
+			"5ebc0c8c-9c8b-488d-8b82-276496a6bea2",
+			"56b3ef6d-ba77-4f12-a46e-834db2c5a086"
+		],
+		"title": "Syllabus Geschiedenis en staatsinrichting vmbo kb 2023",
+		"id": "173662ed-742f-49c8-bb23-4bb8e4f98782",
+		"unreleased": true
 	}
 ]
