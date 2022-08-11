@@ -17968,5 +17968,53 @@
 		"title": "Syllabus Nederlandse taal havo 2023",
 		"id": "ac076d0f-0cb1-4464-a866-101f87dcef38",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"ce6c5669-3f94-4517-9346-9017e24bf0f1"
+		],
+		"syllabus_vakleergebied_id": [
+			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"cbb7ddeb-2f48-45ee-a6db-6af615e74a92",
+			"c87d2c80-6a24-4927-bb2c-979a9cd4a7f3",
+			"10023961-7645-4f29-b9de-6e145c3ba893",
+			"07ea4484-b5d6-494d-86e5-114ace305860",
+			"3c866c34-6e73-41e3-ba68-69aa018f9ec9",
+			"654d7dd1-81c4-4b58-8432-72ab46ec2cd0",
+			"7f04a144-b99d-4c48-88f4-eb481c97d98e",
+			"9a0c558b-0392-4d04-89a1-970be042d57f",
+			"754ad34e-8c5d-44f7-a01f-dc09368db065",
+			"5a0f68c1-76c6-459f-b830-9302be437e42",
+			"2f2e3b57-d70d-49fe-b4cc-84f369b391b9",
+			"e9dd8ebe-3b4d-4b9a-833d-eac5a795978c",
+			"d2b513a0-9b34-4f61-9c89-114f18d523a2",
+			"292ae9f9-0732-4058-9ddf-264ff15e906f",
+			"1f2e222f-8ebd-4c87-a7f1-395b61912da1",
+			"183f68f1-60e5-43e0-8260-7d30db9cfbbd",
+			"d257b464-c45c-4ebb-a848-bbab073d2e93",
+			"254308aa-ef07-40ce-aa94-a3110d6f9059",
+			"edd9e1be-3476-41fd-84d4-ca41da9a9cd1",
+			"70991428-600c-42c9-b6fe-efba6d83d6c5",
+			"c04843fc-4346-4295-8d47-38af270c7a29",
+			"d429a573-9901-4929-abb8-cc0f903f3bee",
+			"a246b7b0-480c-477a-a0d6-7ddaeed3a557",
+			"b05499d5-e77f-4571-8223-2945939321fd",
+			"fd8bf146-5363-4612-a57f-5e866f78dca3",
+			"278147b6-26d3-4d86-a79d-08c3540cba6f",
+			"e34d4f5d-8dad-4df4-9086-2be1cf7fe5f2",
+			"43925b32-f674-4cbb-9ee9-ce060dbcc7bb"
+		],
+		"title": "Syllabus Nederlandse taal vwo 2023",
+		"id": "b039a7db-cb2d-4cca-8f9e-1216bffcb683",
+		"unreleased": true
 	}
 ]
