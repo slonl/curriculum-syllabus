@@ -34964,7 +34964,8 @@
 			"32c1a165-c190-4d42-a83d-c7b34afeddd4",
 			"c9ed9a83-d553-44bd-acd0-1368e3a11d24",
 			"ee8a033b-0263-409e-953f-b06fdeb5ee1e",
-			"24311267-c41f-4d97-86f2-f693ff1f8bfb"
+			"24311267-c41f-4d97-86f2-f693ff1f8bfb",
+			"31f35ea1-07fa-4d56-a813-9a030baafb50"
 		],
 		"title": "De kandidaat kan belangrijke kenmerken van de Nederlandse staatsinrichting herkennen",
 		"id": "d05e17b6-939c-4b26-86ed-ce3366b62926"
@@ -36046,7 +36047,7 @@
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
 		"ce_se": "CE",
-		"prefix": "GS/K/10/16.6/kgt",
+		"prefix": "GS/K/10/16.6/kb",
 		"examenprogramma_eindterm_id": [
 			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
 		],
@@ -54848,6 +54849,61 @@
 		],
 		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren.",
 		"id": "216887e2-884b-4bcc-9d6d-26a033f69e75",
+		"unreleased": true
+	},
+	{
+		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.1/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "9cfb82f4-3f86-4069-bb2a-89c0acf3777f",
+		"unreleased": true
+	},
+	{
+		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.4/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "4097dc1f-c4b3-4382-b966-8ba1a8c963f7",
+		"unreleased": true
+	},
+	{
+		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.8/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "5f9a3379-bdc4-42d0-8a55-bf6ce7ace8cf",
+		"unreleased": true
+	},
+	{
+		"description": "De periode 1945-1989, Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.11/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "5ebc0c8c-9c8b-488d-8b82-276496a6bea2",
+		"unreleased": true
+	},
+	{
+		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
+		"ce_se": "CE",
+		"prefix": "GS/K/10/16.15/kgt",
+		"examenprogramma_eindterm_id": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
+		"id": "56b3ef6d-ba77-4f12-a46e-834db2c5a086",
 		"unreleased": true
 	}
 ]
