@@ -18016,5 +18016,26 @@
 		"title": "Syllabus Nederlandse taal vwo 2023",
 		"id": "b039a7db-cb2d-4cca-8f9e-1216bffcb683",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans havo 2022",
+		"id": "a85d29c6-8165-4187-9fe6-332e1b7d3c24",
+		"unreleased": true
 	}
 ]
