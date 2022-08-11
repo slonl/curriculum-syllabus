@@ -4289,8 +4289,10 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "Pacificatie (1917):",
-		"id": "077b5e8d-5b61-4978-be9c-b9aac61857b1"
+		"title": "Pacificatie (1917)",
+		"id": "077b5e8d-5b61-4978-be9c-b9aac61857b1",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Staatsinrichting van Nederland",
@@ -4897,8 +4899,10 @@
 	{
 		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
 		"ce_se": "CE",
-		"title": "grondwetswijziging 1983:",
-		"id": "c4547e6f-b4ef-448b-891a-1080d693f2e0"
+		"title": "grondwetswijziging 1983",
+		"id": "c4547e6f-b4ef-448b-891a-1080d693f2e0",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "De periode 1945-1989, Staatsinrichting van Nederland",
@@ -5525,8 +5529,10 @@
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "en overeenkomsten en verschil met het fascisme in Italië",
-		"id": "bbaab119-fd69-4393-96af-670151d7e85b"
+		"title": "overeenkomsten en verschil met het fascisme in Italië",
+		"id": "bbaab119-fd69-4393-96af-670151d7e85b",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
@@ -5567,8 +5573,10 @@
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "naziorganisaties:",
-		"id": "c36f7e5c-1861-4e8f-99e3-067f8b292a35"
+		"title": "naziorganisaties",
+		"id": "c36f7e5c-1861-4e8f-99e3-067f8b292a35",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
