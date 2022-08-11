@@ -5219,7 +5219,7 @@
 	{
 		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "Centralen",
+		"title": "Centralen:",
 		"id": "99f59585-13d2-4abe-ae23-eeac85866b50",
 		"dirty": true,
 		"prefix": ""
@@ -5695,8 +5695,10 @@
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
 		"ce_se": "CE",
-		"title": "kenmerken van stalinisme:",
-		"id": "59c5c403-70bb-402c-8418-496d07fd00c2"
+		"title": "kenmerken van stalinisme",
+		"id": "59c5c403-70bb-402c-8418-496d07fd00c2",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
