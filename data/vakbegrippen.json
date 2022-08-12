@@ -1780,7 +1780,10 @@
 	},
 	{
 		"title": "faseovergangen",
-		"id": "ea252b52-4b5b-4180-866a-4af1943e0b3b"
+		"id": "ea252b52-4b5b-4180-866a-4af1943e0b3b",
+		"dirty": true,
+		"description": "natuurkundig proces",
+		"ce_se": "CE"
 	},
 	{
 		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbid",
@@ -1788,7 +1791,10 @@
 	},
 	{
 		"title": "p = m / V",
-		"id": "135381a6-e11e-4efe-83b9-1bd9266f10b4"
+		"id": "135381a6-e11e-4efe-83b9-1bd9266f10b4",
+		"dirty": true,
+		"description": "formules",
+		"ce_se": "CE"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -8089,7 +8095,8 @@
 		"ce_se": "CE",
 		"title": "weerstand",
 		"id": "75664fce-055e-40a7-94c8-306377b7dd7f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "componenten"
 	},
 	{
 		"ce_se": "CE",
@@ -8145,19 +8152,22 @@
 		"ce_se": "CE",
 		"title": "stemvork",
 		"id": "0f4f9056-6dd3-4905-a66b-1fa00bb75020",
-		"unreleased": true
+		"unreleased": true,
+		"description": "geluidsbronnen"
 	},
 	{
 		"ce_se": "CE",
 		"title": "luidspreker",
 		"id": "df79a76f-61b3-4bff-9cf4-f29e6c531665",
-		"unreleased": true
+		"unreleased": true,
+		"description": "geluidsbronnen"
 	},
 	{
 		"ce_se": "CE",
 		"title": "microfoon",
 		"id": "86cfef09-59cc-4c40-881e-952d10c7c8e5",
-		"unreleased": true
+		"unreleased": true,
+		"description": "geluidsontvanger"
 	},
 	{
 		"ce_se": "CE",
@@ -8181,7 +8191,8 @@
 		"ce_se": "CE",
 		"title": "thermometer",
 		"id": "ece7f78c-69e3-4dd8-9696-f01fda438b2a",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
@@ -8223,37 +8234,43 @@
 		"ce_se": "CE",
 		"title": "stroommeter",
 		"id": "bf1bdbbe-5934-4dfe-a8df-62940c4198ec",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
 		"title": "spanningsmeter",
 		"id": "8a1de0bd-0552-4053-9a0f-4843f78134eb",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
 		"title": "vermogensmeter",
 		"id": "f8c32554-d30c-45d6-9cfa-8eacd517d290",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
 		"title": "kWh-meter",
 		"id": "f7b9f4c7-a964-4c03-8582-93c6a5aed997",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
 		"title": "multimeter",
 		"id": "0f2e9c56-19a2-41cd-afbd-e60c867543c0",
-		"unreleased": true
+		"unreleased": true,
+		"description": "meetinstrumenten"
 	},
 	{
 		"ce_se": "CE",
 		"title": "transformator",
 		"id": "0e62f170-8f61-4c77-93b1-098e5c0e6bd7",
-		"unreleased": true
+		"unreleased": true,
+		"description": "componenten"
 	},
 	{
 		"description": "woordformules",
@@ -8721,6 +8738,192 @@
 		"ce_se": "CE",
 		"title": "echoscopie",
 		"id": "659e1fd2-0825-488e-9e47-d7f330c06565",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "lengte (weg, afstand, arm)",
+		"id": "808045af-15f1-49f1-a8ef-1beab41735c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "versnelling",
+		"id": "e6643b58-652e-4cab-91b0-4dfb531a0179",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "tijd (trillingstijd)",
+		"id": "baf91c5f-796d-439a-be98-f5fa5d83c9ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "bewegingsenergie",
+		"id": "e81a6c40-d97d-4a62-b985-cadefc39c442",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "zwaarte-energie",
+		"id": "e35df16d-d48f-48c5-b81e-adf4132a7b38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "elektrische energie",
+		"id": "567fb167-33b5-42c6-bd4d-091f225620c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "veer energie of elastische energie",
+		"id": "4751e374-34d6-4ca6-ac87-34649347600b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "arbeid",
+		"id": "c3348f0e-21ca-4b15-a0b9-cb8b0968469a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "moment",
+		"id": "fcb8a46f-87cf-4a36-b6ac-af028b043671",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "capaciteit",
+		"id": "eba00106-9fd9-40b8-b2ca-c9c70d87f2f9",
+		"unreleased": true
+	},
+	{
+		"description": "soorten materialen",
+		"ce_se": "CE",
+		"title": "hout",
+		"id": "2cb26528-bf18-428e-8671-2e45617e94fb",
+		"unreleased": true
+	},
+	{
+		"description": "eigenschappen",
+		"ce_se": "CE",
+		"title": "dichtheid",
+		"id": "d95465d2-5fff-4486-8ebc-23136d118123",
+		"unreleased": true
+	},
+	{
+		"description": "eigenschappen",
+		"ce_se": "CE",
+		"title": "vervormen",
+		"id": "399c7a2c-0440-470d-937d-57c867824bf6",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "voedselbereiding",
+		"id": "d9bc0121-caa8-4339-8947-bfdc054b6b67",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "roesten",
+		"id": "ecaeafcd-4342-428b-afba-7d51e3f28dab",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "verbranding",
+		"id": "3dbe42e4-c9d0-472b-86de-77cc22710e76",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "uitharden van beton",
+		"id": "6526ed88-c011-421e-a672-73a5d2bed4d2",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "lijmen",
+		"id": "103ad17f-15ef-4827-b6d2-3e23731130bd",
+		"unreleased": true
+	},
+	{
+		"description": "chemische reactie",
+		"ce_se": "CE",
+		"title": "carbid",
+		"id": "e4e036ec-7e0c-426e-a577-e370edac4568",
+		"unreleased": true
+	},
+	{
+		"description": "componenten",
+		"ce_se": "CE",
+		"title": "condensator",
+		"id": "df303377-32af-4586-8152-e1d11b967b5a",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "kachel, c.v.",
+		"id": "a9267ddf-c070-43e5-b2dd-2583bad707bb",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "fornuis",
+		"id": "e9cef84c-99c5-483b-aff2-202066af61a8",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "vloerverwarming",
+		"id": "234beb19-76b3-400a-9904-991f5e586f3a",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "gasbrander",
+		"id": "55990b8f-4bbc-4b90-879f-2dfcd5803306",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "elektrische kookplaat",
+		"id": "3db58c64-b6bb-46b9-a85b-1a6923e91341",
+		"unreleased": true
+	},
+	{
+		"description": "warmtebronnen",
+		"ce_se": "CE",
+		"title": "elektrische dompelaar",
+		"id": "70d61410-b629-408a-a80e-268e7341a7bd",
+		"unreleased": true
+	},
+	{
+		"description": "meetinstrumenten",
+		"ce_se": "CE",
+		"title": "temperatuursensor",
+		"id": "a88b99e7-2050-404a-91b8-11a5314ea7f7",
+		"unreleased": true
+	},
+	{
+		"description": "geluidsontvanger",
+		"ce_se": "CE",
+		"title": "geluidsensor",
+		"id": "d843e2be-1a35-40c4-8425-cad864a389ae",
 		"unreleased": true
 	}
 ]
