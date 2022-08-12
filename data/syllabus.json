@@ -18040,5 +18040,26 @@
 		"title": "Syllabus Moderne vreemde talen Frans havo 2023",
 		"id": "66b84be9-292b-4433-b949-c86620f68145",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"11600baa-9848-4403-8fbd-a552a4b4fee8"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"14d1449c-4ca6-4cf4-ab38-fe5d2d2440bf"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vwo 2023",
+		"id": "33576d04-835e-462b-8fac-5108080b95a7",
+		"unreleased": true
 	}
 ]
