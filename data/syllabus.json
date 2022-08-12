@@ -18058,5 +18058,26 @@
 		"title": "Syllabus Moderne vreemde talen Arabisch havo 2023",
 		"id": "044249d1-68a6-4de2-a1ae-5563ba22cbdc",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"ddc10650-6c3d-4666-8727-e895e0a9bf03"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"f9fa0130-625f-4cae-a1f8-03aebb06135d"
+		],
+		"title": "Syllabus Moderne vreemde talen Arabisch vwo 2023",
+		"id": "a884821a-ecc8-4586-b112-a1c4d765e7a9",
+		"unreleased": true
 	}
 ]
