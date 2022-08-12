@@ -17956,5 +17956,26 @@
 		"title": "Syllabus Moderne vreemde talen Duits havo 2023",
 		"id": "e36d8ed7-56c3-40ac-8fb1-33fcfff5e2af",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"b318368e-baad-4b5c-b146-bdb589e44beb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"554f1f54-66fe-4be3-84a8-b0d521d1bfa6"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vwo 2023",
+		"id": "af82e495-c261-42ea-b385-8fa6872aad0f",
+		"unreleased": true
 	}
 ]
