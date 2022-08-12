@@ -18149,5 +18149,26 @@
 		"title": "Syllabus Moderne vreemde talen Russisch havo 2023",
 		"id": "74edb204-b1f2-4fde-8d31-8d5c62706eb3",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"17fd3fa2-df89-4296-a34f-fc9302284659"
+		],
+		"syllabus_vakleergebied_id": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ae12bd8-d260-49ba-85e4-7e4028b4fdee"
+		],
+		"title": "Syllabus Moderne vreemde talen Russisch vwo 2023",
+		"id": "c75955bf-1476-45e7-89bf-6efc2f7c5c0c",
+		"unreleased": true
 	}
 ]
