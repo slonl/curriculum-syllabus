@@ -17998,5 +17998,26 @@
 		"title": "Syllabus Moderne vreemde talen Engels havo 2023",
 		"id": "772dcf0c-e5ad-4f71-a4a5-51af541cd3f4",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"585c656d-6e1a-48ef-a165-0a38ce28ca80"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"db55a88c-b1a1-42ee-84d7-9fa041b30dee"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels vwo 2023",
+		"id": "5e115c8a-2d9b-4e6b-810b-f721b8d6a816",
+		"unreleased": true
 	}
 ]
