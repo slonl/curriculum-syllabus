@@ -18453,5 +18453,26 @@
 		"title": "Syllabus Moderne vreemde talen Spaans havo 2023",
 		"id": "84f34ec1-7465-464b-aece-a5bd0be2fbf3",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"d37b8bd4-bc58-45a2-a02a-4f0654b8a88e"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vwo 2023",
+		"id": "188772f2-2327-4398-8606-4a09216dcb01",
+		"unreleased": true
 	}
 ]
