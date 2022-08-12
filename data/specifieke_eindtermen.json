@@ -54917,5 +54917,25 @@
 		"title": "De kandidaat kan omstandigheden herkennen die invloed hebben op de veiligheid tijdens het rijden, tenminste reactietijd, rijsnelheid, staat van de banden en van het wegdek, weeromstandigheden.",
 		"id": "3471fc0c-c7d8-4d0a-bed1-89f9e19f5603",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK1/K/4/6b.1c/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"dd2cc9a9-6b10-496e-9a55-88348e3b54b3"
+		],
+		"title": "De kandidaat kan uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren worden aangegeven en hoe deze gevaren zijn tegen te gaan door voorzorgsmaatregelen te nemen: gifwijzer",
+		"id": "52dd6d97-5894-4b4d-9050-3ad22d3daa09",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "NASK1/K/4/6b.1d/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"dd2cc9a9-6b10-496e-9a55-88348e3b54b3"
+		],
+		"title": "De kandidaat kan uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren worden aangegeven en hoe deze gevaren zijn tegen te gaan door voorzorgsmaatregelen te nemen: pictogrammen - schadelijk of irriterend, explosief, buitend, ontvlambaar, giftig, niet mengen, brandbevorderend.",
+		"id": "58b8a8f7-5031-4a56-b757-0d1a57b9407d",
+		"unreleased": true
 	}
 ]
