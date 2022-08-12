@@ -4995,7 +4995,22 @@
 	{
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"examenprogramma_id": [
 			"51b44493-004b-4b9a-aa90-a83d6155561f"
@@ -5007,6 +5022,519 @@
 		"id": "e59047dc-0b54-4224-bcb2-09e6382602de",
 		"syllabus_vakleergebied_id": [
 			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"childNodes": [
+			{
+				"prefix": "EN/vmbo",
+				"id": "51b44493-004b-4b9a-aa90-a83d6155561f",
+				"title": "Examenprogramma Moderne vreemde talen Engels vmbo",
+				"examenprogramma_vakleergebied_id": [
+					"65701c83-286b-4865-91dc-db2848276c33"
+				],
+				"examenprogramma_domein_id": [
+					"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+					"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
+					"b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+					"79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
+					"7ae80c81-f11d-4de3-9fc0-6422249cd691",
+					"88828519-f671-421c-83bb-01743cb36832",
+					"8901a49b-730f-4158-8dc0-33813f4cd023",
+					"bd98fda7-a534-4a64-942a-611146a4d3b0",
+					"8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
+					"de039faa-9871-484c-a542-515f92aadd9d",
+					"35a649dd-0d0e-4df3-8237-a62bc622d5b6",
+					"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
+				],
+				"ingangsdatum": "Vanaf CE 2017",
+				"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2020/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf",
+				"versie": "2020",
+				"examenprogramma_kop1_id": [
+					"177dee42-5a35-436c-8060-70084aba4958"
+				],
+				"replaces": [
+					"983f6ca1-1bcb-4e09-bac2-a74c1905ffa3"
+				],
+				"niveau_id": [
+					"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"8574855d-0670-42bf-9f73-dc6706278b8b",
+					"64852857-b601-419f-9cbb-e1335a185303",
+					"8450c011-f812-4f89-97a9-6b8820baffc5"
+				],
+				"section": "examenprogramma",
+				"children": [
+					"65701c83-286b-4865-91dc-db2848276c33",
+					"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+					"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
+					"b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+					"79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
+					"7ae80c81-f11d-4de3-9fc0-6422249cd691",
+					"88828519-f671-421c-83bb-01743cb36832",
+					"8901a49b-730f-4158-8dc0-33813f4cd023",
+					"bd98fda7-a534-4a64-942a-611146a4d3b0",
+					"8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
+					"de039faa-9871-484c-a542-515f92aadd9d",
+					"35a649dd-0d0e-4df3-8237-a62bc622d5b6",
+					"f8fc7329-a2c9-4438-b42b-36cf5d6fb768",
+					"177dee42-5a35-436c-8060-70084aba4958"
+				],
+				"parents": []
+			},
+			{
+				"ce_se": "ce",
+				"prefix": "MVT/EN/K/4",
+				"examenprogramma_domein_id": [
+					"7ae80c81-f11d-4de3-9fc0-6422249cd691"
+				],
+				"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
+				"id": "886a3e7c-33ff-403b-9f79-1cc815a34b79",
+				"syllabus_toelichting_id": [
+					"b34af0e8-9d6c-44df-9e07-889849bd7ce3",
+					"caaae81e-f777-4506-8f5c-715f49c8b97d",
+					"8ed1c9e5-e845-4d6c-99df-1a65c3b68b68",
+					"328cce14-47ab-42df-9a60-5fa65f422756",
+					"c14eaa90-7f38-45f9-a3f3-7fd8bce65a7f",
+					"3f0281b8-7b0e-47fa-b8cd-81be73c8627d",
+					"7dad187d-155b-458a-997a-4f9bd7862a7a",
+					"77ac9eda-6453-4612-9352-98a1213acaa3",
+					"953987c8-6beb-4dde-b294-3d4f3f9f480e",
+					"a6901812-752d-44a6-a31e-4b853aa6e33e",
+					"f7cc70c0-aa4c-49ab-98ca-f82797fba147",
+					"75b6b05a-7ec6-4a22-827d-8dd90963777f",
+					"c9bf3942-4cff-489b-9aba-78b448e6440b",
+					"e77ef6cc-542c-4fed-880a-3605d6b55d44",
+					"361a93ce-8702-41c9-9f0f-20a83414097b",
+					"7755cf68-76c2-4228-93c3-c7e9328276d8",
+					"c8fda7d5-b108-4a55-bdaf-723eb6f37fb0",
+					"51e694a6-cd70-4970-943d-a51cbe3ede33",
+					"5ab01702-6001-4281-a8f7-bc37b0a5576e",
+					"3888fb45-0864-432f-b694-1571f2ec8327",
+					"3c3196c8-c6e0-448c-9667-988f9d7f61cd",
+					"9b2a440f-49de-41e6-96c6-f0e218ff2a88",
+					"8ee0fc2d-4785-4d06-96a8-b800f13924fe",
+					"a793202d-bc0c-4d8d-9edb-352fee877255",
+					"c215049b-bc4e-4f90-b245-74b2968f21e9",
+					"5ec549f4-e6db-42ee-aad4-156fe80232f5",
+					"54da14b0-906d-478d-9d05-f7f3cdd27418",
+					"7af4a6d6-ffb6-47b1-9d70-6469d1e8c4b0",
+					"75e67fe3-bddb-488d-9d03-89e0196577e1",
+					"33784818-ccd7-4d1f-a8ee-5753cf4ed78a"
+				],
+				"dirty": true,
+				"section": "syllabus_specifieke_eindterm",
+				"children": [
+					"7ae80c81-f11d-4de3-9fc0-6422249cd691",
+					"b34af0e8-9d6c-44df-9e07-889849bd7ce3",
+					"caaae81e-f777-4506-8f5c-715f49c8b97d",
+					"8ed1c9e5-e845-4d6c-99df-1a65c3b68b68",
+					"328cce14-47ab-42df-9a60-5fa65f422756",
+					"c14eaa90-7f38-45f9-a3f3-7fd8bce65a7f",
+					"3f0281b8-7b0e-47fa-b8cd-81be73c8627d",
+					"7dad187d-155b-458a-997a-4f9bd7862a7a",
+					"77ac9eda-6453-4612-9352-98a1213acaa3",
+					"953987c8-6beb-4dde-b294-3d4f3f9f480e",
+					"a6901812-752d-44a6-a31e-4b853aa6e33e",
+					"f7cc70c0-aa4c-49ab-98ca-f82797fba147",
+					"75b6b05a-7ec6-4a22-827d-8dd90963777f",
+					"c9bf3942-4cff-489b-9aba-78b448e6440b",
+					"e77ef6cc-542c-4fed-880a-3605d6b55d44",
+					"361a93ce-8702-41c9-9f0f-20a83414097b",
+					"7755cf68-76c2-4228-93c3-c7e9328276d8",
+					"c8fda7d5-b108-4a55-bdaf-723eb6f37fb0",
+					"51e694a6-cd70-4970-943d-a51cbe3ede33",
+					"5ab01702-6001-4281-a8f7-bc37b0a5576e",
+					"3888fb45-0864-432f-b694-1571f2ec8327",
+					"3c3196c8-c6e0-448c-9667-988f9d7f61cd",
+					"9b2a440f-49de-41e6-96c6-f0e218ff2a88",
+					"8ee0fc2d-4785-4d06-96a8-b800f13924fe",
+					"a793202d-bc0c-4d8d-9edb-352fee877255",
+					"c215049b-bc4e-4f90-b245-74b2968f21e9",
+					"5ec549f4-e6db-42ee-aad4-156fe80232f5",
+					"54da14b0-906d-478d-9d05-f7f3cdd27418",
+					"7af4a6d6-ffb6-47b1-9d70-6469d1e8c4b0",
+					"75e67fe3-bddb-488d-9d03-89e0196577e1",
+					"33784818-ccd7-4d1f-a8ee-5753cf4ed78a"
+				],
+				"childNodes": [
+					{
+						"prefix": "EN/K/4",
+						"id": "7ae80c81-f11d-4de3-9fc0-6422249cd691",
+						"title": "Leesvaardigheid",
+						"examenprogramma_eindterm_id": [
+							"45787fe7-ebf6-47df-92ae-838524e2cba5",
+							"4224fdd9-669b-4c1a-9e4a-d6d0998e1294",
+							"7e3dff9c-6051-49a4-95c2-003aa4babddd",
+							"e92b0f13-d937-4be1-855b-6e45007b690c",
+							"2df4054f-871e-4c70-8995-f65e3d00039d",
+							"18b99a4c-eb33-4f82-8d06-3cc8948b7b80"
+						],
+						"ce_se": "CE",
+						"section": "examenprogramma_domein",
+						"children": [
+							"45787fe7-ebf6-47df-92ae-838524e2cba5",
+							"4224fdd9-669b-4c1a-9e4a-d6d0998e1294",
+							"7e3dff9c-6051-49a4-95c2-003aa4babddd",
+							"e92b0f13-d937-4be1-855b-6e45007b690c",
+							"2df4054f-871e-4c70-8995-f65e3d00039d",
+							"18b99a4c-eb33-4f82-8d06-3cc8948b7b80"
+						],
+						"parents": [
+							{
+								"id": "51b44493-004b-4b9a-aa90-a83d6155561f",
+								"type": "examenprogramma",
+								"ids": [
+									{
+										"id": "51b44493-004b-4b9a-aa90-a83d6155561f"
+									}
+								]
+							}
+						]
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.1",
+						"title": "CORRESPONDENTIE LEZEN: De kandidaat kan een simpele persoonlijke brief of e-mail of bericht begrijpen waarin wordt gesproken over vertrouwde onderwerpen (zoals vrienden of familie) of waarin vragen over deze onderwerpen worden gesteld.",
+						"id": "b34af0e8-9d6c-44df-9e07-889849bd7ce3",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.2",
+						"title": "CORRESPONDENTIE LEZEN: De kandidaat kan elementaire soorten standaardbrieven en faxen (inlichtingen, bestellingen, bevestigingsbrieven, enzovoort) over vertrouwde onderwerpen begrijpen",
+						"id": "caaae81e-f777-4506-8f5c-715f49c8b97d",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.3",
+						"title": "CORRESPONDENTIE LEZEN: De kandidaat kan korte, eenvoudige persoonlijke brieven begrijpen.",
+						"id": "8ed1c9e5-e845-4d6c-99df-1a65c3b68b68",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.3",
+						"title": "CORRESPONDENTIE LEZEN: De kandidaat kan zeer eenvoudige formele e-mails en brieven begrijpen (bijvoorbeeld bevestigingen van boekingen of internetaankopen).",
+						"id": "328cce14-47ab-42df-9a60-5fa65f422756",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.4",
+						"title": "ORIËNTEREND LEZEN: De kandidaat kan specifieke informatie vinden in praktische, concrete, voorspelbare teksten (bijvoorbeeld reisgidsen, recepten), mits deze in eenvoudige taal zijn geschreven.",
+						"id": "c14eaa90-7f38-45f9-a3f3-7fd8bce65a7f",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.5",
+						"title": "ORIËNTEREND LEZEN: De kandidaat kan de belangrijkste informatie begrijpen in korte en eenvoudige beschrijvingen van goederen in brochures en op websites (bijvoorbeeld draagbare digitale apparaten, camera's enzovoort).",
+						"id": "3f0281b8-7b0e-47fa-b8cd-81be73c8627d",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.6",
+						"title": "ORIËNTEREND LEZEN: De kandidaat kan specifieke, voorspelbare informatie vinden in eenvoudig alledaags materiaal, zoals advertenties, folders, menu’s, lijsten en dienstregelingen",
+						"id": "7dad187d-155b-458a-997a-4f9bd7862a7a",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.5",
+						"title": "ORIËNTEREND LEZEN: De kandidaat kan specifieke informatie vinden in lijsten en de gewenste informatie uithalen (bijvoorbeeld de Gouden Gids gebruiken om een servicebedrijf of een winkel te zoeken).",
+						"id": "77ac9eda-6453-4612-9352-98a1213acaa3",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.6",
+						"title": "ORIËNTEREND LEZEN: De kandidaat kan alledaagse borden en kennisgevingen begrijpen: in het openbaar, bijvoorbeeld op straat, in restaurants en op stations; op het werk, bijvoorbeeld aanwijzingen, instructies, waarschuwingen voor gevaar.",
+						"id": "953987c8-6beb-4dde-b294-3d4f3f9f480e",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.7",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan specifieke informatie herkennen in eenvoudiger schriftelijk materiaal waarmee hij of zij in aanraking komt, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
+						"id": "a6901812-752d-44a6-a31e-4b853aa6e33e",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.8",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de grote lijnen volgen van een nieuwsbericht over een vertrouwd soort gebeurtenis, mits de inhoud vertrouwd en voorspelbaar is.",
+						"id": "f7cc70c0-aa4c-49ab-98ca-f82797fba147",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.7",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste informatie oppikken in korte krantenberichten of eenvoudige artikelen waarin cijfers, namen, illustraties en titels een belangrijke rol spelen en de betekenis van de tekst ondersteunen.",
+						"id": "75b6b05a-7ec6-4a22-827d-8dd90963777f",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.8",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste punten begrijpen van korte teksten over alledaagse onderwerpen (bijvoorbeeld levensstijl, hobby's, sport, weer).",
+						"id": "c9bf3942-4cff-489b-9aba-78b448e6440b",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.7",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan teksten begrijpen die mensen, plaatsen, het alledaagse leven en cultuur enzovoort beschrijven, mits ze in eenvoudige taal zijn geschreven",
+						"id": "e77ef6cc-542c-4fed-880a-3605d6b55d44",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.8",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan informatie begrijpen die wordt gegeven in geïllustreerde brochures en plattegronden, bijvoorbeeld de belangrijkste attracties van een stad.",
+						"id": "361a93ce-8702-41c9-9f0f-20a83414097b",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.7",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste punten begrijpen van korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer (bijvoorbeeld sport, beroemdheden).",
+						"id": "7755cf68-76c2-4228-93c3-c7e9328276d8",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.8",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan een korte, feitelijke beschrijving of een kort, feitelijk verslag binnen zijn of haar eigen vakgebied begrijpen, mits het in eenvoudige taal is geschreven en geen onvoorspelbare details bevat",
+						"id": "c8fda7d5-b108-4a55-bdaf-723eb6f37fb0",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.8",
+						"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan het meeste begrijpen van wat mensen over zichzelf vertellen in een persoonlijke advertentie of een persoonlijk bericht op internet en wat ze zeggen leuk te vinden in andere mensen.",
+						"id": "51e694a6-cd70-4970-943d-a51cbe3ede33",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan voorschriften begrijpen, bijvoorbeeld op veiligheidsgebied, wanneer deze in eenvoudige taal zijn gesteld.",
+						"id": "5ab01702-6001-4281-a8f7-bc37b0a5576e",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan korte schriftelijke instructies begrijpen die stap voor stap geïllustreerd zijn (bijvoorbeeld voor het installeren van nieuwe technologie).",
+						"id": "3888fb45-0864-432f-b694-1571f2ec8327",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan eenvoudige aanwijzingen begrijpen bij apparaten die men aantreft in het dagelijks leven, bijvoorbeeld een openbare telefoon.",
+						"id": "3c3196c8-c6e0-448c-9667-988f9d7f61cd",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan eenvoudige, korte instructies begrijpen, mits deze geïllustreerd zijn en niet als lopende tekst zijn opgesteld",
+						"id": "9b2a440f-49de-41e6-96c6-f0e218ff2a88",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan instructies op etiketten van geneesmiddelen begrijpen als deze zijn uitgedrukt als een eenvoudig gebod, bijvoorbeeld 'Innemen voor de maaltijd' of 'Niet innemen als u moet rijden'.",
+						"id": "8ee0fc2d-4785-4d06-96a8-b800f13924fe",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.9",
+						"title": "INSTRUCTIES LEZEN: De kandidaat kan een eenvoudig recept volgen, vooral als er afbeeldingen zijn om de belangrijkste stappen te illustreren.",
+						"id": "a793202d-bc0c-4d8d-9edb-352fee877255",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.10",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan genoeg begrijpen om korte, eenvoudige verhalen en strips te kunnen lezen die over vertrouwde, concrete situaties gaan en zijn geschreven in veelvoorkomend, alledaags taalgebruik.",
+						"id": "c215049b-bc4e-4f90-b245-74b2968f21e9",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.11",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan de belangrijkste punten begrijpen in korte verslagen in tijdschriften of items in gidsen die gaan over concrete, alledaagse onderwerpen (bijvoorbeeld hobby's, sport, vrijetijdsbesteding, dieren).",
+						"id": "5ec549f4-e6db-42ee-aad4-156fe80232f5",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.10",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan korte verhalende teksten en beschrijvingen van iemands leven begrijpen die zijn geschreven in eenvoudige woorden.",
+						"id": "54da14b0-906d-478d-9d05-f7f3cdd27418",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.11",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan begrijpen wat er gebeurt in een fotoverhaal (bijvoorbeeld in een lifestylemagazine) en zich een indruk vormen van de personages.",
+						"id": "7af4a6d6-ffb6-47b1-9d70-6469d1e8c4b0",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.10",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan veel van de informatie begrijpen die wordt gegeven in een korte beschrijving van een persoon (bijvoorbeeld een beroemdheid).",
+						"id": "75e67fe3-bddb-488d-9d03-89e0196577e1",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"ce_se": "ce",
+						"prefix": "MVT/EN/K/4/toel.11",
+						"title": "LEZEN ALS VRIJETIJDSBESTEDING: De kandidaat kan het belangrijkste punt begrijpen van een kort artikel dat verslag doet van een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits dit duidelijk is geschreven in eenvoudige taal.",
+						"id": "33784818-ccd7-4d1f-a8ee-5753cf4ed78a",
+						"dirty": true,
+						"section": "syllabus_toelichting",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"vakleergebied_id": [
+					"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+				],
+				"title": "Engels",
+				"id": "8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
+				"section": "syllabus_vakleergebied",
+				"children": [
+					"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+				],
+				"childNodes": [
+					{
+						"id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+						"prefix": "en",
+						"sloID": "9",
+						"title": "Engels",
+						"description": "",
+						"niveau_id": [
+							"512e4729-03a4-43a2-95ba-758071d1b725",
+							"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+							"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+							"01aede69-edcd-4352-97e8-e16cb5d0015e",
+							"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+							"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+							"8574855d-0670-42bf-9f73-dc6706278b8b",
+							"64852857-b601-419f-9cbb-e1335a185303",
+							"8450c011-f812-4f89-97a9-6b8820baffc5",
+							"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+							"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+							"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+							"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+							"f9b25c20-9017-425b-8d3c-360ab6b5c222",
+							"bdc4744f-79df-4795-8795-2fee50c7416a",
+							"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+							"35ca5594-679e-4c7b-a178-88322dce8971"
+						],
+						"replaces": [
+							"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+						],
+						"section": "vakleergebied",
+						"children": []
+					}
+				]
+			}
 		]
 	},
 	{
@@ -14564,7 +15092,7 @@
 			"6301dd6c-7f5d-4831-9b7d-92b0264d7a12",
 			"f97bc701-2262-43fb-b67b-712183293b1b"
 		],
-		"title": "Syllabus Beeldend vwo 2022",
+		"title": "Syllabus Beeldende vakken vwo 2022",
 		"id": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
 		"unreleased": true
 	},
@@ -17790,11 +18318,11 @@
 			"dd68557f-2769-471a-987c-0d4953b183fa",
 			"9d84c32b-a8e8-4778-aea9-13e4f0b3a064",
 			"92ebe049-8f2a-4b6a-a902-9a178cfede9b",
-			"6d9b3244-24f8-4f59-a76b-5c8e470e44f4",
-			"c57db498-606e-465c-a192-ec947a7c09f5",
-			"0fb361e6-2447-4d81-a7ee-eb140cb9ce13",
-			"7eef04b8-2851-4e3f-bef9-87189bf7f7ea",
-			"216887e2-884b-4bcc-9d6d-26a033f69e75"
+			"9cfb82f4-3f86-4069-bb2a-89c0acf3777f",
+			"4097dc1f-c4b3-4382-b966-8ba1a8c963f7",
+			"5f9a3379-bdc4-42d0-8a55-bf6ce7ace8cf",
+			"5ebc0c8c-9c8b-488d-8b82-276496a6bea2",
+			"56b3ef6d-ba77-4f12-a46e-834db2c5a086"
 		],
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo gl 2023",
 		"id": "a62aeda4-d75b-4860-a690-11f784ace5d5",
@@ -17919,165 +18447,6 @@
 		],
 		"title": "Syllabus Geschiedenis en staatsinrichting vmbo tl 2023",
 		"id": "74cc7949-8fe9-4141-b2ec-1851986a5c5c",
-		"unreleased": true
-	},
-	{
-		"ingangsdatum": "",
-		"examenjaar": "2023",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"examenprogramma_id": [
-			"f514dd0f-c5ad-4ecf-9301-a62934316655"
-		],
-		"syllabus_vakleergebied_id": [
-			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"7b9b0a85-89c4-4432-a644-2584040d2d34",
-			"ddbcb5de-fe60-4295-9a97-71c626a1b2c0",
-			"aaeb9bd3-8954-4d57-9613-514f930a6451",
-			"c83a797a-595d-4187-a4f7-f22f8a07296d",
-			"04f0d840-e23e-435c-96a2-3677ead0a15e",
-			"d49ffcc3-57da-46b6-a008-0745d8d5b41f",
-			"b1da5602-aa68-4048-89c5-438e6f112571",
-			"ff16b580-01e1-4571-b254-c6c81f842db6",
-			"12248e77-9e12-4d8e-a2bc-24a8b498cd7c",
-			"55f10a7e-278b-4391-835e-f3aea5c6586d",
-			"bcc4a29d-9783-4a3b-8e1a-bdc1953a0ab0",
-			"d1244e19-9f54-43e6-926b-af56ac0b7566",
-			"ebf327c5-74c7-4a19-854a-e4fea9797d33",
-			"b3667d94-53bb-4f0e-8b0b-3b1fde5a897e",
-			"5c37b8cf-900d-4679-8bed-3373f99deb28",
-			"d3ec1a0b-5109-408b-a9bc-dcf4f4b7c985",
-			"00cc5571-b0d3-422c-8258-8b1cbe056fef",
-			"708681cb-a4f7-46f6-b72f-a8e66abc3025",
-			"0a0fee46-b075-4dbb-a267-7f0c9415cb7d",
-			"3d7b53ef-95d2-46d8-a9e1-cde358cc9a17",
-			"87089db7-46f4-4b83-85c3-0496d986af79",
-			"fec9c710-9ca7-4ea7-a9e5-3c23b6b17b5f",
-			"cdd7e69a-e476-45b7-af31-f0ba55eef327",
-			"2f79f20a-2eb7-46ba-b389-1049222c29e2",
-			"407c678b-f695-4e92-af83-e68e79fc3820",
-			"29f95e3a-eb79-44ef-a340-4d84f71c5410",
-			"2df8d982-8483-4450-a3a8-eee30367b832",
-			"71b5f069-87dd-4198-becd-616eefd52501"
-		],
-		"title": "Syllabus Nederlandse taal havo 2023",
-		"id": "ac076d0f-0cb1-4464-a866-101f87dcef38",
-		"unreleased": true
-	},
-	{
-		"ingangsdatum": "",
-		"examenjaar": "2023",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"examenprogramma_id": [
-			"ce6c5669-3f94-4517-9346-9017e24bf0f1"
-		],
-		"syllabus_vakleergebied_id": [
-			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"cbb7ddeb-2f48-45ee-a6db-6af615e74a92",
-			"c87d2c80-6a24-4927-bb2c-979a9cd4a7f3",
-			"10023961-7645-4f29-b9de-6e145c3ba893",
-			"07ea4484-b5d6-494d-86e5-114ace305860",
-			"3c866c34-6e73-41e3-ba68-69aa018f9ec9",
-			"654d7dd1-81c4-4b58-8432-72ab46ec2cd0",
-			"7f04a144-b99d-4c48-88f4-eb481c97d98e",
-			"9a0c558b-0392-4d04-89a1-970be042d57f",
-			"754ad34e-8c5d-44f7-a01f-dc09368db065",
-			"5a0f68c1-76c6-459f-b830-9302be437e42",
-			"2f2e3b57-d70d-49fe-b4cc-84f369b391b9",
-			"e9dd8ebe-3b4d-4b9a-833d-eac5a795978c",
-			"d2b513a0-9b34-4f61-9c89-114f18d523a2",
-			"292ae9f9-0732-4058-9ddf-264ff15e906f",
-			"1f2e222f-8ebd-4c87-a7f1-395b61912da1",
-			"183f68f1-60e5-43e0-8260-7d30db9cfbbd",
-			"d257b464-c45c-4ebb-a848-bbab073d2e93",
-			"254308aa-ef07-40ce-aa94-a3110d6f9059",
-			"edd9e1be-3476-41fd-84d4-ca41da9a9cd1",
-			"70991428-600c-42c9-b6fe-efba6d83d6c5",
-			"c04843fc-4346-4295-8d47-38af270c7a29",
-			"d429a573-9901-4929-abb8-cc0f903f3bee",
-			"a246b7b0-480c-477a-a0d6-7ddaeed3a557",
-			"b05499d5-e77f-4571-8223-2945939321fd",
-			"fd8bf146-5363-4612-a57f-5e866f78dca3",
-			"278147b6-26d3-4d86-a79d-08c3540cba6f",
-			"e34d4f5d-8dad-4df4-9086-2be1cf7fe5f2",
-			"43925b32-f674-4cbb-9ee9-ce060dbcc7bb"
-		],
-		"title": "Syllabus Nederlandse taal vwo 2023",
-		"id": "b039a7db-cb2d-4cca-8f9e-1216bffcb683",
-		"unreleased": true
-	},
-	{
-		"ingangsdatum": "",
-		"examenjaar": "2022",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"examenprogramma_id": [
-			"02370357-c94e-4b52-a261-b659a82f5700"
-		],
-		"syllabus_vakleergebied_id": [
-			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
-		],
-		"title": "Syllabus Moderne vreemde talen Spaans havo 2022",
-		"id": "a85d29c6-8165-4187-9fe6-332e1b7d3c24",
-		"unreleased": true
-	},
-	{
-		"ingangsdatum": "",
-		"examenjaar": "2023",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"examenprogramma_id": [
-			"074e7ee9-4763-4391-b3b6-716155964bda"
-		],
-		"syllabus_vakleergebied_id": [
-			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"e0ff8e2b-3929-4ba5-a826-999a39480223"
-		],
-		"title": "Syllabus Moderne vreemde talen Arabisch havo 2023",
-		"id": "044249d1-68a6-4de2-a1ae-5563ba22cbdc",
-		"unreleased": true
-	},
-	{
-		"ingangsdatum": "",
-		"examenjaar": "2023",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"examenprogramma_id": [
-			"ddc10650-6c3d-4666-8727-e895e0a9bf03"
-		],
-		"syllabus_vakleergebied_id": [
-			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
-		],
-		"syllabus_specifieke_eindterm_id": [
-			"f9fa0130-625f-4cae-a1f8-03aebb06135d"
-		],
-		"title": "Syllabus Moderne vreemde talen Arabisch vwo 2023",
-		"id": "a884821a-ecc8-4586-b112-a1c4d765e7a9",
 		"unreleased": true
 	}
 ]
