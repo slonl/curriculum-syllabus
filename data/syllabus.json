@@ -18432,5 +18432,26 @@
 		"title": "Syllabus Natuur- en scheikunde I vmbo tl 2022",
 		"id": "553aed31-36e1-445f-b4b5-08d4c05bb26b",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0b62d26e-9a6d-4618-9f5a-4839c8174ac5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans havo 2023",
+		"id": "84f34ec1-7465-464b-aece-a5bd0be2fbf3",
+		"unreleased": true
 	}
 ]
