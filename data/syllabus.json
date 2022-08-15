@@ -18516,5 +18516,72 @@
 		"title": "Syllabus Moderne vreemde talen Turks vwo 2023",
 		"id": "fbe6fde9-3d27-4846-b686-11f469661286",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"5d903c60-d498-4cf1-9b12-29397ba79d56"
+		],
+		"syllabus_vakleergebied_id": [
+			"6645f33c-2a9e-4c67-9473-cfb1606b9c66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"adb506f5-c61e-45ac-8fe6-053ee9550966",
+			"ce580cb7-6556-45f6-ade4-8217c603aa02",
+			"1419149f-98e8-49d1-9a9c-a343a31bd643",
+			"ce6d5986-57c9-4ed0-bde3-cbc800dcc218",
+			"b3a25a53-a7be-4dee-9090-a1d5750ea701",
+			"6713e167-295c-4a72-b2e8-662c099a675a",
+			"a537016b-4d46-4807-b998-cc50396f15cb",
+			"9a358c56-be19-4342-ad0f-d782e4114732",
+			"9b897b7d-1a99-4fc2-9e95-6c3016d74a79",
+			"1da5f2c7-f601-4645-8034-27e26ec4e590",
+			"0a388b77-31c8-4dff-a6be-72fb4aa9a759",
+			"fdf3299d-199a-4fc8-9c69-59fb3b31efae",
+			"81c07015-8081-417b-8cce-8c485982fc1f",
+			"7e312fe8-2211-4466-b364-6b976c81a247",
+			"0658dad3-6199-4424-abc4-dba243239c27",
+			"b25f0b7a-d6fb-48dd-b807-a41b41b2d0e6",
+			"5b2efde2-08a4-40a6-9948-e5083f5881b1",
+			"53aac590-e7e8-4452-81bc-dca270a816c8",
+			"57162041-9a20-43c4-b8a6-6bd9ad5cb74b",
+			"4244e0b3-65f5-4e4a-8d59-c97fc2e163d4",
+			"54198901-ed0a-43a3-a776-2c9111e5bfba",
+			"682ae51f-1160-43ad-91fe-afbaf85c216b",
+			"9208c298-00c8-42f3-a304-ad3a23b17fa2",
+			"e05ae8c6-f09c-4c1c-80fd-6f7a9fc334a9",
+			"199eb4df-5891-49da-903b-1bad044dd5f5",
+			"456c6d11-0ec1-4a73-a98b-61f6a9477b51",
+			"e8290f53-1aa8-4f0f-a15d-b8cc0a14b9c6",
+			"0b5af40f-0ade-49cc-944b-cb09829fec04",
+			"eb668978-78a6-4f40-a74b-398bd8780aa7",
+			"98ae1c60-b7af-401c-b6ae-a347b0ce6803",
+			"7080df7c-2420-496d-8ba6-d8142e1126ee",
+			"40f5ed5a-5393-4a1d-b2fe-e85e1aa6d34e",
+			"4b6624ad-30ad-4ac6-8c7c-2c0d6b96affe",
+			"c80b60e0-1a77-4782-8491-80802a067d17",
+			"00c4e597-ded3-496f-b2a2-7c810391306f",
+			"de9a2de2-eb0d-4f56-9131-003c8fe05b2d",
+			"61bed021-d2a9-48e5-a65f-66573e5af4ad",
+			"97321db1-9143-45d4-bee5-47bad9289702",
+			"dfd7651c-1bd9-456f-a63c-330029c8937b",
+			"07c82c14-5c24-4818-92d7-11c5d09a45b5",
+			"0fedb2f7-9d72-4f0c-a56b-7c29fb419ad8",
+			"e9ff6405-2a13-4d48-b805-fb91819fcd19",
+			"d60e69e3-c037-481a-a97e-0fedb7b7072c",
+			"eae57d34-fbf0-4c65-b977-7a8d85550d2a",
+			"9dd4bfe9-39a7-465f-b46f-d52ccf6d7594",
+			"3471fc0c-c7d8-4d0a-bed1-89f9e19f5603",
+			"db14e0ff-885a-4de5-a119-67aac9eb8dab"
+		],
+		"title": "Syllabus Natuur- en scheikunde I vmbo bb 2023",
+		"id": "4ecd5ce7-e0c3-4a1c-a9b0-a4ef7e07924c",
+		"unreleased": true
 	}
 ]
