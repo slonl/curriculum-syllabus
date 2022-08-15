@@ -9267,5 +9267,12 @@
 		"title": "uitlezen",
 		"id": "865d46b9-c609-487f-a461-2654b15ed073",
 		"unreleased": true
+	},
+	{
+		"description": "componenten",
+		"ce_se": "CE",
+		"title": "transistor als schakelaar met basis, emitter en collector",
+		"id": "7e2e1fc2-8779-49e7-bd2c-a07bdf9a67f3",
+		"unreleased": true
 	}
 ]
