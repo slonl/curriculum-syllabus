@@ -54937,5 +54937,48 @@
 		"title": "De kandidaat kan uitleggen welke gevaren het gebruik van bepaalde stoffen met zich meebrengt, hoe deze gevaren worden aangegeven en hoe deze gevaren zijn tegen te gaan door voorzorgsmaatregelen te nemen: pictogrammen - schadelijk of irriterend, explosief, buitend, ontvlambaar, giftig, niet mengen, brandbevorderend.",
 		"id": "58b8a8f7-5031-4a56-b757-0d1a57b9407d",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/4/5a.2/bbvmbobb",
+		"examenprogramma_eindterm_id": [
+			"fa833d9a-9666-4671-b162-e4b38ba63002"
+		],
+		"syllabus_vakbegrip_id": [
+			"70f99556-0501-41a1-ba00-18aa75d83731",
+			"2b64c88e-e022-46cf-a7c1-98b2670e9b4e",
+			"9300ccb5-350d-4361-8623-6e57c253bdd7",
+			"c8deaee4-0fa9-4cb4-8f23-afb75c614a2a",
+			"ffed6164-8793-458d-a787-221a5259d23e",
+			"ecfcbf52-cc3d-4d8a-b9cc-1fe4071fefed",
+			"b5195507-5203-40bf-b663-6463ad4c8b8a",
+			"5e9b985a-942e-4ce3-8abe-e0fcd3b106f6"
+		],
+		"title": "De kandidaat kan stoffen herkennen aan de hand van ten minste de volgende (stof)eigenschappen.",
+		"id": "b25f0b7a-d6fb-48dd-b807-a41b41b2d0e6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/5/7b.5/bbvmbobb",
+		"examenprogramma_eindterm_id": [
+			"d6d4e283-0c20-4e60-8ec7-3358ca56d9ac"
+		],
+		"title": "De kandidaat kan een bergumenteerde keuze maken uit gelijksoortige elektrische apparaten ten aanzien van energiegebruik, rendement, capaciteit, levensduur en veiligheid, ten minste: spaarlampen, leds, accu's, huishoudelijke aparaten, moderne apparaten (bv LCD-schermen, smartphone).",
+		"id": "4b6624ad-30ad-4ac6-8c7c-2c0d6b96affe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/9/14a.1/bbvmbobb",
+		"examenprogramma_eindterm_id": [
+			"1fa03cc4-9f8b-4c69-b810-c6c32b91ed58"
+		],
+		"title": "De kandidaat kan verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven: spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, grootte, richting en aangrijpingspunt richting, kracht meten met veerunster of krachtsensor.",
+		"id": "dfd7651c-1bd9-456f-a63c-330029c8937b",
+		"unreleased": true
 	}
 ]
