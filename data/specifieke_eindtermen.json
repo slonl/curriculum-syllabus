@@ -54980,5 +54980,70 @@
 		"title": "De kandidaat kan verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven: spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, grootte, richting en aangrijpingspunt richting, kracht meten met veerunster of krachtsensor.",
 		"id": "dfd7651c-1bd9-456f-a63c-330029c8937b",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/3/4a.2b/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"163651a1-c8ca-4bc2-b706-f40a1a462c4c"
+		],
+		"title": "De kandidaat kan rekenvaardigheden binnen natuurkunde toepassen door een zakrekenmachine te gebruiken voor optellen, aftrekken, vermenigvuldigen, delen en de functietoetsen gebruiken voor omgekeerde, kwadraat en wortel. Door rekenregels gebruiken, werken met positieve en negatieve machten van tien (inclusief het werken met voorvoegsels), verhoudingstabellen gebruiken, percentages berekenen, evenredige, lineaire en omgekeerd evenredige verbanden gebruiken.",
+		"id": "10489a4c-8420-43af-babc-3fde29fc4265",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/4/6a.3/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"babe89e7-db0b-4334-ab2b-8514cc79e02c"
+		],
+		"syllabus_vakbegrip_id": [
+			"70f99556-0501-41a1-ba00-18aa75d83731",
+			"2b64c88e-e022-46cf-a7c1-98b2670e9b4e",
+			"9300ccb5-350d-4361-8623-6e57c253bdd7",
+			"c8deaee4-0fa9-4cb4-8f23-afb75c614a2a",
+			"ffed6164-8793-458d-a787-221a5259d23e",
+			"ecfcbf52-cc3d-4d8a-b9cc-1fe4071fefed",
+			"b5195507-5203-40bf-b663-6463ad4c8b8a",
+			"5e9b985a-942e-4ce3-8abe-e0fcd3b106f6"
+		],
+		"title": "De kandidaat kan stoffen herkennen aan de hand van ten minste de volgende (stof)eigenschappen.",
+		"id": "ac9dba3f-c7c7-4981-9add-5a33c0d68fd2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/5/8b.6/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"2de8fcdc-5a22-43ea-8454-6af0254637e8"
+		],
+		"title": "De kandidaat kan een bergumenteerde keuze maken uit gelijksoortige elektrische apparaten ten aanzien van energiegebruik, rendement, capaciteit, levensduur en veiligheid, ten minste spaarlampen, leds, accu's, huishoudelijke aparaten, moderne apparaten (bv LCD-schermen, smartphone).",
+		"id": "f1cd6d19-5e15-4264-9fa9-059246efb655",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/5/8c.3/bbvmbokgt",
+		"examenprogramma_eindterm_id": [
+			"b7dae651-6b34-4aaf-80c9-81e2d11c6f27"
+		],
+		"title": "De kandidaat kan de onderdelen van een transformator benoemen, hiermee de werking van de transformator uitleggen en toepassingen geven: primaire en secundaire kring, transformatie van spanning, overdracht van vermogen/ ideale transformator, toepassingen ten minste: adapter, halogeenverlichting, elektriciteitstransport.",
+		"id": "d10a1baf-1a44-45f7-b911-67c453ff0a9a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "NASK1/K/9/15a.1/bbvmbokb",
+		"examenprogramma_eindterm_id": [
+			"d66a3081-8e29-4d32-b361-639da494fd69"
+		],
+		"title": "De kandidaat kan verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven: spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, grootte, richting en aangrijpingspunt, kracht meten met veerunster of krachtsensor",
+		"id": "30004746-9f16-4b93-bd85-1a6bc06bbe18",
+		"unreleased": true
 	}
 ]
