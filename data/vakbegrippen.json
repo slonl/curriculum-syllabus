@@ -9274,5 +9274,11 @@
 		"title": "transistor als schakelaar met basis, emitter en collector",
 		"id": "7e2e1fc2-8779-49e7-bd2c-a07bdf9a67f3",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "oscilloscoop",
+		"id": "1d42f2b5-a809-4b04-8abe-6db4dadb945d",
+		"unreleased": true
 	}
 ]
