@@ -279,5 +279,12 @@
 		],
 		"title": "Beeldende vorming",
 		"id": "d7461634-68a7-43bc-82c8-1afe8a65bdde"
+	},
+	{
+		"id": "813d7c66-208c-4cc3-861b-53069a966888",
+		"title": "Wiskunde",
+		"vakleergebied_id": [
+			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+		]
 	}
 ]
