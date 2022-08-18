@@ -55119,5 +55119,1881 @@
 		"title": "De kandidaat kan verschillende soorten krachten herkennen en hiervan de werking en toepassing beschrijven: spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, grootte, richting en aangrijpingspunt, kracht meten met veerunster of krachtsensor",
 		"id": "30004746-9f16-4b93-bd85-1a6bc06bbe18",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"402ea6ae-7345-43df-ae2c-af0707af505e"
+		],
+		"syllabus_toelichting_id": [
+			"f487c91e-f79f-4b41-9533-3ef59581aa7e"
+		],
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het verwerven van informatie en daarbij gebruik maken van verschillende informatiebronnen.",
+		"id": "449759da-5caf-4d03-b3f3-dd40cf990ba4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.2a",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis: - de mate van betrouwbaarheid vaststellen door te kijken of er sprake is van een scheiding van feiten en meningen.",
+		"id": "d5510361-49c7-4ebb-8ef2-60fd88587902",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.2b",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis: - relevante gegevens selecteren, ordenen, vergelijken en zo nodig bewerken.",
+		"id": "86eb723c-3300-4b27-8a88-b35e46076cda",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3b.2c",
+		"examenprogramma_eindterm_id": [
+			"99f47439-3042-4a5d-899d-eefabea1772f"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis: - een conclusie formuleren op basis van argumenten en feiten.",
+		"id": "9375374d-41c6-40b7-9bbe-37d75d2b6fce",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3a1",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier kenmerken van een maatschappelijk vraagstuk noemen, herkennen, beschrijven en toepassen: het gaat om een situatie die veel mensen onwenselijk vinden.",
+		"id": "7d89e3a7-f0a7-4291-9fa8-d3591df881c6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3a2",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier kenmerken van een maatschappelijk vraagstuk noemen, herkennen, beschrijven en toepassen: er bestaan verschillende meningen over de oplossing van het probleem.",
+		"id": "8938c2db-283d-4f89-a56a-4120b10f8971",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3a3",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier kenmerken van een maatschappelijk vraagstuk noemen, herkennen, beschrijven en toepassen: het probleem krijgt de aandacht van de media.",
+		"id": "bd8d2c8f-547f-4254-8318-5cda8465af4c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3a4",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier kenmerken van een maatschappelijk vraagstuk noemen, herkennen, beschrijven en toepassen: het probleem kan door middel van gezamenlijke actie of door optreden van de overheid worden opgelost/aangepakt.",
+		"id": "9263e25f-cffa-4074-8f41-bfcc7c321f86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3b",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat weet dat een maatschappelijk vraagstuk pas een politiek probleem wordt wanneer het vraagstuk op de politieke agenda staat.",
+		"id": "76188071-41ff-4157-b0fd-b2be38219c75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3c1",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier benaderingswijze van het vak maatschappijkunde herkennen aan de onderstaande vragen: politiek-juridisch: welke regels of wetten bestaan erover?",
+		"id": "c8832d2f-fa3a-4d27-964d-cee31cd619ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3c2",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier benaderingswijze van het vak maatschappijkunde herkennen aan de onderstaande vragen: sociaaleconomisch: wie hebben er belang bij?",
+		"id": "8ec2906e-6763-4117-9ad2-ee5487d55e80",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3c3",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier benaderingswijze van het vak maatschappijkunde herkennen aan de onderstaande vragen: sociaal-cultureel: wat vinden mensen ervan?",
+		"id": "5c14aefa-d5a5-4f90-b1a1-1cb211e3fbaa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3c.3c4",
+		"examenprogramma_eindterm_id": [
+			"b5a2a0cc-7438-4e13-b971-13193a2fc7ee"
+		],
+		"title": "De kandidaat kan de vier benaderingswijze van het vak maatschappijkunde herkennen aan de onderstaande vragen: veranderings- en vergelijkend: hoe werd er vroeger, of wordt er nu in andere samenlevingen over gedacht?",
+		"id": "eb9f07ed-5f04-4c68-a31d-e514a41cd72e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/3/3d.4",
+		"examenprogramma_eindterm_id": [
+			"9f45decd-029c-405a-899a-fff6a0166a02"
+		],
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het innemen van een standpunt betrekking tot een concreet maatschappelijk vraagstuk en hier argumenten voor geven.",
+		"id": "e6e56ac9-5cff-4249-97fc-44cb3db0b95d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.1",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"syllabus_toelichting_id": [
+			"2286baef-c331-47aa-aef7-e8929acbbcf5",
+			"16cd31ec-bb7c-4a44-80be-25a895c7f126",
+			"3e139f11-ae35-48e0-9611-8a5adc63a654",
+			"ec4e2078-f7c8-4557-bf09-c59033b5405e"
+		],
+		"title": "De kandidaat kent/weet de rol die de overheid speelt op verschillende terreinen. De overheid maakt beleid voor maatschappelijke vraagstukken die op de politieke agenda komen.",
+		"id": "6f8298ce-9766-47d8-9964-e95a4cbe03a4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: De politieke macht ligt namens de burgers bij de volksvertegenwoordiging.",
+		"id": "4c84b4e8-42bd-4617-85b1-b33d0937b1ae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Op nationaal niveau kan het kabinet ter verantwoording worden geroepen door de volksvertegenwoordiging.",
+		"id": "bbf9bb4e-f7f0-459b-8f52-bef2e76fcc9a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Het parlement neemt uiteindelijk de beslissing over wetsvoorstellen.",
+		"id": "d921ee84-16d7-4895-9a5a-be7ca54445bb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2d",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Er zijn vrije en geheime verkiezingen",
+		"id": "58e7e76b-94bd-451a-a02b-7181fde633e5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2e",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: In een volksvertegenwoordiging neemt men beslissingen met een meerderheid van stemmen, maar er wordt rekening gehouden met minderheidsstandpunten en de grondrechten van alle burgers.",
+		"id": "74f64e5e-e4ef-4f49-a4c8-4065ab9b8bf9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2f",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Burgers hebben actief en passief kiesrecht en hebben het recht en de mogelijkheid om op andere wijze invloed uit te oefenen op de politieke besluitvorming.",
+		"id": "2bdb7809-ff71-420f-abd0-f5339ccfb5f2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2g",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Algemeen kiesrecht.",
+		"id": "a4152c13-e40e-4993-9bf7-4e4d9e4d8a11",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2h",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: De bevoegdheden en macht van bestuurders en bestuursorganen zijn vastgelegd in wet- en regelgeving, waaronder de Grondwet.",
+		"id": "35b22c46-8265-4296-94df-fa1a6cb7663a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.2i",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een parlementaire democratie noemen, herkennen, beschrijven en toepassen: Op provinciaal en gemeentelijk niveau gelden dezelfde principes.",
+		"id": "482bca84-7a8a-4583-9668-792c47a11b0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: Om de hoeveel jaar in de regel verkiezingen plaatsvinden voor een volksvertegenwoordiging op nationaal, provinciaal en gemeentelijk niveau.",
+		"id": "847b29e2-0acc-44eb-932f-d6a0d896b127",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: Het fenomeen van zwevende kiezers, de invloed van peilingen en de rol van lijsttrekkers tijdens verkiezingen.",
+		"id": "938898ce-16e2-4be2-8f47-72cb17e19db3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: Het proces van de kabinetsformatie, het belang van het regeerakkoord, de noodzaak van coalitievorming en de macht van de coalitie(partijen) en oppositie(partijen).",
+		"id": "61411354-d84d-470b-b45e-c325d3438fc7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3d",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: De volgorde waarin een wet wordt vastgesteld: de rol van de Tweede Kamer, de rol van de Eerste Kamer en de rol van het ondertekenen door de minister(s) en koning.",
+		"id": "20724df2-2a17-4fa0-9056-807a741224e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3e",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: Prinsjesdag: Troonrede, miljoenennota, begroting en algemene beschouwing.",
+		"id": "b33c10c3-6868-4117-b680-6a8f9e6b2f57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.3f",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan in verband met het functioneren van de Nederlandse parlementaire democratie de volgende aspecten noemen, herkennen, beschrijven en toepassen: Het parlement controleert de regering en de rol van ministeriële verantwoordelijkheid\r\nhierin; het ontstaan van een kabinetscrisis.",
+		"id": "879cbb9b-5f2b-4763-9b6e-379555e488dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.4a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen: Er is sprake van een machtenscheiding (trias politica).",
+		"id": "e1545239-47fd-4a46-8dc0-e5196e17b7e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.4b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen: De rechterlijke macht is onpartijdig en onafhankelijk.",
+		"id": "329207e8-f9c0-477c-b927-cb0840e0fc54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.4c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen: De burgers hebben grondrechten zoals: vrijheid van meningsuiting, persvrijheid, vrijheid van vergadering, vrijheid van het oprichten van verenigingen en politieke partijen, vrijheid van onderwijs, vrijheid van godsdienst, vrijheid van betoging en recht op privacy. Alle burgers zijn voor de wet gelijk, zoals beschreven staat in artikel 1 van de Grondwet.",
+		"id": "b92a8200-2d2a-4e42-aac1-20f7c92437d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: In een dictatuur heeft één persoon, een aantal personen of één partij de hoogste macht.",
+		"id": "bec03a79-c110-41c8-afdc-6ca651fc4946",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: In een dictatuur is er geen onafhankelijke rechterlijke macht en is er geen onafhankeliIn een dictatuur is er geen onafhankelijke rechterlijke macht en is er geen onafhankelijke volksvertegenwoordiging die de macht controleert en het laatste woord heeft.",
+		"id": "df23ab0f-75b4-4d73-97de-02377dd5f5fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: Grondrechten gelden niet of nauwelijks en oppositie wordt niet toegestaan.",
+		"id": "8ab69888-ea72-4d07-9c76-aec121730356",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5d",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: Als er verkiezingen in een dictatuur worden gehouden, dan worden die gehouden om de hoogste macht opnieuw te erkennen. Er is van sprake van schijnverkiezingen. Als er naast de regeringspartij of aan de regering verbonden kandidaten, andere partijen of kandidaten aan verkiezingen deelnemen, zijn zij goedgekeurd door de hoogste macht.",
+		"id": "9fde07d8-1677-4305-8f2e-b7dada52ccb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5e",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: Toegang tot de massamedia en de middelen om verkiezingscampagnes te voeren zijn alleen of grotendeels voorbehouden aan de partij van de dictator/heersende macht.",
+		"id": "95fec122-9cd9-4b5e-bbb3-64e1f6ba30c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.5f",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"syllabus_toelichting_id": [
+			"ff212d28-49bd-466d-aa17-22f0045f671f"
+		],
+		"title": "De kandidaat kent/weet kenmerken van een dictatuur en kan verschillen tussen een democratie en dictatuur noemen, herkennen, beschrijven en toepassen: In een dictatuur is er geen sprake van vrijheid van meningsuiting en persvrijheid. Er is sprake van censuur.",
+		"id": "2e3c5432-502b-4c5e-b48e-7c36130791e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: Het aantal leden (volksvertegenwoordigers) van beide Kamers.",
+		"id": "04f437ed-0458-49f0-b8a4-6741421e7f90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: Hoe en door wie de leden van de Tweede Kamer en de Eerste KaHoe en door wie de leden van de Tweede Kamer en de Eerste Kamer (Senaat)\r\ngekozen worden.",
+		"id": "61d9d461-2cae-45e7-8548-bda4420217ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: Verkiezingen voor beide Kamers vinden (normaliter) eens in de vier jaar plaats. Deze verkiezingen vinden niet op hetzelfde moment plaats.",
+		"id": "f9518e5b-a6e2-41a6-af50-80ea7e6c0d73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6d",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: De Tweede en Eerste Kamer bestaan uit fracties, die geleid worden door een fractievoorzitter.",
+		"id": "c8dafefd-39c4-4f92-a387-3cde08f139c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6e",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: Het parlement bestaat uit coalitiepartijen en oppositiepartijen.",
+		"id": "87afb3d5-e0fc-456d-bbdb-f00555d4d242",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.6f",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende kenmerken, taken en rechten van het parlement, de Eerste en Tweede Kamer noemen, herkennen, beschrijven en toepassen: Het parlement heeft twee hoofdtaken: de (mede)wetgevende taak en de controlerende taak.",
+		"id": "148e664d-280b-419b-ad2f-0260d6a2e590",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en taken van het kabinet: De regering bestaat uit de koning en de ministers. Het kabinet bestaat uit de ministers en staatssecretarissen.",
+		"id": "c9405b94-679f-41b7-8e7a-280484d11f71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en taken van het kabinet: De koning is onschendbaar; de ministers zijn verantwoordelijk.",
+		"id": "64612dc7-cca8-4ad0-9569-fbfdad6b6ffb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en taken van het kabinet: Ministers geven leiding aan een ministerie en de daar werkende ambtenaren. Zij dragen daarvoor politieke verantwoordelijkheid.",
+		"id": "c7384965-f6e6-4ce5-b009-31186a487bc8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7d",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en taken van de regering: Het voorbereiden van overheidsbeleid zoals het maken van wetsvoorstellen en het opstellen van een begroting.",
+		"id": "351da74a-3492-4a98-b400-5be8ee64a407",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.7e",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en taken van de regering: Het uitvoeren van overheidsbeleid.",
+		"id": "596e3cc3-2464-4cd6-8111-7ff5f15b7edb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.8a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten over de verhouding tussen kabinet en parlement: Wetsvoorstellen komen meestal van het kabinet en worden door de Tweede Kamer gewijzigd, verworpen of aangenomen. De Eerste Kamer kan wetsvoorstellen alleen goedof afkeuren. Het kabinet kan niet regeren zonder steun van de meerderheid in het parlement.",
+		"id": "44796a8c-92da-451e-9c17-5b7cb92793be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.8b",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten over de verhouding tussen kabinet en parlement: De ministers en staatssecretarissen kunnen ter verantwoording worden geroepen door het parlement. Zij hebben een verantwoordingsplicht. Deze ministeriële verantwoordelijkheid betekent dat de ministers en staatssecretarissen en niet de koning of de ambtenaren in het parlement verschijnen om informatie te geven en het beleid te verdedigen. Het kabinet heeft een informatieplicht aan het parlement.",
+		"id": "bb18449f-3a0d-43bc-8ad7-b5c6f4d03100",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.8c",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten over de verhouding tussen kabinet en parlement: Het parlement heeft het laatste woord: niet alleen bij het wel of niet aannemen van wetsvoorstellen maar ook kan het parlement het vertrouwen in een minister of staatssecretaris (of het hele kabinet) opzeggen (motie van wantrouwen).",
+		"id": "fe65fb39-848b-4bfb-9808-4cae61a22065",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.10a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van Nederland als een monarchie: De koning is staatshoofd door erfopvolging en lid van de regering.",
+		"id": "ad52929d-2d3c-42ee-9a6b-b8feac418bc6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.10a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van Nederland als een monarchie: In de Nederlandse parlementaire democratie zijn de ministers verantwoordelijk voor het beleid en daarom zijn de ministers verantwoordelijk voor wat de koning zegt en doet in het openbaar. Formeel heeft de koning geen politieke macht en draagt ook geen politieke verantwoordelijkheid.",
+		"id": "b95b81e4-c899-47c6-9a99-f5afddd97e87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.10a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van Nederland als een monarchie: Een deel van de bevolking heeft bezwaren tegen de monarchie en wil een republiek als staatsvorm. In een republiek wordt het staatshoofd, bijvoorbeeld de president, gekozen door de burgers.",
+		"id": "be80c377-cd60-4c96-b421-917b0fad776a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.11a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende formele taken en rollen van de koning noemen, herkennen, beschrijven en toepassen. Formele taken: De koning ondertekent wetten en Koninklijke Besluiten.",
+		"id": "7dae222f-5430-4e6f-aeca-0d57981798d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.11a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"title": "De kandidaat kan de volgende formele taken en rollen van de koning noemen, herkennen, beschrijven en toepassen. Formele taken: De koning beëdigt ministers en staatssecretarissen en andere hoge functionarissen.",
+		"id": "6165ac0f-3a54-44c6-a185-0679e33ae1ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5a.1.11a",
+		"examenprogramma_eindterm_id": [
+			"d6a6b2ed-ef48-433f-8090-28a6a730d138"
+		],
+		"syllabus_toelichting_id": [
+			"7ef1ba88-55c4-47f6-9df5-cdf024665914"
+		],
+		"title": "De kandidaat kan de volgende formele taken en rollen van de koning noemen, herkennen, beschrijven en toepassen. Formele taken: Jaarlijks op de derde dinsdag van september leest de koning de Troonrede voor",
+		"id": "5277951e-748f-4e6a-af7e-2863bb10d254",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.1",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de namen en taken van de actoren en hun rol in het politieke besluitvormingsproces, voor het landelijk bestuursniveau.",
+		"id": "7a7bb459-0d95-40cb-83c6-53f3b50e9962",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.2a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de namen en taken van de actoren op het gemeentelijke bestuursniveau en hun rol in het politieke besluitvormingsproces: Er is een gekozen gemeenteraad (de volksvertegenwoordiging) en er is een dagelijks bestuur. Dat wordt gevormd door het college van burgemeester en wethouders (college van B en W). Ook op gemeentelijk niveau moet het dagelijks bestuur de goedkeuring hebben van de meerderheid van de volksvertegenwoordiging. Daarom vindt ook in gemeenten coalitievorming plaats. De wethouders worden door de gemeenteraad voorgedragen.",
+		"id": "00a3df11-3706-4368-9d62-f377b0075dc7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.2b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de namen en taken van de actoren op het gemeentelijke bestuursniveau en hun rol in het politieke besluitvormingsproces: De gemeenteraad, volksvertegenwoordiging, is het hoofd van de gemeente en wordt door de inwoners van de gemeente gekozen. Als  volksvertegenwoordigers van de gemeente neemt de gemeenteraad besluiten over gemeentelijk beleid en controleren ze het college van B en W.",
+		"id": "6f786687-9a41-468d-a414-3a58aea44d82",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.2c",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de namen en taken van de actoren op het gemeentelijke bestuursniveau en hun rol in het politieke besluitvormingsproces: De burgemeester wordt door de Kroon benoemd. De burgemeester hoort boven de partijen te staan. De burgemeester is de voorzitter van zowel het college als de gemeenteraad. De burgemeester is verantwoordelijk voor handhaving van de openbare orde, voor veiligheid in de gemeente en representeert de gemeente.",
+		"id": "94de5290-1f74-461d-b231-ac74b5baab33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.2d",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de namen en taken van de actoren op het gemeentelijke bestuursniveau en hun rol in het politieke besluitvormingsproces: De taken van de gemeente zijn onder meer: het bijhouden wie er in een gemeente woont, heffen van lokale belastingen, uitgeven van officiële documenten, uitgeven van uitkeringen, aanleggen van straten, fietsroutes, voetpaden en het maken van bestemmingsplannen.",
+		"id": "e9fbf3b3-d5f1-4a6a-9a77-7214f011d686",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.3a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en functies van politieke partijen - kenmerken: Politieke partijen zijn verenigingen die zich bezighouden met het inrichten van de samenleving als geheel.",
+		"id": "9b1258df-555e-4073-b6aa-05d721ffa734",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.3b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en functies van politieke partijen - kenmerken: Politieke partijen doen mee aan verkiezingen.",
+		"id": "a3b020b2-b7ac-40dd-8728-ff6ca281b360",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.3c",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en functies van politieke partijen - functies: Politieke partijen formuleren partij- en verkiezingsprogramma’s om hun ideeën onder de aandacht van burgers te brengen.",
+		"id": "3a270591-1e76-4cfe-bb7b-4df2f90b1bf0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.3d",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken en functies van politieke partijen - functies: Politieke partijen wegen verschillende belangen tegen elkaar af.",
+		"id": "8eb83e45-094a-49b1-9f31-517b46bdf969",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.4a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de rol van ambtenaren in de politieke besluitvorming: Ambtenaren zijn werknemers in dienst van de overheid, bijvoorbeeld: beleidsmakers, leraren, politieagenten, defensiepersoneel, etc.",
+		"id": "9e2d88dd-2e71-4623-b581-6b4496d564ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.4b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de rol van ambtenaren in de politieke besluitvorming: Ambtenaren vallen onder de politieke verantwoordelijkheid van het dagelijks bestuur, maar wanneer na verkiezingen het dagelijks bestuur verandert, blijven zij vaak zitten.",
+		"id": "497dfd4c-cc9c-4886-a5ab-e6785d14d4d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.5a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kan de functies die de media spelen in een democratie noemen, herkennen, beschrijven en toepassen. Een democratie kan niet zonder goed functionerende vrije media. Media vervullen namelijk een aantal functies die van belang zijn voor een democratie.",
+		"id": "fc5f4756-54f4-4dac-8a5b-b23f4e8d6f34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.5b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kan de functies die de media spelen in een democratie noemen, herkennen, beschrijven en toepassen. Informatiefunctie: via media worden burgers geïnformeerd over overheidsbeleid over zaken die zich afspelen in de politiek en de maatschappij. Dat is belangrijk, omdat burgers op basis daarvan hun mening kunnen vormen.",
+		"id": "0a8d8f8e-799c-4486-83de-55097194fbeb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.5c",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kan de functies die de media spelen in een democratie noemen, herkennen, beschrijven en toepassen. Controle- of waakhondfunctie: media zelf stellen politieke en maatschappelijke misstanden aan de kaak en kunnen kritisch onderzoek naar het uitgevoerde (of beloofde) beleid van de overheid doen. Ze worden daarom ook wel de waakhond van de democratie genoemd.",
+		"id": "42858ea5-3477-40d4-aa05-96a445f737d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.6",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"syllabus_toelichting_id": [
+			"afa3e74b-9edc-4b9a-bbf5-280ce7959765",
+			"271516fa-6174-47af-85a6-c337a94e24cc",
+			"12cafbf2-54d7-4e94-bffb-f699276ade1e",
+			"5a5820aa-1ca3-4f3a-ba83-ba4d0339daf6"
+		],
+		"title": "De kandidaat kan de fasen in het proces van politieke besluitvorming noemen, herkennen, beschrijven en toepassen: Vanaf het moment dat een bepaald onderwerp door politici wordt besproken in de volksvertegenwoordiging, of tijdens een vergadering met het dagelijks bestuur, staat dat onderwerp op de politieke agenda.",
+		"id": "3227c5ef-14d4-4337-b59f-cc0257d58e9e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.9",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de redenen voor de Europese samenwerking: Na de Tweede Wereldoorlog ontstond Europese samenwerking. Het doel hiervan was het bevorderen van vrede door economische ontwikkeling en samenwerking. Uiteindelijk mondde deze samenwerking uit in de Europese Unie.",
+		"id": "91bfd873-baaa-49d8-837e-3bca8136ca52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b.2.10",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de doelstellingen van de Europese Unie: De doelstellingen van de Europese Unie zijn: Vrede - Welzij - Het garanderen van Europese waarden: onder meer vrijheid, gelijkheid en veiligheid - Economische samenwerking. Hieronder valt het vrije verkeer van goederen, diensten, kapitaal en personen.",
+		"id": "9e1ca3d7-ec5f-4b73-ae59-dd7390ddc5c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.11a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de voorwaarden waaraan landen moeten voldoen om toe te mogen treden tot de Europese Unie: De voorwaarden om toe te mogen treden tot de EU zijn: In Europa liggen",
+		"id": "27118e28-834b-4f21-bbc1-fbf4c00d7835",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.11b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de voorwaarden waaraan landen moeten voldoen om toe te mogen treden tot de Europese Unie: De voorwaarden om toe te mogen treden tot de EU zijn: Een functionerende rechtsstaat zijn.",
+		"id": "7ee2e8fe-fc67-4235-83c5-c36a21388b4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.11c",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de voorwaarden waaraan landen moeten voldoen om toe te mogen treden tot de Europese Unie: De voorwaarden om toe te mogen treden tot de EU zijn: Een democratische bestuursvorm hebben.",
+		"id": "d8ad0ac9-f796-44fd-88ba-0510bdf6feb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.11d",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de voorwaarden waaraan landen moeten voldoen om toe te mogen treden tot de Europese Unie: De voorwaarden om toe te mogen treden tot de EU zijn: Een goed functionerende markteconomie bezitten.",
+		"id": "0c7df325-2dcc-4580-97d6-f7aefeca1f51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.11e",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de voorwaarden waaraan landen moeten voldoen om toe te mogen treden tot de Europese Unie: De voorwaarden om toe te mogen treden tot de EU zijn: Mensenrechten garanderen.",
+		"id": "462ac0dc-abb5-4c58-8e7e-fbe358a89d97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.12",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kent/weet de volgende beleidsterreinen waarop de Europese Unie beleid maakt met de bijbehorende voorbeelden: De Europese Unie maakt beleid op vraagstukken die moeilijk op nationaal niveau kunnen worden aangepakt. Buitenlands beleid; bijvoorbeeld: asiel- en integratiebelei; Milieuwetgeving; bijvoorbeeld: emissie-eisen;  Justitie; bijvoorbeeld: misdaad- en terreurbestrijding; Economische samenwerking; bijvoorbeeld: de Euro, spelregels voor een goed functionerende markteconomie.",
+		"id": "2ce41262-b436-45af-a90e-31d93f2e2f69",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.13a",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kan de Europese besluitvorming door Europese instanties noemen, herkennen, beschrijven en toepassen: Eens in de vijf jaar brengen burgers van de verschillende EU-landen hun stem uit voor het Europees parlement.",
+		"id": "988a73fc-914d-405d-99f2-21ed00c3d830",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5b/2.13b",
+		"examenprogramma_eindterm_id": [
+			"95292759-383d-4475-8e79-d42002cbc60a"
+		],
+		"title": "De kandidaat kan de Europese besluitvorming door Europese instanties noemen, herkennen, beschrijven en toepassen: Voorstellen van de Europese Commissie worden voorgelegd aan de Raad van de Europese Unie en het Europees ParlVoorstellen van de Europese Commissie worden voorgelegd aan de Raad van de Europese Unie en het Europees Parlement, die daarover stemmen.",
+		"id": "67dc4dee-5ba9-4473-ad5d-c36b7948ab8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.1a",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de mogelijkheden die individuele burgers hebben om de politieke besluitvorming te beïnvloeden: Actief en passief kiesrecht bij verkiezingen voor volksvertegenwoordigers.",
+		"id": "aa4f20e8-daa3-438e-9a0d-f9abcbefa2c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.1b",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de mogelijkheden die individuele burgers hebben om de politieke besluitvorming te beïnvloeden: Lidmaatschap van politieke partij en meedoen in een politieke partij.",
+		"id": "8078752b-5a1b-4b46-b9af-1c91bb98188a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.1c",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de mogelijkheden die individuele burgers hebben om de politieke besluitvorming te beïnvloeden: Het oprichten van belangen- of pressiegroepen.",
+		"id": "5fecb134-0fe8-49b9-bb08-5990af38eb7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.1d",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de mogelijkheden die individuele burgers hebben om de politieke besluitvorming te beïnvloeden: Beïnvloeding via lidmaatschap van en deelname aan belangen- of pressiegroepen.",
+		"id": "c2d28f8f-8ace-40b4-9a7f-a9f6bd85639c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.2a",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de kenmerken van belangen- of pressiegroepen - groepen die bepaalde belangen nastreven en/of die opkomen voor de belangen van een bepaalde groep.",
+		"id": "470d06c9-93aa-461c-891c-76f1a1d7473d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.2b",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de kenmerken van belangen- of pressiegroepen - ten behoeve van die belangen proberen ze druk uit te oefenen op de politieke besluitvorming.",
+		"id": "2f6ea3db-d1c1-4b0e-9f7d-1a1a6758ac27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.3",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet de mogelijkheden van belangen- of pressiegroepen om politieke besluitvorming te beïnvloeden: - Lobbyen - Verzoek indienen om een referendum te houden in de gemeente - Overleg in adviesorganen.",
+		"id": "0dac513b-3c70-4002-82e5-9df8ef18b58d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4a",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Allerlei vormen van openlijke actie.",
+		"id": "4c8758d3-9028-4916-98f2-9c89140a7495",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4b",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Oprichten van politieke partijen.",
+		"id": "dda06b72-59b2-4ecb-90fc-9fb1fac65507",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4c",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Inschakelen van politieke partijen en/of contact opnemen met politici.",
+		"id": "34bdd32c-2371-4bba-96fb-e65df814db9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4d",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Indienen van klacht of bezwaarschrift bij de volksvertegenwoordiging of het dagelijks bestuur.",
+		"id": "2e2a3fd1-0bd1-46cf-b742-c02533554c73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4e",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: De openbaarheid zoeken door het inschakelen van media.",
+		"id": "6ab4ce63-d904-4d7c-aaa9-f78a1ff32679",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4f",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Bij onenigheid met de overheid de rechter inschakelen.",
+		"id": "b67eb2a8-1140-4ad9-8d27-47f714d333a4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4g",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Petitie indienen.",
+		"id": "23c7b4c2-0a97-49e3-bdbd-e39f22b15fed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4h",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Burgerinitiatief indienen.",
+		"id": "0d9532f4-4ed6-4b3e-b09e-39f2ca956729",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4i",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Klachten over het gedrag van bestuursorganen, van ambtenaren van de rijksoverheid en van de politie deponeren bij de Nationale ombudsman.",
+		"id": "a750d688-3b37-4d3c-b7fe-40efce9e8e01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4j",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Gebruik maken van officiële inspraakmogelijkheden tijdens het besluitvormingsproces.",
+		"id": "13a5305c-10aa-4955-8479-c9cb7119ca26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5c/3.4k",
+		"examenprogramma_eindterm_id": [
+			"201e897f-8e52-4240-b2d9-26490789a30a"
+		],
+		"title": "De kandidaat kent/weet mogelijkheden die zowel individuele burgers als belangenof pressiegroepen hebben: Verzoek indienen om een referendum te houden in de gemeente.",
+		"id": "99bd9321-cc6d-4de1-9b34-3feda55adf5e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.1",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan de namen, de uitgangspunten en indien van toepassing de bijbehorende politieke stromingen van de landelijke politieke partijen die zetels hebben in de Tweede Kamer noemen, herkennen, beschrijven en toepassen.",
+		"id": "691b4c07-3006-4141-8c10-b260febc375e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.2",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan politieke standpunten indelen op de links/rechts-as en de progressief/conservatief-as",
+		"id": "f0e9c2c6-01f5-4318-9590-279439f8d290",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.2.1a",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan vanuit een sociaaleconomische perspectief standpunten van politieke partijen als linkse of rechtse standpunten noemen, herkennen, beschrijven en toepassen:\r\n- Links legt een sterke nadruk op het collectieve belang, ze streeft naar het verkleinen van sociaaleconomische ongelijkheid; vanuit die gedachte is een actieve rol voor de overheid in de samenleving weggelegd.",
+		"id": "c5b11ce6-970c-4f3d-baa1-02667e4753e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.2.1b",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan vanuit een sociaaleconomische perspectief standpunten van politieke partijen als linkse of rechtse standpunten noemen, herkennen, beschrijven en toepassen:\r\n- Rechts legt een sterke nadruk op het individuele belang, ze streeft naar grote economische vrijheid; vanuit die gedachte is een passieve rol voor overheid in de samenleving weggelegd.",
+		"id": "0e3c5285-1524-4e6b-8202-e58fbfc0c3bb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.2.2a",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan vanuit een sociaal-cultureel perspectief standpunten van politieke partijen als progressieve of conservatieve standpunten noemen, herkennen, beschrijven en toepassen: \r\n- Progressief staat voor veranderingsgezind; veel persoonlijke vrijheid als het gaat om morele en ethische kwesties.",
+		"id": "ab89b0e1-ddf5-4ab4-aabb-04a0ea3b8de1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d/4.2.2b",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"title": "De kandidaat kan vanuit een sociaal-cultureel perspectief standpunten van politieke partijen als progressieve of conservatieve standpunten noemen, herkennen, beschrijven en toepassen: \r\n- Conservatief staat voor behoudend; vasthouden aan traditionele waarden en normen.",
+		"id": "2d2a5f57-4bb4-4c93-8e08-73c364e167e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/5d.4.5",
+		"examenprogramma_eindterm_id": [
+			"12a084be-c844-42d3-8d4e-bfd92584c412"
+		],
+		"syllabus_toelichting_id": [
+			"f57846b7-e8ea-4454-866e-3ee028d97720",
+			"ce663ca7-0c9c-4781-a534-8534b2d082ec",
+			"d2864bb1-450e-487f-bfb6-c09132d2e8f7",
+			"5920874a-2a91-4c28-909b-ffea9a6cb08f",
+			"ca972b80-0d74-4d09-9c02-788706da008d"
+		],
+		"title": "De kandidaat kan de indeling en uitgangspunten van politieke stromingen noemen, herkennen, beschrijven en toepassen.",
+		"id": "9a32246c-df1d-4961-ae64-ff5a58b57697",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.1",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet wat er wordt bedoeld met het begrip criminaliteit. Criminaliteit is het geheel van gedragingen dat door de wet strafbaar gesteld wordt. De juridische omschrijving van strafbaar gedrag is een delict of een strafbaar feit. Delicten worden in de wet onderverdeeld in overtredingen en misdrijven.",
+		"id": "5dc9b5a4-e0ab-47d9-9215-729492048504",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.2a",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet de volgende voorbeelden van misdrijven en overtredingen: Voorbeelden van misdrijven: moord, doodslag, mishandeling, verkrachting, inbraak, vernieling, diefstal en heling.",
+		"id": "aca2d3c6-87dd-4301-a3aa-99b698043621",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.2b",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet de volgende voorbeelden van misdrijven en overtredingen: Voorbeelden van overtredingen: wildplassen, openbare dronkenschap en burenoverlast.",
+		"id": "68fb5b6f-3196-4256-acc8-a64fd969a5f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.3a",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet voorbeelden van wetboeken: Delicten staan omschreven in wetboeken/wetten. Voorbeelden hiervan zijn: Het Wetboek van Strafrecht (geweldsmisdrijven, fraude, witwassen, belastingontduiking, diefstal)",
+		"id": "a111ac6a-645a-4aad-9ea0-ccc8e89fb491",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.3b",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet voorbeelden van wetboeken: De Opiumwet (met delicten zoals: het exploiteren van een hennepkwekerij, of het dealen van harddrugs)",
+		"id": "6644446a-bc35-4a25-af13-11f8fc3ee0a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.3c",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet voorbeelden van wetboeken: De Wet wapens en munitie",
+		"id": "d7a44c30-5e69-453c-8fcc-0c2ba73101c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.3d",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet voorbeelden van wetboeken: De Wegenverkeerswet (voorbeelden van misdrijven: rijden onder invloed, doorrijden na een ongeval, joyriding. Voorbeelden van overtredingen: gevaarlijk rijgedrag, zonder helm op een bromfiets rijden of door het rode licht rijden)",
+		"id": "69a3a45b-b8bd-4243-9af4-7235c6838c95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.5",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kan de begrippen waarde, norm, geschreven en ongeschreven regel en rechtsregel noemen, herkennen, beschrijven en toepassen en kan het verband tussen deze begrippen uitleggen.",
+		"id": "ef916f57-66d5-4871-8128-1d467dc96989",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.7",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kan uitleggen dat criminaliteit voldoet aan de kenmerken van een maatschappelijk probleem.",
+		"id": "28a64adb-0781-4cd1-b58b-2090bda53f9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.8a",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kan materiële en immateriële gevolgen van criminaliteit noemen, herkennen, beschrijven en toepassen en kent/weet de volgende voorbeelden van gevolgen. Gevolgen op materieel vlak: - kosten voor burgers en bedrijven voor het nemen van preventieve maatregelen - kosten voor burgers en bedrijven als gevolg van doorberekening van kosten zoals verhoogde verzekeringspremies en financiële kosten ten gevolge van verlies of schade aan goederen - uitgaven van de overheid ter bestrijding van criminaliteit.",
+		"id": "8b73a9ca-8f74-4712-9146-4ab05a5f3d0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.8b",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kan materiële en immateriële gevolgen van criminaliteit noemen, herkennen, beschrijven en toepassen en kent/weet de volgende voorbeelden van gevolgen. Gevolgen op immaterieel vlak: - gevoelens van angst en onveiligheid - emotionele en geestelijk schade - aantasting van het rechtsgevoel, morele verontwaardiging - verandering van opvattingen over goed en kwaad/normvervaging - verlies aan vertrouwen in politiek en overheid - gevaar voor eigenrichting.",
+		"id": "81309bff-ee56-4b87-a458-3a0a3efa8192",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.9",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"syllabus_toelichting_id": [
+			"eda58f48-73bd-4034-9b17-45b180c269c5"
+		],
+		"title": "De kandidaat kent/weet de volgende kenmerken van veelvoorkomende criminaliteit: Veelvoorkomende criminaliteit is een belangrijke oorzaak van onveiligheidsgevoelens bij burgers.",
+		"id": "7049fb20-8288-4cf3-9171-107b9af864c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.10",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"title": "De kandidaat kent/weet het onderscheid tussen geregistreerde criminaliteit (criminaliteit bekend bij de politie) en ongeregistreerde criminaliteit.",
+		"id": "fdc39e8a-fe11-45b0-953a-af3079b693bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13a.12",
+		"examenprogramma_eindterm_id": [
+			"590c20ea-29f6-48cc-ad03-7fac8de1b30e"
+		],
+		"syllabus_toelichting_id": [
+			"09f33f20-b44b-4cf9-96eb-74725d62c1a5"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van de rol van media in de beeldvorming over criminaliteit: Via media kunnen aangrijpende criminele daden heel snel over de hele wereld worden verspreid en dus een groot bereik krijgen.",
+		"id": "78c33330-c288-41ed-b43a-b9a792de3203",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.1a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen. Rechtsbescherming blijkt uit de volgende kenmerken van de rechtsstaat: Er is sprake van een machtenscheiding; de rechter is onpartijdig en onafhankelijk van de uitvoerende en wetgevende macht.",
+		"id": "ffc868a8-5a4f-43a0-90df-d5801a967b2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.1b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen. Er zijn grondrechten; wezenlijk is het beschermen van de individuele vrijheid van de burger.",
+		"id": "3b1269b0-5f52-46b2-ad1d-44d4e8a50fdd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.1c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen. Alle burgers zijn voor de wet gelijk. Er is sprake van rechtsgelijkheid.",
+		"id": "ea46c1d8-af16-4452-b63c-e591f023a73b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.1d",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende kenmerken van een rechtsstaat noemen, herkennen, beschrijven en toepassen. Het handelen van een overheid moet altijd gebaseerd zijn op een wet. Er is sprake van rechtszekerheid.",
+		"id": "6f95a61d-31e6-443e-bbde-9a3e2f529817",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Bij strafbaar gedrag moet het gaan om menselijk gedrag.",
+		"id": "3e607036-7d86-421f-af49-a49e696864b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Het gedrag moet omschreven staan in een delictsomschrijHet gedrag moet omschreven staan in een delictsomschrijving, met andere woorden het moeten handelingen zijn, die in de wet strafbaar zijn gesteld.",
+		"id": "01d74eab-36fb-4285-bece-065104417c56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: De wet bepaalt welke straf maximaal mag worden gegeven.",
+		"id": "c97be9e3-e0a9-4b45-be0a-02b90f314b7b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3d",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Misdrijven en overtredingen kunnen verjaren.",
+		"id": "68594b76-8694-484e-8a01-0c9dc60061b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3e",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Iedereen wordt voor onschuldig gehouden totdat zijn schuld door de rechter is bewezen. Bij gebrek aan bewijs volgt vrijspraak.",
+		"id": "861e3c6e-cd1a-4cb8-8ccb-9550766f2153",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3f",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Er wordt rekening gehouden met de achtergronden en persoonlijke eigenschappen van de dader. Het feit moet aan de schuld van de dader te wijten zijn; dit is bijvoorbeeld niet het geval bij ontoerekenbaarheid.",
+		"id": "ec4bc0f5-892f-4362-a317-53265926e568",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3g",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Er wordt rekening gehouden met de situatie waarin het delict plaats vond. De wet biedt de mogelijkheid om rekening te houden met omstandigheden, waaronder een overtreding of misdrijf is begaan, bijvoorbeeld noodweer en overmacht. Het gedrag is dan niet strafbaar.",
+		"id": "03a8754f-344a-463d-80ed-f9b23e736110",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3h",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Voor jongeren geldt het jeugdstrafrecht.",
+		"id": "dcf9814c-d69e-4437-8da0-845d3138db72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.3i",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafrecht: Er wordt rekening gehouden met de ernst van het gepleegde delict.",
+		"id": "4d92c709-a977-4faf-a893-13326c41dc2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: Jongeren onder de 12 jaar kunnen niet strafrechtelijk worden vervolgd.",
+		"id": "23726708-67ef-4e90-b6f6-78e3385e286f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: Voor jongeren tussen de 12 en 18 jaar gelden bijzondere bepalingen: zij staan voor de kinderrechter en de rechtszittingen zijn niet openbaar. Er gelden andere straffen en maatregelen: De maximale aantal jaren gevangenisstraf waartoe jongeren kunnen worden veroordeeld is een stuk minder hoog dan het maximaal aantal jaren gevangenisstraf dat volwassenen kunnen krijgen.",
+		"id": "fac32571-bf4f-46c1-a8e8-b2e45aa85a08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: In sommige gevallen geldt ook voor 16 tot 18-jarigen het volwassenenstrafrecht en voor 18 tot 23-jarigen het jeugdstrafrecht, op grond van hun persoonlijkheid of omstandigheden. Vanaf 23 jaar geldt de volledige strafrechtelijke aansprakelijkheid en het volwassenenstrafrecht.",
+		"id": "d1a34c04-2071-4f9c-8eec-53ff9a081d2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4e",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: Pij-maatregel (Plaatsing in een Inrichting voor Jeugdigen); een jongere met een gebrekkige ontwikkeling of ziekelijke stoornis kan worden opgenomen in een justitiële jeugdinrichting. Hier krijgt hij een intensieve behandeling en begeleiding om herhaling van het misdrijf te voorkomen. Dit kan later worden omgezet in tbs.",
+		"id": "2f858746-05de-4d6a-8e09-cccb13af5128",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4f",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: Jongeren van 12 tot 18 jaar die een strafbaar licht vergrijp plegen, kunnen door politie of leerplichtambtenaren naar Halt worden doorverwezen voor een passende Halt-straf. Zij krijgen een leer- en/of werkopdracht en er volgen gesprekken met de jongere en de ouders. De jongere moet excuses aanbieden aan eventuele slachtoffers en de eventuele schade vergoeden. Op deze manier krijgen jongeren inzicht in hun eigen gedrag.",
+		"id": "1e0892ec-a726-4997-835d-51fa4c62ff84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.4g",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van het jeugdstrafrecht: In het jeugdstrafrecht kan een taakstraf ook bestaan uit een leerstraf. Bij een leerstraf volgt de gestrafte een verplichte training of cursus om zijn onderliggende probleem aan te pakken.",
+		"id": "3a1d1824-3426-4bba-a7d3-526dde6d9c38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: Iedereen heeft recht op een eerlijk proces voor een onafhankelijke en onpartijdige rechter.",
+		"id": "067991d6-2f28-4cf9-9103-fec788077efa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: Taken en bevoegdheden van de officier van justitie, politie en rechter zijn in de wet vastgelegd. Hetzelfde geldt voor rechten en plichten van een advocaat, verdachte, reclassering en slachtoffers. Alleen het OM mag een zaak voor de strafrechter brengen.",
+		"id": "b34561e4-880a-4b5a-8427-645ce349b2f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: De overheid zorgt voor bescherming van de rechten en vrijheden van burgers en gaat strafrechtelijk willekeur tegen.",
+		"id": "cb5e41ce-2eda-492e-b9d9-0b3c4cbb94b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5d",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: De verdachte heeft recht op rechtsbijstand en recht op een tolk.",
+		"id": "9fc816c7-5a04-445e-9968-1995e6e6c6b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5e",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: De verdachte is niet verplicht om te antwoorden.",
+		"id": "39cc1c31-6043-4339-881e-9d0c4727fc96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/5f",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de uitgangspunten van het strafprocesrecht: Het feit dat een strafzaak in de openbaarheid plaatsvindt, bevordert een eerlijk proces.",
+		"id": "b0530742-24d5-4946-8022-f84452fc582b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/6a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de verschillen tussen overtredingen en misdrijven: Een overtreding is meestal een lichte schending van de wet. Voor overtredingen gelden lagere (maximum)straffen dan voor misdrijven. De vrijheidsstraf bij overtreding heet hechtenis - maximaal 1 jaar - en wordt uitgezeten in een Huis van Bewaring. Voor overtredingen krijg je meestal geen strafblad (officiële benaming: uittreksel justitiële documentatie).",
+		"id": "18d8ea63-08a2-464c-9ec1-0ae0dc1f8d42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/6b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de verschillen tussen overtredingen en misdrijven: Een misdrijf is meestal een zware schending van de wet. Bij een misdrijf wordt gesproken van gevangenisstraf. Hoe ernstiger het delict, hoe zwaarder de maximumstraf die er op staat. Bij misdrijven krijgt een verdachte die ouder is dan 12 jaar altijd een strafblad.",
+		"id": "9fae16ed-b995-4573-9994-cbf201023581",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/7a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"syllabus_toelichting_id": [
+			"dcfe4bc4-b9e0-4432-9f8e-d2b9dceecfe5",
+			"76000f67-00b0-4a82-b920-6ad95deb32f5"
+		],
+		"title": "De kandidaat kent/weet de rechten en plichten van de verdachte in de Nederlandse rechtsstaat: Iemand is een verdachte indien uit de omstandigheden of feiten blijkt dat er een redelijk vermoeden van schuld aan enig strafbaar feit bestaat. In de wet zijn de rechten van de verdachte vastgelegd.",
+		"id": "c06d8193-8ca5-43d4-8f26-de00fdae89aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/8",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"syllabus_toelichting_id": [
+			"61a75675-4137-4c10-bd9c-f45b35bd38d1",
+			"0378228b-9b8e-4017-9226-a8d52df9d854",
+			"cfea82e6-d76f-4e59-9fa7-9870a4c2296b",
+			"fa8a68ff-4be5-4b31-acdf-ef78223959d8",
+			"c5295e42-a7dd-4d49-8bbb-73eee42ae8d5"
+		],
+		"title": "De kandidaat kan de taken en rol van de officier van justitie noemen, herkennen, beschrijven en toepassen. Taken van de officier van justitie: De officier van justitie geeft leiding aan het opsporingsonderzoek en geeft de politie de opdracht om stafbare feiten op te sporen.  De officier van justitie vervolgt strafbare feiten.  De officier van justitie treedt in de rechtszaal op als (openbare) aanklager.",
+		"id": "07f9e4af-6454-4368-8e5b-4a005aafa9c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.9a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende rechten van slachtoffers: Een slachtoffer van een ernstig misdrijf heeft het recht om op de zitting te kunnen spreken (spreekrecht).",
+		"id": "6129188b-f7e4-4b25-8fe2-f0a9a4cbc95e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.9b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende rechten van slachtoffers: Het slachtoffer kan via de officier van justitie vragen om schadevergoeding. De rechter kan de dader verplichten de schade te vergoeden. Schadevergoeding is iets anders dan een boete.",
+		"id": "e8104b83-3135-4245-9a73-0d4b8d5fa6c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.9c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende rechten van slachtoffers: Het slachtoffer heeft recht op slachtofferhulp.",
+		"id": "d5913869-fc4d-4f5f-8fd8-3a11d49eac24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.9d",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende rechten van slachtoffers: Het slachtoffer heeft recht op informatie; over de voortgang van de rechtszaak en inzage in het dossier.",
+		"id": "db6a2f58-936b-4ab5-af5a-f2faaac4961a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.9a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de volgende rechten van slachtoffers: Nabestaanden van het slachtoffer hebben spreekrecht.",
+		"id": "40e51b40-19c6-4556-8d4f-bd90653b5974",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.10",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "0 De kandidaat kent/weet de rol en taken van de reclassering: De reclassering werkt met mensen die in aanraking zijn gekomen met politie en justitie. Zij zet zich in om herhaling van strafbaar gedrag te voorkomen. Zij speelt een rol voor, tijdens en na het strafproces.",
+		"id": "c856fd80-31cb-446c-bcd1-f3529b590ff3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.11a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende taken en bevoegdheden van de politie noemen, herkennen, beschrijven en toepassen. De taken van de politie:  Handhaven van de openbare orde - Opsporen van strafbare feiten, onder verantwoordelijkheid van de officier van justitie -preventie - Verlenen van hulp.",
+		"id": "1f1c43ae-4312-477c-a4f6-d0e0e057126c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/k/8/13b.11b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgende taken en bevoegdheden van de politie noemen, herkennen, beschrijven en toepassen. De bevoegdheden van de politie: De politie mag een verdachte staande houden, fouilleren, een bekeuring geven, vragen naar persoonlijke gegevens, identiteitsbewijs en/of aanhouden -  Een verdachte mag maximaal zes uur worden vastgehouden voor verhoor (excl. nacht), tenzij de officier van justitie toestemming geeft om hem langer vast te houden - Opstellen van het proces-verbaal.",
+		"id": "267ea59f-73d5-4f4a-bac3-9448384d819e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.12",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de belangrijkste taken van de BOA en kan bevoegdheden van de BOA noemen, herkennen, beschrijven en toepassen. Zij vullen de politie aan bij het handhaven van de openbare orde en veiligheid en controleren of mensen zich aan de regels houden en geen overtredingen begaan, zoals foutparkeren of milieuregels overtreden.",
+		"id": "c81f0e32-4b09-4309-839c-875acc82e135",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.13a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de organisatie van strafrechtspraak. Er zijn drie rechterlijke instanties: de rechtbanken, de gerechtshoven en er is één Hoge Raad. De rechtbank kent verschillende soorten strafrechters: De kantonrechter behandelt overtredingen.",
+		"id": "d09c6d07-f129-4aca-8eab-676a611b8d10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.13b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kent/weet de organisatie van strafrechtspraak. Er zijn drie rechterlijke instanties: de rechtbanken, de gerechtshoven en er is één Hoge Raad. De rechtbank kent verschillende soorten strafrechters: De politierechter behandelt alle soorten misdrijven waarvoor maximaal twaalf maanden gevangenisstraf geëist worden. Aan het eind van de zitting doet de politierechter altijd direct uitspraak.",
+		"id": "87082339-c265-46c8-a193-4a4161d51539",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b.13c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"syllabus_toelichting_id": [
+			"59bd6034-2995-4006-bf7a-896d2c58a57d"
+		],
+		"title": "De kandidaat kent/weet de organisatie van strafrechtspraak. Er zijn drie rechterlijke instanties: de rechtbanken, de gerechtshoven en er is één Hoge Raad. De rechtbank kent verschillende soorten strafrechters: De rechters in een meervoudige kamer behandelen ingewikkeldere en zwaardere misdrijven. De meervoudige kamer bestaat uit drie rechters. Een uitspraak van de meervoudige kamer volgt na 14 dagen.",
+		"id": "18e95af4-0d8b-4e4b-83df-713ea6d3aaa6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14a",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Opening door de rechter",
+		"id": "b9eecf4c-5cd9-469f-9cbd-ad3df4c49096",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14b",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Aanklacht/tenlastelegging door officier van justitie.",
+		"id": "f2dd4df4-d670-4009-823e-dfdccb379f30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14c",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Verhoor van getuigen en deskundigen door rechter, advocaat en officier van justitie.",
+		"id": "760e30d7-477e-4bc4-9bb4-897eb668d0e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14d",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Verhoor van verdachte: door rechter, advocaat en officier van justitie.",
+		"id": "821234de-dee5-4ad0-892c-570af97f0b26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14e",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Requisitoir door de officier van justitie.",
+		"id": "a318bb7d-f548-4221-92a6-dd156fd77383",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14f",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Pleidooi door de advocaat.",
+		"id": "01597916-a554-42c7-87c6-66d2bfea024a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14g",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Laatste woord door de verdachte.",
+		"id": "6a4a23ad-b279-4f3e-85cb-c811a57d1afd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13b/14h",
+		"examenprogramma_eindterm_id": [
+			"a699e80d-3866-4ca5-a18e-e08112f33504"
+		],
+		"syllabus_toelichting_id": [
+			"b46dc72f-125f-4dab-aca2-78b28047d1d9"
+		],
+		"title": "De kandidaat kan de volgorde en onderdelen van een rechtszitting noemen, herkennen, beschrijven en toepassen: Uitspraak/vonnis door de rechter.",
+		"id": "665bc05f-e511-4450-ae67-f6f84b79010d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13c/1",
+		"examenprogramma_eindterm_id": [
+			"4bb9ce5a-ed4b-4575-952d-73f1a2b9e9e6"
+		],
+		"syllabus_toelichting_id": [
+			"0d6fe5ff-c6ce-4da9-86bf-4cb5f94374e0"
+		],
+		"title": "De kandidaat kan verschillende factoren die de kans op het ontwikkelen van strafbaar gedrag vergroten of verkleinen, herkennen. De kans op het ontwikkelen van strafbaar gedrag neemt toe als kinderen te kampen hebben met een opeenstapeling van elkaar versterkende risicofactoren zoals: Psychische of gedragsproblemen - Een onveilige opvoeding - Problematisch drank- en/of drugsgebruik - Foute vrienden/groepsdruk.",
+		"id": "bf9f2cb4-adbf-45bb-86a6-584c84817335",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13c/3",
+		"examenprogramma_eindterm_id": [
+			"4bb9ce5a-ed4b-4575-952d-73f1a2b9e9e6"
+		],
+		"syllabus_toelichting_id": [
+			"0192cc51-651d-44ae-a2db-f02e27b40593",
+			"b5c878e7-9df1-4aba-b8b2-d62166f072a8"
+		],
+		"title": "De kandidaat kent/weet dat het plegen van strafbare feiten vaak afneemt naarmate mensen ouder worden.",
+		"id": "96b1539e-2376-4e6f-9b75-091c7da23f4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13d/1",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"syllabus_toelichting_id": [
+			"bea2389a-536a-4a06-a611-5f6f1102d761",
+			"07445c0d-7971-48d0-a8b8-6ae9543377d7"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten met betrekking tot overheidsinstanties die betrokken zijn bij het voorkómen en bestrijden van criminaliteit",
+		"id": "4a9abdac-9d61-4cca-ac70-cb701e2ef9b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13d/2",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"title": "De kandidaat kan de volgende beleidsterreinen waarin verschillende aspecten van criminaliteit en veiligheid aandacht krijgen noemen, herkennen, beschrijven en toepassen: Opsporingsbeleid - Gevangenisbeleid - Vervolgingsbeleid - Beleid ten aanzien van jeugdcriminaliteit.",
+		"id": "93e481df-5192-4520-8d88-63d95f3dbb56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13d/3",
+		"examenprogramma_eindterm_id": [
+			"9817d57c-989f-47af-8576-951aa1fd1904"
+		],
+		"title": "De kandidaat kan het verschil tussen preventieve en repressieve aspecten van overheidsbeleid noemen, herkennen, beschrijven en toepassen.",
+		"id": "2bf55e1a-96ec-4507-b9f1-51e151317b4e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13e/1",
+		"examenprogramma_eindterm_id": [
+			"d119ed24-2008-4b72-8fbc-e02297813a43"
+		],
+		"title": "De kandidaat kan de doelen van sancties/ straffen herkennen, noemen, beschrijven en toepassen: Doelen van sancties/straffen zijn: Vergelding - Afschrikking/preventie - Beveiliging van de samenleving - Handhaving van de rechtsorde - Voorkomen van eigenrichting - Heropvoeding/resocialisatie - Genoegdoening.",
+		"id": "67c3c81c-3052-464a-a175-e88647e8e6ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13e/2",
+		"examenprogramma_eindterm_id": [
+			"d119ed24-2008-4b72-8fbc-e02297813a43"
+		],
+		"syllabus_toelichting_id": [
+			"a32963f6-92bb-4fd8-8e3f-24c97d6fa4af",
+			"5bc153cb-a97e-4130-8b34-9bfef867fd32",
+			"7916b2f0-78dd-4f7e-a6c3-b95dda7bc8ce"
+		],
+		"title": "De kandidaat kent/weet de volgende aspecten van soorten straffen en maatregelen. De wet kent sancties; soorten straffen en maatregelen. De sancties kunnen gecombineerd worden. Sancties kunnen worden onderverdeeld in hoofdstraffen, bijkomende straffen en maatregelen. Hoofdstraffen zijn: - Taakstraf/werkstraf - Gevangenisstraf - Geldboete - Hechtenis.",
+		"id": "edc4e51f-6383-4441-bde1-cbc0ccfa21e7",
+		"unreleased": true
 	}
 ]
