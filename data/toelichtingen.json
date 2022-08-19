@@ -24693,9 +24693,10 @@
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5b.2.6/toel.",
-		"title": "Fase 1 Agendavorming: Het uiten van wensen die leven in de maatschappij, met als doel die op de politieke agenda te krijgen. Burgers, organisaties, pressie- en belangengroepen proberen hun wensen en verlangens op de politieke agenda te krijgen. Het succes van hun pogingen hangt onder meer af van\r\nhet kunnen mobiliseren van de publieke opinie. Fase 1 is afgerond als de wensen en verlangens op de politieke agenda staan.",
+		"title": "Fase 1 Agendavorming: Het uiten van wensen die leven in de maatschappij, met als doel die op de politieke agenda te krijgen. Burgers, organisaties, pressie- en belangengroepen proberen hun wensen en verlangens op de politieke agenda te krijgen. Het succes van hun pogingen hangt onder meer af van\r\r\nhet kunnen mobiliseren van de publieke opinie. Fase 1 is afgerond als de wensen en verlangens op de politieke agenda staan.",
 		"id": "afa3e74b-9edc-4b9a-bbf5-280ce7959765",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -24728,9 +24729,10 @@
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
-		"title": "Sociaaldemocratische stroming: Streven naar meer sociaaleconomische gelijkheid; verkleinen van verschillen in inkomen, welvaart, en macht. Relatief grote rol van de overheid om nadelen van de vrijemarkteconomie te verminderen, om ongelijkheid te verkleinen en om gemeenschapsgoederen zoals\r\nonderwijs, sociale voorzieningen e.d. te scheppen. Internationale solidariteit. Opkomen voor de zwakkeren in de samenleving.",
+		"title": "Sociaaldemocratische stroming: Streven naar meer sociaaleconomische gelijkheid; verkleinen van verschillen in inkomen, welvaart, en macht. Relatief grote rol van de overheid om nadelen van de vrijemarkteconomie te verminderen, om ongelijkheid te verkleinen en om gemeenschapsgoederen zoals\r\r\nonderwijs, sociale voorzieningen e.d. te scheppen. Internationale solidariteit. Opkomen voor de zwakkeren in de samenleving.",
 		"id": "ce663ca7-0c9c-4781-a534-8534b2d082ec",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -24875,15 +24877,122 @@
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13e/2/toel.",
-		"title": "Maatregelen zijn niet in de eerste plaats bedoeld om iemand te straffen, maar gericht op herstel of om de samenleving tegen de dader of de dader tegen zichzelf te beschermen. Voorbeelden van maatregelen: \r\n- het afpakken van goederen of van winst die een verdachte met zijn misdrijven heeft gemaakt; \r\n- het betalen van een schadevergoeding aan het slachtoffer; \r\n- Tbs; een behandelmaatregel voor mensen die lijden aan een psychiatrische ziekte of stoornis.",
+		"title": "Maatregelen zijn niet in de eerste plaats bedoeld om iemand te straffen, maar gericht op herstel of om de samenleving tegen de dader of de dader tegen zichzelf te beschermen. Voorbeelden van maatregelen: \r\r\n- het afpakken van goederen of van winst die een verdachte met zijn misdrijven heeft gemaakt; \r\r\n- het betalen van een schadevergoeding aan het slachtoffer; \r\r\n- Tbs; een behandelmaatregel voor mensen die lijden aan een psychiatrische ziekte of stoornis.",
 		"id": "5bc153cb-a97e-4130-8b34-9bfef867fd32",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13e/2/toel.",
 		"title": "De rechter kan ook iemand voorwaardelijk veroordelen tot een geldboete of een vrijheidsstraf. Een voorwaardelijke straf wordt (nog) niet uitgevoerd. De veroordeelde krijgt dan een proeftijd. Wanneer hij zich binnen de proeftijd opnieuw schuldig maakt aan een strafbaar feit, wordt de voorwaardelijke straf uitgevoerd.",
 		"id": "7916b2f0-78dd-4f7e-a6c3-b95dda7bc8ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/6b.2.3e/toel.",
+		"title": "De mate van invloed van een politieke partij is (onder meer) afhankelijk van haar deelname aan het dagelijks bestuur. Wanneer dit het geval is zijn zij medeverantwoordelijk voor het opstellen van een regeerakkoord/collegeakkoord",
+		"id": "1f8f2bed-6943-4594-b6f3-44a2c40a3f54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/4/6b.2.3e/toel.",
+		"title": "Wanneer een politieke partij deelneemt aan het dagelijks bestuur spreken we van een coalitiepartij, wanneer zij niet deelneemt aan het dagelijks bestuur spreken we van een oppositiepartij.",
+		"id": "da17591b-1f06-4040-84d5-ca9990b80d91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14a.11a/toel.",
+		"title": "Nadelen van deze manier van meten: \r\n- Veel misdrijven en overtredingen komen niet ter kennis van de politie.\r\n- Zichtbare vormen van criminaliteit zullen oververtegenwoordigd zijn in de cijfers ten opzichte van minder zichtbare vormen van criminaliteit. \r\n- De aangiftebereidheid verschilt per misdrijf waardoor het kan lijken of bepaalde misdrijven vaker worden gepleegd dan andere. \r\n- Selectief opsporingsbeleid beïnvloedt de cijfers voor bepaalde vormen van criminaliteit; criminaliteit waar de politie veel aandacht aan besteedt zal ook eerder worden geconstateerd. Ook kan de politie meer aandacht hebben voor bepaalde groepen in de samenleving",
+		"id": "4c8ca088-193c-4c9e-b838-b14aaaefbf01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14a.11b/toel.",
+		"title": "Voordeel van deze manier van meten: ook niet-aangegeven misdrijven komen zo in de cijfers naar voren. Nadelen van deze manier van meten: \r\n- Er kan een emotionele drempel bestaan voor het beantwoorden van vragenlijsten. \r\n- Voor sommige vormen van criminaliteit zijn niet altijd aanwijsbare slachtoffers (bijvoorbeeld vernielingen van openbaar bezit) waardoor die niet gemeten worden.",
+		"id": "b56e642d-c607-4384-a642-159aae6a5249",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14a.11c/toel.",
+		"title": "Voordeel van deze manier van meten is dat ook niet-ontdekte en weinig zichtbare delicten (bijvoorbeeld fraudezaken) bekend worden. Nadeel van deze manier van meten: het is mogelijk dat personen niet altijd een eerlijk antwoord geven, zeker bij daders van zware misdrijven.",
+		"id": "6996f5f9-7334-4c6e-ac00-eb818eb0e8a8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14a.11c/toel.",
+		"title": "Veiligheidsmonitor: De overheid wil weten hoe veilig Nederlanders zich voelen en waar gevoelens van onveiligheid vandaan komen.",
+		"id": "bf2af976-eca4-41a8-8a81-b41b76b9a108",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14a.11c/toel.",
+		"title": "Om die reden meet de overheid elke twee jaar via een enquête hoe veilig burgers zich voelen, door bijvoorbeeld te meten: \r\n- Of burgers slachtoffer zijn (geweest) van een crimineel gedrag (slachtofferenquête). \r\n- Of burgers respectloos en/of overlast gevend gedrag hebben ervaren. \r\n- Hoe burgers het werk van de politie ervaren.",
+		"id": "193eeb1f-f5d2-496d-9485-4ed866c4f786",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14a.12/toel.",
+		"title": "Opmerkingen over effecten van beeldvorming over criminaliteit:  Media kunnen bepaalde opvattingen over de oorzaken van criminaliteit en kenmerken van criminelen versterken. Het stereotype beeld kan bijvoorbeeld ontstaan dat criminaliteit alleen voorkomt onder jongeren en gebonden is aan etniciteit.",
+		"id": "990c0895-2dc9-4f3b-a521-ba3cb60ac1fd",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14a.12/toel.",
+		"title": "Media spelen een rol in het tot stand komen van de publieke opinie. Met betrekking tot criminaliteit kan hierbij worden gedacht aan opvattingen van het publiek over de wijze waarop bepaalde misdrijven voorkómen en bestraft moeten worden",
+		"id": "b24687e7-27e2-4909-a25d-437fb5151aac",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14a.12/toel.",
+		"title": "Volgens sommigen kunnen media ook van invloed zijn op het ontstaan van crimineel gedrag. Bijvoorbeeld het kopieer-gedrag na het kennisnemen van nieuwsberichten.",
+		"id": "f5b8e6a9-9995-4fc9-a602-d813ae1fcf0d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14b.10/toel.",
+		"title": "Taken van de reclassering zijn: \r\n- Adviseren van de rechtbanken en het Openbaar Ministerie over daders en verdachten\r\n- Begeleiden en controleren van mensen die onder toezicht staan \r\n-Ten uitvoer leggen van werkstraffen.",
+		"id": "e815d194-3aac-4e47-b9cf-140f6c1710fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14c/toel.",
+		"title": "Omgekeerd bestaan er ook beschermende factoren, die zorgen voor een kleinere kans op crimineel gedrag. Het gaat hier bijvoorbeeld om: - het hebben van een baan/het volgen van onderwijs; - een relatie hebben/deel zijn van een hecht gezin; - het beschikken over goede sociale vaardigheden.",
+		"id": "d14058a5-f2be-4439-9549-32568626af2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/14c/2/toel.",
+		"title": "Aangeleerd gedragstheorie: Deze theorie gaat ervan uit dat crimineel gedrag wordt aangeleerd in contact met mensen uit de eigen omgeving (familie, jeugdgroepen).",
+		"id": "f8242817-9719-4747-a28d-58a152b5784f",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14c/2/toel.",
+		"title": "Bindingstheorie: Deze theorie stelt dat de maatschappelijke binding (met gezin, school, vriendengroep, vrijetijdsverenigingen) criminaliteit sterk doet verminderen. Wanneer mensen een hechte maatschappelijke binding ontwikkelen, houden ze zich sneller aan de algemeen geldende waarden en normen.",
+		"id": "64ff355c-6e3f-4fa4-921e-6cd1896ef231",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14c/2/toel.",
+		"title": "Rationele-keuze-theorie: Deze theorie stelt dat een misdrijf wordt gepleegd naar aanleiding van een rationele keuze. Een afweging van kosten (pakkans, beveiliging, sociale controle) en baten (geld of goederen).",
+		"id": "29fc6bf4-1f92-48ca-b530-a044c06bd26e",
+		"unreleased": true
+	},
+	{
+		"prefix": "ML2/K/8/14c/2/toel.",
+		"title": "Etikettentheorie: Deze theorie stelt dat wanneer de omgeving het etiket ‘crimineel’ op een persoon drukt, die persoon zich hier ook naar gaat gedragen. Dit gebeurt mogelijk bij mensen die zich afwijkend gedragen of al eerder een misdaad hebben begaan.",
+		"id": "388933b6-8d5f-471e-bb59-d015f048fa73",
 		"unreleased": true
 	}
 ]
