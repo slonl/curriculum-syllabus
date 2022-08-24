@@ -58281,5 +58281,85 @@
 		"title": "De kandidaat kan een eigen standpunt ten aanzien van het vraagstuk formuleren en kan dat standpunt onderbouwen met de kennis uit dit examenprogramma.",
 		"id": "495faff1-bf18-44ef-b84d-37c26cc38c9b",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/H/B1",
+		"examenprogramma_eindterm_id": [
+			"b1ee8895-91bf-49f3-96e6-afdb1a146639"
+		],
+		"syllabus_vakbegrip_id": [
+			"86ceb093-66b1-43ad-a829-988a629f8496",
+			"d1beb174-2598-42f0-9ac3-5f6930ccbb81",
+			"1f102de7-ba6a-463b-9a42-cbf17f42d5f5",
+			"98f66c48-bec5-4362-885b-b1ee31e8d994",
+			"4c940e5c-2ca0-4bde-842a-a2c06748b72d",
+			"b1b7d535-8891-40dc-9cfe-d4c7de36cd74",
+			"534b861a-d726-4505-b9b5-86e3cdcccd80",
+			"4f669844-2aa8-45d1-9658-9d9e14f5b8c5",
+			"32883042-1af9-430a-a679-e7bb2bc4e4a4",
+			"6c0341a9-5d63-4ca3-95f3-dba0c9ef3ce7",
+			"6ddf19f1-e27c-4367-9484-52dc5ae67196",
+			"362a7c51-5afb-4d6a-bbb9-d2868b992129",
+			"b15c66f7-d22e-42b7-b321-ddb9769aacd6",
+			"f879280f-222d-4048-ac52-fb5165fbb7ab",
+			"b557e220-3434-4991-ae17-9c06557f1e3d",
+			"843cf079-b256-4b1d-9bcb-89a9671ec587",
+			"3b95eeb3-1914-4d38-961f-40601e9aff57"
+		],
+		"title": "Wijsgerige antropologie: Wat is de mens?",
+		"id": "30f24c48-72f3-47be-97c7-325ddc5af18d",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"deff0c06-8a57-46f2-a0f5-cc0d71d8d080"
+		],
+		"syllabus_vakbegrip_id": [
+			"deed0d8f-a03b-43ba-884b-10b1f0060573",
+			"83c3b603-54b3-43da-8055-0939e6adcf10",
+			"121aed20-a9fb-47e4-8e3b-2303ab8d7c32",
+			"ced87756-0909-43e0-9a14-c2dbbe6543e4",
+			"fd9e5a41-5718-4e8e-97b3-3464b1b241b2",
+			"639eb6e7-bd89-448b-842a-a00e3a42e598",
+			"cd9dd370-df79-4a07-8915-8ad35df29cfa",
+			"b33bbbf0-3067-4392-961e-ae6997e70430",
+			"3fcf78c6-8ada-43b3-bdcc-dd6befdb412f",
+			"30e9a7dc-66cd-4640-a97e-bcc89c9059c6",
+			"413509ae-883b-4aac-8946-cd0614b62046",
+			"aeb77913-6715-40e6-aa55-a5005f8dd249",
+			"a6d9169a-1ef2-45dc-a42f-9594d7139fa3",
+			"3fbffea8-b310-4c52-ad91-870cd938a932",
+			"2e8f43a9-616e-48ab-8f90-d4657659fc75"
+		],
+		"title": "Ethiek: Wat is goed?",
+		"id": "210b44a7-4e12-45d7-ab63-4c856f5542e5",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"090914a1-c3b4-4545-96a2-6128958ff361"
+		],
+		"syllabus_vakbegrip_id": [
+			"f9497483-7086-44a7-b9ad-8fb8c9e341fb",
+			"f92e6d3f-1a06-4fc9-9b21-f61b457d5070",
+			"6af39ade-adf1-4578-9a3a-95cb03577132",
+			"d51c4593-99aa-40ed-a7a7-75ed2c1bc296",
+			"2e47b6ec-32b9-4ae3-a304-045ea20c52ec",
+			"024628b3-2e99-42c8-b930-cd470d862b89",
+			"f39268b7-74ce-4304-a8b2-38872d75d115",
+			"77d26ea9-70bc-4684-9ece-c2423350a3df",
+			"6997a329-0edc-49f1-a27a-97e9317c0900",
+			"45710e4b-6a0a-4d7e-adc1-a8c3d39a2cd4",
+			"205eb507-37c8-49c8-94d3-fd25880a499a",
+			"08be5f0e-3431-490e-800d-2fa0f3d4cfd7",
+			"a8f8a523-b715-4b2f-8958-b92886461444",
+			"c5b9188e-430d-416b-8fb3-3b22f58e2533",
+			"7e1b48ae-a967-4d49-897a-14e304b9ed28",
+			"cdeb752d-3012-431d-8268-9c71c426450e"
+		],
+		"title": "Sociale filosofie: Wat is een rechtvaardige samenleving?",
+		"id": "a6562143-47c2-4915-ab30-d763d5aa0a1c",
+		"unreleased": true
 	}
 ]
