@@ -58361,5 +58361,132 @@
 		"title": "Sociale filosofie: Wat is een rechtvaardige samenleving?",
 		"id": "a6562143-47c2-4915-ab30-d763d5aa0a1c",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinB",
+		"examenprogramma_eindterm_id": [
+			"58e35aac-c580-4da3-9d68-bcd12fb0a42b"
+		],
+		"syllabus_vakbegrip_id": [
+			"d1beb174-2598-42f0-9ac3-5f6930ccbb81",
+			"3f884c4e-4864-44e9-a70e-49f488d2c959",
+			"b1b7d535-8891-40dc-9cfe-d4c7de36cd74",
+			"55896d07-3893-44c2-b564-239f39901441",
+			"98f66c48-bec5-4362-885b-b1ee31e8d994",
+			"534b861a-d726-4505-b9b5-86e3cdcccd80",
+			"02bd175f-1471-4c94-82bd-100a9c350f50",
+			"f4201620-ac01-4ca6-9cd8-2ca8a9edaeda",
+			"c3386c13-6592-49fb-97d7-d703f6d8c683",
+			"013eab80-e588-4171-96b8-76ba5eb0c5e4",
+			"bfe81901-2fbe-41f2-8b85-ec16364cf0ff",
+			"9c4879a7-4b80-447d-b3d5-fc43cbcd58db",
+			"105ddc10-93b7-4302-bfa5-078d82a65fce",
+			"0e2b2fc4-0276-4c0b-a36e-8dde864af896",
+			"6c0341a9-5d63-4ca3-95f3-dba0c9ef3ce7",
+			"a28b3c99-cf9c-4a68-889e-77d5758ff307",
+			"362a7c51-5afb-4d6a-bbb9-d2868b992129",
+			"daf4cdbf-02e1-4f39-8f03-7d217d8c8226",
+			"b557e220-3434-4991-ae17-9c06557f1e3d",
+			"8c9ba1c1-49f6-47c3-b528-f778ab70caee"
+		],
+		"syllabus_toelichting_id": [
+			"1e7c043a-c4a4-4624-ac3e-8c28f1a4c674"
+		],
+		"title": "Centrale begrippen en toonaangevende visies uit de wijsgerige antrolologie.",
+		"id": "437390bc-ad23-43a5-963f-07d2e8a3c383",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinC",
+		"examenprogramma_eindterm_id": [
+			"edc6eeb8-9db0-4fcb-a9de-6472bb5b0460"
+		],
+		"syllabus_vakbegrip_id": [
+			"a1c8dee4-89eb-4a46-b514-0df82546d8ac",
+			"b644f80f-d941-404f-bed1-42bf558c33da",
+			"460714c6-dd45-46f2-9b83-6799600ca55b",
+			"83c3b603-54b3-43da-8055-0939e6adcf10",
+			"7ab886ff-39d5-4438-a802-61f399ca3e87",
+			"3fcf78c6-8ada-43b3-bdcc-dd6befdb412f",
+			"ced87756-0909-43e0-9a14-c2dbbe6543e4",
+			"dfa0af1b-3e78-4383-9948-b8948b5d89d2",
+			"48483c62-3f3c-49af-800d-210dea437157",
+			"aeb77913-6715-40e6-aa55-a5005f8dd249",
+			"f322cd23-224e-4a65-8228-5a47b3d62f7b",
+			"3fb985a3-e970-4aac-8228-b00ef0b8e8da",
+			"8c800692-fa0c-4335-ab76-10d28a09ce22",
+			"8bee6bb5-53c7-473e-8ccc-55edc0515933",
+			"ec8a61a8-474a-47b8-b734-760b94af8979"
+		],
+		"syllabus_toelichting_id": [
+			"2d2da5c1-8b9a-415e-8c45-ab19d6089e2c"
+		],
+		"title": "Centrale begrippen en toonaangevende visies uit de ethiek.",
+		"id": "37b4f48d-637f-4bd2-935b-98b658c05d66",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinD",
+		"examenprogramma_eindterm_id": [
+			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
+		],
+		"syllabus_vakbegrip_id": [
+			"49f6d407-e4f4-458e-99dc-49e50b9e836e",
+			"f8e6e7f7-d775-4e72-b1da-d6dd5ed20080",
+			"cd940b3b-da37-4356-8a44-44086baddfeb",
+			"49982ec7-e71b-46df-a053-7b888fbc2145",
+			"e775aa9a-770a-42e4-94ca-d354c696e9d3",
+			"0e276400-cce9-4735-b86f-8c89293bf428",
+			"b922b2fd-b0f1-480d-84c4-f3d25d006cf1",
+			"115a262b-5971-4c76-b9ea-2861c496bc75",
+			"3dfd3955-353b-4b0d-9dfd-33f6a805952f",
+			"7db767aa-92a0-4496-8914-2938e84ac9da",
+			"9d9b352c-6cc4-45c0-9c27-97623ba4c6bf",
+			"c0c9073d-a202-4bd3-b352-29f7e3970dd5",
+			"f9a0f05e-00fb-430b-9ea7-22faa5473123",
+			"258fe04b-e4f3-499a-b6fc-088a413d5cb0",
+			"8db59ffc-99af-4b80-ba2c-89411c09874f"
+		],
+		"syllabus_toelichting_id": [
+			"49c71f54-e546-47aa-8a2c-3efb02f346d0"
+		],
+		"title": "Centrale begrippen en toonaangevende visies uit de kennisleer",
+		"id": "77130dc9-9f1b-447f-9dac-f1d8b87cbffb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "FI/V/DomeinE",
+		"examenprogramma_eindterm_id": [
+			"835eb209-797f-47d9-b48c-2ee0c50f6980"
+		],
+		"syllabus_vakbegrip_id": [
+			"e6375c22-e685-476f-ade3-9ddb3a54f3a9",
+			"05b9f2f0-eba9-46ac-a2c1-2ded6ab4a774",
+			"ea78acec-3b1d-4b05-b5f0-aab35d36d498",
+			"c8a8364f-cb06-4fb2-a1d8-83add4fce275",
+			"9e647a97-f56c-4698-ba9f-32d20d4bd98d",
+			"21e8ea2f-f420-40d8-b4b3-bd6ddb2225d8",
+			"ce41d952-86b0-4bc9-b3ee-d4825fa0de64",
+			"f73c939d-3cd7-4f67-a57b-5a0815d49e65",
+			"58e3c0c1-b998-41f8-984e-5f35ef5f1d3a",
+			"63edc6be-44ca-4ca6-9035-7490308998ae",
+			"0e1ec239-7368-46ae-b340-ebae080a6b04",
+			"786f9f16-5f10-473d-977f-0bc0155a8ef7",
+			"30a48e2f-205c-4dc8-958a-72ad5e343b4a",
+			"bfe59138-2a02-4967-8d26-a159299ec02a",
+			"ee3e7304-f22d-4dd7-95cd-7b391e95f661",
+			"0ab6fc5d-b4ea-4666-b79f-3be0cf858f61",
+			"aee9c356-99be-467b-884c-4b49ff4d5bcd"
+		],
+		"syllabus_toelichting_id": [
+			"5bf097c3-40f2-4658-a7c3-2708bbb1be6f"
+		],
+		"title": "Centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie",
+		"id": "cbfd96eb-8875-4160-8949-116f623363be",
+		"unreleased": true
 	}
 ]
