@@ -2380,8 +2380,10 @@
 		"examenprogramma_eindterm_id": [
 			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
 		],
-		"title": "zelfbewustzijn en hersenen, schijn en werkelijkheid, begrip en waarneming, waar en vals, feit en fictie, kennis en geloof, kennis en kunde.",
-		"id": "3dfd3955-353b-4b0d-9dfd-33f6a805952f"
+		"title": "zelfbewustzijn en hersenen",
+		"id": "3dfd3955-353b-4b0d-9dfd-33f6a805952f",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"description": "Centrale begrippen",
@@ -9291,9 +9293,10 @@
 	{
 		"description": "Centrale begrippen",
 		"ce_se": "CE",
-		"title": "rede (Kant)",
+		"title": "rede",
 		"id": "d1beb174-2598-42f0-9ac3-5f6930ccbb81",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "Centrale begrippen",
@@ -9615,6 +9618,397 @@
 		"ce_se": "CE",
 		"title": "negatieve en positieve vrijheid",
 		"id": "cdeb752d-3012-431d-8268-9c71c426450e",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "subjectiviteit",
+		"id": "3f884c4e-4864-44e9-a70e-49f488d2c959",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "zelfbewustzijn",
+		"id": "55896d07-3893-44c2-b564-239f39901441",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "excentriciteit",
+		"id": "02bd175f-1471-4c94-82bd-100a9c350f50",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "macht",
+		"id": "f4201620-ac01-4ca6-9cd8-2ca8a9edaeda",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "disciplinering",
+		"id": "c3386c13-6592-49fb-97d7-d703f6d8c683",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "arbeid",
+		"id": "013eab80-e588-4171-96b8-76ba5eb0c5e4",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "communicatie",
+		"id": "bfe81901-2fbe-41f2-8b85-ec16364cf0ff",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "seksualiteit",
+		"id": "9c4879a7-4b80-447d-b3d5-fc43cbcd58db",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "cultuur en natuur",
+		"id": "105ddc10-93b7-4302-bfa5-078d82a65fce",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "emotie en verstand",
+		"id": "0e2b2fc4-0276-4c0b-a36e-8dde864af896",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "monisme en dualisme/pluralisme",
+		"id": "a28b3c99-cf9c-4a68-889e-77d5758ff307",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "bewust en onbewust",
+		"id": "daf4cdbf-02e1-4f39-8f03-7d217d8c8226",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "doel- en waardegericht handelen",
+		"id": "8c9ba1c1-49f6-47c3-b528-f778ab70caee",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "goed",
+		"id": "a1c8dee4-89eb-4a46-b514-0df82546d8ac",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "waarde",
+		"id": "b644f80f-d941-404f-bed1-42bf558c33da",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "norm",
+		"id": "460714c6-dd45-46f2-9b83-6799600ca55b",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "deugd",
+		"id": "7ab886ff-39d5-4438-a802-61f399ca3e87",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "verantwoordelijkheid",
+		"id": "dfa0af1b-3e78-4383-9948-b8948b5d89d2",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "wil en verstand",
+		"id": "48483c62-3f3c-49af-800d-210dea437157",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "is' en 'ought'",
+		"id": "f322cd23-224e-4a65-8228-5a47b3d62f7b",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "intrinsiek en instrumenteel handelen",
+		"id": "3fb985a3-e970-4aac-8228-b00ef0b8e8da",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "macht en belangen",
+		"id": "8c800692-fa0c-4335-ab76-10d28a09ce22",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "ethiek en moraal",
+		"id": "8bee6bb5-53c7-473e-8ccc-55edc0515933",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "rechten en plichten",
+		"id": "ec8a61a8-474a-47b8-b734-760b94af8979",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "a priori",
+		"id": "49f6d407-e4f4-458e-99dc-49e50b9e836e",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "a posteriori",
+		"id": "f8e6e7f7-d775-4e72-b1da-d6dd5ed20080",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "universeel",
+		"id": "cd940b3b-da37-4356-8a44-44086baddfeb",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "particulier",
+		"id": "49982ec7-e71b-46df-a053-7b888fbc2145",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "idealisme",
+		"id": "e775aa9a-770a-42e4-94ca-d354c696e9d3",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "objectief",
+		"id": "0e276400-cce9-4735-b86f-8c89293bf428",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "subjectief",
+		"id": "b922b2fd-b0f1-480d-84c4-f3d25d006cf1",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "intersubjectief",
+		"id": "115a262b-5971-4c76-b9ea-2861c496bc75",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "schijn en werkelijkheid",
+		"id": "7db767aa-92a0-4496-8914-2938e84ac9da",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "begrip en waarneming",
+		"id": "9d9b352c-6cc4-45c0-9c27-97623ba4c6bf",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "waar en vals",
+		"id": "c0c9073d-a202-4bd3-b352-29f7e3970dd5",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "feit en fictie",
+		"id": "f9a0f05e-00fb-430b-9ea7-22faa5473123",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "kennis en geloof",
+		"id": "258fe04b-e4f3-499a-b6fc-088a413d5cb0",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "kennis en kunde",
+		"id": "8db59ffc-99af-4b80-ba2c-89411c09874f",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "theorie",
+		"id": "e6375c22-e685-476f-ade3-9ddb3a54f3a9",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "grondslagen",
+		"id": "05b9f2f0-eba9-46ac-a2c1-2ded6ab4a774",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "axioma",
+		"id": "ea78acec-3b1d-4b05-b5f0-aab35d36d498",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "hypothese",
+		"id": "c8a8364f-cb06-4fb2-a1d8-83add4fce275",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "empirische basis",
+		"id": "9e647a97-f56c-4698-ba9f-32d20d4bd98d",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "demarcatie",
+		"id": "21e8ea2f-f420-40d8-b4b3-bd6ddb2225d8",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "empirische cyclus",
+		"id": "ce41d952-86b0-4bc9-b3ee-d4825fa0de64",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "paradigma",
+		"id": "f73c939d-3cd7-4f67-a57b-5a0815d49e65",
+		"unreleased": true
+	},
+	{
+		"description": "Centrale begrippen",
+		"ce_se": "CE",
+		"title": "positivisme",
+		"id": "58e3c0c1-b998-41f8-984e-5f35ef5f1d3a",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "wetenschappelijke en common-sense kennis",
+		"id": "63edc6be-44ca-4ca6-9035-7490308998ae",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "formele en empirische wetenschappen",
+		"id": "0e1ec239-7368-46ae-b340-ebae080a6b04",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "feit en theorie",
+		"id": "786f9f16-5f10-473d-977f-0bc0155a8ef7",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "wetmatigheid en toeval",
+		"id": "30a48e2f-205c-4dc8-958a-72ad5e343b4a",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "verklaren en verstaan",
+		"id": "bfe59138-2a02-4967-8d26-a159299ec02a",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "indicutie en deductie",
+		"id": "ee3e7304-f22d-4dd7-95cd-7b391e95f661",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "waardevrijheid en waardegebondenheid",
+		"id": "0ab6fc5d-b4ea-4666-b79f-3be0cf858f61",
+		"unreleased": true
+	},
+	{
+		"description": "Begrippenparen",
+		"ce_se": "CE",
+		"title": "techniek en technologie",
+		"id": "aee9c356-99be-467b-884c-4b49ff4d5bcd",
 		"unreleased": true
 	}
 ]
