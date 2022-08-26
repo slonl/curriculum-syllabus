@@ -24972,8 +24972,10 @@
 		"examenprogramma_eindterm_id": [
 			"c8477483-78ba-4cea-8778-354c534e8dc2"
 		],
-		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: - met woorden; - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol\n- met coördinaten, alleen in het platte vlak; - met behulp van richting of hoek en afstand.",
-		"id": "3b8cf645-b24f-45f3-b186-7bae02897bdc"
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: - met woorden; - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol\r\n- met coördinaten, alleen in het platte vlak; - met behulp van richting of hoek en afstand.",
+		"id": "3b8cf645-b24f-45f3-b186-7bae02897bdc",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -25053,8 +25055,13 @@
 		"examenprogramma_eindterm_id": [
 			"c8477483-78ba-4cea-8778-354c534e8dc2"
 		],
-		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder:\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - regelmatige patronen, - eigenschappen van hoeken.",
-		"id": "a9d755c1-e60f-4c16-8121-28775856ba31"
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder:\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - regelmatige patronen, - eigenschappen van hoeken.",
+		"id": "a9d755c1-e60f-4c16-8121-28775856ba31",
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"ccff4bd7-4dca-471b-9603-6547c365e3bd"
+		]
 	},
 	{
 		"ce_se": "CE",
