@@ -24864,8 +24864,10 @@
 		"examenprogramma_eindterm_id": [
 			"c0134c66-5a44-4f2d-aaa2-034597213566"
 		],
-		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties gelijknamige breuken optellen en aftrekken, eenvoudige bruken vermenigvuldigen en delen.",
-		"id": "7fb671ff-d09e-48bb-9114-bc0c3d6052a9"
+		"title": "De kandidaat kan basistechnieken gebruiken: in betekenisvolle situaties gelijknamige breuken optellen en aftrekken, eenvoudige breuken vermenigvuldigen en delen.",
+		"id": "7fb671ff-d09e-48bb-9114-bc0c3d6052a9",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -25087,8 +25089,10 @@
 		"examenprogramma_eindterm_id": [
 			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
 		],
-		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: \n- met woorden, - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol, - met coördinaten, zowel in het platte vlak als in de ruimte, - met behulp van richting of hoek en afstand.",
-		"id": "1a3f21e4-5d30-4732-8f94-38f1ff743dbc"
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: \r\n- met woorden, - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol, - met coördinaten, zowel in het platte vlak als in de ruimte, - met behulp van richting of hoek en afstand.",
+		"id": "1a3f21e4-5d30-4732-8f94-38f1ff743dbc",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -25187,8 +25191,10 @@
 		"examenprogramma_eindterm_id": [
 			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
 		],
-		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
-		"id": "a4b5a325-d438-45a3-b265-d07f7a58f8e1"
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"id": "a4b5a325-d438-45a3-b265-d07f7a58f8e1",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"description": "Verrijkingsdeel",
