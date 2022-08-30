@@ -11211,9 +11211,10 @@
 	{
 		"ce_se": "ce",
 		"prefix": "MVT/DU/K/4/toel.17",
-		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals die bij museumstukken en informatieborden van\r\ntentoonstellingen.",
+		"title": "LEZEN TER INFORMATIE EN ARGUMENTATIE: De kandidaat kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals die bij museumstukken en informatieborden van\r\r\ntentoonstellingen.",
 		"id": "abf5b998-702b-4b9e-81d4-cb2611acf3b0",
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
