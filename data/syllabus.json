@@ -22780,5 +22780,26 @@
 		"title": "Syllabus Moderne vreemde talen Engels vmbo bb 2022",
 		"id": "c93fb9ce-2d6e-4d53-ad73-ea6b02821239",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"178b721c-a59c-4be0-b8d5-2b60ec264ff6"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2022",
+		"id": "b45ede46-3bb1-4043-9af0-8448307ee313",
+		"unreleased": true
 	}
 ]
