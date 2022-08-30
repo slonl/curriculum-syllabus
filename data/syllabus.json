@@ -21917,7 +21917,10 @@
 		],
 		"title": "Syllabus Wiskunde vmbo kb 2022",
 		"id": "1a3880f1-5dca-4ff0-8588-ba631104a19b",
-		"unreleased": true
+		"unreleased": true,
+		"syllabus_vakleergebied_id": [
+			"813d7c66-208c-4cc3-861b-53069a966888"
+		]
 	},
 	{
 		"ingangsdatum": "",
