@@ -23011,5 +23011,26 @@
 		"title": "Syllabus Moderne vreemde talen Frans vmbo gl 2022",
 		"id": "7a23fb8a-6c00-4aa3-9db9-9887a0c22774",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"803fe798-4884-4e69-94b9-fc0364989e95"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"44366fb6-8c88-4f3f-bcb1-f077c2d43d29"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo tl 2022",
+		"id": "cf2846bb-e2c9-4fb2-bd92-a817ee24dbd2",
+		"unreleased": true
 	}
 ]
