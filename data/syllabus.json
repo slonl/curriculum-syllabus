@@ -22696,5 +22696,26 @@
 		"title": "Syllabus Wiskunde vmbo tl 2023",
 		"id": "3fb6c495-18ce-41f2-a1d8-3417805439a5",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1e8a344e-d18e-4f65-bac2-83369176c71b"
+		],
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo bb 2022",
+		"id": "8d504de5-5d97-4719-b40a-86c645dbec7d",
+		"unreleased": true
 	}
 ]
