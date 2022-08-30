@@ -22822,5 +22822,26 @@
 		"title": "Syllabus Moderne vreemde talen Arabisch vmbo tl 2022",
 		"id": "eb2da3f6-5192-44e6-b3ff-41e96ddf90b9",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"886a3e7c-33ff-403b-9f79-1cc815a34b79"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2022",
+		"id": "6f777288-c0df-4a4c-8fb7-7063b4e2f875",
+		"unreleased": true
 	}
 ]
