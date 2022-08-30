@@ -22906,5 +22906,26 @@
 		"title": "Syllabus Moderne vreemde talen Duits vmbo gl 2022",
 		"id": "7526b781-9626-4c98-9894-b475ab703fb8",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"2e58a2e2-3332-4cd4-a39d-9205f36a50db"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"76a8a1f3-3eef-4f4c-8bd7-b03af951998a"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb 2022",
+		"id": "c3f3cb24-4670-4dbf-b45a-68a1537e7e37",
+		"unreleased": true
 	}
 ]
