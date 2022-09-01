@@ -5,7 +5,8 @@
   "main": "context.json",
   "scripts": {
     "test": "node test/test.mjs",
-    "update": "npm install git+ssh://git@github.com/slonl/curriculum-js.git#main"
+    "update": "npm install git+ssh://git@github.com/slonl/curriculum-js.git#main",
+    "repl": "NODE_REPL_HISTORY=.repl_history && node test/repl.mjs"
   },
   "author": "SLO",
   "license": "MIT",
