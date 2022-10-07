@@ -23032,5 +23032,26 @@
 		"title": "Syllabus Moderne vreemde talen Frans vmbo tl 2022",
 		"id": "cf2846bb-e2c9-4fb2-bd92-a817ee24dbd2",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1e8a344e-d18e-4f65-bac2-83369176c71b"
+		],
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo bb 2023",
+		"id": "aab40d2b-0377-4df2-9a61-c254b01b637e",
+		"unreleased": true
 	}
 ]
