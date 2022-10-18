@@ -39177,7 +39177,7 @@
 		"examenprogramma_domein_id": [
 			"9a6a34a0-f728-4233-92d9-881a6e1b239e"
 		],
-		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\nA2",
+		"title": "De kandidaat kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.\r\r\nDe kandidaat kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.\r\r\nA2",
 		"id": "bdc16c21-3a24-4832-b483-8aa9b87f7647",
 		"syllabus_toelichting_id": [
 			"ef965299-4784-47fd-a13c-6954e4e88adb",
@@ -39211,7 +39211,8 @@
 			"f8c173e7-c643-4b34-85be-6ef1e4a3f737",
 			"ad5b3310-fcf2-4759-a22e-c6181035f16f"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "ce",
