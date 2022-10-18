@@ -23738,5 +23738,26 @@
 		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl 2022",
 		"id": "a974d4d5-f51d-4755-9478-138a33f06ac6",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"053d8c12-a648-4c32-a941-f4626c57f624"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"e13ad375-d051-4650-9636-7f0e33dd2cc7"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb 2022",
+		"id": "4c4e5ada-62be-49e1-b90d-5ca7611134f6",
+		"unreleased": true
 	}
 ]
