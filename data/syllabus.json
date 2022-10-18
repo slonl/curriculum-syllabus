@@ -23306,5 +23306,26 @@
 		"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2023",
 		"id": "5a1ceedc-46b4-47a0-aa4a-3769b4e88c93",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"syllabus_vakleergebied_id": [
+			"8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"886a3e7c-33ff-403b-9f79-1cc815a34b79"
+		],
+		"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2023",
+		"id": "a4b4d4dd-fc26-417b-8b4c-efc34d98899e",
+		"unreleased": true
 	}
 ]
