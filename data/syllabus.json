@@ -23222,5 +23222,26 @@
 		"title": "Syllabus Moderne vreemde talen Duits vmbo gl 2023",
 		"id": "72af2987-31e2-497e-a003-a4094d4df3d1",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"2e58a2e2-3332-4cd4-a39d-9205f36a50db"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"76a8a1f3-3eef-4f4c-8bd7-b03af951998a"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb 2023",
+		"id": "5a08d319-0d94-44f5-b671-5a77a4d59f50",
+		"unreleased": true
 	}
 ]
