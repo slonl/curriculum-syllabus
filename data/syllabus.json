@@ -23138,5 +23138,26 @@
 		"title": "Syllabus Moderne vreemde talen Arabisch vmbo gl 2023",
 		"id": "7310afda-d2d7-47ab-a5fc-0063fde5dc36",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		],
+		"syllabus_vakleergebied_id": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"528633df-314f-462a-a7be-05c6c01b9e0c"
+		],
+		"title": "Syllabus Moderne vreemde talen Arabisch vmbo kb 2023",
+		"id": "eb82a6dd-d21d-4d65-bbea-59c5751f921a",
+		"unreleased": true
 	}
 ]
