@@ -23537,5 +23537,26 @@
 		"title": "Syllabus Moderne vreemde talen Turks vmbo bb 2023",
 		"id": "05e4d181-9989-43f8-a6c3-aeea4668b831",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"986b8af5-7495-41d3-8764-43053750ebcd"
+		],
+		"syllabus_vakleergebied_id": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"14cb9fe0-a013-4d18-b0a5-8900a0908b48"
+		],
+		"title": "Syllabus Moderne vreemde talen Turks vmbo gl 2023",
+		"id": "7d520bed-c9be-43c7-8c67-6cac99e5bea7",
+		"unreleased": true
 	}
 ]
