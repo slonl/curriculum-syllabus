@@ -23453,5 +23453,26 @@
 		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb 2023",
 		"id": "49cec94e-8b30-4257-8b10-1e1c7c4166f5",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"053d8c12-a648-4c32-a941-f4626c57f624"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"bdc16c21-3a24-4832-b483-8aa9b87f7647"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl 2023",
+		"id": "24a9e5d0-0e06-4a9e-a7a1-95bd6a877896",
+		"unreleased": true
 	}
 ]
