@@ -23910,5 +23910,30 @@
 		"title": "Syllabus Filosofie vwo 2023",
 		"id": "7db2d457-a074-4738-8634-2d2c47da1937",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a",
+			"548449b1-86d3-4134-88a4-3ad3d70578dc",
+			"672f3357-9ce4-4667-b625-3c7ed402230c"
+		],
+		"syllabus_vakleergebied_id": [
+			"fbbd2952-218e-4aa9-916f-0d301124d18c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"eb7a3c45-4a70-42ab-be10-2fb1b760c141",
+			"2e22a9b3-b626-42ce-b138-3865d41f4041",
+			"cd52c842-0746-4d00-989e-bf0ea3f80d5f"
+		],
+		"title": "Syllabus Beeldende vakken vwo 2023",
+		"id": "ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+		"unreleased": true
 	}
 ]
