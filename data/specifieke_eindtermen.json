@@ -58524,5 +58524,35 @@
 		"title": "Centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie",
 		"id": "cbfd96eb-8875-4160-8949-116f623363be",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb"
+		],
+		"syllabus_toelichting_id": [
+			"881fe434-db34-4f18-9cef-68827817fa26"
+		],
+		"title": "Wat wordt er van de kandidaat verwacht? Hij kan - mede op basis van bronnenmateriaal - het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Hierbij moet rekening worden gehouden met tijd, plaats, functie en kunstopvattingen maar ook met normen en waarden en de historische ontwikkeling vanaf de klassieke oudheid tot heden.",
+		"id": "eb7a3c45-4a70-42ab-be10-2fb1b760c141",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "",
+		"examenprogramma_eindterm_id": [
+			"4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb"
+		],
+		"title": "Daarnaast is het van belang om verschillende (kunsthistorische) benaderingswijzen te kennen om kunst te beschouwen, te interpreteren en te verklaren.",
+		"id": "2e22a9b3-b626-42ce-b138-3865d41f4041",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"5bd571a7-6243-4bea-af94-c9276f41a501"
+		],
+		"title": "Het betreft beeldende kunst, architectuur en vormgeving. De beschouwing kan betrekking hebben op diverse facetten van een kunstwerk: het proces, het product (vormgeving, en indien van toepassing, voorstelling en inhoudelijke aspecten) en de context.",
+		"id": "cd52c842-0746-4d00-989e-bf0ea3f80d5f",
+		"unreleased": true
 	}
 ]
