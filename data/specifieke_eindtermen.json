@@ -3331,7 +3331,8 @@
 		"examenprogramma_eindterm_id": [
 			"251cb2fc-f647-4bc1-82df-1b5eae6a9856"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b95b5e34-aaa7-4c64-b9d0-822e02e0d725",
@@ -3341,7 +3342,8 @@
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "836458b7-bbb9-4e11-a95f-7245e8b3a578",
@@ -3351,7 +3353,8 @@
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "e4feb30e-f9c6-4d77-98a2-4fad54dca628",
@@ -3361,7 +3364,8 @@
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "2a140987-3760-45cf-ac04-b5c5dfe06ab0",
@@ -3371,7 +3375,8 @@
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b1c156be-f4dc-4d5a-b5ba-cf0d15c94cc7",
@@ -3391,7 +3396,8 @@
 		"examenprogramma_eindterm_id": [
 			"b762a819-386a-49aa-9665-ad4e0ee964bc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "8ad176d8-7308-4fd8-8628-fa4002989a88",
@@ -3418,7 +3424,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"49e5add2-2dee-45d4-8df0-be0a55b9eb01"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b7e6fef2-7239-4659-a6df-31952d201ab1",
@@ -3427,7 +3435,9 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"49e5add2-2dee-45d4-8df0-be0a55b9eb01"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b26bdeb9-fa3c-4372-a396-f5a80db033a9",
@@ -4919,7 +4929,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1c",
@@ -4928,7 +4940,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1d",
@@ -4937,7 +4951,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1e",
@@ -4946,7 +4962,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.1f",
@@ -4955,7 +4973,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.2b",
@@ -4964,7 +4984,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.2c",
@@ -4973,7 +4995,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.2d",
@@ -4982,7 +5006,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.2e",
@@ -4991,7 +5017,9 @@
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
 		],
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinA/1.2f",
