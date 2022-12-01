@@ -14358,7 +14358,11 @@
 			"71434822-51a6-4500-93b6-b4620e1d488e"
 		],
 		"syllabus_vakleergebied_id": [
-			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2"
+			"e4415bb5-6ab7-480c-853d-f43b0a2fc7b2",
+			"8fcbe577-b3b5-49ff-8a08-13ed6dac1124",
+			"dc5477a7-fe55-4f7c-9c90-18f532080290",
+			"d56fcf8f-5d81-4bb1-8354-043fedc9b878",
+			"5bda29a3-64da-41a1-93ce-444bcdad470c"
 		],
 		"syllabus_specifieke_eindterm_id": [
 			"4ab34fab-9844-4ec5-b84a-d9122da7a241",
@@ -14367,7 +14371,8 @@
 		],
 		"title": "Syllabus Kunst (algemeen) havo 2022",
 		"id": "b7ebc812-53ef-4494-94a9-af2c34ad9f22",
-		"unreleased": true
+		"unreleased": true,
+		"dirty": "1"
 	},
 	{
 		"ingangsdatum": "",
