@@ -5022,195 +5022,6 @@
 		"deleted": 1
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.2f",
-		"title": "De kandidaat kan verhoudingen en schatting rekenkundig en/of grafisch onderbouwen.",
-		"id": "100c2b25-4578-416a-b83c-1e13d13fe291",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2g",
-		"title": "De kandidaat kan rekenen met grote en kleine getallen.",
-		"id": "fee18b7d-79b1-4b50-8082-690d7d4e1563",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2h",
-		"title": "De kandidaat kan afrondingsregels rekenkundig en/of grafisch onderbouwen.",
-		"id": "d0831486-1287-4c6c-9b5e-cfa7a4dafc99",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2i",
-		"title": "De kandidaat kan lineaire vergelijkingen (eerstegraadsvergelijkingen), beschrijvende statistiek en grafieken toepassen op economische relaties.",
-		"id": "e7c98dcd-4926-4370-a193-9b0d652bedcf",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2j",
-		"title": "De kandidaat kan oplossen van een stelsel van vergelijkingen via substitutie.",
-		"id": "e37d8c33-b14d-4124-ac66-7761c230fb24",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2k",
-		"title": "De kandidaat kan werken met assenstelsels (X en Y) en kwadranten.",
-		"id": "ce8e8322-8cc1-4ac0-8027-9762118a20aa",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2l",
-		"title": "De kandidaat kan oppervlaktes arceren.",
-		"id": "d5647da2-87a6-444b-9e66-fca6ff3d817b",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2m",
-		"title": "De kandidaat kent indexcijfers: partieel, samengesteld (gewogen), basisjaar verleggen.",
-		"id": "e1381c2b-9c08-4a1e-86ae-c6765de2d346",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2n",
-		"title": "De kandidaat kent diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld.",
-		"id": "e06c7740-d797-48ed-8739-e56ed9e17e6f",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2o",
-		"title": "De kandidaat kent tabellen: rijen/kolommen, indeling in klassen (decielen e.d.), cumuleren.",
-		"id": "ebfc5c74-894a-425f-873c-1e28d813c79b",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.2p",
-		"title": "De kandidaat kent gemiddeldes: gewogen en ongewogen.",
-		"id": "3e50e1ac-54dd-449d-9e88-c45e66a8b0f0",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.3b",
-		"title": "De kandidaat (standpuntbepaling) kent eventuele botsing van belangen.",
-		"id": "650cd69c-ad31-48ba-9486-054c72f8b2cf",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.3c",
-		"title": "De kandidaat (standpuntbepaling) kent oplossingen voor / reacties op mogelijk ongewenst gedrag.",
-		"id": "adaf1d55-ad6c-49cc-aa6e-47cc1b38ec0d",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.3d",
-		"title": "De kandidaat ken een standpunt bepalen en onderbouwen of een gegeven standpunt onderbouwen (argumenten pro).",
-		"id": "bff36d1e-285b-4e87-956a-31b3a59a0d66",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.3e",
-		"title": "De kandidaat kan een standpunt relativeren / weerleggen (argumenten contra).",
-		"id": "59cbb979-dd49-47f1-8614-cdeb0e62e51d",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.3f",
-		"id": "00f71676-06cc-4b68-ad05-3aa83ef89ddf",
-		"title": "De kandidaat kan afwegingsvraagstukken beschrijven.",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.4a",
-		"title": "De kandidaat kan (strategisch inzicht) het hanteren van een economische denkwijze (redeneren binnen vooronderstellingen/een model).",
-		"id": "6c74e441-9e71-4a51-9223-f3f95f391b07",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.4b",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg.",
-		"id": "c36d0f1f-3aa6-4405-bed5-6be55368c0c9",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.4c",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing.",
-		"id": "d4ece646-5fb3-4f20-8f00-8e4124bf33f3",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.4d",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn.",
-		"id": "d4c3fc58-5128-4783-98d7-ab375b3d4219",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.4e",
-		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties.",
-		"id": "278f03bd-26a7-4837-a482-66987562f295",
-		"examenprogramma_eindterm_id": [
-			"78a7c0a6-5f25-4433-b394-0176e38fb338"
-		],
-		"description": ""
-	},
-	{
 		"ce_se": "CE",
 		"prefix": "BE/H/DomeinA/A1/1/1.1a",
 		"examenprogramma_eindterm_id": [
@@ -28666,33 +28477,6 @@
 		"ce_se": ""
 	},
 	{
-		"prefix": "EC/H/DomeinA/1.1f",
-		"id": "7f05788e-c028-4d16-9e8f-f77722fc1370",
-		"title": "De kandidaat kan de vaardigheden kaartselectie, kaartlezen, kaartanalyse en kaartinterpretatie toepassen.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "ae8ec050-425a-4401-b464-5f0b3217c793",
-		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "e11242e8-1371-43f2-9d55-94b4083fe7c2",
-		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen / maken.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
-		]
-	},
-	{
 		"prefix": "AK/K/3/3.3d",
 		"id": "38a20e6a-c241-4a49-a5c7-6b91215f4b48",
 		"title": "De kandidaat kan verschijnselen op luchtfoto’s en satellietbeelden herkennen en met kaarten vergelijken.",
@@ -28701,307 +28485,6 @@
 			"fe34d70e-cc59-478c-bf5d-188b6cd9b94d"
 		],
 		"ce_se": ""
-	},
-	{
-		"id": "07aedfda-1934-479e-961b-adcfc2f7eeb0",
-		"title": "De kandidaat kan aan de hand van een gegeven stappenplan met opties en enkelvoudige/meervoudige aardrijkskundige vragen een werkplan opstellen.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "a5c8b42d-4ef3-443a-973c-053cf5e4c27c",
-		"title": "De kandidaat kan aangereikte gegevens uit de tweede hand (secundaire data bestaande uit bijv. kaarten, figuren, beelden, cijfers, statistieken, beschrijvingen) analyseren en aanvullen met relevant materiaal.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"b762a819-386a-49aa-9665-ad4e0ee964bc"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1e",
-		"id": "d882daaf-a06f-418d-89d5-16e60102de6b",
-		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: gebruik maken van redeneringen binnen vooronderstellingen of contexten.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1f",
-		"id": "be2893d2-26ec-4caa-ab7f-0f8d47efa384",
-		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: een kosten- en batenanalyse maken, zowel van meetbare als niet meetbare factoren.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1a",
-		"id": "32c2dfd8-23ae-498e-bc47-fce8a72766b5",
-		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: onderscheid maken tussen hoofd- en bijzaken.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1ff",
-		"id": "4d570caf-a4f6-4679-a06e-ff86705d5e47",
-		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: informatie analyseren en (her)ordenen en zo nodig bewerken.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1b",
-		"id": "91f97795-ea3d-40d5-8470-4c22eff5b900",
-		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: gegevens boordelen op betrouwbaarheid, bruikbaarheid en representativiteit.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1de",
-		"id": "6c69fd94-d064-41fc-ac23-b7de5ee8870d",
-		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: conclusies en antwoorden formuleren.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1e",
-		"id": "ccd14c35-be0c-4167-a64c-8821542e3d6c",
-		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: belangen van diverse betrokkenen hekennen.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1daeebb",
-		"id": "81482b0d-f2a9-4b98-b716-daeebb9b61ab",
-		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: relaties leggen met omstandigheden en achtergronden.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1a",
-		"id": "f5d0703f-9e69-4c5b-a007-77f4c5f4b9cd",
-		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: eigen waarden en opvattingen confronteren met andere waarden en opvattingen.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"id": "539c0510-5b18-40f0-8e11-1b0781ebb337",
-		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: mogelijke consequenties van een standpunt aangeven.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "ba66f56d-1151-42d2-b690-70e48c368170",
-		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: positieve, negatieve, absolute en relatieve getallen hanteren.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"id": "f9490568-93d8-4851-aca2-314f82dd6edf",
-		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: verhoudingen hanteren (procenten, breuken, decimalen).",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1bf",
-		"id": "8536a4d2-a6b7-4cde-9786-b82716920bf2",
-		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: schattingen hanteren.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1f",
-		"id": "dd3b143b-b802-4a95-9737-e8057f0a22af",
-		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: afrondingen hanteren overeenkomstig de gegeven informatie.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1e",
-		"id": "751e1890-47a5-439c-9c05-e68208ba611e",
-		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: grafieken kunnen hanteren: lezen, tekenen (een lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"3023586d-8685-4f5d-b828-138562e604a8"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "2ec0ec69-0b38-4772-aed1-d6ccf84891c2",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "5a3c0823-6306-48d0-b848-66efa76ca56c",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1b",
-		"id": "44a7c721-45f0-496f-8f94-fb69b12cbe5e",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1c",
-		"id": "d49b67dd-5cd9-492d-87ed-67339c50a550",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke wekgevers, ondersteuning bij scholing.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"id": "0861b1e7-3689-402c-bdef-097513048e50",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheidscijfers geven geen volledig beeld van de feitelijke situatie: de verbogen wekloosheid en het niet of niet officieel vervullen van vacatures.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1bf",
-		"id": "027b93a4-8cab-4832-a99b-3e223bf2ef0d",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de over het land ongelijk verdeelde werkloosheid: regionale werkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1db",
-		"id": "da24a142-c310-472e-9ad9-26a1db052c62",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de oer het ja ongelijk verdeelde werkloosheid: seizoenwerkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1a",
-		"id": "b59acf99-b893-4f27-9bb7-ff3399a194d8",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de wekloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1abb",
-		"id": "4bd9f94e-6880-46a2-95ab-6c269abb6c49",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV Werkbedrijf): arbeidsbemiddeling, werkloosheidsregistratie, regelen werkloosheidsuitkering, verwijzing naar mogelijke werkgevers en ondersteuning bij scholing.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1d",
-		"id": "0cc110e9-e662-4ad3-bcac-0164cecf3d50",
-		"title": "De kandidaat kan vormen, oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden beschrijven/noemen, zowel in de eigen omgeving als op nationaal niveau: de werkloosheidscijfers/werkgelegenheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid/werkgelegenheid en het niet of niet officieel vervullen van vacatures.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1f",
-		"id": "fcd6684a-ec79-40ec-9e34-41e91f74f50a",
-		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld ut te drukken.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1f",
-		"id": "cb3a7b86-1533-4c06-9e42-4fcfdc8f5627",
-		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, die worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1fb",
-		"id": "d7a8f383-5895-4c08-a89b-185fb1b2170f",
-		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"id": "2e844447-7f39-4ef7-a540-42e264bad127",
-		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de productie en de consumptie kunnen positieve of negatieve gevolgen hebben, di worden ondervonden door anderen dan degenen die ze hebben veroorzaakt.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1e",
-		"id": "c5c33527-a725-47d3-82ae-1fb54560e744",
-		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen dagelijks leven het belang van de Europese Unie en Europese Monetaire Unie beschrijven: vrij verkeer van goederen, diensten, personen en kapitaal.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1adad",
-		"id": "1f7a24fe-281d-4b2e-9522-6adad4fd8d74",
-		"title": "De kandidaat kan de oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: de gevolgen van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld de immigratie in de rijke landen.\n",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		]
-	},
-	{
-		"prefix": "EC/H/DomeinA/1.1a",
-		"id": "b55bd2d7-64fd-4f11-9c8a-ffc87c81c667",
-		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: eigen activiteiten zoals giften, aankoop goederen en diensten uit ontwikkelingslanden, (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden en grondstofovereenkomsten/buffervoorraden.",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
-		]
 	},
 	{
 		"ce_se": "CE",
@@ -29127,182 +28610,14 @@
 			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
 		],
 		"title": "De kandidaat is zich bewust van de zeggingskracht van het resultaat en kan dit in relatie tot het gegeven uitleggen.",
-		"id": "e1cbfc0e-bd13-4a05-94da-0c2186d89967",
-		"syllabus_toelichting_id": [
-			"68fed672-337a-450c-8145-c89e776eb6a9"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Exploreren",
-		"ce_se": "CE",
-		"prefix": "DA/K/3/3b/2",
-		"examenprogramma_eindterm_id": [
-			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
-		],
-		"title": "de kandidaat onderzoekt en ontwikkelt naar aanleiding van het gegeven nieuwe ideeën.",
-		"id": "349331ad-283c-4810-87af-451ec93777ea"
-	},
-	{
-		"description": "Improviseren",
-		"ce_se": "CE",
-		"prefix": "DA/K/3/3b/3",
-		"examenprogramma_eindterm_id": [
-			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
-		],
-		"title": "de kandidaat gaat gericht variëren met de verschillende mogelijkheden",
-		"id": "48d24cd0-dadb-45d7-986e-660b1ea13353"
-	},
-	{
-		"description": "Structureren",
-		"ce_se": "CE",
-		"prefix": "DA/K/3/3b/4",
-		"examenprogramma_eindterm_id": [
-			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
-		],
-		"title": "de kandidaat maakt een definitieve keuze die een samenhangend geheel vormt.",
-		"id": "df07c1b7-224f-4175-9e87-576df1ca6860"
-	},
-	{
-		"description": "Functioneel en verantwoord gebruik maken van theatrale middelen",
-		"ce_se": "CE",
-		"prefix": "DA/K/3/3d/1",
-		"examenprogramma_eindterm_id": [
-			"3266a570-e410-4e61-9cdb-1ce8b89f88b0"
-		],
-		"title": "de kandidaat gebruikt de (aangeboden) mogelijkheden met betrekking tot een of meer theatrale middelen zo dat de inhoud / betekenis en/of de vorm van de dans wordt versterkt.",
-		"id": "2e78091a-4227-46db-a6d5-2a3281d39d29",
-		"syllabus_toelichting_id": [
-			"f063e2e3-4739-4469-8a75-3c2fb8bfff9a"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Beschouwen",
-		"ce_se": "CE",
-		"prefix": "DA/K/7/7a",
-		"examenprogramma_eindterm_id": [
-			"2b1881b5-3e70-4561-8efe-baa5b9a0e36c"
-		],
-		"title": "Danssoorten",
-		"id": "a79054e6-f80f-4b80-9253-d68f569d42a4",
-		"syllabus_toelichting_id": [
-			"2ae88d3e-a1b5-4d4a-9419-ae9e65f654e6",
-			"017e5a78-598a-4cb2-afa7-347d2698dedc",
-			"eebab0d6-9085-42c2-a099-bea4789db5da",
-			"c2dc3c1f-bff3-451a-a519-a2b74ad69488",
-			"343112a5-7a19-4490-9c16-b47b44aa3bc9",
-			"87cf2871-8b2f-467d-9ac4-9d612a720e09",
-			"fd970296-9427-4c55-af37-bb743dbb6ab8"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Beschouwen",
-		"ce_se": "CE",
-		"prefix": "DA/K/7/7b",
-		"examenprogramma_eindterm_id": [
-			"f41b13d0-93a4-48ad-8ae9-c1a749a184ab"
-		],
-		"title": "Danselementen",
-		"id": "3ec35e9c-4a68-4801-8242-509cfeb34562",
-		"syllabus_toelichting_id": [
-			"e9f3c40a-7655-4fd3-ae77-4f4ea13c23cd",
-			"14c25089-79f7-4af8-b695-f2eafad2026f",
-			"92b5e04c-838b-48e2-8922-44ca0a187d2d",
-			"a5d1e435-efd9-49ef-b3dd-28437ddcff92",
-			"d48483bb-2351-48b8-93b5-ce8aad97ffe4",
-			"6a0b68db-88f8-4e7b-97fe-60ab9ea3de1f",
-			"00f7df34-b306-4372-a1ad-e1f69e5b724b",
-			"e327084c-6272-4436-aa4c-1c6f8f8ff09e",
-			"710e1ac9-e90d-45a3-8d6a-e76ca855971b"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Dans en maatschappij",
-		"ce_se": "CE",
-		"prefix": "DA/K/8/8a",
-		"examenprogramma_eindterm_id": [
-			"cce9e56f-d4e3-4a88-abb3-8f48be3d1574"
-		],
-		"title": "Dansfuncties",
-		"id": "45218bd5-9b72-4b83-b823-2eca7fd568f6",
-		"syllabus_toelichting_id": [
-			"461f279f-2964-4b7d-a38a-34b3d4b4e6a4",
-			"6d7307a1-9548-414f-b616-4295b3bd8703",
-			"9f8a69d9-3b94-4bc7-98a8-6e7202915234",
-			"81349c06-071a-4531-ac49-cea17ad7d02d",
-			"6ba6cbb9-46f1-4737-b68d-e555a5c7f1b1",
-			"52009481-c647-44d3-92d9-efdbae6dc6df",
-			"0a1c3c01-b8f6-4082-a7a0-64b0991c597e",
-			"b39fbe17-6c04-445f-b9b9-b4b4a7a6f5b8"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Dans en maatschappij",
-		"ce_se": "CE",
-		"prefix": "DA/K/8/8b",
-		"examenprogramma_eindterm_id": [
-			"3c8d5283-6791-4525-9e94-0393dcb20a48"
-		],
-		"title": "Dans, cultuur en tijd",
-		"id": "26d1559f-32a5-4bbe-bde0-131f66c18612",
-		"syllabus_toelichting_id": [
-			"d79a6666-7ead-42cb-9991-5f21a409b338",
-			"d7d40b72-658e-4078-a35e-bb7bc010d063",
-			"6143ffa8-8c19-4e0d-b4ae-a39fc92e63f6",
-			"a57f24bb-d9db-4ca1-9bdb-68d7a1b16aa6",
-			"12582478-2a2f-4a4b-b16d-d6ab3008eef8",
-			"a45c0601-8f51-453e-94be-2335f0cf14f3"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Dans en andere kunsten",
-		"ce_se": "CE",
-		"prefix": "DA/K/9/9a",
-		"examenprogramma_eindterm_id": [
-			"a0dda683-8495-410c-a1d7-ff3149e1e469"
-		],
-		"title": "dansproductie",
-		"id": "a3328b97-be22-463b-a106-87dc6cec43d1",
-		"syllabus_toelichting_id": [
-			"4bfc4928-9b52-4bb4-ba4b-a76123fc93c4",
-			"e42240d7-f69d-4fe8-a3af-79ce3604893d",
-			"455056d1-31c5-4174-9964-c2e96635862e",
-			"32180bde-1dcf-427e-bb23-d27dfbc32efe"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Vaardigheden in samenhang",
-		"ce_se": "CE",
-		"prefix": "DA/V/3/12",
-		"examenprogramma_eindterm_id": [
-			"0a028f4d-71fb-4049-a14d-dd967959cf72"
-		],
-		"title": "Samenhang",
-		"id": "bf53165c-7f44-4b9d-b52c-6fbbd99895f0",
-		"syllabus_toelichting_id": [
-			"7d156978-5529-4522-b911-f5a6ec07ca72"
-		],
-		"dirty": true
-	},
-	{
-		"description": "Dansontwerp",
-		"ce_se": "CE",
-		"prefix": "DA/K/3/3b/1",
-		"examenprogramma_eindterm_id": [
-			"52f1bd17-ab8b-41b7-afd3-f52804d2f7ba"
-		],
-		"title": "De kandidaat is zich bewust van de zeggingskracht van het resultaat en kan dit in relatie tot het gegeven uitleggen.",
 		"id": "b1a54cd1-e5dc-4ee8-b126-1e419c87a467",
 		"syllabus_toelichting_id": [
 			"ac02dc70-25f3-4c85-965c-02de09477edf"
 		],
-		"dirty": true
+		"dirty": true,
+		"replaces": [
+			"e1cbfc0e-bd13-4a05-94da-0c2186d89967"
+		]
 	},
 	{
 		"description": "Exploreren",
@@ -29393,6 +28708,9 @@
 			"25a783a9-2520-4c1c-8414-0bf75ea6cfc4",
 			"b8f3baef-68f8-4a1f-8169-5a1021be841f",
 			"9b375ec2-f037-4d25-aa4c-a7b23d42bc89"
+		],
+		"replaces": [
+			"a79054e6-f80f-4b80-9253-d68f569d42a4"
 		]
 	},
 	{
@@ -29436,7 +28754,10 @@
 			"6282a6f4-e7b5-4107-a1a1-e96331a6957c",
 			"cbbf84fa-9509-424c-b855-214aed9b06f0"
 		],
-		"dirty": true
+		"dirty": true,
+		"replaces": [
+			"45218bd5-9b72-4b83-b823-2eca7fd568f6"
+		]
 	},
 	{
 		"description": "Dans en maatschappij",
@@ -29455,7 +28776,10 @@
 			"a71641a5-2b3a-4dc8-a651-349e85b9f894",
 			"93402443-0eb4-47d0-8d90-78d538e38699"
 		],
-		"dirty": true
+		"dirty": true,
+		"replaces": [
+			"26d1559f-32a5-4bbe-bde0-131f66c18612"
+		]
 	},
 	{
 		"description": "Dans en andere kunsten",
@@ -29486,7 +28810,10 @@
 		"syllabus_toelichting_id": [
 			"51d367a8-50bd-455f-b3fb-fc2e5ffe535e"
 		],
-		"dirty": true
+		"dirty": true,
+		"replaces": [
+			"bf53165c-7f44-4b9d-b52c-6fbbd99895f0"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -32519,87 +31846,6 @@
 		],
 		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
 		"id": "92e9d187-9064-4e1d-a462-3fc88851bd11"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A1/1",
-		"examenprogramma_eindterm_id": [
-			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
-		],
-		"title": "De kandidaat is in staat kenmerkende aspecten van de voorstelling en vormgeving van beeldend werk van kunstenaars en vormgevers waar te nemen en te benoemen.",
-		"id": "167468ce-e6af-4a64-9a51-c947a8710df7"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A1/2",
-		"examenprogramma_eindterm_id": [
-			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
-		],
-		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Daarvoor is nodig: kennis van en inzicht in de geschiedenis van de beeldende kunst, architectuur en vormgeving en enige bekendheid met verschillende visies op deze gebieden. Verschillen in visie komen aan het licht bij vergelijkingen van kunst en cultuur in verschillende tijdperken.",
-		"id": "339c40a9-e28e-4d2f-b6bd-133ddc82647c"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A1/3",
-		"examenprogramma_eindterm_id": [
-			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
-		],
-		"title": "Een aandachtspunt is het westerse karakter dat veelal in kunsthistorische overzichten is ‘ingebakken’. Het is van belang dat dit beseft wordt. Daarom wordt er - waar mogelijk - aandacht besteed aan relevante niet-westerse kunstvormen.",
-		"id": "20d82151-855a-406f-9efa-935177e69105"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A1/4",
-		"examenprogramma_eindterm_id": [
-			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
-		],
-		"title": "De leerlingen moeten vooral kijkstrategieën beheersen om de vragen te kunnen beantwoorden.",
-		"id": "219eb944-72ee-4678-906d-f694d4169486"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A1/5",
-		"examenprogramma_eindterm_id": [
-			"dc1e477f-2510-45d7-9442-9446a4b75915"
-		],
-		"title": "Het centraal examen heeft betrekking op de periode van het romaans tot heden, met nadruk op de periode vanaf 1800. Beeldende kunst, architectuur en (ambachtelijke en industriële) vormgeving vanaf het neo-classicisme in de 19de eeuw tot heden komen derhalve in het examen aan de orde.",
-		"id": "96753bd9-5c6e-4f71-906a-e1e00f78d496"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A2/1",
-		"examenprogramma_eindterm_id": [
-			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
-		],
-		"title": "Onder beelden verstaan we in het kader van het CE werk (2- en 3-dimensionaal) van beeldende kunstenaars, (ambachtelijke en industriële) vormgevers en architecten.",
-		"id": "ce1f7e91-c869-43e3-8f49-7295b30f3baf"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A2/2",
-		"examenprogramma_eindterm_id": [
-			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
-		],
-		"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
-		"id": "1974e536-5330-41b0-9182-5caef2a07c67"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A2/3",
-		"examenprogramma_eindterm_id": [
-			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
-		],
-		"title": "In deze eindterm gaat het om beschouwen met een bepaalde kwaliteit, namelijk het vermogen tot kritisch beoordelen. ‘Kritisch’ houdt in dat de kandidaat in staat is om op basis van onderzoek binnen subdomein A1 (beschrijven, onderzoeken en interpreteren) tot een beargumenteerd oordeel te komen.",
-		"id": "3740dad2-5b21-4e18-a55b-7f784725dec3"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "THT/T/H/A/A2/4",
-		"examenprogramma_eindterm_id": [
-			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
-		],
-		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
-		"id": "cb271a5e-b4bd-4647-8014-a2797fd18b81"
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -41607,7 +40853,10 @@
 			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
 		],
 		"title": "De kandidaat is in staat kenmerkende aspecten van de voorstelling en vormgeving van beeldend werk van kunstenaars en vormgevers waar te nemen en te benoemen.",
-		"id": "9ef6a526-e235-40a6-86ec-16a3995721c9"
+		"id": "9ef6a526-e235-40a6-86ec-16a3995721c9",
+		"replaces": [
+			"167468ce-e6af-4a64-9a51-c947a8710df7"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41616,7 +40865,10 @@
 			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
 		],
 		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren. Daarvoor is nodig: kennis van en inzicht in de geschiedenis van de beeldende kunst, architectuur en vormgeving en enige bekendheid met verschillende visies op deze gebieden. Verschillen in visie komen aan het licht bij vergelijkingen van kunst en cultuur in verschillende tijdperken.",
-		"id": "7b3ab457-e4b2-49ec-8ac3-563e3b2f524f"
+		"id": "7b3ab457-e4b2-49ec-8ac3-563e3b2f524f",
+		"replaces": [
+			"339c40a9-e28e-4d2f-b6bd-133ddc82647c"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41625,7 +40877,10 @@
 			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
 		],
 		"title": "Een aandachtspunt is het westerse karakter dat veelal in kunsthistorische overzichten is ‘ingebakken’. Het is van belang dat dit beseft wordt. Daarom wordt er - waar mogelijk - aandacht besteed aan relevante niet-westerse kunstvormen.",
-		"id": "de18691e-5a98-4f7c-83e1-ca83fd590101"
+		"id": "de18691e-5a98-4f7c-83e1-ca83fd590101",
+		"replaces": [
+			"20d82151-855a-406f-9efa-935177e69105"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41634,7 +40889,10 @@
 			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe"
 		],
 		"title": "De leerlingen moeten vooral kijkstrategieën beheersen om de vragen te kunnen beantwoorden.",
-		"id": "724b953b-df79-45d5-aa1c-a89bb0b98496"
+		"id": "724b953b-df79-45d5-aa1c-a89bb0b98496",
+		"replaces": [
+			"219eb944-72ee-4678-906d-f694d4169486"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41643,7 +40901,10 @@
 			"dc1e477f-2510-45d7-9442-9446a4b75915"
 		],
 		"title": "Het centraal examen heeft betrekking op de periode van het romaans tot heden, met nadruk op de periode vanaf 1800. Beeldende kunst, architectuur en (ambachtelijke en industriële) vormgeving vanaf het neo-classicisme in de 19de eeuw tot heden komen derhalve in het examen aan de orde.",
-		"id": "64ac603f-912a-4ee1-863c-0ddd107316b4"
+		"id": "64ac603f-912a-4ee1-863c-0ddd107316b4",
+		"replaces": [
+			"96753bd9-5c6e-4f71-906a-e1e00f78d496"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41652,7 +40913,10 @@
 			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
 		],
 		"title": "Onder beelden verstaan we in het kader van het CE werk (2- en 3-dimensionaal) van beeldende kunstenaars, (ambachtelijke en industriële) vormgevers en architecten.",
-		"id": "0c76616f-5a5f-4376-af08-fd6e6ed6992f"
+		"id": "0c76616f-5a5f-4376-af08-fd6e6ed6992f",
+		"replaces": [
+			"ce1f7e91-c869-43e3-8f49-7295b30f3baf"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41661,7 +40925,10 @@
 			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
 		],
 		"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
-		"id": "45eab463-ec17-42ba-9b5b-465401018e6e"
+		"id": "45eab463-ec17-42ba-9b5b-465401018e6e",
+		"replaces": [
+			"1974e536-5330-41b0-9182-5caef2a07c67"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41670,7 +40937,10 @@
 			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
 		],
 		"title": "In deze eindterm gaat het om beschouwen met een bepaalde kwaliteit, namelijk het vermogen tot kritisch beoordelen. ‘Kritisch’ houdt in dat de kandidaat in staat is om op basis van onderzoek binnen subdomein A1 (beschrijven, onderzoeken en interpreteren) tot een beargumenteerd oordeel te komen.",
-		"id": "beaed965-854f-4ec9-8ef0-41abc1690182"
+		"id": "beaed965-854f-4ec9-8ef0-41abc1690182",
+		"replaces": [
+			"3740dad2-5b21-4e18-a55b-7f784725dec3"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -41679,7 +40949,10 @@
 			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
 		],
 		"title": "De kandidaat heeft de vaardigheid om verslag te doen van deze beargumenteerde beoordeling. Hij kan zijn beschouwing verwoorden en/of verbeelden.",
-		"id": "8193cde9-01e3-43eb-b580-4558839f8f72"
+		"id": "8193cde9-01e3-43eb-b580-4558839f8f72",
+		"replaces": [
+			"cb271a5e-b4bd-4647-8014-a2797fd18b81"
+		]
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -48208,19 +47481,6 @@
 		]
 	},
 	{
-		"id": "3eac5028-0da3-4c71-b43c-fe6705897b85",
-		"prefix": "AK/K/4/6",
-		"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\nLoef- en lijzijde (regenschaduw).",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"74812d84-8450-49d0-a53c-94ea869a7c5c"
-		],
-		"description": "",
-		"replaces": [
-			"e372077c-89d2-411b-ae7a-6328d6e4ec68"
-		]
-	},
-	{
 		"id": "0a191b30-aaf7-415a-8619-21a8bcf579ff",
 		"prefix": "AK/K/6/12.1",
 		"title": "De kandidaat kan de aanvoer, opslag en afvoer van water in de stroomgebieden van de grote rivieren in het Midden-Oosten en China beschrijven en verklaren en de overeenkomsten en verschillen beschrijven en verklaren.\nAquifer en fossiel water.",
@@ -48432,23 +47692,6 @@
 		],
 		"syllabus_toelichting_id": [
 			"e7f5671c-153e-4104-8a36-998f2dcc6764"
-		],
-		"dirty": true
-	},
-	{
-		"prefix": "AK/H/DomeinA/A1/1b.1",
-		"id": "bec16a1c-22cc-4ff8-9996-3c1eb8f0f59c",
-		"title": "De kandidaat kan aangeven waarover geografische vragen gaan.",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b"
-		],
-		"description": "",
-		"replaces": [
-			"8f23c07c-4b8c-4c48-9463-6aff96e1d101"
-		],
-		"syllabus_toelichting_id": [
-			"a8694a38-0d22-41c6-bab2-2a393b6f7d52"
 		],
 		"dirty": true
 	},
@@ -49115,7 +48358,8 @@
 			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b"
 		],
 		"replaces": [
-			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976"
+			"c57afb62-7fa3-46ab-a8b2-ebdac3ed3976",
+			"bec16a1c-22cc-4ff8-9996-3c1eb8f0f59c"
 		],
 		"dirty": true,
 		"description": "",
@@ -49251,17 +48495,6 @@
 		],
 		"syllabus_toelichting_id": [
 			"fcfa803f-87a8-42c9-892d-3452d47a62f1"
-		]
-	},
-	{
-		"id": "b2cc991b-21b7-4f63-813b-5cb874c674e1",
-		"dirty": "1",
-		"title": "De kandidaat kan de volgende typen geografische vragen herkennen en formuleren: beschrijvende vragen, verklarende vragen, voorspellende vragen, waarderende vragen en vragen gericht op het maken van keuzes en het oplossen van problemen.",
-		"prefix": "A1.1b.2",
-		"description": "",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6"
 		]
 	},
 	{
@@ -49455,7 +48688,10 @@
 		"title": "De kandidaat kan verhoudingen en schatting rekenkundig en/of grafisch onderbouwen.",
 		"id": "3d1d0d2c-2c55-4573-8f76-d7780133628b",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"100c2b25-4578-416a-b83c-1e13d13fe291"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49466,7 +48702,10 @@
 		"title": "De kandidaat kan rekenen met grote en kleine getallen.",
 		"id": "23537862-0849-446d-bb0d-c792c2a2e79e",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"fee18b7d-79b1-4b50-8082-690d7d4e1563"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49477,7 +48716,10 @@
 		"title": "De kandidaat kan afrondingsregels rekenkundig en/of grafisch onderbouwen.",
 		"id": "a3a7b6dd-f558-4939-b007-401c1ac0af28",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"d0831486-1287-4c6c-9b5e-cfa7a4dafc99"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49488,7 +48730,10 @@
 		"title": "De kandidaat kan lineaire vergelijkingen (eerstegraadsvergelijkingen), beschrijvende statistiek en grafieken toepassen op economische relaties.",
 		"id": "2287b7a5-7481-4237-8a47-e4170ad6cc25",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"e7c98dcd-4926-4370-a193-9b0d652bedcf"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49499,7 +48744,10 @@
 		"title": "De kandidaat kan oplossen van een stelsel van vergelijkingen via substitutie.",
 		"id": "a5ddd0e0-7e21-437a-bb67-5b27ccb6263b",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"e37d8c33-b14d-4124-ac66-7761c230fb24"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49521,7 +48769,10 @@
 		"title": "De kandidaat kan oppervlaktes arceren.",
 		"id": "4c364c51-511c-448c-8205-e75c0b527077",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"d5647da2-87a6-444b-9e66-fca6ff3d817b"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49542,7 +48793,10 @@
 		"title": "De kandidaat kent diagrammen: lijn, staaf, cirkel; enkelvoudig en samengesteld.",
 		"id": "40b99101-bf34-48f7-bb53-3f0bc386a09d",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"e06c7740-d797-48ed-8739-e56ed9e17e6f"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49553,7 +48807,10 @@
 		"title": "De kandidaat kent tabellen: rijen/kolommen, indeling in klassen (decielen e.d.), cumuleren.",
 		"id": "52e0a9bf-a804-4c76-bf0c-5cb683cecc81",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"ebfc5c74-894a-425f-873c-1e28d813c79b"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49564,7 +48821,10 @@
 		"title": "De kandidaat kent gemiddeldes: gewogen en ongewogen.",
 		"id": "6acfc682-873a-4140-ad6c-f5d4481e71b0",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"3e50e1ac-54dd-449d-9e88-c45e66a8b0f0"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49575,7 +48835,10 @@
 		"title": "De kandidaat (standpuntbepaling) kent eventuele botsing van belangen.",
 		"id": "085bc4e0-2eb7-41c7-a62d-27b4703bbdcb",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"650cd69c-ad31-48ba-9486-054c72f8b2cf"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49586,7 +48849,10 @@
 		"title": "De kandidaat (standpuntbepaling) kent oplossingen voor / reacties op mogelijk ongewenst gedrag.",
 		"id": "906e8437-c385-451d-90f0-61421ebaa850",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"adaf1d55-ad6c-49cc-aa6e-47cc1b38ec0d"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49641,7 +48907,10 @@
 		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van oorzaak en gevolg.",
 		"id": "30eea695-acf5-4468-93c4-e8f4bca54842",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"c36d0f1f-3aa6-4405-bed5-6be55368c0c9"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49652,7 +48921,10 @@
 		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van probleem en oplossing.",
 		"id": "80aebbf6-d1f4-4cdc-bc63-e4b4778755d3",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"d4ece646-5fb3-4f20-8f00-8e4124bf33f3"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49663,7 +48935,10 @@
 		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van korte en lange termijn.",
 		"id": "73c6435e-42ac-42ac-afb6-99e5cba47e2c",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"d4c3fc58-5128-4783-98d7-ab375b3d4219"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -49674,7 +48949,10 @@
 		"title": "De kandidaat kan (strategisch inzicht) het onderscheiden van evenwichtige situaties en onevenwichtige situaties.",
 		"id": "f51a60b3-2123-450f-8858-bdd8634a91e6",
 		"unreleased": true,
-		"description": ""
+		"description": "",
+		"replaces": [
+			"278f03bd-26a7-4837-a482-66987562f295"
+		]
 	},
 	{
 		"description": "",
@@ -53274,7 +52552,10 @@
 		],
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: gebruik maken van redeneringen binnen vooronderstellingen of contexten.",
 		"id": "8e9c4f96-6dc6-4ac3-8ebf-8492f723c6aa",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"d882daaf-a06f-418d-89d5-16e60102de6b"
+		]
 	},
 	{
 		"prefix": "EC/K/3.1c",
@@ -53283,7 +52564,10 @@
 		],
 		"title": "De kandidaat kan economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren: een kosten- en batenanalyse maken, zowel van meetbare als niet meetbare factoren.",
 		"id": "bca53de6-0d00-474a-8fff-834b1d6e7f0f",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"be2893d2-26ec-4caa-ab7f-0f8d47efa384"
+		]
 	},
 	{
 		"prefix": "EC/K/3/3b",
@@ -53301,7 +52585,10 @@
 		],
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: informatie analyseren en (her)ordenen en zo nodig bewerken.",
 		"id": "7cf1e530-1ffb-45ba-87fc-a9e98e440f14",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"4d570caf-a4f6-4679-a06e-ff86705d5e47"
+		]
 	},
 	{
 		"prefix": "EC/K/3/3d",
@@ -53319,7 +52606,10 @@
 		],
 		"title": "De kandidaat kan verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken en onderzoeken: conclusies en antwoorden formuleren.",
 		"id": "ed0660e8-d84a-49e8-81e1-5aa06596327a",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"6c69fd94-d064-41fc-ac23-b7de5ee8870d"
+		]
 	},
 	{
 		"description": "",
@@ -53339,7 +52629,10 @@
 		],
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: relaties leggen met omstandigheden en achtergronden.",
 		"id": "9990dcbe-a7bb-4089-aef2-27409e149f86",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"81482b0d-f2a9-4b98-b716-daeebb9b61ab"
+		]
 	},
 	{
 		"description": "",
@@ -53349,7 +52642,10 @@
 		],
 		"title": "De kandidaat kan een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag: eigen waarden en opvattingen confronteren met andere waarden en opvattingen.",
 		"id": "8edfba01-5310-4aae-9805-5b63565ed5e6",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"f5d0703f-9e69-4c5b-a007-77f4c5f4b9cd"
+		]
 	},
 	{
 		"description": "",
@@ -53366,7 +52662,10 @@
 		],
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: positieve, negatieve, absolute en relatieve getallen hanteren.",
 		"id": "2af87b7f-8a5b-41b8-8a69-6b02ae4614ed",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"ba66f56d-1151-42d2-b690-70e48c368170"
+		]
 	},
 	{
 		"description": "",
@@ -53396,7 +52695,10 @@
 		],
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: afrondingen hanteren overeenkomstig de gegeven informatie.",
 		"id": "c3343977-e12d-4a29-871f-339dc5de71d6",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"dd3b143b-b802-4a95-9737-e8057f0a22af"
+		]
 	},
 	{
 		"description": "",
@@ -53406,7 +52708,10 @@
 		],
 		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relaties, zoals: grafieken kunnen hanteren: lezen, tekenen (een lijngrafiek met gegeven coördinaten in een assenstelsel), interpreteren.",
 		"id": "bf35ab94-b707-4d99-aeb7-a9dafefcb4b2",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"751e1890-47a5-439c-9c05-e68208ba611e"
+		]
 	},
 	{
 		"description": "",
@@ -53450,7 +52755,10 @@
 		],
 		"title": "De kandidaat kan in verschillende situaties van productie beschrijven dat zich keuzeproblemen voordoen in de afweging van kosten tegenover baten in engere zin en in de afweging van maatschappelijke kosten en baten, maatschappelijk verantwoord ondernemen (mvo) als ondernemingswijze, o.a. duurzaamheid, waarbij met eventuele externe effecten en andere ongewenste zaken (uitbuiting, kinderarbeid e.a.) wordt rekening gehouden, de maatschappelijke kosten/opbrengsten zijn soms moeilijk of in het geheel niet in geld uit te drukken.",
 		"id": "3bec18f4-9f24-46dc-9292-d161839c89fc",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"d7a8f383-5895-4c08-a89b-185fb1b2170f"
+		]
 	},
 	{
 		"description": "",
@@ -53471,7 +52779,10 @@
 		],
 		"title": "De kandidaat kan aan de hand van gegeven richtlijnen (digitale) kaarten aanvullen.",
 		"id": "7ab904ea-70bc-49d0-a2e9-07eb59d6e117",
-		"unreleased": true
+		"unreleased": true,
+		"replaces": [
+			"ae8ec050-425a-4401-b464-5f0b3217c793"
+		]
 	},
 	{
 		"description": "",
@@ -54933,61 +54244,6 @@
 		],
 		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen, alsmede in staatkundige kaarten plaatsen en landen buiten Europa herkennen waar gebeurtenissen hebben plaatsgevonden die in deze eindterm genoemd worden.",
 		"id": "4509ae83-d791-4e0e-86da-c4ee0ab08ce5",
-		"unreleased": true
-	},
-	{
-		"description": "Eerste Wereldoorlog (1914-1918), Europa (en de wereld)",
-		"ce_se": "CE",
-		"prefix": "GS/K/10/16.1/kgt",
-		"examenprogramma_eindterm_id": [
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen",
-		"id": "6d9b3244-24f8-4f59-a76b-5c8e470e44f4",
-		"unreleased": true
-	},
-	{
-		"description": "Interbellum (1918-1939) - Europa (en de wereld)",
-		"ce_se": "CE",
-		"prefix": "GS/K/10/16.4/kgt",
-		"examenprogramma_eindterm_id": [
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode herkennen en veranderingen verklaren.",
-		"id": "c57db498-606e-465c-a192-ec947a7c09f5",
-		"unreleased": true
-	},
-	{
-		"description": "Tweede Wereldoorlog (1939-1945), Europa (en de wereld)",
-		"ce_se": "CE",
-		"prefix": "GS/K/10/16.8/kgt",
-		"examenprogramma_eindterm_id": [
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren",
-		"id": "0fb361e6-2447-4d81-a7ee-eb140cb9ce13",
-		"unreleased": true
-	},
-	{
-		"description": "De periode 1945-1989, Europa (en de wereld)",
-		"ce_se": "CE",
-		"prefix": "GS/K/10/16.11/kgt",
-		"examenprogramma_eindterm_id": [
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren.",
-		"id": "7eef04b8-2851-4e3f-bef9-87189bf7f7ea",
-		"unreleased": true
-	},
-	{
-		"description": "Nieuwe Wereldorde (vanaf 1990), Europa (en de wereld)",
-		"ce_se": "CE",
-		"prefix": "GS/K/10/16.15/kgt",
-		"examenprogramma_eindterm_id": [
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"title": "De kandidaat kan de staatkundige kaart van Europa, behorend bij deze periode, herkennen en veranderingen verklaren.",
-		"id": "216887e2-884b-4bcc-9d6d-26a033f69e75",
 		"unreleased": true
 	},
 	{
