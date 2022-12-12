@@ -21,14 +21,6 @@
 		"id": "1a996972-1a61-4347-996d-eff9df182ed1"
 	},
 	{
-		"title": "Economie",
-		"id": "d7b5f09e-9774-4e2c-918c-fbbac7dccdf5",
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
-		],
-		"dirty": "1"
-	},
-	{
 		"vakleergebied_id": [
 			"15292864-cba8-4af5-90ef-da51cb2d22e1"
 		],
@@ -104,13 +96,6 @@
 		],
 		"title": "Maatschappijwetenschappen",
 		"id": "a4105b80-bb7b-4dd2-9543-2bb88a18e62f"
-	},
-	{
-		"vakleergebied_id": [
-			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
-		],
-		"title": "Muziek",
-		"id": "2d2b1c01-2439-4abc-b9d6-22c16642824e"
 	},
 	{
 		"vakleergebied_id": [
@@ -198,31 +183,10 @@
 	},
 	{
 		"vakleergebied_id": [
-			"6b89b236-42ae-429f-bc33-422e12b53cb1"
-		],
-		"title": "Russisch",
-		"id": "ce7f6c0e-8185-411a-a60c-7247862a6a1e"
-	},
-	{
-		"vakleergebied_id": [
 			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
 		],
 		"title": "Duits",
 		"id": "cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
-	},
-	{
-		"vakleergebied_id": [
-			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
-		],
-		"title": "Turks",
-		"id": "579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
-	},
-	{
-		"vakleergebied_id": [
-			"782220bf-4155-4090-b218-c6957a14f963"
-		],
-		"title": "Arabisch",
-		"id": "95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
 	},
 	{
 		"vakleergebied_id": [
@@ -244,20 +208,6 @@
 		],
 		"title": "Engels",
 		"id": "8c2d63d6-57f0-4d17-98e9-076d8d8e993c"
-	},
-	{
-		"vakleergebied_id": [
-			"953167a9-cb14-47e3-8446-a708a4e077b9"
-		],
-		"title": "Handvaardigheid",
-		"id": "fbbd2952-218e-4aa9-916f-0d301124d18c"
-	},
-	{
-		"vakleergebied_id": [
-			"99fa52fd-5d20-446a-a34c-61a6be77b413"
-		],
-		"title": "Textiele vormgeving",
-		"id": "03148f32-44eb-4e69-8758-775dcb674597"
 	},
 	{
 		"vakleergebied_id": [
@@ -285,6 +235,76 @@
 		"title": "Wiskunde",
 		"vakleergebied_id": [
 			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+		]
+	},
+	{
+		"title": "Economie",
+		"id": "e828b483-cf5a-40e5-b54e-c6a7346f3eca",
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"replaces": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"be10bbec-59a9-46a3-8061-43edfce17a76"
+		],
+		"title": "Muziek",
+		"id": "e293b77d-0f2b-4a14-922b-ff51af87158b",
+		"replaces": [
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"b00a8f97-7d10-41a8-9b84-4e8e82591bfc"
+		],
+		"title": "Russisch",
+		"id": "a95ab29c-6c79-4420-8047-409b1af96f29",
+		"replaces": [
+			"ce7f6c0e-8185-411a-a60c-7247862a6a1e"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"64dc83c6-d178-4d17-bbae-df6fec239d57"
+		],
+		"title": "Turks",
+		"id": "eaf3a819-fa38-4f21-aae0-2be01ca3ee99",
+		"replaces": [
+			"579f9bfc-771e-4fa1-a3dd-808ccafd13c8"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"1a3a03fd-d468-4e1f-ae5b-94d03c5061ee"
+		],
+		"title": "Arabisch",
+		"id": "17499c42-4124-4ba2-ac4a-90fbd0bdfe4e",
+		"replaces": [
+			"95e3548e-ffbf-4ab9-a45d-e5e5126e3b55"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"fc7c0b12-f6ae-4643-9a95-7c91bf898423"
+		],
+		"title": "Handvaardigheid",
+		"id": "01cba56a-622e-4265-851b-985fe0ef73c3",
+		"replaces": [
+			"fbbd2952-218e-4aa9-916f-0d301124d18c"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"b036fa12-ab9c-4469-a346-c4e09dc0bf6d"
+		],
+		"title": "Textiele vormgeving",
+		"id": "aff2f6f2-ff41-468f-ab31-65fd1f6e83d3",
+		"replaces": [
+			"03148f32-44eb-4e69-8758-775dcb674597"
 		]
 	}
 ]
