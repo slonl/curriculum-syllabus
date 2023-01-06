@@ -496,9 +496,10 @@
 	{
 		"ce_se": "CE",
 		"prefix": "AK/H/Domein A/A1/1b-toel.",
-		"title": "Geografische vragen zijn vragen over: - verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); - de manier waarop geografische kennis wordt verworven en\r\r\nweergegeven (aardrijkskundige kennisverwerving of werkwijzen); - ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"title": "Geografische vragen zijn vragen over: - verschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); - de manier waarop geografische kennis wordt verworven en\r\r\r\nweergegeven (aardrijkskundige kennisverwerving of werkwijzen); - ruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
 		"id": "cae5c4b9-d6b2-4262-a286-d2ea775f0833",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1c.1-toel.",
@@ -29361,7 +29362,10 @@
 		"replaces": [
 			"091e7ba3-10e7-4433-a4b4-d5b6466c066b",
 			"a9c3b2a4-3e74-46b2-8f1b-3a4c13283f99"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "0c9cac38-b925-4191-b259-fe6f056f84d7",
@@ -29370,151 +29374,202 @@
 		"replaces": [
 			"7aa3641a-d06e-488a-89b1-1d95e91ba12b",
 			"207e4bd5-44d0-4e93-bbc9-b7a00bbe267b"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "1955c557-f8a1-4164-8aa0-dd1c3c2f7bf3",
-		"title": "Platentektoniek is een systeem van interacties tussen delen van de aardkorst. De beweging en de interactie worden veroorzaakt door de interne hitte van de aarde.\r\nHet actualiteitsbeginsel: the present is the key to the past. (Het uitgangspunt dat fysische processen zoals die nu plaatsvinden in het verleden ook zo plaatsvonden).\r\nPlaatbewegingen veranderen de aardkorst: vulkanen, aardbevingen en gebergten ontstaan.\r\nHet eruptietype van een vulkaan weerspiegelt zich in de vorm.",
+		"title": "Platentektoniek is een systeem van interacties tussen delen van de aardkorst. De beweging en de interactie worden veroorzaakt door de interne hitte van de aarde.\r\r\nHet actualiteitsbeginsel: the present is the key to the past. (Het uitgangspunt dat fysische processen zoals die nu plaatsvinden in het verleden ook zo plaatsvonden).\r\r\nPlaatbewegingen veranderen de aardkorst: vulkanen, aardbevingen en gebergten ontstaan.\r\r\nHet eruptietype van een vulkaan weerspiegelt zich in de vorm.",
 		"ce_se": "CE",
 		"replaces": [
 			"01305b4c-3e69-4e6d-8b13-8fc40de8cf71",
 			"f2bc3889-566b-424a-b39c-cf84cdb9587a"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "699e7121-d1a1-48a6-93e6-5a4aa9f5bdce",
-		"title": "Door verwering en erosie worden gesteenten afgebroken.\r\nDe verweringsvorm die overheerst in een gebied wordt hoofdzakelijk bepaald door de klimaatomstandigheden.\r\nStroomsnelheid en transportmechanisme bepalen de korrelgrootteverdeling van het sediment.",
+		"title": "Door verwering en erosie worden gesteenten afgebroken.\r\r\nDe verweringsvorm die overheerst in een gebied wordt hoofdzakelijk bepaald door de klimaatomstandigheden.\r\r\nStroomsnelheid en transportmechanisme bepalen de korrelgrootteverdeling van het sediment.",
 		"ce_se": "CE",
 		"replaces": [
 			"0cb9c89d-f1c9-4caf-9379-4f038c839623",
 			"f05cd4ec-4710-43aa-84ca-64095c672edf"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "499efbe3-7923-45fe-9905-bf9dab24395a",
-		"title": "Endogene krachten bouwen het reliëf voornamelijk op en exogene krachten breken het voornamelijk af.\r\nOnder invloed van de gesteentekringloop en de hydrologische kringloop ontstaan er nieuwe gesteenten en nieuw reliëf.",
+		"title": "Endogene krachten bouwen het reliëf voornamelijk op en exogene krachten breken het voornamelijk af.\r\r\nOnder invloed van de gesteentekringloop en de hydrologische kringloop ontstaan er nieuwe gesteenten en nieuw reliëf.",
 		"ce_se": "CE",
 		"replaces": [
 			"b162c2e4-83d8-4d9b-ba25-6bf75415db4e",
 			"270895bd-e97c-4e9f-bf95-1fafd7d516f4"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "31b67af1-ca07-4f4a-aa94-a798e4efbe57",
-		"title": "Zee- en luchtstromen zorgen voor verdeling van koude en warmte over de aarde.\r\nDe verdeling land-zee veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.\r\nDe ligging van hooggebergten veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.",
+		"title": "Zee- en luchtstromen zorgen voor verdeling van koude en warmte over de aarde.\r\r\nDe verdeling land-zee veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.\r\r\nDe ligging van hooggebergten veroorzaakt op diverse schalen een aanpassing van het algemene klimaatpatroon.",
 		"ce_se": "CE",
 		"replaces": [
 			"4552e186-5e09-437b-9863-21af4505c33c",
 			"c60a68f4-0695-4a6c-83d3-3b29897fec93"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "2dffcaab-acc9-4f00-b905-c85f61cdc19d",
-		"title": "Het landschap is een dynamisch systeem: als één van de geofactoren verandert, leidt dat tot verandering van de andere factoren.\r\nVooral het klimaat is bepalend voor de natuurlijke begroeiing.\r\nDe combinatie van klimaatzone en begroeiing vormt de (natuurlijke) landschapszones op aarde.\r\nDe grenzen tussen klimaat- en landschapszones vallen niet altijd met elkaar samen, waardoor de grenzen tussen de landschapszones geleidelijke overgangen zijn.",
+		"title": "Het landschap is een dynamisch systeem: als één van de geofactoren verandert, leidt dat tot verandering van de andere factoren.\r\r\nVooral het klimaat is bepalend voor de natuurlijke begroeiing.\r\r\nDe combinatie van klimaatzone en begroeiing vormt de (natuurlijke) landschapszones op aarde.\r\r\nDe grenzen tussen klimaat- en landschapszones vallen niet altijd met elkaar samen, waardoor de grenzen tussen de landschapszones geleidelijke overgangen zijn.",
 		"ce_se": "CE",
 		"replaces": [
 			"5facaea2-a501-47fe-acba-8085d44a5099",
 			"a273b53d-e967-41e0-bea1-69e99b37cbfe"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "be906507-934e-4e5b-9247-570720b7cd04",
-		"title": "Landschapszones veranderen door (intensief) menselijk gebruik.\r\nDe gevoeligheid voor landdegradatie verschilt per landschapszone.\r\nDuurzaam landgebruik kan processen van landdegradatie stoppen of voorkomen.",
+		"title": "Landschapszones veranderen door (intensief) menselijk gebruik.\r\r\nDe gevoeligheid voor landdegradatie verschilt per landschapszone.\r\r\nDuurzaam landgebruik kan processen van landdegradatie stoppen of voorkomen.",
 		"ce_se": "CE",
 		"replaces": [
 			"a454d9c0-cd59-4176-8096-fc864e25f81f",
 			"6ccb72ca-9c7d-4c2a-a17e-90a6f1515ca3"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "deaf5d76-0ad5-4886-8dc8-6374e9f47833",
-		"title": "Vanuit de culturele dimensie is het beeld van Brazilië voor velen dat van muziek, dans, sport, kleding en religie.\r\nVanuit de natuurlijke dimensie is het beeld van Brazilië voor velen dat van (bedreigd) oerwoud.\r\nHet imago van Brazilië kent verschillende paradoxen zoals gated communities naast krottenwijken en oerwoud naast grote landbouwgebieden en steden.\r\nBrazilië is een groot land met veel buurlanden, veel grote steden en veel grote rivieren.",
+		"title": "Vanuit de culturele dimensie is het beeld van Brazilië voor velen dat van muziek, dans, sport, kleding en religie.\r\r\nVanuit de natuurlijke dimensie is het beeld van Brazilië voor velen dat van (bedreigd) oerwoud.\r\r\nHet imago van Brazilië kent verschillende paradoxen zoals gated communities naast krottenwijken en oerwoud naast grote landbouwgebieden en steden.\r\r\nBrazilië is een groot land met veel buurlanden, veel grote steden en veel grote rivieren.",
 		"ce_se": "CE",
 		"replaces": [
 			"c1ffad39-fd14-42db-8f6d-bb9244c46534",
 			"aa95423b-05d0-47c2-a8c4-499715cade06"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "728d012d-b859-4f1f-bf03-221186ca21a0",
-		"title": "Brazilië exporteert grondstoffen en agrarische producten maar ook hoogwaardige industrieproducten. Brazilië importeert vooral eindproducten.\r\nDe economische groei van Brazilië is aan het begin van 21e eeuw enerzijds gebaseerd op een toenemende vraag naar grondstoffen en buitenlandse investeringen die hiermee gepaard gaan en anderzijds op toenemende industrialisering en tertiarisering.\r\nDe informele sector is niet erg zichtbaar, maar speelt een grote rol in de economie van Brazilië.\r\nEind 20e eeuw gestart sociaaleconomisch beleid draagt bij aan economische groei en een vermindering van de armoede. Dit heeft ook invloed op de bevolkingsopbouw: vergrijzing, kleinere gezinnen.\r\nIn het dagelijks leven spelen raciale verschillen een grote rol.\r\nDe bevolking van Brazilië is in hoge mate gemestizeerd. Daarnaast zijn er van oorsprong inheemse, Afrikaanse, Europese en Aziatische bevolkingsgroepen.\r\nOndanks de toenemende sociale mobiliteit is er nog steeds een grote kloof tussen arm en rijk met bijbehorend verschil in ontwikkelingskansen.\r\nDe kustprovincies zijn het meest ontwikkeld, het dichtst bevolkt en het meest gemoderniseerd maar ook binnen de kustprovincies zijn er grote verschillen.\r\nDe verstedelijkingsgraad van Brazilië is hoog. Het verstedelijkingstempo ligt in het binnenland hoger dan aan de kust.",
+		"title": "Brazilië exporteert grondstoffen en agrarische producten maar ook hoogwaardige industrieproducten. Brazilië importeert vooral eindproducten.\r\r\nDe economische groei van Brazilië is aan het begin van 21e eeuw enerzijds gebaseerd op een toenemende vraag naar grondstoffen en buitenlandse investeringen die hiermee gepaard gaan en anderzijds op toenemende industrialisering en tertiarisering.\r\r\nDe informele sector is niet erg zichtbaar, maar speelt een grote rol in de economie van Brazilië.\r\r\nEind 20e eeuw gestart sociaaleconomisch beleid draagt bij aan economische groei en een vermindering van de armoede. Dit heeft ook invloed op de bevolkingsopbouw: vergrijzing, kleinere gezinnen.\r\r\nIn het dagelijks leven spelen raciale verschillen een grote rol.\r\r\nDe bevolking van Brazilië is in hoge mate gemestizeerd. Daarnaast zijn er van oorsprong inheemse, Afrikaanse, Europese en Aziatische bevolkingsgroepen.\r\r\nOndanks de toenemende sociale mobiliteit is er nog steeds een grote kloof tussen arm en rijk met bijbehorend verschil in ontwikkelingskansen.\r\r\nDe kustprovincies zijn het meest ontwikkeld, het dichtst bevolkt en het meest gemoderniseerd maar ook binnen de kustprovincies zijn er grote verschillen.\r\r\nDe verstedelijkingsgraad van Brazilië is hoog. Het verstedelijkingstempo ligt in het binnenland hoger dan aan de kust.",
 		"ce_se": "CE",
 		"replaces": [
 			"ddaaef2e-a201-41b9-b18d-a627677cd301",
 			"61b83986-ce35-48b6-9185-0a79b9e5613c"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "69984ece-2d4f-4abf-960d-7a34e0d67d4c",
-		"title": "Geografische vragen zijn vragen over: \r\nverschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); \r\nde manier waarop geografische kennis wordt verworven en weergegeven (aardrijkskundige kennisverwerving of werkwijzen)\r\nruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
+		"title": "Geografische vragen zijn vragen over: \r\r\nverschillen tussen verschijnselen op aarde plus de relaties daartussen en verschillen binnen gebieden en tussen gebieden plus relaties binnen en tussen gebieden (kennis over het aardrijk); \r\r\nde manier waarop geografische kennis wordt verworven en weergegeven (aardrijkskundige kennisverwerving of werkwijzen)\r\r\nruimtelijke vraagstukken waarvoor mensen, die in een specifiek gebied leven, zich geplaatst zien (toepassing van kennis en werkwijzen).",
 		"ce_se": "CE",
 		"replaces": [
 			"ccbe0def-4f47-4050-8407-0c23099572b7",
 			"5c6635a4-169d-4812-869f-a20824becfb1"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "9e6e163d-6f04-444b-a970-c0843545517a",
-		"title": "Brazilië kent verschillende deelgebieden. Belangrijke zijn het Amazonegebied, het Hoogland van Brazilië en het Hoogland van Guyana.\r\nDe regionale variaties in de hoeveelheid neerslag in Brazilië hangen onder andere samen met de ligging ten opzichte van hoge- en lage drukgebieden, de ligging ten opzichte van zee(stromen) en het reliëf.\r\nDe jaarlijkse variaties in neerslag en temperatuur in Brazilië hangen samen met de verschuiving van de ITCZ.\r\nIn het noordwesten van Brazilië en de kuststrook komt tropisch regenwoud (selvas) voor. In het noordoosten ligt een droog gebied met struikgewas (caatinga). In het midden bevindt zich een savanne met bomen (cerrado). In het grensgebied met Bolivia en Paraguay bevindt zich een groot vlak moerasgebied.\r\nBrazilië is rijk aan delfstoffen waaronder ijzererts, bauxiet en aardolie.\r\nBrazilië heeft omvangrijke aardoliereserves, deels aangeboord.\r\nIn Brazilië worden veel biobrandstoffen geproduceerd. Dit heeft naast voordelen ook nadelen voor mens en natuur.\r\nBrazilië heeft grote mogelijkheden voor het opwekken van hydro–elektriciteit.",
+		"title": "Brazilië kent verschillende deelgebieden. Belangrijke zijn het Amazonegebied, het Hoogland van Brazilië en het Hoogland van Guyana.\r\r\nDe regionale variaties in de hoeveelheid neerslag in Brazilië hangen onder andere samen met de ligging ten opzichte van hoge- en lage drukgebieden, de ligging ten opzichte van zee(stromen) en het reliëf.\r\r\nDe jaarlijkse variaties in neerslag en temperatuur in Brazilië hangen samen met de verschuiving van de ITCZ.\r\r\nIn het noordwesten van Brazilië en de kuststrook komt tropisch regenwoud (selvas) voor. In het noordoosten ligt een droog gebied met struikgewas (caatinga). In het midden bevindt zich een savanne met bomen (cerrado). In het grensgebied met Bolivia en Paraguay bevindt zich een groot vlak moerasgebied.\r\r\nBrazilië is rijk aan delfstoffen waaronder ijzererts, bauxiet en aardolie.\r\r\nBrazilië heeft omvangrijke aardoliereserves, deels aangeboord.\r\r\nIn Brazilië worden veel biobrandstoffen geproduceerd. Dit heeft naast voordelen ook nadelen voor mens en natuur.\r\r\nBrazilië heeft grote mogelijkheden voor het opwekken van hydro–elektriciteit.",
 		"ce_se": "CE",
 		"replaces": [
 			"6ad9957f-a3c1-4be4-9013-e6f9f44e15f1",
 			"e66ab4dd-c175-4198-bb0e-0d698132cb20"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "70cb51e8-abef-478a-97fe-a36a14381e95",
-		"title": "Brazilië trekt economisch en politiek in Zuid-Amerika de rol van leider naar zich toe.\r\nBrazilië concurreert met andere landen in Zuid-Amerika als vestigingsplaats voor bedrijven.\r\nBrazilië heeft een actieve rol bij de geografische ontsluiting van Zuid-Amerika.\r\nDe ontsluiting van Zuid-Amerika staat vaak op gespannen voet met duurzaamheid en culturele diversiteit.",
+		"title": "Brazilië trekt economisch en politiek in Zuid-Amerika de rol van leider naar zich toe.\r\r\nBrazilië concurreert met andere landen in Zuid-Amerika als vestigingsplaats voor bedrijven.\r\r\nBrazilië heeft een actieve rol bij de geografische ontsluiting van Zuid-Amerika.\r\r\nDe ontsluiting van Zuid-Amerika staat vaak op gespannen voet met duurzaamheid en culturele diversiteit.",
 		"ce_se": "CE",
 		"replaces": [
 			"f63207d3-0eba-44c1-9ab1-a1474efa6845",
 			"84bc326d-7f4a-4557-bad8-c5185b8b95a7"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "aa916bb7-ad92-47c4-9ae2-aa2ffa2995b0",
-		"title": "De omvang van de handel van Brazilië met andere landen groeit en de samenstelling van de handel verandert.\r\nBrazilië is mondiaal politiek, cultureel en economisch steeds meer zichtbaar.\r\nBrazilië is in toenemende mate een belangrijke toeristische bestemming.",
+		"title": "De omvang van de handel van Brazilië met andere landen groeit en de samenstelling van de handel verandert.\r\r\nBrazilië is mondiaal politiek, cultureel en economisch steeds meer zichtbaar.\r\r\nBrazilië is in toenemende mate een belangrijke toeristische bestemming.",
 		"ce_se": "CE",
 		"replaces": [
 			"59eb45c2-6a04-423b-89ee-517e686d4770",
 			"051d54ad-2de1-4d9a-9988-e30719400a5c"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "4e88af78-a797-44ea-a812-4b2b8a422c9e",
-		"title": "De grootste overstromingsrisico’s in Nederland ontstaan bij een combinatie van springtij, noordwesterstorm en piekafvoer van de rivieren.\r\nKlimaatverandering draagt bij aan een onregelmatiger regiem van de rivieren.\r\nMenselijk ingrijpen in het stroomgebied heeft geleid tot een onregelmatiger regiem, verkorting van de vertragingstijd en verhoogde piekafvoer.\r\nZeepspiegelstijging kan de afvoer van rivierwater en het spuien van water op zee bemoeilijken.\r\nAfsluitbare waterkeringen moeten er in combinatie met bergingsgebieden voor zorgen dat bij extreme omstandigheden overstromingsrisico’s beperkt worden, maar dat rivieren tijdens normale omstandigheden hun water kunnen afvoeren naar zee.\r\nIn het IJsselmeergebied en de Zuidwestelijke delta zijn er overstromingsrisico’s als bij (noord)westerstorm het water wordt opgestuwd.",
+		"title": "De grootste overstromingsrisico’s in Nederland ontstaan bij een combinatie van springtij, noordwesterstorm en piekafvoer van de rivieren.\r\r\nKlimaatverandering draagt bij aan een onregelmatiger regiem van de rivieren.\r\r\nMenselijk ingrijpen in het stroomgebied heeft geleid tot een onregelmatiger regiem, verkorting van de vertragingstijd en verhoogde piekafvoer.\r\r\nZeepspiegelstijging kan de afvoer van rivierwater en het spuien van water op zee bemoeilijken.\r\r\nAfsluitbare waterkeringen moeten er in combinatie met bergingsgebieden voor zorgen dat bij extreme omstandigheden overstromingsrisico’s beperkt worden, maar dat rivieren tijdens normale omstandigheden hun water kunnen afvoeren naar zee.\r\r\nIn het IJsselmeergebied en de Zuidwestelijke delta zijn er overstromingsrisico’s als bij (noord)westerstorm het water wordt opgestuwd.",
 		"ce_se": "CE",
 		"replaces": [
 			"30c48400-afaa-4df5-8cfe-e517af72fc3d",
 			"fbc357c1-fe37-4d87-b405-97f772d784bd"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "5524c16b-afa5-4d00-9985-d7ec359a11f1",
-		"title": "Sinds de Tweede Deltacommissie ligt de focus van het waterbeleid op integraal waterbeleid. Er spelen in Nederland allerlei vraagstukken op het gebied van wateroverlast en overstromingsgevaar en die vraagstukken spelen op verschillende schalen. Dit vereist een samenhangend beleid.\r\nMaatregelen ter beheersing van het regiem betreffen niet alleen het rivierstelsel, maar omvatten het gehele stroomgebied.\r\nEr is in Nederland in 1995 een breuk opgetreden in het denken over overstromingsgevaar van de grote rivieren.\r\nDe Zuidwestelijke delta moet overtollig rivierwater tijdelijk opvangen bij extreme omstandigheden.\r\nDe Tweede Deltacommissie heeft voorgesteld het peil van het IJsselmeer te verhogen om spuien op de Waddenzee ook in de toekomst mogelijk te maken en om een grote strategische zoetwatervoorraad te hebben.",
+		"title": "Sinds de Tweede Deltacommissie ligt de focus van het waterbeleid op integraal waterbeleid. Er spelen in Nederland allerlei vraagstukken op het gebied van wateroverlast en overstromingsgevaar en die vraagstukken spelen op verschillende schalen. Dit vereist een samenhangend beleid.\r\r\nMaatregelen ter beheersing van het regiem betreffen niet alleen het rivierstelsel, maar omvatten het gehele stroomgebied.\r\r\nEr is in Nederland in 1995 een breuk opgetreden in het denken over overstromingsgevaar van de grote rivieren.\r\r\nDe Zuidwestelijke delta moet overtollig rivierwater tijdelijk opvangen bij extreme omstandigheden.\r\r\nDe Tweede Deltacommissie heeft voorgesteld het peil van het IJsselmeer te verhogen om spuien op de Waddenzee ook in de toekomst mogelijk te maken en om een grote strategische zoetwatervoorraad te hebben.",
 		"ce_se": "CE",
 		"replaces": [
 			"3bc65158-557e-4af0-8c31-8a3203f92f53",
 			"181b6815-c6aa-45c2-b235-f494fa5eac93"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "c4cbe913-e699-42a2-8e40-5334aa7bfdde",
-		"title": "Steden zijn de motor van de kenniseconomie, de creatieve economie wordt steeds belangrijker.\r\nStedelijke (economische) ontwikkeling vereist bestuurlijke samenwerking over de grenzen van de stad heen en samenwerking tussen bestuur, bedrijfsleven en burgers.\r\nEr spelen belangrijke vraagstukken in steden rondom duurzaamheid, leefbaarheid en werken. Dit vraagt om gedachtevorming over de stad van de toekomst.",
+		"title": "Steden zijn de motor van de kenniseconomie, de creatieve economie wordt steeds belangrijker.\r\r\nStedelijke (economische) ontwikkeling vereist bestuurlijke samenwerking over de grenzen van de stad heen en samenwerking tussen bestuur, bedrijfsleven en burgers.\r\r\nEr spelen belangrijke vraagstukken in steden rondom duurzaamheid, leefbaarheid en werken. Dit vraagt om gedachtevorming over de stad van de toekomst.",
 		"ce_se": "CE",
 		"replaces": [
 			"70e4e88c-fe3b-4ac1-a14b-e250da3bd173",
 			"80d0c219-1962-4ad4-9120-4d96d1ca7dc0"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "310a8003-8737-4af3-83e4-67711e4cfe3f",
-		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland.\r\nLeefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving.\r\nDe leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en de sociale netwerken.\r\nDe beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief.\r\nBij stadsvernieuwing was er sprake van het fysiek opknappen van de woning voorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling) ingegrepen.",
+		"title": "In Nederlandse steden is sprake van relatief beperkte ruimtelijke segregatie in verhouding tot vergelijkbare steden in het buitenland.\r\r\nLeefbaarheid van wijken hangt samen met woningkenmerken, bewonerskenmerken en de woonomgeving.\r\r\nDe leefbaarheid en de sociale veiligheid in de leefomgeving (wijk, buurt) hangen samen met de sociale cohesie en de sociale netwerken.\r\r\nDe beleving van de openbare ruimte, dus ook van de sociale veiligheid van de woonomgeving, is ten dele subjectief.\r\r\nBij stadsvernieuwing was er sprake van het fysiek opknappen van de woning voorraad, bij herstructurering wordt ook in de aard van de woningvoorraad (en daarmee de bevolkingssamenstelling) ingegrepen.",
 		"ce_se": "CE",
 		"replaces": [
 			"95ecbc93-d7b3-471f-9927-d4a14d87898d",
 			"5c2e9bb6-9f51-4c2e-860b-1d432cf8d41e"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "8da5e584-6c64-4426-98a8-5a496a5c1f56",
