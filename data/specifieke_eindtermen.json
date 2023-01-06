@@ -11834,13 +11834,14 @@
 	},
 	{
 		"id": "f5b017bb-ba36-4c28-abfb-1e461e17a5e1",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"prefix": "AK/V/DomeinA/A1/1a.1e",
 		"description": "Kaarten maken",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"8b4200a6-22b8-4c70-a73e-0f97485384b2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "f3d022de-bd06-4761-bd61-98215204cd69",
@@ -15429,7 +15430,6 @@
 		"description": "",
 		"ce_se": "CE",
 		"prefix": "KUA/V/DomeinC/8",
-		"examenprogramma_eindterm_id": [],
 		"syllabus_toelichting_id": [
 			"7749223d-8bcb-43a1-b52a-a9a632c3a39e",
 			"f6d37ec3-69a5-4ae9-9cab-50a41bd48640",
