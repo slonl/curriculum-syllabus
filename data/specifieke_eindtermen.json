@@ -22437,7 +22437,7 @@
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1e",
 		"id": "d9d71853-4b52-438d-840a-b6325406f2bd",
-		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
+		"title": "De leerlingen kan geografische informatie verwerken tot een kaart. Hierbij \r\r\r\n- kiest de leerling de geschikte projectie en schaal \r\r\r\n- kiest de leerlingen voor het geschikte type elementen: punten, lijnen, vlakken of stroompijlen \r\r\r\n- kiest de leerling voor een geschikte klassenindeling \r\r\r\n- kiest de leerling welke informatie (welke elementen en attributen) wordt opgenomen, en hoe die informatie wordt gegeneraliseerd \r\r\r\n- kiest de leerling voor de geschikte cartografische variabele zoals grootte, vorm, richting, kleur en /of grijswaarden. \r\r\r\nDe keuze hangt af van het doel van de kaart, en de kenmerken van de informatie. Afhankelijk van de keuze van het type elementen ontstaan verschillende soorten kaarten zoals stippenkaarten, isolijnenkaarten, anamorfosekaarten.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"3c566dfb-52cb-470c-b7d3-ad9aa46030f5"
@@ -22445,7 +22445,8 @@
 		"description": "Kaarten maken",
 		"replaces": [
 			"a3926f80-8735-4f2d-a018-8776a897f352"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -38887,7 +38888,8 @@
 		"replaces": [
 			"5b009673-0c33-4be1-8e4f-25c213b7e5a9",
 			"63a8ab18-e90f-469b-9c36-43700b234793"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1b",
@@ -38901,7 +38903,8 @@
 		"replaces": [
 			"9cead215-9642-4f41-9cab-dec0d4a65fec",
 			"cef7084f-343f-480f-9b9c-a802bd49925d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1c",
@@ -38915,7 +38918,8 @@
 		"replaces": [
 			"e8c6b5df-458d-43ea-b6a1-5b6e55bf2175",
 			"27aae361-384b-4444-9501-91cb91d5b3cc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.1d",
@@ -38929,7 +38933,8 @@
 		"replaces": [
 			"2bcf086c-c39d-4dde-a36b-d411d8ae281d",
 			"7f0e3c3c-d92d-4b19-be7e-84f640f3cf76"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1a.2a",
@@ -39604,7 +39609,8 @@
 		"description": "",
 		"syllabus_toelichting_id": [
 			"cae5c4b9-d6b2-4262-a286-d2ea775f0833"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "EC/H/DomeinD/4.1a",
