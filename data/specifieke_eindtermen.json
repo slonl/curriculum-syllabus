@@ -65357,5 +65357,47 @@
 		"syllabus_toelichting_id": [
 			"728d012d-b859-4f1f-bf03-221186ca21a0"
 		]
+	},
+	{
+		"id": "280e1e87-f31c-4a17-888f-9334996ca36f",
+		"prefix": "AK/V/DomeinA/A1/1c.3",
+		"title": "De kandidaat kan verschijnselen en gebieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, sociaal-cultureel en demografie).",
+		"description": "",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a9ace1a2-ea8c-40b9-a7f3-b7b2f58b4418"
+		]
+	},
+	{
+		"id": "030c8a5a-6d11-4783-9940-fdb5e2591ac7",
+		"prefix": "AK/V/DomeinB/B1/3a.1",
+		"title": "De kandidaat kan aan het proces van mondialisering/globalisering economische, culturele en politieke, demografische en sociaal-culturele dimensies onderscheiden en aangeven hoe deze dimensies elkaar beïnvloeden.",
+		"description": "",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0bed89a4-9631-4ef5-a8a2-e83e8113df3e"
+		],
+		"syllabus_vakbegrip_id": [
+			"8c3418f4-96ac-4a99-b7f2-9a7608c7bc6b"
+		],
+		"syllabus_toelichting_id": [
+			"07bcb11e-5d7c-4a5b-b463-72ffeba72251"
+		]
+	},
+	{
+		"id": "4fd736d5-8cda-4e54-9dea-cacf5d2e5fb5",
+		"prefix": "AK/V/DomeinD/D1/7b.1a",
+		"title": "De kandidaat kan Zuid-Amerika op hoofdlijnen vergelijken met een andere ontwikkelingsregio op basis van natuurlijke, sociaaleconomische, demografische en sociaal-culturele kenmerken.",
+		"description": "",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6001b9b6-7718-497b-aefe-9cee846ad13b"
+		],
+		"syllabus_vakbegrip_id": [
+			"98d7a1f3-bffc-4e5f-81e7-630c6c410ce5"
+		],
+		"syllabus_toelichting_id": [
+			"a71a888a-d034-4d9c-a88e-df7e1a825936"
+		]
 	}
 ]
