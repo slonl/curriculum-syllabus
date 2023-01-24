@@ -24081,7 +24081,6 @@
 			"0e5099de-67f8-45de-9f3b-768fda8a493c",
 			"907d102e-87d4-4c01-8fd7-5b30daa64b1e",
 			"f75d87e2-3ebe-414b-a0b4-2793abe13a4e",
-			"e42a4485-d619-4fc2-9046-527a16a46c15",
 			"3311874c-df95-4cb5-9dc3-78f2251d74b2",
 			"e38e1812-ace0-4a7d-a932-3299fce70794",
 			"d0c47d13-6315-41c4-97cc-ddd0126d7aa3",
@@ -24097,7 +24096,6 @@
 			"68665bc1-5db8-4be2-9411-d25b78926919",
 			"ba5bee38-4c69-4346-81b9-4eee7264ac34",
 			"74b6b0f7-6342-41e5-8ef7-f93b4863fa3a",
-			"72bc1252-eba2-42a7-ad7c-dcaf3d1abe19",
 			"899a31dc-29c3-4af4-9dde-b2b0d6f333b8",
 			"23033fec-f269-42ac-8c43-380f97a1a0a7",
 			"b19b7b0f-51d7-4f7f-b127-6bad70356352",
@@ -24121,7 +24119,9 @@
 		],
 		"title": "Syllabus Aardrijkskunde havo 2024",
 		"id": "6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
-		"unreleased": true
+		"unreleased": true,
+		"versie": "",
+		"dirty": "1"
 	},
 	{
 		"ingangsdatum": "",
