@@ -65331,5 +65331,31 @@
 			"96585cc8-6b18-403d-9408-ba6ff623423f",
 			"7e2b95f5-d009-4ecc-9b45-09aaac318801"
 		]
+	},
+	{
+		"id": "ed16b34b-fddc-459e-99b7-807980f75527",
+		"prefix": "AK/H/DomeinA/A1/1c.3",
+		"title": "De kandidaat kan verschijnselen en gebieden vanuit verschillende dimensies beschrijven en analyseren (natuur, economie, politiek, sociaal-cultureel en demografie).",
+		"description": "",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"ab42ce67-8ddd-435f-a736-36594c967fd5"
+		],
+		"syllabus_toelichting_id": [
+			"08f7bb48-7a5e-4306-8039-a0c5b9031e19"
+		]
+	},
+	{
+		"id": "ac47b188-aa77-457a-9097-517ad3e737e9",
+		"prefix": "AK/H/DomeinD/D1/9a.2a",
+		"title": "De kandidaat kan economische, sociaal-culturele, demografische en politieke kenmerken van Brazilië beschrijven en aan elkaar relateren.",
+		"description": "",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fad83c3f-e01f-4f93-80d2-7e16cf6810b0"
+		],
+		"syllabus_toelichting_id": [
+			"728d012d-b859-4f1f-bf03-221186ca21a0"
+		]
 	}
 ]
