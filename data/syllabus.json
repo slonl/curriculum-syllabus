@@ -24045,7 +24045,10 @@
 			"45758d08-4855-437e-81f7-15738327295c",
 			"e031c173-9770-47d7-b672-a641d8eb4def",
 			"00867aaa-ad0a-4502-bd8b-2e1516e2bf2d",
-			"bed72612-8e26-41f6-873f-fa24b2701fda"
+			"bed72612-8e26-41f6-873f-fa24b2701fda",
+			"280e1e87-f31c-4a17-888f-9334996ca36f",
+			"030c8a5a-6d11-4783-9940-fdb5e2591ac7",
+			"4fd736d5-8cda-4e54-9dea-cacf5d2e5fb5"
 		],
 		"title": "Syllabus Aardrijkskunde vwo 2024",
 		"id": "55d29a15-a50d-4ff0-a2e0-04b459ae3668",
@@ -24112,13 +24115,14 @@
 			"d7ee8306-cdf2-454c-8a3f-d12904d7730f",
 			"78fd942c-e078-466e-b0bb-e138aa298417",
 			"6c65eca1-0fda-4e64-9b63-c707600cf85c",
-			"4da11ef5-172e-4184-a30f-c3b2d788c9f2"
+			"4da11ef5-172e-4184-a30f-c3b2d788c9f2",
+			"ed16b34b-fddc-459e-99b7-807980f75527",
+			"ac47b188-aa77-457a-9097-517ad3e737e9"
 		],
 		"title": "Syllabus Aardrijkskunde havo 2024",
 		"id": "6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
 		"unreleased": true,
-		"versie": "",
-		"dirty": "1"
+		"versie": ""
 	},
 	{
 		"ingangsdatum": "",
