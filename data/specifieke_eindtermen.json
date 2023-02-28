@@ -11664,13 +11664,13 @@
 		"title": "De kandidaat kan weerkaarten van de Verenigde Staten voor standaardsituaties beschrijven en verklaren.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"74812d84-8450-49d0-a53c-94ea869a7c5c",
 			"ff6c5f71-caac-4f11-8591-5280e79b92b9"
 		],
 		"description": "",
 		"replaces": [
 			"ca19e3c0-dcd5-43ec-b7df-1af4ff247459"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "c5410ae8-f1e8-434a-b06b-4d8ac1d46abb",
