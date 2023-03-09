@@ -28525,7 +28525,9 @@
 		],
 		"replaces": [
 			"0a0b98b4-557a-463d-9ac1-7b045b756a94"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -28540,7 +28542,9 @@
 		],
 		"replaces": [
 			"e90ff464-419b-4250-a286-9805c50d31b7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -28548,12 +28552,13 @@
 		"examenprogramma_domein_id": [
 			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
 		],
-		"title": "De kandidaat kan zelfstandig een probleemstelling formuleren en komen tot autonoom of toegepast beeldend werk\r\r\n- voor kandidaten in het vak tekenen betekent dit komen tot tweedimensionale beelden\r\r\n- voor kandidaten in het vak handenarbeid betekent dit komen tot driedimensionale beelden\r\r\n- voor kandidaten in het vak textiele werkvormen betekent dit komen tot twee- of driedimensionale beelden in textiel\r\r\n- voor kandidaten in het vak audiovisuele vormgeving betekent dit komen tot een geënsceneerde sb/ bg (stilstaand beeld/bewegend beeld) of een documentaire",
+		"title": "De kandidaat kan zelfstandig een probleemstelling formuleren en komen tot autonoom of toegepast beeldend werk\r\r\r\n- voor kandidaten in het vak tekenen betekent dit komen tot tweedimensionale beelden\r\r\r\n- voor kandidaten in het vak handenarbeid betekent dit komen tot driedimensionale beelden\r\r\r\n- voor kandidaten in het vak textiele werkvormen betekent dit komen tot twee- of driedimensionale beelden in textiel\r\r\r\n- voor kandidaten in het vak audiovisuele vormgeving betekent dit komen tot een geënsceneerde sb/ bg (stilstaand beeld/bewegend beeld) of een documentaire",
 		"id": "219bb6c5-bb03-44d0-90d2-131d8d9ed567",
 		"description": "",
 		"replaces": [
 			"195b89ea-a487-47e3-b33e-e05065d0c381"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Leervaardigheden in het vak drama",
