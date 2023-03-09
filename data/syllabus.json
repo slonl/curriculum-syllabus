@@ -24673,5 +24673,38 @@
 		"title": "Syllabus Aardrijkskunde vmbo tl 2024",
 		"id": "d5ee77b2-c58a-4293-8d82-8b2779083288",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"98074bac-0cd1-47df-86a4-c94e1084ba18"
+		],
+		"syllabus_vakleergebied_id": [
+			"d7461634-68a7-43bc-82c8-1afe8a65bdde"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6e5783c4-1655-45ab-93b6-065bd18dff4c",
+			"ed55bea0-e0fc-447f-989b-8941659a63c0",
+			"9d22e895-e94d-45dc-9bce-a2646c1f390e",
+			"999c4126-73ac-4d11-9fdf-42d8b9dc1c95",
+			"533abb64-32a5-4468-b5b4-c7360000625e",
+			"709f86d0-61a7-403e-a864-d29a1e30aeab",
+			"abd8fa64-a120-439f-8cf0-47bdf3b301db",
+			"219bb6c5-bb03-44d0-90d2-131d8d9ed567",
+			"c6b33032-c5fc-4ed1-a4f4-71f1d45e704a",
+			"bba8dee6-a8ec-4cf8-9d82-c770554a8ea2",
+			"3a6043cf-aa3f-47b8-a438-ea650cd7095b",
+			"10fbfab6-e202-4b9c-82a2-146be432f285"
+		],
+		"title": "Syllabus Beeldende vorming vmbo gl 2024",
+		"id": "5325c440-4ade-4798-9638-a8d38c62ec0d",
+		"unreleased": true
 	}
 ]
