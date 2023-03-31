@@ -5826,7 +5826,7 @@
 	},
 	{
 		"id": "44f2ec2a-e7fa-4db4-bfd6-deaaab61d75d",
-		"title": "Voor Havo beperkt het gebruik van speltheorie zich tot de volgende groep van spelen:\r\r\r\n- spelers bewegen simultaan;\r\r\r\n- spelen worden niet herhaald;\r\r\r\n- spelers hebben een dominante strategie;\r\r\r\n- spelers beschikken over dezelfde informatie;\r\r\r\n- er zijn nooit meer dan twee spelers.",
+		"title": "Voor Havo beperkt het gebruik van speltheorie zich tot de volgende groep van spelen:\r\r\r\r\n- spelers bewegen simultaan;\r\r\r\r\n- spelen worden niet herhaald;\r\r\r\r\n- spelers hebben een dominante strategie;\r\r\r\r\n- spelers beschikken over dezelfde informatie;\r\r\r\r\n- er zijn nooit meer dan twee spelers.",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"ced80857-fe65-4232-a740-629b464f7e50"
@@ -5835,7 +5835,8 @@
 		"prefix": "",
 		"replaces": [
 			"77ae3b57-cab9-46f9-ada2-049ee168e17d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e3d5a293-6431-4528-91e7-781f5f1abe1c",
@@ -29182,14 +29183,15 @@
 	},
 	{
 		"id": "649cc1ea-a209-4c4e-a2ab-e09641e499e0",
-		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \r\r\n- de objectieve methode, \r\r\n- subjectieve methode",
+		"title": "De vorming van het BBP (Bruto Binnenlands Product) en NBP (Netto Binnenlands Product) waarbij de volgende methoden kunnen worden onderscheiden: \r\r\r\n- de objectieve methode, \r\r\r\n- subjectieve methode",
 		"ce_se": "CE",
 		"description": "",
 		"replaces": [
 			"81b40e43-492c-4f1a-a127-6bf3f7eea679",
 			"3cf7966c-b882-496d-81c9-23ec15fabacc"
 		],
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"id": "9c606e33-f5fa-4108-853d-b440386e4fb6",
@@ -29319,12 +29321,15 @@
 	},
 	{
 		"id": "53357ccf-e03d-4d91-bcb7-5bf18a98cdd7",
-		"title": "Uitwerking in examenvragen. Bij de informatievaardigheden gaat het om het toetsen van de economische begrippen die in gepresenteerde bronnen, al dan niet expliciet, aan de orde komen. Dit vereist een actieve beheersing van het begrippenapparaat. Tevens zal hier het onderscheid tussen havo en vwo inzichtelijker worden: leerlingen dienen uit de gepresenteerde bronnen, de benodigde gegevens en inzichten te halen die nodig zijn om problemen op te lossen of standpunten toe te lichten. Dit zijn bron-specifieke gegevens en/of economische begrippen zijn die de leerling ook in het antwoord moet gebruiken (de actieve beheersing: herkennen en toepassen). Bovendien kan het nodig zijn de gepresenteerde informatie te beoordelen op bruikbaarheid of relevantie (selecteren wat van belang is voor de gestelde vraag) en daarbij al dan niet te (her)ordenen en te bewerken (rekenkundig of grafisch). \r\nBij examenopgaven kunnen de volgende type informatievaardigheden voorkomen:\r\n- Informatie-selectievraag: het kunnen herkennen en selecteren van de economische begrippen die vallen onder de verschillende concepten.\r\n- informatiebegripsvraag: het kunnen herkennen van de economische begrippen die vallen onder de verschillende concepten en deze economische begrippen verbinden met andere begrippen (al dan niet expliciet benoemd)\r\n- informatiebewerkingsvraag het kunnen herkennen, selecteren en toepassen van de economische begrippen die vallen onder de verschillende concepten in dezelfde of een aanverwante context",
+		"title": "Uitwerking in examenvragen. Bij de informatievaardigheden gaat het om het toetsen van de economische begrippen die in gepresenteerde bronnen, al dan niet expliciet, aan de orde komen. Dit vereist een actieve beheersing van het begrippenapparaat. Tevens zal hier het onderscheid tussen havo en vwo inzichtelijker worden: leerlingen dienen uit de gepresenteerde bronnen, de benodigde gegevens en inzichten te halen die nodig zijn om problemen op te lossen of standpunten toe te lichten. Dit zijn bron-specifieke gegevens en/of economische begrippen zijn die de leerling ook in het antwoord moet gebruiken (de actieve beheersing: herkennen en toepassen). Bovendien kan het nodig zijn de gepresenteerde informatie te beoordelen op bruikbaarheid of relevantie (selecteren wat van belang is voor de gestelde vraag) en daarbij al dan niet te (her)ordenen en te bewerken (rekenkundig of grafisch). \r\r\nBij examenopgaven kunnen de volgende type informatievaardigheden voorkomen:\r\r\n- Informatie-selectievraag: het kunnen herkennen en selecteren van de economische begrippen die vallen onder de verschillende concepten.\r\r\n- informatiebegripsvraag: het kunnen herkennen van de economische begrippen die vallen onder de verschillende concepten en deze economische begrippen verbinden met andere begrippen (al dan niet expliciet benoemd)\r\r\n- informatiebewerkingsvraag het kunnen herkennen, selecteren en toepassen van de economische begrippen die vallen onder de verschillende concepten in dezelfde of een aanverwante context",
 		"ce_se": "CE",
 		"replaces": [
 			"6f7478ea-df72-49e0-8466-37dfdac6e560",
 			"534372a0-ae67-42bd-824a-b2474308b7b9"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "888e751d-79ef-44b5-b653-df73c81f59c5",
@@ -29333,7 +29338,10 @@
 		"replaces": [
 			"ff1d98c1-9388-4a0d-9d77-9fb2421626fa",
 			"443f37fa-d8b8-4342-ae34-d1eebf7abe57"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "5ba0897e-7761-47b1-a319-2387be0932d2",
@@ -29342,16 +29350,22 @@
 		"replaces": [
 			"21439b16-7476-41ec-9456-b3bda64ca4e5",
 			"ad6b9bbb-16fb-41b0-9298-33d4f163cb8c"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "67055ebb-366c-45fc-8f76-2e48d54bd6e7",
-		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.\r\nVoorbeelden van geschikte vraagtypen zijn:\r\n- argumentatievraag (bij een bepaald standpunt)\r\n- standpuntvraag (bij een te kiezen standpunt)\r\n- schrijfopdracht (afweging van meerdere standpunten of meningen)\r\nBij een analyseopdracht moet de kandidaat een langer antwoord produceren dat meerdere aspecten belicht van een of meerdere keuzes. Daarbij wordt soms de keuze gelaten aan de kandidaat, soms is een keuze gegeven en moet deze met argumenten onderbouwd worden. Er wordt een advies gegeven voor het aantal te gebruiken woorden.",
+		"title": "In het CE zal voornamelijk getoetst worden of leerlingen in staat zijn in de opgaven gegeven standpunten te herkennen, te beschrijven en / of te beargumenteren.\r\r\nVoorbeelden van geschikte vraagtypen zijn:\r\r\n- argumentatievraag (bij een bepaald standpunt)\r\r\n- standpuntvraag (bij een te kiezen standpunt)\r\r\n- schrijfopdracht (afweging van meerdere standpunten of meningen)\r\r\nBij een analyseopdracht moet de kandidaat een langer antwoord produceren dat meerdere aspecten belicht van een of meerdere keuzes. Daarbij wordt soms de keuze gelaten aan de kandidaat, soms is een keuze gegeven en moet deze met argumenten onderbouwd worden. Er wordt een advies gegeven voor het aantal te gebruiken woorden.",
 		"ce_se": "CE",
 		"replaces": [
 			"a813fd75-f98a-4207-af99-3ef08fd4d609",
 			"918156cc-d2b0-416d-8710-81bb278b9c28"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"id": "f35006b5-9203-42a1-afbd-095b68838d6b",
