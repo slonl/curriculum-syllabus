@@ -13348,8 +13348,10 @@
 		"examenprogramma_eindterm_id": [
 			"6e32314c-8e75-4c78-810b-d5e4a4ed54e4"
 		],
-		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA. Keynesianen: begrotingsbeleid is krachtig, monetair beleid is zwak; IS-curve is steil: bestedingen reageren weinig op de renteveranderingen; MB verschuift weinig: centrale bank verhoogt rente weinig bij\r\nstijgende inflatie.",
-		"id": "522144b2-154b-4075-8389-39664aca8136"
+		"title": "De kandidaat kan in contexten herkennen en toepassen - Economische scholen en IS-MB-GA. Keynesianen: begrotingsbeleid is krachtig, monetair beleid is zwak; IS-curve is steil: bestedingen reageren weinig op de renteveranderingen; MB verschuift weinig: centrale bank verhoogt rente weinig bij\r\r\nstijgende inflatie.",
+		"id": "522144b2-154b-4075-8389-39664aca8136",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -22561,12 +22563,13 @@
 		"examenprogramma_eindterm_id": [
 			"b035e82b-12ed-4fe6-894d-4eea404a896a"
 		],
-		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \r\r\nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \r\r\nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \r\r\nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \r\r\nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \r\r\nIV Monopolie: één aanbieder.",
+		"title": "Het onderscheid tussen de marktvormen op basis van het aantal marktpartijen, heterogeniteit van de goederen en toetredingsmogelijkheden (1) \r\r\r\nI Volledige mededinging/ volkomen concurrentie: veel aanbieders, een homogeen goed en vrije toetreding. \r\r\r\nMarktvormen waarbij sprake is van onvolkomen concurrentie kennen beperkte toetredingsmogelijkheden: \r\r\r\nII Monopolistische concurrentie: veel aanbieders en heterogene goederen. \r\r\r\nIII Oligopolie: weinig aanbieders en een homogeen goed of heterogene goederen. \r\r\r\nIV Monopolie: één aanbieder.",
 		"id": "4c301bf5-6445-46b6-be92-fb7bca57cb7a",
 		"description": "",
 		"replaces": [
 			"cda7117e-9616-481b-a0f5-48f53736a5f5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -22574,12 +22577,13 @@
 		"examenprogramma_eindterm_id": [
 			"606db1ca-d70b-4c8d-90a0-de881412db06"
 		],
-		"title": "De kandidaat kan in contexten herkennen en toepassen de levensloop binnen gezinshuishoudingen en de rol van de overheid met daarbij: \r\r\n- welvaartsvaste- of waardevaste pensioenen \r\r\n- het omslagstelsel en het kapitaaldekkingsstelsel als het gaat om de financiering van het pensioen \r\r\n- intergenerationele ruil.",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de levensloop binnen gezinshuishoudingen en de rol van de overheid met daarbij: \r\r\r\n- welvaartsvaste- of waardevaste pensioenen \r\r\r\n- het omslagstelsel en het kapitaaldekkingsstelsel als het gaat om de financiering van het pensioen \r\r\r\n- intergenerationele ruil.",
 		"id": "fe8d9095-4eef-4b0e-90dc-f9172158c7bb",
 		"description": "",
 		"replaces": [
 			"c679195c-2aad-4473-9352-8f06c1415395"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -22613,12 +22617,13 @@
 		"examenprogramma_eindterm_id": [
 			"1947057d-1d42-441e-8d26-40604b001d1d"
 		],
-		"title": "De kandidaat kan in contexten herkennen en toepassen principaal-agentrelaties, het risico op averechtse selectie en moral hazard. \r\r\nTe denken valt aan: * opdrachtgever – opdrachtnemer * vermogensverschaffer(eigendom) – ondernemer(leiding) * kredietgever - kredietnemer",
+		"title": "De kandidaat kan in contexten herkennen en toepassen principaal-agentrelaties, het risico op averechtse selectie en moral hazard. \r\r\r\nTe denken valt aan: * opdrachtgever – opdrachtnemer * vermogensverschaffer(eigendom) – ondernemer(leiding) * kredietgever - kredietnemer",
 		"id": "6bb19b63-4937-4051-a32b-228a63a49ec6",
 		"description": "",
 		"replaces": [
 			"4ae69f3b-7bb3-4c88-af1a-c1c4d7e9cba7"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -46390,7 +46395,9 @@
 		"id": "64652c9b-391b-42e5-86f0-d30c058e1b08",
 		"replaces": [
 			"17959bb5-584f-4cfa-8516-132df9e9872b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46402,7 +46409,9 @@
 		"id": "ea88cccb-5673-474c-a10b-e6da457ae16f",
 		"replaces": [
 			"f52e527c-199e-4a5b-914f-bd8f2c4aa1c2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46414,7 +46423,9 @@
 		"id": "d7389d31-7b12-4979-b586-4c1b4842017c",
 		"replaces": [
 			"4ae750e8-4718-4809-99c6-b6ada1516874"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46426,7 +46437,9 @@
 		"id": "2fd01b5e-f1ef-4917-807a-d3e60e476501",
 		"replaces": [
 			"4a57a97c-ccbc-4c6e-8744-c31109ed87fb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46438,7 +46451,9 @@
 		"id": "d5fd8c05-dfb2-43ec-9bfb-5a9d7ff67628",
 		"replaces": [
 			"eee9361d-38db-447a-878b-7ec477381485"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46450,7 +46465,9 @@
 		"id": "6d23bcdd-3055-4e97-b9b5-9c0256eb8566",
 		"replaces": [
 			"aa802714-7374-42a8-9413-a8166982c38a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46462,7 +46479,9 @@
 		"id": "20857ad9-7f0e-4606-b117-181f0b2db2d4",
 		"replaces": [
 			"696696a8-edba-4a54-a728-acafa31fd22a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46474,7 +46493,9 @@
 		"id": "675d792f-219f-4900-9fd3-6d35a45ea29e",
 		"replaces": [
 			"6d2088b3-3801-4705-b4fb-b60c2f75279e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46486,7 +46507,9 @@
 		"id": "df464f56-080e-465b-a560-4375f88edece",
 		"replaces": [
 			"43ae14b3-9f4c-4562-aec8-ad86c44d0a06"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46498,7 +46521,9 @@
 		"id": "a5168a5c-03ad-4550-a1dd-7c5a78b1f610",
 		"replaces": [
 			"17be366f-67cd-4998-af0a-b9a0147b8bb2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46510,7 +46535,9 @@
 		"id": "6f49028f-7920-4a28-9a2f-e3b7f184d7b3",
 		"replaces": [
 			"9f16c05d-0c98-44e9-ba59-be29d77d422b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46522,7 +46549,9 @@
 		"id": "82c9060e-8531-4a81-9a0e-14eefad97bf8",
 		"replaces": [
 			"15dd3e88-46d9-4c00-a4df-483a76323c01"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46534,7 +46563,9 @@
 		"id": "d25a4db8-377e-4573-8018-476e20824555",
 		"replaces": [
 			"bcea1065-bc75-43ba-8672-379ccba6ac43"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46546,7 +46577,9 @@
 		"id": "54a226a7-1b4d-4b07-8e2a-351b506f79a2",
 		"replaces": [
 			"b7fb1c04-793a-427b-9eea-4670dd1be273"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46558,7 +46591,9 @@
 		"id": "3c55f154-9b68-48ab-b712-77b05c49e7d0",
 		"replaces": [
 			"ab56066f-3e06-4503-b4ef-99f6d8827e99"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46570,7 +46605,9 @@
 		"id": "ed9f7af6-c20e-4657-99a1-bb36519ddf1b",
 		"replaces": [
 			"a39c163e-8e39-4760-a792-8b0d5dba7e43"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46582,7 +46619,9 @@
 		"id": "c352fa1a-47b5-4bce-98f2-6ae7287e7eb2",
 		"replaces": [
 			"d2c38ba7-4a2f-4741-bfb3-b5799ca00f76"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46594,7 +46633,9 @@
 		"id": "22caa46a-ff4a-48ed-a46c-a8b69b1297a9",
 		"replaces": [
 			"cf345768-c0a4-4b7e-823d-649757a5f842"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46606,7 +46647,9 @@
 		"id": "fa70440f-9300-45ce-b055-8f90d9d5e19e",
 		"replaces": [
 			"fc6aaeab-ba2c-4eb4-b365-1186e6a64541"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46618,7 +46661,9 @@
 		"id": "1c1d898d-2a13-4d58-9a3c-2a94a8a47753",
 		"replaces": [
 			"8f15a400-e4f4-4233-9c47-4add0e80bbe9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46630,7 +46675,9 @@
 		"id": "c462756c-965b-4f5d-923f-9a2b5a66cdfa",
 		"replaces": [
 			"f3721e4d-cf6a-49c3-b11c-9cd6871c1256"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46642,7 +46689,9 @@
 		"id": "c4589def-8cba-4e84-83ca-6c082856c5c3",
 		"replaces": [
 			"6b393c35-d957-4f8f-8655-aa79eb068b83"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46654,7 +46703,9 @@
 		"id": "d79b1b03-1bef-46a3-a3a7-14089153c891",
 		"replaces": [
 			"308008e2-64bf-46d3-887a-f675827b3167"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46666,7 +46717,9 @@
 		"id": "2d987199-2f2c-455e-a355-3c04a63a6389",
 		"replaces": [
 			"6a4bb8a7-f796-4fbb-a9dc-4128b13f864b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46678,7 +46731,9 @@
 		"id": "cf0c626e-913f-4758-bd85-01fcf28dfef6",
 		"replaces": [
 			"81ac4123-0686-4c6b-b671-dcd39f7e86f7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46690,7 +46745,9 @@
 		"id": "a179e7b3-83cf-49d3-ab3c-f23abdf2ff23",
 		"replaces": [
 			"4cd65102-86b8-49b6-93ce-52bd622182ba"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46702,7 +46759,9 @@
 		"id": "f99d3fb5-809b-4a8b-8d0a-fde80923bba7",
 		"replaces": [
 			"ea6dfbf2-66b4-447b-b889-ed157bfc7f53"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46714,7 +46773,9 @@
 		"id": "b19b120e-771d-4af6-bb57-93db93f58f23",
 		"replaces": [
 			"2f0c1d51-d2e0-466b-9ed2-7b551b62a733"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46726,7 +46787,9 @@
 		"id": "4ddd0fd7-a941-4b6c-90be-28186300b5db",
 		"replaces": [
 			"1b6a4e6b-19d4-4954-b763-f4c4b265ff49"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46738,7 +46801,9 @@
 		"id": "05bd878f-6564-48d7-b854-2273aeadfa87",
 		"replaces": [
 			"9bc0adc0-fdaf-4477-b79e-f3cc7cc622f8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46750,7 +46815,9 @@
 		"id": "3e6a69d5-5291-4e58-8e5a-4331e4aae508",
 		"replaces": [
 			"5b8200ae-1606-4b5d-bd50-cfed37b26aab"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46762,7 +46829,9 @@
 		"id": "30a23d77-3b14-48da-af45-a09aa3bf9acf",
 		"replaces": [
 			"e1d73449-d42a-496b-9942-130e79824959"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46774,7 +46843,9 @@
 		"id": "cdedd510-fc2e-41ce-916c-c1a27390a7d9",
 		"replaces": [
 			"314bbbcf-4613-4335-b4af-36404cb6d353"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46786,7 +46857,9 @@
 		"id": "2f9bdfa5-bb66-41a5-a0da-87967851bde0",
 		"replaces": [
 			"1a2b989e-dcc0-49a3-a302-480c261860bc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46798,7 +46871,9 @@
 		"id": "b5a5e5c2-bf26-4f04-a661-2174cac21856",
 		"replaces": [
 			"b7a48deb-701f-4cef-9aa9-22e912cb978f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46810,7 +46885,9 @@
 		"id": "d7a61c2f-7b6e-4ba0-a61b-80a1f4762dba",
 		"replaces": [
 			"7e2a8a59-0b97-4953-a930-e51e67d2e97e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46822,7 +46899,9 @@
 		"id": "a071e7ac-744a-4843-b734-1d5b1cc93cbe",
 		"replaces": [
 			"63e69251-d173-42c7-ad9e-e3a043bccd46"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46834,7 +46913,9 @@
 		"id": "50bc5eb4-ab24-4375-bb04-cc3b03541d7f",
 		"replaces": [
 			"f9f64d78-7b88-4e6b-a28f-1c826ddca5df"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46846,7 +46927,9 @@
 		"id": "a790c9a6-4bd9-4e8c-9347-1e8f70458a16",
 		"replaces": [
 			"8eb8911a-3f44-4dda-909f-7248e75e00e1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46858,7 +46941,9 @@
 		"id": "cbcf69a3-f199-44db-8521-e3f5fd7ba4f5",
 		"replaces": [
 			"1ccc04a7-be89-4199-b065-3da624d86a2d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46870,7 +46955,9 @@
 		"id": "d14fca2d-8f15-431d-a557-815f61a0b411",
 		"replaces": [
 			"055aa589-baeb-4479-9625-181b30e1cffa"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46882,7 +46969,9 @@
 		"id": "4c3c124b-36b5-4863-9360-da5d61da9ae7",
 		"replaces": [
 			"89f61ca5-7ce4-4061-8b5e-7ae1c4dbbe62"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46894,7 +46983,9 @@
 		"id": "5f6dba56-beb6-4797-ac88-cdd9deff5389",
 		"replaces": [
 			"314d681b-5b8d-4dd4-8c47-2549385c26c1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46906,7 +46997,9 @@
 		"id": "2074decd-ef19-42b2-8fe9-0e7095487dd2",
 		"replaces": [
 			"b3382b64-87d8-46e6-953d-6f2889f63a8a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46918,7 +47011,9 @@
 		"id": "a3fec0e6-ff33-4c7a-974d-8a5bec70580d",
 		"replaces": [
 			"36590c39-4040-4893-9deb-ae441bd5705a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46930,7 +47025,9 @@
 		"id": "31d2b092-8ac1-4c9c-8426-831967aa24e5",
 		"replaces": [
 			"0af6c31b-47dc-4062-9276-9570213c1a02"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46942,7 +47039,9 @@
 		"id": "5839b007-1390-40b5-b5a6-f8784b93dd47",
 		"replaces": [
 			"57165c59-f38f-4da2-97ad-7230b836fece"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46954,7 +47053,9 @@
 		"id": "da3faa9d-cbce-47c1-a2b8-8377380d54d3",
 		"replaces": [
 			"732037c7-1a28-4a04-803d-8743bc1e7619"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46966,7 +47067,9 @@
 		"id": "ea22faaf-bf40-4d8e-a1b3-e7eaef949aae",
 		"replaces": [
 			"050137d8-0ab3-4b44-988d-7f50b7d3e1cf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46978,7 +47081,9 @@
 		"id": "301aebc2-b5ae-4846-8e20-f5361f301ae8",
 		"replaces": [
 			"e1093b6f-1fdc-4baf-99ff-8f4c2a08adf6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -46990,7 +47095,9 @@
 		"id": "a6b8a2ca-4e17-4cfa-ba57-7fcfee58e185",
 		"replaces": [
 			"c71c86d9-4dff-4289-9afe-0a5d7a7697e9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47002,7 +47109,9 @@
 		"id": "c0b50df4-0a2b-4f07-af9a-5619cb7e6548",
 		"replaces": [
 			"3e11eb2b-0926-4dc6-8267-424c978d3341"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47014,7 +47123,9 @@
 		"id": "20cd6b12-0fdc-403c-97c9-11215c0e946b",
 		"replaces": [
 			"d22d19e4-0125-4425-a075-db31e0841a64"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47026,7 +47137,9 @@
 		"id": "17da8e4b-25ef-4878-9e29-da3329983ab1",
 		"replaces": [
 			"c836de31-afdc-4802-93e8-751a4f2186bf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47038,7 +47151,9 @@
 		"id": "5632b35c-e83b-4437-be0f-2e03fc601259",
 		"replaces": [
 			"106f862d-f832-43ee-8213-a062b14f6654"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47050,7 +47165,9 @@
 		"id": "7d736709-991a-4bc6-9901-0c635c4317f9",
 		"replaces": [
 			"1c68ba38-4028-484c-9c76-331afcd585a8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47062,7 +47179,9 @@
 		"id": "4123009f-49b7-4491-a8e9-ddbecc65b40d",
 		"replaces": [
 			"173806b9-50c1-4ab9-8ccc-a9662a0f304a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47074,7 +47193,9 @@
 		"id": "1cb15034-c41b-4d8a-960b-302a1b077797",
 		"replaces": [
 			"8262d26d-a8f8-4b73-849d-3abce159273f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47086,7 +47207,9 @@
 		"id": "63387a4e-13f7-45e3-864c-a35a6fa08741",
 		"replaces": [
 			"84f44dc1-875e-43bd-8e18-ee7bf4f698ff"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47094,11 +47217,13 @@
 		"examenprogramma_eindterm_id": [
 			"b035e82b-12ed-4fe6-894d-4eea404a896a"
 		],
-		"title": "De kandidaat kan in contexten herkennen en toepassen de onderverdeling van totale kosten in vaste kosten en variabele kosten.",
+		"title": "De kandidaat kan in contexten herkennen en toepassen de onderverdeling van totale kosten in vaste/constante kosten en variabele kosten.",
 		"id": "3dafbf52-afef-4116-97e6-558030c31d02",
 		"replaces": [
 			"f4cae795-71a3-47d2-bbd0-b33aae6a7cbf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47110,7 +47235,9 @@
 		"id": "15117222-fb9b-49f8-828d-a96e16a0c96a",
 		"replaces": [
 			"47a57026-a83e-4ccd-b013-1a73b991b162"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47122,7 +47249,9 @@
 		"id": "a02c1575-307a-4add-942e-4f584b8f17a0",
 		"replaces": [
 			"2df74887-87c6-41a6-9df7-86efe4bfaabb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47134,7 +47263,9 @@
 		"id": "400a0cdd-ef35-45ee-a49d-76bfa4a9bb83",
 		"replaces": [
 			"46993bf7-3057-4cd4-a91d-20f7ad936ff5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47146,7 +47277,9 @@
 		"id": "290739c2-dc08-4382-b4de-e7c48bdc9296",
 		"replaces": [
 			"08b05206-53b5-4b5a-a8cd-e58832d223cb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47158,7 +47291,9 @@
 		"id": "ad4d267d-22b5-492b-a3fe-11f12a944dcc",
 		"replaces": [
 			"95b35589-7c57-43fc-a475-6b87bbcab526"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47170,7 +47305,9 @@
 		"id": "5d05bab1-6199-4f9c-968f-1f1bc758972b",
 		"replaces": [
 			"870611e2-b3a7-491d-af2b-8048f493b1af"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47182,7 +47319,9 @@
 		"id": "e5f2867d-07ae-4548-be37-14b91e214c14",
 		"replaces": [
 			"6a333452-9f47-4a32-a91c-8174cc29c0a0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47194,7 +47333,9 @@
 		"id": "253d8375-90a2-4591-bee4-3cd7d2581ae8",
 		"replaces": [
 			"64e85ee6-ea6e-4833-a840-a9e114651658"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47206,7 +47347,9 @@
 		"id": "d5712218-0433-402d-aae7-934f14a3e8b1",
 		"replaces": [
 			"e216e0c8-77db-4e2b-aafc-91b667b75c2e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47218,7 +47361,9 @@
 		"id": "9b7efc54-90d0-4dad-8004-e1ff96d586a5",
 		"replaces": [
 			"cf660c67-32bf-430b-acf9-c7da2c5f3147"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47230,7 +47375,9 @@
 		"id": "52846792-2e89-41a6-817e-72fa5eb3db95",
 		"replaces": [
 			"cd8e2cfb-ddbd-4c52-8199-1d29432965da"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47242,7 +47389,9 @@
 		"id": "ccfb2285-4d46-4d0e-be1f-859581701a77",
 		"replaces": [
 			"73d0f4ca-0fd0-4417-8ba4-16d80f4aa6c8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47254,7 +47403,9 @@
 		"id": "6632b8bc-0317-4d95-9a33-6de0a99f5f73",
 		"replaces": [
 			"aea7ccc7-e12f-4dff-af61-b0efbd60c94e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47266,7 +47417,9 @@
 		"id": "56318f66-4873-4677-b780-f502f19f428d",
 		"replaces": [
 			"c701b042-5b44-4e21-bf8f-a8fc69d4de44"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47314,7 +47467,9 @@
 		"id": "957a10de-4097-4fed-a584-753685d0a42c",
 		"replaces": [
 			"3ed6fb5d-bc57-4c3c-88d6-aa658e75f69e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47326,7 +47481,9 @@
 		"id": "23a09d93-2620-4bcb-abf3-79342e50adb5",
 		"replaces": [
 			"c26c629a-9774-464f-b6d8-30ce2734b392"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47338,7 +47495,9 @@
 		"id": "3ff58f2c-1e99-4701-9700-0049759a3c8a",
 		"replaces": [
 			"278b7ccf-f5a4-4a27-a88f-2a7cd0e67b33"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47350,7 +47509,9 @@
 		"id": "b2244b35-f637-4aa5-a88e-1f984c507748",
 		"replaces": [
 			"d1d1e1a7-14e1-4e1e-b866-46c54d762efd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47362,7 +47523,9 @@
 		"id": "6672f9df-eb0b-450f-947f-13c040a55977",
 		"replaces": [
 			"3afb0ea5-5d86-4a76-abbc-3fa659dd737c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47374,7 +47537,9 @@
 		"id": "ed3e0740-00e9-4706-97ee-f31bde8a690e",
 		"replaces": [
 			"1772ecd1-a52b-4e7f-8c12-d0a8fb07052a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47386,7 +47551,9 @@
 		"id": "526e1646-70cc-4cd5-8de6-2926f6b7e912",
 		"replaces": [
 			"d11826ea-9325-4109-afdc-1bf4f9a34701"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47398,7 +47565,9 @@
 		"id": "f8398e9c-cbd4-49c3-be3c-e273a6841e24",
 		"replaces": [
 			"2adb5760-26d9-49f2-a9f2-e6e6153d349e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47410,7 +47579,9 @@
 		"id": "93bead56-e739-4cc1-9c2e-f2d23868ea64",
 		"replaces": [
 			"fe7da487-c011-42f9-8680-275dbf8b297b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47446,7 +47617,9 @@
 		"id": "365d5fe3-47b9-4e15-bc33-fb4573dcaab6",
 		"replaces": [
 			"571084f2-7337-4271-95be-d2e90496299a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47458,7 +47631,9 @@
 		"id": "0163c829-68c6-4e30-acc5-5ffd731fc7f6",
 		"replaces": [
 			"82ea8232-7aaa-4b95-ae8f-69102af4fe19"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47470,7 +47645,9 @@
 		"id": "a4ba0e92-cc83-43e4-86f3-f2d412b72d72",
 		"replaces": [
 			"e53274be-8aff-4262-8742-28bf48f9c479"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47482,7 +47659,9 @@
 		"id": "844eb7c3-1802-46b9-8141-e0f1a90124d6",
 		"replaces": [
 			"25350754-791d-4091-981b-14096963852c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47494,7 +47673,9 @@
 		"id": "b55ee25b-b7d1-4e53-86e8-b61c236bbb62",
 		"replaces": [
 			"1872d529-cff8-4462-9c98-7e05bbf54dba"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47506,7 +47687,9 @@
 		"id": "ec2495cb-0737-45d9-b0b9-9106ffe92170",
 		"replaces": [
 			"b321f83b-d1a5-4932-a018-b879c0998dab"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47518,7 +47701,9 @@
 		"id": "71b1de55-33e4-4779-a928-45fed3840847",
 		"replaces": [
 			"56064ff9-138b-49db-95ea-c86838f1d02f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47542,7 +47727,9 @@
 		"id": "01ae045c-2bc6-4e12-92b3-fecbaed091b5",
 		"replaces": [
 			"e438a167-5dc1-4aa7-aa3a-4f95d8e991de"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47554,7 +47741,9 @@
 		"id": "9c000c33-b265-45dd-a958-a5eb970aa681",
 		"replaces": [
 			"79492ef7-0119-4da9-a9d4-d24a031f5c62"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47566,7 +47755,9 @@
 		"id": "7832f8bc-9f8d-45de-96e7-1388d3a4b447",
 		"replaces": [
 			"6e49cd9f-dbd4-4d90-915c-386795aa9cbd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47578,7 +47769,9 @@
 		"id": "26b61ebc-76fa-4bc5-80c6-2649066f1a47",
 		"replaces": [
 			"b55f0200-5b86-4090-b798-96ebb3817fa2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47590,7 +47783,9 @@
 		"id": "39c49453-3fdd-4391-9e9c-90727f3a0220",
 		"replaces": [
 			"4240e768-723a-46f3-ab3c-b2ee2bd4c208"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47626,7 +47821,9 @@
 		"id": "2c849b19-0c7d-462d-9e7f-5186dcb6e9a7",
 		"replaces": [
 			"61f78a5e-66e3-4365-b927-c7872305d473"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47638,7 +47835,9 @@
 		"id": "8d600119-ce26-493f-94e0-420e36c94884",
 		"replaces": [
 			"ce151313-109d-45e8-a673-ba480f1bbe27"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47650,7 +47849,9 @@
 		"id": "609cbc9c-5ac8-48c4-af74-4c49d40324fa",
 		"replaces": [
 			"18875be3-55a4-47ee-9a65-3ec0e3f8b25f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47662,7 +47863,9 @@
 		"id": "91d6835c-7646-47f0-90ab-fdecbdfa4484",
 		"replaces": [
 			"e3c91f6e-f2d6-4048-92e5-89cf473bf824"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47674,7 +47877,9 @@
 		"id": "f871cd3d-a894-4d10-a107-551cf6055e0b",
 		"replaces": [
 			"0b87ba6e-cd33-44ac-8e63-7705fdd003d7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47686,7 +47891,9 @@
 		"id": "9a93186f-9ffe-4ba8-8616-49d12bb589a2",
 		"replaces": [
 			"6e5d0565-3a8e-44af-a26d-713b4536d2b6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47698,7 +47905,9 @@
 		"id": "c49b4fad-bae1-4b9f-b052-bbb47d16869d",
 		"replaces": [
 			"42c9b72c-028f-4e1b-bf4b-74c8d51b9b39"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47710,7 +47919,9 @@
 		"id": "7546e108-7028-45c6-8f5e-1da5da37d12c",
 		"replaces": [
 			"811f3d31-c4e0-456a-8891-a9bf682f4161"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47722,7 +47933,9 @@
 		"id": "64f1737e-3334-4fa3-b069-9b59de10090a",
 		"replaces": [
 			"87f0659d-eefc-478b-bbd2-b60b5057f328"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47734,7 +47947,9 @@
 		"id": "036592a0-69a9-442a-ae02-e46599652ecc",
 		"replaces": [
 			"41a28e03-7a10-4616-8bce-091011b2ec0e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47746,7 +47961,9 @@
 		"id": "f35a1825-c827-4882-8f57-0124cb91c8f7",
 		"replaces": [
 			"812aa823-a611-4d57-bb49-07a9a5d0c6ac"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47758,7 +47975,9 @@
 		"id": "547b11d0-d3d2-4fc8-9212-83c45e846663",
 		"replaces": [
 			"c54b1ae7-a5bd-4e99-b396-910755440db4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47770,7 +47989,9 @@
 		"id": "861cb135-3716-4fc4-844b-01642499b8f5",
 		"replaces": [
 			"670d4a00-96f0-40ff-b32d-9466b8cba745"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47782,7 +48003,9 @@
 		"id": "3200ed61-6b9a-45a3-b73d-0cf7afcac037",
 		"replaces": [
 			"30fb01bb-179b-4d75-90e5-2706050f83f1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47794,7 +48017,9 @@
 		"id": "109e7569-0be3-4a5c-af52-0d2aea5f8366",
 		"replaces": [
 			"ea449c82-55b7-45d9-9cf3-2ed535202da5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47806,7 +48031,9 @@
 		"id": "6442d28b-bd86-4426-8c5e-4c12dc324bd0",
 		"replaces": [
 			"57ae9a1b-6153-4a0e-bd38-2f0b4b3a8820"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47818,7 +48045,9 @@
 		"id": "bf17c4b5-df7d-4fa3-a435-455ef4160922",
 		"replaces": [
 			"c0a7d8cb-4a5b-494e-ab08-6cb0a2257d2f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47830,7 +48059,9 @@
 		"id": "368b03fe-c187-4856-aa54-532a3373c637",
 		"replaces": [
 			"f02b1d67-dc51-46a6-9ecc-5b8eaa427f7d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -47842,7 +48073,9 @@
 		"id": "435a8a07-672c-4246-aa36-f0049bee5c06",
 		"replaces": [
 			"67ac97c0-e957-4649-9edc-d4c6f73803f4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
