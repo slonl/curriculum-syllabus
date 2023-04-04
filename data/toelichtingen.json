@@ -11883,7 +11883,10 @@
 		"id": "e80218db-38ca-462c-8e89-1e33a8d82879",
 		"replaces": [
 			"ac0495af-5ea3-4597-8d8b-25fe1eda6166"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -11899,7 +11902,10 @@
 		"id": "d5a871b1-a425-47f2-9c2e-86ec6adf6108",
 		"replaces": [
 			"2416890e-05fa-4914-b069-eb8279b5662a"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
@@ -11916,7 +11922,9 @@
 		"id": "40a1bebb-3fe9-4c2e-b783-b59ad67906c6",
 		"replaces": [
 			"0efcb8a0-7a9c-45c3-81cf-9ba36cd82656"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -11925,71 +11933,86 @@
 		"id": "6790e069-ebed-40a7-b993-17e3d0e37d9e",
 		"replaces": [
 			"40da9ed5-07a5-4700-a51e-10e7239e92f6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij ordening aanbrengen in historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\n- historische gebeurtenissen, verschijnselen, ontwikkelingen en personen plaatsen in historische perioden en in maatschappijtypen\r\n- verschijnselen uit verschillende perioden en samenlevingen vergelijken\r\n- in historische processen aspecten van continuïteit en verandering herkennen",
+		"title": "In dat verband kan hij/zij ordening aanbrengen in historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\n- historische gebeurtenissen, verschijnselen, ontwikkelingen en personen plaatsen in historische perioden en in maatschappijtypen\r\r\n- verschijnselen uit verschillende perioden en samenlevingen vergelijken\r\r\n- in historische processen aspecten van continuïteit en verandering herkennen",
 		"id": "7db73341-b675-404d-87e3-49c2880a57b0",
 		"replaces": [
 			"ffdc22cc-18db-44ba-8926-4432b8f7a354"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij ordening aanbrengen in historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\n- historische gebeurtenissen, verschijnselen, ontwikkelingen en personen plaatsen in historische perioden en in maatschappijtypen\r\r\n- verschijnselen uit verschillende perioden en samenlevingen vergelijken\r\r\n- in historische processen aspecten van continuïteit en verandering herkennen\r\r\n- veranderingen onderscheiden naar de snelheid waarmee deze plaatsvinden, van schoksgewijs tot geleidelijk.",
+		"title": "In dat verband kan hij/zij ordening aanbrengen in historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\r\n- historische gebeurtenissen, verschijnselen, ontwikkelingen en personen plaatsen in historische perioden en in maatschappijtypen\r\r\r\n- verschijnselen uit verschillende perioden en samenlevingen vergelijken\r\r\r\n- in historische processen aspecten van continuïteit en verandering herkennen\r\r\r\n- veranderingen onderscheiden naar de snelheid waarmee deze plaatsvinden, van schoksgewijs tot geleidelijk.",
 		"id": "d367be8f-9574-46a6-aec8-bf5951f2c110",
 		"description": "",
 		"prefix": "",
 		"replaces": [
 			"009d8fe6-ce14-49d5-8822-e077643bd910"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij op basis van gegeven werkmateriaal verklaringen geven voor historische gebeurtenissen, verschijnselen en ontwikkelingen:\r\n- de aanleiding herkennen als de meest directe oorzaak\r\n- herkennen hoe oorzaken van verschillende aard historische processen beïnvloeden",
+		"title": "In dat verband kan hij/zij op basis van gegeven werkmateriaal verklaringen geven voor historische gebeurtenissen, verschijnselen en ontwikkelingen:\r\r\n- de aanleiding herkennen als de meest directe oorzaak\r\r\n- herkennen hoe oorzaken van verschillende aard historische processen beïnvloeden",
 		"id": "e28deaef-def1-4a61-bb49-2dc8c283e698",
 		"replaces": [
 			"e0be6517-8c2e-4141-a1ed-3ec66474044f"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij op basis van gegeven werkmateriaal verklaringen geven voor historische gebeurtenissen, verschijnselen en ontwikkelingen:\r\r\n- de aanleiding herkennen als de meest directe oorzaak\r\r\n- herkennen hoe oorzaken van verschillende aard historische processen beïnvloeden\r\r\n- directe en indirecte oorzaken onderscheiden\r\r\n- onderscheid maken tussen oorzaken van meer en minder belang\r\r\n- gevolgen die op korte termijn spelen, onderscheiden van gevolgen op lange termijn.",
+		"title": "In dat verband kan hij/zij op basis van gegeven werkmateriaal verklaringen geven voor historische gebeurtenissen, verschijnselen en ontwikkelingen:\r\r\r\n- de aanleiding herkennen als de meest directe oorzaak\r\r\r\n- herkennen hoe oorzaken van verschillende aard historische processen beïnvloeden\r\r\r\n- directe en indirecte oorzaken onderscheiden\r\r\r\n- onderscheid maken tussen oorzaken van meer en minder belang\r\r\r\n- gevolgen die op korte termijn spelen, onderscheiden van gevolgen op lange termijn.",
 		"id": "711e68be-fc49-49fc-81f5-9dccf177153c",
 		"description": "",
 		"prefix": "",
 		"replaces": [
 			"40b0c178-dc17-4dd9-a9b8-fdd5f2db21f5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij zich op basis van historische gegevens een beeld vormen van historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\n- rekening houdend met de standplaatsgebondenheid van de bronnen",
+		"title": "In dat verband kan hij/zij zich op basis van historische gegevens een beeld vormen van historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\n- rekening houdend met de standplaatsgebondenheid van de bronnen",
 		"id": "4425a7a6-e1f4-415f-bfc5-0d4062391a0c",
 		"replaces": [
 			"35a76cba-e3fa-4c3e-b75f-0c3f3519479b"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij zich op basis van historische gegevens een beeld vormen van historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\n- rekening houdend met de standplaatsgebondenheid van de bronnen\r\r\n- rekening houdend met de eigen standplaatsgebondenheid\r\r\n- vaststellen waardoor de standplaatsgebondenheid bepaald werd/ wordt.",
+		"title": "In dat verband kan hij/zij zich op basis van historische gegevens een beeld vormen van historische gebeurtenissen, verschijnselen, ontwikkelingen en personen:\r\r\r\n- rekening houdend met de standplaatsgebondenheid van de bronnen\r\r\r\n- rekening houdend met de eigen standplaatsgebondenheid\r\r\r\n- vaststellen waardoor de standplaatsgebondenheid bepaald werd/ wordt.",
 		"id": "4c8bfd85-37e3-4f21-bf2b-3c0802e65561",
 		"description": "",
 		"prefix": "",
 		"replaces": [
 			"94db7f6e-66b9-4c46-a813-74dcc86a42fe"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
-		"title": "In dat verband kan hij/zij een eigen standpunt over historische gebeurtenissen, verschijnselen en ontwikkelingen weergeven en toelichten:\r\r\n- zich verplaatsen in opvattingen, waarden en motieven van mensen in het verleden, er rekening mee houdend dat zij niet over dezelfde kennis konden beschikken als wij nu\r\r\n- opvattingen, waarden en motieven, waardoor mensen in het verleden werden geleid, vergelijken met die van zichzelf en tijdgenoten",
+		"title": "In dat verband kan hij/zij een eigen standpunt over historische gebeurtenissen, verschijnselen en ontwikkelingen weergeven en toelichten:\r\r\r\n- zich verplaatsen in opvattingen, waarden en motieven van mensen in het verleden, er rekening mee houdend dat zij niet over dezelfde kennis konden beschikken als wij nu\r\r\r\n- opvattingen, waarden en motieven, waardoor mensen in het verleden werden geleid, vergelijken met die van zichzelf en tijdgenoten",
 		"id": "f4ac04f6-f9c0-4505-bd23-05fa8e40bc23",
 		"description": "",
 		"prefix": "",
 		"replaces": [
 			"158cc228-b3d0-498f-a95e-16937ab140a1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
