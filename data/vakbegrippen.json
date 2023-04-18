@@ -8710,11 +8710,12 @@
 		],
 		"title": "traagheid",
 		"id": "94b608fd-8d17-491f-baca-eaffdf6149a1",
-		"description": "",
+		"description": "natuurkunde",
 		"prefix": "",
 		"replaces": [
 			"3ff9c66a-0481-4e1b-a36c-a760ab54de2e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -9869,7 +9870,7 @@
 	{
 		"description": "natuurkunde",
 		"ce_se": "CE",
-		"title": "voortplantingssnelheid",
+		"title": "voorplantingssnelheid",
 		"id": "c517ef3f-52f3-4bab-8651-51374719793f",
 		"unreleased": true
 	},
@@ -9955,7 +9956,7 @@
 	{
 		"description": "natuurkunde",
 		"ce_se": "CE",
-		"title": "elekotromagnetische golf",
+		"title": "elektromagnetische golf",
 		"id": "a5fd7411-68eb-4af1-ab97-81153f380bfb",
 		"unreleased": true
 	},
@@ -10040,7 +10041,7 @@
 	{
 		"description": "natuurkunde",
 		"ce_se": "CE",
-		"title": "röntgenstraling",
+		"title": "rötgenstraling",
 		"id": "ac424ee7-f0d9-4168-a8f7-595b8b4ac576",
 		"unreleased": true
 	},
@@ -10061,7 +10062,7 @@
 	{
 		"description": "natuurkunde",
 		"ce_se": "CE",
-		"title": "achtergrondstraling",
+		"title": "achtergrondstraling,",
 		"id": "b17dda54-fca9-4f54-876e-9d6393e1aafe",
 		"unreleased": true
 	},
@@ -10082,7 +10083,7 @@
 	{
 		"description": "natuurkunde",
 		"ce_se": "CE",
-		"title": "effectieve totale lichaamsdosis in relatie tot stralingsbermingsnormen",
+		"title": "effectieve totale lichaamsdosis in relatie tot stralingsbeschermingsnormen",
 		"id": "cf73b5fa-2e5e-4a50-a0fa-45baa89bdf3e",
 		"unreleased": true
 	},
@@ -10148,7 +10149,7 @@
 		"description": "natuurkunde",
 		"ce_se": "CE",
 		"prefix": "",
-		"title": "Natuurkundige achtergronden: halveringsdikte van menselijke weefsels,  , , absorptie, transmissie, terugkaatsing, tracer",
+		"title": "Natuurkundige achtergronden: halveringsdikte van menselijke weefsels",
 		"id": "aa2db5e8-6dee-4343-974b-b0204308c842",
 		"unreleased": true
 	},
@@ -10291,7 +10292,8 @@
 		"ce_se": "CE",
 		"title": "actiekracht",
 		"id": "54325708-c895-4971-a6e1-8f8a7781d140",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "natuurkunde",
@@ -10503,7 +10505,7 @@
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"prefix": "",
 		"title": "vrij elektron",
@@ -10511,21 +10513,21 @@
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "ion",
 		"id": "ff96b7e2-2bc5-4164-9d0a-e5a80d6693ca",
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "afstotende en aantrekkende elektrische kracht",
 		"id": "00326862-20fc-4bb8-a41a-8fc87eff14cf",
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "spanningsbron",
 		"id": "69487433-7045-4f44-a995-968381172c07",
@@ -10546,21 +10548,21 @@
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "stroomdeling",
 		"id": "42cb360b-0248-4136-8afe-3258467128cd",
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "spanningsdeling",
 		"id": "02d41094-948d-4b93-96fb-698c1b2dc592",
 		"unreleased": true
 	},
 	{
-		"description": "natuuurkunde",
+		"description": "natuurkunde",
 		"ce_se": "CE",
 		"title": "kortsluiting",
 		"id": "2316390f-327d-4f04-b638-f4104f95acb3",
@@ -10576,6 +10578,314 @@
 		"ce_se": "CE",
 		"title": "capaciteit",
 		"id": "c766ee61-0e43-4f05-ab93-04f1cdbed492",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "gereduceerde fase",
+		"id": "07582c73-ea53-427b-bfa0-4b77d0a5efe4",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "faseverschil",
+		"id": "bf3654cc-4fab-4e8f-a7a0-9510fec894e0",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "a-, B8- en y-straling",
+		"id": "33018069-b8c7-4a55-99e1-7b9069d8e3f1",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "Beeldvormingstechnieken: MRI-scan",
+		"id": "75e706db-0412-4e28-b2f9-d10a3ff0e33d",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "Beeldvormingstechnieken: PET-scan",
+		"id": "1b45b9ba-4e6a-4da0-aecb-ed8df9516ad1",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "Natuurkundige achtergronden: magnetisch veld en resonantie",
+		"id": "d51976b6-5fd0-4548-81ba-76fe67cf6005",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "Natuurkundige achtergronden: annihilatie",
+		"id": "8358b5ba-2a85-402a-9e7a-7d9f4e9fdb12",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "Natuurkundige achtergronden: creatie van een elektron-positronpaar",
+		"id": "a424d8df-62f3-4d7c-8d93-6865971aad52",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "potentiële energie",
+		"id": "f1e936cf-718b-4025-ac6b-493c5f92e436",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "(positieve en negatieve) arbeid",
+		"id": "cc86ee6c-67ce-4b69-9434-554f906fe5ee",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "periodieke beweging",
+		"id": "7727121a-707a-4bcc-8bef-1e73a871cf6b",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "gravitatiewisselwerking",
+		"id": "b2fac541-d731-46c1-96db-454bfe2bba75",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "ellipsbaan",
+		"id": "c2fcab5f-6b62-4c1f-9aac-054df92b58ae",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "geostationaire baan",
+		"id": "c3b48082-2b8c-4339-a55a-35e9d64476bb",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "elementaire lading",
+		"id": "37e5e7c9-d0aa-421a-9d41-ac3d5f1a6b81",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "batterij",
+		"id": "9f443233-8a8c-49f7-beab-611b292dfc78",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "accu",
+		"id": "981ead2f-baea-460a-bd53-7efb7c235c4f",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "homogeen en radiaal elektrisch veld",
+		"id": "d589ec5e-3cab-438f-b9ca-a4cd32d96cdb",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "veldlijn",
+		"id": "598c2c3a-2888-4cf5-bdbe-dfd1a37369f5",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "homogeen en inhomogeen magnetisch veld",
+		"id": "a9050df0-8578-4247-8b07-00328e3e9532",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "elektromagneet",
+		"id": "ec34a476-c401-4fa6-aa00-f1a5d5a66369",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "grondtoestand",
+		"id": "08d49bc8-1c2e-40af-a0be-0f37826baa59",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "aangeslagen toestand",
+		"id": "ce76f009-8700-4813-9c4c-2f342cbfecb1",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "ionisatie-energie",
+		"id": "3a9eff98-82a7-48e8-8492-b912ec79e20c",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "fraunhoferlijn",
+		"id": "4c085938-862b-42f7-982b-fe23985a7b98",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "roodverschuiving",
+		"id": "f671a540-dc80-41b6-9521-b31cd13da642",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "blauwverschuiving",
+		"id": "2f1189c9-7836-48b7-ab69-46cbd147f094",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "planck-kromme",
+		"id": "0bcf50da-d9b1-4da2-ac19-518e7a5e0311",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "continu spectrum",
+		"id": "761672a4-0609-4c36-b206-258b241e6daf",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "zonneconstante",
+		"id": "73b0de1d-81d6-49f2-827b-eb4e557d4a16",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "waarschijnlijkheid",
+		"id": "f011e7a0-7c56-4c88-9629-3ce3e06c5cb9",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "waarschijnlijkheidsverdeling",
+		"id": "4f97dd04-e278-4ecc-8460-37ea80eb81e6",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "uittree-energie",
+		"id": "f2d2be75-97a9-4358-95e9-a4e78e393a78",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "energiequantum",
+		"id": "37c85184-2d6c-41ea-9a5c-f52396161182",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "bohrstraal",
+		"id": "cfc21fc6-440f-41e6-aff0-a7377a52b2ec",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "nulpuntsenergie",
+		"id": "d29430b2-c0d4-4a3e-956a-15e6617605e8",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "natuurwet",
+		"id": "441c082c-4062-45e4-b6dd-69530b4fe932",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "natuurconstante",
+		"id": "881bd5a5-d5a3-487d-9bd0-c79562d86ad9",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "verband",
+		"id": "2048a45c-a74e-46d6-9700-1ea1dab72c9a",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "vergelijking",
+		"id": "4071069b-959b-47cb-97de-553b7d0e69ce",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "iteratief proces",
+		"id": "24e52a67-6de7-491f-aa9e-a32d46114f91",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "rekencapaciteit",
+		"id": "00cdee3c-54d8-4487-9f65-f774a544b2a1",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "stapgrootte",
+		"id": "adc2a983-f96f-47de-8eaa-523a0f2f3663",
+		"unreleased": true
+	},
+	{
+		"description": "natuurkunde",
+		"ce_se": "CE",
+		"title": "beginvoorwaarde",
+		"id": "05c798db-5940-4694-9b57-2ce2f1e68d0e",
 		"unreleased": true
 	}
 ]
