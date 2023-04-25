@@ -10998,7 +10998,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "in -beperkte-gemeenschap van goederen",
+		"title": "in beperkte gemeenschap van goederen",
 		"id": "cb92709e-5878-43d5-a376-905a7b0b5632",
 		"unreleased": true
 	},
@@ -11111,14 +11111,14 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingplan - plaats/distributie",
+		"title": "marketingplan - plaats / distributie",
 		"id": "fa98ceab-a958-4f68-8b12-e9868febfe29",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingplan - doelstellingen",
+		"title": "marketingplan - doelstelling",
 		"id": "5bb7aa02-454f-4a89-9dc4-9dc5e6d6793f",
 		"unreleased": true
 	},
@@ -11457,7 +11457,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "personeelsvertegenwoordiging - ondernemeningsraad",
+		"title": "personeelsvertegenwoordiging - ondernemingsraad",
 		"id": "3c1ae736-5d4b-449e-8c5b-332e033f2431",
 		"unreleased": true
 	},
@@ -11492,7 +11492,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "beloningsvormen - miogelijk tot professionele ontwikkeling",
+		"title": "beloningsvormen - mogelijk tot professionele ontwikkeling",
 		"id": "18dff602-aee7-4e7a-9525-81d22927e03c",
 		"unreleased": true
 	},
@@ -11500,7 +11500,7 @@
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
 		"prefix": "",
-		"title": "Financieringswijzen - banken",
+		"title": "financieringswijzen - banken",
 		"id": "6d71be58-c0c0-4304-893f-00b8ddafe452",
 		"unreleased": true
 	},
@@ -11514,7 +11514,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "Financieringswijzen - eigen inbreng",
+		"title": "financieringswijzen - eigen inbreng",
 		"id": "9fc6065d-f492-4333-9581-63e4cf852930",
 		"unreleased": true
 	},
@@ -11557,21 +11557,21 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "toezichthouders - AFM",
+		"title": "toezichthouders - Autoriteit Financiële Markten (AFM)",
 		"id": "08a8f607-0ce9-46cd-b637-8b71b895c960",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "toezichthouders - DNB",
+		"title": "toezichthouders - De Nederlandse Bank (DNB)",
 		"id": "a703f6c2-2337-4033-a5d5-a703de565b5f",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "toezichthouders - ACM",
+		"title": "toezichthouders - Autoriteit Consument en Markt (ACM)",
 		"id": "e2a6cd2d-3805-41ee-b570-e9b9731ff6ee",
 		"unreleased": true
 	},
@@ -11677,35 +11677,35 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "faillessementsrisico",
+		"title": "faillissementsrisico",
 		"id": "336ac4f1-1d5e-46f2-828d-05e29b7f55dd",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingmix - productbeleid",
+		"title": "marketingmix - productbeleid (merk- garantie- service- kwaliteit)",
 		"id": "f96ff8c3-dab5-44f3-9cfa-413e40409ded",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingmix - prijsbeleid",
+		"title": "marketingmix - prijsbeleid (psychologische prijs - afroomprijspolitiek - prijspenetratiepolitiek)",
 		"id": "a688f180-0ae1-4be8-b611-e5d3a93d56ef",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingmix - plaatsbeleid",
+		"title": "marketingmix - plaatsbeleid (push- en pullstrategie - distributiekanaal)",
 		"id": "c3866c5d-e94e-41c6-ae09-ab4ccad5356f",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "marketingmix - promotiebeleid",
+		"title": "marketingmix - promotiebeleid (sponsoring - reclame)",
 		"id": "c7004640-5f31-4880-af56-6697ee12ca60",
 		"unreleased": true
 	},
@@ -11728,28 +11728,40 @@
 		"ce_se": "CE",
 		"title": "marketing - B2C (Business to Consumer)",
 		"id": "e9d74b5a-16b1-4735-93bd-2ec63df3486d",
-		"unreleased": true
+		"unreleased": true,
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		]
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
 		"title": "marketing - B2B (Business to Business)",
 		"id": "ed5e9fdd-ccfe-40d6-a194-9a7b8ffdd76a",
-		"unreleased": true
+		"unreleased": true,
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		]
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
 		"title": "marketing - C2B (Consumer to Business)",
 		"id": "8ddaa157-be53-4fe2-9111-555da72cbfec",
-		"unreleased": true
+		"unreleased": true,
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		]
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
 		"title": "marketing - C2C (Consumer to Consumer)",
 		"id": "5bdd391c-8b95-4135-9410-7f03c85e7e52",
-		"unreleased": true
+		"unreleased": true,
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		]
 	},
 	{
 		"description": "bedrijfseconomie",
@@ -11776,14 +11788,14 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële feiten - afschrijving (op basis van aanschafwaarde)",
+		"title": "financiële feiten -  afschrijving (op basis van aanschafwaarde)",
 		"id": "71f5fb7d-fed4-45ce-ac12-11c57fa56cb4",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële feiten - btw aangifte",
+		"title": "financiële feiten - BTW-aangifte",
 		"id": "ead73c84-0f69-49b7-8e9d-85d4201b38f3",
 		"unreleased": true
 	},
@@ -11902,7 +11914,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële overzichten - liquide middelen",
+		"title": "financiële overzichten - lidquide middelen",
 		"id": "da81a5a4-0fc1-46e5-a8bf-25f592edc6d9",
 		"unreleased": true
 	},
@@ -12282,7 +12294,7 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "verplichtingen op korte termijn - crediteuren",
+		"title": "verplichtingen op korte termijn",
 		"id": "c0b06b22-77ad-46bf-bcdf-2363f12be224",
 		"unreleased": true
 	},
@@ -12359,35 +12371,35 @@
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële kengetallen - rentabiliteitsratio: resultaat per aandeel",
+		"title": "financiële kengetallen - rentabliteitsratio: resultaat per aandeel",
 		"id": "67e5a6ff-e5ad-4cc5-86f2-887937b70f27",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële kengetallen - rentabiliteitsratio: cashflow per aandeel",
+		"title": "financiële kengetallen - rentabliteitsratio: cash flow per aandeel",
 		"id": "bcf3ab80-1a98-45aa-9975-82863ae12fb1",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële kengetallen - rentabiliteitsratio: REV",
+		"title": "financiële kengetallen - rentabliteitsratio: REV",
 		"id": "4644ed14-b068-4cfd-a857-761dd455820a",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële kengetallen - rentabiliteitsratio: RTV",
+		"title": "financiële kengetallen - rentabliteitsratio: RTV",
 		"id": "07e76f94-5d95-4f30-ad81-a11263282913",
 		"unreleased": true
 	},
 	{
 		"description": "bedrijfseconomie",
 		"ce_se": "CE",
-		"title": "financiële kengetallen - rentabiliteitsratio: IVV",
+		"title": "financiële kengetallen - rentabliteitsratio: IVV",
 		"id": "4d7367a7-c850-44d0-829b-11d63346bf1f",
 		"unreleased": true
 	},
@@ -12396,6 +12408,1400 @@
 		"ce_se": "CE",
 		"title": "controleverklaring van de accountant",
 		"id": "e3f45ab8-42bf-4606-8ea9-f679eb4f878a",
+		"unreleased": true,
+		"examenprogramma_eindterm_id": [
+			"eaf73c1b-7889-459c-ae4b-6b9d58949585"
+		]
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "verzekeren",
+		"id": "452b29c1-5ada-468a-b12f-37d35eee8176",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "levensverzekering",
+		"id": "0e889aa2-4cec-44f2-9764-647b3de78617",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "schadeverzekeringen",
+		"id": "b7ed4fb7-aee4-47f7-9aed-dfcdccb751dc",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "beleggen",
+		"id": "620ae920-34a7-4766-80da-2c46b7d8587b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vermogenstitels",
+		"id": "54624117-8651-4daf-a893-3b2c625d3e32",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "aandelen",
+		"id": "6739b2ad-bab0-4cc2-b2d3-40b6772149cf",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligaties",
+		"id": "186341f5-d2b3-44d3-a52d-bc9479e72ffb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "beleggingsfondsen",
+		"id": "70cffed7-331a-4c35-9436-fbc8ef63230a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "effectenbeurs",
+		"id": "c08ea2a2-01b2-4da8-b293-ebd353107a52",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "call-opties en put-opties",
+		"id": "6da84cb7-ff9a-479a-9436-cd074ccb2e3b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "lenen",
+		"id": "b7180f67-fcf0-4822-bf98-ac5a9073b8b0",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "consumptief krediet",
+		"id": "50473542-267e-45e1-bf82-0efc48e99cb9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "interest- en afslossingsverplichtingen",
+		"id": "3fa123da-23d9-48f2-8ff6-d54ff8f58541",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "lenen - financiële gevolgen",
+		"id": "68e751ba-3361-4e62-bfda-9ce7ad795f53",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "sparen",
+		"id": "5d0f261a-d637-43a2-a9b3-e50c2f2a06b9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "enkelvoudige en samengestelde interest",
+		"id": "9c8ea8fb-5396-456b-ad58-41865c0a56c9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "contante waarde",
+		"id": "4e796e28-863c-4ca2-8c4d-194c3b5dc673",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "eindwaarde",
+		"id": "9f8355f0-8bac-4dc6-b67a-134df3ffc672",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "direct opneembare en niet-direct opneembare spaartegoeden",
+		"id": "365bbba4-cabd-4633-85c2-5df54f3effe1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "bedrijfspensioen als een vorm van verplicht sparen",
+		"id": "7224b92d-11ed-4844-8099-5ec90d76718b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "taxateur",
+		"id": "bc1e3f1c-dbd0-4cfa-a4ca-95f4fc5d0cf0",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "schenken",
+		"id": "2ac3e791-0c41-4ee7-87ce-cc55368456a9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "overeenkomst om niet",
+		"id": "3ec4cbe3-2a60-4c5f-b8c7-66008b4d3b9a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "schenkbelasting",
+		"id": "dda8fbf4-f40f-4094-9826-104c769ea7e3",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "belastingvrijstelling",
+		"id": "82c5df6e-ec80-45fb-a861-dd0194afdd30",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vrijstellingen bij schenkingen aan ANBI",
+		"id": "7df2d70f-8d70-4c79-bc9d-29a8abde1f84",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "erven",
+		"id": "8ada5a69-5ddb-4b43-ad60-2e1c867e871c",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "testament",
+		"id": "cc81fae6-0474-4ef8-b930-630203efb97b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "erfgenamen",
+		"id": "d2709210-7b71-46d6-8c87-08406fdd0221",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "onterven",
+		"id": "030fdae0-cfd8-4aa6-b001-aafe545cc872",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "legitieme portie",
+		"id": "9c4e3bc2-11ff-4d38-b771-9d414affd8dc",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verwerpen",
+		"id": "5ec54932-d669-4105-a564-1505e8d57532",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "aanvaarding onder voorrecht van boedelbeschrijving / beneficiair aanvaarden",
+		"id": "e22829ae-d7ba-49f7-a709-3e8a6d50404b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "zuiver aanvaarden",
+		"id": "36c063da-67fb-4222-9148-189056f8b599",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "erfbelastingen en vrijstellingen",
+		"id": "cacba0ec-1a36-4178-ad36-37a262e47beb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "causation",
+		"id": "0e26684e-2cf0-40b3-87ea-d9dec69d8e8e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marktdefinitie",
+		"id": "ca9d54b5-7c8e-4105-ba50-b3ed347d0472",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "segmentatie / richten",
+		"id": "3c33a601-5c41-4ddd-bdc3-894299e0ffd3",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "positioneren",
+		"id": "f36f9a68-36c6-49a0-b2c6-82f1124a8958",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "effectuation",
+		"id": "32a476b0-50cc-4ec0-832a-2e1101340cd1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "nieuwe markten en uitgaan van beschikbare middelen",
+		"id": "2e810e57-7f6d-4839-abbf-41fb3c72d8dc",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "strategische partners",
+		"id": "b3ce0b7e-1e3b-4d2d-9eee-f43c1632161a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "stakeholders",
+		"id": "d57b1ccc-cd4b-4d30-ace1-be4a02eb0afb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marketingplan",
+		"id": "c3be6cd0-c196-4c4b-9873-ef77829e1e7d",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "rechtsvorm",
+		"id": "37476091-4046-4ccc-aa1d-54e8ce5e5043",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "organen binnen organisatie",
+		"id": "2a75593e-c914-4119-90fc-f20f04d75f94",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "bestuur",
+		"id": "530f3d32-7fad-4c19-ad51-74bdb9a40cf8",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "raad van commissarissen",
+		"id": "64aa3177-5c1c-4ea1-a0b1-28460f669cd9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "algemene ledenvergadering",
+		"id": "f80119c6-6936-4b2b-8915-a0491e0181ed",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "algemene vergadering van aandeelhouders",
+		"id": "41bebe84-0d0f-4def-8568-f749cae219c3",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "beëindigen organisatie",
+		"id": "ac3bc75c-9934-4cd3-b469-ca15c84a82a2",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marktaandeel (afzet en omzet)",
+		"id": "ff38a3c8-f351-4293-9efc-0b34c45c89c5",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "maatschappelijke behoeften",
+		"id": "a253c920-740d-495f-86ff-c7fc6854c597",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "arbeidsrelatie",
+		"id": "0befe5ee-22ce-4e68-a2d4-98977ffd5540",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "voorwaarden individuele arbeidsovereenkomst",
+		"id": "0439f655-7b85-46a8-bfcb-196280462b8a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vormen individuele arbeidsovereenkomst",
+		"id": "06d42feb-5dd7-44cf-a7d4-3c1723d51549",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "wetgeving",
+		"id": "55bba2f4-92ac-41f4-9913-9ccc8cf6127e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "personeelsvertegenwoordiging",
+		"id": "3a20efaf-574b-417a-8728-6a96df749a83",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "activiteiten van personeelsbeleid",
+		"id": "0ef0ec12-7f0e-48ae-b157-af24c91ec4ee",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "functieprofielen",
+		"id": "76a70a71-b8ba-41c3-9094-c29a3d9995c7",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "functiewaardering",
+		"id": "bb669700-1fef-4848-9166-8060f9f3f4d4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "personeelsplanning",
+		"id": "7c1d100a-57c3-4675-a044-2f0feb5f988f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "werving en selectie",
+		"id": "4ecc9fa7-b5af-47f2-8a9b-68f0febbd3fd",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "opstellen arbeidscontraten",
+		"id": "fd584a73-4b0b-432b-aa2d-53ed532afeff",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "functioneringsgesprek",
+		"id": "4ed735f6-167d-4382-a646-d6275531b10f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "beoordelingsgesprek",
+		"id": "ff7b90d7-5eca-4df7-9a96-be4d7035b702",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "kernwaarden en personeelsbeleid",
+		"id": "be2a5f10-6906-4026-a7ff-f1a5b17279db",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "individuele beloningen",
+		"id": "78e7cac2-4752-453a-872a-43dbc3a2a480",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "ontslagzaken",
+		"id": "812d429b-6080-492b-806c-f0b0180b6b17",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "werkvergunningen",
+		"id": "d19204cf-3618-41c3-971f-96a77186045c",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "Arbo",
+		"id": "da2a9a96-b781-4711-a3b1-6116661a2234",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "Onderzoek personeelstevredenheid",
+		"id": "8c1335e4-3e35-454f-97ea-e6c065ce22bd",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financieringswijzen",
+		"id": "ca13ba98-8983-4be1-be3d-83c6119b74af",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financieringswijzen - overige vermogensverschaffers, inclusief leasemaatschappijen",
+		"id": "f1095991-3c75-40a0-a6d1-36a2dab2616f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vermogensmarkt",
+		"id": "81c2868d-9e0b-472d-8ef4-73a72457b018",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vermogensmarkt - marktefficiëntie",
+		"id": "bbc51962-2e37-41ed-b82c-efd374031484",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "toezichthouders",
+		"id": "625e8d66-d70a-4989-89a5-262b6e143395",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "effectenbeurs - koersverloop en volatiliteit",
+		"id": "85d2d2fc-0af7-44ec-8467-6df2b15772c6",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren",
+		"id": "03f08335-d8a3-4a1f-910f-a082df54a9f2",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren - bedrijfsnieuws (financieel en niet-financieel)",
+		"id": "d41b239a-aacc-413d-8890-c3e32b44c0e1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren - beursklimaat",
+		"id": "6e50a838-d69c-40b2-ab89-117f22421fdc",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren - marktrente",
+		"id": "d75da948-3427-430e-9abf-18eb1ac5a268",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren - marktsentiment",
+		"id": "c00bc163-2ba9-419e-acaa-5fcb01a43955",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "koersbepalende factoren - netto contante waarde",
+		"id": "b75c98c5-c5de-49f2-8f3e-033054510b68",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "aandelenkapitaal",
+		"id": "300f71c0-176d-4823-a3cd-633290b7f3d9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "aandelenkapitaal - maatschappelijk aandelenkapitaal",
+		"id": "cd8b6f0d-9bf8-4199-bef3-110bf27d416b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "aandeel",
+		"id": "d0db4888-97b7-4728-8789-5003b5ed49f1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie",
+		"id": "20e37362-0d87-4615-914f-75dffa1ad1b7",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - nominale waarde",
+		"id": "c0108608-9575-4775-a110-ca4d1ce62536",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - emissiekoers",
+		"id": "fac2ae06-c49a-4952-9de0-f85a582b02a4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - agio op obligaties",
+		"id": "b1b22ba6-8dc8-4844-855b-402085b302a6",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - disagio op obligaties",
+		"id": "413dc526-1d86-4f8e-be09-c577bae4c9a4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - beurskoers",
+		"id": "a323eb02-9b82-44eb-99d5-f665bc7809d0",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - interbancaire interest",
+		"id": "44ebca17-65de-40f5-80f9-8922d820c4bb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "obligatie - nominale waarde",
+		"id": "ca3404fc-fbcf-4bba-907c-122e7d63dc2a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "kort vreemd vermogen",
+		"id": "349fb59e-991b-4878-91a6-dcaeb2943df1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "bankkrediet (rekening-courantkrediet)",
+		"id": "c65af60a-f45b-4701-b16d-f4b394830278",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "leverancierskrediet",
+		"id": "a65ef498-fa84-439d-b6e0-613ece808bc4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "afnemerskrediet",
+		"id": "db5f4217-b6f7-4208-b2df-83e6fbc4f693",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "lang vreemd vermogen",
+		"id": "32ff0fec-6d3d-45c9-8d24-d363e20fab5b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "hypothecaire lening",
+		"id": "c3308059-70b4-493a-9c18-8c4df884b90b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "onderhandse lening",
+		"id": "131eb74f-6496-4f76-bf40-6e46c3568251",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "gewone obligatielening",
+		"id": "b7ec554c-1403-4197-a5b5-7c297d540080",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "converteerbare obligatielening",
+		"id": "44b47a8b-0266-4f0a-b6c9-1d3a88405774",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "langlopende leseverplichtingen",
+		"id": "225b2bdf-b1af-4173-be79-a5539b8d84ed",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "risico's",
+		"id": "b1f9a866-c65e-4de8-b037-885653c65197",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "off-balance-sheet/off-balance-financiering",
+		"id": "8684c982-30d3-408d-86cc-614c0a10ffc4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "hadgen/afdekken risico",
+		"id": "9cb5e046-2852-4496-afae-1687cdb5c0f7",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "opties (call en put)",
+		"id": "0bd82275-f2e7-477b-bd55-35b0e6098238",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winstverdeling",
+		"id": "1d193e06-f67a-4445-b6fc-a958ab608e48",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "resultaat voor winstbelasting",
+		"id": "51e9e5b8-ad21-4f26-9a34-1fb3bcd4afcb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vennootschapsbelasting",
+		"id": "2a7deeed-783c-451a-b31a-4fee92e546ff",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "dividend (stock, cash, gewoon en preferent) in euro's",
+		"id": "8bad9938-8d80-4781-93f2-5f9055b3b6bb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "dividendbelasting",
+		"id": "097f4aaf-7469-4bae-971c-304a624497d5",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winstverdeling - reservering",
+		"id": "a5f25dcd-d4c6-4472-b2c0-f9c672f3770d",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "de verhouding eigen vermogen / vreemd vermogen",
+		"id": "0abdc64e-e710-4330-8902-735a760e7451",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verhouding tussen vreemd vermogen  en  eigen vermogen (risicodragend vermogen) / vermogensstructuur",
+		"id": "75dbf2b1-1ade-4ced-a78f-b5af79a0ac7e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "hefboomwerking/hefboomformule",
+		"id": "50e448f9-f711-427c-a4cd-1317426106ca",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "geëist rendement / vermogenskostenvoet",
+		"id": "6c4b486b-8e96-40e6-bfbb-fc722f707183",
+		"unreleased": true
+	},
+	{
+		"title": "marketingmix",
+		"id": "12e78278-94c3-4531-9445-4be3d2ceccbb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		],
+		"title": "e-marketing en social media",
+		"id": "d318b71c-5064-4c72-9501-048409bce7f2",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marketingstrategie",
+		"id": "ce60c73f-c723-4567-ae4d-1faf25df415a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marketingstrategie - affiliatie",
+		"id": "9978c4b9-c448-4a81-aa7d-09edd1663004",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marketingstrategie - waardestrategie, klantwaarde",
+		"id": "9dee84a7-36cf-4038-b06d-286704d3b6dd",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "marketingstrategie - vijfkrachtenmodel van Porter",
+		"id": "2a47b62f-1496-44f8-884b-d7331a9fcb46",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële feiten - overlopende posten",
+		"id": "d83ddd9a-22b1-4ff9-8bfd-1086243b09ed",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële feiten - nog te betalen bedragen",
+		"id": "bd0a8435-b559-4802-9b05-49da93cf9411",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële feiten - nog te ontvangen bedragen",
+		"id": "0a2c80ce-dffd-4c30-8d36-d19810e4d05a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële feiten - vooruitbetaalde bedragen",
+		"id": "ebde897e-183e-4728-a7c0-4e656727a8fe",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële feiten - vooruitontvangen bedragen",
+		"id": "73e94122-6f3b-446b-9e08-7266a9bde0d9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - eindbalans",
+		"id": "6ec9f008-4abd-4374-9a69-e1b1ab1c5590",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - bedrijfsresultaat",
+		"id": "fd7c045f-b181-4117-a7f2-331ba7722e5f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - financieringsresultaat",
+		"id": "5c06716a-9cbe-497b-9a65-28dc48270503",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - incidentele resultaat",
+		"id": "93e28796-ad9c-4ec3-91ad-109d7760a865",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - vennootschapsbelasting",
+		"id": "4e92eddf-d1cb-4652-9340-a0e43627662d",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële overzichten - inkomstenbelasting",
+		"id": "4bac30ec-79dd-467d-80c8-b391f8826190",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "kritische succesfactoren / prestatie-indicator",
+		"id": "4467fea3-81ea-4b73-8a4f-9215d2f7d28f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "opbrengsten",
+		"id": "ed36faec-4270-4342-a708-379dc1cdaf3f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "constante/variabele kosten",
+		"id": "e217e853-80f2-4b2c-b911-77c3e4f06a9d",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "toegerekende kosten en periode kosten",
+		"id": "f4923e24-e0f8-46c9-9e77-1e62fe236c54",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "proportionele kosten",
+		"id": "a56aec64-1a00-433d-8ed9-769eb285a67a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "BTW",
+		"id": "04becbe6-aaf1-4849-bb81-6712d5ace931",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "kosten per geleverde dienst",
+		"id": "26789e30-8c3f-43c7-88a5-ea53dd1b777a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "variabele kostencalculatiemethode",
+		"id": "3ccac337-f368-4a34-839e-100223a7c375",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winstopslag",
+		"id": "7d090c30-8c8d-4c83-9fb2-11fc8ee08238",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winstmarge",
+		"id": "0c36e2c2-f9ab-4a06-a45c-3996e3bf6c61",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "transfer pricing",
+		"id": "cd518111-b8a2-492c-bf1c-a942e0384b1e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winst",
+		"id": "97f75397-fc0e-44f7-a36b-edf16e8dadb1",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "cashflow",
+		"id": "36ee6b5b-26a3-4e79-a5cc-5310666bd9da",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verschillenanalyse - verkoopresultaat",
+		"id": "e653d239-f4a0-4999-a2b3-bb11832036c9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verschillenanalyse - budgetresultaat",
+		"id": "a839b60c-b337-411c-abb9-43853c023887",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verschillenanalyse - prijsresultaat",
+		"id": "c707c4e1-d5a4-400c-b25a-9af4b079ea20",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verschillenanalyse - efficiencyresultaat",
+		"id": "f21e03ad-51c9-4525-8531-9d2a572952a4",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verschillenanalyse - bezettingsresultaat",
+		"id": "19f92202-34f1-423c-985d-26f258547ce2",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "afschrijvingssystemen vaste activa",
+		"id": "662b2ca3-1500-484b-8b2a-798df36b5b3f",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vast percentage aanschafwaarde",
+		"id": "5b2ba61f-f670-475b-8428-00468f2c565a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "waarderingsgrondslag activa",
+		"id": "bbc9dac1-f1f8-4ee3-8da6-58243c243ed9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "historische kosten",
+		"id": "7a4a23c0-23da-4108-a58b-1e3a17b773b9",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "actuele waarde",
+		"id": "67d18f30-b8eb-4b55-9f8a-8f6ac80345db",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "herwaardering zonder inhaalafschrijving",
+		"id": "d68fcd5a-05ed-4e03-90e0-9051617e0a27",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "voorraad goederen waardering",
+		"id": "2072fc0d-fd6f-47d4-91dd-4f71144475af",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vaste verrekenprijs",
+		"id": "58ca7df2-9afc-4e10-a383-b5139afac74e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "prijsverschil bij inkoop",
+		"id": "5ddc9a73-1ef1-41b2-b017-ab398ad1d34e",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"eaf73c1b-7889-459c-ae4b-6b9d58949585"
+		],
+		"title": "wet- en regelgeving",
+		"id": "c2758f0a-abb2-481b-8de0-7617494a8728",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "jaarrekening",
+		"id": "5f1a9d58-850f-4fd4-ad63-e03a025c04ef",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vaste activia",
+		"id": "c88091b1-207a-424e-bd4a-cfc1d0aa26e7",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vaste activa - immateriële vaste activa",
+		"id": "b94c4f7a-e113-406d-b1b5-0ecf9fbc1ced",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vaste activa - materiële vaste activa",
+		"id": "1a22652f-f746-48b9-9241-c23fdcb011e8",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vaste activa - financiële vaste activa",
+		"id": "ba61f90a-9087-442a-bf3f-e9bfccb462f3",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "vlottende activa",
+		"id": "4616e16f-1f87-4613-bf22-7143559bbbfa",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "schulden op lange termijn",
+		"id": "8e31927e-9e98-4ccb-9933-4f7961e6d582",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verplichtingen op korte termijn - crediteuren",
+		"id": "af85422c-5d7e-4d80-8554-e4ae75497194",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "verplichtingen op korte termijn - overlopende posten / transitorische posten",
+		"id": "4d230a9c-c575-4bea-89cf-1dd285921a7a",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "voorzieningen - onderhoudsvoorzieningen",
+		"id": "0439182a-b1e2-4d08-bcd8-923c19ebc4b8",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "voorzieningen - garantievoorziening",
+		"id": "3abd6b19-5e4a-4d8e-bc32-bda991219fef",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "voorzieningen - pensioenvoorziening",
+		"id": "f9e1e9ba-bcb2-410b-b55a-188be991cd74",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winst- en verliesrekening - EBIT(DA), resulatat voor interest, belastingen (afschrijving en amortisatie)",
+		"id": "76f4cbc4-5e11-461f-8152-25fb1bb76f79",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "waardering en afschrijving",
+		"id": "279ebcbc-f661-4a3e-9aed-2c0f4d774497",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "herwaardering en afwaardering",
+		"id": "9379a851-2c41-4750-a396-de3090e61c28",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen",
+		"id": "fee98ee7-8906-4b8b-938d-7ec57bf9cbf3",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - solvabiliteitsratio's: EV",
+		"id": "3c42ff28-a7f3-4f08-b2fd-60f924a5ce63",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - solvabiliteitsratio's: VV",
+		"id": "f0b8dfe2-850d-4043-856d-d723f60b4b9b",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - solvabiliteitsratio's: TV",
+		"id": "86eeb3fb-12ab-45e9-91f8-f45a6ad23286",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - rentabliteitsratio: dividendrendement",
+		"id": "fc9cdda2-3e1d-45bb-83a9-bdb8c9589367",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - rentabliteitsratio: beleggersrendement",
+		"id": "153dc155-646d-4280-b4e3-c90f683a8fbb",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële kengetallen - hefboomwerking en interestmarge",
+		"id": "89baa1f0-924a-4a02-aa89-ad677e3fe3da",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "jaarverslag",
+		"id": "10f04db5-67f5-45dc-bee7-30d618d94e86",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "bestuursverslag",
+		"id": "c88b3eb4-75f8-4e08-bd69-75223a1db0b7",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "balans",
+		"id": "a9125ec1-dc36-4818-930a-58d0a8b1ce1c",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "winst- en verliesrekening",
+		"id": "addd501a-9c4e-4448-a0c2-e062c9ef9ece",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "financiële vaste activa",
+		"id": "2b81c439-8b99-4432-a571-f9b968f646bf",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "eigen vermogen",
+		"id": "8ab29c43-dd26-4c92-9630-89dabb275095",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "crediteuren",
+		"id": "2f740d58-c0c1-4e2d-9f70-d33a96832f35",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "rekening-courantkrediet",
+		"id": "4fb8d00c-dcae-4457-9066-6f33c31b0b85",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "overlopende posten / transitorische posten",
+		"id": "0b398a33-0861-4532-9c99-1b8feebafcca",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "DuPont schema",
+		"id": "1887a3c9-5bcc-432e-ad4d-dc51df1da790",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "DuPont schema: omloopsnelheid",
+		"id": "998f810d-4704-40be-a3e3-846261099b6c",
+		"unreleased": true
+	},
+	{
+		"description": "bedrijfseconomie",
+		"ce_se": "CE",
+		"title": "DuPont schema: resultaatmarge",
+		"id": "0e883409-43a9-45c4-85b4-85af5fac4344",
 		"unreleased": true
 	}
 ]
