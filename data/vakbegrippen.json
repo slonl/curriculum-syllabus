@@ -13803,5 +13803,3085 @@
 		"title": "DuPont schema: resultaatmarge",
 		"id": "0e883409-43a9-45c4-85b4-85af5fac4344",
 		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "prokaryoot",
+		"id": "7239d157-c3fb-4260-8d00-945127d05480",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bacterie",
+		"id": "4f7a46d9-cfef-44be-bdfd-23991a3580aa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "plasmide",
+		"id": "e03fa7c3-c815-478d-8874-a36a7af4c2da",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "celwand",
+		"id": "bf94a4ef-0751-46b6-8001-2cb9a59f7fdd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cirkelvormig",
+		"id": "1de18fea-06c2-4b34-9a57-1173044ffdc5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "chromosoom",
+		"id": "500e889e-87ab-4e98-9049-6e8e7835f3aa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "virus",
+		"id": "eee78dca-310e-4f96-b0ee-17244aa5a317",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eiwitmantel",
+		"id": "6eca8104-3ff6-4e0c-b2fd-7db1889fd479",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "DNA-virus",
+		"id": "61b608f8-7a0b-413c-a1fa-1f942773653b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "RNA-virus",
+		"id": "6d4e8099-a824-44f6-ae1d-13b86d2f6af8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eukaryoot",
+		"id": "08d5762a-c015-4834-8db5-599833214935",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "celkern",
+		"id": "49e5f809-d7fe-4857-b3d6-4c27d20d6d99",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "celmembraan",
+		"id": "9c9f5b70-1ca1-4b67-9911-8a9b4fb72c5b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vacuole",
+		"id": "2f491a57-fddc-4372-a9d9-66f10c8d9105",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cytoplasma",
+		"id": "baffbb29-e669-4bdf-b95e-168a5bdfe126",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mitochondrie",
+		"id": "aa87b197-f6e9-4f4a-994b-59712ff0ce2c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "(ruw) endoplasmatisch reticulum",
+		"id": "cda2453b-469f-41b4-94e7-ab45b37cefa8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "golgi-systeem",
+		"id": "cac83588-2209-4cb1-ba1c-9204911b857d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "plastiden",
+		"id": "cfd2ad1e-060c-4b60-a97d-088ad7d0d981",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ribosoom",
+		"id": "0e67858c-4f53-4aaa-aa59-45d34a1e815c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lysosoom",
+		"id": "6ce0d6b9-69f0-4ed1-98e5-0aa4664caa46",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bladgroenkorrel",
+		"id": "051c05e0-6fc4-4491-b482-206b7c502dc4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bladgroen",
+		"id": "c399f94e-6df9-473c-ba74-b40f189ddbbf",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "trilharen",
+		"id": "b2d864e9-0ee6-4451-98a1-9e7415038aaf",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "homeostase",
+		"id": "e3aed615-1574-4f4f-b2c8-6a4319604d00",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "diffusie",
+		"id": "6bdcc34c-fc1c-4c94-b1d6-dc802566f206",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "osmose",
+		"id": "abc3e353-96a5-459e-bc58-b193175b6786",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "semi-permeabel membraan",
+		"id": "f002826d-bc04-4fb5-bf7c-c8c7bf58c92d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "selectief permeabel",
+		"id": "3957bf76-6cdf-41ed-8a61-a17e381901c5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "receptoreiwit",
+		"id": "334cb234-b229-4328-b115-c1c40f1ed0eb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ionentransport",
+		"id": "dc761441-eba5-4a5f-86f1-3ffd978c92e9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "actief transport",
+		"id": "ad0d6cc2-08db-4daf-acb7-d49bccc541d2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "passief transport",
+		"id": "4fbd3bee-eba8-4349-b1c8-5dbf114047fe",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "endocytose",
+		"id": "cff1caa6-25ad-4aca-95f4-45063716b9d7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "exocytose",
+		"id": "3055b949-0815-491a-8eb8-af34a22febff",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "glucose (C6H12O6)",
+		"id": "5eef1164-7abe-43a6-b9b6-4afed81f85b4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zuurstof (O)",
+		"id": "5e28dd65-f429-4d2b-952f-0584a6f642fc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofdioxide (CO2)",
+		"id": "331eaa61-9ca7-4353-af4f-b285919cc69e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "natriumchloride (NaCl)",
+		"id": "ab6583ce-df53-4abf-9880-565d0f0b3165",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "isotonisch",
+		"id": "85c0abcc-f2be-4490-b2f4-8e251f4241ba",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hypotonisch",
+		"id": "6cae84a9-09db-4a97-a25b-b58f5cefe3b6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hypertonisch",
+		"id": "7529a583-b4f1-40ef-9970-2c4070f73717",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "osmotische waarde",
+		"id": "eac52ea2-4b37-4710-8c83-941444d763a6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "plasmolyse",
+		"id": "dc58152e-79c7-482a-869e-de47561e2d46",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "turgor",
+		"id": "885f8ac5-57ea-4aa8-9ee6-c302c6519b49",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "atoom",
+		"id": "3d13263b-2476-4a7d-8c1e-b400e59f938f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "molecuul",
+		"id": "70522fb7-699f-4a8c-803f-3f9b4a445f32",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ion",
+		"id": "902a06e1-537b-4a7a-be66-c3c4bd1cb1e0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "energie",
+		"id": "e86f07d0-e391-43c1-9915-8bfd15b36eb6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "autotroof",
+		"id": "a79b4298-b5fd-46f4-bd84-52728241a347",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "heterotroof",
+		"id": "dbcd39d8-6cfb-4029-9567-297baa80c707",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "assimilatie",
+		"id": "69c739c8-4130-4def-95a4-a42d8fb97b05",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dissimilatie",
+		"id": "cacf8fcd-54e2-42e2-91da-bd270b079040",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "chemische energie",
+		"id": "ba3312b7-c9a2-4b8d-bd0d-b2a4cc3da1cf",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lichtenergie",
+		"id": "9d77c0a5-b657-46b1-b625-a9cfe9d1718a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kinetische energie",
+		"id": "969bbb8e-bd24-4c5a-b86d-8728320f97eb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "warmte",
+		"id": "177bf448-24cc-46b1-a3b0-43e8ee576f92",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ADP",
+		"id": "3f533c2d-c9ce-40db-b767-122d6c01b440",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ATP",
+		"id": "49443649-fe73-4bf6-be7f-b80037b19a6d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fosfaat (PO4 3-)",
+		"id": "b1cfb3b5-7075-4760-97ea-70be1ed836d1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fotosynthese",
+		"id": "25ff1732-8cfb-4fce-aa32-f8892bceb252",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voortgezette assimilatie",
+		"id": "e5cb9731-eadd-43d3-bc10-cabc96f9c3a4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bouwstof",
+		"id": "29afbe8c-df76-4447-bb50-eef668a54f05",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "brandstof",
+		"id": "b77f7d28-a998-4479-a9cc-7265dd344872",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "reservestof",
+		"id": "24155d85-0a24-4ef2-88b0-69331f81964e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolhydraat",
+		"id": "a44eae2f-3049-4ef9-b426-fe8c2a70df60",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "monosacharide",
+		"id": "394491f0-5c57-4f3e-a358-01ff4be2dae4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "disacharide",
+		"id": "21755f8b-96e3-4ea4-bccd-cc9107f5b8b6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "polysacharide",
+		"id": "3303f0be-2094-4b18-b6e0-9cbd1a86d2a8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zetmeel",
+		"id": "85d0e157-218b-456f-80cd-5ef836f35b22",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "glycogeen",
+		"id": "af3fe88a-3906-46b4-8063-eefea963529e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cellulose",
+		"id": "0c8ec966-4e41-485f-8bc2-dc1cfe1b7bbc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vet",
+		"id": "31704fb8-b9b9-4cd8-8b3c-71252fb413ea",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vetzuur",
+		"id": "c6582eac-ed8b-4cb0-9826-ed303158fc98",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eiwit",
+		"id": "34fe21b2-88bc-4f6e-8574-5abe6833b164",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "aminozuur",
+		"id": "9f775115-7a5c-434c-9394-2c706aeded89",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "essentieel aminozuur",
+		"id": "f22eba80-2396-4718-92c4-19b118f1ac25",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "niet-essentieel aminozuur",
+		"id": "55e03ebe-9302-4ed2-b8e5-2ed0156cc708",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "DNA",
+		"id": "1db55d56-3d4e-4240-9dda-d738500cc850",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzym",
+		"id": "30a82f70-992c-4b6c-b99f-dec0b8aff070",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fasfolipide",
+		"id": "8be0a7f5-9a1a-4bc8-a869-fc8957c2046a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "tussencelstof",
+		"id": "1828d6ef-6529-4537-a877-fc6c13966952",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "katalysator",
+		"id": "293a6d2a-021a-4679-b260-6f2a9d8bef9d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "wateroplosbaar",
+		"id": "53123e9e-0f20-4504-8cd5-4e5cad39de8e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vetoplosbaar",
+		"id": "229ac4c3-8ea5-458a-af4f-739ed8364678",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "energievoorziening",
+		"id": "429a7735-78f4-46c0-82fa-dab4d759b99f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "verbranding",
+		"id": "4d2e810d-b04f-4a4a-80a6-d927a1d42e3d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "aeroob",
+		"id": "308fb382-5a11-4e12-a3ef-ce213b70d62e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "anaeroob",
+		"id": "adcf80d9-e15f-4b07-890a-c5daf16a91a5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gisting",
+		"id": "36c87164-4fb6-46e6-bd9e-9cbcf71d1ba1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "alcohol",
+		"id": "2bcf1488-015b-4ca9-9c67-bbef2ea64c51",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "melkzuur",
+		"id": "9027f876-12c8-4e2e-bed1-1dc7206eddf9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "reactievergelijking",
+		"id": "19608c73-c20c-414c-9b02-d532ed718588",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "molecuulformule",
+		"id": "8fceb0fd-840d-42b7-be9c-f7550ad8dde7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "structuurformule",
+		"id": "8fa2c6f5-fccd-48ec-bd10-780794797121",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "calcium (Ca)",
+		"id": "8ade7663-6f29-4bf5-9cb3-f738ab829f98",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "chloor (Cl)",
+		"id": "1399ab29-d6fc-43da-ae29-c3442243f30f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fosfor (P)",
+		"id": "cbbed62e-644e-4713-accd-e78b61680ba8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ijzer (Fe)",
+		"id": "b1696efb-16c8-4058-86df-5a60f37cfd41",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kalium (K)",
+		"id": "5ee9958e-126c-4fc6-af02-1c7f638afc3d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstof (C)",
+		"id": "7918e9d0-13b1-4d64-9033-3b3c268eae4b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stikstof (N)",
+		"id": "a3cc0526-bb71-4db0-a913-af42b4c5fd28",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "natrium (Na)",
+		"id": "59eff5c6-ab84-4ebb-a38a-862c9f31ef58",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "waterstof (H)",
+		"id": "448b45d6-4f5c-4da9-a84d-458be4c13dd0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ammoniak (NH3)",
+		"id": "bb1c8406-75c9-416c-ac38-ef7c8033ead0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "methaan (CH4)",
+		"id": "72af3e15-f954-44b9-9d1d-d422d490c4f1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nitraat (NO3 2-)",
+		"id": "6f8ddc64-ea70-48e0-a080-eaf42f297683",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nitriet (NO2 -)",
+		"id": "2a73a3e2-0243-4be0-82dc-5043e14237d3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stikstofgas (N2)",
+		"id": "21868e80-16ee-4658-a987-b62cf6bc060f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "water (H2O)",
+		"id": "bd205a7d-a19a-4d22-8b66-493aaddb49ce",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zuurstofgas (O2)",
+		"id": "ca310111-0c8f-4a59-a708-e65b8f8725c5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzymwerking",
+		"id": "922a9237-985a-48f5-b728-8ed910ce6324",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "katalyseren",
+		"id": "9084a5b5-9257-4e58-9a04-00a0c7001a9b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "substraat",
+		"id": "f8aa2147-1f61-4253-a1f5-198466a28fe4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzym-substraatcomplex",
+		"id": "1db725ee-196e-4a06-ab0e-a8ddbcdcedc3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "pH",
+		"id": "4517fd2b-f10a-472b-ae69-eaf79f192b13",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "optimumkromme",
+		"id": "b9c41eb8-dee6-4cc4-9779-91b78c6edc35",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "indicator",
+		"id": "19fab18e-40d2-4d9b-bb45-25e8dbfdfc9e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biotechnologie",
+		"id": "8ee31a6a-200d-424b-9050-22293efd04fd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "metabolisme",
+		"id": "16670f5f-5718-4e89-bdae-0a88bf8a305e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "recombinant-DNA",
+		"id": "415ae6f6-160c-4aa3-8b92-bd301811451f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "micro-organisme",
+		"id": "6c949a19-e755-44f5-a5d8-2fbe689978ff",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cel",
+		"id": "003e76a1-a403-4f7e-9c13-f8310eb70ac8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "weefsel",
+		"id": "c709521a-15bf-4a58-869d-cde168531c0d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "orgaan",
+		"id": "27046fff-6e8d-4845-8c4e-5a9c563a32f2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "orgaanstelsel",
+		"id": "004f36ee-9470-4856-a10f-d0488156475e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fotosynthese",
+		"id": "3636212f-5d11-416f-ad7b-f2961a82daf4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofassimilatie",
+		"id": "8f9786a5-5860-497d-875a-48db9b20cceb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gaswisseling",
+		"id": "49cdf8ff-ad27-4aad-be0a-770df4f6a2da",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "longen",
+		"id": "2fee56c0-1ede-4715-a1e2-0fc5f00fe428",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "luchtpijp",
+		"id": "337209f4-4c2d-4a7a-9840-dda271888ce0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bronchie",
+		"id": "5ee702ed-e046-497d-a05f-e120598cd771",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "longblaasje",
+		"id": "7ce8326f-e78d-4ded-afc1-a555e667f54b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ademhalingsspieren",
+		"id": "12153710-3648-4f70-b222-a7797c2a4337",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ventilatiebewegingen",
+		"id": "910d5b86-a028-44e1-938b-c9cec642e04c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "longcapaciteit",
+		"id": "7d4fbb3c-0b4b-47f5-bc09-5517fe3f891d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vitale capaciteit",
+		"id": "5fbb3da5-7d5f-4406-b116-fe9b6d94b95f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "restvolume",
+		"id": "47d30a22-f9a5-4c81-9748-93c8e46b8ebb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dode ruimte",
+		"id": "cb7eb516-de07-4042-97a6-477ff935c4c1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zuurstofconcentratie/zuurstofdruk",
+		"id": "e43cdb21-d63f-49d0-a8f9-39052e00bfc2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zuurstoftransport",
+		"id": "f419dc3d-49d3-4f5b-9991-f9aa0f81b276",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hemoglobine",
+		"id": "69d6fee8-8acf-465b-8824-e7f74cb9b70a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofdioxideconcentratie/koolstofdioxidedruk",
+		"id": "56af6e56-473d-4dff-9549-e6435012e294",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofdioxidetransport",
+		"id": "0b8d8752-0097-4b46-b969-33e8c62b7e4d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "(spijs)vertering",
+		"id": "f02b6ca4-d6bc-49ca-b80d-08f29af24475",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "speekselklier",
+		"id": "4b168ea2-f53f-4e2d-afac-18b8b5b3f34f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "slokdarm",
+		"id": "f7b5610c-4288-4e62-951b-7bc448c2d782",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "maag",
+		"id": "504be2ee-134b-47e5-bb17-fbd67c45238d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "twaalfvingerige darm",
+		"id": "b6078980-efd3-4dfa-b43d-9ac0e4c7e5c8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "alvleesklier",
+		"id": "7381b6b1-7fe5-4cc6-a589-aea58a5f61a6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lever",
+		"id": "8ad0f646-6576-44d2-978e-66dfd713e2e8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "galblaas",
+		"id": "9438fd85-74e1-43d7-8aeb-d7971b905f4d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dunne darm",
+		"id": "c9b43ebe-2700-49e0-bc2f-f180f0fa0418",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dikke darm",
+		"id": "065be21b-fd8c-407d-b072-d13e9b6d718e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "endeldarm",
+		"id": "d9d80cdc-1538-4358-949b-c00e530cf17f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kringspier",
+		"id": "8743b8b2-085e-4bc9-a301-74aa113fd2eb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lengtespier",
+		"id": "9abfd48c-c21e-4206-8269-922b66d2f81e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "darmperistaltiek",
+		"id": "23e0f524-4ef3-4d9d-bbc7-614425b6e1cb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voedingsstof",
+		"id": "fc99ef60-79d4-44e4-8aa6-688142678bc4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mechanische vertering",
+		"id": "02a3d3c4-2e80-4417-95e6-34993bfca793",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "chemische vertering",
+		"id": "4e61c2ad-7936-4c02-b22a-51d6c97b1d30",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "verteringssap",
+		"id": "796ec4da-f056-4092-a407-42ba15f60922",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzymen voor koolhydraatvertering",
+		"id": "0a9c049d-135b-4736-b3cd-7b723702645f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzymen voor eiwitvertering",
+		"id": "f4f76cd7-84cb-434a-8e24-47ba05a0fff2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "enzymen voor vetvertering",
+		"id": "817f6588-9b9f-40b7-822b-3ade87c51a56",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "emulgeren",
+		"id": "a2935b77-7ab3-429c-a25f-463a0e724ca1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gal",
+		"id": "18e96d17-3a79-432b-9a14-5b51abe588af",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "verteringsproduct",
+		"id": "cb712a1b-7a87-4609-912e-4b7a07f778f0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "resorptie",
+		"id": "a5787b47-83af-4a98-91b6-2ad77bbf58f2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "darmvlok",
+		"id": "12f83a2c-7e01-4d61-a9cc-ab39c3127839",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "darmbacterie",
+		"id": "576f33ab-a87d-4a46-b109-ed55dab1d0fe",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "uitscheiding",
+		"id": "ad083e85-d81e-41c3-b369-25bf97b82937",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "leverlobje",
+		"id": "be542dd7-2e81-4877-8be2-e4e5223ae583",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nier",
+		"id": "76d91cdd-e432-402c-a286-d8801791bb27",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "niereenheid",
+		"id": "87c3e664-53d6-4b6a-ab7c-ce5bce6d73d6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "niermerg",
+		"id": "61a829bd-116e-4863-8085-ee5e6ff4e90a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nierschors",
+		"id": "a4535f86-876e-4bcf-965f-6ac228730199",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kapsel van Bowman",
+		"id": "0246075a-0510-42c1-ac21-ca4dffac84f3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "glomerulus",
+		"id": "ccb44bd8-1f7e-4124-b671-6b278333d705",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nierbuisjes",
+		"id": "4929715d-d191-44b0-bf28-f3f28e10c405",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "urineblaas",
+		"id": "c2250d16-989d-49df-99cd-644563c3462b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "long",
+		"id": "68b6255a-f041-4189-b571-b26960d28ad0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "huid",
+		"id": "4af7631c-be71-4113-9715-45a49df32979",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zweetklier",
+		"id": "5e3642f2-b726-4ad0-87ff-6cc126769702",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ureum",
+		"id": "985256c4-9e8d-4040-a542-21b6b4feb6ac",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "waterhuishouding",
+		"id": "00d7ea9a-c26b-4bd7-a50f-38ff2b9bafbd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ultrafiltratie",
+		"id": "09722546-99ab-4a37-a3c8-8e20379d528c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "reabsorptie/terugresorptie",
+		"id": "6f3a439b-6f3a-4320-8eed-8e7caf7e9a0b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "urine",
+		"id": "0dba8271-8757-4cb9-8b15-b74d148a06fe",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ADH",
+		"id": "9ec7c37c-3e3a-4d9d-9ed1-130e1f3d541c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zweet",
+		"id": "f958b56e-e1b6-4f02-9c68-c1220bfd24a5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "grote bloedsomloop",
+		"id": "963cc2c1-e0ab-4065-a87c-69f034194ddf",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kleine bloedsomloop",
+		"id": "d81cad29-3e72-47e9-9078-25c8cb324e44",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hart",
+		"id": "ad2bed5a-79b4-4022-abde-052d0f5bc188",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hartklep",
+		"id": "50aee28d-1656-4f0e-ae63-d334917d08f2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "sinusknoop",
+		"id": "f11662be-e82f-4cb8-9dbc-da08ad553c66",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hartslagfrequentie",
+		"id": "d4fab904-fd55-499c-97b7-4653543e09e5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "slagvolume",
+		"id": "296db422-a453-4615-a6bf-38c4a3497400",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "slagader",
+		"id": "5a5201e9-7ad0-44d4-8996-891925572f5f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ader",
+		"id": "fdff57b8-019c-4ce7-a649-dacc31a2bd33",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "haarvat",
+		"id": "52ed1f56-9ef2-442a-b969-728071496e12",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloeddruk",
+		"id": "004f6512-6952-4834-97bc-390d75145d03",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bovendruk",
+		"id": "775da1b5-44b9-4a14-9c16-60af591c3e97",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "onderdruk",
+		"id": "5a4a6315-a9c6-47d6-b315-477ac4e7994e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedsamenstelling",
+		"id": "deff12e9-cf52-49b8-a731-3ac282a7bbbb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedplasma",
+		"id": "b7c132a2-4356-4a38-8c30-26fc940bd3b0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "afvalstof",
+		"id": "0f4a28f5-e4c4-4a37-a3c0-59f3296620d0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cholesterol",
+		"id": "9824426f-facc-47c2-af7f-d05a41fc06b8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "rode bloedcel",
+		"id": "a9954d36-3a88-4e93-9956-8fa91b086f37",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "witte bloedcel",
+		"id": "c43dab7c-e9d8-4d3f-b6e1-d9b8f09be07f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedplaatje",
+		"id": "af6fb910-ea04-4d1a-b173-21f2f8315b14",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "beenmerg",
+		"id": "5d34e9c8-5149-4f74-af7b-182bbb599982",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedstolling",
+		"id": "759c2493-e13d-4be1-be85-2bed1f50d903",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "weefselvloeistof",
+		"id": "22add17f-9b5e-4731-9984-8842d035719b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lymfe",
+		"id": "37393742-a4a0-408b-a045-097957b9d859",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedvatenstelsel",
+		"id": "8c569bd6-c1d2-458d-ac51-43edae2cc337",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lymfesysteem",
+		"id": "1e31b755-b113-4aba-b584-89f5b1eaac17",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lymfevat",
+		"id": "b2ed743b-35bc-4d36-8ef4-622a4a4134b9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zenuwstelsel",
+		"id": "0cc223ee-1f16-40df-968f-b69a0c23a138",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zintuigen",
+		"id": "a66f8e77-67d7-4cfc-aaa3-477ea91e61d6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hormoonstelsel",
+		"id": "37a6f9b3-2045-47f5-9ae3-24ab0a17a1db",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "receptor",
+		"id": "2e7abc67-b718-47e7-acbb-6976468ae0b2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "inwendig milieu",
+		"id": "868a8287-8aa7-41f0-8cb2-b4113b847afc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "uitwendig milieu",
+		"id": "c55e798f-fae0-4e0e-9394-ea8849a85ba2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "temperatuurregulatie",
+		"id": "d6e381c1-a483-4fb1-9245-46d9c7ff648b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofdioxideconcentratie",
+		"id": "a0b50d82-ea2f-42fc-87b9-f1fd80149a41",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "zuurstofconcentratie",
+		"id": "40c7571c-d0bb-48b5-b8dd-f975afd9fe17",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "glucoseconcentratie",
+		"id": "61409652-4142-4e65-8034-4157f7a577c9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "regelkring",
+		"id": "b0fc415d-9acd-4b4b-a5c2-9604383eff53",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "positieve terugkoppeling",
+		"id": "50b11bff-c896-45c8-b938-7d4b5a72eeae",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "negatieve terugkoppeling",
+		"id": "607fd955-e168-4f8b-afaa-b7a97a602c1f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hormoon",
+		"id": "a5fe28ef-9a7d-47ab-923a-632d109f580e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hormoonklier",
+		"id": "24f06431-1258-4936-a20d-4c9646053b03",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "exocrien",
+		"id": "5df3fe3b-1618-4933-bf5a-a35724fc1676",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "endocrien",
+		"id": "b5876efb-43d4-4cac-8ef7-e2d06a303b49",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hormoonconcentratie",
+		"id": "19294115-3b8f-4dc1-947e-f4fe4394a01e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "doelwitorgaan",
+		"id": "b48e6fba-f7b8-42df-b0c7-1bbd8cdc1924",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hormoonreceptor",
+		"id": "8f10e9de-83d5-4e3b-bebc-9c9a61ab0711",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hypothalamus",
+		"id": "030b366c-eab7-48e0-98a7-ef20da8e3dad",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hypofyse",
+		"id": "052d730f-9995-446e-80e8-aa0190ab0aa7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "schildklier",
+		"id": "f70e5fdd-af98-4b2d-b6c5-d54bcf0caa01",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bijnier",
+		"id": "e68550b9-2f10-44af-b280-646f088419c4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eierstok",
+		"id": "7f16bc94-1b8b-48dd-8c30-e30f97780199",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "teelbal",
+		"id": "231c3987-725f-4ca7-b52b-89faa6bdda8e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eilandje van Langerhans",
+		"id": "8e222e33-3e5b-4422-9bb9-3e9c7ee65332",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "insuline",
+		"id": "c2448f4b-897b-42bd-a467-ea6477e00de2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "glucagon",
+		"id": "3ecda619-8eb6-40bc-9455-604f9c22c8bd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "adrenaline",
+		"id": "770223c9-a325-44a5-9497-3aa64a722726",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "schildklierhormoon",
+		"id": "753aadba-43ea-43bd-ada2-13515fa7bc43",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "EPO",
+		"id": "c2ddeef3-e613-4f43-ae43-c627a9a14db0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "centraal zenuwstelsel",
+		"id": "c50c8d20-a7fe-4bdb-a90a-50efc574f456",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "perifeer zenuwstelsel",
+		"id": "8739797a-6e3b-4f9b-9863-eb2db5ede86c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "grote hersenen",
+		"id": "24a167d3-0f5e-4db8-a4cd-4fb9fcab00ff",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kleine hersenen",
+		"id": "d8ff47aa-78a8-4869-8fc2-9cc40a2fb028",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hersenschors",
+		"id": "0fbf8a6b-5cf1-44ed-90fe-de8e3c70837d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "centra in de hersenschors",
+		"id": "7903c74f-516d-4a9a-a2d6-25a41bfe4c33",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hersenstam",
+		"id": "4364eab6-7f60-42ba-8520-450e63faa885",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ruggenmerg",
+		"id": "ef2e2efc-c3e0-4418-bed0-4dfb3c8001fd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "autonoom (vegetatief)",
+		"id": "8bc8e543-4301-4a1f-bf08-52034a0723b9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "animaal zenuwstelsel",
+		"id": "4c65241c-adab-4d73-b62e-f23419c8c6b0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gevoelszenuwcel",
+		"id": "59eb6860-4323-4171-877c-87123ff906fc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "schakelzenuwcel",
+		"id": "a017d43e-0001-4a42-89a2-e258e4e22168",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bewegingszenuwcel",
+		"id": "40579e90-d477-4e12-a832-69f6f06a8f9c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "signaalverwerking",
+		"id": "eddd309c-91d8-4648-8934-82f07fe90907",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "prikkel",
+		"id": "a0e5c727-d116-4a48-91ee-30674043158f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "impuls",
+		"id": "bbafb535-1c77-4b34-bf47-e8fe18b36146",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cel van Schwann",
+		"id": "57cb3e13-9df7-449b-9d08-27c69d593693",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "myelineschede",
+		"id": "d6e319be-543c-4407-8d43-cd3f595b0a94",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "synaps",
+		"id": "329ae1b2-1942-482a-afca-4aefa962eb91",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "impulsgeleiding",
+		"id": "b1e123a6-c12f-46d7-9145-e6d97b564933",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "sprongsgewijze impulsgeleiding",
+		"id": "f858ce96-3dcb-403b-8576-7fef8bbad991",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "neurotransmitter",
+		"id": "fec4c301-6c4a-40a6-a5c3-46352b499206",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "temperatuurreceptor",
+		"id": "20f4ce23-6eb4-4b12-8fba-4b3662830e95",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lichtreceptor",
+		"id": "923f2f6a-56f2-49d4-897e-c79a8dc23c08",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "tastreceptor",
+		"id": "6686bfa1-627a-4098-98df-44b5ed164c5b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "pijnreceptor",
+		"id": "1ddf9460-5cca-4215-9bfc-94184f488710",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "relfexboog",
+		"id": "6da0e062-4b75-48de-a776-7f8f5a88607c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "slijmvliezen",
+		"id": "c083d603-9464-40ac-afee-66b87c4521aa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloed",
+		"id": "39c79c8e-7366-451d-be3d-b10cce78db76",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lymfeknoop",
+		"id": "25df90e8-8942-46da-a3a5-e9a302296cf8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "macrofagen",
+		"id": "34c0f741-e264-42c8-a14f-de5931ae9889",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "T-helpercel",
+		"id": "1d1af9de-4f08-4470-9cdc-2ba00bc228d5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "cytotoxische T-cel",
+		"id": "77b3e8ce-e5a8-4e69-b044-9cbfc7ff5935",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "B-cel",
+		"id": "6d53433c-f31d-46f0-b0c3-bc746cfa73b2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "plasmacel",
+		"id": "917d120e-c5a4-4cde-9db0-76fe0e1ca327",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geheugencel",
+		"id": "8e16c89e-8d9e-49ff-9a7e-3e0c73375a4a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mestcel",
+		"id": "bca61718-0855-4bd6-93b2-88c73e06f20e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "aangeboren afweer",
+		"id": "3b0ae0eb-d9a6-47a7-a465-03de35901563",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "verworven afweer",
+		"id": "fb39d440-d6cd-43c8-a66d-2e1b686aa6e7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "natuurlijke immuniteit",
+		"id": "e8c6fc88-a25c-483e-b275-8c2f3642db0a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kunstmatige immuniteit",
+		"id": "d3719fcc-d7f4-45ad-add7-b297bd6799e4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "actieve immuniteit",
+		"id": "c6213190-66ab-40c7-a759-38c4863ce640",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "passieve immuniteit",
+		"id": "abe011d1-0398-4290-a24b-1bb0fccf52de",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lichaamseigen",
+		"id": "5a367543-fed1-4162-8325-b8a0bb8d071f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "lichaamsvreemd",
+		"id": "d71442d4-3efb-4b54-a040-0af0b8f37978",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "antigeen",
+		"id": "8ea3744f-98b9-42fb-94b1-013ead9bd013",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "antistof",
+		"id": "c0bac54d-0853-48da-8035-ff57bed5f752",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vaccinatie",
+		"id": "f311bafc-cf02-40c9-a8cb-04c1b896ba54",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "transplantatie",
+		"id": "52baadbc-16aa-48e3-ac9c-8c6938fbc216",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bloedtransfusie",
+		"id": "d911f393-241c-4597-82b5-c3c51009bfda",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "AB0-systeem",
+		"id": "66675eac-1b4f-43fb-b41f-04cdf2096bcf",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "resusfactor",
+		"id": "46d83021-8ed4-47a9-89b5-b04cd5fd230f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "donor",
+		"id": "d0a0e52b-2c87-41b2-b9c8-ce8507f895f2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "acceptor",
+		"id": "6da43cf1-8c3d-46c5-9fc0-757b48aa8f9a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "antibioticum",
+		"id": "0216de43-f2c0-4724-b00e-ff3f06308818",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "resistentie",
+		"id": "df31d0c8-7471-486a-89e4-71c6adb6dafa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "energiestroom",
+		"id": "47b5b420-6419-4410-965c-2f7b9f1347a4",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ecosysteem",
+		"id": "d1acf8b7-f2a3-48ea-adc8-b80bd543fe0b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "producent",
+		"id": "52643929-d2d6-4f4b-9646-bf494e3d34a5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "consument",
+		"id": "b63e86b7-6531-45a0-8628-9c544e93fd53",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "reducent",
+		"id": "780d79bb-81d8-47a8-a73f-c2c0b99c6834",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "organische stof",
+		"id": "5a29820e-37ae-4784-8bbe-46ef06245268",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "anorganische stof",
+		"id": "0fb79400-2cc4-4e7e-a791-d28d72d5584a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fossiele brandstof",
+		"id": "d6f23b48-e466-4d8a-83a6-8ae3d26d8680",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biobrandstof",
+		"id": "82b05522-6265-4f13-a244-e320b9cbf3ef",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biomassa",
+		"id": "0221554e-e93a-4fd5-bd2a-f8a5aaeea125",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "energiebesparing",
+		"id": "d57f9e6a-dc7a-4521-9941-7287ecd06ad0",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kringloop",
+		"id": "48b9c834-a2d6-4a24-aada-9165c437f2a3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "koolstofkringloop",
+		"id": "2ca35750-9e64-43bc-98c4-eae0e508d32e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stikstofkringloop",
+		"id": "ecc30c38-43ac-4137-ab94-a95a8d626e2b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ammonium",
+		"id": "48a1e7d5-a726-48ad-83a8-4d7902f01fd5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stikstofgas",
+		"id": "5bb0ab81-32fe-4a4d-a4c5-527e5128761b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "uitspoeling",
+		"id": "168c2943-1ab5-427f-8f28-9c3bc7227427",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eutrofiering",
+		"id": "2ebfc78b-d83e-44c0-9c76-7505ad0e6493",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hergebruik",
+		"id": "8c9a91cf-33eb-4bc4-bd36-5035ffc81318",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "recyclen",
+		"id": "954a4003-6eff-45ac-9d70-b1a11b6b2d80",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "broeikaseffect",
+		"id": "4bec5004-0846-4380-ac38-66f29da7b0bc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gevolgen voor de biodiversiteit",
+		"id": "7b1150f3-b210-4016-b4da-ef9f60e22ab9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "habitat",
+		"id": "5222d950-223f-41b6-ba68-15dbcf085e0a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "levensgemeenschap",
+		"id": "ece23ea7-c90d-4849-9f1d-144115953282",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "soortensamenstelling",
+		"id": "cdc1c225-807c-46e7-b59d-8e388c907299",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biotische factor",
+		"id": "df5dfb2b-7ae1-424d-8348-5247b08c3052",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "abiotische factor",
+		"id": "662d64a6-b768-48af-93d3-00a050c980a7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dynamiek",
+		"id": "4e5d92a0-3c82-4f19-bfc8-7286ab31d14a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geboorte",
+		"id": "efe3173b-bb74-4c2c-a5c8-af453b801874",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "sterfte",
+		"id": "e1ca1041-dbc8-4d58-aa03-9eac1f0eb9fb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "migratie",
+		"id": "14835cdd-e287-4ed7-824f-f7cbba6b15c1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "beperkende factor",
+		"id": "837141cb-6f44-4b3d-92c8-81ff705c3afa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "tolerantie",
+		"id": "c00ac965-6041-422f-824b-73eb1ce06f9d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "optimum",
+		"id": "6b8c32f7-fa62-4717-bd4d-923e28f4ca3d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "concurrentie",
+		"id": "b414d1b2-225e-4f20-a595-e040d73e840b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "populatie",
+		"id": "f8aa7537-f388-4745-8f06-cd55e808d164",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "exoot",
+		"id": "2c8be8a7-e9d4-4bd5-b44c-8c68acc1996b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "natuurbeheer",
+		"id": "105b048b-08c5-4064-b27f-bc569b8f9cff",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "DNA",
+		"id": "cfc6c96f-11d1-434c-8d66-c4053ba4de54",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "RNA",
+		"id": "12127d58-9b46-4841-a750-ae0acc5a982d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genetische code",
+		"id": "6f6deb90-b4d6-49e7-ab33-24a2a2a30b94",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "nucleotidenvolgorde",
+		"id": "3526ec2c-e3ef-4349-b49b-a8ff9e0ff279",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gen",
+		"id": "04307784-92fe-49b4-a2c0-e1011e2431ba",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "startcodon",
+		"id": "52a5e712-f835-4954-a9c5-ccd2fc020af8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stopcodon",
+		"id": "61775e9a-e9fa-4216-bef9-dd73cea54c82",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "niet-coderend DNA",
+		"id": "1f204efe-94d4-4736-b329-ca5103326afc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genexpressie",
+		"id": "204357bd-567e-4733-97b4-7485c1f01dd6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "membraaneiwit",
+		"id": "6a0b4832-7e83-4dba-a35b-c579d3bc06aa",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "transporteiwit",
+		"id": "d8b5fe3f-da55-4078-ac82-5031424e8568",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "eiwithormoon",
+		"id": "c0229239-a9be-4105-8259-45ddaec2f68f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "structuureiwit",
+		"id": "cbbd5fb7-ded5-46d7-9ee0-ff0fa46c718a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "anitstof",
+		"id": "eb497670-96f7-4831-b6db-43dabd449cb5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fenotype",
+		"id": "e107d090-bf20-4d5f-894f-6a0b1f1ad15b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genoom",
+		"id": "8ff09078-41c1-499e-99bc-258aa4001e46",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "celdifferentiatie",
+		"id": "0ce04c08-6034-4d44-b080-9a543bfda58d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "celtyp",
+		"id": "eb8007ba-be17-41cc-92a4-875f7ed326d1",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stamcel",
+		"id": "9016afe2-cd17-4763-a74a-10f2042f5d13",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stamcelonderzoek",
+		"id": "e3cbe2c5-ac3a-460c-be21-d776b15b4ea2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stamceltransplantatie",
+		"id": "db382bb9-2221-418a-8714-e1101281e013",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voedselrelatie",
+		"id": "e14f3097-f8ea-41ea-bd49-df834e9ab34e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "trofische niveau",
+		"id": "215cc5dd-3b78-458e-b69c-6e48036e4ec7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "predatie",
+		"id": "b525ac55-a24b-4a43-b1bc-d60e56d50de6",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "vraat",
+		"id": "07f667eb-c683-40ee-bbfe-8a389a5df21b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voedselketen",
+		"id": "8311bd22-a07d-4dda-98fa-d2d4e6eca37d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "symbiose",
+		"id": "a97fd07d-2997-4c94-abf7-b61c80e15248",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "parasitisme",
+		"id": "404ce274-71ee-4a04-b8bb-e9ec1b6a61e5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mutualisme",
+		"id": "7425d8b3-fb5c-4b2b-9aed-9515ecd9ecc8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "commensalisme",
+		"id": "cbb0b5b8-b6f3-48ab-8a3a-fb56c75b9604",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voedselweb",
+		"id": "50ca227e-01bc-4863-be4f-3d82ce1c5986",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "duurzaamheid",
+		"id": "29ec10bf-360c-4b3b-8e65-ba437a532bc5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "duurzame ontwikkeling",
+		"id": "9b3d1b4b-783a-47b2-b813-04057c0f3909",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biologisch afbreekbaar",
+		"id": "9348ef45-9682-4107-8d20-8204d66f67e8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "energieproductie",
+		"id": "32345dfa-0596-4424-bc1d-6f201f51cc8b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "hernieuwbare energiebron",
+		"id": "119f6d23-dfe2-46c7-be5b-353b4b59a059",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "voedselproductie",
+		"id": "67b226cf-f3b8-47da-a19f-98a5871737bc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "bestrijdingsmiddel",
+		"id": "f5313de3-06e6-415c-8676-49bc999bcd2c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biologische landbouw",
+		"id": "eb6670e5-bb48-4094-ac38-102756f21798",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "accumulatie",
+		"id": "690332db-ed71-4369-a2f4-dca3df718125",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "persistent",
+		"id": "ab90d9d3-1c34-4ef8-bbdf-6e96db18813e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "resistent",
+		"id": "237d111f-f6a4-4e5a-8713-29e6f20ed0c5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "allel",
+		"id": "6fc7915a-68a1-483d-bee1-b8b8f239b57c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genotype",
+		"id": "adc7f012-cc49-4288-883f-8d7ef7c74e0d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "milieufactor",
+		"id": "09d81477-0e19-49fd-a402-4dd8bc111bfb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "autosoom",
+		"id": "e028bc6d-589a-4b7c-903d-e8995c8696cb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geschlachtschromosoom",
+		"id": "5b46ae7f-2d14-4ca2-a497-7a0f9c3ec1e3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "X-chromosoom",
+		"id": "782fd250-1588-40b9-9fca-d4e629c984cb",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "Y-chromosoom",
+		"id": "dddad643-0b14-4a8d-8b99-da4b82886587",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "monohybride kruising",
+		"id": "436d22d3-7a59-4b46-a81a-99e194a67aed",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "dominant",
+		"id": "cb3110e9-2dfa-4112-b8ed-a24724eb32c7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "onvolledig dominant",
+		"id": "889fe544-615c-44b3-b346-0acea15a892d",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "recessief",
+		"id": "0e40dae4-e2aa-4fb8-8766-3a5fbdc849c5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "intermediair",
+		"id": "be6e1b62-93cf-436e-aed8-ed7b535ee53c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "stamboom",
+		"id": "4aff0ce2-19dd-4a52-89fd-f25481c27d46",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kruisingsschema",
+		"id": "426fd2b3-9f6c-47ba-8888-a60df38d7b4e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "homozygoot",
+		"id": "89a95787-9179-4601-ac3a-ffd0083f6255",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "heterozygoot",
+		"id": "1be23f88-ecd9-412b-8940-cfc7459d684e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "X-chromosomaal",
+		"id": "4701052a-bceb-40ba-9f9d-8c7f03594244",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "multipele allelen",
+		"id": "076a3238-7df2-4c42-a538-3048643dabb8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "letale factor",
+		"id": "07ad6873-d125-4d23-a43b-44e2fe3c5abe",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "ethisch argument",
+		"id": "bafa87bf-887a-4fd5-93a2-b54362eb7227",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "biologisch argument",
+		"id": "311f20fc-bbf7-4d06-b954-7ac6c646a2a3",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genetische informatie",
+		"id": "5dba1f6e-fa96-49c8-84ce-7aa40f2aeb6b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "DNA-analyse",
+		"id": "76404808-5220-41e3-b606-59b0d611217f",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "verwantschap",
+		"id": "1a4d5455-8c17-4fec-a0a9-0e49f7bdec5e",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mutagene stof",
+		"id": "01e08c04-e1b5-41a4-a182-c190faad71c9",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mutagene straling",
+		"id": "77ad29e2-bb88-4e76-97a5-1e5f370e2a32",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "puntmutatie",
+		"id": "916cda25-5c37-48b9-9904-9990c678224a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genoommutatie",
+		"id": "4874dffe-5db1-471a-a49a-c0965acd9521",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "overlevingskans",
+		"id": "2a0faf45-3c99-48ef-a5df-1958cbcabfd2",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geslachtelijke voortplanting",
+		"id": "7d5cbfb4-6d29-4f82-bc44-d668d1d37b02",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "meiose",
+		"id": "12779fe3-df66-4d8e-8c29-e18b39a92199",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "homologe chromosomen",
+		"id": "5d7a753c-f189-435d-94d3-a6ab96fe60bd",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geslachtschromosoom",
+		"id": "1b25129b-0ff4-4c21-81f7-0c5afe2fe184",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "gekoppelde genen",
+		"id": "e2e2bfaf-9106-4263-a8d2-12f8cca4b380",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genetische variatie",
+		"id": "d9cf3121-d791-4c02-b3a1-bafad5e96912",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "mutatie",
+		"id": "2b4817fd-09f1-416b-b80f-cc6a0ffaaa06",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "recombinatie",
+		"id": "2154fe7c-dbcc-4017-b4ec-0311205af916",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genenpool",
+		"id": "acad87d1-b141-451f-b22e-31b7a5251b7a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "genetische modificatie",
+		"id": "8f73b90d-6c1c-45ad-962e-9eeb39ce715a",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "transgeen",
+		"id": "899c48f5-a129-4f7f-980a-ef86bde0f9a7",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "soort",
+		"id": "8d4717e8-f1db-42ae-8af1-07e3be695492",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "allelfrequentie",
+		"id": "43e89284-7e05-46f6-b327-46cbae5527ea",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "adaptatie",
+		"id": "0d031e63-a977-408f-a509-e41ed479d57b",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "natuurlijke selectie",
+		"id": "7d44ee5b-26c4-4333-9f29-09a7e421a6a8",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "fitness",
+		"id": "c082f7d0-df10-4a17-b55b-eb1d8c5546cc",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "selectiedruk",
+		"id": "9dea689f-3734-4548-91a0-3a9fb7c51a0c",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "homologie",
+		"id": "48b64db7-d1e6-44d3-89d6-4660ef4f7444",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "analogie",
+		"id": "97ab88ef-108d-4223-ab25-a879b54ebd00",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "kunstmatige selectie",
+		"id": "3317b5ef-9b65-4da8-9c1d-dd89520dd888",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "veredeling",
+		"id": "00a32881-8e0a-484e-a8c5-f75b1bdf9198",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "geslacht (genus)",
+		"id": "765b1eb9-cc9f-40f2-8841-43afb4c44a07",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "repoductieve isolatie",
+		"id": "70c32e10-bb6e-464a-82da-e33b407a7351",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "afstamming",
+		"id": "4d2a95ba-dc2d-4f86-a7eb-eaef1965a1e5",
+		"unreleased": true
+	},
+	{
+		"description": "biologie",
+		"ce_se": "CE",
+		"title": "evolutionaire stamboom",
+		"id": "41eaa22a-52b7-4766-af69-7ebbca777038",
+		"unreleased": true
 	}
 ]
