@@ -16334,9 +16334,10 @@
 	{
 		"description": "biologie",
 		"ce_se": "CE",
-		"title": "celtyp",
+		"title": "celtype",
 		"id": "eb8007ba-be17-41cc-92a4-875f7ed326d1",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "biologie",
@@ -16537,9 +16538,10 @@
 	{
 		"description": "biologie",
 		"ce_se": "CE",
-		"title": "geschlachtschromosoom",
+		"title": "geslachtschromosoom",
 		"id": "5b46ae7f-2d14-4ca2-a497-7a0f9c3ec1e3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "biologie",
@@ -16635,9 +16637,10 @@
 	{
 		"description": "biologie",
 		"ce_se": "CE",
-		"title": "letale factor",
+		"title": "lethale factor",
 		"id": "07ad6873-d125-4d23-a43b-44e2fe3c5abe",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": ""
 	},
 	{
 		"description": "biologie",
