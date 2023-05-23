@@ -7016,7 +7016,8 @@
 		"id": "3d88d560-d558-4412-b725-721bb9abdf78",
 		"replaces": [
 			"c5d45229-e253-429c-8a37-dd501e5c5bc3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Ritmisch fragment",
@@ -30624,6 +30625,130 @@
 		"ce_se": "CE",
 		"title": "Onder eigenschappen van hoeken vallen de stelling over de som van de hoeken in een driehoek en de eigenschappen van hoeken bij evenwijdige lijnen die door andere lijnen worden gesneden. \r\nBij symmetrie zijn onder andere van belang de middelloodlijn van een lijnstuk en de deellijn van een hoek. De leerlingen hoeven de begrippen middelloodlijn en deellijn van een hoek niet te kennen.",
 		"id": "564fec0c-9aaf-4158-b056-126ca8f48360",
+		"unreleased": true
+	},
+	{
+		"description": "Spelgegevens",
+		"ce_se": "CE",
+		"title": "Spelgegevens (vijf W’s) zijn: rol (wie), actie en verhaal (wat), ruimte / plaats (waar), tijd (wanneer) en motief (waarom). De kandidaat kan in een gegeven fragment of in een ‘ontwerpopgave’ de spelgegevens benoemen en toepassen.",
+		"id": "b7cef1ae-e7aa-4761-b325-d1367949beeb",
+		"unreleased": true
+	},
+	{
+		"description": "vormgevingsmiddelen",
+		"ce_se": "CE",
+		"title": "In de eindterm staat materiële vormgevingsmiddelen. In de examenpraktijk wordt gebruikgemaakt van het begrip theatervormgevingsmiddelen. Hieronder verstaan wij: muziek, geluid, decor, rekwisieten (props), kostuums, grime en hairstyling, licht en projecties. \r\nIn een ‘ontwerpopgave’ krijgt de kandidaat de opdracht om naar aanleiding van een gegeven fragment een eigen ‘ontwerp’ op het beeldscherm vorm te geven. Het ‘ontwerp’ heeft betrekking op één of meer van de hierboven genoemde theatervormgevingsmiddelen.  \r\nDe kandidaat kan de vorm van het ontwerp motiveren in relatie tot het gegeven fragment.",
+		"id": "4a115a9c-e798-427c-8dd7-ea461b5976b7",
+		"unreleased": true
+	},
+	{
+		"description": "Beschouwen",
+		"ce_se": "CE",
+		"title": "Het gaat om het analyseren van non-verbale expressie met het gebruik van lichaam (mimiek, gebaren, bewegingen, lichaamshouding en handeling).",
+		"id": "eef5b006-c9a7-4b55-9ee0-cd7cd4b9e8c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het gaat om het analyseren van verbale expressie met stem (accent, klemtoon (nadruk), pauzering, tempo, toonhoogte, volume en woordkeuze).",
+		"id": "2e2a6fa8-2f01-41fc-b726-936f8f667ad4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het gaat om het analyseren van het gebruik van spelgegevens (zie toelichting bij DR/K/3 Functioneel gebruik maken van spelgegevens).",
+		"id": "fdf039c5-80bd-4ed1-b2ca-686d5c487792",
+		"unreleased": true
+	},
+	{
+		"description": "theatrale middelen",
+		"ce_se": "CE",
+		"title": "Theatrale middelen zijn spelgegevens (zie toelichting bij DR/K/3 Functioneel gebruik maken van spelgegevens)",
+		"id": "3a6e7a01-a837-4821-8765-5de35205846b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Theatrale middelen zijn mise-en-scène: dit is een belangrijk onderdeel van de theatrale middelen en betreft de opstelling en beweging van de acteurs in de ruimte",
+		"id": "a1167bd8-5462-4199-b123-34997d76703e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Theatrale middelen zijn theatervormgevingsmiddelen (zie toelichting bij DR/K/3 functioneel gebruik maken van materiële vormgevingsmiddelen)",
+		"id": "b71089fc-c166-4aa2-8b29-7a9b013efe39",
+		"unreleased": true
+	},
+	{
+		"description": "werkelijkheid",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Nabootsing: een directe verwijzing naar de werkelijkheid.",
+		"id": "8f13f95e-8652-4e4c-8db0-3c74bce23a66",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Typering: één eigenschap uit de werkelijkheid wordt gekozen en vergroot vormgegeven.",
+		"id": "aaf933c7-60e2-4891-919b-87fe9d4d5ba1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Omkering: gespeeld wordt met de verwachting van het publiek. Niet het voorspelbare gebeurt, maar juist het omgekeerde.",
+		"id": "f1fa1427-327b-491f-a540-9a6a86f9d1a0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Oefensituatie: het oefenen van gedrag in een nagespeelde situatie, rollenspel in een beroepsopleiding of een therapiesessie.",
+		"id": "daed1784-bee6-467b-be5f-fa406335aa8a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "Manieren van verwijzen naar de werkelijkheid zijn: Metafoor: een indirecte verwijzing naar de werkelijkheid, bijvoorbeeld: Vader staat symbool voor de overheid en maakt de regels, zoon staat symbool voor de burger die de regels moet volgen.",
+		"id": "8f36958d-241a-4515-add9-5b6e7d39d4c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Andere plaatsen dan het theater zijn bijvoorbeeld: televisie, internet, op locatie.",
+		"id": "81d7c181-2d03-4ab8-bf8e-886694a26394",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Tot de dramatische technieken behoren onder andere cliffhanger, dialoog, expositie, flashback, flash forward, monoloog, motorisch moment en slow motion.",
+		"id": "52f9d45b-e3cd-413e-aaf9-8df0f54025b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Functies van drama: informeren / leren, bijvoorbeeld: educatief kindertheater over klimaatverandering.",
+		"id": "48bb3c9e-ce3a-431d-a3be-dbb211705fa7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Functies van drama: amuseren, het raken van het publiek (zodat het geamuseerd wordt) bijvoorbeeld het spelen van een sketch of een komische scène / toneelstuk.",
+		"id": "c691ddf6-ebc7-4ca4-8d69-35d48b1eca35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Functies van drama: overtuigen, bijvoorbeeld: maatschappij kritisch cabaret, waarbij de cabaretier op eigen wijze zijn of haar licht laat schijnen op actuele, politieke en maatschappelijke gebeurtenissen.",
+		"id": "b7c7093a-7b9a-4c32-b0fc-0e303cda491c",
+		"unreleased": true
+	},
+	{
+		"description": "Andere kunstvormen",
+		"ce_se": "CE",
+		"title": "Andere kunstvormen dan drama: - beeldende kunst, architectuur en vormgeving (zoals audiovisuele kunst grafische vormgeving, industriële vormgeving en mode) - dans - literatuur - muziek - film.",
+		"id": "49c5e4db-e486-4bb4-ba8e-4a327fea46b9",
 		"unreleased": true
 	}
 ]
