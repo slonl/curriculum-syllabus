@@ -26411,5 +26411,33 @@
 		"title": "Syllabus Biologie vwo 2024",
 		"id": "1737d4d6-a0ba-4519-ab21-271aee2750f4",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"57f3047b-dd0a-4f36-9877-d050aef50835"
+		],
+		"syllabus_vakleergebied_id": [
+			"dd728106-6600-496b-99c7-df31fb3137f7"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"0759aa83-1bb9-47a6-993c-b349a764d2bc",
+			"1f41c152-5861-4215-9a9d-d8aa5806fb93",
+			"c9d5c6cf-4152-42a3-904d-544421b4dd88",
+			"d779e514-dc49-4968-a91b-bce8e940e0f4",
+			"ebed5957-c9b4-420a-abf3-abc82627cf51",
+			"c9d5634f-da4b-4767-8c3d-cbee4df092af",
+			"29362750-946e-44ae-8002-33de280b32e4",
+			"a589e7fe-6deb-4554-91d5-386256ae531d"
+		],
+		"title": "Syllabus Drama vmbo gl 2024",
+		"id": "fd944b33-6b8b-4e1c-8e31-e6a839d481a8",
+		"unreleased": true
 	}
 ]
