@@ -28904,17 +28904,23 @@
 	{
 		"description": "Anderen",
 		"ce_se": "CE",
-		"prefix": "DR/K/7",
+		"prefix": "DR/K/7/7a.1",
 		"examenprogramma_domein_id": [
 			"d3f8aca8-780d-42d1-ba84-42c0f77c8321"
 		],
 		"title": "De kandidaat kan een objectieve analyse geven en daar een beargumenteerde mening aan koppelen.",
 		"id": "c9d5c6cf-4152-42a3-904d-544421b4dd88",
 		"syllabus_toelichting_id": [
-			"0bc2a24e-2b10-4c14-8ea7-8c4ca0cd9b4d"
+			"eef5b006-c9a7-4b55-9ee0-cd7cd4b9e8c3",
+			"2e2a6fa8-2f01-41fc-b726-936f8f667ad4",
+			"fdf039c5-80bd-4ed1-b2ca-686d5c487792"
 		],
 		"replaces": [
 			"9488e619-3d28-4385-8fc8-f2bb8389ddff"
+		],
+		"dirty": true,
+		"examenprogramma_eindterm_id": [
+			"cad813f2-c6b3-49d6-b469-e36e7e7c7455"
 		]
 	},
 	{
@@ -75978,6 +75984,114 @@
 		],
 		"title": "De kandidaat kan de aard van de opbrengst van onderzoek duiden en daarbij de begrippen onzekerheid en waarschijnlijkheid hanteren.",
 		"id": "53347d28-b479-4f7f-9b32-417acce3d3e3",
+		"unreleased": true
+	},
+	{
+		"description": "Leervaardigheden in het vak drama",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/1",
+		"examenprogramma_eindterm_id": [
+			"e7040302-e4e8-4365-a305-77e112cf3638"
+		],
+		"syllabus_toelichting_id": [
+			"b7cef1ae-e7aa-4761-b325-d1367949beeb"
+		],
+		"title": "De kandidaat beheerst een aantal vaardigheden die bijdragen tot de ontwikkeling van het eigen leervermogen, zoals functioneel gebruik maken van spelgegevens.",
+		"id": "0759aa83-1bb9-47a6-993c-b349a764d2bc",
+		"unreleased": true
+	},
+	{
+		"description": "Leervaardigheden in het vak drama",
+		"ce_se": "CE",
+		"prefix": "DR/K/3/3c/2",
+		"examenprogramma_eindterm_id": [
+			"e7040302-e4e8-4365-a305-77e112cf3638"
+		],
+		"syllabus_toelichting_id": [
+			"4a115a9c-e798-427c-8dd7-ea461b5976b7"
+		],
+		"title": "De kandidaat beheerst een aantal vaardigheden die bijdragen tot de ontwikkeling van het eigen leervermogen, zoals: functioneel gebruik maken van materiële vormgevingsmiddelen.",
+		"id": "1f41c152-5861-4215-9a9d-d8aa5806fb93",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7a.2",
+		"examenprogramma_eindterm_id": [
+			"cad813f2-c6b3-49d6-b469-e36e7e7c7455"
+		],
+		"syllabus_toelichting_id": [
+			"3a6e7a01-a837-4821-8765-5de35205846b",
+			"a1167bd8-5462-4199-b123-34997d76703e",
+			"b71089fc-c166-4aa2-8b29-7a9b013efe39"
+		],
+		"title": "De kandidaat kan bij een presentatie van zichzelf of anderen met vakbegrippen benoemen hoe de inhoud met theatrale middelen is vormgegeven.",
+		"id": "d779e514-dc49-4968-a91b-bce8e940e0f4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7b",
+		"examenprogramma_eindterm_id": [
+			"5cdb1001-8e4d-4475-9764-a509800cda89"
+		],
+		"syllabus_toelichting_id": [
+			"8f13f95e-8652-4e4c-8db0-3c74bce23a66",
+			"aaf933c7-60e2-4891-919b-87fe9d4d5ba1",
+			"f1fa1427-327b-491f-a540-9a6a86f9d1a0",
+			"daed1784-bee6-467b-be5f-fa406335aa8a",
+			"8f36958d-241a-4515-add9-5b6e7d39d4c5"
+		],
+		"title": "De kandidaat kan met vak begrippen benoemen hoe de verwijzingen naar de werkelijkheid in spel zijn vormgegeven.",
+		"id": "ebed5957-c9b4-420a-abf3-abc82627cf51",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "DR/K/7/7c",
+		"examenprogramma_eindterm_id": [
+			"ee3a2bad-fafb-4470-972a-8f332a3ebe33"
+		],
+		"syllabus_toelichting_id": [
+			"81d7c181-2d03-4ab8-bf8e-886694a26394",
+			"52f9d45b-e3cd-413e-aaf9-8df0f54025b4"
+		],
+		"title": "De kandidaat kan dramatische technieken benoemen, die gebruikt worden op andere plaatsen dan het theater",
+		"id": "c9d5634f-da4b-4767-8c3d-cbee4df092af",
+		"unreleased": true
+	},
+	{
+		"description": "Drama en maatschappij",
+		"ce_se": "CE",
+		"prefix": "DR/K/8/8b",
+		"examenprogramma_eindterm_id": [
+			"dea6cab7-10c3-4b53-a726-61911b1025d9"
+		],
+		"syllabus_toelichting_id": [
+			"48bb3c9e-ce3a-431d-a3be-dbb211705fa7",
+			"c691ddf6-ebc7-4ca4-8d69-35d48b1eca35",
+			"b7c7093a-7b9a-4c32-b0fc-0e303cda491c"
+		],
+		"title": "De kandidaat kan aangeven wat de functies van drama kunnen zijn en daar voorbeelden van noemen.",
+		"id": "29362750-946e-44ae-8002-33de280b32e4",
+		"unreleased": true
+	},
+	{
+		"description": "Drama en andere kunsten",
+		"ce_se": "CE",
+		"prefix": "DR/K/9/9a",
+		"examenprogramma_eindterm_id": [
+			"6342aa05-1867-4a0e-8c30-4d39a928a1f0"
+		],
+		"syllabus_toelichting_id": [
+			"49c5e4db-e486-4bb4-ba8e-4a327fea46b9",
+			"3d88d560-d558-4412-b725-721bb9abdf78"
+		],
+		"title": "De kandidaat kan andere kunstvormen dan drama herkennen en de functies ervan benoemen.",
+		"id": "a589e7fe-6deb-4554-91d5-386256ae531d",
 		"unreleased": true
 	}
 ]
