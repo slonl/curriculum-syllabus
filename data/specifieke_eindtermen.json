@@ -23735,7 +23735,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\nHCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH.",
+		"title": "De kandidaat kan de volgende zuren herkennen:\n\n$HCl , H_2SO_4 , HNO_3 , H_2O + CO_2 / 'H_2CO_3', H_3PO_4 , CH_3COOH.$",
 		"id": "022732b6-5c95-4fe8-862d-102e98a30af5",
 		"description": "",
 		"replaces": [
@@ -23748,7 +23748,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de volgende basen herkennen:\r\r\nNH3 , OH– , CO32– , O2– , HCO3–.",
+		"title": "De kandidaat kan de volgende basen herkennen:\n\n$NH_3 , OH^– , CO_3^{2–} , O^{2–} , HCO_3^–.$",
 		"id": "da3ac6fc-bf8a-49fb-8a8f-30896a7e0246",
 		"description": "",
 		"replaces": [
@@ -23761,7 +23761,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\r\r\nC=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\n\n$C=C$; \n$OH$ groep (hydroxyl); \n$COOH$ groep (carboxyl); \n$NH_2$ groep (amino); \n$COOC$ groep (ester); \n$CONHC$ groep (peptide/amide); \n$C-X$ ($X= F, Cl, Br, I$).",
 		"id": "19311e7d-e63c-4129-910f-94eace7903f6",
 		"description": "",
 		"replaces": [
@@ -58103,7 +58103,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $Ag^+, Al^{3+}, Au^+, Au^{3+}, Ba^{2+}, Ca^{2+}, Cu^{2+}, Fe^{2+}, Fe^{3+}, Hg^+, Hg^{2+}, K^+, Li^+, Mg^{2+}, Na^+, NH_4^+, Pb^{2+}, Pb^{4+}, Sn^{2+}, Sn^{4+}, U^{3+}, U^{6+},\\\nZn^{2+}; Br^–, CH_3COO^–, Cl^–, CO_3^{2-}, F^–, HCO_3^–, I^–, NO_3^–, NO_2^–, O^{2–}, OH^–, PO_4^{3–}, S^{2–}, SO_3^{2–}, SO_4^{2–}.$",
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $Ag^+, Al^{3+}, Au^+, Au^{3+}, Ba^{2+}, Ca^{2+}, Cu^{2+}, Fe^{2+}, Fe^{3+}, Hg^+, Hg^{2+}, K^+, Li^+, Mg^{2+}, Na^+, NH_4^+, Pb^{2+}, Pb^{4+}, Sn^{2+}, Sn^{4+}, U^{3+}, U^{6+},$\n$Zn^{2+}; Br^–, CH_3COO^–, Cl^–, CO_3^{2-}, F^–, HCO_3^–, I^–, NO_3^–, NO_2^–, O^{2–}, OH^–, PO_4^{3–}, S^{2–}, SO_3^{2–}, SO_4^{2–}.$",
 		"id": "f7d3bb7c-a9da-4463-9647-1ae25f316b44",
 		"replaces": [
 			"05eeb28a-6fed-4f91-9c42-8e15737203bd"
