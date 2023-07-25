@@ -58103,11 +58103,12 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+; Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, NO3–, NO2–, O2–, OH–, PO43–, S2–, SO32–, SO42–.",
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $\\ce{Ag+}$, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+; Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, NO3–, NO2–, O2–, OH–, PO43–, S2–, SO32–, SO42–.",
 		"id": "f7d3bb7c-a9da-4463-9647-1ae25f316b44",
 		"replaces": [
 			"05eeb28a-6fed-4f91-9c42-8e15737203bd"
-		]
+		],
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
