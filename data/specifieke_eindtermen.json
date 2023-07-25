@@ -58103,7 +58103,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $Ag^+, Al^{3+}, Au^+, Au^{3+}, Ba^{2+}, Ca^{2+}, Cu^{2+}, Fe^{2+}, Fe^{3+}, Hg^+, Hg^{2+}, K^+, Li^+, Mg^{2+}, Na^+, NH^{4+}, Pb^{2+}, Pb^{4+}, Sn^{2+}, Sn^{4+}, U^{3+}, U^{6+},\nZn^{2+}; Br^–, CH_3COO^–, Cl^–, CO_3^{2+}, F^–, HCO_3^–, I^–, NO_3^–, NO_2^–, O_2^–, OH^–, PO_4^{3–}, S^{2–}, SO_3^{2–}, SO_4^{2–}.$",
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $Ag^+, Al^{3+}, Au^+, Au^{3+}, Ba^{2+}, Ca^{2+}, Cu^{2+}, Fe^{2+}, Fe^{3+}, Hg^+, Hg^{2+}, K^+, Li^+, Mg^{2+}, Na^+, NH_4^+, Pb^{2+}, Pb^{4+}, Sn^{2+}, Sn^{4+}, U^{3+}, U^{6+},\\\nZn^{2+}; Br^–, CH_3COO^–, Cl^–, CO_3^{2-}, F^–, HCO_3^–, I^–, NO_3^–, NO_2^–, O^{2–}, OH^–, PO_4^{3–}, S^{2–}, SO_3^{2–}, SO_4^{2–}.$",
 		"id": "f7d3bb7c-a9da-4463-9647-1ae25f316b44",
 		"replaces": [
 			"05eeb28a-6fed-4f91-9c42-8e15737203bd"
