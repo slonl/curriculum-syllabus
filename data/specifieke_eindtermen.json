@@ -25487,7 +25487,8 @@
 		"description": "Verrijkingsdeel",
 		"replaces": [
 			"d3ac4cdd-7d9f-40d7-885d-038e7371f8e0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -25572,14 +25573,15 @@
 		"examenprogramma_eindterm_id": [
 			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
 		],
-		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
 		"id": "94e419b4-c3cc-4f75-b8cc-4b7c36a98666",
 		"syllabus_toelichting_id": [
 			"39c290d4-e3b6-4c1a-b003-9576e8b4ca18"
 		],
 		"replaces": [
 			"4790ffbd-8d19-4b9a-8f33-9ce05cc90bd4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -25587,12 +25589,13 @@
 		"examenprogramma_eindterm_id": [
 			"844cf891-b8d0-4a6a-9442-2cdf6dc15293"
 		],
-		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; ook in ruimtelijke situaties, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
 		"id": "bef8c346-f180-42a9-bd1a-4eb847e37d3e",
 		"description": "",
 		"replaces": [
 			"609c2e54-f2b9-4f9c-93e0-55819bfa9503"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
