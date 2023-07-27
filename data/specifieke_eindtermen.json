@@ -25543,12 +25543,13 @@
 		"examenprogramma_eindterm_id": [
 			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
 		],
-		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: \r\r\n- met woorden, - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol, - met coördinaten, zowel in het platte vlak als in de ruimte, - met behulp van richting of hoek en afstand.",
+		"title": "De kandidaat kan voorstellingen van objecten en van hun plaats in de ruimte of het platte vlak maken en interpreteren: situaties beschrijven: \r\r\r\n- met woorden, - door middel van figuren waaronder driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel en bol, - met coördinaten, zowel in het platte vlak als in de ruimte, - met behulp van richting of hoek en afstand.",
 		"id": "acf83d80-e8e2-4375-a0e3-9c836d9aa861",
 		"description": "",
 		"replaces": [
 			"1a3f21e4-5d30-4732-8f94-38f1ff743dbc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -25556,12 +25557,13 @@
 		"examenprogramma_eindterm_id": [
 			"d3a46c00-8851-498b-98c0-cd9cc16e8b6f"
 		],
-		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
+		"title": "De kandidaat kan redeneren en tekenen: bij redeneren, tekenen en berekenen van hoeken, afstanden en patronen, gebruik maken van meetkundige begrippen en eigenschappen, in het bijzonder: \r\r\r\n- evenwijdigheid, - gelijke verhoudingen, waaronder rekenen met vergrotingen en verkleiningen; alleen in het platte vlak, - lijnsymmetrie, - draaisymmetrie, - regelmatige patronen, - eigenschappen van hoeken, - goniometrische verhoudingen sinus, cosinus en tangens, in rechthoekige driehoeken, - de stelling van Pythagoras.",
 		"id": "80a50a88-7789-4fe0-af80-9ab7a734cc36",
 		"description": "",
 		"replaces": [
 			"a4b5a325-d438-45a3-b265-d07f7a58f8e1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Verrijkingsdeel",
