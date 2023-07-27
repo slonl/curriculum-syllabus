@@ -23735,7 +23735,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de volgende zuren herkennen:\n\n$HCl , H_2SO_4 , HNO_3 , H_2O + CO_2 / 'H_2CO_3', H_3PO_4 , CH_3COOH.$",
+		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\nHCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH.",
 		"id": "022732b6-5c95-4fe8-862d-102e98a30af5",
 		"description": "",
 		"replaces": [
@@ -23748,7 +23748,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de volgende basen herkennen:\n\n$NH_3 , OH^– , CO_3^{2–} , O^{2–} , HCO_3^–.$",
+		"title": "De kandidaat kan de volgende basen herkennen:\r\r\nNH3 , OH– , CO32– , O2– , HCO3–.",
 		"id": "da3ac6fc-bf8a-49fb-8a8f-30896a7e0246",
 		"description": "",
 		"replaces": [
@@ -23761,7 +23761,7 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\n\n$C=C$; \n$OH$ groep (hydroxyl); \n$COOH$ groep (carboxyl); \n$NH_2$ groep (amino); \n$COOC$ groep (ester); \n$CONHC$ groep (peptide/amide); \n$C-X$ ($X= F, Cl, Br, I$).",
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\r\r\nC=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
 		"id": "19311e7d-e63c-4129-910f-94eace7903f6",
 		"description": "",
 		"replaces": [
@@ -23826,12 +23826,13 @@
 		"examenprogramma_eindterm_id": [
 			"61dc7d4b-1704-4f8c-8fbc-0bbf35b9c6e9"
 		],
-		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen:\r\r\n- gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;\r\r\n- grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen:\r\r\r\n- gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen;\r\r\r\n- grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
 		"id": "c4790b37-8546-42df-bf60-e8709d63279d",
 		"description": "",
 		"replaces": [
 			"c6593362-2592-4711-a57c-c36135e510ea"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23839,12 +23840,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan het symbool gebruiken van de volgende niet-metalen als de naam gegeven is en omgekeerd:\r\r\nargon, boor, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel.",
+		"title": "De kandidaat kan het symbool gebruiken van de volgende niet-metalen als de naam gegeven is en omgekeerd:\r\r\r\nargon, boor, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel.",
 		"id": "ed505841-bc6d-412c-8ad2-b92164a40ffa",
 		"description": "",
 		"replaces": [
 			"7ab3e33d-660d-492f-84b0-24303096eb07"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23852,12 +23854,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\r\naluminium, barium, cadmium, calcium, chroom, goud, ijzer, kalium, kobalt, koper, kwik, lithium, lood, mangaan, magnesium, natrium, nikkel, platina, tin, uraan, zilver, zink.",
+		"title": "De kandidaat kan het symbool gebruiken van de volgende metalen als de naam gegeven is en omgekeerd:\r\r\r\naluminium, barium, cadmium, calcium, chroom, goud, ijzer, kalium, kobalt, koper, kwik, lithium, lood, mangaan, magnesium, natrium, nikkel, platina, tin, uraan, zilver, zink.",
 		"id": "f557e1b0-4193-433c-a332-c2b555b53ddd",
 		"description": "",
 		"replaces": [
 			"67480404-ed2f-4df5-93b5-d9384f300cea"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23865,12 +23868,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide , zwaveldioxide, zwaveltrioxide, zwavelzuur.",
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\r\n- ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide , zwaveldioxide, zwaveltrioxide, zwavelzuur.",
 		"id": "2bb46871-ba6f-492c-8927-c3a12a0e35dc",
 		"description": "",
 		"replaces": [
 			"e92f4d26-2970-43d8-b7a2-2be56d0d178b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23878,12 +23882,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\n- de formules van niet-ontleedbare stoffen: niet-metalen, metalen.",
+		"title": "De kandidaat kan de (molecuul)formules gebruiken van de volgende stoffen als de naam gegeven is en omgekeerd:\r\r\r\n- de formules van niet-ontleedbare stoffen: niet-metalen, metalen.",
 		"id": "cf1ea2b2-34fa-4cb3-91aa-9861bdb3e87a",
 		"description": "",
 		"replaces": [
 			"7c2362d0-a25a-4b0a-8b23-ec1f9faa695a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23891,12 +23896,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen:\r\r\nAg+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, MnO4– , NO3–, NO2−, O2–, OH–, PO43–, S2–, SO32–, SO42–, S2O32–.",
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen:\r\r\r\nAg+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, MnO4– , NO3–, NO2−, O2–, OH–, PO43–, S2–, SO32–, SO42–, S2O32–.",
 		"id": "b1201de4-d335-4c8a-9363-a8538a7cd350",
 		"description": "",
 		"replaces": [
 			"438a514e-ba8d-454b-a8de-aa514346e03b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23904,12 +23910,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\nHCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH.",
+		"title": "De kandidaat kan de volgende zuren herkennen:\r\r\r\nHCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH.",
 		"id": "58af335f-b798-4884-a6a8-29824a000315",
 		"description": "",
 		"replaces": [
 			"c0564d0a-3c94-4c2f-a926-38313ba4dad3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23917,12 +23924,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan de volgende basen herkennen:\r\r\nNH3, OH–, CO32–, O2–, HCO3−",
+		"title": "De kandidaat kan de volgende basen herkennen:\r\r\r\nNH3, OH–, CO32–, O2–, HCO3−",
 		"id": "e600bbb5-ea58-4e4c-a20a-250188a54472",
 		"description": "",
 		"replaces": [
 			"06ddbbcf-aa8a-4249-b4d0-b5fcba6de668"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23930,12 +23938,13 @@
 		"examenprogramma_eindterm_id": [
 			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
 		],
-		"title": "De kandidaat kan in moleculen van organische verbindingen functionele / karakteristieke groepen herkennen:\r\r\nC=C, C≡C, OH groep (hydroxyl), C=O groep (aldehyde en keton), COOH groep (carboxyl), NH2 groep (amino), COC groep (ether), COOC groep (ester), CONHC groep (peptide / amide), C-X (X= F, Cl, Br, I).",
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele / karakteristieke groepen herkennen:\r\r\r\nC=C, C≡C, OH groep (hydroxyl), C=O groep (aldehyde en keton), COOH groep (carboxyl), NH2 groep (amino), COC groep (ether), COOC groep (ester), CONHC groep (peptide / amide), C-X (X= F, Cl, Br, I).",
 		"id": "e62a7a5c-7eac-48e8-8e0e-c0e6efaa9122",
 		"description": "",
 		"replaces": [
 			"7341c41d-e165-4e30-a948-e8395949caa5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23943,12 +23952,13 @@
 		"examenprogramma_eindterm_id": [
 			"cce7a3c2-b0bf-4f76-857d-03b62d8a475e"
 		],
-		"title": "De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken:\r\r\n- oplossing: onverzadigd, verzadigd, suspensie, emulsie, emulgator, legering, homogene en heterogene mengsels.",
+		"title": "De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken:\r\r\r\n- oplossing: onverzadigd, verzadigd, suspensie, emulsie, emulgator, legering, homogene en heterogene mengsels.",
 		"id": "dd35e5ce-605d-4eb2-bd1c-77a25e9c4201",
 		"description": "",
 		"replaces": [
 			"223edc90-d533-498b-a464-9509603ae7b2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23956,12 +23966,13 @@
 		"examenprogramma_eindterm_id": [
 			"16112904-6dfb-4334-8215-4d7bbb93020e"
 		],
-		"title": "De kandidaat kan de sterkte van de binding tussen de samenstellende deeltjes van een stof / stoffen in verband brengen met faseovergangen en hechting aan een oppervlak:\r\r\n- ionbinding, vanderwaalsbinding / molecuulbinding, waterstofbrug, dipool-dipool binding, metaalbinding.",
+		"title": "De kandidaat kan de sterkte van de binding tussen de samenstellende deeltjes van een stof / stoffen in verband brengen met faseovergangen en hechting aan een oppervlak:\r\r\r\n- ionbinding, vanderwaalsbinding / molecuulbinding, waterstofbrug, dipool-dipool binding, metaalbinding.",
 		"id": "9c4ff805-86d6-4062-b5fa-87a341958721",
 		"description": "",
 		"replaces": [
 			"88dd0021-8126-4775-b06b-bc8cb3e097a0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23969,12 +23980,13 @@
 		"examenprogramma_eindterm_id": [
 			"16112904-6dfb-4334-8215-4d7bbb93020e"
 		],
-		"title": "De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met:\r\r\n- vanderwaalsbinding, dipool-dipool binding en waterstofbruggen, polair en apolair.",
+		"title": "De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met:\r\r\r\n- vanderwaalsbinding, dipool-dipool binding en waterstofbruggen, polair en apolair.",
 		"id": "997c6455-59f1-4742-8d2e-42fc5f3ce08d",
 		"description": "",
 		"replaces": [
 			"3386d88e-a0d0-4948-b6ea-fe9dc7be5eb6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23982,12 +23994,13 @@
 		"examenprogramma_eindterm_id": [
 			"c8532b25-b530-4024-94dc-af34a94bcb38"
 		],
-		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en vervormbaarheid, en maakt daarbij gebruik van: \r\r\n- de roosteropbouw van de stof; \r\r\n- de aanwezigheid van weekmakers in polymeren; \r\r\n- de structuur van polymere materialen: thermoplasten, thermoharders.",
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en vervormbaarheid, en maakt daarbij gebruik van: \r\r\r\n- de roosteropbouw van de stof; \r\r\r\n- de aanwezigheid van weekmakers in polymeren; \r\r\r\n- de structuur van polymere materialen: thermoplasten, thermoharders.",
 		"id": "b5cfcf5a-bca1-4e4e-9e91-110043c3628f",
 		"description": "",
 		"replaces": [
 			"3f5193e2-3faf-4c9b-9592-7253e1f58f38"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23995,12 +24008,13 @@
 		"examenprogramma_eindterm_id": [
 			"c8532b25-b530-4024-94dc-af34a94bcb38"
 		],
-		"title": "De kandidaat kan voor composieten, polymeren, legeringen en keramische materialen een verband leggen tussen de structuur / ruimtelijke ordening van bouwstenen en de volgende eigenschappen:\r\r\n- vervormbaarheid, geleidend vermogen, waterbindend vermogen, corrosiegevoeligheid, uv-lichtgevoeligheid, brandbaarheid, hardheid, brosheid.",
+		"title": "De kandidaat kan voor composieten, polymeren, legeringen en keramische materialen een verband leggen tussen de structuur / ruimtelijke ordening van bouwstenen en de volgende eigenschappen:\r\r\r\n- vervormbaarheid, geleidend vermogen, waterbindend vermogen, corrosiegevoeligheid, uv-lichtgevoeligheid, brandbaarheid, hardheid, brosheid.",
 		"id": "f284a08e-5938-4b21-9afe-b3b25b332929",
 		"description": "",
 		"replaces": [
 			"3781b0a6-ffd2-4a2d-8b9c-1d8ebc226bfd"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24008,12 +24022,13 @@
 		"examenprogramma_eindterm_id": [
 			"c8532b25-b530-4024-94dc-af34a94bcb38"
 		],
-		"title": "De kandidaat kan met behulp van de Valentie-Schil-Elektronen-Paar-Repulsie-Theorie (VSEPR-theorie) de ruimtelijke bouw van samengestelde ionen en moleculen, of delen daarvan, aangeven:\r\r\n- omringingsgetal 2, 3 en 4;\r\r\n- 4 omringing: tetraëder, bindingshoek ongeveer 109 graden\r\r\n- 3 omringing: plat vlak, bindingshoek ongeveer 120 graden\r\r\n- 2 omringing: lineair, bindingshoek 180 graden",
+		"title": "De kandidaat kan met behulp van de Valentie-Schil-Elektronen-Paar-Repulsie-Theorie (VSEPR-theorie) de ruimtelijke bouw van samengestelde ionen en moleculen, of delen daarvan, aangeven:\r\r\r\n- omringingsgetal 2, 3 en 4;\r\r\r\n- 4 omringing: tetraëder, bindingshoek ongeveer 109 graden\r\r\r\n- 3 omringing: plat vlak, bindingshoek ongeveer 120 graden\r\r\r\n- 2 omringing: lineair, bindingshoek 180 graden",
 		"id": "0ddd946d-3758-48d7-8339-6501e932c004",
 		"description": "",
 		"replaces": [
 			"7a58384e-c455-4f51-808f-449fa9127ada"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24021,12 +24036,13 @@
 		"examenprogramma_eindterm_id": [
 			"8e8e587e-fd7a-4626-8ca7-4acdfe8f0a32"
 		],
-		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking geven in structuurformules en Lewisstructuren:\r\r\n- condensatiereacties; ester, peptide/amide; - hydrolysereacties; - additiereacties; - substitutiereacties.",
+		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking geven in structuurformules en Lewisstructuren:\r\r\r\n- condensatiereacties; ester, peptide/amide; - hydrolysereacties; - additiereacties; - substitutiereacties.",
 		"id": "5e8ffb78-cdd6-432d-8ccb-db5bf3231d9f",
 		"description": "",
 		"replaces": [
 			"5cf82f08-8328-437b-8945-77b7a9693c18"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24034,12 +24050,13 @@
 		"examenprogramma_eindterm_id": [
 			"b28e501b-03ad-4f1c-b198-5b85a8245a46"
 		],
-		"title": "De kandidaat kan de volgende begrippen gebruiken in berekening:\r\r\n- massa; symbool m, eenheid kg, - volume; symbool V, eenheid m3, - relatieve molecuulmassa; symbool Mr, - chemische hoeveelheid; symbool n(X), eenheid mol, - molaire massa; symbool M(X),  eenheid g mol-1, - molair volume; symbool Vm,  eenheid m3 mol-1, - dichtheid; symbool ρ, eenheid kg m-3, - concentratie; symbool c(X), [X],  eenheid mol L-1, - massapercentage; eenheid %, - massa-ppm; eenheid ppm, mg kg-1, - massa-ppb; eenheid ppb, μg kg-1, - volumepercentage; eenheid %, - volume-ppm; eenheid ppm, μL L-1, cm3 m-3, - zuurgraad; symbool pH, pH = - log [H+]; pH = -log[H3O+], pOH = - log [OH-], pH + pOH = 14,00 (bij 298K), [H+] = 10-pH; [H3O+] = 10-pH, [OH-] = 10-pOH.",
+		"title": "De kandidaat kan de volgende begrippen gebruiken in berekening:\r\r\r\n- massa; symbool m, eenheid kg, - volume; symbool V, eenheid m3, - relatieve molecuulmassa; symbool Mr, - chemische hoeveelheid; symbool n(X), eenheid mol, - molaire massa; symbool M(X),  eenheid g mol-1, - molair volume; symbool Vm,  eenheid m3 mol-1, - dichtheid; symbool ρ, eenheid kg m-3, - concentratie; symbool c(X), [X],  eenheid mol L-1, - massapercentage; eenheid %, - massa-ppm; eenheid ppm, mg kg-1, - massa-ppb; eenheid ppb, μg kg-1, - volumepercentage; eenheid %, - volume-ppm; eenheid ppm, μL L-1, cm3 m-3, - zuurgraad; symbool pH, pH = - log [H+]; pH = -log[H3O+], pOH = - log [OH-], pH + pOH = 14,00 (bij 298K), [H+] = 10-pH; [H3O+] = 10-pH, [OH-] = 10-pOH.",
 		"id": "a8e0e1ac-5974-4c3c-9205-5105cb574301",
 		"description": "",
 		"replaces": [
 			"e8af66f3-64f3-4193-b901-469c1eafa280"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24047,12 +24064,13 @@
 		"examenprogramma_eindterm_id": [
 			"b28e501b-03ad-4f1c-b198-5b85a8245a46"
 		],
-		"title": "De kandidaat kan de volgende principes gebruiken in berekeningen aan en beschrijvingen van chemische processen:\r\r\n- massaverhouding;\r\r\n- volumeverhouding van gassen bij reacties;\r\r\n- overmaat / ondermaat;\r\r\n- stoichiometrische verhouding;\r\r\n- rendement als fractie of percentage van de theoretische opbrengst.",
+		"title": "De kandidaat kan de volgende principes gebruiken in berekeningen aan en beschrijvingen van chemische processen:\r\r\r\n- massaverhouding;\r\r\r\n- volumeverhouding van gassen bij reacties;\r\r\r\n- overmaat / ondermaat;\r\r\r\n- stoichiometrische verhouding;\r\r\r\n- rendement als fractie of percentage van de theoretische opbrengst.",
 		"id": "96343f48-9751-4a9f-be31-761b949b4041",
 		"description": "",
 		"replaces": [
 			"4f2f25bb-fb82-4046-ad5c-9deb6d39621b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24060,12 +24078,13 @@
 		"examenprogramma_eindterm_id": [
 			"fe7673e8-d07e-4ad3-9276-6568e599c105"
 		],
-		"title": "De kandidaat kan van een oplossing met bekende concentratie van een zuur of van een base de pH berekenen of omgekeerd uit de pH de concentratie berekenen.\r\r\n- sterk zuur, éénwaardig zwak zuur,  sterke base, éénwaardige zwakke base.",
+		"title": "De kandidaat kan van een oplossing met bekende concentratie van een zuur of van een base de pH berekenen of omgekeerd uit de pH de concentratie berekenen.\r\r\r\n- sterk zuur, éénwaardig zwak zuur,  sterke base, éénwaardige zwakke base.",
 		"id": "1ea5fbcc-3c39-4433-947a-c80c07e3e74e",
 		"description": "",
 		"replaces": [
 			"77a01850-17a9-4e96-9abf-960b73b6caa4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -24073,12 +24092,13 @@
 		"examenprogramma_eindterm_id": [
 			"472f1b50-8aa4-4fb6-9d60-dc48d5f86a09"
 		],
-		"title": "De kandidaat kan redeneren over aspecten van duurzaamheid die een rol spelen bij de omzetting van chemische energie in elektrische energie en omgekeerd en kan daarbij voorstellen voor aanpassingen beoordelen: elektrochemische cel / batterij / brandstofcel. \r\r\n- aangeven dat bij een elektrochemische cel een redoxreactie optreedt waarbij elektronen via een externe verbinding worden overgedragen, - reductor / oxidator, - halfreacties / totaalreactie, - positieve en negatieve elektrode, - elektrolyt, - membraan, - opladen, - recycling, - verhouding energie / massa.",
+		"title": "De kandidaat kan redeneren over aspecten van duurzaamheid die een rol spelen bij de omzetting van chemische energie in elektrische energie en omgekeerd en kan daarbij voorstellen voor aanpassingen beoordelen: elektrochemische cel / batterij / brandstofcel. \r\r\r\n- aangeven dat bij een elektrochemische cel een redoxreactie optreedt waarbij elektronen via een externe verbinding worden overgedragen, - reductor / oxidator, - halfreacties / totaalreactie, - positieve en negatieve elektrode, - elektrolyt, - membraan, - opladen, - recycling, - verhouding energie / massa.",
 		"id": "f02c9715-a62a-4c49-ad05-904064a79b82",
 		"description": "",
 		"replaces": [
 			"315a10a6-c710-4d6b-8882-598913a7c66b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -58103,12 +58123,11 @@
 		"examenprogramma_eindterm_id": [
 			"7407ab4b-c622-48c5-8e18-0a2807315215"
 		],
-		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: $Ag^+, Al^{3+}, Au^+, Au^{3+}, Ba^{2+}, Ca^{2+}, Cu^{2+}, Fe^{2+}, Fe^{3+}, Hg^+, Hg^{2+}, K^+, Li^+, Mg^{2+}, Na^+, NH_4^+, Pb^{2+}, Pb^{4+}, Sn^{2+}, Sn^{4+}, U^{3+}, U^{6+},$\n$Zn^{2+}; Br^–, CH_3COO^–, Cl^–, CO_3^{2-}, F^–, HCO_3^–, I^–, NO_3^–, NO_2^–, O^{2–}, OH^–, PO_4^{3–}, S^{2–}, SO_3^{2–}, SO_4^{2–}.$",
+		"title": "De kandidaat kan de systematische IUPAC-namen en verhoudingsformules geven en gebruiken van zouten die zijn samengesteld uit de volgende ionen: Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+; Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, NO3–, NO2–, O2–, OH–, PO43–, S2–, SO32–, SO42–.",
 		"id": "f7d3bb7c-a9da-4463-9647-1ae25f316b44",
 		"replaces": [
 			"05eeb28a-6fed-4f91-9c42-8e15737203bd"
-		],
-		"description": ""
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -59248,7 +59267,9 @@
 		"id": "94da084d-dd89-44bb-acdc-d2564e54aeba",
 		"replaces": [
 			"b9bf7eeb-7326-40ef-ac40-123220be02cd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59260,7 +59281,9 @@
 		"id": "b5b1a867-12fa-4841-a652-8b31d1dd2f70",
 		"replaces": [
 			"d5468695-51c9-4bf0-8c85-b3e3c23a8372"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59272,7 +59295,9 @@
 		"id": "97557045-121d-446d-bda8-82da5008e391",
 		"replaces": [
 			"af45c746-f357-49cd-b00d-1033a47e8cac"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59284,7 +59309,9 @@
 		"id": "6bd41b48-b937-4a40-a6e6-6a9d8bf6f48f",
 		"replaces": [
 			"50fe96b7-bf1e-4344-99f2-e1fff339f542"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59296,7 +59323,9 @@
 		"id": "ceb37c68-2718-4b02-a8a4-3a63684cec22",
 		"replaces": [
 			"f44d2347-7070-4d3d-b783-0581c6a480df"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59308,7 +59337,9 @@
 		"id": "c0d03561-fbdf-4a49-9dca-1d73cf0131a0",
 		"replaces": [
 			"dac7b3b3-2761-41ff-87e5-a18f8cb173b6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59320,7 +59351,9 @@
 		"id": "66f1aa3b-d598-4950-bb4f-7a843fc82898",
 		"replaces": [
 			"73a54180-6eaa-4401-8f79-8a06502193af"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59332,7 +59365,9 @@
 		"id": "ccc10cc6-0246-4aca-ab9f-0b393c4ea3b3",
 		"replaces": [
 			"a451267b-2f50-4dc3-b1c9-cc404816b0a7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59344,7 +59379,9 @@
 		"id": "7ae34cf3-9998-41a6-bbca-68e7e8cfc344",
 		"replaces": [
 			"7bffea5a-5bf7-4350-a104-e73aa54a8838"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59356,7 +59393,9 @@
 		"id": "22b1ab71-2b7c-4e7f-be0a-8d7c8f22c392",
 		"replaces": [
 			"3bfcea1f-d4cf-46cd-84fa-93b0994910b1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59368,7 +59407,9 @@
 		"id": "166c8467-5576-4a64-b576-b12358d5b3ef",
 		"replaces": [
 			"98f4904d-0ccc-4cfa-bc73-2049db3201de"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59380,7 +59421,9 @@
 		"id": "cd6e9ba7-53ad-48ea-95b2-85228e5ec9cb",
 		"replaces": [
 			"e508fde5-0c6e-4d3d-8493-4f5a6adbc3d2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59392,7 +59435,9 @@
 		"id": "778fbfc0-7af7-4b3b-abfc-ca36618c779c",
 		"replaces": [
 			"0cbce18e-410e-417c-9dcd-907c5a4143ad"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59404,7 +59449,9 @@
 		"id": "68c1fcf6-01df-4240-8cfc-3c1ae577a856",
 		"replaces": [
 			"b929460d-688a-4f94-9cff-2457e27e49b2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59416,7 +59463,9 @@
 		"id": "17412466-9f9a-4b89-9e1d-534f5c1d509b",
 		"replaces": [
 			"7f1fac5a-42ae-4fc9-86f9-1870e2ac3a3f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59428,7 +59477,9 @@
 		"id": "3607c79d-544f-4be5-94d2-d93be58e9a9e",
 		"replaces": [
 			"ea4c912c-7773-48a8-8225-a0254d2208ab"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59440,7 +59491,9 @@
 		"id": "50405733-45c7-43b2-9fa5-c80cc34bb861",
 		"replaces": [
 			"5032b8a6-136b-4d84-ba66-907fc9736b1f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59452,7 +59505,9 @@
 		"id": "0cd52305-5ae2-47e7-b89d-3a9ea41d2bbf",
 		"replaces": [
 			"3864d97c-d345-4d8a-ac72-cfe01644c561"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59464,7 +59519,9 @@
 		"id": "f16a5e05-5dd6-4ce7-a586-413ec8868be0",
 		"replaces": [
 			"b90d5757-137b-4e34-be02-903c605a4938"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59476,7 +59533,9 @@
 		"id": "2a9c4a79-d3a0-4dec-8621-d501ac9285d3",
 		"replaces": [
 			"e87cd570-7e9a-4d77-b2e1-03be3dc610d7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59488,7 +59547,9 @@
 		"id": "8c54e590-619e-4eb9-92f5-0128feb21030",
 		"replaces": [
 			"492af04d-c881-4c7e-83ff-e7927a3031d1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59500,7 +59561,9 @@
 		"id": "a5a6b890-086f-4bed-947f-87a04e5b6233",
 		"replaces": [
 			"c404a121-2181-4f60-9436-f76b3220cf12"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59512,7 +59575,9 @@
 		"id": "e0d7c01e-260d-430a-ad83-774b66123166",
 		"replaces": [
 			"b9b0bf25-593b-409b-aecd-5a492d9f5d44"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59524,7 +59589,9 @@
 		"id": "3b066af9-4b5a-4723-82fc-0f707073306b",
 		"replaces": [
 			"38aa5d11-2270-4944-8e2b-53d228804f82"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59536,7 +59603,9 @@
 		"id": "8da71f09-5c86-4375-ae0d-46bb3f0c202b",
 		"replaces": [
 			"823a6711-4233-4c32-8d3d-b4e5bd890109"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59548,7 +59617,9 @@
 		"id": "9369a33f-d57b-4564-abb0-ef9b46918ff0",
 		"replaces": [
 			"272006ff-f571-4f0c-86c0-b1d098084390"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59560,7 +59631,9 @@
 		"id": "94f0179e-43a1-43cc-b627-78cfeb82687e",
 		"replaces": [
 			"3896f15c-3d58-4cd2-aa45-e37b7248a290"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59572,7 +59645,9 @@
 		"id": "2eff0d2f-af11-4f6c-9309-925ebf3e2118",
 		"replaces": [
 			"f73b8210-0152-4b80-b711-b22beab1675e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59584,7 +59659,9 @@
 		"id": "fa6e07dc-b469-4709-804b-d4df12ae0465",
 		"replaces": [
 			"d5e3589f-b891-4d1d-970d-fa69b93f44a8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59596,7 +59673,9 @@
 		"id": "51953ae5-1bee-4106-971a-e9a551abf0aa",
 		"replaces": [
 			"8c54bc87-f593-40d5-939b-1cbb3b451d83"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59608,7 +59687,9 @@
 		"id": "2b9cbb33-e445-4244-89d9-d7c7758430cd",
 		"replaces": [
 			"ff54b5cd-5a22-4963-ac5b-40388fda321c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59620,7 +59701,9 @@
 		"id": "1fc3b4e7-4a36-46ea-845a-9c421dd92b48",
 		"replaces": [
 			"021b55a5-33bd-4320-bfc5-7f3a15c92f90"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59644,7 +59727,9 @@
 		"id": "a2716c56-c876-4ed8-b385-e9313d165ba4",
 		"replaces": [
 			"6c1e3798-7008-4200-b97c-a5c402f4b8c5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59656,7 +59741,9 @@
 		"id": "9af8c766-d229-439a-8ae3-08ea26d01b64",
 		"replaces": [
 			"bfd3dede-1a47-4596-9619-86a348c6c811"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59668,7 +59755,9 @@
 		"id": "d67e272f-8056-491f-8e95-0beaf4cd0be0",
 		"replaces": [
 			"65da8b80-709a-4da9-af86-3b7ed541e33d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59680,7 +59769,9 @@
 		"id": "9cb56547-14c9-4b01-b1f9-07d130172eda",
 		"replaces": [
 			"088cbb47-4025-4eda-ba37-8300f2119f23"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59692,7 +59783,9 @@
 		"id": "5d4f053a-9232-462f-a177-f4a7d7f4a861",
 		"replaces": [
 			"8db8d165-3e0c-4b59-b0b4-e34414d6d217"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59704,7 +59797,9 @@
 		"id": "1c591dd4-9e0f-439a-819e-399df2b47ff0",
 		"replaces": [
 			"e9b1cea7-d1c5-4d58-b75e-9fc416782a97"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59716,7 +59811,9 @@
 		"id": "adc69743-7480-4ad3-958d-0f5e28413925",
 		"replaces": [
 			"4ddf46f5-c164-4a02-8bb6-48f2669f9e43"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59728,7 +59825,9 @@
 		"id": "979bd66d-4bfd-4b0a-9995-5f902a93663a",
 		"replaces": [
 			"71444a89-24e1-4058-afda-47868c9db418"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59740,7 +59839,9 @@
 		"id": "5a7f4a79-7315-4656-9998-df0c3b378a76",
 		"replaces": [
 			"b4d290c4-252e-4fce-8ce2-536cbfd216fd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59752,7 +59853,9 @@
 		"id": "5ea19466-334a-46ad-8bbf-23a1cdd3734b",
 		"replaces": [
 			"46cd4032-f14c-4db7-8870-e8e1f2164f2f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59764,7 +59867,9 @@
 		"id": "ea235881-a867-4b8b-a0a5-1c7ef5e121e3",
 		"replaces": [
 			"5a49d063-d146-4a24-9046-c76fbb093596"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59776,7 +59881,9 @@
 		"id": "05e8b352-2085-4c6f-b4df-fc41e97401b0",
 		"replaces": [
 			"2f196c6e-a181-4128-8030-a56657c6358a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59788,7 +59895,9 @@
 		"id": "782e084a-f6c1-4b15-85eb-37667076f953",
 		"replaces": [
 			"7ba504e2-ec9a-4d1e-a77e-ac8fb4679e4b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59800,7 +59909,9 @@
 		"id": "1149a0b0-fc5f-4a2a-81fa-df238569c8c7",
 		"replaces": [
 			"aa953611-d0fb-40b2-a485-df51184e13ef"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59812,7 +59923,9 @@
 		"id": "149b83d1-282a-4359-b6f2-5833f28bccc3",
 		"replaces": [
 			"ed6e06c8-2e16-4230-8ea4-77dff901b313"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59824,7 +59937,9 @@
 		"id": "2259051f-8557-4221-9ee4-dd5477cc28da",
 		"replaces": [
 			"0033b14c-1f15-47d0-8b3e-e8995977ece5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59836,7 +59951,9 @@
 		"id": "dffe7b6e-1714-4ccb-bfa6-110501a451f7",
 		"replaces": [
 			"1b4db5f1-fb8f-42e9-b664-504340e4fc8a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59848,7 +59965,9 @@
 		"id": "65cb7f73-743f-496d-93fe-1fdad685f0df",
 		"replaces": [
 			"1e48b4c6-c127-42ac-a862-3a5e251b2e60"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59860,7 +59979,9 @@
 		"id": "0a2ec395-c875-458c-82a3-b19dd0012316",
 		"replaces": [
 			"b82d22e2-c8f6-4be6-897e-c8205cfc86e8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59872,7 +59993,9 @@
 		"id": "be7be52f-5c60-45ea-8b1b-9c1e5758bbdc",
 		"replaces": [
 			"254bf75a-4628-4a91-9b08-55a6985a5d7b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59884,7 +60007,9 @@
 		"id": "60a78097-afed-49cc-8b6b-29a46e1e667b",
 		"replaces": [
 			"0c4e55db-a3d7-4571-96e1-a321e23726a1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59896,7 +60021,9 @@
 		"id": "531f5ea1-b1e8-49cc-bf72-bf9bea6c2a3d",
 		"replaces": [
 			"a4c08717-8cf4-450b-96d1-48b7c81ae3d8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59908,7 +60035,9 @@
 		"id": "67aa6a25-756f-4910-a7e4-ad2f50322350",
 		"replaces": [
 			"82cc2cd5-9d0a-47f3-bb79-c49bf3b70891"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59920,7 +60049,9 @@
 		"id": "2a974076-61b1-44f7-8573-ae64bcaaa847",
 		"replaces": [
 			"b033d4d2-97cd-4a88-9304-1353e1b8b7ab"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59932,7 +60063,9 @@
 		"id": "c17b5590-f1a9-41e9-9442-6762c2060ba7",
 		"replaces": [
 			"809efbb8-bc64-444d-b22f-ed6c78c0f41d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59944,7 +60077,9 @@
 		"id": "772b34d4-4219-4f6c-a56c-bd4bb60e3f35",
 		"replaces": [
 			"570b90da-b844-439b-ba33-dbdc47d02764"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59956,7 +60091,9 @@
 		"id": "7ba8ae4e-4160-48a4-9d1f-f28e7ace11d6",
 		"replaces": [
 			"b81bc564-aa2d-4bd5-91e5-db79e380cfdd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59980,7 +60117,9 @@
 		"id": "c0d3833e-7f61-4ed2-aa0c-ce75450b2373",
 		"replaces": [
 			"ec516228-2886-42bb-930c-05ba53222928"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -59992,7 +60131,9 @@
 		"id": "30bc476c-a7f4-49b2-b63b-f7caf0b452d9",
 		"replaces": [
 			"f17e9bea-55d3-4868-9df8-198cec402192"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60004,7 +60145,9 @@
 		"id": "aff01fb2-cc01-495e-a212-d692425a6679",
 		"replaces": [
 			"d8e05072-a606-41b3-8355-8f4007152e70"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60016,7 +60159,9 @@
 		"id": "7fa10826-057c-4229-9b6e-7d254fad481c",
 		"replaces": [
 			"72e48509-c01a-4119-b713-ff8bf0ea70ea"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60028,7 +60173,9 @@
 		"id": "41df9676-9397-4b54-8da1-969d07ba7d69",
 		"replaces": [
 			"5b5548cc-61f1-4296-940a-ed702eb22ef1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60040,7 +60187,9 @@
 		"id": "35c2f50d-2e20-4eef-abf1-dd9163cbe338",
 		"replaces": [
 			"28181eaf-613f-43ad-bc1a-2c5c686e27c5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60052,7 +60201,9 @@
 		"id": "f3734cb9-ec59-43ed-9a7c-d67d8e6b6e6e",
 		"replaces": [
 			"6142b8a9-3140-4474-90a0-8ed51f1c7a4d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60064,7 +60215,9 @@
 		"id": "8613816f-19bd-4e61-8123-97100ff8e128",
 		"replaces": [
 			"5efd3945-6edc-4f3f-9d5a-d7346c9db6bd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60076,7 +60229,9 @@
 		"id": "0aac2256-ed36-4423-9ce5-7de824380447",
 		"replaces": [
 			"a893685d-5b0d-4f4d-93a8-aa5918dcc718"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60088,7 +60243,9 @@
 		"id": "989eb989-0294-42b4-817f-6d59d359d682",
 		"replaces": [
 			"9d2c9c0f-45ff-49b5-a434-6fa883b536dc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60100,7 +60257,9 @@
 		"id": "cc1f210e-2fce-434c-998c-ebdb9f768dc8",
 		"replaces": [
 			"cd88e212-6380-49ff-b1b0-5ed5512ac902"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60112,7 +60271,9 @@
 		"id": "cd9ee6b9-36b3-428c-a721-38db98c7b932",
 		"replaces": [
 			"2e2fa440-5c66-426c-9049-f7e4efbd657f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60124,7 +60285,9 @@
 		"id": "dae722ab-ca76-4d81-9b65-8d717b1be4d9",
 		"replaces": [
 			"9f6414d4-43b4-478a-9f8f-3af1dfae2c14"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60136,7 +60299,9 @@
 		"id": "c47eb923-d80a-478a-9627-e43597edb0a3",
 		"replaces": [
 			"42c53f8d-6743-449e-a5c4-fe011248c796"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60148,7 +60313,9 @@
 		"id": "9becbfce-4647-4840-bd02-838edcb77306",
 		"replaces": [
 			"2884e63f-164a-4182-80ab-3b3d15bd6e35"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60160,7 +60327,9 @@
 		"id": "7841291f-1f39-46e2-af07-1216f31261f0",
 		"replaces": [
 			"5c3158a6-be9d-474c-a22c-209b620235e6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60184,7 +60353,9 @@
 		"id": "7f525656-ea47-42ef-8ecb-5a7974e03faa",
 		"replaces": [
 			"6aff0761-6c70-4ddd-abf8-44c9c16369f4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60196,7 +60367,9 @@
 		"id": "aa9dd9a2-0c81-42d3-b6d8-cd42f95b8f7d",
 		"replaces": [
 			"820000b2-79da-4d54-8ebc-ecc16b75a120"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60208,7 +60381,9 @@
 		"id": "45e4416c-6661-4123-acf0-cc0baf58114d",
 		"replaces": [
 			"f1b9c319-d475-4dd3-9e37-d62545571f54"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60220,7 +60395,9 @@
 		"id": "60f136a9-def8-4017-aa37-6ee8a8bc1b60",
 		"replaces": [
 			"85d86d33-f034-4c1f-936a-ae25e7b61449"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60232,7 +60409,9 @@
 		"id": "c4345b4c-6263-4c5a-a1b2-b2009eecff5c",
 		"replaces": [
 			"9a77a2a1-1b90-40e5-8351-768575aea15a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60244,7 +60423,9 @@
 		"id": "8a0c2526-37da-47d4-be1a-5b7b8571d274",
 		"replaces": [
 			"81ac2d9f-90b3-490d-919d-011ac11c2077"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60256,7 +60437,9 @@
 		"id": "bb77805c-abce-4b29-b99f-fa431da759fb",
 		"replaces": [
 			"54d116c7-f23f-4049-86c1-7c6d79fed218"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60268,7 +60451,9 @@
 		"id": "ea9f5f4e-6fb0-4932-9358-64fff2d65a52",
 		"replaces": [
 			"1fbb5cfa-a8c8-4eb6-b976-2b30ac8bf150"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60280,7 +60465,9 @@
 		"id": "337d0380-8e3d-4dca-af78-c66d94a0919d",
 		"replaces": [
 			"f0e2a318-87f4-470b-b686-054821f33bd3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60292,7 +60479,9 @@
 		"id": "ccfe79b2-f7e3-4cf4-96aa-bed448bd9e5d",
 		"replaces": [
 			"f2b069e2-cbd5-41d4-8794-73757f25481e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60304,7 +60493,9 @@
 		"id": "adb5977a-8e49-453f-b590-d756a362efce",
 		"replaces": [
 			"6186bd5b-7fbb-47fa-8d91-7207ddeebd93"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60316,7 +60507,9 @@
 		"id": "ad48a07c-8122-474f-8286-5fc84abb6339",
 		"replaces": [
 			"313a418c-bd45-4fc1-a028-795d734bcf25"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60328,7 +60521,9 @@
 		"id": "06f59d55-4fff-44d7-8177-bbe58b3f79fd",
 		"replaces": [
 			"c66ffa9b-1e8c-43b1-8822-830edbd36852"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60340,7 +60535,9 @@
 		"id": "39266f40-8db6-4290-8f1a-b2b2f1ebd77d",
 		"replaces": [
 			"930f6f95-a417-4715-848b-7c2268f00603"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60352,7 +60549,9 @@
 		"id": "5946dded-6eb5-4167-9947-2369ec6f0d5e",
 		"replaces": [
 			"aaf520f4-c112-4497-8e85-cec432534bca"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60364,7 +60563,9 @@
 		"id": "8740e849-781b-4ea0-a89f-53804543bd4e",
 		"replaces": [
 			"ba86de53-bd66-44c7-9590-1d9e5565ecf3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60376,7 +60577,9 @@
 		"id": "d362d600-2b3c-4293-af34-01e0d0b94f39",
 		"replaces": [
 			"296b7bf9-def3-49e5-b7d7-48a72f2708bf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60388,7 +60591,9 @@
 		"id": "4bef0780-d3ec-4989-a88c-f010dcaa5117",
 		"replaces": [
 			"5fbce4c6-1e18-4876-b293-074913742436"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60400,7 +60605,9 @@
 		"id": "83ac1328-bc7d-4272-8f3f-08ed4649df1c",
 		"replaces": [
 			"34060565-b6ae-4608-b26e-05145cb82032"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60412,7 +60619,9 @@
 		"id": "6f34dcae-dc97-4e0f-9494-eddadb049fcf",
 		"replaces": [
 			"3958f4b3-1978-4ea7-8209-9bd540e1e0d2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60424,7 +60633,9 @@
 		"id": "871ea18d-40c6-4785-a196-e5bbdf89d1e9",
 		"replaces": [
 			"376a4aeb-67bd-4a43-b0b9-8e708130ef73"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60436,7 +60647,9 @@
 		"id": "9dada003-8384-4496-8eca-c9e177ce04c1",
 		"replaces": [
 			"88de4a47-ec86-4842-9c45-99cb64fe53bb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60448,7 +60661,9 @@
 		"id": "d10669a1-03d4-49eb-b539-6d751c17196f",
 		"replaces": [
 			"31366068-ba1e-4a8e-83bf-cc07bec5e256"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60460,7 +60675,9 @@
 		"id": "faaf97f0-50b3-4667-b873-5a06704a78e7",
 		"replaces": [
 			"d6f141ba-c8ba-4d88-9728-1b193c69a20f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60472,7 +60689,9 @@
 		"id": "2e8185e6-b659-4e32-b7a1-a3cf33027fc2",
 		"replaces": [
 			"5243b3bf-61b2-4380-9277-3e96474f0fb5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60484,7 +60703,9 @@
 		"id": "3d95deeb-fa0b-48fb-90d5-22d966ae013c",
 		"replaces": [
 			"b5b0f179-6ad3-4379-b6fe-6f3bdab7b0af"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60496,7 +60717,9 @@
 		"id": "aa756fde-bd65-456b-803e-7fe5f037b0dc",
 		"replaces": [
 			"1889fb18-533d-461e-b730-a15db6832298"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60508,7 +60731,9 @@
 		"id": "0f3bd16e-3cfa-46a2-8006-09eab0d2964c",
 		"replaces": [
 			"171019ce-73d7-49ef-81e0-2461791d5632"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60520,7 +60745,9 @@
 		"id": "4d997408-7af8-4399-bb4e-702acf9dbcd8",
 		"replaces": [
 			"695e9267-3ebf-4bca-b6e6-4bf6eb0961c9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60532,7 +60759,9 @@
 		"id": "a978a40a-2112-435a-88b7-5eb491c112dc",
 		"replaces": [
 			"17309834-b40c-49a7-b459-4a29ee367ec0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60544,7 +60773,9 @@
 		"id": "38b9c7ed-0443-4c51-842e-e46e07174e8d",
 		"replaces": [
 			"56513060-81b0-43e0-8c59-832616a3444d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60556,7 +60787,9 @@
 		"id": "4e08efd6-8593-4005-b7a7-f3333511e18e",
 		"replaces": [
 			"ea6865da-3eaa-4461-9a3a-c9b6de1b1d38"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60568,7 +60801,9 @@
 		"id": "3c5b104b-09aa-4fee-88a4-c2b532324412",
 		"replaces": [
 			"bde846d0-94ea-4da2-a7e2-c1219ff85bcc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60580,7 +60815,9 @@
 		"id": "1ba07f47-0276-4dbf-8d7a-2dbfb46975ed",
 		"replaces": [
 			"920afca4-fc0d-4c96-98a2-0e5e9ab89685"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60592,7 +60829,9 @@
 		"id": "5ff5b900-09ed-4dfb-9ab5-e2344fd59147",
 		"replaces": [
 			"1dc434d5-fff4-4f2f-9b53-c5170e30893f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60604,7 +60843,9 @@
 		"id": "5f90bf5e-7ce5-4918-96c5-c78f8c70208f",
 		"replaces": [
 			"b0bb5df0-2946-48db-a607-0df8cd3985c5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60616,7 +60857,9 @@
 		"id": "cdb0c675-3cba-44eb-b375-fbdeeb3fdc40",
 		"replaces": [
 			"4aa6e618-d486-42b7-92c6-a7c61c3ffaff"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60628,7 +60871,9 @@
 		"id": "830d229d-508d-41f7-b5ae-935dffc7de91",
 		"replaces": [
 			"1bc3f3b4-fc6b-4ab5-afba-7576314d9c5b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60640,7 +60885,9 @@
 		"id": "ccc14035-ee21-45d0-9bfc-bfeab88499ad",
 		"replaces": [
 			"f1c80f55-ed88-4578-96e1-30c619178032"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60652,7 +60899,9 @@
 		"id": "194d9bd8-3f66-4315-bcff-43c994ee75c9",
 		"replaces": [
 			"debe9b9b-f2c2-46d0-a1fd-2fbbf8007817"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60664,7 +60913,9 @@
 		"id": "5396847d-4868-4fa3-8a91-6a595aba220e",
 		"replaces": [
 			"bdc888f2-356a-4eff-bccf-bc9364e4e35e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60676,7 +60927,9 @@
 		"id": "7d02a3b8-19d6-4ad2-beb0-0c1c7ec8baeb",
 		"replaces": [
 			"06d5224e-1408-4b1a-aae3-eb813a781686"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60688,7 +60941,9 @@
 		"id": "302a98df-e0cd-41e5-9831-a2fdbf08d45c",
 		"replaces": [
 			"7ece9538-1a1a-46b3-9fc5-f464b9909b8b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60700,7 +60955,9 @@
 		"id": "441019c3-5aca-44cd-a5bd-90f37e766ffc",
 		"replaces": [
 			"fc5c1e91-8a98-4a5f-8f1d-6d69d63195dd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60712,7 +60969,9 @@
 		"id": "e716403b-0140-420b-b49a-f08b9202fe79",
 		"replaces": [
 			"64b5a206-4b59-467e-9cea-6a5688ff281d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60724,7 +60983,9 @@
 		"id": "591194c4-6c37-4a56-b1f4-c11f50ddd542",
 		"replaces": [
 			"a0ff7fd6-f350-44b2-b65d-fc9f078ca02e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60736,7 +60997,9 @@
 		"id": "342531e1-e492-4b29-9b2f-d713202da3d5",
 		"replaces": [
 			"addadfe7-2f86-41de-b8d7-11e5b04a8863"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60748,7 +61011,9 @@
 		"id": "0c1678cf-693d-484c-99b6-8607e74cf8c0",
 		"replaces": [
 			"5651d22d-05cf-4bcc-9d54-a08fb86e7d1f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60760,7 +61025,9 @@
 		"id": "4691dde6-61d7-4c68-be3b-7253014f7aa1",
 		"replaces": [
 			"12f2d699-1b23-460b-ab76-148750070924"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60772,7 +61039,9 @@
 		"id": "74cdc972-1408-4cf7-85b5-0a32376af259",
 		"replaces": [
 			"1dc5f12d-0ca1-4a8f-aaa4-13f78a0a8e3d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60784,7 +61053,9 @@
 		"id": "ebee3f33-a07d-4336-a2b2-680ffda6422b",
 		"replaces": [
 			"96b0e681-8438-4ffe-accd-b289acd89f21"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60796,7 +61067,9 @@
 		"id": "d924d29d-e044-46ef-8da7-25504fb5d8a3",
 		"replaces": [
 			"cb41934d-64cd-49de-9dcf-371d170ee0c8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60808,7 +61081,9 @@
 		"id": "aa9d4abf-56d7-4038-89c2-d9c6439793fa",
 		"replaces": [
 			"6d794363-239e-4dba-846d-4e3b763c46ba"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60820,7 +61095,9 @@
 		"id": "e335f061-2d82-45bb-b295-6ad219b3f52f",
 		"replaces": [
 			"8f79fc46-7d3e-46c2-ae8a-f6f361a86c01"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60832,7 +61109,9 @@
 		"id": "d841fd18-9682-43ee-a6e6-91837c625464",
 		"replaces": [
 			"3cb5f56c-7695-41d6-b78a-a9e14de3f191"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60844,7 +61123,9 @@
 		"id": "c6858854-3dc4-41e9-b4f0-6495c2df4d40",
 		"replaces": [
 			"de41549f-7a63-49b3-b6b5-bcf772dd43fd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60856,7 +61137,9 @@
 		"id": "900a13f1-bfcf-4505-9806-608afc2f2c41",
 		"replaces": [
 			"d11f45e2-35b3-4685-8e48-e260d8091409"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60868,7 +61151,9 @@
 		"id": "92cdf303-c18f-4768-af9b-461c4c1eebda",
 		"replaces": [
 			"8068b229-b8e1-41fc-bfff-884a20f874a6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60880,7 +61165,9 @@
 		"id": "30a36b9b-36e4-4ac1-bbb0-67d94565e121",
 		"replaces": [
 			"569dfd47-45df-4943-96cd-a48fb12d7e14"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60892,7 +61179,9 @@
 		"id": "735897a1-bd56-44c0-8713-35800bb2f239",
 		"replaces": [
 			"d22fcd72-7e46-4759-9264-1342ebb36cee"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60904,7 +61193,9 @@
 		"id": "ef2296be-ccc1-49b6-ab91-47c207154f07",
 		"replaces": [
 			"56dc4287-aac3-49bc-a06a-130b8ed4c4ea"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60916,7 +61207,9 @@
 		"id": "94531145-c00c-4365-895e-16074802e724",
 		"replaces": [
 			"b6e8e7f1-cf7b-4efc-abfd-ceb859fbcce8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60928,7 +61221,9 @@
 		"id": "718e6beb-d94e-4f38-a0a1-d08511b2003d",
 		"replaces": [
 			"5444097a-08b7-4b16-8ad4-bd09871a9e5c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60940,7 +61235,9 @@
 		"id": "a19725c9-99e7-43af-831e-e114f61dc246",
 		"replaces": [
 			"6b72f160-2e48-492b-94be-9e41881fc4ae"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60952,7 +61249,9 @@
 		"id": "49e3b724-8718-4649-b365-9b65f7f2598f",
 		"replaces": [
 			"096ed2eb-1176-4b4d-ac71-2a30bcd0cd23"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60964,7 +61263,9 @@
 		"id": "15d3db8c-4bfd-43ba-8449-64ca49959a45",
 		"replaces": [
 			"ec5bf6e5-cf64-47a1-bd4e-907af2542fa2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60976,7 +61277,9 @@
 		"id": "1d6281ab-1096-4a92-a3d4-fd1ce9a762e5",
 		"replaces": [
 			"dde221b6-c8c6-4770-acdf-2c109dc585ae"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -60988,7 +61291,9 @@
 		"id": "70e8f341-afbc-47ce-b58b-f6fd9644533f",
 		"replaces": [
 			"2f590775-ba03-46c3-b90b-064a409dbe29"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61000,7 +61305,9 @@
 		"id": "731aa713-f5db-4297-90a0-cef377286981",
 		"replaces": [
 			"d9f4490f-613e-4b16-9ebd-0cf63fb7e77f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61012,7 +61319,9 @@
 		"id": "32a1d81b-cffb-42e0-b92c-70f784c8271b",
 		"replaces": [
 			"5045f821-3a80-4c43-a170-71729f73e8fe"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61024,7 +61333,9 @@
 		"id": "08d60a7e-5a6f-456f-8c97-b5dc9023228f",
 		"replaces": [
 			"f7271177-366f-4f12-b7c4-371edf7e2e63"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61036,7 +61347,9 @@
 		"id": "5c1752e9-124a-4515-b03c-6e2331baedf2",
 		"replaces": [
 			"c2c96f9c-1649-4974-afe7-833fa0b1979b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61048,7 +61361,9 @@
 		"id": "b6061f7d-68d0-4a62-9634-c3f8e95943b2",
 		"replaces": [
 			"54532c0e-6185-4c25-b280-7632a74ac844"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61060,7 +61375,9 @@
 		"id": "2fef03e7-a0b6-456d-baf7-f9d4e9aaf53c",
 		"replaces": [
 			"b4c991ac-31b7-4e70-af9d-a00b6e8d21cc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61072,7 +61389,9 @@
 		"id": "07d8bac1-d51c-4bb4-b3d0-6bfe2d540694",
 		"replaces": [
 			"7759067c-6ef2-4a87-b3f1-b74287301586"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61084,7 +61403,9 @@
 		"id": "4aa8675b-804c-4cb1-b619-0940ec0cd2c1",
 		"replaces": [
 			"31d207dc-30b7-4ac2-8ab2-241b9c3ff5bf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61096,7 +61417,9 @@
 		"id": "ad72f42d-3f60-44f6-a952-789573a4d6d5",
 		"replaces": [
 			"f696cdb4-c4bd-49e9-9c41-b3f33db66504"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61108,7 +61431,9 @@
 		"id": "105cdc09-cfb2-4c91-8727-d36537acab45",
 		"replaces": [
 			"fd9b5f09-69df-4cb9-9b12-20fd5b7314e9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61120,7 +61445,9 @@
 		"id": "790dd286-cf8e-4eb0-9183-533a97cad3c4",
 		"replaces": [
 			"3a4f4189-c787-4b83-81be-4a0ad7592162"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61132,7 +61459,9 @@
 		"id": "7724d572-82c6-4b7c-8f6f-c1d5bece16e2",
 		"replaces": [
 			"63d1b6d9-713b-4c03-8735-2b79520d2bd3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61144,7 +61473,9 @@
 		"id": "3887c25d-2a65-4ab4-aa23-f8a27e97cbd0",
 		"replaces": [
 			"9bc883e7-4094-4d14-95e5-b9198788f14e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61156,7 +61487,9 @@
 		"id": "d7461eeb-833e-4a8f-96e3-83d32e9f1be3",
 		"replaces": [
 			"a9f1c483-58ec-42e1-a85d-ecf6e69f87e4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -61168,7 +61501,9 @@
 		"id": "2c9e98b8-9c31-4d6a-9e0b-f5e9c4ed7615",
 		"replaces": [
 			"709c5f2a-9799-4c05-a8fc-391befbafb69"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -76093,6 +76428,17 @@
 		],
 		"title": "De kandidaat kan andere kunstvormen dan drama herkennen en de functies ervan benoemen.",
 		"id": "a589e7fe-6deb-4554-91d5-386256ae531d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/V/DomeinA/A10/10.1",
+		"examenprogramma_eindterm_id": [
+			"e412fc86-02cc-40bb-a335-857daa7f5c52"
+		],
+		"title": "De kandidaat kan chemische vakbegrippen herkennen en gebruiken aggregatietoestand / fase; - toestandsaanduidingen (s), (l), (g) en (aq)  alcoholen;  ammonia;  atomaire massa eenheid (u);  broeikaseffect;  carbonzuren;  coëfficiënt;  destillaat;  explosie;  extractiemiddel;  fase- overgang;  filtraat;   index;  indicator;  loopvloeistof;  molariteit / molair (M);  natronloog;  ontbrandingstemperatuur;  ontledingsreactie: elektrolyse, fotolyse en thermolyse;  onvolledige verbranding;  oplosmiddel;    reagens;  residu;  titratie;  triviale naam;  ijklijn;  zoutzuur.",
+		"id": "1c68d4fc-5f31-43cc-a6ae-8a0336d98a54",
 		"unreleased": true
 	}
 ]
