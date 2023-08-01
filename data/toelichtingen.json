@@ -32222,5 +32222,229 @@
 		"title": "Ontdekkingsreizen en nieuwe zeeroutes, contacten met andere culturen (bijvoorbeeld Ottomaanse Rijk, Nieuwe Wereld, China).",
 		"id": "e17f064d-e54a-4c7f-a902-e8461493b9b3",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Accenten binnen het onderwerp:\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw; \r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV); \r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen); \r\n- hofdans en hofballet (ballet de cour); \r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
+		"id": "a811665d-cc5d-469f-877e-8581939e2e57",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Verbinding christelijke heilsgeschiedenis, klassieke geschiedenis en mythologie.",
+		"id": "ecaca1a0-3ccd-4169-b603-1f72168dbd90",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Kunst als propaganda van/voor vorsten via allegorische voorstellingen (bijvoorbeeld Catharina de Medici, Lodewijk XIV).",
+		"id": "4e83c645-5a7b-4778-87d6-295eb9ca837a",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Humanisme: studie van klassieke teksten, levenshouding gericht op het wereldlijke en het individu.",
+		"id": "20feef34-ef40-4139-af20-8c5a54a40e49",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Reformatie en contrareformatie.",
+		"id": "ce3ef074-e4db-41cf-ab8d-d04eff0aa0fe",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Klassieke theorieën over schoonheid (Plato, Aristoteles): schoonheid als eenheid van delen, maat, verhouding, symmetrie, orde.",
+		"id": "9433147a-75c6-49be-ae48-13b3eacb1ff8",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Uomo universale als beschavingsideaal",
+		"id": "2f6cca5c-6d5f-4112-8499-81ec58f7e452",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Invloed van contrareformatie op de kunsten.",
+		"id": "23a2baaf-4b9d-4b58-86a9-485431206114",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Maakbare en beheersbare natuur (bijvoorbeeld tuinen).",
+		"id": "16ab08cb-b6c9-4a04-907b-5767022b0ee2",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontwikkelingen binnen theater: aristotelische principes in de tragedie in Frankrijk (bijvoorbeeld Jean Racine) en Engeland (bijvoorbeeld William Shakespeare).",
+		"id": "04f06087-1f59-4cea-ab3b-50d8572b5a99",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Lichaamshouding en dans als uiting van beschaving (bijvoorbeeld Baldassare Castiglione: 'Boek van de hoveling').",
+		"id": "fce61f3f-cac5-4243-8646-1e3f3be2b561",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Hofballetten en opera's als poging om het Griekse totaaltheater te reconstrueren.",
+		"id": "50cf86f6-3517-450d-bb89-f42650ca5c03",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Ontwikkelingen in de muziek: prima pratica (polyfonie en homofonie) en seconda pratica (Claudio Monteverdi): opera, monodie.",
+		"id": "942a936f-26a7-4bff-8d9f-f216f0944191",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Organisatie samenleving en bestuur: onafhankelijke stadsstaten in de zestiende eeuw in Italië; (absolute) monarchieën in de zeventiende eeuw (bijvoorbeeld in Frankrijk); centrale bestuursmacht van de vorst betekent ook economische macht.",
+		"id": "6438deb5-7c2c-491a-ae27-64786d286654",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Mythologie als allegorische verwijzing naar politiek en status vorst.",
+		"id": "cf9f85cb-1647-4714-bb79-d002d84197e4",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Status van de kunstenaar: van ambachtsman naar kunstenaar (artes liberales), opkomst hofkunstenaar (musici, dansmeesters, toneelschrijvers, architecten, schilders) en 'vrije' ondernemer; academies.",
+		"id": "e05c668e-820b-48ab-94b7-a6cfb1d187bc",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Positie van vrouwelijke kunstenaars: veelal afhankelijk van afkomst/familie (bijvoorbeeld Artemisia Gentileschi).",
+		"id": "d77ea618-46d0-4187-8f4f-4358edc5ed29",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Opdrachtgevers: hof, kerk, adel, vermogende burgers; patronage/mecenaat.",
+		"id": "90fe8639-9584-455a-98e8-354f87423f56",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"title": "Encyclopedische verzamelingen van vorsten en wetenschappers.",
+		"id": "bf9ae946-e6ab-4de3-94ab-662fbbad1811",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Mythologische verhalen als bron van vermaak.",
+		"id": "f92ab442-a372-4702-a631-fab384e5a973",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Monodie; ontwikkeling instrumentale muziek vanuit de begeleiding van de dans (danssuite).",
+		"id": "d3aa82a9-9b8d-4c17-8584-d2bc9916aee7",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Villa's als 'lustoorden' en vermaaksfuncties van tuinen.",
+		"id": "fb0d8ba6-4d14-4f67-88cf-3d051aefd3ef",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Theaterspektakel (intermezzi), Italiaanse en Franse opera.",
+		"id": "84acefa8-d563-40ad-adc8-9833ead54b6b",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Hofdans (gezelschapsdans) en hofballet (theatrale dans).",
+		"id": "bb026f05-b512-4a34-bc31-c68f2c2672ad",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Commedia dell'arte: stereotypering en improvisatie.",
+		"id": "506bec8a-bc42-4079-be38-3fccb7f842ee",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Toepassing van wetenschappelijke ontdekkingen in de kunsten: bijvoorbeeld optica, perspectief, anatomie, landmeten, cartografie, mechanica.",
+		"id": "708d799a-4585-45d6-a55b-0afeaba43d7d",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontwikkeling van muziekinstrumenten (bijvoorbeeld uitbreiding van de strijkinstrumenten).",
+		"id": "b143bc5b-2b7c-4f33-87a6-456baa27508d",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Empirisch onderzoek van werkelijkheid (Leonardo da Vinci), samenhangend wereldbeeld.",
+		"id": "1d2bfd68-e14d-4b15-83df-3cfcb49c35b3",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst intercultureel",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontdekkingsreizen en nieuwe zeeroutes, contacten met andere culturen (bijvoorbeeld Ottomaanse Rijk, Nieuwe Wereld, China).",
+		"id": "81edef8f-667f-418f-afd6-b537f752a6c3",
+		"unreleased": true
 	}
 ]
