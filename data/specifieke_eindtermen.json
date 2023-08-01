@@ -80282,5 +80282,47 @@
 		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
 		"id": "c759ad87-3142-4cbb-b530-77262933a809",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"examenprogramma_eindterm_id": [
+			"135fdea5-512b-4ba7-baba-90ddce4c1a60"
+		],
+		"syllabus_toelichting_id": [
+			"a811665d-cc5d-469f-877e-8581939e2e57",
+			"ecaca1a0-3ccd-4169-b603-1f72168dbd90",
+			"4e83c645-5a7b-4778-87d6-295eb9ca837a",
+			"20feef34-ef40-4139-af20-8c5a54a40e49",
+			"ce3ef074-e4db-41cf-ab8d-d04eff0aa0fe",
+			"9433147a-75c6-49be-ae48-13b3eacb1ff8",
+			"2f6cca5c-6d5f-4112-8499-81ec58f7e452",
+			"23a2baaf-4b9d-4b58-86a9-485431206114",
+			"16ab08cb-b6c9-4a04-907b-5767022b0ee2",
+			"04f06087-1f59-4cea-ab3b-50d8572b5a99",
+			"fce61f3f-cac5-4243-8646-1e3f3be2b561",
+			"50cf86f6-3517-450d-bb89-f42650ca5c03",
+			"942a936f-26a7-4bff-8d9f-f216f0944191",
+			"6438deb5-7c2c-491a-ae27-64786d286654",
+			"cf9f85cb-1647-4714-bb79-d002d84197e4",
+			"e05c668e-820b-48ab-94b7-a6cfb1d187bc",
+			"d77ea618-46d0-4187-8f4f-4358edc5ed29",
+			"90fe8639-9584-455a-98e8-354f87423f56",
+			"bf9ae946-e6ab-4de3-94ab-662fbbad1811",
+			"f92ab442-a372-4702-a631-fab384e5a973",
+			"d3aa82a9-9b8d-4c17-8584-d2bc9916aee7",
+			"fb0d8ba6-4d14-4f67-88cf-3d051aefd3ef",
+			"84acefa8-d563-40ad-adc8-9833ead54b6b",
+			"bb026f05-b512-4a34-bc31-c68f2c2672ad",
+			"506bec8a-bc42-4079-be38-3fccb7f842ee",
+			"708d799a-4585-45d6-a55b-0afeaba43d7d",
+			"b143bc5b-2b7c-4f33-87a6-456baa27508d",
+			"1d2bfd68-e14d-4b15-83df-3cfcb49c35b3",
+			"81edef8f-667f-418f-afd6-b537f752a6c3"
+		],
+		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
+		"id": "75a70bfa-02c9-4ef8-9ea9-0bade2fc1924",
+		"unreleased": true
 	}
 ]
