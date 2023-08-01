@@ -23432,7 +23432,9 @@
 		"id": "1762dca1-06d6-419c-93f6-1ff84b6ee42b",
 		"replaces": [
 			"40c81f34-5fff-457f-adfa-1c5da9ba4976"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23456,7 +23458,9 @@
 		"id": "9a095142-9df3-4635-aecb-ebc7c02c489d",
 		"replaces": [
 			"01b68217-8d7c-4f3d-bbad-7ad70d978e6c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23492,7 +23496,9 @@
 		"id": "710e5b82-d625-4c1c-9645-e9b90bdecbd7",
 		"replaces": [
 			"665b2d22-0708-42b1-9b77-931e3ec3bc30"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23500,11 +23506,13 @@
 		"examenprogramma_eindterm_id": [
 			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
 		],
-		"title": "Vanuit het functionalisme-paradigma wordt bij (politieke) socialisatie aandacht besteed aan het belang van het voortbestaan van de (politieke) cultuur van de samenleving en de (politieke) integratie van de persoonlijkheid, met nadruk op de betekenis van waarden en normen, opvattingen en gedragspatronen.",
+		"title": "Binnen het functionalisme-paradigma wordt ervan uitgegaan dat de samenleving via geïnternaliseerde rolverwachtingen haar stempel op de persoonlijkheid van de leden van die samenleving kan drukken. Op deze manier wordt de persoonlijkheid gevormd.",
 		"id": "0df624f9-bd2d-4377-b187-ff4822bf01a7",
 		"replaces": [
 			"c2b2584f-05e5-41fd-abfb-e767cf450f7d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23528,7 +23536,9 @@
 		"id": "cea20d01-cf21-46b3-ad8e-c5e332ae8c56",
 		"replaces": [
 			"24cdf08a-9c94-4da6-8d69-f9cadc177582"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23540,7 +23550,9 @@
 		"id": "74c1cb1d-9d18-41ca-ab2d-855a017ebeb9",
 		"replaces": [
 			"f0ca694d-f1fb-4169-b479-cbfec611edf5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23552,7 +23564,9 @@
 		"id": "8801f102-22c0-4909-8aa9-9cfbe746e6be",
 		"replaces": [
 			"44222496-9795-46a8-8f2f-e199fbd0124c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23560,11 +23574,13 @@
 		"examenprogramma_eindterm_id": [
 			"deb09fcd-d66d-481c-86bc-956a005474f1"
 		],
-		"title": "Op mondiaal niveau zijn de verhoudingen tussen staten aan verandering onderhevig door de groeiende wederzijdse afhankelijkheid van staten, de schaalvergroting en globalisering van de economie en de groeiende samenwerking tussen staten",
+		"title": "Op mondiaal niveau zijn de verhoudingen tussen staten aan verandering onderhevig door de groeiende wederzijdse afhankelijkheid van staten, de schaalvergroting en globalisering van de economie en de groeiende samenwerking tussen staten.",
 		"id": "bc1773a6-9e2d-4636-8af8-36ef55b873c6",
 		"replaces": [
 			"b82dae09-ed37-46b3-8f5a-42bd0f2f9689"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23576,7 +23592,9 @@
 		"id": "0b70b82b-c844-4e9b-8a6c-6fb6da3470f2",
 		"replaces": [
 			"effadac0-232e-48c8-8583-73aae1ccea12"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23588,7 +23606,9 @@
 		"id": "a8ae59fc-b784-4e98-aa72-5b5b5097cc51",
 		"replaces": [
 			"b73c5e23-2c2a-4ab6-ae4e-c7820738e037"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23600,7 +23620,9 @@
 		"id": "78ac4f65-7d8e-400b-83b7-c2fe66b6d1cf",
 		"replaces": [
 			"e908915b-b8d5-4199-96ab-d869aa30dea5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23612,7 +23634,9 @@
 		"id": "5a7ed008-61ff-41be-8c45-ec19e374d990",
 		"replaces": [
 			"ae45b574-c127-408e-8190-c79ae9b1b3e0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23624,7 +23648,9 @@
 		"id": "d0c42fff-a72e-44cc-af71-3b88dbe3fdc5",
 		"replaces": [
 			"7563cca6-b246-4e3e-8f45-051f24bf31b3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23636,7 +23662,9 @@
 		"id": "6cd2381c-add5-4c76-b9b4-30936103ce58",
 		"replaces": [
 			"61620fa7-18d7-4dfa-ac71-71cba3aebb60"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23648,7 +23676,9 @@
 		"id": "f295f3ab-97f5-42be-bf93-89652cb01e0e",
 		"replaces": [
 			"47190331-a249-49e6-9a09-bc1ae907c108"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23660,7 +23690,9 @@
 		"id": "ad5b0d56-8be7-442a-a902-932d5bba2304",
 		"replaces": [
 			"6d3adf24-df2f-40cf-a750-21f8f99195cb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23708,7 +23740,9 @@
 		"id": "2cfbf9b9-0f89-43d8-adb0-ccc74f6f7988",
 		"replaces": [
 			"dcb01d69-6914-4352-a4d7-24c961beebab"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23720,7 +23754,9 @@
 		"id": "4f290e93-8e68-462a-b08b-14fa7f9aa8c0",
 		"replaces": [
 			"4badaf8c-f7ff-481b-8c7f-de31204bfbba"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23744,7 +23780,9 @@
 		"id": "4cb76617-0bb7-4c30-b6ea-27971df2cb25",
 		"replaces": [
 			"2b779ce9-c7d2-477f-bce1-d76840e4e337"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23756,7 +23794,9 @@
 		"id": "177ee682-2f68-4440-8b49-2e3bb0356e3b",
 		"replaces": [
 			"1232dab0-511e-4189-942b-5cb38bfb39ff"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23780,7 +23820,9 @@
 		"id": "33e10544-e347-4f93-825d-df36635f586c",
 		"replaces": [
 			"de484bfb-4aae-4c01-9f51-731515514c9e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23804,7 +23846,9 @@
 		"id": "0b9a44ff-08aa-4371-bdc2-220c70cb3776",
 		"replaces": [
 			"73b7c9a4-8059-4260-9bfe-99892124f9f9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23816,7 +23860,9 @@
 		"id": "f0b2f656-3c78-4d20-a623-37e3611d03b9",
 		"replaces": [
 			"f009e9a2-3713-4d35-8fc2-bed0c194f785"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23828,7 +23874,9 @@
 		"id": "2d831d30-e39a-41c2-b0f8-383ea6c5c302",
 		"replaces": [
 			"8fd8d512-9b59-445a-98d6-4c04cac6a33b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23840,7 +23888,9 @@
 		"id": "585fe6ac-e11e-4f38-b58a-8bc1f3fab079",
 		"replaces": [
 			"f6790b04-f2c6-406b-8c15-97c9e6374451"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23852,7 +23902,9 @@
 		"id": "4466f0e3-3ac3-42c4-8a5a-e31b44673758",
 		"replaces": [
 			"03f51e19-5925-4de4-b4b4-ad8751c4d74b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23876,7 +23928,9 @@
 		"id": "416f58e8-4f72-4fb0-ac73-740a2bbd457d",
 		"replaces": [
 			"6ad40c1c-4603-4857-bf1a-d8349f18002c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23888,7 +23942,9 @@
 		"id": "e306a3c0-d4b3-4dd8-8bd1-5d3e72f8e3c7",
 		"replaces": [
 			"6a29e76c-bed2-4dea-a9be-7bb2616bfce8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23912,7 +23968,9 @@
 		"id": "29636bfa-1fa7-4767-9451-ef640a30a6e1",
 		"replaces": [
 			"71d6078e-48bf-4229-836d-6f465adef942"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -23924,7 +23982,9 @@
 		"id": "dc0c958b-c94f-448b-916a-401928b80add",
 		"replaces": [
 			"fdbb6142-022f-4214-b338-642fe8f0f74f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f485bc2c-ca94-4daa-a9c4-f0a089248945",
@@ -31561,6 +31621,233 @@
 		],
 		"title": "De kandidaat kan beschrijven dat elektrische energie kan worden gebruikt voor omzetting van chemische energie in elektrische energie en omgekeerd: brandstofcel/elektrochemische cel/batterij en opladen accu/batterij.",
 		"id": "428a8a4d-4ac4-4e6a-8b97-d5e2e752a0fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "Toelichting",
+		"title": "Een informatiebron is betrouwbaar indien er maximale zekerheid bestaat dat de geleverde informatie correct is. Deze zekerheid wordt bepaald door het beoordelen van gebruikte bron op: \r\n- gedegenheid: een willekeurige website bijvoorbeeld is minder betrouwbaar dan de site van nos.nl en een wetenschappelijk artikel is betrouwbaarder dan een krantenartikel;  \r\n- kwaliteitscontrole en controleerbaarheid: is de informatie door onafhankelijke partijen beoordeeld en op waarde geschat, zoals bij wetenschappelijke publicaties het geval is? Is het duidelijk waarop de informatie is gebaseerd en is de auteur benaderbaar voor vragen? \r\n- bevestiging: is de informatie ook door andere bronnen bevestigd of gaat het om een eenmalige, unieke bevinding door een enkele bron?",
+		"id": "4c937bad-83b6-45b8-8ed1-679266ed4499",
+		"unreleased": true
+	},
+	{
+		"prefix": "Toelichting",
+		"title": "Een informatiebron is representatief indien de verstrekte informatie gebaseerd is op een zo volledig mogelijke weerspiegeling van het betreffende fenomeen of de groep waar het om gaat. Een niet representatieve informatiebron richt zich enkel op unieke en specifieke gevallen.",
+		"id": "3172df13-e367-4b7b-8c5c-fe0e4ab1d1d0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.1/toel.1",
+		"title": "Socialisatie is “het proces van overdracht en verwerving van de cultuur van de groep(en) en de samenleving waar mensen toe behoren. Het proces bestaat uit opvoeding, opleiding en andere vormen van omgang met anderen”. Mensen verschillen van dieren door de lange periode van onvolwassenheid, waarin zij de cultuur overnemen van de mensen om hen heen, de zogenaamde socialisatoren.",
+		"id": "1c412e53-0ddc-45c7-b7f3-322f05bf486a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.1",
+		"title": "Primaire socialisatie speelt zich af binnen kleine groepen en gemeenschappen, waarin mensen directe persoonlijke relaties met elkaar hebben. Het proces verloopt informeel en vanzelfsprekend. Gezin en peergroup zijn de belangrijkste socialisatoren in primaire socialisatie. Primaire socialisatie leidt tot de ontwikkeling van een 'tweede natuur'. Het wordt wel je ‘sociale huid’ genoemd, omdat mensen ermee vergroeid zijn en het deel uitmaakt van hun persoonlijke leven en zelfbesef.",
+		"id": "424c0c64-5624-4725-8f7e-dd06cbeef98b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.2",
+		"title": "Bij secundaire socialisatie is dat mensen in formele/georganiseerde omstandigheden en omgevingen leren hoe ziji zich moeten gedragen. Secundaire socialisatie wordt wel ‘sociale kleren’ genoemd. Mensen kunnen gedragingen aanpassen en wisselen afhankelijk van de gelegenheid. Secundaire socialisatie vindt vooral plaats in formele organisaties en instituties, zoals school, buurt, verenigingen, werk etc. Bij secundaire socialisatie spelen collectieve rituelen een belangrijke rol. Tijdens een ritueel bevestigt een aantal vaste handelingen het belang van het moment en van bepaalde gedeelde waarden (diploma uitreiking). Gemeenschapsgevoel en groepsidentiteit worden daarmee versterkt.",
+		"id": "94760b60-2d91-447d-9931-baf121e34f1c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.2/toel.3",
+		"title": "Bij tertiaire socialisatie is het proces waarbij waarden, normen en gedragspatronen overgedragen, vaak impliciet, door anonieme socialisatoren waarmee mensen niet rechtstreeks een band hebben. Het gaat dan om cultuur die is ingebed in media, literatuur, rolmodellen, machthebbers, etcetera. Het belang van media voor socialisatie is in de afgelopen decennia snel toegenomen en hiermee is dus ook tertiaire socialisatie steeds belangrijker geworden.",
+		"id": "7d0436d3-8f50-4a88-a68a-c1081141e708",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.3/toel.1",
+		"title": "Identiteit is “het beeld dat iemand van zichzelf heeft, dat hij uitdraagt en anderen voorhoudt en dat hij als kenmerkend en blijvend beschouwt voor zijn eigen persoon en dat is afgeleid van zijn perceptie over groep(en) waar hij wel of juist niet deel van uitmaakt”.  Identiteit wordt gevormd tijdens de socialisatie en is het resultaat van interactie met andere mensen of met anonieme socialisatoren zoals media.",
+		"id": "8ce24846-4adc-436b-b0a2-e3154d6ab158",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinB/B1/4.3/toel.2",
+		"title": "Er wordt onderscheid gemaakt tussen persoonlijke identiteit, sociale identiteit en collectieve of groepsidentiteit:  persoonlijke identiteit is het beeld dat iemand heeft van zichzelf. Het is het antwoord op de vraag ‘wie ben ik?’.26 Het zelfbeeld van een opgroeiend individu wordt in hoge mate bepaald door de manieren waarop ‘belangrijke anderen’, bijvoorbeeld ouders of vrienden, zich tegenover dat individu gedragen. Het individu ziet zichzelf door de ogen van de anderen en vormt zo een zelfbeeld.",
+		"id": "6a820e78-38f6-443c-9baa-71690c1781d3",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinB/B1/4.3/toel.3",
+		"title": "Er wordt onderscheid gemaakt tussen persoonlijke identiteit, sociale identiteit en collectieve of groepsidentiteit: sociale identiteit is het beeld dat iemand heeft van zichzelf als lid van de sociale groep(en) en categorieën waar hij of zij deel van uitmaakt. Iemand ziet zichzelf bijvoorbeeld als vrouw, Rotterdammer, Europeaan, Nederlander met Marokkaanse roots, jongere en Sparta-fan. Dergelijke identiteiten sluiten elkaar niet uit maar vormen samen een geheel van identificaties dat deze persoon maakt tot wie hij is. Sociale identiteit kan ook naar buiten toe worden uitgedragen. De verschillende elementen van iemands sociale identiteit stellen anderen in staat deze persoon sociaal te plaatsen.",
+		"id": "d5197950-3ab8-4c9e-9f71-3021b7d67be4",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinB/B1/4.3/toel.4",
+		"title": "Er wordt onderscheid gemaakt tussen persoonlijke identiteit, sociale identiteit en collectieve of groepsidentiteit: bij collectieve identiteit maken we een onderscheid tussen interne collectieve identiteit en externe collectieve identiteit. Het is het beeld van meerdere mensen samen die zich als een groep of gemeenschap beschouwen of zo worden beschouwd door niet-leden of buitenstaanders.",
+		"id": "f5f58e3f-5c4d-4175-8523-85c8a55b956f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.4/toel.2",
+		"title": "Dimensies van Hofstede. Landen en culturen verschillen qua waarden, normen en opvattingen. Hofstede onderscheidt zes dimensies, waarop je culturen van elkaar kunt onderscheiden.",
+		"id": "4c991201-1615-41e5-ac40-8c9236aa526c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B1/4.4/toel.3",
+		"title": "Het gaat om de volgende dimensies: \r\n- Grote machtsafstand versus kleine machtsafstand;\r\n- Individualistisch versus collectivistische; \r\n- Maculien versus feminien; \r\n- Lage onderzekerheidsvermijding versus hoge onzekerheidsvermijding; \r\n- Langetermijngerichtheid versus kortetermijngerichtheid; \r\n- Hedonisme versus soberheid.",
+		"id": "f7d13305-5ae9-4cc4-b56d-c01bcd7c74b9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B2/5.2/toel.1",
+		"title": "Veel voorkomende politieke meningen in een land kunnen gerangschikt worden naar verschillende politieke dimensies zoals links/midden/rechts, progressief/conservatief, materialisme/postmaterialisme.",
+		"id": "dd6e41cc-3652-4e6e-a3ca-cdb3f9680ba1",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinB/B2/5.2/toel.3",
+		"title": "Het Nederlandse politieke landschap kende traditioneel drie hoofdstromingen: de confessionele, de liberale en de socialistische/sociaaldemocratische stroming.  \r\n- confessionalisme met van oorsprong uitgangspunten als christelijke waarden en samenwerking in maatschappelijke verbanden zoals verenigingen, scholen en kerken; \r\n-  liberalisme met van oorsprong uitgangspunten als: individuele rechten en individuele vrijheden; \r\n- socialisme/sociaaldemocratie met van oorsprong uitgangspunten als: gelijk(waardig)heid en een sturende rol van de overheid om dit te kunnen realiseren.",
+		"id": "3b1b318f-3056-4b36-ba1f-7b44405731d2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B3/6/toel.2",
+		"title": "Vanuit het conflict-paradigma wordt bij (politieke) socialisatie aandacht besteed aan de betekenis van de socialisatie voor ongelijkheid in de samenleving en voor ongelijke machtsverhoudingen en (potentiële) conflicten op lokaal, (inter)nationaal of mondiaal niveau. Socialisatie betekent binnen deze traditie dat men machtsverhoudingen leert herkennen.",
+		"id": "d531b006-0f4a-40ca-b8bf-d870d8908dd6",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinC/C2/10.1/toel",
+		"title": "In de politiek streeft men vaak naar meer gezag, omdat men daarmee erkend wordt als de persoon of instantie die invloed mag uitoefenen op anderen. De zeggenschap over anderen wordt dan als legitiem aanvaard. Daardoor verkrijgt men een sterkere positie dan wanneer de invloed alleen gebaseerd is op pure machtsuitoefening, omdat de inzet van dwangmaatregelen niet nodig is en conflict over machtsbronnen minder sterk aan het licht komt.",
+		"id": "2d46c505-9e4a-4098-b7a1-d3069ac5ce88",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12.1/toel",
+		"title": "Het statensysteem is het resultaat van het proces van staatsvorming in West-Europa vanaf de late middeleeuwen.",
+		"id": "88bd5427-bd44-40f1-aa05-2963b46438c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12.2a/toel",
+		"title": "Mondiale machtsverhoudingen verschuiven. Opkomende economieën waaronder met name China en India, worden belangrijker. Dat gaat ten koste van de machtspositie van de VS en Europa.",
+		"id": "c75af8c8-c1ff-4be0-9dfc-7a26be045999",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12.2b/toel",
+		"title": "Een fragiele of falende staat is vaak niet bij machte (grote delen van) zijn grondgebied te beheersen, noch de veiligheid van zijn burgers te garanderen, omdat hij zijn monopolie op het gebruik van geweld verloren heeft. Daardoor is zo'n staat niet langer in staat de interne rechtsorde te handhaven.",
+		"id": "bb2b8d62-9da2-4eb5-8c74-e4b1e7f21877",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinC/C4/12.3/toel.",
+		"title": "Inmiddels zijn de globaliseringsprocessen complexer geworden, zoals te zien aan bijvoorbeeld de groeiende economische en geopolitieke macht van China, de wereldwijde financiële crisis van 2008, het verzet tegen de neoliberale wereldorde en het verzet tegen aspecten van de moderne westerse cultuur",
+		"id": "caa47ae8-de5e-4c85-acfb-24db8189f49e",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinC/C4/12.4/toel.",
+		"title": "Het proces van globalisering zet door in steeds meer gebieden die steeds hechter met elkaar verbonden worden in wat inmiddels de ‘Global Village’ genoemd wordt. Een groeiende wereldbevolking produceert meer, consumeert meer, vervuilt meer, heeft meer energiebronnen en grondstoffen nodig en belast daarmee in steeds hogere mate het natuurlijke milieu.",
+		"id": "43fd28e4-141d-46f0-b959-24a85a078df5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12.6/toel",
+		"title": "Twee groepen theorieën geven een verklaring voor de verschillen in ontwikkeling tussen rijke landen enerzijds en arme landen anderzijds: de evolutionistische theorieën en de afhankelijkheidstheorieën.",
+		"id": "8c7e841b-1755-4f65-8d8e-8058fda3c8c3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D1/14.1/toel",
+		"title": "Ondanks individualiseringstendensen zijn mensen fundamenteel en op verschillende manieren van elkaar afhankelijk. Deze afhankelijkheden verschillen: sommige mensen hebben elkaar nodig omdat ze liefde voor elkaar voelen of dat ze van elkaar afhankelijk zijn voor inkomen of eten. Wederzijdse afhankelijkheden creëren bindingen.",
+		"id": "b1c19a43-9760-42cb-9fc2-c1a724b738fe",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D1/14.1/toel",
+		"title": "De verschillende afhankelijkheden kunnen in vier ideaaltypische vormen van sociale bindingen worden beschreven:\r\n- economische bindingen\r\n- politieke bindingen\r\n- cognitieve bindingen\r\n- affectieve bindingen.",
+		"id": "e6e5d7aa-717c-486c-81fb-5e46a2146f7b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D1/14.2/toel.2",
+		"title": "Wetenschappers binnen het conflict-paradigma stellen juist de geringe mate van sociale cohesie tussen groepen centraal.",
+		"id": "ef1d83ca-71ba-4489-8c0d-afa57d146a12",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D1/14/toel.",
+		"title": "Er worden vijf fasen onderscheiden in de ontwikkeling van nieuwe groepen, die overigens niet altijd in deze volgorde verloopt:\r\n- oriëntatiefase\r\n- conflictfase\r\n- integratiefase\r\n- uitvoeringsfase\r\n- ordefase.",
+		"id": "2d2b1c21-9947-46ff-9cf8-8c90bdaef931",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D1/14.5/toel.",
+		"title": "Sociale instituties hebben de volgende kenmerken: \r\n- ze bestaan buiten het individu om: een enkel persoon kan een institutie niet afschaffen; \r\n- ze hebben vaak een lange traditie: belangrijke sociale instituties zijn niet binnen een kort tijdsbestek ontstaan, maar hebben zich historisch ontwikkeld; \r\n- ze zijn enerzijds vrij stabiel, maar anderzijds ook veranderlijk door de tijd heen: als de omstandigheden in een samenleving veranderen, veranderen ook haar instituties; \r\n- ze zijn niet alleen gebaseerd op wettelijke macht, maar berusten vaak op  moreel gezag; \r\n- ze zijn dwingend: door instituties wordt gedrag gesanctioneerd, dit is beloond of bestraft.",
+		"id": "ce8b5a46-62c8-4146-93d7-11a983660fae",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D3/16.1/toel.",
+		"title": "De natie bestaat uit groepen mensen die zich verbonden voelen met elkaar vanwege een gedeelde geschiedenis, taal en/of cultuur en die uit een gevoel van gedeelde lotsbestemming een eigen staat (politieke soevereiniteit) nastreven. Binnen deze omschrijving zijn verschillende invullingen denkbaar. Sommige naties worden gevormd rond een etnische groep (bloedbanden), andere rond gedeelde waarden (burgerschap).",
+		"id": "5dbf7987-dea6-4362-ae49-11720deb8096",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D3/16.1/toel.",
+		"title": "Het ontstaan van de Nederlandse staat is een onderdeel van het proces van staatsvorming in WestEuropa vanaf de middeleeuwen.98 Langzamerhand verdween de feodale samenleving en ontstond een modern statensysteem.",
+		"id": "613014d4-0d94-4544-b747-c44b4641b7ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D3/16.3/toel.",
+		"title": "Globaliseringsprocessen die de autonomie en macht van de staten kunnen aantasten zijn bijvoorbeeld:  \r\n- De toename van problemen als onveiligheid (terrorisme), epidemieën, migratie, milieu en klimaatkwesties, grondstoffenschaarste, economische crises en ongelijkheid krijgen in toenemende mate een grensoverschrijdend karakter; \r\n- De ontwikkeling van conflicten tussen staten, maar ook tussen naties en groepen met gedeelde waarden en/of belangen die over staatsgrenzen heen georganiseerd zijn; \r\n- De groeiende invloed van internationale niet-gouvernementele organisaties (zowel maatschappelijke als marktactoren, bv. Amnesty International of grote multinationals); \r\n- De groeiende invloed van intergouvernementele (en soms partieel supranationale) organisaties; \r\n- Internationalisering van militaire, economische en politieke macht;\r\n- Europese integratie.",
+		"id": "73fb835e-7b29-414f-a131-b6a1ad4d4553",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D3/16.4/toel.",
+		"title": "Factoren die ertoe bijdragen dat er bindingen met de nationale staat ontstaan (één taal, geschiedenis op school, dienstplicht, nationale feestdagen, ideeën over gemeenschappelijke herkomst en geschiedenis, een gemeenschappelijke cultuur) zijn grotendeels afwezig op Europees niveau.",
+		"id": "19cf775c-a7b4-445c-8993-46e441331818",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinD/D5/18.3/toel.",
+		"title": "De WRR-rapporten uit 2007 en 2018 werden door sommige politieke partijen met instemming ontvangen en door andere politieke partijen bekritiseerd. Sinds de lancering van het rapport in 2007 zijn de politieke standpunten ten opzichte van nationale identiteit en identificatie meer gepolariseerd geraakt.",
+		"id": "c9ce219e-6b5f-44ae-80e1-67902c964728",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E1/19.1/toel",
+		"title": "Rationalisering is “het proces van het ordenen en systematiseren van de werkelijkheid met de bedoeling haar voorspelbaar en beheersbaar te maken en van het doelgericht inzetten van middelen ten einde zo efficiënt en effectief mogelijke resultaten te bereiken”. Rationalisering betreft de vergaande en diepgaande veranderingen die zich in samenlevingen sinds de late middeleeuwen hebben voorgedaan.",
+		"id": "c85b7f5c-de60-4f1b-bd75-d7d9e18200b2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E2/20.1/toel",
+		"title": "Staatsvorming is “de institutionalisering van politieke macht tot een staat”. Daarbij breidt de politieke macht zich uit en verandert de politieke macht door processen van depersonalisering, formalisering en integratie. Daarbij breidt de politieke macht zich uit en verandert de politieke macht door processen van depersonalisering, formalisering en integratie.",
+		"id": "6d0f67dd-dee2-4d00-8169-c97d75700447",
+		"unreleased": true
+	},
+	{
+		"prefix": "MAW/V/DomeinE/E3/21.1/toel.",
+		"title": "Het begrip ‘moderne samenleving’ duidt op een samenlevingstype dat is ontstaan vanaf het tijdvak dat in de Europese geschiedenis aangeduid wordt als de Verlichting.",
+		"id": "fcf5aec4-3975-411f-b242-9fc2eed69aaa",
 		"unreleased": true
 	}
 ]
