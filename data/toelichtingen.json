@@ -2343,11 +2343,12 @@
 		"prefix": ""
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\r\n- avantgardistische stromingen;\r\r\n- expressie en abstractie;\r\r\n- architectuur: functionalisme;\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
+		"title": "Accenten binnen het onderwerp:\r\r\r\n- avantgardistische stromingen;\r\r\r\n- expressie en abstractie;\r\r\r\n- architectuur: functionalisme;\r\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
 		"id": "beb9103a-3c84-4c1b-b79f-c5da8659c302",
 		"description": "",
 		"ce_se": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
@@ -2518,11 +2519,12 @@
 		"prefix": ""
 	},
 	{
-		"title": "Accenten binnen het onderwerp: \r\r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\r\n- multidisciplinaire kunst; fusion en cross over;\r\r\n- popart, postmodernistische kunst;\r\r\n- engagement; activistische kunst;\r\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\r\n- locatietheater, vormingstheater;\r\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
+		"title": "Accenten binnen het onderwerp: \r\r\r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\r\r\n- multidisciplinaire kunst; fusion en cross over;\r\r\r\n- popart, postmodernistische kunst;\r\r\r\n- engagement; activistische kunst;\r\r\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\r\r\n- locatietheater, vormingstheater;\r\r\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\r\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
 		"id": "0cc38269-9aef-4d1f-9c1a-57386b8f6692",
 		"description": "",
 		"ce_se": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
@@ -31990,6 +31992,230 @@
 		"prefix": "ML2/K/4/6a.1.1/toel.2",
 		"title": "In een verzorgingsstaat dient de overheid zorg te dragen voor: - Bescherming tegen verlies van inkomen; vanwege verlies aan werk, door ziekte en ouderdom, met name door middel van het stelsel van sociale zekerheid -  Collectieve welzijnsvoorzieningen waaronder gezondheidszorg, onderwijs, huisvesting - Rechtvaardige inkomensverdeling - Bevordering van voldoende werkgelegenheid",
 		"id": "6f4df83e-319c-4563-9d35-469336e57e6b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Accenten binnen het onderwerp:\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw; \r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV); \r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen); \r\n- hofdans en hofballet (ballet de cour); \r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
+		"id": "ca14df4a-d5f9-46a9-9092-3fcb24ebd7f0",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Verbinding christelijke heilsgeschiedenis, klassieke geschiedenis en mythologie.",
+		"id": "db893dd6-dc73-46c8-bdce-2e0021541ed8",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Kunst als propaganda van/voor vorsten via allegorische voorstellingen (bijvoorbeeld Catharina de Medici, Lodewijk XIV).",
+		"id": "f986faa4-efe1-4d8b-9806-ef6362cbe859",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Humanisme: studie van klassieke teksten, levenshouding gericht op het wereldlijke en het individu.",
+		"id": "451cba18-d8c2-412d-b4d5-e2afae07f755",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en religie, levensbeschouwing",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Reformatie en contrareformatie.",
+		"id": "5b6ebed7-e80c-43f6-a7ee-05327639707f",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Klassieke theorieën over schoonheid (Plato, Aristoteles): schoonheid als eenheid van delen, maat, verhouding, symmetrie, orde.",
+		"id": "35ae9157-1719-47a3-bd77-3b0a85e5a66b",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Uomo universale als beschavingsideaal",
+		"id": "46b0a542-d0ae-4241-8cea-f04502c4ef05",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Invloed van contrareformatie op de kunsten.",
+		"id": "f5e1aeba-5755-4a14-ac46-6eb89b8c47e1",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Maakbare en beheersbare natuur (bijvoorbeeld tuinen).",
+		"id": "717d94e1-2b42-4315-a580-25a601d0ccb3",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontwikkelingen binnen theater: aristotelische principes in de tragedie in Frankrijk (bijvoorbeeld Jean Racine) en Engeland (bijvoorbeeld William Shakespeare).",
+		"id": "c3d125f4-4c1a-4561-ab4a-2280ebf52414",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Lichaamshouding en dans als uiting van beschaving (bijvoorbeeld Baldassare Castiglione: 'Boek van de hoveling').",
+		"id": "f4c471ee-6913-4b4e-a1fb-0f3058068a52",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Hofballetten en opera's als poging om het Griekse totaaltheater te reconstrueren.",
+		"id": "842af920-1c7c-4a7c-89c1-7c981ae36269",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en esthetica",
+		"title": "Ontwikkelingen in de muziek: prima pratica (polyfonie en homofonie) en seconda pratica (Claudio Monteverdi): opera, monodie.",
+		"id": "105274f9-0ed8-4897-bbc4-e053a5312f16",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Organisatie samenleving en bestuur: onafhankelijke stadsstaten in de zestiende eeuw in Italië; (absolute) monarchieën in de zeventiende eeuw (bijvoorbeeld in Frankrijk); centrale bestuursmacht van de vorst betekent ook economische macht.",
+		"id": "f3486b3c-e08b-45da-befd-373916a03be8",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Mythologie als allegorische verwijzing naar politiek en status vorst.",
+		"id": "48ae67f5-e07a-466d-9792-dab3e723c32d",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Status van de kunstenaar: van ambachtsman naar kunstenaar (artes liberales), opkomst hofkunstenaar (musici, dansmeesters, toneelschrijvers, architecten, schilders) en 'vrije' ondernemer; academies.",
+		"id": "e4715734-810c-4659-b1db-e9958e0cd58b",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Positie van vrouwelijke kunstenaars: veelal afhankelijk van afkomst/familie (bijvoorbeeld Artemisia Gentileschi).",
+		"id": "b304ed47-fc23-4232-81a5-2295ba5619fa",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Opdrachtgevers: hof, kerk, adel, vermogende burgers; patronage/mecenaat.",
+		"id": "6b63adda-2802-4334-a060-15deb1a75d32",
+		"unreleased": true
+	},
+	{
+		"description": "Kunstenaar en opdrachtgever; politieke en economische macht",
+		"title": "Encyclopedische verzamelingen van vorsten en wetenschappers.",
+		"id": "f87d0a10-e0a1-4ad2-ab8c-a4976aa3edf0",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Mythologische verhalen als bron van vermaak.",
+		"id": "3ea34bf8-8e6d-47cf-b5b3-608d8d483304",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Monodie; ontwikkeling instrumentale muziek vanuit de begeleiding van de dans (danssuite).",
+		"id": "7f13a336-2116-4022-8e3e-ff53b1c96aa9",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Villa's als 'lustoorden' en vermaaksfuncties van tuinen.",
+		"id": "d6ec8591-efb6-414f-ab3a-0aabd1f98d0c",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Theaterspektakel (intermezzi), Italiaanse en Franse opera.",
+		"id": "07593d24-6bb0-4f1d-a53c-800b729192af",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Hofdans (gezelschapsdans) en hofballet (theatrale dans).",
+		"id": "c4bf1946-d3a3-4f00-a33f-89d7c7e24eb4",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst en vermaak",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Commedia dell'arte: stereotypering en improvisatie.",
+		"id": "1e6fbaec-8b9c-491d-9bda-14fc6b47a354",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Toepassing van wetenschappelijke ontdekkingen in de kunsten: bijvoorbeeld optica, perspectief, anatomie, landmeten, cartografie, mechanica.",
+		"id": "76ce8193-458f-4d65-b7a8-efcdbeb75a77",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontwikkeling van muziekinstrumenten (bijvoorbeeld uitbreiding van de strijkinstrumenten).",
+		"id": "1ce1da34-b857-4e9f-8c26-6ccd5b326d7f",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst, wetenschap en techniek",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Empirisch onderzoek van werkelijkheid (Leonardo da Vinci), samenhangend wereldbeeld.",
+		"id": "4f66c195-fb55-4d17-bf36-72fd55a58c40",
+		"unreleased": true
+	},
+	{
+		"description": "Kunst intercultureel",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Ontdekkingsreizen en nieuwe zeeroutes, contacten met andere culturen (bijvoorbeeld Ottomaanse Rijk, Nieuwe Wereld, China).",
+		"id": "e17f064d-e54a-4c7f-a902-e8461493b9b3",
 		"unreleased": true
 	}
 ]
