@@ -31282,5 +31282,118 @@
 		"id": "49c5e4db-e486-4bb4-ba8e-4a327fea46b9",
 		"unreleased": true,
 		"prefix": ""
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A10/toel.",
+		"examenprogramma_eindterm_id": [
+			"546d1ee1-4272-4a52-9651-959b6674d089"
+		],
+		"title": "Specificaties voor dit subdomein zijn opgenomen in de overige sferen om een logische ordening te bevorderen. Afhankelijk van de aard van ieder chemisch, natuurkundig of biologisch vakbegrip is bepaald waar deze opgenomen diende te worden. In die gevallen dat een vakbegrip geen toegevoegde waarde heeft binnen scheikunde ten op zichtte van hoe dit begrip in het dagelijks leven wordt gebruikt, is besloten dit vakbegrip niet langer op te nemen.",
+		"id": "848a1612-0820-4105-9104-061fc35c5c7b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A12/12/toel.",
+		"examenprogramma_eindterm_id": [
+			"23399940-0ea3-44c5-9d54-59c7d2a04021"
+		],
+		"title": "De specificaties van dit subdomein zijn nagenoeg ongewijzigd opgenomen, maar verplaatst naar sfeer ‘Materie’ (M7.1), waar de betreffende begrippen geplaatst zijn om aspecten van schaal te gebruiken bij beschrijven van materie.",
+		"id": "09cd8980-ab2d-42f8-9b84-e315926e5ea4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A13/13.1a",
+		"examenprogramma_eindterm_id": [
+			"7ef17d00-61be-48d4-8d03-c7580ce5cdc5"
+		],
+		"title": "De kandidaat kan door middel van systeemdenken concepten uit de sferen materie, reacties en rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van het leven en technologie & duurzaamheid: een systeem en haar grenzen herkennen en daarbinnen de onderdelen en onderlinge interacties benoemen.",
+		"id": "e1796e41-23ee-42f4-ad1e-55a3bf1f7788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A13/13.1b",
+		"examenprogramma_eindterm_id": [
+			"7ef17d00-61be-48d4-8d03-c7580ce5cdc5"
+		],
+		"title": "De kandidaat kan door middel van systeemdenken concepten uit de sferen materie, reacties en rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van het leven en technologie & duurzaamheid: de hiërarchie van het systeem herkennen aan de hand van de schaal en ordegrootte.",
+		"id": "c9a8d74f-7b74-4cfa-b146-36ed90c0725f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A13/13.1c",
+		"examenprogramma_eindterm_id": [
+			"7ef17d00-61be-48d4-8d03-c7580ce5cdc5"
+		],
+		"title": "De kandidaat kan door middel van systeemdenken concepten uit de sferen materie, reacties en rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van het leven en technologie & duurzaamheid: de verandering van het systeem, de onderdelen en de interacties over tijd en ruimte beschrijven.",
+		"id": "14bb7d38-c5e1-4a85-9d97-7333878f3475",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A13/13.1d",
+		"examenprogramma_eindterm_id": [
+			"7ef17d00-61be-48d4-8d03-c7580ce5cdc5"
+		],
+		"title": "De kandidaat kan door middel van systeemdenken concepten uit de sferen materie, reacties en rekenen & analyse verbinden met complexe vraagstukken en contexten binnen de sferen chemie van het leven en technologie & duurzaamheid: de invoer, uitstroom en circulariteit van energie- en materiestromen van een systeem benoemen en gebruiken in redeneringen.",
+		"id": "7d32ec78-9b14-4040-a336-2e098e70270e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A14/14/toel.",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"title": "Deze specificaties zijn ongewijzigd opgenomen onder sfeer ‘Technologie & Duurzaamheid’ (T4 specificaties 4.1 en 4.2)",
+		"id": "d48b4ded-d036-468b-b036-333ed6c9335e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A14/T4/14.1",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"title": "De kandidaat kan de rol van levenscycli van stoffen, materialen en producten aangeven in termen van duurzaamheid.",
+		"id": "9ec139af-bb2c-4eac-9888-9b4f2e346df4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A14/T4/14.2",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"title": "De kandidaat kan de maatschappelijke betekenis van de chemie toelichten in contexten over wereldvoedselvoorziening, duurzame energievoorziening, (drink)watervoorziening, beschikbaarheid van grondstoffen, opwarming van de aarde en vervuiling van de aarde.",
+		"id": "1c5ebab5-e762-4e32-ae25-a7306b6e6e37",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A14/T4/14.3a",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"title": "De kandidaat kan beschrijven dat elektrische energie kan worden gebruikt voor duurzame productie van stoffen: elektrolyse van water en waterstof.",
+		"id": "edcc3b71-af38-4611-a378-707122690502",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A14/T4/14.3b",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"title": "De kandidaat kan beschrijven dat elektrische energie kan worden gebruikt voor omzetting van chemische energie in elektrische energie en omgekeerd: brandstofcel/elektrochemische cel/batterij en opladen accu/batterij.",
+		"id": "428a8a4d-4ac4-4e6a-8b97-d5e2e752a0fb",
+		"unreleased": true
 	}
 ]
