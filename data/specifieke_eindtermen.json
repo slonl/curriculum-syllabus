@@ -36195,13 +36195,13 @@
 		"title": "Het proces van socialisatie en acculturatie",
 		"id": "2f5674dc-84a7-4c7d-b17a-0f13f98849f3",
 		"syllabus_toelichting_id": [
-			"861eba7d-51d6-4fdc-b3f7-32564d6eefa3",
-			"f34c5b19-1a2f-4e90-8712-f35bfc5d778f",
-			"41b7361a-2f45-4b18-adc1-a619e3f1f50e"
+			"1c412e53-0ddc-45c7-b7f3-322f05bf486a"
 		],
 		"replaces": [
 			"d4100bfc-3ec0-4421-b094-71a505e2b186"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36212,13 +36212,15 @@
 		"title": "Primaire, secundaire en tertiaire socialisatie",
 		"id": "b1c12ae9-7cb9-4b9d-bd7e-832f203ba4f2",
 		"syllabus_toelichting_id": [
-			"eca74ccd-c043-47df-b1d4-c66e4555a217",
-			"b624281c-6ef9-44ef-b895-d0c5f0e1f424",
-			"d0b9bcd4-50ac-4f25-b451-f981d2fb2d0c"
+			"424c0c64-5624-4725-8f7e-dd06cbeef98b",
+			"94760b60-2d91-447d-9931-baf121e34f1c",
+			"7d0436d3-8f50-4a88-a68a-c1081141e708"
 		],
 		"replaces": [
 			"8852ef70-e8bf-49fc-a6f3-a63f6d773575"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36229,11 +36231,16 @@
 		"title": "De vorming van de identiteit",
 		"id": "fa88e5f8-28c4-463b-834d-6f0d099db4f4",
 		"syllabus_toelichting_id": [
-			"a1b60569-ca87-4ffd-88d6-6b2e0220aa38"
+			"8ce24846-4adc-436b-b0a2-e3154d6ab158",
+			"6a820e78-38f6-443c-9baa-71690c1781d3",
+			"d5197950-3ab8-4c9e-9f71-3021b7d67be4",
+			"f5f58e3f-5c4d-4175-8523-85c8a55b956f"
 		],
 		"replaces": [
 			"19210e58-1c04-498e-be00-bba992c8386e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36245,11 +36252,14 @@
 		"id": "89f0197c-1a16-4cb3-bf9d-1dc359fc6477",
 		"syllabus_toelichting_id": [
 			"1762dca1-06d6-419c-93f6-1ff84b6ee42b",
-			"ba32903a-3f3c-422f-bcae-e19166d39d2e"
+			"4c991201-1615-41e5-ac40-8c9236aa526c",
+			"f7d13305-5ae9-4cc4-b56d-c01bcd7c74b9"
 		],
 		"replaces": [
 			"5985664d-d608-4636-97b9-0df045cc13e4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36260,12 +36270,13 @@
 		"title": "Het proces van politieke socialisatie",
 		"id": "fe6c288c-6f2d-40b8-b641-1f0deb27d0fa",
 		"syllabus_toelichting_id": [
-			"9a095142-9df3-4635-aecb-ebc7c02c489d",
-			"cb547898-fd43-4abe-b2d3-2a88ce01b3c1"
+			"9a095142-9df3-4635-aecb-ebc7c02c489d"
 		],
 		"replaces": [
 			"a4873d84-902a-4af6-9322-527bc3b9416c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36276,15 +36287,15 @@
 		"title": "Politieke ideologieën en de belangrijke politieke stromingen",
 		"id": "0bff41a0-f770-4cc1-aa48-8a87fd9cfaa2",
 		"syllabus_toelichting_id": [
-			"66e03c64-546b-4815-a21c-21752321f643",
+			"dd6e41cc-3652-4e6e-a3ca-cdb3f9680ba1",
 			"710e5b82-d625-4c1c-9645-e9b90bdecbd7",
-			"0df624f9-bd2d-4377-b187-ff4822bf01a7",
-			"45c3e649-19b2-409c-92d5-3df849285799",
-			"cea20d01-cf21-46b3-ad8e-c5e332ae8c56"
+			"3b1b318f-3056-4b36-ba1f-7b44405731d2"
 		],
 		"replaces": [
 			"a7b56800-ac76-493d-a113-3dadc56b3372"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36301,7 +36312,9 @@
 		],
 		"replaces": [
 			"855f4e8a-4d87-41ae-9b11-08e9376929dc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36316,7 +36329,9 @@
 		],
 		"replaces": [
 			"2f3a6fea-e898-411c-b06a-05ae56174c19"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36331,7 +36346,9 @@
 		],
 		"replaces": [
 			"2632d4ab-ebc9-404c-b802-04fb68be9e83"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36346,7 +36363,9 @@
 		],
 		"replaces": [
 			"02920cb4-b676-42d8-ba06-e631efe9e31e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36361,7 +36380,9 @@
 		],
 		"replaces": [
 			"3d6fcf52-da2f-401a-a3d1-6cb9736bd01a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36376,7 +36397,9 @@
 		],
 		"replaces": [
 			"e763af89-6ed1-41de-9433-f5dd84f7ffc1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36391,7 +36414,9 @@
 		],
 		"replaces": [
 			"1c9c5ca2-96cd-46da-bd80-94469b727ed1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36406,7 +36431,9 @@
 		],
 		"replaces": [
 			"3d92c1b8-53f0-4757-9c95-ae4147809306"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36421,7 +36448,9 @@
 		],
 		"replaces": [
 			"313fcd8a-a8e0-47d6-95de-241688b94004"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36432,11 +36461,13 @@
 		"title": "Het ontstaan van het statensysteem",
 		"id": "f22dfff5-51ac-4a52-a026-fb93f4749624",
 		"syllabus_toelichting_id": [
-			"f039772a-8b63-4964-bdab-eb6c4842151a"
+			"88bd5427-bd44-40f1-aa05-2963b46438c8"
 		],
 		"replaces": [
 			"68834b12-2928-43d2-a8cd-db74ad499570"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36447,11 +36478,13 @@
 		"title": "Opkomende staten",
 		"id": "a9b52162-a66b-47c1-a268-ea13fd1d7fe1",
 		"syllabus_toelichting_id": [
-			"ca8c877d-be1c-4ccc-9e95-ca50399e3373"
+			"c75af8c8-c1ff-4be0-9dfc-7a26be045999"
 		],
 		"replaces": [
 			"53eb9fca-6f39-4d2b-9a87-580c06dda8a4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36462,11 +36495,13 @@
 		"title": "Fragiele staten",
 		"id": "af1d44bc-ed57-4072-b19f-6755af464635",
 		"syllabus_toelichting_id": [
-			"8e257900-d337-49fd-87da-18fbacefe30f"
+			"bb2b8d62-9da2-4eb5-8c74-e4b1e7f21877"
 		],
 		"replaces": [
 			"0e8564ff-2fad-4137-8be0-608da7262be9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36496,7 +36531,9 @@
 		],
 		"replaces": [
 			"d783de49-e3b7-4b45-93b6-7945d8ec636c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36507,11 +36544,13 @@
 		"title": "De economische (onder)ontwikkeling van staten verklaard met behulp van theorieën",
 		"id": "18372ee0-6f6f-40c6-ade9-e20a57f66e01",
 		"syllabus_toelichting_id": [
-			"aea53b18-9e76-4d81-88ca-4875c5396e99"
+			"8c7e841b-1755-4f65-8d8e-8058fda3c8c3"
 		],
 		"replaces": [
 			"46d44fa8-4112-4032-9f6b-cf559440f12d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36526,7 +36565,9 @@
 		],
 		"replaces": [
 			"82ce01fd-13bd-457a-9d76-5f890d7820f5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36541,7 +36582,9 @@
 		],
 		"replaces": [
 			"ac0f5d89-0408-40bc-bb5f-58a80af6b211"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36552,11 +36595,14 @@
 		"title": "Typen bindingen tussen mensen.",
 		"id": "ec527905-6270-48b4-89c9-41f0188820a1",
 		"syllabus_toelichting_id": [
-			"ac15a5ac-8208-4a98-b930-92435d6dcf13"
+			"b1c19a43-9760-42cb-9fc2-c1a724b738fe",
+			"e6e5d7aa-717c-486c-81fb-5e46a2146f7b"
 		],
 		"replaces": [
 			"2830f695-3a6b-489c-b984-a6159926a3c5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36568,12 +36614,14 @@
 		"id": "b73c5efd-5487-4fc2-8c41-16403b2deba6",
 		"syllabus_toelichting_id": [
 			"33e10544-e347-4f93-825d-df36635f586c",
-			"6d7b9049-3e9b-4c3f-a368-ba2e211d97e7",
+			"ef1d83ca-71ba-4489-8c0d-afa57d146a12",
 			"0b9a44ff-08aa-4371-bdc2-220c70cb3776"
 		],
 		"replaces": [
 			"a8304c5e-e59b-49b1-b64e-2894f607c4df"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36589,7 +36637,9 @@
 		],
 		"replaces": [
 			"6062f01d-0c8d-4a3e-ab0a-3256c9b8870c"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36605,7 +36655,9 @@
 		],
 		"replaces": [
 			"5fe84831-9228-4401-b241-e8e9fd9ffd16"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36616,11 +36668,13 @@
 		"title": "Rationalisering",
 		"id": "380f7b2e-ffad-4569-99b9-cc3306d51a01",
 		"syllabus_toelichting_id": [
-			"923b5e03-2179-4c03-b502-df1c59df1af0"
+			"c85b7f5c-de60-4f1b-bd75-d7d9e18200b2"
 		],
 		"replaces": [
 			"9de04db2-8dec-480d-8bab-577ad4dc8e1d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36635,7 +36689,9 @@
 		],
 		"replaces": [
 			"f43ce09c-a674-44c1-b82d-28c1d12757e8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36650,7 +36706,9 @@
 		],
 		"replaces": [
 			"5494a432-e31e-496f-ac98-884bf0c994d9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36661,11 +36719,13 @@
 		"title": "Staatsvorming",
 		"id": "c563fd33-c5a1-483c-b1d4-af37555fa72e",
 		"syllabus_toelichting_id": [
-			"faf62530-84ae-4249-ae03-cbe7116fc43a"
+			"6d0f67dd-dee2-4d00-8169-c97d75700447"
 		],
 		"replaces": [
 			"33044e43-2c8b-4a3d-94f0-d05449508e4d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36680,7 +36740,9 @@
 		],
 		"replaces": [
 			"f77b5183-f5c2-4112-89d6-72b5483d9103"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -36695,7 +36757,9 @@
 		],
 		"replaces": [
 			"8bd60a41-a341-46d2-b099-426bdd24a9d7"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -73056,7 +73120,9 @@
 		"id": "d2d26e69-d956-455c-b4ff-b1748393db74",
 		"replaces": [
 			"f3ea9e47-e29d-406a-8bdc-6848ce1f15c5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73068,7 +73134,9 @@
 		"id": "971b69bd-451d-46fc-8112-f85d4872409a",
 		"replaces": [
 			"19b6b281-0648-4047-bc6b-62384def16d9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73080,7 +73148,9 @@
 		"id": "9abdb3fd-e7ad-4d04-afc7-f55c90c76657",
 		"replaces": [
 			"2aa35374-ed3c-43db-b45e-cbd530ba2016"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73128,7 +73198,9 @@
 		"id": "5dea8a27-efbd-4f69-9df4-cdb1bcd0724a",
 		"replaces": [
 			"63a02005-699a-49b8-856d-f57f8b6a6082"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73140,7 +73212,9 @@
 		"id": "65ad8ac5-9d8b-4a2c-bf9d-10b285a88b0e",
 		"replaces": [
 			"d7990340-bf99-48ff-a699-4c0c2c0c9386"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73152,7 +73226,9 @@
 		"id": "b78beb83-bfbb-4b8d-af0d-75eaaa6e3f57",
 		"replaces": [
 			"1535821f-c604-4dfa-96d9-8b2ed4efb93e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73176,7 +73252,9 @@
 		"id": "c14c00b3-3e59-4b5f-b2cf-958166b43be4",
 		"replaces": [
 			"fd23ded3-424f-4250-8395-24428abe5c57"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73188,7 +73266,9 @@
 		"id": "48c4461b-b8e0-452a-b037-db9d21c79e7c",
 		"replaces": [
 			"cfcbe3f2-4230-4184-9c3c-1f58053f0c5e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73200,7 +73280,9 @@
 		"id": "393be3d5-191d-49ea-9418-070fb06f73cf",
 		"replaces": [
 			"d37790ef-fcfc-47cf-86be-4223abca0cb9"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73212,7 +73294,9 @@
 		"id": "5f5c2ff8-45ef-4922-b0f4-066ade04ff6e",
 		"replaces": [
 			"c21257fb-dd90-4e2c-b303-654ea4e7dab0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73224,7 +73308,9 @@
 		"id": "1d40eaf8-a166-4035-b9a5-f96df3e9fe6f",
 		"replaces": [
 			"cfd14c19-219e-4bb9-8d66-bf86b2efbce6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73236,7 +73322,9 @@
 		"id": "0d6b8021-47f4-4ae4-843b-000b3c91070d",
 		"replaces": [
 			"5ea45f4f-853d-4e6b-9405-7dae3bdae5d8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73248,7 +73336,9 @@
 		"id": "af95c6ee-e3ae-4e35-9079-ebab8b10972d",
 		"replaces": [
 			"9804ed3a-85c5-4d20-9a39-0597da0eb0da"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73260,7 +73350,9 @@
 		"id": "347ee6be-d761-4e5e-8500-6aafd051f6c6",
 		"replaces": [
 			"4b074ee8-d9da-485e-a2ae-23a7d0c81291"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73272,7 +73364,9 @@
 		"id": "378dbdfd-f081-4e45-94e3-aead54fb303c",
 		"replaces": [
 			"573fd39d-2aa4-4a19-964f-3e2f5731009d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73284,7 +73378,9 @@
 		"id": "55238285-e636-41af-99c4-2ec69115cf39",
 		"replaces": [
 			"15b8dfb8-0352-4124-9188-65d4869f1633"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73296,7 +73392,9 @@
 		"id": "b0700324-b445-49b2-9048-e885aba9ba12",
 		"replaces": [
 			"19ceabeb-582d-4b74-9540-a5b54574e3e3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73308,7 +73406,9 @@
 		"id": "0b45c219-fb26-4292-a09b-0c6d1fb757bc",
 		"replaces": [
 			"31a6fa4e-02ea-4cac-a563-0170bbb8b581"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73320,7 +73420,9 @@
 		"id": "293b747d-49c3-4271-920c-073e8b7012a3",
 		"replaces": [
 			"9bcc1abc-1535-4eb7-960e-6c6022e864c6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73332,7 +73434,9 @@
 		"id": "841172fa-0ac0-4674-954a-41d3d38e8c00",
 		"replaces": [
 			"6822e807-a2f5-441d-81fa-235a5c300569"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73344,7 +73448,9 @@
 		"id": "15f65d41-2735-4128-94f5-ff28ffbc5e69",
 		"replaces": [
 			"a39cff62-048f-4d89-b2f9-64725f526bd4"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73356,7 +73462,9 @@
 		"id": "c6673bf6-d370-4ef8-becc-294d46381929",
 		"replaces": [
 			"3533c48a-fb06-470f-a1e3-af35d986da56"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73368,6 +73476,11 @@
 		"id": "7d85c72e-e1dd-4fce-8677-15ff8fb06920",
 		"replaces": [
 			"ad0373b4-1972-4013-9bf9-c10ae48780eb"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"caa47ae8-de5e-4c85-acfb-24db8189f49e"
 		]
 	},
 	{
@@ -73380,6 +73493,11 @@
 		"id": "2fe5ee24-01e5-4811-b1e6-8f1e3f157e4e",
 		"replaces": [
 			"afccd5b6-bcad-4583-8cbc-f313ec6d0cfd"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"43fd28e4-141d-46f0-b959-24a85a078df5"
 		]
 	},
 	{
@@ -73392,7 +73510,9 @@
 		"id": "db036306-b36b-48c9-bb4a-7f4afd257634",
 		"replaces": [
 			"0b65cdc9-569b-489d-b994-9348b8bd6809"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73404,7 +73524,9 @@
 		"id": "ac2dc636-3d3f-4782-a381-5320ba8abc5d",
 		"replaces": [
 			"45d91fe3-3d9d-4474-952a-25fd29be699d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73416,7 +73538,9 @@
 		"id": "7abe93d4-0d06-4f01-98e1-184382448eb1",
 		"replaces": [
 			"12441869-3563-476e-8ab5-91c265e7b81e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73428,7 +73552,9 @@
 		"id": "b21e77c5-83c6-4d19-b653-89a6b7381464",
 		"replaces": [
 			"94297016-2e19-499f-8b8f-106c77dc0ec8"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73440,7 +73566,9 @@
 		"id": "92b2d4cc-4341-4621-aa4c-0520f9976b96",
 		"replaces": [
 			"9fb2e4eb-e820-4f57-935d-8015ac3b0f94"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73452,6 +73580,11 @@
 		"id": "570486d4-ab65-4288-bc59-25f9b052f08f",
 		"replaces": [
 			"eb2ec205-53ff-4855-b08d-1c88f0bef9a5"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"2d2b1c21-9947-46ff-9cf8-8c90bdaef931"
 		]
 	},
 	{
@@ -73464,6 +73597,11 @@
 		"id": "1289b0df-16ab-4b7d-b78f-fd2e98388e64",
 		"replaces": [
 			"8c88cd79-00a4-4142-b191-1fa333bfe278"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"ce8b5a46-62c8-4146-93d7-11a983660fae"
 		]
 	},
 	{
@@ -73488,7 +73626,9 @@
 		"id": "a1d0f589-1eb5-4a89-827b-145f41b4f04c",
 		"replaces": [
 			"88b22688-e841-4c37-9178-169785904ae2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73500,6 +73640,12 @@
 		"id": "975e36c8-0fcd-46e1-9942-243ae11a7377",
 		"replaces": [
 			"67bdc2c6-869b-4de7-ac99-20d7d208d859"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"5dbf7987-dea6-4362-ae49-11720deb8096",
+			"613014d4-0d94-4544-b747-c44b4641b7ac"
 		]
 	},
 	{
@@ -73512,7 +73658,9 @@
 		"id": "541338fe-4a74-4b88-86b3-1910023c10da",
 		"replaces": [
 			"0cfffd08-a048-4401-8258-87689ed5e9a6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73524,6 +73672,11 @@
 		"id": "12a93aa4-fcaf-4ccb-a772-c59e32a58721",
 		"replaces": [
 			"fd5aa6b0-8454-4254-b757-6c5f4641bb28"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"73fb835e-7b29-414f-a131-b6a1ad4d4553"
 		]
 	},
 	{
@@ -73536,6 +73689,11 @@
 		"id": "baabb046-2ec3-46f1-9bac-3e114f79c50c",
 		"replaces": [
 			"8c0e7d03-c2d6-4d4a-98c8-de65b82a1f73"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"19cf775c-a7b4-445c-8993-46e441331818"
 		]
 	},
 	{
@@ -73548,7 +73706,9 @@
 		"id": "3998c18e-aa3a-422d-8df7-6697a296c13b",
 		"replaces": [
 			"983cbb5a-d12a-4141-9628-ce708631bcf2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73560,7 +73720,9 @@
 		"id": "1d7e4f19-ed0c-4731-878d-58f9907cca5f",
 		"replaces": [
 			"2e135815-c8e4-4b83-b05b-a90ebb14a0d0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73572,7 +73734,9 @@
 		"id": "d4f2b530-23cd-4f09-885a-9038e017bb08",
 		"replaces": [
 			"b0463986-ff83-42a9-a824-1e3be8d77a66"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73584,7 +73748,9 @@
 		"id": "b06cd493-3e72-445a-bd03-2dd54a067433",
 		"replaces": [
 			"a4d25a0f-a4aa-4b3b-9188-831c82feee66"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73596,7 +73762,9 @@
 		"id": "61d044ad-55be-4f4c-ade4-57665c68e04f",
 		"replaces": [
 			"f2ce5603-d37a-450c-934f-dba630b0d5b2"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73608,7 +73776,9 @@
 		"id": "6b42535b-8c1c-4da9-9cf2-a949c38bfaea",
 		"replaces": [
 			"523d26bd-c078-4e6f-b9e4-1eae8ee6a686"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73656,6 +73826,11 @@
 		"id": "d059eeeb-c03f-4e79-bc14-0ff021aafbac",
 		"replaces": [
 			"b515c222-05c8-4855-a4ae-800553391af9"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"c9ce219e-6b5f-44ae-80e1-67902c964728"
 		]
 	},
 	{
@@ -73668,6 +73843,11 @@
 		"id": "4c75737a-0b2b-4d3c-b84a-0ee7c2e859ff",
 		"replaces": [
 			"8eabb9a7-14e9-4362-9a59-b44883c6096b"
+		],
+		"dirty": true,
+		"description": "",
+		"syllabus_toelichting_id": [
+			"fcf5aec4-3975-411f-b242-9fc2eed69aaa"
 		]
 	},
 	{
@@ -73680,7 +73860,9 @@
 		"id": "331c2854-263e-419f-b191-ded48a513d83",
 		"replaces": [
 			"553b0689-b6a1-4e39-8636-50d31c656b64"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73692,7 +73874,9 @@
 		"id": "272d7d88-b976-438e-9c58-e22484c34f4e",
 		"replaces": [
 			"344000ad-12ab-4f40-846c-15cf2f46ed98"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73704,7 +73888,9 @@
 		"id": "798e0a5d-e8cf-4ca3-acdf-f06ca4014a0b",
 		"replaces": [
 			"3e72f248-1924-45dc-95b1-8c7ee6fa0ad1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73716,7 +73902,9 @@
 		"id": "29d13064-ebe4-4d01-aa9b-8d39737acd0c",
 		"replaces": [
 			"78a1b913-a33d-4313-8beb-3da5877deb75"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73728,7 +73916,9 @@
 		"id": "8730b3a9-5282-4056-bfda-6b63c9c30d67",
 		"replaces": [
 			"327894c9-564c-4597-ab63-058b2517ca8e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73740,7 +73930,9 @@
 		"id": "a0039429-e768-4c76-b292-5a92ee77fda6",
 		"replaces": [
 			"5b283d28-1d22-4aa8-9e8d-546f94c7010d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73752,7 +73944,9 @@
 		"id": "b9943246-ef3f-49b5-b627-c659a2946b1c",
 		"replaces": [
 			"3a9700ff-9cb8-40bc-a722-8a501d6b2762"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73764,7 +73958,9 @@
 		"id": "082e3be9-4243-4f9c-a406-0c874fedd07d",
 		"replaces": [
 			"d5cb68d8-b84e-4fe6-a7ce-b06d6b6e045f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73776,7 +73972,9 @@
 		"id": "bb5c9a40-775a-4602-96b8-fe3c549f37bd",
 		"replaces": [
 			"8de21582-0de2-40db-b64b-ebe27ec40406"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73788,7 +73986,9 @@
 		"id": "818d7199-d83c-4e42-8c47-c4d9479fcd5e",
 		"replaces": [
 			"e42cf196-28d4-4c84-a538-e4604b5ebdc1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73800,7 +74000,9 @@
 		"id": "1b2d5513-ea29-4205-bf0c-fd0887e0fbb2",
 		"replaces": [
 			"fcd853df-4761-40bd-bc25-16bc859acb43"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73812,7 +74014,9 @@
 		"id": "be6d5524-bd55-4fac-853f-d26ba80058ad",
 		"replaces": [
 			"84f19d3d-d14c-4716-81d7-afeb32cf5864"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73824,7 +74028,9 @@
 		"id": "0757f7a4-9ee0-4cf8-bdd5-294327623e84",
 		"replaces": [
 			"6b87603a-8917-429a-9c8b-ec4ecb4cfeb1"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73836,7 +74042,9 @@
 		"id": "495cd895-4352-4b03-a958-6d01970a7701",
 		"replaces": [
 			"7fac8dc0-b18c-4929-b2b2-51f0358460c3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73848,7 +74056,9 @@
 		"id": "069bac42-c7cf-459f-9cb7-dc9202982f35",
 		"replaces": [
 			"de64335c-b28b-4c46-b648-7a014c647b61"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73860,7 +74070,9 @@
 		"id": "752b41ee-e86f-4f17-8e94-5454ecc1f878",
 		"replaces": [
 			"5cc6374e-4bba-4f0a-8e60-c903e0944779"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73872,7 +74084,9 @@
 		"id": "e24b4889-e58b-44fd-af61-c6768a5baa9b",
 		"replaces": [
 			"1f821975-7812-4d30-826b-1ee4fb8dea29"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -73884,7 +74098,9 @@
 		"id": "0012c3d7-961a-4aa4-9f84-b8aa02bb528c",
 		"replaces": [
 			"d34470a4-156e-4f87-832f-b9c2c9b67a21"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -79245,6 +79461,242 @@
 		],
 		"title": "De kandidaat kan de volgende begrippen herkennen en gebruiken: macrostructuur/macroniveau: op niveau van stoffen en materialen (stof-/ materiaaleigenschappen).",
 		"id": "9ab36956-d611-4401-8bfb-22b2e9596efa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.1",
+		"examenprogramma_eindterm_id": [
+			"f9630f67-48d1-4ee1-805d-ac35b7210106"
+		],
+		"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit één of meerdere informatiebronnen en de bruikbaarheid daarvan beoordelen.",
+		"id": "4f3170c0-33fe-4631-8a32-10f449cdb561",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.2",
+		"examenprogramma_eindterm_id": [
+			"f9630f67-48d1-4ee1-805d-ac35b7210106"
+		],
+		"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en deze te typeren naar mate van objectiviteit. Een informatiebron is objectief indien de verstrekte informatie gebaseerd is op wetenschappelijke bevindingen en feiten en niet op subjectieve meningen, gevoelens en (voor-)oordelen.",
+		"id": "688894a1-472c-4fe3-ab10-8c171e206efb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1a.3",
+		"examenprogramma_eindterm_id": [
+			"f9630f67-48d1-4ee1-805d-ac35b7210106"
+		],
+		"syllabus_toelichting_id": [
+			"4c937bad-83b6-45b8-8ed1-679266ed4499",
+			"3172df13-e367-4b7b-8c5c-fe0e4ab1d1d0"
+		],
+		"title": "De kandidaat kan de betrouwbaarheid en representativiteit van informatiebronnen vaststellen.",
+		"id": "3dcf5772-8995-4f4d-809e-a65f8d6af354",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.1",
+		"examenprogramma_eindterm_id": [
+			"370ff797-926f-44be-b72f-a8a43614aaf7"
+		],
+		"title": "De kandidaat kan hoofd- en kernconcepten van maatschappijwetenschappen herkennen in gegeven informatiebronnen en op basis van de inhoud en de feiten waar deze concepten naar verwijzen berendeneerde conclusies trekken.",
+		"id": "009035de-ceb5-4de9-9201-e1deff06a648",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.2",
+		"examenprogramma_eindterm_id": [
+			"370ff797-926f-44be-b72f-a8a43614aaf7"
+		],
+		"title": "De kandidaat kan een standpunt onderbouwen of weerleggen en daarbij gebruik maken van argumenten die gebaseerd zijn op informatie verworven uit een objectieve bron.",
+		"id": "715df72e-7390-4e5f-a1ec-e2419cca4c50",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A1/1b.3",
+		"examenprogramma_eindterm_id": [
+			"370ff797-926f-44be-b72f-a8a43614aaf7"
+		],
+		"title": "De kandidaat kan elementaire statistische informatie uit grafieken en tabellen interpreteren. Het gaat om verhoudingen tussen absolute en relatieve getallen in tabellen, gemiddelde, spreidingsbreedte, significantie en het aflezen van de x-yas.",
+		"id": "91984259-b12d-4dd1-9605-9743d84040fe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3a.1",
+		"examenprogramma_eindterm_id": [
+			"4482e3c1-bdfa-4030-8a87-fa15cb8cfd63"
+		],
+		"title": "De kandidaat kan een oordeel geven over een onderzoek: over de betrouwbaarheid, validiteit en representativiteit; daarbij kan hij de onderzoeksresultaten interpreteren en evalueren op basis van de gehanteerde meetmethoden. Dat geldt ook voor informatie over onderzoeksresultaten die in de media verschijnt.",
+		"id": "0060cfbd-553b-46e9-abb3-13e16d479bbe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.2a",
+		"examenprogramma_eindterm_id": [
+			"2d6c4af4-04f5-4b83-96ec-f010f14b534b"
+		],
+		"title": "Fase 1. De kandidaat kan over een maatschappelijk verschijnsel een onderzoeksvraag met een bijbehorende onderzoekbare hypothese formuleren.",
+		"id": "594115f3-cdaa-462b-b0e3-12006a177e9e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.2b",
+		"examenprogramma_eindterm_id": [
+			"2d6c4af4-04f5-4b83-96ec-f010f14b534b"
+		],
+		"title": "Fase 1. De kandidaat kan over een maatschappelijk verschijnsel een onderzoeksvraag formuleren met een daarbij passende onderzoekbare stelling en/of hypothese.",
+		"id": "59a48fb2-3b9c-4d31-b5c1-171989f786ec",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3b.3a",
+		"examenprogramma_eindterm_id": [
+			"2d6c4af4-04f5-4b83-96ec-f010f14b534b"
+		],
+		"title": "Fase 2. De kandidaat kan verschillende onderzoeksmethoden, zoals enquête, interview, observatie en experiment, onderscheiden en kent de eisen die daaraan gesteld worden.",
+		"id": "4d073a53-d419-4b55-85ba-590409ef3ed5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinA/A3/3c.1",
+		"examenprogramma_eindterm_id": [
+			"d9c83f75-ce5f-4cc9-85e8-d9f210c630f7"
+		],
+		"title": "De kandidaat kan omgaan met getallen, schattingen maken van uitkomsten en berekeningen en kunnen met percentages rekenen (gecijferdheid).",
+		"id": "3c01714f-de1b-4f75-aa96-524f50af0392",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3/6.1",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"syllabus_toelichting_id": [
+			"0df624f9-bd2d-4377-b187-ff4822bf01a7"
+		],
+		"title": "Socialisatie binnen het functionalisme paradigma",
+		"id": "626a5ea7-a52b-49a7-8982-4324bc35e15d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MAW/V/DomeinB/B3/6.2",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"syllabus_toelichting_id": [
+			"d531b006-0f4a-40ca-b8bf-d870d8908dd6"
+		],
+		"title": "Socialisatie binnen het conflictparadigma.",
+		"id": "24bf87eb-bb2b-496b-8edd-2e270fd106cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "ce",
+		"prefix": "MAW/V/DomeinB/B3/6.3",
+		"examenprogramma_eindterm_id": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"syllabus_toelichting_id": [
+			"cea20d01-cf21-46b3-ad8e-c5e332ae8c56"
+		],
+		"title": "Socialisatie binnen het paradigma van het sociaalconstructivisme.",
+		"id": "6a3b1613-dfef-462a-af31-ca8e7ae08c99",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2/10.1c",
+		"examenprogramma_eindterm_id": [
+			"cd650005-4c2a-4c50-8cfa-238809324825"
+		],
+		"syllabus_toelichting_id": [
+			"2d46c505-9e4a-4098-b7a1-d3069ac5ce88"
+		],
+		"title": "Politiek gezag.",
+		"id": "46b753b4-c8c9-45c9-b949-7dc1b5d306d2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4/12.2c",
+		"examenprogramma_eindterm_id": [
+			"8de967d7-36fd-4c60-95b8-cdfd6a9eaa09"
+		],
+		"syllabus_toelichting_id": [
+			"2cfbf9b9-0f89-43d8-adb0-ccc74f6f7988"
+		],
+		"title": "Internationale en multinationale spelers",
+		"id": "da19de2b-1f09-40d3-afb2-6f8fbc001102",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D2/15.1",
+		"examenprogramma_eindterm_id": [
+			"81d50495-32ff-4a5a-a7df-541c53bf3182"
+		],
+		"title": "Politieke instituties. Een politieke institutie is een “complex van min of meer geformaliseerde regels die het gedrag van mensen en hun onderlinge relaties rond politieke machtsuitoefening en politieke besluitvorming reguleren”. Politieke bindingen kunnen leiden tot het ontstaan van politieke instituties.",
+		"id": "6b19b7b2-c451-47fe-9fe9-b9a3aea3218a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2a",
+		"examenprogramma_eindterm_id": [
+			"18a7cf48-cd19-45ab-9df4-35ab974830e1"
+		],
+		"title": "Functionele identificatie. Functionele ontstaat als mensen een gemeenschappelijk belang hebben, bijvoorbeeld als lid van een sportvereniging, werknemer bij een bepaald bedrijf, buurtbewoner, of ouders op een school.",
+		"id": "ca905399-0f95-4b06-a388-6dee65c7675a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2b",
+		"examenprogramma_eindterm_id": [
+			"18a7cf48-cd19-45ab-9df4-35ab974830e1"
+		],
+		"title": "Normatieve identificatie. Normatieve identificatie heeft betrekking op het referentiekader en de mogelijkheden die er zijn om de eigen normen en opvattingen te kunnen volgen en in te brengen in het publieke en politieke domein.",
+		"id": "0d64d3b2-5de3-4246-b16e-768ca22f721b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5/18.2c",
+		"examenprogramma_eindterm_id": [
+			"18a7cf48-cd19-45ab-9df4-35ab974830e1"
+		],
+		"title": "Emotionele identificatie. Emotionele identificatie gaat over gevoelens van verbondenheid met anderen, een groep of gemeenschap en in meer abstracte zin met bijvoorbeeld Nederland. Het gaat om gevoelens van verbondenheid, loyaliteit en trots.",
+		"id": "0a2e5492-d224-47e0-9aee-5c7f35b4dc85",
 		"unreleased": true
 	}
 ]
