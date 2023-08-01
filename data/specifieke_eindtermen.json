@@ -80240,5 +80240,47 @@
 		"title": "De kandidaat weet dat Nederland een democratische rechtsstaat is: een parlementaire democratie in een rechtsstaat",
 		"id": "d0251310-39f1-45e7-a394-2786a7dc4432",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"examenprogramma_eindterm_id": [
+			"135fdea5-512b-4ba7-baba-90ddce4c1a60"
+		],
+		"syllabus_toelichting_id": [
+			"ca14df4a-d5f9-46a9-9092-3fcb24ebd7f0",
+			"db893dd6-dc73-46c8-bdce-2e0021541ed8",
+			"f986faa4-efe1-4d8b-9806-ef6362cbe859",
+			"451cba18-d8c2-412d-b4d5-e2afae07f755",
+			"5b6ebed7-e80c-43f6-a7ee-05327639707f",
+			"35ae9157-1719-47a3-bd77-3b0a85e5a66b",
+			"46b0a542-d0ae-4241-8cea-f04502c4ef05",
+			"f5e1aeba-5755-4a14-ac46-6eb89b8c47e1",
+			"717d94e1-2b42-4315-a580-25a601d0ccb3",
+			"c3d125f4-4c1a-4561-ab4a-2280ebf52414",
+			"f4c471ee-6913-4b4e-a1fb-0f3058068a52",
+			"842af920-1c7c-4a7c-89c1-7c981ae36269",
+			"105274f9-0ed8-4897-bbc4-e053a5312f16",
+			"f3486b3c-e08b-45da-befd-373916a03be8",
+			"48ae67f5-e07a-466d-9792-dab3e723c32d",
+			"e4715734-810c-4659-b1db-e9958e0cd58b",
+			"b304ed47-fc23-4232-81a5-2295ba5619fa",
+			"6b63adda-2802-4334-a060-15deb1a75d32",
+			"f87d0a10-e0a1-4ad2-ab8c-a4976aa3edf0",
+			"3ea34bf8-8e6d-47cf-b5b3-608d8d483304",
+			"7f13a336-2116-4022-8e3e-ff53b1c96aa9",
+			"d6ec8591-efb6-414f-ab3a-0aabd1f98d0c",
+			"07593d24-6bb0-4f1d-a53c-800b729192af",
+			"c4bf1946-d3a3-4f00-a33f-89d7c7e24eb4",
+			"1e6fbaec-8b9c-491d-9bda-14fc6b47a354",
+			"76ce8193-458f-4d65-b7a8-efcdbeb75a77",
+			"1ce1da34-b857-4e9f-8c26-6ccd5b326d7f",
+			"4f66c195-fb55-4d17-bf36-72fd55a58c40",
+			"e17f064d-e54a-4c7f-a902-e8461493b9b3"
+		],
+		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
+		"id": "c759ad87-3142-4cbb-b530-77262933a809",
+		"unreleased": true
 	}
 ]
