@@ -2716,10 +2716,12 @@
 		"prefix": ""
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\n- macht van de burger in de Republiek (bijvoorbeeld Stadhuis op de Dam);\r\n- genres in de schilderkunst;\r\n- rederijkers; de eerste stenen schouwburg in Amsterdam;\r\n- dans in het theater en in het sociale leven;\r\n- religieuze en wereldlijke muziek; muzikale genres voor de kleine kring.",
+		"title": "Accenten binnen het onderwerp:\r\r\n- macht van de burger in de Republiek (bijvoorbeeld Stadhuis op de Dam);\r\r\n- genres in de schilderkunst;\r\r\n- rederijkers; de eerste stenen schouwburg in Amsterdam;\r\r\n- dans in het theater en in het sociale leven;\r\r\n- religieuze en wereldlijke muziek; muzikale genres voor de kleine kring.",
 		"id": "db1ca6ac-af20-49a8-b52b-93fe7b2ee66b",
 		"description": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
@@ -2913,11 +2915,12 @@
 		"id": "dfaf0847-ba8e-46dd-b397-36438bdb685b"
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw;\r\r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV);\r\r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen);\r\r\n- hofdans en hofballet (ballet de cour);\r\r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
+		"title": "Accenten binnen het onderwerp:\r\r\r\n- renaissancehoven in de zestiende eeuw in Europa (bijvoorbeeld Florence, Rome, München, Londen); hoven van (absolute) vorsten in de zeventiende eeuw;\r\r\r\n- (stads)paleizen, villa's, tuinen; Versailles: inrichting en functie van paleis en tuinen (Lodewijk XIV);\r\r\r\n- ontwikkeling in tragedie en komedie (inspiratie klassieken en eigentijdse ontwikkelingen);\r\r\r\n- hofdans en hofballet (ballet de cour);\r\r\r\n- ontstaan van opera, ontwikkeling van de instrumentale muziek, ontwikkelingen binnen de kerkmuziek.",
 		"id": "6f9ed551-4076-40e7-8651-ab553e67a72d",
 		"description": "",
 		"ce_se": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"description": "Kunst en esthetica",
@@ -3178,11 +3181,12 @@
 		"id": "120e182f-b4d1-4579-bcc5-3fc8289e18a5"
 	},
 	{
-		"title": "Accenten binnen het onderwerp:\r\r\n- avantgardistische stromingen;\r\r\n- expressie en abstractie;\r\r\n- architectuur: functionalisme;\r\r\n- ontwikkelingen in de kunsten in Rusland (bijvoorbeeld constructivisme);\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
+		"title": "Accenten binnen het onderwerp:\r\r\r\n- avantgardistische stromingen;\r\r\r\n- expressie en abstractie;\r\r\r\n- architectuur: functionalisme;\r\r\r\n- ontwikkelingen in de kunsten in Rusland (bijvoorbeeld constructivisme);\r\r\r\n- psychologisch realisme (Konstantin Stanislavski) en episch theater (Bertolt Brecht);\r\r\r\n- vernieuwing van de academische dans (bijvoorbeeld Les Ballets Russes) en ontstaan moderne theaterdans (bijvoorbeeld Isadora Duncan, Martha Graham); dansrages;\r\r\r\n- expressionisme en atonaliteit in de muziek;\r\r\r\n- ontstaan nieuwe muzieksoorten: blues en jazz;\r\r\r\n- ontwikkelingen en experimenten binnen film (bijvoorbeeld Sergei Eisenstein, Duits expressionisme, Hollywoodgenres en animaties).",
 		"id": "5b80ed80-d68a-49ad-b87c-7411cd7012da",
 		"description": "",
 		"ce_se": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"description": "Kunst en religie, levensbeschouwing",
@@ -3241,11 +3245,12 @@
 		"prefix": ""
 	},
 	{
-		"title": "Accenten binnen het onderwerp: \r\r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\r\n- multidisciplinaire kunst; fusion en cross over;\r\r\n- popart, postmodernistische kunst;\r\r\n- engagement; activistische kunst;\r\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\r\n- absurdistisch theater (bijvoorbeeld Samuel Beckett, Harold Pinter), locatietheater, vormingstheater;\r\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
+		"title": "Accenten binnen het onderwerp: \r\r\r\n- invloed van massamedia en internet op de kunsten; globalisering; hoge- en lage cultuur; mainstream en subculturen; jeugdculturen;\r\r\r\n- multidisciplinaire kunst; fusion en cross over;\r\r\r\n- popart, postmodernistische kunst;\r\r\r\n- engagement; activistische kunst;\r\r\r\n- film als bioscoop-, TV- en internetproduct (bijvoorbeeld tv-drama, reality-tv, speelfilms videoclips, vlogs);\r\r\r\n- absurdistisch theater (bijvoorbeeld Samuel Beckett, Harold Pinter), locatietheater, vormingstheater;\r\r\r\n- breakdance, hiphop, urban dance; postmoderne dans, minimal dance;\r\r\r\n- veelheid aan stromingen in pop-, jazzmuziek en klassieke muziek.",
 		"id": "67be3ca7-d279-4ace-ae5c-141e11412307",
 		"description": "",
 		"ce_se": "",
-		"prefix": ""
+		"prefix": "",
+		"dirty": true
 	},
 	{
 		"description": "Kunst en esthetica",
