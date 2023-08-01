@@ -28027,5 +28027,53 @@
 		"title": "Syllabus Nederlandse taal vmbo tl 2024",
 		"id": "9542afc9-2f58-4da3-b622-e5713fdc13cd",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"00739475-6c99-49ef-9f17-453767bfc29e"
+		],
+		"syllabus_vakleergebied_id": [
+			"31dab1e5-9982-4c5e-9839-1e172dc27c5f"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ba9111a-1f2a-4051-aaa4-93a2a0ba2d99",
+			"a58f7c4a-4086-4583-88da-bb0d514e0a7b",
+			"f5beb2c3-1a94-4c7e-83ad-c2a449943c38",
+			"b96de815-6c2e-4be4-8677-a763c6c10539",
+			"36aa3ff9-d0f9-4bf1-b2c2-893ce95eb98a",
+			"d8421f02-df54-4838-869f-f00ded4abdcc",
+			"7aca6077-3cc7-4d70-bf6b-7a7bb1b7e76a",
+			"b4d0eba7-23e9-41f5-9fcc-be142fa33dff",
+			"7242ffe5-c8c3-43f7-867b-374ef2fdd09d",
+			"e037a86a-1321-4765-ac3a-1f5b16da91ec",
+			"b7462b6e-f73c-4cce-b0d3-af9c27377267",
+			"419fb839-55bc-4c8b-bb81-5ead8fc18031",
+			"6e23c263-5be4-4cdc-8a31-850853530d9c",
+			"a20342cb-e35b-48fa-abde-34fb96b2396c",
+			"764540bd-6828-4800-aa3b-b70db0bd6fce",
+			"2597e12b-61d8-4428-a45b-b87440b20719",
+			"898a6421-f5dc-478a-a062-a36c1c07651e",
+			"8e28dc6d-4a40-4650-8b83-34caff1a9f04",
+			"5bb106d5-1d38-479c-8f42-18f98afc8b6c",
+			"d00427b1-e741-44a3-b799-6eea9d3798c6",
+			"c04843fc-4346-4295-8d47-38af270c7a29",
+			"b9f166e5-69dd-43da-876d-04366f4ffb53",
+			"e4fa7b98-280a-4507-b907-118bf7cac502",
+			"11be44fa-d45a-4b84-bee5-3441c764a2eb",
+			"f3a4d4ec-da77-467a-a955-47e3ab293e75",
+			"d489729f-7a6e-462a-90b2-f188e9617efb",
+			"22b0ad96-527b-4f91-8bdf-d9a01b45c58a",
+			"b803b1d2-86b8-4607-b450-92577a7b3505"
+		],
+		"title": "Syllabus Nederlandse taal vwo 2024",
+		"id": "454fdd0e-bcb6-4dd6-9316-1af14a674782",
+		"unreleased": true
 	}
 ]
