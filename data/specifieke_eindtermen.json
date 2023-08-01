@@ -23212,12 +23212,13 @@
 		"examenprogramma_eindterm_id": [
 			"ba9b6585-b886-489e-842a-dd430f9c4e5c"
 		],
-		"title": "De kandidaat kan natuur- en scheikundig bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden:\r\r\n- studieboeken - naslagwerken - gegevensbestanden - technische handleidingen - cd-rom en internet",
+		"title": "De kandidaat kan natuur- en scheikundig bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden:\r\r\r\n- studieboeken - naslagwerken - gegevensbestanden - technische handleidingen - cd-rom en internet",
 		"id": "642acaf0-d78f-435c-8273-016ca9cfec5b",
 		"description": "",
 		"replaces": [
 			"cc9cf5b1-6658-41d1-ae5a-08175dcd2d68"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23225,12 +23226,13 @@
 		"examenprogramma_eindterm_id": [
 			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
 		],
-		"title": "De kandidaat kan natuur- en scheikundige grootheden, eenheden en relaties gebruiken:  \r\r\n- lengte, massa, tijd, stroomsterkte, spanning, energie, vermogen,  temperatuur (in graden Celsius en Kelvin, inclusief het omrekenen tussen beide temperatuurschalen), druk, dichtheid.",
+		"title": "De kandidaat kan natuur- en scheikundige grootheden, eenheden en relaties gebruiken:  \r\r\r\n- lengte, massa, tijd, stroomsterkte, spanning, energie, vermogen,  temperatuur (in graden Celsius en Kelvin, inclusief het omrekenen tussen beide temperatuurschalen), druk, dichtheid.",
 		"id": "2b15a7fe-675c-416c-b603-c5e6193ef1ca",
 		"description": "",
 		"replaces": [
 			"e390d514-5c71-4785-ab4f-f644b1a2ac99"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23238,12 +23240,13 @@
 		"examenprogramma_eindterm_id": [
 			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
 		],
-		"title": "De kandidaat kan natuur- en scheikundige meetapparaten gebruiken in praktijksituaties:\r\r\n- liniaal, weegtoestel, klok, stroommeter, spanningsmeter, thermometer, barometer, maatcilinder, pipet, buret, injectiespuit als volumemeter, meten met behulp van de computer",
+		"title": "De kandidaat kan natuur- en scheikundige meetapparaten gebruiken in praktijksituaties:\r\r\r\n- liniaal, weegtoestel, klok, stroommeter, spanningsmeter, thermometer, barometer, maatcilinder, pipet, buret, injectiespuit als volumemeter, meten met behulp van de computer",
 		"id": "45a77b4f-528a-4bcd-bb6e-80d912fb961d",
 		"description": "",
 		"replaces": [
 			"c2a9653c-005c-40a5-8391-1c1861ddb960"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23251,12 +23254,13 @@
 		"examenprogramma_eindterm_id": [
 			"2e67a3ff-4ea9-45d7-8811-bcd1891ca9c9"
 		],
-		"title": "De kandidaat kan op de juiste wijze omgaan met stoffen, materialen en hulpmiddelen in het laboratorium:\r\r\n- kwispelen bij schudden, ruiken met wuiven,  vlamsoort kiezen, brander gebruiken, gebruik van scheikundig glaswerk (zoals reageerbuis, bekerglas, trechter, erlenmeyer), zuinig met grondstoffen omgaan, verantwoord met afval(stoffen) omgaan, proper en veilig werken",
+		"title": "De kandidaat kan op de juiste wijze omgaan met stoffen, materialen en hulpmiddelen in het laboratorium:\r\r\r\n- kwispelen bij schudden, ruiken met wuiven,  vlamsoort kiezen, brander gebruiken, gebruik van scheikundig glaswerk (zoals reageerbuis, bekerglas, trechter, erlenmeyer), zuinig met grondstoffen omgaan, verantwoord met afval(stoffen) omgaan, proper en veilig werken",
 		"id": "cee6acba-0f83-448d-a36a-baf415c0eef0",
 		"description": "",
 		"replaces": [
 			"3f9f9ac0-e93a-49d4-b9f0-9f28d715c317"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23264,12 +23268,13 @@
 		"examenprogramma_eindterm_id": [
 			"e3a3da35-c4c5-473b-aca4-5c3dc44d1055"
 		],
-		"title": "De kandidaat kan de verschijnselen beschrijven, zie zich bij verbanding kunnen voordoen: \r\r\nrook, roet, vlam, vonk, warmteontwikkeling, verontreiniging van de lucht",
+		"title": "De kandidaat kan de verschijnselen beschrijven, zie zich bij verbanding kunnen voordoen: \r\r\r\nrook, roet, vlam, vonk, warmteontwikkeling, verontreiniging van de lucht",
 		"id": "744fe4ad-a364-40f8-94a6-38a9fecfac5b",
 		"description": "",
 		"replaces": [
 			"2527d9ad-6ec2-468d-b614-963b910c4cfe"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23277,12 +23282,13 @@
 		"examenprogramma_eindterm_id": [
 			"e3a3da35-c4c5-473b-aca4-5c3dc44d1055"
 		],
-		"title": "De kandidaat kan de voorwaarden noemen voor het ontstaan van brand en toelichten dat het blussen of het voorkomen van brand berust op beïnvloeding van deze voorwaarden:\r\r\n- aanwezigheid van brandstof en zuurstof, ontbrandingstemperatuur, blusmiddelen:  water,  zand,  schuim,  koolstofdioxide,  blusdeken",
+		"title": "De kandidaat kan de voorwaarden noemen voor het ontstaan van brand en toelichten dat het blussen of het voorkomen van brand berust op beïnvloeding van deze voorwaarden:\r\r\r\n- aanwezigheid van brandstof en zuurstof, ontbrandingstemperatuur, blusmiddelen:  water,  zand,  schuim,  koolstofdioxide,  blusdeken",
 		"id": "6661d7bc-66eb-42c1-98ce-ab8513901e20",
 		"description": "",
 		"replaces": [
 			"38c689d9-1cc3-48a9-b40a-110a5fd7540c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23290,12 +23296,13 @@
 		"examenprogramma_eindterm_id": [
 			"841134f0-78d3-44c9-959b-d85c774e46f8"
 		],
-		"title": "De kandidaat kan de milieu- en gezondheidseffecten kunnen noemen die kunnen optreden als gevolg van de uitstoot van de volgende schakelijke gassen:\r\r\nMilieueffecten: SO2: zure regen, Nox: zure regen, CO2: broeikaseffect, CFK's: aantasting ozonlaag\r\r\nGezondheidseffecten: aantasting van luchtwegen",
+		"title": "De kandidaat kan de milieu- en gezondheidseffecten kunnen noemen die kunnen optreden als gevolg van de uitstoot van de volgende schakelijke gassen:\r\r\r\nMilieueffecten: SO2: zure regen, Nox: zure regen, CO2: broeikaseffect, CFK's: aantasting ozonlaag\r\r\r\nGezondheidseffecten: aantasting van luchtwegen",
 		"id": "18ef7dde-c5f6-45e0-a809-27c3a661c9f9",
 		"description": "",
 		"replaces": [
 			"729e183f-f8ed-46cf-b746-91eb290e5530"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23303,12 +23310,13 @@
 		"examenprogramma_eindterm_id": [
 			"841134f0-78d3-44c9-959b-d85c774e46f8"
 		],
-		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\n- (fossiele) brandstoffen:  steenkool, cokes, koolwaterstoffen: aardgas (met als belangrijkste deel methaan), benzine.",
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\r\n- (fossiele) brandstoffen:  steenkool, cokes, koolwaterstoffen: aardgas (met als belangrijkste deel methaan), benzine.",
 		"id": "77d9208a-967e-4a6c-b243-183428ebd441",
 		"description": "",
 		"replaces": [
 			"0402fad9-e19b-4619-ba85-9b7d347de9fe"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23316,12 +23324,13 @@
 		"examenprogramma_eindterm_id": [
 			"841134f0-78d3-44c9-959b-d85c774e46f8"
 		],
-		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\n- onvolledige verbranding:  reactieproducten, o.a. koolstofmono-oxide (giftig) en koolstof.",
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\r\n- onvolledige verbranding:  reactieproducten, o.a. koolstofmono-oxide (giftig) en koolstof.",
 		"id": "8a1ff116-a9b3-4e46-9ead-be660c81f1dc",
 		"description": "",
 		"replaces": [
 			"47c98c20-6671-416d-99db-6ae179da9cb0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23329,12 +23338,13 @@
 		"examenprogramma_eindterm_id": [
 			"841134f0-78d3-44c9-959b-d85c774e46f8"
 		],
-		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\n- volledige verbranding:  reactieproducten, o.a. koolstofdioxide en water.",
+		"title": "De kandidaat kan het proces beschrijven van verbranden van (fossiele) brandstoffen en het belang toelichten van voldoende luchttoevoer in verband met veiligheid en milieu:\r\r\r\n- volledige verbranding:  reactieproducten, o.a. koolstofdioxide en water.",
 		"id": "5b8a90bc-3a76-445d-b589-f7ece5f78a44",
 		"description": "",
 		"replaces": [
 			"92bcec18-1733-4e23-a2c9-0bca7f2a5ed6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23342,12 +23352,13 @@
 		"examenprogramma_eindterm_id": [
 			"bab5edb3-3a65-4202-8d36-ca8d389bac32"
 		],
-		"title": "De kandidaat kan uitleggen dat aardolie in raffinaderijen bewerkt wordt tot allerlei soorten brandstoffen en andere producten:\r\r\n- destillatie,  kraken, brandstoffen:  LPG, benzine, kerosine, diesel, stookolie;\r\r\n- andere producten: asfaltbeton, kunststoffen (polymerisatie van monomeren tot polymeren, thermoharders en thermoplasten), smeermiddelen, medicijnen.",
+		"title": "De kandidaat kan uitleggen dat aardolie in raffinaderijen bewerkt wordt tot allerlei soorten brandstoffen en andere producten:\r\r\r\n- destillatie,  kraken, brandstoffen:  LPG, benzine, kerosine, diesel, stookolie;\r\r\r\n- andere producten: asfaltbeton, kunststoffen (polymerisatie van monomeren tot polymeren, thermoharders en thermoplasten), smeermiddelen, medicijnen.",
 		"id": "6c0f7f82-1521-4903-93b4-47f3231dd69f",
 		"description": "",
 		"replaces": [
 			"e8f73ce8-73c5-4e87-b298-af3646bb1912"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23355,12 +23366,13 @@
 		"examenprogramma_eindterm_id": [
 			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
 		],
-		"title": "De kandidaat kan de betekenis en functie van het gebruik van water als oplosmiddel, als spoelmiddel en als middel bij de bereiding van voedsel beschrijven:\r\r\n- oplosbaarheid van krijt, suiker, keukenzout, olie, vet, alcohol, zuurstof en ammoniak\r\r\n- spoelmiddel bij gebruik van zeep en wasmiddelen.",
+		"title": "De kandidaat kan de betekenis en functie van het gebruik van water als oplosmiddel, als spoelmiddel en als middel bij de bereiding van voedsel beschrijven:\r\r\r\n- oplosbaarheid van krijt, suiker, keukenzout, olie, vet, alcohol, zuurstof en ammoniak\r\r\r\n- spoelmiddel bij gebruik van zeep en wasmiddelen.",
 		"id": "9246409d-0608-4354-b750-8a6361946857",
 		"description": "",
 		"replaces": [
 			"b04d4f30-5466-4914-8575-ace6bf023ead"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23368,12 +23380,13 @@
 		"examenprogramma_eindterm_id": [
 			"e9aa4714-e6a9-474c-b9c7-a9a863e3767f"
 		],
-		"title": "De kandidaat kan uitleggen wat het verschil is tussen hard en zacht water, nadelen van het gebruik van hard water noemen en mogelijkheden noemen om water te ontharden:\r\r\n- ketelsteen, gebruik van wasmiddelen, vorming van kalkzeep\r\r\n- ontharden door: koken van water, ionenwisselaar, waterontharder, neerslagreactie.",
+		"title": "De kandidaat kan uitleggen wat het verschil is tussen hard en zacht water, nadelen van het gebruik van hard water noemen en mogelijkheden noemen om water te ontharden:\r\r\r\n- ketelsteen, gebruik van wasmiddelen, vorming van kalkzeep\r\r\r\n- ontharden door: koken van water, ionenwisselaar, waterontharder, neerslagreactie.",
 		"id": "fabb300e-254f-45be-939f-b9dc794cac9a",
 		"description": "",
 		"replaces": [
 			"ecc0a13d-c0cc-4bf0-aba8-af987f789d57"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23381,12 +23394,13 @@
 		"examenprogramma_eindterm_id": [
 			"409af106-6490-4ddc-ad4d-31e51cd93261"
 		],
-		"title": "De kandidaat kan verwoorden dat zure stoffen (opgelost in water) H+ ionen kunnen afstaan en basische stoffen (opgelost in water) H+ ionen kunnen opnemen:\r\r\nZuren: HCI(g), HNO3(l), H2SO4(l), Hac(l); Basen: ammoniak: NH3(g), zouten met OH-, zouten met O2-, zouten met CO32-",
+		"title": "De kandidaat kan verwoorden dat zure stoffen (opgelost in water) H+ ionen kunnen afstaan en basische stoffen (opgelost in water) H+ ionen kunnen opnemen:\r\r\r\nZuren: HCI(g), HNO3(l), H2SO4(l), Hac(l); Basen: ammoniak: NH3(g), zouten met OH-, zouten met O2-, zouten met CO32-",
 		"id": "12944dc5-95bb-4f22-a09b-d3d13029f2de",
 		"description": "",
 		"replaces": [
 			"686473fb-414a-488c-a7ee-bb64cfd35f0f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23394,12 +23408,13 @@
 		"examenprogramma_eindterm_id": [
 			"3af3941c-5eb7-4312-b6c6-d32c5a813e84"
 		],
-		"title": "De kandidaat kan de naam van een aantal zure en basische oplossingen en de formules van de deeltjes die daarin voorkomen, geven:\r\r\n- zoutzuur: H+(aq) en Cl-(aq)\r\r\n- verdund salpeterzuur: H+(aq) en NO3- (aq)\r\r\n- verdund zwavelzuur (accuzuur): H+(aq) en SO42- (aq)\r\r\n- koolzuurhoudend water: H+(aq) en CO32-(aq)\r\r\n- azijn: H+(aq) en Ac- (aq)\r\r\n- natronloog: Na+(aq) en OH-(aq)\r\r\n- kalkwater: Ca2+(aq) en OH-(aq)\r\r\n- ammonia: NH3(aq)",
+		"title": "De kandidaat kan de naam van een aantal zure en basische oplossingen en de formules van de deeltjes die daarin voorkomen, geven:\r\r\r\n- zoutzuur: H+(aq) en Cl-(aq)\r\r\r\n- verdund salpeterzuur: H+(aq) en NO3- (aq)\r\r\r\n- verdund zwavelzuur (accuzuur): H+(aq) en SO42- (aq)\r\r\r\n- koolzuurhoudend water: H+(aq) en CO32-(aq)\r\r\r\n- azijn: H+(aq) en Ac- (aq)\r\r\r\n- natronloog: Na+(aq) en OH-(aq)\r\r\r\n- kalkwater: Ca2+(aq) en OH-(aq)\r\r\r\n- ammonia: NH3(aq)",
 		"id": "64a8344e-56f2-441f-ba4c-fdf220910d43",
 		"description": "",
 		"replaces": [
 			"7b4c7756-7f90-4066-8eac-a1576e134c86"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23407,12 +23422,13 @@
 		"examenprogramma_eindterm_id": [
 			"d3562fd8-90b5-4ecd-b532-ccc88b170fc6"
 		],
-		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\r\n- zure oplossingen: stroomgeleiding; vorming van waterstof aan de negatieve elektrode; etsende werking; kleuring van indicatoren; aantasting van kalksteen.",
+		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\r\r\n- zure oplossingen: stroomgeleiding; vorming van waterstof aan de negatieve elektrode; etsende werking; kleuring van indicatoren; aantasting van kalksteen.",
 		"id": "ccbfd428-d5a7-4f00-84f9-867a7d85e78e",
 		"description": "",
 		"replaces": [
 			"2b170544-bdac-4b9c-b15a-4ae0ae2e992b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23420,12 +23436,13 @@
 		"examenprogramma_eindterm_id": [
 			"d3562fd8-90b5-4ecd-b532-ccc88b170fc6"
 		],
-		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\r\n- basische oplossingen: stroomgeleiding; ontvettende werking; irriterend voor de huid; kleuring van indicatoren.",
+		"title": "De kandidaat kan eigenschappen en toepassingen van zure en basische oplossingen noemen:\r\r\r\n- basische oplossingen: stroomgeleiding; ontvettende werking; irriterend voor de huid; kleuring van indicatoren.",
 		"id": "ec148316-3872-4906-b7b9-8df245fb9b05",
 		"description": "",
 		"replaces": [
 			"41905ceb-1d06-48ce-8464-3567938c1459"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23433,12 +23450,13 @@
 		"examenprogramma_eindterm_id": [
 			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
 		],
-		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\n- lakmoespapier bevochtigen met vloeistof;  zuur: blauw wordt rood; basisch: rood wordt blauw;  neutraal: rood en blauw verkleuren niet.",
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\r\n- lakmoespapier bevochtigen met vloeistof;  zuur: blauw wordt rood; basisch: rood wordt blauw;  neutraal: rood en blauw verkleuren niet.",
 		"id": "9625364e-dcd8-434a-bfb5-5ecb1981220c",
 		"description": "",
 		"replaces": [
 			"a182d912-879c-4c08-b6f5-9ce18e3ad8ae"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23446,12 +23464,13 @@
 		"examenprogramma_eindterm_id": [
 			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
 		],
-		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\n- fenolftaleïen in vloeistof doen:  zuur: verkleurt niet;  basisch wordt paars;  neutraal: verkleurt niet.",
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\r\n- fenolftaleïen in vloeistof doen:  zuur: verkleurt niet;  basisch wordt paars;  neutraal: verkleurt niet.",
 		"id": "376b2988-46e2-4f36-bfb1-b11348498875",
 		"description": "",
 		"replaces": [
 			"6712b47c-0a2e-43d7-8871-984f1f051717"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23459,12 +23478,13 @@
 		"examenprogramma_eindterm_id": [
 			"c9634ca5-f6bf-4079-849f-f371094c1cb4"
 		],
-		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\n- rode koolsap en universeel indicatorpapier.",
+		"title": "De kandidaat kan een aantal indicatoren noemen en uitleggen hoe met behulp van een indicator kan worden nagegaan of een oplossing zuur, basisch of neutraal is:\r\r\r\n- rode koolsap en universeel indicatorpapier.",
 		"id": "c1c21699-8338-4b9d-9744-0ffddf290f51",
 		"description": "",
 		"replaces": [
 			"b5d32a82-c49e-4bf7-a6f0-160618ec26fd"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23472,12 +23492,13 @@
 		"examenprogramma_eindterm_id": [
 			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
 		],
-		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\r\n- fase bij normale druk en kamertemperatuur, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, elektrische geleiding.",
+		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\r\r\n- fase bij normale druk en kamertemperatuur, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, elektrische geleiding.",
 		"id": "11acf637-42a9-43f5-8a89-b0d60333b6d2",
 		"description": "",
 		"replaces": [
 			"86d936bb-160e-410a-8e00-a5f6ecd80d8a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23485,12 +23506,13 @@
 		"examenprogramma_eindterm_id": [
 			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
 		],
-		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\r\n- van enkele stoffen / oplossingen de kleur en/of geur noemen:  koolstofdioxide: kleurloos en reukloos;  koolstofmono-oxide: kleurloos en reukloos;  oplossing van koper(II)zout: blauw.",
+		"title": "De kandidaat kan eigenschappen noemen waaraan een stof herkend kan worden en de kennis van die eigenschappen toepassen in practicumsituaties:\r\r\r\n- van enkele stoffen / oplossingen de kleur en/of geur noemen:  koolstofdioxide: kleurloos en reukloos;  koolstofmono-oxide: kleurloos en reukloos;  oplossing van koper(II)zout: blauw.",
 		"id": "ab8a6376-7a47-4178-83fc-dc9ad4669e5d",
 		"description": "",
 		"replaces": [
 			"b43fafa6-0eaf-4eab-b78a-c33663e2e9ac"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23498,12 +23520,13 @@
 		"examenprogramma_eindterm_id": [
 			"5eaf64ec-db21-403c-ba40-8b0f59007c7d"
 		],
-		"title": "De kandidaat kan chemische reacties beschrijven als processen waarbij een of meer stoffen verdwijnen en een of meer stoffen ontstaan:\r\r\n- beginstoffen, reactieproducten.",
+		"title": "De kandidaat kan chemische reacties beschrijven als processen waarbij een of meer stoffen verdwijnen en een of meer stoffen ontstaan:\r\r\r\n- beginstoffen, reactieproducten.",
 		"id": "8f67b223-b982-47b7-abe5-94b92b413950",
 		"description": "",
 		"replaces": [
 			"0906b19e-596f-489e-bb8f-e5bd9a5a5a6e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23511,12 +23534,13 @@
 		"examenprogramma_eindterm_id": [
 			"e79b97da-ccbd-4e96-a26b-b50fa883f97c"
 		],
-		"title": "De kandidaat kan onderzoeken of een stof een zuivere stof is of een mengsel:\r\r\n- smelt- cq stol- en kookpunt, - smelt- cq stol- en kooktraject",
+		"title": "De kandidaat kan onderzoeken of een stof een zuivere stof is of een mengsel:\r\r\r\n- smelt- cq stol- en kookpunt, - smelt- cq stol- en kooktraject",
 		"id": "f18ca8ef-5bb0-412c-832c-814f2ab5d0d3",
 		"description": "",
 		"replaces": [
 			"20b3f243-a312-487c-8e02-eb7895f709ce"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23524,12 +23548,13 @@
 		"examenprogramma_eindterm_id": [
 			"e79b97da-ccbd-4e96-a26b-b50fa883f97c"
 		],
-		"title": "De kandidaat kan van een aantal stoffen uitleggen of het zuivere stoffen of mengsels zijn en van de mengsels de hoofdbestanddelen noemen:\r\r\n- suiker, keukenzout, gedestilleerd water\r\r\n- drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo en lucht\r\r\n- legeringen:  amalgaam;  brons;  messing;  soldeer",
+		"title": "De kandidaat kan van een aantal stoffen uitleggen of het zuivere stoffen of mengsels zijn en van de mengsels de hoofdbestanddelen noemen:\r\r\r\n- suiker, keukenzout, gedestilleerd water\r\r\r\n- drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo en lucht\r\r\r\n- legeringen:  amalgaam;  brons;  messing;  soldeer",
 		"id": "d8be1eed-472e-435e-85ff-b201e8615526",
 		"description": "",
 		"replaces": [
 			"dbdf225b-28de-4981-ac63-012c20ae48bd"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23537,12 +23562,13 @@
 		"examenprogramma_eindterm_id": [
 			"e3568666-0638-4a65-8f59-f00cd606ce19"
 		],
-		"title": "De kandidaat kan enkele soorten mengsels uit het dagelijks leven onderscheiden:\r\r\n- emulsie: boter, meld, crème\r\r\n- suspensie: modder, verf\r\r\n- schuim; rook; nevel, levering, oplossing.",
+		"title": "De kandidaat kan enkele soorten mengsels uit het dagelijks leven onderscheiden:\r\r\r\n- emulsie: boter, meld, crème\r\r\r\n- suspensie: modder, verf\r\r\r\n- schuim; rook; nevel, levering, oplossing.",
 		"id": "391f3a66-8165-47c8-b59a-6081db0aee4e",
 		"description": "",
 		"replaces": [
 			"13cbe018-c01d-4645-bac7-38a0f692c79e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23550,12 +23576,13 @@
 		"examenprogramma_eindterm_id": [
 			"e3568666-0638-4a65-8f59-f00cd606ce19"
 		],
-		"title": "De kandidaat kan processen uit het dagelijks leven herkennen als chemische reactie:\r\r\n- chemische processen bij de voedselbereiding, verteren van voedsel, rotten, bederven, verkleuren, haar permanenten, haar verven, ontsmetten, harden van cement.",
+		"title": "De kandidaat kan processen uit het dagelijks leven herkennen als chemische reactie:\r\r\r\n- chemische processen bij de voedselbereiding, verteren van voedsel, rotten, bederven, verkleuren, haar permanenten, haar verven, ontsmetten, harden van cement.",
 		"id": "e7c02d11-3bc2-412e-863c-97909d0ca50a",
 		"description": "",
 		"replaces": [
 			"ac28b668-85c2-4eb4-8f79-b37b73dddd76"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23563,12 +23590,13 @@
 		"examenprogramma_eindterm_id": [
 			"b5131df9-c93c-4bdb-bb2a-c0073b734c84"
 		],
-		"title": "De kandidaat kan van een reactie waarvan de triviale en/of rationele namen en formules van de beginstoffen en de reactieproducten gekend moeten worden, de reactievergelijking opschrijven:\r\r\n- water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide, zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose en elders in de syllabus genoemde stoffen.",
+		"title": "De kandidaat kan van een reactie waarvan de triviale en/of rationele namen en formules van de beginstoffen en de reactieproducten gekend moeten worden, de reactievergelijking opschrijven:\r\r\r\n- water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide, zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose en elders in de syllabus genoemde stoffen.",
 		"id": "357edb9c-3ab6-4db4-ab01-f5167dc7574b",
 		"description": "",
 		"replaces": [
 			"0006a282-c149-4b66-abec-0ab14b2b8572"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23576,12 +23604,13 @@
 		"examenprogramma_eindterm_id": [
 			"b5131df9-c93c-4bdb-bb2a-c0073b734c84"
 		],
-		"title": "De kandidaat kan toepassingen noemen van zuurbase reacties en hiervan de reactievergelijking opschrijven:\r\r\n- neutraliseren,  ontkalken.",
+		"title": "De kandidaat kan toepassingen noemen van zuurbase reacties en hiervan de reactievergelijking opschrijven:\r\r\r\n- neutraliseren,  ontkalken.",
 		"id": "45bda373-e2fd-4259-bf05-a10fbc5d2145",
 		"description": "",
 		"replaces": [
 			"37793558-015e-422a-9a50-727fb99ce709"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23589,12 +23618,13 @@
 		"examenprogramma_eindterm_id": [
 			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
 		],
-		"title": "De kandidaat kan de factoren noemen die invloed hebben op de snelheid van een reactie en uitleggen wat de invloed van die factoren is:\r\r\n- soort stof, temperatuur, verdelingsgraad, katalysator, concentratie.",
+		"title": "De kandidaat kan de factoren noemen die invloed hebben op de snelheid van een reactie en uitleggen wat de invloed van die factoren is:\r\r\r\n- soort stof, temperatuur, verdelingsgraad, katalysator, concentratie.",
 		"id": "7c49cc96-0638-4664-b3c9-dfb3542586c6",
 		"description": "",
 		"replaces": [
 			"0e40e04e-23fc-49ef-bdcb-f53fee31cbbf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23602,12 +23632,13 @@
 		"examenprogramma_eindterm_id": [
 			"ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811"
 		],
-		"title": "De kandidaat kan met behulp van moleculen, atomen en ionen een aantal begrippen en processen beschrijven:\r\r\nBegrippen: toestand van een stof (s, l, g, aq); zuiverse stof; mengsel; niet-ontleedbare stof (verbinding); zouten: moleculaire stoffen; atomaire stoffen\r\r\nProcessen: scheiden van mengsels; elektrische geleiding; oplossen; smelten; chemische reactie; ontleden, verbranden; neerslaan en neutraliseren",
+		"title": "De kandidaat kan met behulp van moleculen, atomen en ionen een aantal begrippen en processen beschrijven:\r\r\r\nBegrippen: toestand van een stof (s, l, g, aq); zuiverse stof; mengsel; niet-ontleedbare stof (verbinding); zouten: moleculaire stoffen; atomaire stoffen\r\r\r\nProcessen: scheiden van mengsels; elektrische geleiding; oplossen; smelten; chemische reactie; ontleden, verbranden; neerslaan en neutraliseren",
 		"id": "a4ed9ac3-932a-488e-9460-2aa128c30bb0",
 		"description": "",
 		"replaces": [
 			"91841ba6-00af-4e99-b38d-5fa62c9fbba9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23615,12 +23646,13 @@
 		"examenprogramma_eindterm_id": [
 			"99b987fa-e153-4bf2-812d-47d562d954c6"
 		],
-		"title": "De kandidaat kan de notatie en namen van een aantal scheikundige symbolen geven:\r\r\n- Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg, N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
+		"title": "De kandidaat kan de notatie en namen van een aantal scheikundige symbolen geven:\r\r\r\n- Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg, N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
 		"id": "d370fe81-626e-4300-8bcd-50fc963b0d4b",
 		"description": "",
 		"replaces": [
 			"d5f56794-21e6-4efe-ae5c-fc7dd7a3e268"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23628,12 +23660,13 @@
 		"examenprogramma_eindterm_id": [
 			"99b987fa-e153-4bf2-812d-47d562d954c6"
 		],
-		"title": "De kandidaat kan uitleggen hoe in het Periodiek Systeem de atoomsoorten gerangschikt zijn:\r\r\n- groepen, perioden; namen groep 17 en 18; elementen in dezelfde groep hebben overeenkomstige chemische eigenschappen.",
+		"title": "De kandidaat kan uitleggen hoe in het Periodiek Systeem de atoomsoorten gerangschikt zijn:\r\r\r\n- groepen, perioden; namen groep 17 en 18; elementen in dezelfde groep hebben overeenkomstige chemische eigenschappen.",
 		"id": "c02640dc-c306-464a-a84d-dd34e5c29745",
 		"description": "",
 		"replaces": [
 			"eb58b060-a282-4759-a8cd-bdcd6e09e323"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23641,12 +23674,13 @@
 		"examenprogramma_eindterm_id": [
 			"d3106200-7b03-4bfa-9b08-6a05ee77853d"
 		],
-		"title": "De kandidaat kan de notaties en namen van een aantal ionen geven:\r\r\n- Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO32-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4+, NO3-, O2-, OH-, Pb2+, PO43-, S2-, Sn2+, SO42-, Zn2+",
+		"title": "De kandidaat kan de notaties en namen van een aantal ionen geven:\r\r\r\n- Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO32-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4+, NO3-, O2-, OH-, Pb2+, PO43-, S2-, Sn2+, SO42-, Zn2+",
 		"id": "7509c56e-efaf-40a3-b6b7-ffee2c6f6648",
 		"description": "",
 		"replaces": [
 			"ebbd951b-20b3-4ba8-8cf5-e43571d020a5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -23654,7 +23688,7 @@
 		"examenprogramma_eindterm_id": [
 			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
 		],
-		"title": "De kandidaat kan in de afsluitingsfase:\r\r\n- de resultaten mondeling of schriftelijk op samenhangende wijze presenteren volgens tevoren gestelde criteria.",
+		"title": "De kandidaat kan in de afsluitingsfase:\r\r\r\n- de resultaten mondeling of schriftelijk op samenhangende wijze presenteren volgens tevoren gestelde criteria.",
 		"id": "af12cf2f-c9b0-4fe0-8d23-f3985e645d83",
 		"description": "",
 		"syllabus_toelichting_id": [
@@ -23663,7 +23697,8 @@
 		],
 		"replaces": [
 			"a207247d-54a3-4e52-bf28-587057cc0809"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
