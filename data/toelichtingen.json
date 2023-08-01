@@ -3881,7 +3881,10 @@
 	{
 		"ce_se": "CE",
 		"title": "Er wordt uitgegaan van verschillende informatiebronnen zoals teksten, afbeeldingen, beelden, cijfers en eenvoudig statistisch materiaal.",
-		"id": "f487c91e-f79f-4b41-9533-3ef59581aa7e"
+		"id": "f487c91e-f79f-4b41-9533-3ef59581aa7e",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"description": "",
@@ -3915,184 +3918,241 @@
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5a.1.5f/toel.",
 		"title": "De mate waarin een land bestempeld kan worden als een dictatuur of een democratie kan verschillen. Indien er in een land minder kenmerken zijn van een parlementaire democratie en rechtsstaat, dan is er meer sprake van een dictatuur en omgekeerd",
-		"id": "ff212d28-49bd-466d-aa17-22f0045f671f"
+		"id": "ff212d28-49bd-466d-aa17-22f0045f671f",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5a/toel.",
 		"title": "Naast de formele taken als hoofd van de regering, heeft de koning een samenbindende, vertegenwoordigende en aanmoedigende rol.",
-		"id": "7ef1ba88-55c4-47f6-9df5-cdf024665914"
+		"id": "7ef1ba88-55c4-47f6-9df5-cdf024665914",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5b.2.6/toel.",
-		"title": "Fase 1 Agendavorming: Het uiten van wensen die leven in de maatschappij, met als doel die op de politieke agenda te krijgen. Burgers, organisaties, pressie- en belangengroepen proberen hun wensen en verlangens op de politieke agenda te krijgen. Het succes van hun pogingen hangt onder meer af van\r\r\r\r\r\nhet kunnen mobiliseren van de publieke opinie. Fase 1 is afgerond als de wensen en verlangens op de politieke agenda staan.",
+		"title": "Fase 1 Agendavorming: Het uiten van wensen die leven in de maatschappij, met als doel die op de politieke agenda te krijgen. Burgers, organisaties, pressie- en belangengroepen proberen hun wensen en verlangens op de politieke agenda te krijgen. Het succes van hun pogingen hangt onder meer af van\r\r\r\r\r\r\nhet kunnen mobiliseren van de publieke opinie. Fase 1 is afgerond als de wensen en verlangens op de politieke agenda staan.",
 		"id": "afa3e74b-9edc-4b9a-bbf5-280ce7959765",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5b.2.6/toel.",
 		"title": "Fase 2 Beleidsvoorbereiding: Vergelijken of afwegen van en het bedenken van oplossingen voor vraagstukken. Mogelijk nieuw beleid wordt opgesteld en vaak met hulp van ambtenaren voorbereid, dat wil zeggen: er wordt gekeken naar haalbaarheid, kosten, effectiviteit en draagvlak. Pressiegroepen en andere actoren proberen ook tijdens deze fase invloed uit te oefenen. Dagelijks bestuur en volksvertegenwoordigers bepalen hun standpunten over het (mogelijk nieuwe) beleid. Fase 2 is afgerond vlak voordat de besluitvorming plaatsvindt.",
-		"id": "271516fa-6174-47af-85a6-c337a94e24cc"
+		"id": "271516fa-6174-47af-85a6-c337a94e24cc",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5b.2.6/toel.",
 		"title": "Fase 3 Beleidsbepaling: Het beslissen over problemen of over de besluitvormingsfase. Eerst neemt het dagelijks bestuur een voorlopige beslissing. Vervolgens besluit de volksvertegenwoordiging over het (al dan niet) aannemen van het nieuwe beleid/nieuwe wetgeving. Fase 3 is afgerond als de volksvertegenwoordiging de uiteindelijke beslissing heeft genomen",
-		"id": "12cafbf2-54d7-4e94-bffb-f699276ade1e"
+		"id": "12cafbf2-54d7-4e94-bffb-f699276ade1e",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5b.2.6/toel.",
 		"title": "Fase 4 Beleidsuitvoering: Het uitvoeren van besluiten. Onder politieke verantwoordelijkheid van het dagelijks bestuur zijn ambtenaren belast met de uitvoer van wetten en maatregelen. Tijdens de uitvoer kan blijken dat het veranderde beleid moeilijk (of niet) uitvoerbaar is. Beleidsvorming is een doorgaand proces waarin een aangenomen wet geen definitief eindpunt vormt. Er zijn voortdurend reacties vanuit de samenleving op genomen besluiten. Dit wordt ‘terugkoppeling’ genoemd. De politieke besluitvorming kan dan weer opnieuw beginnen.",
-		"id": "5a5820aa-1ca3-4f3a-ba83-ba4d0339daf6"
+		"id": "5a5820aa-1ca3-4f3a-ba83-ba4d0339daf6",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
 		"title": "Liberale stroming: Individuele vrijheid, individuele rechten en eigen verantwoordelijkheid. Vrijheid op economische gebied. Particulier initiatief; de vrijheid om te ondernemen, ruimte voor de vrije markt, en dus beperkte overheidsinvloed. Nadruk op de kerntaken van de overheid: bescherming van de rechtsstaat, handhaving van openbare orde en defensie.",
-		"id": "f57846b7-e8ea-4454-866e-3ee028d97720"
+		"id": "f57846b7-e8ea-4454-866e-3ee028d97720",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
-		"title": "Sociaaldemocratische stroming: Streven naar meer sociaaleconomische gelijkheid; verkleinen van verschillen in inkomen, welvaart, en macht. Relatief grote rol van de overheid om nadelen van de vrijemarkteconomie te verminderen, om ongelijkheid te verkleinen en om gemeenschapsgoederen zoals\r\r\r\r\r\nonderwijs, sociale voorzieningen e.d. te scheppen. Internationale solidariteit. Opkomen voor de zwakkeren in de samenleving.",
+		"title": "Sociaaldemocratische stroming: Streven naar meer sociaaleconomische gelijkheid; verkleinen van verschillen in inkomen, welvaart, en macht. Relatief grote rol van de overheid om nadelen van de vrijemarkteconomie te verminderen, om ongelijkheid te verkleinen en om gemeenschapsgoederen zoals\r\r\r\r\r\r\nonderwijs, sociale voorzieningen e.d. te scheppen. Internationale solidariteit. Opkomen voor de zwakkeren in de samenleving.",
 		"id": "ce663ca7-0c9c-4781-a534-8534b2d082ec",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
 		"title": "Christendemocratische stroming: Bijbelse waarden als naastenliefde en gemeenschapszin, christelijke geloof als inspiratiebron. Harmonie en samenwerking tussen diverse groepen binnen de samenleving. Faciliterende rol van de overheid in die samenwerking: de overheid verricht vooral taken die niet door andere groepen in de samenleving kunnen worden vervuld. Rentmeesterschap. Gespreide verantwoordelijkheid.",
-		"id": "d2864bb1-450e-487f-bfb6-c09132d2e8f7"
+		"id": "d2864bb1-450e-487f-bfb6-c09132d2e8f7",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
 		"title": "Ecologische stroming: Stellen duurzame ‘groene’ consumptie boven economische groei. Te bereiken via mentaliteitsverandering bij burgers en bedrijven en zeker ook via overheidsmaatregelen (zoals wetgeving). Geen verdere aantasting van natuur en milieu. Milieuvriendelijk en duurzaam produceren en consumeren.",
-		"id": "5920874a-2a91-4c28-909b-ffea9a6cb08f"
+		"id": "5920874a-2a91-4c28-909b-ffea9a6cb08f",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/4/5d.4.5/toel.",
 		"title": "Nationalistische stroming: Stellen de oorspronkelijke bewoners van het land centraal. Streven naar onafhankelijkheid en volledig zelfbestuur. Proberen dus zo min mogelijk deel te nemen aan internationale organisaties zoals de EU. Globalisering en immigratie worden gezien als een bedreiging voor het land. Bevat vaak populistische elementen.",
-		"id": "ca972b80-0d74-4d09-9c02-788706da008d"
+		"id": "ca972b80-0d74-4d09-9c02-788706da008d",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13a.9/toel.",
 		"title": "Kenmerken van veelvoorkomende criminaliteit zijn: - het gaat om massaal voorkomende strafbaar gestelde gedragingen; - die veel schade veroorzaken; - hinderlijk zijn en gevoelens van onveiligheid bevorderen. Veelvoorkomende criminaliteit wordt in het algemeen licht bestraft zeker bij een eerste overtreding.",
-		"id": "eda58f48-73bd-4034-9b17-45b180c269c5"
+		"id": "eda58f48-73bd-4034-9b17-45b180c269c5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13a.12/toel.",
 		"title": "In door media verspreide berichtgeving over criminaliteit is crimineel gedrag met geweld en andere opvallende vormen van criminaliteit relatief oververtegenwoordigd. Dit komt mede omdat het versturen van berichtgeving over sterk norm overschrijdend/ crimineel gedrag, de zender veel aandacht kan opleveren. De beeldvorming over de aard, omvang en de ontwikkeling van de criminaliteit kan flink verschillen met de daadwerkelijk voorkomende criminaliteit.",
-		"id": "09f33f20-b44b-4cf9-96eb-74725d62c1a5"
+		"id": "09f33f20-b44b-4cf9-96eb-74725d62c1a5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/7a/toel.",
 		"title": "De verdachte heeft het recht te weten waarvan hij verdacht wordt. De verdachte heeft vanaf het moment dat hij door de politie verhoord wordt recht op hulp van een advocaat/raadsman. Ook als de verdachte die niet zelf kan betalen. De politie moet de verdachte op dit recht wijzen. De verdachte heeft het recht om te zwijgen; hij heeft wel de plicht om een identiteitsbewijs te tonen of mee te werken aan: het vaststellen van zijn identiteit, het nemen van foto's en vingerafdrukken, en DNA-onderzoek. De verdachte mag maar voor een beperkte tijd worden vastgehouden. Hoelang dat voor welke strafbare feiten mag, staat precies in de wet. In een rechtszaak heeft de verdachte het recht om in hoger beroep te gaan. De verdachte heeft het recht op een eerlijk proces voor een onafhankelijke en onpartijdige rechter.",
-		"id": "dcfe4bc4-b9e0-4432-9f8e-d2b9dceecfe5"
+		"id": "dcfe4bc4-b9e0-4432-9f8e-d2b9dceecfe5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/7a/toel.",
 		"title": "De rechten van de verdachte kunnen het opsporen en vervolgen van strafbare feiten bemoeilijken. De rechten van de verdachte staan soms ook op gespannen voet met de belangen van het slachtoffer.",
-		"id": "76000f67-00b0-4a82-b920-6ad95deb32f5"
+		"id": "76000f67-00b0-4a82-b920-6ad95deb32f5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/8/toel.",
 		"title": "De officier van justitie kan ook besluiten gepleegde strafbare feiten niet te vervolgen en verdachten niet voor de rechter te brengen. De beslissing niet te vervolgen noemen we de zaak seponeren. Redenen daarvoor kunnen zijn: de schade die verdachten kunnen ondervinden van een rechtszaak en veroordeling weegt niet op tegen de noodzaak tot straffen en er is, volgens de officier van justitie, onvoldoende bewijs voor het strafbare feit.",
-		"id": "61a75675-4137-4c10-bd9c-f45b35bd38d1"
+		"id": "61a75675-4137-4c10-bd9c-f45b35bd38d1",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/8/toel.",
 		"title": "De officier van justitie kan ook een transactie of schikkingsvoorstel aanbieden aan de verdachte. Als de verdachte daarmee instemt of betaalt, volgt er geen strafvervolging meer. Wie niet betaalt moet alsnog voor de rechter komen",
-		"id": "0378228b-9b8e-4017-9226-a8d52df9d854"
+		"id": "0378228b-9b8e-4017-9226-a8d52df9d854",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/8/toel.",
 		"title": "Voor een aantal veel voorkomende strafbare feiten kan de officier van justitie zelf een strafbeschikking opleggen. Als de bestrafte het niet eens is met de strafbeschikking kan hij bezwaar maken; de zaak kan dan alsnog worden voorgelegd aan de rechter.",
-		"id": "cfea82e6-d76f-4e59-9fa7-9870a4c2296b"
+		"id": "cfea82e6-d76f-4e59-9fa7-9870a4c2296b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/8/toel.",
 		"title": "Als seponeren, een transactie of een strafbeschikking niet aan de orde is, dan komt een strafzaak voor de rechter.",
-		"id": "fa8a68ff-4be5-4b31-acdf-ef78223959d8"
+		"id": "fa8a68ff-4be5-4b31-acdf-ef78223959d8",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/8/toel.",
 		"title": "De officier van justitie is de openbare aanklager tijdens de rechtszitting en vertegenwoordigt bij de rechtbank het openbaar ministerie.",
-		"id": "c5295e42-a7dd-4d49-8bbb-73eee42ae8d5"
+		"id": "c5295e42-a7dd-4d49-8bbb-73eee42ae8d5",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b.13c/toel.",
 		"title": "Het gerechtshof behandelt het hoger beroep tegen vonnissen van de strafrechter. De hoogste rechterlijke instantie is de Hoge Raad. Hier kan men in cassatie gaan; beroep aantekenen tegen een uitspraak van een lagere rechter. Haar taak is echter het toetsen van vonnissen van lagere rechtbanken en niet of de verdachte schuldig is van een delict.",
-		"id": "59bd6034-2995-4006-bf7a-896d2c58a57d"
+		"id": "59bd6034-2995-4006-bf7a-896d2c58a57d",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13b/14h/toel.",
 		"title": "Er bestaat een wettelijk vastgelegde rolverdeling tussen de functionarissen tijdens een rechtszitting en het gaat om een eerlijk en rechtvaardig proces.",
-		"id": "b46dc72f-125f-4dab-aca2-78b28047d1d9"
+		"id": "b46dc72f-125f-4dab-aca2-78b28047d1d9",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13c/1/toel.",
 		"title": "Omgekeerd bestaan er ook beschermende factoren, die zorgen voor een kleinere kans op crimineel gedrag. Het gaat hier bijvoorbeeld om: - het hebben van een baan/het volgen van onderwijs; - een relatie hebben/deel zijn van een hecht gezin; - het beschikken over goede sociale vaardigheden.",
-		"id": "0d6fe5ff-c6ce-4da9-86bf-4cb5f94374e0"
+		"id": "0d6fe5ff-c6ce-4da9-86bf-4cb5f94374e0",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13c/3/toel.",
 		"title": "Uit onderzoek blijkt dat een groot deel van de jeugd zich schuldig maakt aan het plegen van in het algemeen lichte vergrijpen. De meeste jeugdige delinquenten ontwikkelen zich niet tot volwassen criminelen, maar stoppen met het plegen van misdrijven zodra zij volwassen worden en verantwoordelijkheid gaan dragen in een baan of een gezin.",
-		"id": "0192cc51-651d-44ae-a2db-f02e27b40593"
+		"id": "0192cc51-651d-44ae-a2db-f02e27b40593",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13c/3/toel.",
 		"title": "Slechts een kleine minderheid van (vooral) jongens blijft doorgaan met het plegen van misdrijven. Van alle opgroeiende jongens vertoont ruwweg vijf procent blijvend strafbaar gedrag. Personen die zich bij herhaling schuldig maken aan het plegen van strafbare feiten, worden recidivisten genoemd.",
-		"id": "b5c878e7-9df1-4aba-b8b2-d62166f072a8"
+		"id": "b5c878e7-9df1-4aba-b8b2-d62166f072a8",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13d/1/toel.",
 		"title": "De wetgevende macht (regering en parlement) stelt met elkaar vast wat strafbaar is, ze komen met wetten of wetswijzigingen. Op lokaal niveau kan de gemeenteraad strafbare feiten vaststellen, dit zijn altijd overtredingen. Op lokaal niveau is er het driehoeksoverleg tussen de burgemeester, officier van justitie en politie over de aanpak van criminaliteit en overlast in een bepaalde wijk.",
-		"id": "bea2389a-536a-4a06-a611-5f6f1102d761"
+		"id": "bea2389a-536a-4a06-a611-5f6f1102d761",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13d/1/toel.",
 		"title": "De burgemeester is belast met de handhaving van de openbare orde in de gemeente. Het openbaar ministerie, de officier van justitie en de politie zijn belast met de opsporing van strafbaar gedrag. De rechterlijke macht is belast met rechtspraak",
-		"id": "07445c0d-7971-48d0-a8b8-6ae9543377d7"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "ML2/K/8/13e/2/toel.",
-		"title": "De bijkomende straffen hebben meestal iets te maken met het strafbare feit dat is gepleegd. Een bijkomende straf kan in combinatie met een hoofdstraf of een andere bijkomende straf worden opgelegd, maar kan ook alleen worden opgelegd. Voorbeelden van bijkomende straffen zijn: - openbaar maken van de uitspraak (met naam noemen); - afnemen van rechten, bijvoorbeeld het afnemen van het rijbewijs.",
-		"id": "a32963f6-92bb-4fd8-8e3f-24c97d6fa4af"
-	},
-	{
-		"ce_se": "CE",
-		"prefix": "ML2/K/8/13e/2/toel.",
-		"title": "Maatregelen zijn niet in de eerste plaats bedoeld om iemand te straffen, maar gericht op herstel of om de samenleving tegen de dader of de dader tegen zichzelf te beschermen. Voorbeelden van maatregelen: \r\r\r\r\r\n- het afpakken van goederen of van winst die een verdachte met zijn misdrijven heeft gemaakt; \r\r\r\r\r\n- het betalen van een schadevergoeding aan het slachtoffer; \r\r\r\r\r\n- Tbs; een behandelmaatregel voor mensen die lijden aan een psychiatrische ziekte of stoornis.",
-		"id": "5bc153cb-a97e-4130-8b34-9bfef867fd32",
+		"id": "07445c0d-7971-48d0-a8b8-6ae9543377d7",
+		"dirty": true,
 		"description": ""
 	},
 	{
 		"ce_se": "CE",
 		"prefix": "ML2/K/8/13e/2/toel.",
+		"title": "De bijkomende straffen hebben meestal iets te maken met het strafbare feit dat is gepleegd. Een bijkomende straf kan in combinatie met een hoofdstraf of een andere bijkomende straf worden opgelegd, maar kan ook alleen worden opgelegd. Voorbeelden van bijkomende straffen zijn: - openbaar maken van de uitspraak (met naam noemen); - afnemen van rechten, bijvoorbeeld het afnemen van het rijbewijs.",
+		"id": "a32963f6-92bb-4fd8-8e3f-24c97d6fa4af",
+		"dirty": true,
+		"description": ""
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13e/2/toel.",
+		"title": "Maatregelen zijn niet in de eerste plaats bedoeld om iemand te straffen, maar gericht op herstel of om de samenleving tegen de dader of de dader tegen zichzelf te beschermen. Voorbeelden van maatregelen: \r\r\r\r\r\r\n- het afpakken van goederen of van winst die een verdachte met zijn misdrijven heeft gemaakt; \r\r\r\r\r\r\n- het betalen van een schadevergoeding aan het slachtoffer; \r\r\r\r\r\r\n- Tbs; een behandelmaatregel voor mensen die lijden aan een psychiatrische ziekte of stoornis.",
+		"id": "5bc153cb-a97e-4130-8b34-9bfef867fd32",
+		"description": "",
+		"dirty": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "ML2/K/8/13e/2/toel.",
 		"title": "De rechter kan ook iemand voorwaardelijk veroordelen tot een geldboete of een vrijheidsstraf. Een voorwaardelijke straf wordt (nog) niet uitgevoerd. De veroordeelde krijgt dan een proeftijd. Wanneer hij zich binnen de proeftijd opnieuw schuldig maakt aan een strafbaar feit, wordt de voorwaardelijke straf uitgevoerd.",
-		"id": "7916b2f0-78dd-4f7e-a6c3-b95dda7bc8ce"
+		"id": "7916b2f0-78dd-4f7e-a6c3-b95dda7bc8ce",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
