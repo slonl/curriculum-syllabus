@@ -57924,11 +57924,13 @@
 		"examenprogramma_eindterm_id": [
 			"7950c2a2-4a7e-4261-a93c-5f6e7a3f02a8"
 		],
-		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen, gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema's en diagrammen en grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
+		"title": "De kandidaat kan informatie verwerven en selecteren uit schriftelijke, mondelinge en audiovisuele bronnen, gegevens halen uit grafieken, tabellen, tekeningen, simulaties, schema’s en diagrammen; grootheden, eenheden, symbolen, formules en gegevens opzoeken in geschikte tabellen.",
 		"id": "07c27638-fe4f-4f56-84c7-de75f1a8f748",
 		"replaces": [
 			"e68f42d7-4001-481e-9998-dfc54667a878"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -57940,7 +57942,9 @@
 		"id": "771aae1d-26ab-494d-97c4-66ebbf893a37",
 		"replaces": [
 			"4132b29d-d9ca-4189-bcd9-34ea988a862f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -57952,7 +57956,9 @@
 		"id": "c3bc064d-1f6d-4cd7-acae-8cbe3f94b317",
 		"replaces": [
 			"430e67e4-fb93-4936-86a5-7171f64b54bc"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -57964,7 +57970,9 @@
 		"id": "0edfe992-37c6-438e-bed8-1e5cb2e5c2f0",
 		"replaces": [
 			"31cda455-c93a-4d8d-9696-acb3f3785447"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -57976,7 +57984,9 @@
 		"id": "d696b36e-ebaf-4fd2-9503-17781be6f47f",
 		"replaces": [
 			"800fa534-991e-473f-a7cb-1e989b53b86a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -57988,7 +57998,9 @@
 		"id": "e56e79b7-83a6-4b51-ba7f-44d6b3b4daaa",
 		"replaces": [
 			"901cb4ba-ad44-4386-b633-44e7eae58894"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58000,7 +58012,9 @@
 		"id": "c802ee01-56b1-482b-81b6-5fe2ff510ce8",
 		"replaces": [
 			"73c30dca-0685-4edd-b75b-3eec7795708a"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58012,7 +58026,9 @@
 		"id": "47055545-3f2b-44e4-be7c-d02d3d36f90a",
 		"replaces": [
 			"7ccb52d8-fa40-472f-8550-e2957a4ae387"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58024,7 +58040,9 @@
 		"id": "25d25693-6b2b-4b43-8277-1f2e44b1b618",
 		"replaces": [
 			"a57a8b40-c2cc-4fa6-9bcf-3a6b6739cf7e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58036,7 +58054,9 @@
 		"id": "91a1ce3c-d058-40e8-9ac3-a544dfdcb1d9",
 		"replaces": [
 			"ed6b43e3-5267-4e34-97d8-3bbc49b20fac"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58048,7 +58068,9 @@
 		"id": "2628df89-0895-4bc1-b248-ff76b953f3d8",
 		"replaces": [
 			"3609718b-7913-449b-bf4c-574f23de3ac5"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58060,7 +58082,9 @@
 		"id": "b9b451e4-f455-4d2e-a5e2-d55a0689bfcc",
 		"replaces": [
 			"a0df745a-f43a-4be5-b8d5-6743f6d7685d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58072,7 +58096,9 @@
 		"id": "ec8a868d-2310-4fad-b297-1750e405b2c2",
 		"replaces": [
 			"afd49a49-5a2d-44b9-9882-42bcfd1773fb"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58204,7 +58230,9 @@
 		"id": "3e9f40d3-ab48-4a19-87d4-50c19d91c199",
 		"replaces": [
 			"a32f3191-2a61-4dec-8fd9-3bba50c4aa7e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -58216,7 +58244,9 @@
 		"id": "77a2f639-6a6b-4dc3-9666-a1c757efb62f",
 		"replaces": [
 			"693b5870-603b-42be-83b7-684f581285dd"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -77677,6 +77707,1430 @@
 		],
 		"title": "De kandidaat kent de voorwaarden waaronder een verband een functie is en de notatie xp voor de x-coördinaat van het punt P en yp voor de y-coördinaat van het punt P.",
 		"id": "492e3fd9-e42a-4de9-a397-82a1e8c9e7bc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.1",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan een natuurwetenschappelijk probleem herkennen en specificeren.",
+		"id": "b8edf7ee-ca60-4b8d-8de5-3c85be6b38d7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.2",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan een natuurwetenschappelijk probleem herleiden tot een (of meerdere) onderzoeksvra(a)g(en).",
+		"id": "d2c8393b-fd31-4b12-abfe-0c1cba56b953",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.3",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan verbanden leggen tussen een onderzoeksvraag en natuurwetenschappelijke kennis.",
+		"id": "f36f14b6-4fd4-4dc2-89e6-fe7057852e19",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.4",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan een hypothese opstellen bij een onderzoeksvraag en verwachtingen formuleren.",
+		"id": "e2e28418-9c79-46cf-8de7-84714b27cf1b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.5",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan een werkplan maken voor het uitvoeren van een natuurwetenschappelijk onderzoek ter beantwoording van een (of meerdere) onderzoeksvra(a)g(en).",
+		"id": "ad69bfbc-1f56-49a8-acac-7522645d8538",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.7",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan meetgegevens verwerken en presenteren op een wijze die helpt bij de beantwoording van een onderzoeksvraag.",
+		"id": "d6b389f1-b213-4810-8722-3e827a0a0faf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.8",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan op grond van verzamelde gegevens van een uitgevoerd onderzoek conclusies trekken die aansluiten bij de onderzoeksvra(a)g(en) van het onderzoek.",
+		"id": "869c1a6e-172e-42ca-b5a4-77bebcc59faa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.9",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan de uitkomsten en de resultaten van een onderzoek evalueren.",
+		"id": "97576ddf-c872-4511-b48d-f13426273ab6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A5/5.11",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"title": "De kandidaat kan herkennen dat er naast een experimentele onderzoeksaanpak ook andere onderzoeksaanpakken zijn.",
+		"id": "bdcc4fdc-11af-46e2-8b89-1bfb23cf3b88",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A6/6.1",
+		"examenprogramma_eindterm_id": [
+			"2429b9ae-4f34-4ebc-a850-7614c853aed4"
+		],
+		"title": "De kandidaat kan een ontwerpprobleem specificeren.",
+		"id": "7a10074e-4501-4c64-99ce-0d46fd6341dc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A6/6.4",
+		"examenprogramma_eindterm_id": [
+			"2429b9ae-4f34-4ebc-a850-7614c853aed4"
+		],
+		"title": "De kandidaat kan verbanden leggen tussen natuurwetenschappelijke kennis en taken en eigenschappen van een ontwerp.",
+		"id": "bb76f6c7-e416-4d69-9b1d-be03c5fedd08",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A6/6.9",
+		"examenprogramma_eindterm_id": [
+			"2429b9ae-4f34-4ebc-a850-7614c853aed4"
+		],
+		"title": "De kandidaat kan voorstellen doen voor verbetering van een ontwerp.",
+		"id": "d138e063-a18e-4c3b-a430-436a32a392c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.1",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan een natuurwetenschappelijk verschijnsel specificeren met als doel het te beschrijven, te verklaren of te voorspellen.",
+		"id": "440a8c80-0a27-4ecd-b50a-2177e4af2848",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.2",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan een natuurwetenschappelijk verschijnsel vereenvoudigen en de essentiële kenmerken ervan identificeren.",
+		"id": "44b0551d-9dd0-4c1b-a4b8-ab54da2b3ea2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.3",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan van een model de overeenkomsten en verschillen met de werkelijkheid benoemen met als doel de geschiktheid en het geldigheidsgebied van het model te bepalen.",
+		"id": "3e55c569-3868-40d7-8f27-d21921df7d36",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.4",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan van een model beoordelen in hoeverre het aansluit bij het doel waarvoor het ingezet wordt.",
+		"id": "5f1c6aaf-2b3e-448c-b7ca-0e189da803da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.5",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan voor een model een geschikte fysieke, schematische of wiskundige weergave selecteren.",
+		"id": "28af6c56-f84b-4870-8065-4ce60d2b8d10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.6",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan met een model eigenschappen van een natuurwetenschappelijk verschijnsel beschrijven, verklaren en/of voorspellen.",
+		"id": "c636b195-e528-4cf7-9c10-1b2cc39f653a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A7/7.7",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"title": "De kandidaat kan voorstellen doen voor de verbetering en/of uitbreiding van een model.",
+		"id": "ec5930e0-9078-4d92-b0ae-750a279bb80b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A8/8.4",
+		"examenprogramma_eindterm_id": [
+			"7950c2a2-4a7e-4261-a93c-5f6e7a3f02a8"
+		],
+		"title": "De kandidaat kan aangeven met welke technieken en apparaten de belangrijkste grootheden uit de natuurwetenschappen worden gemeten.",
+		"id": "419d6ca1-ab60-4fff-bb5c-e4435e69da13",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A11/11.1",
+		"examenprogramma_eindterm_id": [
+			"c3c1ae99-3982-420d-951f-c55d69f96d8d"
+		],
+		"title": "De kandidaat kan in contexten afgeleid uit de sferen ‘Chemie van het leven’ en ‘Technologie & Duurzaamheid’ de chemische concepten uit de sferen ‘Materie’, ‘Reacties’ en ‘(Chemisch) Rekenen & Analyse’ herkennen en gebruiken om een ontwerpprobleem, een natuurwetenschappelijk vraagstuk of een  natuurwetenschappelijk verschijnsel te specificeren.",
+		"id": "ed098392-07af-426a-a2c4-9aa9dc18d6ad",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.1a",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de naam is gegeven en omgekeerd: niet-metalen: argon, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel.",
+		"id": "8a36175c-4a03-4a02-8bb0-0d3be8169f4d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.1b",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de naam is gegeven en omgekeerd: metalen: aluminium, barium, calcium, cadmium, chroom, goud, ijzer, kalium, kobalt, koper, kwik, lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, zilver, zink.",
+		"id": "0b325173-106d-4cb6-8af5-ea00ae635561",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.1c",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de naam is gegeven en omgekeerd: ammoniak, azijnzuur, fosforzuur, glucose, salpeterzuur, water, waterstofperoxide, zwavelzuur.",
+		"id": "20dad271-1582-4f1a-a0eb-889ba64ba952",
+		"unreleased": true
+	},
+	{
+		"prefix": "SK/H/DomeinB/B1/M1/16.1d",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de naam is gegeven en omgekeerd: Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4+, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+, Br–, CH3COO–, Cl–, CO32–, F–, HCO3–, I–, NO3–, NO2−, O2–, OH–, PO43–, S2, SO32–, SO42–.",
+		"id": "92797600-575d-45f9-8e16-43fe1cdd5589",
+		"unreleased": true
+	},
+	{
+		"prefix": "SK/H/DomeinB/B1/M1/16.1e",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het symbool of de (molecuul)formule geven van de volgende stoffen en ionen als de naam is gegeven en omgekeerd: van koolstofverbindingen met maximaal zes koolstofatomen met onvertakte keten.",
+		"id": "57beaa5c-a0ad-4305-a074-560912688d05",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.2",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de molecuulformule geven van een moleculaire stof opgebouwd uit twee atoomsoorten (binaire moleculaire stof) aan de hand van de systematische IUPAC-naam en omgekeerd.",
+		"id": "cc3cbf6a-d582-4705-a0d5-38df53e040f3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.3",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de volgende begrippen gebruiken: aggregatietoestand/fase: toestandsaanduidingen (s), (l), (g) en (aq), alcoholen, atomaire massa-eenheid (u), carbonzuren, fase-overgang, index, triviale naam, vertakte koolstofketen.",
+		"id": "9cf57de2-8235-4cd0-83ad-9093fff21f3c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.4a",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan met behulp van een atoommodel de bouw van atomen en ionen beschrijven en daarbij de volgende begrippen gebruiken: bouw van de kern: protonen, neutronen, massagetal, atoomnummer,  isotopen.",
+		"id": "bf9446f0-d951-4320-8501-3f728adbc897",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.4b",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan met behulp van een atoommodel de bouw van atomen en ionen beschrijven en daarbij de volgende begrippen gebruiken: bouw van de elektronenwolk: elektronen en eenvoudige elektronenconfiguratie van periode 1 t/m 3.",
+		"id": "33f95f7c-7cc0-4dd5-a1b3-4319e0f1b23c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.4c",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan met behulp van een atoommodel de bouw van atomen en ionen beschrijven en daarbij de volgende begrippen gebruiken: lading en massa van elektronen, portonen en neutronen.",
+		"id": "b3a97cfc-9cb2-458e-9b71-13df5018a179",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.5a",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de opbouw van het periodiek systeem beschrijven, en daarbij de plaats van aardalkalimetalen, alkalimetalen, halogenen en edelgassen aangeven.",
+		"id": "356a3dbc-cdff-4b23-84c2-79bd44d876bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.5b",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de opbouw van het periodiek systeem beschrijven, en daarbij de verdeling metalen en niet-metalen globaal aangeven.",
+		"id": "5519c3ab-8cb8-4251-b303-866324e43b20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.5c",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de opbouw van het periodiek systeem beschrijven, en daarbij het verband aangeven tussen atoomnummer en plaats in het periodiek systeem.",
+		"id": "5d531ded-e3dc-40bc-96fb-d19a0ccc1620",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.5d",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de opbouw van het periodiek systeem beschrijven, en daarbij het verloop van eigenschappen van elementen in een groep beschrijven.",
+		"id": "a7ab6569-514d-46e1-9d8b-4566098e5a83",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.6",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan uit de plaats in het periodiek systeem voor de volgende atoomsoorten de genoemde covalentie aangeven: • H, F, Cl, I, Br covalentie 1; • O, S covalentie 2; • N, P covalentie 3; • C, Si covalentie 4.",
+		"id": "61daa4d5-8d4a-4c10-a664-aeb68e58c373",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.7",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan op basis van de formule van een stof aangeven tot welke categorie stoffen deze behoort: • metalen (legeringen); • (macro)moleculaire stoffen; • zouten.",
+		"id": "3d717aa7-0b72-40d1-97e6-ae7d47ac028f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.8",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het verschil tussen ontleedbare en niet-ontleedbare stoffen beschrijven op microniveau.",
+		"id": "dcdfe71c-e518-4ae1-ab07-11488abd376c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.9",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan het verschil tussen een moleculaire stof en een zout beschrijven op microniveau.",
+		"id": "212dd6b4-9d37-4716-879f-7f41d0da093f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.10",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan de verhoudingsformule van een zout geven aan de hand van gegeven formules van ionen en de systematische IUPAC-naam en omgekeerd.",
+		"id": "99048b32-bebe-4452-8380-d4417512b729",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.11",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan kristalwater herkennen in de gegeven formule van een hydraat (notatie .n H2O).",
+		"id": "75a8d052-1690-4670-b429-acd8b411c372",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.12",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan bij het weergeven van de microstructuur van een verbinding de volgende begrippen gebruiken molecuulformule en structuurformule.",
+		"id": "40290d0a-c2bd-4999-b142-068b78b18bae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.13",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan met behulp van een gegeven molecuulformule en covalenties een structuurformule geven van een moleculaire stof en omgekeerd.",
+		"id": "25664e37-bd7b-4d47-85cd-8fd232c4808c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.14",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan in moleculen van organische verbindingen functionele/karakteristieke groepen herkennen:\r\r\r\nC=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
+		"id": "ccba3838-487c-4b90-b58b-1a122df65094",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.15",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan met behulp van de structuurformule van koolstofverbindingen met maximaal zes koolstofatomen met onvertakte keten met hoogstens één soort functionele/karakteristieke groepen4 de systematische IUPAC-naam aangeven en omgekeerd: • alkanen en afgeleide stoffen; • alkenen.",
+		"id": "7b6fc63b-c076-4bcf-98cb-56389025a33f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B1/M1/16.16",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"title": "De kandidaat kan aangeven dat de molecuulformules van verschillende organische verbindingen identiek aan elkaar kunnen zijn: structuurisomerie.",
+		"id": "243d8495-6199-481a-8ac1-0e4a9ff4011f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B2/M2/17.1",
+		"examenprogramma_eindterm_id": [
+			"6bcc4ef8-c922-47dd-9967-6c94501a922e"
+		],
+		"title": "De kandidaat kan het verschil tussen zuivere stoffen en mengsels beschrijven op macroniveau (stofeigenschappen) en op microniveau.",
+		"id": "3da2a04b-2ba9-48c1-aae7-d45f09177b1a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B2/M2/17.2",
+		"examenprogramma_eindterm_id": [
+			"6bcc4ef8-c922-47dd-9967-6c94501a922e"
+		],
+		"title": "De kandidaat kan een verband leggen tussen een zuivere stof en smeltpunt/kookpunt; een mengsel en smelttraject/kooktraject.",
+		"id": "0ad3cbc0-7b1e-4de7-8ded-7bc1393aff3a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B2/M2/17.3",
+		"examenprogramma_eindterm_id": [
+			"6bcc4ef8-c922-47dd-9967-6c94501a922e"
+		],
+		"title": "De kandidaat kan bij redeneringen over mengsels de volgende begrippen gebruiken: • emulsie, emulgator; • legering; • oplossing: onverzadigd, verzadigd; • suspensie.",
+		"id": "bdaa78a5-aecb-4348-9b87-3600f9f567b4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.1a",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan de volgende soorten bindingen beschrijven op microniveau: • atoombinding/covalente binding; • gemeenschappelijk(e) elektronenpa(a)r(en); • polaire atoombinding: ○ O–H en N–H binding • hydratatie; • ionbinding; • metaalbinding; • vanderwaalsbinding/molecuulbinding en maakt daarbij gebruik van: ○ molecuulmassa – vorm van de moleculen • waterstofbrug.",
+		"id": "85d2dbf6-fa9c-4d3f-a685-0b3ae0209675",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.2",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan de roosteropbouw van een stof beschrijven op microniveau: ionrooster, metaalrooster en molecuulrooster.",
+		"id": "8a678f8a-553b-4055-970b-ec1439fcd85d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.3",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan stofeigenschappen in verband brengen met de sterkte van de binding tussen de deeltjes waarmee de betreffende stof wordt voorgesteld: kookpunt en smeltpunt.",
+		"id": "dad06924-0849-4efd-aeeb-e36e55f33981",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.4",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan voor de volgende processen op microniveau beschrijven welk(e) soort(en) binding(en) verbroken/gevormd worden: condenseren, smelten, stollen en verdampen.",
+		"id": "ed124a92-3468-4309-b1de-fd83403df22a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.5",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan de termen hydrofoob/hydrofiel in verband brengen met verschillen in soorten binding: vanderwaalsbinding/molecuulbinding en waterstofbrug.",
+		"id": "05a8d4ab-132e-4088-ad17-a6d50b3e9358",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.6",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan verschillen in oplosbaarheid/mengbaarheid van moleculaire stoffen toelichten: hydrofiel en hydrofoob.",
+		"id": "0c3b520b-c82f-47b7-b058-f6c4a5f8e521",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.7",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan de hechting van deeltjes aan een oppervlak in verband brengen met aanwezige soorten deeltjes en kan daarbij de volgende begrippen gebruiken: hydrofiel en hydrofoob.",
+		"id": "98bc49a9-f97f-4674-9f01-e252ff5a1759",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.8",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan beschrijven welke soorten bindingen worden verbroken en/of gevormd bij het oplossen en/of ioniseren in water van: basen, moleculaire stoffen, zouten en zuren.",
+		"id": "fded79f5-0dda-4daa-8ead-e19871ffbd8a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B3/M3/18.9",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de oplosbaarheid van een zout en de toepassing van dat zout op basis van gegeven oplosbaarheid van zouten, bepalen of een combinatie van ionen goed dan wel slecht oplosbaar is.",
+		"id": "93fce75b-0fb4-48d6-9369-f704c767ec31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B4/M4/19.1a",
+		"examenprogramma_eindterm_id": [
+			"cbbab7c8-c632-4389-80f2-dcfedda81d27"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en corrosiegevoeligheid, en maakt daarbij gebruik van edelheid van metalen en de aanwezigheid van een beschermende laag.",
+		"id": "3c3968ab-fc8e-4ee4-b7f7-21f4578954bb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B4/M4/19.1b",
+		"examenprogramma_eindterm_id": [
+			"cbbab7c8-c632-4389-80f2-dcfedda81d27"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en elektrisch geleidingsvermogen, en maakt daarbij gebruik van de aanwezigheid en beweeglijkheid van ladingdragers: elektronen en ionen.",
+		"id": "55fad765-d5ee-43b4-ac03-c047ccd9c615",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B4/M4/19.1c",
+		"examenprogramma_eindterm_id": [
+			"cbbab7c8-c632-4389-80f2-dcfedda81d27"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en uv-lichtgevoeligheid, en maakt daarbij gebruik van de aanwezigheid van C=C bindingen en vorming van crosslinks.",
+		"id": "fbe3a2af-2f6d-432d-b7c9-e659ce664413",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B4/M4/19.1d",
+		"examenprogramma_eindterm_id": [
+			"cbbab7c8-c632-4389-80f2-dcfedda81d27"
+		],
+		"title": "De kandidaat kan een verband leggen tussen de bouw van een stof en vervormbaarheid, en maakt daarbij gebruik van de aanwezigheid van weekmakers in polymeren, de roosteropbouw van de stof en de structuur van polymere materialen thermoplasten en thermoharders.",
+		"id": "e93359be-e485-4f5f-b5e3-c01b3e21a5db",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinB/B5/M5/20.1",
+		"examenprogramma_eindterm_id": [
+			"dc1aa56b-bfb1-4362-80c7-1924aeeeebec"
+		],
+		"title": "De kandidaat kan voor composieten, polymeren en legeringen een verband leggen tussen de structuur en de volgende eigenschappen: vervormbaarheid; geleidend vermogen; waterbindend vermogen; corrosiegevoeligheid; uv-lichtgevoeligheid;  brandbaarheid;  hardheid;  brosheid.",
+		"id": "12f52549-db4e-42ff-aad6-5ba326d63b4f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.1",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de volgende begrippen gebruiken: coëfficiënt, elementbalans en ladingsbalans.",
+		"id": "05d1ed6e-d11e-4149-a659-e3d4f816d0e1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.2a",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan van de volgende processen een (reactie)vergelijking geven: processen waarbij beginstoffen en reactieproducten gegeven zijn.",
+		"id": "54a24c1f-044e-4dfc-8aa3-8e26a4886788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.2b",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan van de volgende processen een (reactie)vergelijking geven: volledige verbranding van verbindingen van koolstof, waterstof en eventueel zuurstof.",
+		"id": "77a50715-7c1f-4d23-9926-e51ab20fa2e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.2c",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan van de volgende processen een (reactie)vergelijking geven: oplossen/ioniseren in water van basen, moleculaire stoffen, zouten en zuren.",
+		"id": "0e0406fd-1eeb-4592-82ea-e34ecf9dfd3b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.3a",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan voor de volgende reactietypen herkennen:  donor-acceptor reacties:  redoxreacties: overdracht van elektronen en zuur-base reacties: overdracht van H+ionen/protonen.",
+		"id": "babd6da8-dab9-4c7e-b953-5f4a324e3248",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.3b",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de volgende reactietypen herkennen: ontledingsreactie: elektrolyse, fotolyse en thermolyse.",
+		"id": "f28acbe7-c64d-4a4c-8cea-528d796b137d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.3c",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de volgende reactietypen herkennen: subsittutie en verbranding: onvolledig en volledig.",
+		"id": "108208f8-0ada-4a80-9433-30d248b55ef6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.4",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de notatie van de volgende oplossingen geven als de naam is gegeven en omgekeerd: ammonia, natronloog en zoutzuur.",
+		"id": "73e5e59d-702d-40d3-a194-d55eea830878",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.5",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de volgende deeltjes als zuren herkennen: HCl, H2SO4, HNO3, H2O + CO2 / 'H2CO3', H3PO4, CH3COOH.",
+		"id": "327dddbf-5470-41ed-8e40-0a75816f3758",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.6",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de volgende deeltjes als basen herkennen:  NH3, OH–, CO32–, O2–, HCO3−.",
+		"id": "98b25161-5883-4f95-8e02-3af31ca70be8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.7",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan reacties tussen zuren en basen beschrijven als een reactie waarbij H+ ionen worden overgedragen: aanwijzen van het zuur/de donor en aanwijzen van de base/acceptor.",
+		"id": "e32cfc6a-9279-484b-9a45-24cc43613626",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.8",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan een redoxreactie beschrijven als een reactie waarbij elektronen worden overgedragen: halfreacties en aanwijzen van de reductor/oxidator.",
+		"id": "10254862-b915-4598-a8d4-efcec909a3b2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.9",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan de totale vergelijking van de reactie afleiden uit gegeven halfreacties.",
+		"id": "ce52291b-c346-4bc8-a844-5f877bc781f2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.10",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan een elektrochemische cel beschrijven en daarbij de volgende begrippen gebruiken: aanwijzen reductor en oxidator, elektrolyt, elektronenoverdracht via een externe verbinding, halfreactie, positieve en negatieve elektrode, stroomsterkte.",
+		"id": "599a4659-8d6f-4f6d-9f3a-8e5b273c1a25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C1/R1/21.11",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"title": "De kandidaat kan bij organisch-chemische reacties de reactievergelijking weergeven in molecuulformules en structuurformules: additiereacties, condensatiereacties: vorming van ester en vorming van amide/peptide, hydrolysereacties: hydrolyse van koolhydraten tot monosacchariden en hydrolyse van (poly)esters en (poly-)amiden/(poly)peptiden en hydrolyse van vetten tot glycerol en vetzuren, kraken, polymerisatie van alkenen en gesubstitueerde alkenen, polymerisatie tot polyesters en poly-amiden/polypeptiden, substitutiereacties: alkanen met halogenen.",
+		"id": "d077be96-83e0-42f2-b80f-98b8b443fa90",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C2/R&A1/22.1",
+		"examenprogramma_eindterm_id": [
+			"f3fdd96c-6ebf-4724-ad7d-df04f7fe6b09"
+		],
+		"title": "De kandidaat kan de volgende principes gebruiken bij het rekenen aan chemische processen: massaverhouding, molverhouding/stoichiometrische verhouding, ondermaat/overmaat, rendement als fractie of percentage van de theoretische opbrengst.",
+		"id": "6c350a9e-5932-4e22-b8f0-7ea0fa250d7f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C2/R&A1/22.2",
+		"examenprogramma_eindterm_id": [
+			"f3fdd96c-6ebf-4724-ad7d-df04f7fe6b09"
+		],
+		"title": "De kandidaat kan bij berekeningen de volgende begrippen/grootheden en relaties gebruiken: • massa: symbool m en eenheid kg of g,  atoommassa: symbool A en eenheid u, molecuulmassa: symbool M en eenheid u, molaire massa: symbool M(X) en eenheid g mol-1, chemische hoeveelheid: symbool n en eenheid mol, volume: symbool V en eenheid m3 of L, dichtheid: symbool ρ en eenheid kg m-3 of g L-1, concentratie: symbool c(X) of [X] en eenheid mol m-3 of mol L-1, molariteit: symbool niet éénduidig en a M betekent een a molair oplossing, eenheid mol L-1 of M, reactiesnelheid: symbool s en eenheid mol L-1s-1, relaties: 𝜌𝜌=𝑚𝑚 𝑉𝑉 , 𝑛𝑛=𝑚𝑚 𝑀𝑀, [X]=𝑛𝑛 𝑉𝑉 of 𝑐𝑐=𝑛𝑛 𝑉𝑉,  𝑠𝑠=∆c ∆𝑡𝑡.",
+		"id": "53c8c5f6-da18-43e4-be91-1aedc01ed469",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C2/R&A1/22.3",
+		"examenprogramma_eindterm_id": [
+			"f3fdd96c-6ebf-4724-ad7d-df04f7fe6b09"
+		],
+		"title": "De kandidaat kan bij berekeningen met massa, volume en hoeveelheid de volgende begrippen gebruiken: percentage (%), ppm en ppb.",
+		"id": "29852010-0ce9-48ff-ac73-9c798e3c25c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C2/R&A1/22.4",
+		"examenprogramma_eindterm_id": [
+			"f3fdd96c-6ebf-4724-ad7d-df04f7fe6b09"
+		],
+		"title": "De kandidaat kan bij berekeningen van de pH de volgende begrippen en relaties gebruiken: • zuurgraad; ○ symbool pH en pOH • pH = –log [H+]; • pOH = –log [OH–]; • pH + pOH = 14,00 (bij 298K); • [H+] = 10–pH; • [OH–] = 10-pOH.",
+		"id": "b50a61e2-6092-4f13-b2e9-156827f8af68",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C3/R5/23.1",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"title": "De kandidaat kan de volgende begrippen gebruiken: activeringsenergie, endotherm, exotherm, energieniveaus, invloed van een katalysator, ontbrandingstemperatuur, overgangstoestand/geactiveerde toestand, reactiewarmte/energie-effect en vormingswarmte.",
+		"id": "4fcd03a7-3dac-4cd1-81b3-81f693d22e6e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C3/R5/23.2",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"title": "De kandidaat kan een energiediagram geven van een reactie.",
+		"id": "0977501c-787e-4a4e-af42-b765c47f340d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C3/R5/23.3",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"title": "De kandidaat kan de reactiewarmte van een proces berekenen met behulp van vormingswarmtes.",
+		"id": "a04d979f-2fa3-4305-88cf-cc5e2ff91bcc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C3/R5/23.4",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"title": "De kandidaat kan bij omzettingen van chemische energie redeneren aan de hand van berekeningen, en maakt daarbij gebruik van de wet van behoud van energie: elektrische energie en  warmte.",
+		"id": "062bfe11-e8e2-46a9-87bb-c71b1b63d43f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C3/R5/23.5",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"title": "De kandidaat kan aangeven dat bij omzettingen van een vorm van energie in een andere vorm van energie er minstens een deel wordt omgezet in warmte. In verband daarmee kan de kandidaat het begrip kwaliteit van energie gebruiken in redeneringen.",
+		"id": "859db7e6-6a10-43ec-925e-9e432b0d2d3a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C6/R3/26.1",
+		"examenprogramma_eindterm_id": [
+			"32f9d028-2bed-4a50-a282-394805803a8f"
+		],
+		"title": "De kandidaat kan veranderingen in reactiesnelheid verklaren met het botsende- deeltjes-model en daarbij de volgende begrippen gebruiken: concentratie, druk, temperatuur en verdelingsgraad.",
+		"id": "5857bcd5-ff28-4690-87be-0006af7ef2c1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C6/R3/26.2",
+		"examenprogramma_eindterm_id": [
+			"32f9d028-2bed-4a50-a282-394805803a8f"
+		],
+		"title": "De kandidaat kan veranderingen in reactiesnelheid verklaren met behulp van de volgende begrippen: katalysator en activeringsenergie.",
+		"id": "545492ed-0e9e-4b2b-93c2-248ff2bf0a5d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C7/R&A3/27.1",
+		"examenprogramma_eindterm_id": [
+			"7bbaea96-7cac-4af1-9935-f7cd4456a46c"
+		],
+		"title": "De kandidaat kan de volgende begrippen gebruiken in redeneringen: elementbehoud, energiebehoud/energiebalans, ladingbehoud/ladingbalans en massabehoud/massabalans.",
+		"id": "1501aa58-6110-4c35-9578-2b67098cbb56",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C8/R2/28.1",
+		"examenprogramma_eindterm_id": [
+			"fdb584e3-2d4b-45f6-b674-6b4e02498159"
+		],
+		"title": "De kandidaat kan een aantal typen reacties classificeren en aangeven wat de kenmerken zijn: additiereactie; condensatiereacties; hydrolyse; polymerisatiereactie.",
+		"id": "f6ffffca-80e7-465c-8d09-3d70f5c2fe56",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C8/R2/28.2",
+		"examenprogramma_eindterm_id": [
+			"fdb584e3-2d4b-45f6-b674-6b4e02498159"
+		],
+		"title": "De kandiddat kan van de volgende soorten polymerisatiereacties aangeven wat de kenmerken zijn: poly-additie en polycondensatie.",
+		"id": "6fb35e91-224e-4cd6-9748-2b6cfefbf345",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinC/C8/R2/28.3",
+		"examenprogramma_eindterm_id": [
+			"fdb584e3-2d4b-45f6-b674-6b4e02498159"
+		],
+		"title": "De kandiddat kan aan de hand van de structuurformule van een (co)polymeer de structuurformule(s) van de/het monome€r(en) geven: poly-additie en polycondensatie.",
+		"id": "33fb33b0-90f9-493d-b57a-41f74639c469",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D1/R&A2/29.1",
+		"examenprogramma_eindterm_id": [
+			"b20bbf50-2733-464e-a8c1-0bc107783e7e"
+		],
+		"title": "De kandidaat kan in redeneringen over analyse- en/of scheidingsmethodes de volgende begrippen gebruiken: adsorberen, bezinken, centrifugeren, chromatografie: dunnelaag-chromatografie-loopvloeistof-papierchromatografie, destillaat, destilleren, extraheren/wassen, extractiemiddel, filtraat, filtreren, indampen, ijklijn, indicator, oplosmiddel, reagens, residu, titratie.",
+		"id": "fbd079e3-54a3-4a20-a24e-efd24e7e6ed5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D1/R&A2/29.2",
+		"examenprogramma_eindterm_id": [
+			"b20bbf50-2733-464e-a8c1-0bc107783e7e"
+		],
+		"title": "De kandidaat kan voor scheidingsmethodes6 toelichten op welk verschil van (stof)eigenschap ze berusten en beargumenteren waarom ze bij een bepaald proces worden gebruikt.",
+		"id": "692c4b33-0aff-4f63-a0db-70c0edb1f455",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D1/R&A2/29.3",
+		"examenprogramma_eindterm_id": [
+			"b20bbf50-2733-464e-a8c1-0bc107783e7e"
+		],
+		"title": "De kandidaat kan aan de hand van een chromatogram een uitspraak doen over de aanwezigheid van bepaalde stoffen.",
+		"id": "92948cdc-a3be-43d8-9c72-5f0a3ffc51cd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D3/R4/31.1",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"title": "De kandidaat kan aangeven dat voor de vorming van additiepolymeren een initiatiestap nodig is: initiator en uv-licht.",
+		"id": "067428c4-6fef-46be-a645-b189bd55eae9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D3/R4/31.2a",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"title": "De kandidaat kan een verband leggen tussen macroscopische eigenschappen, het productieproces en de manier van verwerken van een materiaal: thermoplasten: spuitgieten, extruderen, blazen.",
+		"id": "9a3e382d-80a5-4d04-86ff-ecaa722f4917",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D3/R4/31.2b",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"title": "De kandidaat kan een verband leggen tussen macroscopische eigenschappen, het productieproces en de manier van verwerken van een materiaal: metalen: persen, gieten, walsen.",
+		"id": "99111b71-a225-4cb7-87a7-e905f5e64cc8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D3/R4/31.2c",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"title": "De kandidaat kan een verband leggen tussen macroscopische eigenschappen, het productieproces en de manier van verwerken van een materiaal: thermoharders: spuitgieten, extruderen en blazen.",
+		"id": "fed2c2b2-fac3-4687-8743-86d61678d4b8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinD/D3/R4/31.2d",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"title": "De kandidaat kan een verband leggen tussen macroscopische eigenschappen, het productieproces en de manier van verwerken van een materiaal: composieten: gebruik van vulstoffen.",
+		"id": "0c52c60c-0261-4135-b6b6-e802c37a6156",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1a",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: beweeglijkheid van ladingsdragers en geleidbaarheid.",
+		"id": "609fb9e4-5dfd-461c-b0ea-fca098458570",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1b",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: karakteristieke groepen en reactiviteit.",
+		"id": "60d51a60-b7b7-40cb-a08a-6fdb3f0ff78f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1c",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: roosters en vervormbaarheid; metaalroosters; legeringen; invloed van de temperatuur; rooster / structuur van polymeren: weekmakers; ketenlengte; soort monome(e)r(en); crosslinks / vulkaniseren.",
+		"id": "aae5a781-0fc6-4009-bd75-d076cc2c3119",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1d",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: aanwezigheid van C=C binding en uv-lichtgevoeligheid.",
+		"id": "69c8715b-6c5e-4e74-a65a-645c6475599a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1e",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: soorten metaalatomen en corrosiegevoeligheid; edele metalen en onedele metalen en gebonden metaaloxide laagje.",
+		"id": "03f28ec7-c583-4dbf-b88b-f0e40adeea5e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1f",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: moleculaire structuur en oplosbaarheid; N-H en O-H en hydrofiel en hydrofoob.",
+		"id": "54645990-31ee-4ed6-bebb-3cd9a202155e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.1g",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan de relatie beschrijven tussen de microstructuur en macroscopische eigenschappen van stoffen: moleculaire structuur en biodegradeerbaarheid van polymeren: polyesters, polypeptiden/poly-amiden en polysachariden.",
+		"id": "f49f687d-3417-48b9-816d-ac04d860b7d1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinE/E1/M6/33.2",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"title": "De kandidaat kan een gegeven keuze voor een bepaald materiaal toelichten aan de hand van de bovenstaande (E1/M6/33.1) structuur-eigenschap-relaties.",
+		"id": "023029d4-64af-43b7-af14-5c548031e223",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.1",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan de volgende begrippen gebruiken: • afval; • batchproces; • bulkchemie; • continuproces; • energiebehoud/energiebalans; • energiehuishouding; • fijnchemie; • groene chemie; • reactoren; • recirculatie; • recycling; • scheidingsinstallaties/scheidingsmethodes; • stofstromen; • warmtewisselaars.",
+		"id": "901796bf-5019-4734-919f-3543743719cd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.2",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan met gegevens over een industrieel proces dit proces met een blokschema beschrijven.",
+		"id": "8d67f448-c99b-4761-b337-6db02368efc0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.3",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan van een industrieel proces de gekozen reactieomstandigheden en scheidingsstappen toelichten.",
+		"id": "fc61e78e-0156-4a4e-8e13-30675b0b0184",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.4",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan toelichten welke aspecten van groene chemie bij het ontwerpen van industriële processen een rol hebben gespeeld: • afval; • (keuze voor) batchproces/continuproces; • bijproducten; • gebruik van water; (hernieuwbare) grondstoffen; • kwalitatieve energiebeschouwing; • milieueisen; • nevenreacties; • onvolledige omzetting; • ondermaat/overmaat; • reactieomstandigheden; • recycling; • veiligheid.",
+		"id": "9ffdb72c-c536-4cca-8673-ae05c087d42f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.5",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan aan de hand van formules uit groene chemie berekeningen uitvoeren aan processen: • atoomeconomie; • E-factor",
+		"id": "38d35bb6-c3b1-4f78-be5b-5831af94831e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F1/T1/36.6",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"title": "De kandidaat kan chemische processen relateren aan: • cradle-to-cradle; • elementkringloop; • recycling; • stofkringloop.",
+		"id": "d5406445-c5d5-43b9-86e6-659f98f87c6a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F3/T2/38.1",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"title": "De kandidaat kan met behulp van een beschrijving van chemische technieken voor energieproductie uit biomassa redeneren over deze technieken.",
+		"id": "981c11b9-fd68-48ad-ac64-e0428e3be68d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F3/T2/38.2a",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"title": "De kandidaat kan brandstoffen met elkaar vergelijken, voorstellen voor aanpassing(en) beoordelen en redeneren over aspecten van duurzaamheid die daarbij een rol spelen C/H-verhouding: relatie hoeveelheid CO2 per joule.",
+		"id": "7d5f429d-9448-405a-94f0-b9cdff688ee8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F3/T2/38.2b",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"title": "De kandidaat kan brandstoffen met elkaar vergelijken, voorstellen voor aanpassing(en) beoordelen en redeneren over aspecten van duurzaamheid die daarbij een rol spelen: optredende emissies bij verbranding: CO2, Nox, SO2.",
+		"id": "104a602d-3516-46df-b6b5-2509a140b586",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F3/T2/38.2c",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"title": "De kandidaat kan brandstoffen met elkaar vergelijken, voorstellen voor aanpassing(en) beoordelen en redeneren over aspecten van duurzaamheid die daarbij een rol spelen: verschil in hoeveelheid koolstofdioxide geproduceerd door biobrandstof en fossiele brandstof:  koolstofkringloop en (versterkt) broeikaseffect.",
+		"id": "9bed7442-0a57-4441-a5a6-5151c1727770",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinF/F3/T2/38.2d",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"title": "De kandidaat kan brandstoffen met elkaar vergelijken, voorstellen voor aanpassing(en) beoordelen en redeneren over aspecten van duurzaamheid die daarbij een rol spelen: olieraffinage: gefractioneerde destillatie en kraken.",
+		"id": "a186e271-ab80-4d54-a46c-fd778aa28a66",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.1",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan de volgende biologische vakbegrippen herkennen en gebruiken: • ademhaling/gaswisseling; • bloed; • cel; • celmembraan; • organisme; • spijsvertering; • transport.",
+		"id": "d516be7b-cd01-48fb-8333-ee01d0a91112",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.2",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan de fotosynthese van glucose beschrijven als een proces waarbij licht energie wordt omgezet in chemische energie: productie van zuurstof en vastleggen van koolstofdioxide/koolstofassimilatie.",
+		"id": "05ae5311-8874-4347-af33-dda1c3645c87",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.3",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan op microniveau de structuur beschrijven van: eiwitten/enzymen: (essentiële) aminozuren en primaire structuur,  koolhydraten:  mono-, di- en polysachariden, vetten: glycerol, triglyceriden en (on)verzadigde vetzuren,.",
+		"id": "378973bd-622f-4b8b-b816-0f6a48c12145",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.4",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan de afbraak van voedingsstoffen beschrijven als een chemisch proces, waarbij de producten als basis kunnen dienen voor het maken van lichaamseigen stoffen.",
+		"id": "0506d72d-e952-411c-b30f-17c8267267c7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.5",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan de functie van eiwitten, koolhydraten en vetten in de levende natuur benoemen; eiwitten: bouwstof en enzymen, koolhydraten: energieopslag, vetten: bouwstof in membranen en energieopslag.",
+		"id": "cf45a7e8-c13e-4a4f-ae72-f1f0ca5c95da",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G1/L1/41.6",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"title": "De kandidaat kan de functie van enzymen beschrijven en daarbij de volgende begrippen gebruiken: biokatalysator; specificiteit; pH-optimum; temperatuur-optimum.",
+		"id": "cfdd86cd-2217-4886-9e10-d844a9136816",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G2/T3/42.1",
+		"examenprogramma_eindterm_id": [
+			"e92cae32-fd9f-4063-ab66-59c34837e198"
+		],
+		"title": "De kandidaat kan bij een risico inventarisatie van een experiment of toepassing van een chemisch proces een verband leggen tussen gemaakte keuzes en de volgende begrippen: gevaarsymbolen; grenswaarde; GHS-systeem; ADI-waarde; LD-50.",
+		"id": "f258c02b-3db8-4623-854f-6c8aa60d137a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G2/T3/42.2",
+		"examenprogramma_eindterm_id": [
+			"e92cae32-fd9f-4063-ab66-59c34837e198"
+		],
+		"title": "De kandidaat kan ongewenste effecten van het gebruik van koolstofhoudende brandstoffen in verband brengen met de kwaliteit van lucht, water en bodem: zure depositie: SO2 en NOx, smogvorming: SO2, NOx , roet, onverbrande koolwaterstoffen, CO, fijnstof.",
+		"id": "31bedbe8-c995-4c76-bf70-458148997553",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinG/G2/T3/42.3",
+		"examenprogramma_eindterm_id": [
+			"e92cae32-fd9f-4063-ab66-59c34837e198"
+		],
+		"title": "De kandidaat kan effecten van het gebruik van (kunst)mest in verband brengen met de kwaliteit van lucht, water en bodem: mineraalbalans; eutrofiëring en uitspoelen.",
+		"id": "293ec7c6-7051-492d-8e89-126c862afb02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A2/M7/12.1a",
+		"examenprogramma_eindterm_id": [
+			"23399940-0ea3-44c5-9d54-59c7d2a04021"
+		],
+		"title": "De kandidaat kan de volgende begrippen herkennen en gebruiken: microstructuur/microniveau: atomen, (functionele) groepen, bindingen, moleculen, ionen.",
+		"id": "7acfe9d3-59ad-497d-aeb0-46b9a44bd816",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A2/M7/12.1b",
+		"examenprogramma_eindterm_id": [
+			"23399940-0ea3-44c5-9d54-59c7d2a04021"
+		],
+		"title": "De kandidaat kan de volgende begrippen herkennen en gebruiken: mesostructuur/mesoniveau: structuurniveau gevormd door een aantal groepen/ gegroepeerde deeltjes uit het microniveau.",
+		"id": "acc4ebf9-9cf7-4621-be7b-d5277405e9bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"prefix": "SK/H/DomeinA/A2/M7/12.1c",
+		"examenprogramma_eindterm_id": [
+			"23399940-0ea3-44c5-9d54-59c7d2a04021"
+		],
+		"title": "De kandidaat kan de volgende begrippen herkennen en gebruiken: macrostructuur/macroniveau: op niveau van stoffen en materialen (stof-/ materiaaleigenschappen).",
+		"id": "9ab36956-d611-4401-8bfb-22b2e9596efa",
 		"unreleased": true
 	}
 ]
