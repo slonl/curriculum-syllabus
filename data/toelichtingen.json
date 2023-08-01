@@ -6097,12 +6097,13 @@
 		"examenprogramma_eindterm_id": [
 			"aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd"
 		],
-		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden scheikundige begrippen, symbolen en formules kwalitatief en kwantitatief gebruikt in relatie tot een of meer productieprocessen.\r\r\nHierbij gaat het om:\r\r\n- de vaste massaverhouding waarin stoffen bij een reactie betrokken zijn\r\r\n- berekeningen bij een reactievergelijking op basis van de massaverhouding waarin de stoffen bij de reactie betrokken zijn\r\r\n- het gebruik van diagram of tabel om de massaverhouding waarin twee stoffen bij een reactie betrokken zijn, af te leiden\r\r\n- op basis van een gegeven massaverhouding en gegeven massa's van twee beginstoffen te berekenen welke beginstof in overmaat aanwezig is\r\r\n- verspilling van grondstoffen als ze niet in de goede verhouding zijn gemengd\r\r\n- atoommassa\r\r\n- molecuulmassa\r\r\n- massapercentage\r\r\n- volumeprocenten\r\r\n- overmaat",
+		"title": "Aan een onderzoek worden de volgende inhoudelijke eisen gesteld: In het onderzoek worden scheikundige begrippen, symbolen en formules kwalitatief en kwantitatief gebruikt in relatie tot een of meer productieprocessen.\r\r\r\nHierbij gaat het om:\r\r\r\n- de vaste massaverhouding waarin stoffen bij een reactie betrokken zijn\r\r\r\n- berekeningen bij een reactievergelijking op basis van de massaverhouding waarin de stoffen bij de reactie betrokken zijn\r\r\r\n- het gebruik van diagram of tabel om de massaverhouding waarin twee stoffen bij een reactie betrokken zijn, af te leiden\r\r\r\n- op basis van een gegeven massaverhouding en gegeven massa's van twee beginstoffen te berekenen welke beginstof in overmaat aanwezig is\r\r\r\n- verspilling van grondstoffen als ze niet in de goede verhouding zijn gemengd\r\r\r\n- atoommassa\r\r\r\n- molecuulmassa\r\r\r\n- massapercentage\r\r\r\n- volumeprocenten\r\r\r\n- overmaat",
 		"id": "42a89018-a1f7-439a-ab54-d7617319d238",
 		"description": "",
 		"replaces": [
 			"34574fb5-8898-4352-a025-c8574c443323"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
