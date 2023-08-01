@@ -28624,5 +28624,46 @@
 		"title": "Syllabus Natuur- en scheikunde I vmbo tl 2024",
 		"id": "be9b614d-bd50-4f8f-9ee7-b74df8826ebe",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"f59bb1af-0eae-4b6f-8fc2-ddfcb5dc3294"
+		],
+		"syllabus_vakleergebied_id": [
+			"e293b77d-0f2b-4a14-922b-ff51af87158b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"fafc06c6-f94b-4cde-8fee-af4b60c2cafa",
+			"dcf86a3a-ec9d-4c72-a038-7932779c015d",
+			"b2b2f490-a163-40af-935c-268e74a4ba0b",
+			"2cb6c45f-14e7-4cd3-8895-3c2179ba937c",
+			"9b729199-6734-41fc-af64-9542dffe3e04",
+			"590a785e-0986-4c07-ae30-ea477829442f",
+			"fad5f58e-3887-494d-bc1b-71a49e3c7b76",
+			"e6775e27-739b-4fd3-a07a-77958079dea3",
+			"bffc0668-051c-4f05-9f6a-29edaeaa6ce4",
+			"9ddacfe1-54b0-450a-bb3d-cfa8ad28478b",
+			"d201562c-c7a7-4ac7-9b81-54571ec7578e",
+			"58fa3bc7-5c47-4e0d-b835-077839fd6f7e",
+			"1eee9d43-8949-45f0-892b-5545de0119b0",
+			"563f9ddc-e4b1-45b6-a576-1f25d7ce4604",
+			"2512c4a7-f126-4ffd-960b-aa9bdcdc07f7",
+			"1de773e7-7f34-4fcd-acbe-6677d09c8aed",
+			"c4b91bc4-b658-4a09-9e43-0d2a4b193434",
+			"91ab263b-e2b8-46c4-8e5c-3e61df40bbac",
+			"c569b22b-d70f-4f7c-aea2-3083d3171a11",
+			"2e69686f-ae7f-4a02-93d1-fb1da106588a",
+			"a3cc8db5-585a-40fe-aaee-dc5b21c48564"
+		],
+		"title": "Syllabus Muziek havo 2024",
+		"id": "f1a94266-72e1-4573-add3-a5c39c72e6fe",
+		"unreleased": true
 	}
 ]
