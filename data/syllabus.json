@@ -28665,5 +28665,63 @@
 		"title": "Syllabus Muziek havo 2024",
 		"id": "f1a94266-72e1-4573-add3-a5c39c72e6fe",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"8357bdd9-0b3d-43af-8969-de2494b666c4"
+		],
+		"syllabus_vakleergebied_id": [
+			"e293b77d-0f2b-4a14-922b-ff51af87158b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"d155eaa2-8400-460c-834f-cde42ab05dac",
+			"5f99c4f5-50d7-4884-97d3-b87ceb822028",
+			"0ce79581-6a64-4ae6-a3f2-259638049e9b",
+			"b5e8c39c-1135-4c5f-acc0-e7149a0c4069",
+			"a62f48b7-9c15-4901-9d1c-fdc380241157",
+			"1cf96ca0-dcee-4f6d-999e-add80ee73fee",
+			"afed63d9-4048-4a21-acd1-8caa1f2a785e",
+			"0c1dca8d-ec11-4c9b-9930-9759a0a9de74",
+			"cbc6d07e-9d07-42eb-9b9b-6a4636b4ed47",
+			"594a8049-5a5a-4746-ae6b-bab6bbc7dee5",
+			"cadc1a50-95af-4a6b-a551-dce318d5b5eb",
+			"1705f28a-a2d5-4311-80cb-a54cfef476fb",
+			"3526c204-3b9b-4954-ad6c-bd93eb2643be",
+			"5f57d682-e142-4b08-99df-8bcfd2d3f8f3",
+			"0f20c5c1-cec7-4dc0-b580-62770f751a3e",
+			"f8951df9-747b-4aa1-9afa-52232fd33a1e",
+			"d78eb355-0e36-477d-bdb2-04770d7f6d17",
+			"582c0d90-71b6-45d7-9ef5-67f20d4b3a25",
+			"d075fb3b-74e7-4fd1-b54e-973e18083abd",
+			"9490b208-5110-4609-8efa-18acd32a274a",
+			"cbcc6fe9-17d7-4b5d-bac7-5373629a3ef1",
+			"20d0cbd6-5c51-404e-84a3-9926eb8baa98",
+			"1048cb4f-6c88-4749-9d29-e63c167c1bd9",
+			"2136cb05-ad67-42f0-9f53-5247e331b970",
+			"36574e54-6d31-4f3d-b220-b4bfef753a9d",
+			"8ecef0d0-9b93-4b9f-b644-c7c9d7b876e7",
+			"eb0a0e09-22c1-457b-9e09-873927168ed9",
+			"55f80b1e-cbe6-4895-9456-a86d531146bc",
+			"1a8c0bfc-5676-4ef8-b729-aae27b414fcb",
+			"bb4ed664-4b3b-4fc3-83e1-7816736b2f60",
+			"7de16ec5-414f-4929-bed9-95183bd2c86b",
+			"f5d1f71a-e631-4857-99a7-2b6747635089",
+			"d751e213-23b7-47d6-8378-1ff43d57162e",
+			"660d0b58-74fd-4dd5-9e83-13cbc24f2eac",
+			"3c84b5fe-afc0-49f8-84cc-e17d7626ff2e",
+			"1109eed6-fbd2-47b3-b884-fdb24ee4c3c5",
+			"11ae844d-14b6-4699-b819-788579bc60a4",
+			"25016166-85ad-4434-b001-1e343d115d15"
+		],
+		"title": "Syllabus Muziek vwo 2024",
+		"id": "d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+		"unreleased": true
 	}
 ]
