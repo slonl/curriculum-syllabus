@@ -3699,10 +3699,11 @@
 	},
 	{
 		"description": "Kenmerken",
-		"title": "Gemeenschapsdans (groepsdans). Ontstaan naar aanleiding van gebeurtenissen of rituelen. Ontstaan in een bepaald(e) land, streek of dorp. Beïnvloed door klimaat, geografische ligging, middelen van bestaan en religie. Specifieke passen. Specifieke groepsopstellingen zoals kring, rij. De dansers zijn tijdens het dansen echt op elkaar gericht in het samen dansen (een sociale functie). Aparte vrouwen- en mannenrollen (mannen en vrouwen hebben vaak hun eigen manier van dansen). Gebruik van specifieke kostuums. Er is een sterke relatie tussen de dans en de muziek.\r\r\n- De dansers maken vaak gebruik van hun stem, door middel van zingen, roepen,\r\r\nfluiten.",
+		"title": "Gemeenschapsdans (groepsdans). Ontstaan naar aanleiding van gebeurtenissen of rituelen. Ontstaan in een bepaald(e) land, streek of dorp. Beïnvloed door klimaat, geografische ligging, middelen van bestaan en religie. Specifieke passen. Specifieke groepsopstellingen zoals kring, rij. De dansers zijn tijdens het dansen echt op elkaar gericht in het samen dansen (een sociale functie). Aparte vrouwen- en mannenrollen (mannen en vrouwen hebben vaak hun eigen manier van dansen). Gebruik van specifieke kostuums. Er is een sterke relatie tussen de dans en de muziek.\r\r\r\n- De dansers maken vaak gebruik van hun stem, door middel van zingen, roepen,\r\r\r\nfluiten.",
 		"id": "3613e554-8b7e-4e46-8d67-31947e80b912",
 		"dirty": true,
-		"prefix": ""
+		"prefix": "",
+		"ce_se": ""
 	},
 	{
 		"title": "Jazzdans is een samensmelting van Afro-Amerikaanse dans, ballet en moderne dans uit het begin van de 20e eeuw, hedendaagse dans en tapdans. Jazzdans wordt onder andere gebruikt in musical, film en t.v. Hieruit is showmusical dans voortgekomen. Tapdans is een aparte stijl binnen jazzdans.",
@@ -6910,7 +6911,7 @@
 		"description": "Ruimte / locatie",
 		"ce_se": "CE",
 		"prefix": "DA/K/7/7b/7",
-		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\r\r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
+		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\r\r\r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
 		"id": "30a2b68b-54c0-47ba-abcf-a9cb6020d251",
 		"replaces": [
 			"a31e991d-f134-43cc-ab20-44a4cf6fdb8f"
