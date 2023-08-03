@@ -31088,5 +31088,38 @@
 		"title": "Syllabus Griekse taal en cultuur vwo 2024",
 		"id": "92df1d85-2611-4590-b721-1dce73623f67",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"e99c9eb4-f45b-4d5e-9626-27d8fb9bbf0f"
+		],
+		"syllabus_vakleergebied_id": [
+			"6734ffba-4cf2-4a2e-b249-fe2d0eaad304"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"49eb99b1-5a95-470c-b247-51448f6f378f",
+			"0ca1f110-cfe4-4358-aa3b-89fdca85d840",
+			"5c064d64-f32d-4d56-b186-7f21680806c6",
+			"c8bfd45c-e12b-425c-8c52-1c465adbcbb7",
+			"7fd688fa-00fa-40de-94fb-b18e2c618bc6",
+			"9fa55914-da08-4056-a26c-7b33f2fd6a9c",
+			"b6a28fc4-33d2-484c-9d5d-6846f715e4f1",
+			"7eb80dea-6386-404c-bdd4-65a0b9651624",
+			"fca706a3-9e31-45c8-92a1-9270305f6625",
+			"3b9ac7ad-414e-42bd-a366-4a61d0e36c34",
+			"0b07f8d0-ccb2-4c82-943f-14d84906677e",
+			"f285de39-d143-4871-a874-1c5cf6276239",
+			"5a1b3996-26e6-4e6e-a09c-e94e336059df"
+		],
+		"title": "Syllabus Latijnse taal en cultuur vwo 2024",
+		"id": "a1275d21-4c78-4180-a7e2-16927667d4a9",
+		"unreleased": true
 	}
 ]
