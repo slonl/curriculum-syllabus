@@ -30995,5 +30995,31 @@
 		"title": "Syllabus Kunst (algemeen) vwo 2024",
 		"id": "e3c85029-d167-4991-bdd6-5fe6c5ca7815",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"17734e49-c910-4a0e-bea1-e4bd86ca7226",
+			"27ed2008-db7a-47f5-b0e9-8c233298db7b",
+			"c1b07149-63d9-4600-9b22-235852fb98ac",
+			"8406a914-44c5-4805-90c8-637cd40f7db4"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2024",
+		"id": "cc4c3942-7e6f-425b-85a7-82bbf04aa598",
+		"unreleased": true
 	}
 ]
