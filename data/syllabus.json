@@ -31061,5 +31061,32 @@
 		"title": "Syllabus Friese taal en cultuur vmbo gl/tl 2024",
 		"id": "142f94cf-7ab9-4404-9c6f-6365b8efdfbd",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"048d826e-61ae-47ef-b1d5-235a96d34867"
+		],
+		"syllabus_vakleergebied_id": [
+			"cb54b707-b612-4c78-aa8d-3daa938d2a1b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"6ed4ccb5-d215-4df7-ae23-8ed5f69a9859",
+			"aa524a97-e437-4f2c-b417-6b01034eaa2c",
+			"58f2f3b8-dec6-4be0-9c9a-d7765e978a39",
+			"319bd132-78e6-4608-969b-8c85dff780eb",
+			"191e7d64-2df7-4e43-ac72-e0ed09fb1433",
+			"63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"f9abd5fe-1204-46c1-a2e3-fdeea1e2717f"
+		],
+		"title": "Syllabus Griekse taal en cultuur vwo 2024",
+		"id": "92df1d85-2611-4590-b721-1dce73623f67",
+		"unreleased": true
 	}
 ]
