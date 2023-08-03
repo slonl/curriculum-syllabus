@@ -3699,8 +3699,10 @@
 	},
 	{
 		"description": "Kenmerken",
-		"title": "Gemeenschapsdans (groepsdans). Ontstaan naar aanleiding van gebeurtenissen of rituelen. Ontstaan in een bepaald(e) land, streek of dorp. Beïnvloed door klimaat, geografische ligging, middelen van bestaan en religie. Specifieke passen. Specifieke groepsopstellingen zoals kring, rij. De dansers zijn tijdens het dansen echt op elkaar gericht in het samen dansen (een sociale functie). Aparte vrouwen- en mannenrollen (mannen en vrouwen hebben vaak hun eigen manier van dansen). Gebruik van specifieke kostuums. Er is een sterke relatie tussen de dans en de muziek.\r\n- De dansers maken vaak gebruik van hun stem, door middel van zingen, roepen,\r\nfluiten.",
-		"id": "3613e554-8b7e-4e46-8d67-31947e80b912"
+		"title": "Gemeenschapsdans (groepsdans). Ontstaan naar aanleiding van gebeurtenissen of rituelen. Ontstaan in een bepaald(e) land, streek of dorp. Beïnvloed door klimaat, geografische ligging, middelen van bestaan en religie. Specifieke passen. Specifieke groepsopstellingen zoals kring, rij. De dansers zijn tijdens het dansen echt op elkaar gericht in het samen dansen (een sociale functie). Aparte vrouwen- en mannenrollen (mannen en vrouwen hebben vaak hun eigen manier van dansen). Gebruik van specifieke kostuums. Er is een sterke relatie tussen de dans en de muziek.\r\r\n- De dansers maken vaak gebruik van hun stem, door middel van zingen, roepen,\r\r\nfluiten.",
+		"id": "3613e554-8b7e-4e46-8d67-31947e80b912",
+		"dirty": true,
+		"prefix": ""
 	},
 	{
 		"title": "Jazzdans is een samensmelting van Afro-Amerikaanse dans, ballet en moderne dans uit het begin van de 20e eeuw, hedendaagse dans en tapdans. Jazzdans wordt onder andere gebruikt in musical, film en t.v. Hieruit is showmusical dans voortgekomen. Tapdans is een aparte stijl binnen jazzdans.",
@@ -3736,19 +3738,31 @@
 	},
 	{
 		"title": "De kandidaat kan naar aanleiding van de danselementen en de bijbehorende aspecten dansproducten analyseren in relatie tot de dansinhoud / betekenis.",
-		"id": "745aaa5a-aab5-45c0-8d59-6a3c52251355"
+		"id": "745aaa5a-aab5-45c0-8d59-6a3c52251355",
+		"dirty": true,
+		"description": "Dans: Danselementen",
+		"prefix": ""
 	},
 	{
 		"title": "Aspecten van Ruimte: – richtingen (hoog, laag, voor, achter, links, rechts, diagonaal) – vlakken (sagittaal, verticaal, horizontaal) – lagen (hoog, midden, diep / laag) – ruimtelijke vorm van het lichaam (bijvoorbeeld rond, hoekig, open, groot, klein) – ruimtelijke vormverandering – patronen (vloerpatronen) – op de plek – verplaatsend.",
-		"id": "c10d9e89-4908-49f8-ab08-4404f0250204"
+		"id": "c10d9e89-4908-49f8-ab08-4404f0250204",
+		"dirty": true,
+		"description": "Dans: Danselementen",
+		"prefix": ""
 	},
 	{
 		"title": "Aspecten van Tijd: – tempo (snel, langzaam) – duur (kort, lang) – maat / ritme (bijvoorbeeld regelmatig, onregelmatig) – frasering (danszinnen, begin, verloop, einde) – versnellen / vertragen, stops / doorgaand (vloeiend), herhaling",
-		"id": "2fc9b097-968b-4f58-abd4-9dbae8221bde"
+		"id": "2fc9b097-968b-4f58-abd4-9dbae8221bde",
+		"dirty": true,
+		"description": "Dans: Danselementen",
+		"prefix": ""
 	},
 	{
 		"title": "Aspecten van Kracht: Gespannen / ontspannen - Krachtig / licht, zwaar - Gecontroleerd / vrijuit / ongecontroleerd.",
-		"id": "d912e6de-db99-40ed-b340-2a0ac4dc4385"
+		"id": "d912e6de-db99-40ed-b340-2a0ac4dc4385",
+		"dirty": true,
+		"description": "Dans: Danselementen",
+		"prefix": ""
 	},
 	{
 		"description": "Theatrale middelen",
@@ -3789,47 +3803,82 @@
 	},
 	{
 		"title": "Functie van de dans is Decoratieve functie: de dans wordt gebruikt als decoratie. Bijvoorbeeld een dansgroepje bij het optreden van een popgroep.",
-		"id": "3df6d2de-b83c-43d9-932a-f66e281622a3"
+		"id": "3df6d2de-b83c-43d9-932a-f66e281622a3",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Economische functie: de dans wordt gebruikt voor reclame of werk",
-		"id": "976e5986-5820-4b09-90c0-64c7f6251935"
+		"id": "976e5986-5820-4b09-90c0-64c7f6251935",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Educatieve functie: het is de bedoeling dat de toeschouwer tot nieuwe inzichten komt, iets leert",
-		"id": "654684c0-c5b2-4197-bd4f-58e95e1d05d1"
+		"id": "654684c0-c5b2-4197-bd4f-58e95e1d05d1",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Esthetische functie: het dansstuk is gemaakt om schoonheid te tonen, of juist het tegengestelde: anti-schoonheid (vervreemding, confrontatie). Bij de toeschouwer gaat het om inleven en genieten van schoonheid.",
-		"id": "216c8528-9270-4fb0-9cc3-7f16f78e77dd"
+		"id": "216c8528-9270-4fb0-9cc3-7f16f78e77dd",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Levensbeschouwelijke functie: de dans wordt gebruikt bij religieuze of rituele vieringen",
-		"id": "2f32a5dc-b86f-43dd-a333-a7f08c2a406b"
+		"id": "2f32a5dc-b86f-43dd-a333-a7f08c2a406b",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Maatschappijkritische functie: via dans reageren op maatschappelijke en/of politieke toestanden of verhoudingen bijvoorbeeld via parodie. Recreatieve functie: dansen als vrijetijdsbesteding",
-		"id": "d27ea1f2-fd59-4567-881c-f7f1af090d41"
+		"id": "d27ea1f2-fd59-4567-881c-f7f1af090d41",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Functie van de dans is Sociale functie: het dansen is gericht op het samen dansen, gericht op het samenzijn in een groep",
-		"id": "43d80191-d5e3-4f3a-af88-79fc7c889df8"
+		"id": "43d80191-d5e3-4f3a-af88-79fc7c889df8",
+		"dirty": true,
+		"description": "Dans en maatschappij",
+		"prefix": ""
 	},
 	{
 		"title": "Rond 1900 vond er een revolutie plaats op het gebied van alle kunst. In dans betekende dat dat men niet meer in het strakke keurslijf van tutu en spitzen wilde dansen, maar veel natuurlijker, met vrije, losse bewegingen. Ook mocht de eigen emotie getoond worden in dans, in plaats van bestaande verhalen zoals sprookjes uit te beelden. Zo is in de eerste helft van de twintigste eeuw de moderne dans ontstaan.",
-		"id": "250b4116-ce7f-4fbf-b029-a911164845a5"
+		"id": "250b4116-ce7f-4fbf-b029-a911164845a5",
+		"dirty": true,
+		"description": "Moderne dans",
+		"prefix": ""
 	},
 	{
 		"title": "In Noord-Amerika zijn de belangrijke vernieuwers van de dans Isadora Duncan en Martha Graham met haar sterk dramatisch getinte dansen (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
-		"id": "865cf1f7-a045-4a82-be52-646a9cd4f1a6"
+		"id": "865cf1f7-a045-4a82-be52-646a9cd4f1a6",
+		"dirty": true,
+		"description": "Moderne dans",
+		"prefix": ""
 	},
 	{
 		"title": "In de periode tussen de twee wereldoorlogen ontwikkelt zich in Europa onder invloed van Rudolf von Laban, Mary Wigman en Kurt Jooss de Ausdruckstanz, de expressionistische dans. Dit is een vorm van moderne dans waarin uitdrukking wordt gegeven aan emoties, waarbij de persoonlijke lichaamstaal van de danser belangrijk is. Hieruit is dansexpressie ontstaan (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
-		"id": "ebec4cb9-8e30-4058-8804-9e8500cf395d"
+		"id": "ebec4cb9-8e30-4058-8804-9e8500cf395d",
+		"dirty": true,
+		"description": "Moderne dans",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"title": "De Afrikaanse dans is in verband met de sterk ritmische inslag erg belangrijk in vele fusion-verschijnselen. Vanuit de Afrikaanse dans ontstaat in Noord-Amerika de Jazzdans. Het is een samensmelting van de dans van de Afro-Amerikaanse en de witte bevolking (zie ook eindterm DA/K/7 danssoorten onderkennen, hiervan kenmerken noemen en deze omschrijven).",
-		"id": "0dc2b07c-3bab-4dc6-adb9-1d6cf5a407fc"
+		"id": "0dc2b07c-3bab-4dc6-adb9-1d6cf5a407fc",
+		"dirty": true,
+		"description": "Jazz dans",
+		"ce_se": "",
+		"prefix": ""
 	},
 	{
 		"description": "Ritmisch fragment",
@@ -6704,7 +6753,9 @@
 		"id": "cea5e112-99ef-4d15-9f30-0d5af249bc55",
 		"replaces": [
 			"ac02dc70-25f3-4c85-965c-02de09477edf"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -6713,7 +6764,9 @@
 		"id": "df522fb4-2876-4cdc-a795-7ea6429fa05d",
 		"replaces": [
 			"9b7c3cea-a733-43a9-8946-2527d09693e6"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"description": "Dansexpressie",
@@ -6723,7 +6776,8 @@
 		"id": "c707aaf5-a8ef-42a6-b050-05d2249b6ce0",
 		"replaces": [
 			"c286ede5-3c9d-4b49-af27-961b43b6cc73"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Werelddans",
@@ -6733,7 +6787,8 @@
 		"id": "cabb9fc4-d26e-4e94-b97c-761323407364",
 		"replaces": [
 			"05bbabea-7dbe-49a7-918b-8885029f11a3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Jazzdans",
@@ -6773,7 +6828,8 @@
 		"id": "0f3a32de-444a-41f2-98af-8e651d17119d",
 		"replaces": [
 			"b069623c-c104-4f7a-be88-6519fde39212"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Urban dans",
@@ -6792,7 +6848,9 @@
 		"id": "ed1caa25-bcc7-4b4b-9cc3-cb67c604f2f6",
 		"replaces": [
 			"344de566-f325-4b64-8adc-5f47cb8107c6"
-		]
+		],
+		"dirty": true,
+		"description": "Danser"
 	},
 	{
 		"description": "Danser",
@@ -6802,7 +6860,8 @@
 		"id": "a4f16236-d7f0-43fb-91e6-744a05b01a64",
 		"replaces": [
 			"ddc6a1ef-c826-474d-9ff2-f1ed4c551906"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Dans: Danselementen",
@@ -6822,7 +6881,8 @@
 		"id": "adf5e459-bd7d-4d5c-a65e-0f14b958eca4",
 		"replaces": [
 			"6a26dba7-0f9d-4939-9596-a6f4cbfbc528"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Dans: Structuur",
@@ -6832,7 +6892,8 @@
 		"id": "69ca72de-75af-4e69-bde0-6b48bc3fca29",
 		"replaces": [
 			"13c1ef55-dabe-4a10-a975-2191f20f3478"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Geluid",
@@ -6842,17 +6903,19 @@
 		"id": "147260cd-62ec-45a4-a9dc-8b54f0c2c6d5",
 		"replaces": [
 			"58504cc5-7c58-4083-866b-08e59e1161a9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Ruimte / locatie",
 		"ce_se": "CE",
 		"prefix": "DA/K/7/7b/7",
-		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
+		"title": "Ruimte: de plek waar gedanst wordt zoals op het podium in het theater of op locatie, bijvoorbeeld: in een foyer, in een weiland, in de metro, op het strand, in een loods. \r\r\r\nGebruik van de ruimte: - opstellingen in de ruimte zoals rij, cirkel, vrije plek in de ruimte. - gaan de dansers op en af (de coulissen in) of blijven ze de hele tijd op het podium?",
 		"id": "30a2b68b-54c0-47ba-abcf-a9cb6020d251",
 		"replaces": [
 			"a31e991d-f134-43cc-ab20-44a4cf6fdb8f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Theatrale middelen",
@@ -6872,7 +6935,8 @@
 		"id": "8c46db45-2a71-44ab-a226-70a809e68590",
 		"replaces": [
 			"7586dd6d-52c4-4415-bf52-ba07a8a356c6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -6881,7 +6945,9 @@
 		"id": "e85c9880-8ad4-450a-a2d4-12477fc6d35a",
 		"replaces": [
 			"27031c07-03c7-4ad4-ad2d-6e058d917217"
-		]
+		],
+		"dirty": true,
+		"description": "Dans en maatschappij"
 	},
 	{
 		"description": "Decoratieve functie",
@@ -6960,7 +7026,9 @@
 		"id": "aac97eb9-a6a6-4382-b95b-babc2590761f",
 		"replaces": [
 			"43794b5f-b69f-46cd-bf7b-c40dc6e98023"
-		]
+		],
+		"dirty": true,
+		"description": "Dans, cultuur en tijd"
 	},
 	{
 		"description": "Rituele dans",
@@ -6970,7 +7038,8 @@
 		"id": "b37096e4-6afe-4a01-8c02-62c0f85a54a5",
 		"replaces": [
 			"d4d521c4-9bb4-4daa-859f-a5cc543fcfcc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Klassieke dans",
@@ -6980,7 +7049,8 @@
 		"id": "4d88a9e8-8ca7-4d75-9dad-297e8d2f4e19",
 		"replaces": [
 			"c9acbe64-3c96-41b6-8419-ad30fb9848fb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Moderne dans",
@@ -7000,7 +7070,8 @@
 		"id": "5f23a4cc-628c-48a4-b2fb-32d2e2a337a3",
 		"replaces": [
 			"a71641a5-2b3a-4dc8-a651-349e85b9f894"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Afrikaanse dans",
@@ -7019,17 +7090,20 @@
 		"id": "16d0c5c7-ae2c-48bc-8562-1eea691f8526",
 		"replaces": [
 			"5723d7b0-3b32-45c8-addb-beaec29a6b07"
-		]
+		],
+		"dirty": true,
+		"description": "Dans en andere kunsten"
 	},
 	{
-		"description": "Kunstvormen",
+		"description": "Dans en andere kunsten",
 		"ce_se": "CE",
 		"prefix": "DA/K/9/9a/2",
 		"title": "Kunstvormen zijn: - beeldende kunst, waaronder: film / video, fotografie, grafische kunst, mode, schilderkunst - dans - drama - literatuur - muziek",
 		"id": "0cdb59c9-7905-4232-b7df-35dd1898ffe8",
 		"replaces": [
 			"6ef1ba1e-3e8d-4386-8b98-d09d42ab5eba"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -7038,17 +7112,20 @@
 		"id": "3971f281-7701-4b19-95ec-d39260e894ad",
 		"replaces": [
 			"44c69305-43a7-451e-a15f-51cbe6c74726"
-		]
+		],
+		"dirty": true,
+		"description": "Dans en andere kunsten"
 	},
 	{
-		"description": "Functies",
+		"description": "Dans en andere kunsten",
 		"ce_se": "CE",
 		"prefix": "DA/K/9/9a/4",
 		"title": "De kandidaat kent ook de verschillende functies: - ondersteunende functie in technische zin - ondersteunende functie in inhoudelijke zin - verhalende functie - functie ter decoratie / verfraaiing - functie ter ontspanning.",
 		"id": "feaf4a69-dd2f-4e06-910d-c49ebc5e5a9a",
 		"replaces": [
 			"9cc13323-16f4-4d0e-9ec9-44e287ff665c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -7057,7 +7134,9 @@
 		"id": "fee46bb0-26e4-4ee8-91b5-27436969054a",
 		"replaces": [
 			"51d367a8-50bd-455f-b3fb-fc2e5ffe535e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
