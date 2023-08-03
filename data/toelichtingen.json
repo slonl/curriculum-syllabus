@@ -1660,8 +1660,11 @@
 	},
 	{
 		"ce_se": "CE",
-		"title": "De door Herodotus beschreven conflicten tussen Grieken en Perzen spelen zich vooral af aan het begin van de vijfde eeuw v. Chr. In de voorgaande eeuwen werden overal op het vasteland, in de Egeïsche Zee en op de westkust van Klein-Azië poleis gesticht. Een polis is een klein gebied waarvan de\r\ninwoners zich als autonoom beschouwen. Oorspronkelijk vond het bestuur van een dergelijke polis meestal plaats in een raad van aristocraten, afkomstig uit de rijkste en belangrijkste families. Soms werd zo'n raad geflankeerd door een vergadering van alle vrije mannelijke burgers. Vanaf de achtste\r\neeuw v. Chr. stichten de Grieken vanwege toename van de bevolking verspreid over de kusten van de Middellandse Zee en de Zwarte Zee nieuwe poleis. Hierdoor neemt de handel toe, waardoor binnen de poleis sociale spanningen ontstaan. De aristocraten worden rijker en machtiger, de arme boeren en arbeiders worden economisch steeds afhankelijker van de aristocraten. Ook tussen de poleis onderling ontstaan spanningen.",
-		"id": "b480705b-add1-4516-aa94-cf7810e43366"
+		"title": "Plato schrijft zijn dialogen in het begin van de vierde eeuw, na de dood van Socrates. Hij situeert zijn dialogen echter in het Athene van het einde van de vijfde eeuw.",
+		"id": "b480705b-add1-4516-aa94-cf7810e43366",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"description": "",
@@ -32445,6 +32448,50 @@
 		"prefix": "",
 		"title": "Ontdekkingsreizen en nieuwe zeeroutes, contacten met andere culturen (bijvoorbeeld Ottomaanse Rijk, Nieuwe Wereld, China).",
 		"id": "81edef8f-667f-418f-afd6-b537f752a6c3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinA/Teksten",
+		"title": "Kernauteur: Plato; Genre: Filosofie; Teksteditie: Protagoras, Gorgias: J. Burnet, Platonis opera III, Oxford 1903 (OCT)  Symposium, Phaedrus: J. Burnet, Platonis opera II, Oxford 1901 (OCT) Politeia: S. Slings, Platonis Rempublicam, Oxford 2003 (OCT); Rode draad: Het wezen van de mens.",
+		"id": "54b07083-96e4-43af-be23-11d3cba7b899",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De Protagoras is een dialoog tussen Socrates en enkele sofisten, onder wie Protagoras. Het centrale onderwerp is de vraag of en hoe deugd aangeleerd kan worden. Het Symposium is een verslag van een feest waarbij de aanwezigen afspreken elk een lofzang op Eros te houden. Alcibiades verstoort het feest en vertelt dan over zijn ervaringen met Socrates. De Phaedrus is een dialoog over verschillende onderwerpen, waaronder de kracht van de retorica. Ook wordt er gesproken over de menselijke ziel. De Politeia is een uitgebreide verhandeling in dialoogvorm over rechtvaardigheid. Het gaat onder andere over de vraag wat rechtvaardigheid betekent voor het individu en hoe een rechtvaardige staat eruit ziet. De Gorgias is een dialoog waarin rechtvaardigheid centraal staat. Socrates spreekt hierin over zijn overtuiging dat de menselijke ziel beschadigd wordt door het begaan van onrecht.",
+		"id": "c55b11a8-a017-4ce1-8e47-f7ee2eb96998",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Definitie en kenmerken van het genre. Het genre filosofie omvat het gedachtegoed van filosofen. In filosofische teksten worden onderwerpen behandeld op het gebied van de fysica, de metafysica, de logica, de kentheorie, de ethiek en de politieke GRIEKSE TAAL EN CULTUUR VWO | SYLLABUS CENTRAAL EXAMEN 2024       Versie 2.0 Pagina 7 van 35 filosofie. De teksten kunnen de vorm hebben van bijvoorbeeld een gedicht, een verhandeling, een dialoog of een brief.",
+		"id": "d5b15f9c-8a57-40c1-b711-a386a2fac916",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Paragrafen: Ontstaan en ontwikkeling van het genre; De vroege Griekse filosofen; De sofisten; Socrates; Plato; Metafysica; Kentheorie; Ethiek en Het wezen van de mens.",
+		"id": "1a93681d-938a-4e42-8c75-26d93558bd81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Algemeen: de crasisvormen κἀγώ, κἄπειτα, ταὐτά, τἀληθῆ en τἆλλα - de deictische iota (-ί) in aanwijzende voornaamwoorden en bijwoorden \r\nWerkwoorden: de perfectumvormen ἔοικα, ἔοικας, ἔοικε(ν)\r\nSyntaxis: zelfstandig gebruik van het lidwoord in combinatie met een genitivus (zoals τὰ ἐκείνου) - het gebruik van het bijwoord in aanvulling op werkwoorden (zoals ἔχω en διάκειμαι) die een situatie of toestand aanduiden - syntactische verschijnselen die samenhangen met de dialoogvorm van de tekst: ellips, anakoloet, prolepsis",
+		"id": "6dd65d6e-9c92-42a1-9e06-a6a0f122dd79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Paragafen: Leven van Plato (427-347) en Werken van Plato",
+		"id": "075c8eda-20dc-48b3-ba70-ef346225ea36",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De politieke situatie. In de tweede helft van de vijfde eeuw nam het onderlinge wantrouwen tussen de twee belangrijkste Griekse poleis, Athene en Sparta, toe. Elk vreesde dat de ander de hegemonie over Griekenland zou krijgen. Dit wantrouwen leidde uiteindelijk tot de Peloponnesisch e Oorlog (431404). Athene verloor de oorlog. De Spartanen stelden in Athene een oligarchisch bewind aan, de zogenaamde regering van de Dertig. Al snel veranderde deze regering in een terreurbewind. In 403 werd het bewind door democratisch gezinde Atheners afgezet. Socrates was vaak kritisch over het functioneren van de democratie, omdat besluiten genomen werden door mensen die geen kennis van zaken hadden. Door zijn contacten met mensen uit aristocratische en antidemocratische kringen werd Socrates ongetwijfeld door tijdgenoten verbonden met de misdaden van het bewind van de Dertig",
+		"id": "654202a3-baea-4481-8230-4b03dca3376c",
 		"unreleased": true
 	}
 ]
