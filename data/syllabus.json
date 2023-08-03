@@ -31170,5 +31170,54 @@
 		"title": "Syllabus Dans vmbo gl 2024",
 		"id": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"04904430-aa3e-4c97-8c0d-ce76d2415d24"
+		],
+		"syllabus_vakleergebied_id": [
+			"d64fa318-6d38-4671-84e1-7243c3c16452"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7a512a9c-5986-4f26-b43f-28e313d6dac5",
+			"a2017c23-5f4f-4850-a6f1-86b0efb64e29",
+			"74c06bdf-d139-418f-990d-75d670342266",
+			"4df2409a-5e8a-44e5-ac95-635e6983c468",
+			"0eec75a4-ccb3-4a10-8b24-c987e8de20e2",
+			"2b5a6eab-57c1-496c-a20c-bc0a131fd6ea",
+			"dd82c629-d948-4030-a328-9268e6df1dab",
+			"9b4c3005-f6fc-4fe6-b620-c59852180c57",
+			"8db8b9a1-83d0-4cf2-8e5c-6d14042a8de4",
+			"d5d007d2-34f8-458e-b2e3-0285ba884756",
+			"974e4fd9-65b2-42f4-9e7f-ecc24ced4490",
+			"1e67c27d-76c3-4449-a0e3-3d844dd9566b",
+			"05554577-fffe-485f-9a73-97c5942474d0",
+			"33d35e8c-b58d-4486-8b20-242fcc99d34f",
+			"45cca8ad-254b-41ba-a0d5-c6e7ebf52ba8",
+			"0750184c-75b6-45de-bb6f-282f187bc77d",
+			"078a5e51-04ca-402e-9fcd-7ff07690fee5",
+			"6d6b5ea3-1c89-45c8-84a8-fc29df69f40e",
+			"1cef3aa9-4ace-4582-914f-78e3d491a78b",
+			"46bc5cef-ea8d-41d8-85db-caf572e98862",
+			"90cd52f7-3d99-440b-8e9e-099b96454b5b",
+			"312aec01-fd27-47e7-8ad5-8a828b5dab0b",
+			"e5723d76-9d56-4fc0-8396-f6d767b22124",
+			"cf6a6d94-6cc9-4c06-9521-e0381b2964b3",
+			"25b51519-5f99-4105-adf7-78ca029f8c4e",
+			"c48081ba-2133-4177-a15b-445d1ab42c27",
+			"dbf125a8-d0c4-443c-a73f-d907247a8529",
+			"93c2cc64-24bd-4a70-ad4c-6fcbe800f7a7",
+			"f1cfaacc-76a1-4d9e-ae18-2248fc6bec25"
+		],
+		"title": "Syllabus Dans vmbo tl 2024",
+		"id": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+		"unreleased": true
 	}
 ]
