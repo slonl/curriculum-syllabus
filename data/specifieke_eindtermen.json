@@ -15629,7 +15629,10 @@
 		"id": "8e9c4f96-6dc6-4ac3-8ebf-8492f723c6aa",
 		"replaces": [
 			"d882daaf-a06f-418d-89d5-16e60102de6b"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/3.1c",
@@ -15640,7 +15643,10 @@
 		"id": "bca53de6-0d00-474a-8fff-834b1d6e7f0f",
 		"replaces": [
 			"be2893d2-26ec-4caa-ab7f-0f8d47efa384"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/3/3b",
@@ -15659,7 +15665,10 @@
 		"id": "7cf1e530-1ffb-45ba-87fc-a9e98e440f14",
 		"replaces": [
 			"4d570caf-a4f6-4679-a06e-ff86705d5e47"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/3/3d",
@@ -15678,7 +15687,10 @@
 		"id": "ed0660e8-d84a-49e8-81e1-5aa06596327a",
 		"replaces": [
 			"6c69fd94-d064-41fc-ac23-b7de5ee8870d"
-		]
+		],
+		"dirty": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -20675,7 +20687,7 @@
 	},
 	{
 		"id": "256565d3-e8ee-48b8-9294-a2f4769cfeff",
-		"prefix": "EC/K/4A.2",
+		"prefix": "EC/K/4A/2",
 		"title": "De kandidaat kan de eigen positie als consument vergelijken met die van anderen",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20688,7 +20700,9 @@
 		],
 		"replaces": [
 			"a8393cbe-2f69-4021-93ab-f3abb96affa0"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "1652507b-4610-4bd7-9d0b-6d8d9f69e709",
@@ -20729,7 +20743,7 @@
 	},
 	{
 		"id": "2de83526-e830-4741-b748-48412db3b7c3",
-		"prefix": "EC/K/4A.4",
+		"prefix": "EC/K/4A/4",
 		"title": "De kandidaat kan aan de hand van voorbeelden het belang van geld voor de economie en de huidige vormen van het betalingsverkeer beschrijven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20741,11 +20755,13 @@
 		],
 		"replaces": [
 			"d8945b84-effc-4430-b0db-21db27adba67"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "86d3369a-e401-48dc-838b-ed634c2540f7",
-		"prefix": "EC/K/4A.5",
+		"prefix": "EC/K/4A/5",
 		"title": "De kandidaat kan motieven voor en gevolgen van sparen en lenen noemen",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20756,7 +20772,9 @@
 		],
 		"replaces": [
 			"b8f1e00d-00da-4bad-9a25-4696ecb1a552"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "5e3e8303-4e05-4cbd-9a32-463bd7e16bca",
@@ -20776,7 +20794,7 @@
 	},
 	{
 		"id": "e697152d-ddc7-42cb-91a2-79419c2042a6",
-		"prefix": "EC/K/4A.6",
+		"prefix": "EC/K/4A/6",
 		"title": "De kandidaat kan aan de hand van verzamelde of verstrekte consumenteninformatie een voorgenomen koopbeslissing beoordelen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20794,11 +20812,13 @@
 		],
 		"replaces": [
 			"72c670b6-aa9d-4233-8b70-bd522ed8d0b4"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "0de50a6f-9fe4-4a02-b4d6-1f2c58d5dd20",
-		"prefix": "EC/K/4A.7",
+		"prefix": "EC/K/4A/7",
 		"title": "De kandidaat kan aan de hand van verzamelde of verstrekte consumenteninformatie, gegeven een aantal criteria, een beargumenteerde koopbeslissing nemen, daarbij rekening houdend met de gevolgen van die koopbeslissing voor zichzelf en daarbij eventueel gebruik maken van ICT.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20809,7 +20829,9 @@
 		],
 		"replaces": [
 			"47c257f8-1f01-4f00-9cab-a69de9dfafba"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "1debbfb1-929f-4458-8cdc-5a7fde8182de",
@@ -20828,7 +20850,7 @@
 	},
 	{
 		"id": "0f1b5528-69e1-4a11-bfb8-093e1b3d0249",
-		"prefix": "EC/K/4A.8",
+		"prefix": "EC/K/4A/8",
 		"title": "De kandidaat kan uit een gegeven huishoudbudgetplan conclusies trekken over de financiële situatie van het samenlevingsverband.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20845,7 +20867,9 @@
 		],
 		"replaces": [
 			"f27e6e4f-c7a4-4421-9ed8-0b777b2820cf"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "e08c2f89-6689-40b8-b932-ecbcadb1458a",
@@ -20919,7 +20943,7 @@
 	},
 	{
 		"id": "41528430-8f42-4dfd-b4ea-f73b40469c47",
-		"prefix": "EC/K/5A.2",
+		"prefix": "EC/K/5A/2",
 		"title": "De kandidaat kan aan de hand van voorbeelden de samenhang verklaren tussen de begrippen arbeidsverdeling, arbeidsmotieven, arbeidsproductiviteit, productiecapaciteit, economische groei, crisis, recessie, welzijn en welvaart.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20932,7 +20956,9 @@
 		],
 		"replaces": [
 			"e6345bd0-bfaf-4b59-8529-e9453fabc69e"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "b76f7ac1-c83f-41a2-bee7-54fa924c96eb",
@@ -20955,7 +20981,7 @@
 	},
 	{
 		"id": "ccaeb9f9-88f5-4bc6-b424-00293d080192",
-		"prefix": "EC/K/5A.3",
+		"prefix": "EC/K/5A/3",
 		"title": "De kandidaat kan aan de hand van voorbeelden uit eigen omgeving economische aspecten van betaalde en onbetaalde arbeid noemen / beschrijven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -20969,12 +20995,14 @@
 		],
 		"replaces": [
 			"20e15437-c71a-4d5b-84d5-1b6fde0e10ff"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "a553010d-0c4e-4d1e-baaa-ae94253140ed",
-		"prefix": "EC/K/5A.4a",
-		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: \r\r\n- het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS en UWV werkbedrijf).\r\r\n- de over het land ongelijke verdeelde werkloosheid: regionale werkloosheid\r\r\n- de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid\r\r\n- de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid\r\r\n- taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling; werkloosheidsregistratie; regelen werkloosheidsuitkering; verwijzing naar mogelijke werkgevers; ondersteuning bij scholing\r\r\n- de werkloosheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid en het niet of niet officieel vervullen van vacatures",
+		"prefix": "EC/K/5A/4a",
+		"title": "De kandidaat kan oorzaken en gevolgen van geregistreerde en verborgen werkloosheid aan de hand van voorbeelden noemen, zowel in de eigen omgeving als op nationaal niveau: \r\r\r\n- het (officiële) werkloosheidsbegrip (N.B. Gedacht kan worden aan definities zoals die van CBS en UWV werkbedrijf).\r\r\r\n- de over het land ongelijke verdeelde werkloosheid: regionale werkloosheid\r\r\r\n- de over het jaar ongelijk verdeelde werkloosheid: seizoenwerkloosheid\r\r\r\n- de werkloosheid vanwege wrijving (tijdsfactor) tussen vraag en aanbod op de arbeidsmarkt: frictiewerkloosheid\r\r\r\n- taken en werkzaamheden van het Uitvoeringsinstituut Werknemers Verzekeringen (UWV werkbedrijf): arbeidsbemiddeling; werkloosheidsregistratie; regelen werkloosheidsuitkering; verwijzing naar mogelijke werkgevers; ondersteuning bij scholing\r\r\r\n- de werkloosheidscijfers geven geen volledig beeld van de feitelijke situatie: de verborgen werkloosheid en het niet of niet officieel vervullen van vacatures",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
@@ -20989,7 +21017,8 @@
 		"ce_se": "",
 		"replaces": [
 			"6aa5177d-319a-4582-868b-7660b724198e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "f3fa9511-a456-4f4f-86eb-806133cba90a",
@@ -21013,7 +21042,7 @@
 	},
 	{
 		"id": "0552c9a0-9123-4606-9803-80a1e9d93f63",
-		"prefix": "EC/K/5A.5",
+		"prefix": "EC/K/5A.5a",
 		"title": "De kandidaat kan aan de hand van voorbeelden mogelijkheden tot bestrijding van werkloosheid noemen, zowel in de eigen omgeving als op nationaal niveau.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -21028,7 +21057,9 @@
 		],
 		"replaces": [
 			"3accafcb-dd28-4de1-b8d8-84ba4975eb57"
-		]
+		],
+		"dirty": true,
+		"ce_se": ""
 	},
 	{
 		"id": "19bd26a3-de32-4060-b072-c6cd3ae6e7bd",
@@ -21169,8 +21200,8 @@
 	},
 	{
 		"id": "015076d0-ad8a-4e8c-b6cb-6b877ebd4eff",
-		"prefix": "EC/K/7.3a",
-		"title": "De kandidaat kan oorzaken en gevolgen van onderontwikkeling in ontwikkelingslanden noemen en de invloed van internationale handel op de welvaartsverdeling in de wereld beschrijven: \r\r\r\nde welvaartsverdeling in de wereld blijft ongelijk: langzame groei van de welvaart in de ontwikkelingslanden, (economische groei) - snelle groei van de welvaart in de rijke landen.",
+		"prefix": "EC/K/7/3a",
+		"title": "De kandidaat kan oorzaken en gevolgen van onderontwikkeling in ontwikkelingslanden noemen en de invloed van internationale handel op de welvaartsverdeling in de wereld beschrijven: \r\r\r\r\nde welvaartsverdeling in de wereld blijft ongelijk: langzame groei van de welvaart in de ontwikkelingslanden, (economische groei) - snelle groei van de welvaart in de rijke landen.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
 			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
@@ -21185,7 +21216,8 @@
 		"ce_se": "",
 		"replaces": [
 			"a6b113b9-2f93-41d1-957d-7397f8c3b5dd"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ed6dc392-c707-4dee-a351-3c597844fb6f",
@@ -21221,8 +21253,8 @@
 	},
 	{
 		"id": "2d005d15-db4a-40ed-822b-7a45c663c96b",
-		"prefix": "EC/K/7.4",
-		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden",
+		"prefix": "EC/K/7.4a",
+		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: – maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering – eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden",
 		"syllabus_toelichting_id": [
 			"4a7e4507-83fb-45fc-91f6-b0139b4c567c",
 			"4e1b2c8a-43ab-4d4d-b4fe-6c025d4d2c16",
@@ -21232,6 +21264,10 @@
 		"ce_se": "",
 		"replaces": [
 			"7b8290d7-dd33-44e2-9213-13636828c69f"
+		],
+		"dirty": true,
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
 		]
 	},
 	{
@@ -80446,6 +80482,1152 @@
 		],
 		"title": "Werken van Livius",
 		"id": "f285de39-d143-4871-a874-1c5cf6276239",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/1.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de vraag naar goederen en diensten van de consument, voorbeelden van basisbehoeften en overige behoeften het feit dat basisbehoeften meer prioriteit hebben dan overige behoeften.",
+		"id": "73b2b7f7-756c-4a2c-b72c-5b801ab77e21",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/1.1b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de vraag naar goederen en diensten van de consument, voorbeelden van basisbehoeften en overige behoeften de relativiteit van het begrip ‘luxe’ in relatie tot het inkomen.",
+		"id": "aa6e31f4-1ad0-47d8-8e7f-358b232ab942",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/1.1c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de vraag naar goederen en diensten van de consument, voorbeelden van basisbehoeften en overige behoeften het onderscheid tussen noodzakelijke en luxe goederen/ diensten.",
+		"id": "0981304d-df5f-40e0-96dd-7f66e347e577",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/1.2",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de invloed van beschikbaarheid van middelen op consumptie; beperkte mogelijkheden voor consumptie door gebrek aan tijd en geld en de noodzaak om prioriteiten te stellen.",
+		"id": "73006b28-770b-4be4-acb6-0dba267956cd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/1.3a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij voorbeelden van zelfvoorziening, kopen, collectieve voorzieningen, gebruik van natuur zelfvoorziening: productie voor de eigen behoeften, productie voor de behoeften in gezinsverband.",
+		"id": "34de7f6d-784a-479c-832b-fb5091807484",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/1.3b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij voorbeelden van zelfvoorziening, kopen, collectieve voorzieningen, gebruik van natuur kopen: bedrijven die produceren voor behoeften.",
+		"id": "c8fcedb0-4bad-4591-9050-e42970ffb300",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/1.3c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij voorbeelden van zelfvoorziening, kopen, collectieve voorzieningen, gebruik van natuur collectieve voorzieningen: de overheid produceert voor behoeften.",
+		"id": "e4f92fdb-0493-4059-89ab-4566f467e2c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/1.3d",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij voorbeelden van zelfvoorziening, kopen, collectieve voorzieningen, gebruik van natuur gebruik van natuurlijke hulpbronnen: bijvoorbeeld verbruik grondstoffen, frisse lucht inademen, recreëren in de natuur, duurzaamheid.",
+		"id": "40e6ef83-bac1-489b-9a0c-d975a45684bc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/2.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij verschillende vormen van inkomen; inkomen uit arbeid: - loon of salaris - vakantiegeld - loon in natura - winst.",
+		"id": "35009fd3-4b99-4cca-b735-958277269f73",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/2.1b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij verschillende vormen van inkomen; inkomen uit bezit: - rente - dividend - huur - pacht - winst.",
+		"id": "b677342a-3046-4341-bd10-3e35b93e0228",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/2.2",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij inkomen uit overdrachten; kinderbijslag - subsidies en/of toeslagen - bijstand - studiebeurs - sociale uitkeringen.",
+		"id": "cf45d0fa-e625-4f21-8c56-33ddcde5401a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/2.3a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij informatie over inkomensverschillen in Nederland; verschillen van inkomens zoals genoemd onder EC/K/4/2.1",
+		"id": "9de09b89-db0f-4e7e-84cc-b5f5bd653d55",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/2.3b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij informatie over inkomensverschillen in Nederland; verschillen in inkomens leiden tot verschillen in consumptie (koopkracht, preferenties)",
+		"id": "5514518a-c02d-4b3f-a95d-ed012e37e5a9",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/3",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat kan aan de hand van voorbeelden factoren beschrijven die van invloed zijn op veranderingen in het eigen consumentengedrag en dat van anderen in de loop van de tijd",
+		"id": "65e4fc9a-f8ec-424f-b3d9-660c92ea4c0a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/3.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij veranderende persoonlijke en maatschappelijke behoeften; de beïnvloeding van het eigen consumentengedrag en dat van anderen door bijvoorbeeld beschikbaar budget, gezinssamenstelling, sociale beïnvloeding, trends, rages, leeftijd, marketing en reclame, aandacht voor milieuaspecten, kennis van de koper, ruimere openingstijden.",
+		"id": "74a512bc-e952-40c2-b4ec-a004105f2346",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/3.1b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij veranderende persoonlijke en maatschappelijke behoeften; de beïnvloeding van het consumentengedrag in de tijd door bijvoorbeeld de tijd waarin men leeft, de vergrijzing, de technische ontwikkeling, aandacht voor veiligheid, aandacht voor milieuaspecten, inkomensontwikkeling.",
+		"id": "7442dec0-fd74-4df8-b963-72c40be68d39",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/3.1c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij veranderende persoonlijke en maatschappelijke behoeften; voorbeelden van sociale beïnvloeding van het consumentengedrag.",
+		"id": "2a218b68-a390-4c00-a914-d27c32bc0365",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/3.2",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij het gebruik van consumenteninformatie; bijvoorbeeld het gebruik van: een vergelijkend warenonderzoek, consumententijdschriften en rubrieken, productinformatie, websites voor consumenten, consumentenorganisaties, keurmerken.",
+		"id": "e7be006a-919d-44c7-b8c5-c9719f57de79",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/3.3a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij marketing; de marketingmix is de gelijktijdige inzet en het in onderlinge samenhang gebruiken van de instrumenten i.c.m. de doelgroep, het assortiment en de marktpositie.",
+		"id": "f0b41b70-3383-4490-a7e5-eb13f69a83f8",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/3.3b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij marketing; productbeleid, waaronder het verschil tussen A- en B-merken en huismerken, waaronder kwaliteit van de producten en productaansprakelijkheid: prijsbeleid - plaatsbeleid - promotiebeleid - personeelsbeleid (retailmarketing) - presentatiebeleid (retailmarketing) als mede: het onderscheid tussen commerciële reclame en ideële reclame - het onderscheid tussen informatieve en merkreclame.",
+		"id": "de804884-e598-4b0e-b452-18d0260b434d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/3.4a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij technologische ontwikkelingen; nieuwe technieken zoals e-commerce en nieuwe specialisaties.",
+		"id": "9c9c39d3-2be2-4e8b-b98a-0f442caaddd9",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/3.4b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij technologische ontwikkelingen; snelle productveroudering, zoals bij mobiele telefoons, computers en hun randapparatuur.",
+		"id": "35542a87-0f14-4259-989e-30d29904c5c7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/4.1",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de geldfuncties: ruilmiddel – rekenmiddel – spaarmiddel als mede: de courante vormen van betaling – het omgaan met de bankrekening, rood staan en tegoed, berekenen van saldomutaties, telebankieren.",
+		"id": "63182b24-198c-48ef-b273-467232267184",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/5.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld; sparen en lenen als het overhevelen van koopkracht in de tijd.",
+		"id": "73418c4f-73d9-4572-9631-90b6996e1888",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/5.1b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld; de motieven om te sparen: - voor een doel - uit voorzorg - renteopbrengst.",
+		"id": "2ca49028-f030-43d8-8b34-e995f3d4f434",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/5.1c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld; de motieven om te lenen: - aanschaf van duurzame consumptiegoederen - aanschaf onroerend goed (eigen woning) - opvangen van tijdelijke liquiditeitstekorten (N.B. Voor leerlingen kan gesproken worden van tijdelijke geldtekorten) - opvang van calamiteiten.",
+		"id": "9eaa06ee-e1a1-4b2a-9fa7-8d6baeb9a196",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/5.1d",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij rente als vergoeding voor het uitlenen van geld; de hoogte van het rentebedrag is afhankelijk van rentepercentage, looptijd, hoogte van het gespaarde of geleende bedrag.",
+		"id": "27d6d1ee-6862-474c-a501-3730ce7c721b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij behoeften en prioriteiten; de inventarisatie van behoeften en de rangschikking daarvan als onderdeel van het opstellen van een budgetplan.",
+		"id": "98715be7-fdfb-4f02-8cb9-b34384df7d83",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.1b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij behoeften en prioriteiten; de noodzaak om budgetten af te stemmen op de (te verwachten) ontvangsten.",
+		"id": "e36249b1-b9c5-4bee-93df-4d965d7a5d56",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.2a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij budgettaire mogelijkheden ten aanzien van kopen, sparen en lenen en de gevolgen daarvan; de financieringsproblemen: - aan de hand van een gegeven budgetplan beredeneren of een bepaalde aankoop mogelijk is, of prioriteiten in uitgaven gesteld moeten worden, of en hoe bezuinigd moet worden of besteed of gespaard moet worden, of gereserveerd of geleend moet worden.",
+		"id": "4d15e666-64ac-4c02-a298-4975cc908211",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.2b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij budgettaire mogelijkheden ten aanzien van kopen, sparen en lenen en de gevolgen daarvan; de (on)mogelijkheid/zinvolheid van sparen bij (tijdelijke) liquiditeitsoverschotten.",
+		"id": "1007feec-3a9d-4660-aedb-ac5b476f2be8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.2c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij budgettaire mogelijkheden ten aanzien van kopen, sparen en lenen en de gevolgen daarvan; de (on)mogelijkheid van lenen als verantwoorde oplossing voor (tijdelijke) liquiditeitstekorten.",
+		"id": "188dc4cc-0697-48a7-8955-c9cf0356a269",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.3a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij sociale beïnvloeding, bijvoorbeeld: de smaak van een ander, de mening van de groep mensen waarin iemand zich thuis voelt.",
+		"id": "61999716-d2d5-4d96-89ac-50c4be910d8d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.3b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij sociale beïnvloeding; commerciële beïnvloeding door: - reclames, rol van het merk, de marketingtechnieken.",
+		"id": "9b649504-b3db-4450-a5ce-3a666f98cd01",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.4a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden; het milieu: - de eigen gezondheid en die van anderen.",
+		"id": "0e67fbe0-c247-4200-8732-68a39f32e6ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/6.4b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden; de werkgelegenheid: - in eigen land versus andere landen.",
+		"id": "c36c352e-5900-4bee-a7f3-de730c15d81b",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/6.4c",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij economisch maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden; de ontwikkelingslanden: - bijvoorbeeld kinderarbeid.",
+		"id": "431c9649-889b-4696-9b83-4c52afd6f893",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/6.5",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij eigen normen en waarden en die van anderen, bijvoorbeeld normen en waarden ten aanzien van de economische en maatschappelijke gevolgen voor milieu, werkgelegenheid en ontwikkelingslanden",
+		"id": "21ba52d1-3b02-435f-b414-20d43c7d3b15",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/7.1a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de gevolgen waarmee rekening moet worden gehouden; de eigen (markt)positie als koper en de gevolgen voor het budget.",
+		"id": "27a3cf52-f430-4f3d-9976-a5437d6ee440",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.1",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de huishoudontvangsten; inkomen uit arbeid - inkomen uit overdrachten - inkomen uit bezit.",
+		"id": "9334aa4a-68d5-46be-bccc-80eafb365c29",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.2",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de huishouduitgaven; dagelijkse huishoudelijke uitgaven: – vaste lasten - incidentele uitgaven als mede: de bestedingen (ten behoeve) van de kandidaat als deel van de gezinsbestedingen, de (gedeeltelijke) verantwoordelijkheid van de kandidaat nu en later, (gedeeltelijke) invloed van de kandidaat op de bestedingen van het gezin.",
+		"id": "69070077-a06f-4f8e-954b-ac334e63a01a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.3",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij reserveringen en besparingen (sparen).",
+		"id": "91609061-f0e0-4903-8204-d763d97e380c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.4a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij de financieringssituatie: overschotten en tekorten",
+		"id": "79562153-fb92-4422-aff0-7b26a9c958d0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.5",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij herleiden van gegeven huishouduitgaven per week / maand / twee maanden / kwartaal en dergelijke tot uitgaven per jaar en omgekeerd.",
+		"id": "bbf6f9ab-0d5b-45fd-93f3-74df240173b0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.7",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij instanties die behulpzaam kunnen zijn bij budgetproblemen; het Nationaal Instituut voor Budgetvoorlichting (Nibud) en de Consumentenbond.",
+		"id": "574ee944-e1e4-4a84-bef3-a53f962bd870",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/4A/8.9",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij berekening van de kilometerprijs en de kosten van verschillende vormen van vervoer gegeven de totale kosten in een periode en het aantal kilometers in deze periode; kosten van bijvoorbeeld: fiets, bromscooter, auto, bus of trein.",
+		"id": "5b50d162-7422-4b28-ab16-665f75abebcd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat kan, met het oog op zijn rol in relatie tot arbeid en productie aan de hand van voorbeelden uit het bedrijfsleven het verband leggen tussen de begrippen kosten, opbrengsten, winst en verlies en berekeningen in dit verband maken met behulp van verstrekte of verzamelde gegevens in een realistische context.",
+		"id": "50aed0ba-0b30-4d72-a958-f8bc05385fec",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij afzet; de afzet is de verkoop in eenheden.",
+		"id": "a10778eb-e45c-4775-8a7b-043b7124f576",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.2",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij omzet; de omzet is de verkoop in eenheden maal de verkoopprijs exclusief BTW.",
+		"id": "2ba155d8-0a95-4d2b-965d-aa588f97deb4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.3a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij verkoopprijs; de verkoopprijs inclusief BTW is de consumentenprijs of winkelprijs.",
+		"id": "67abe75f-1255-4b62-88ed-ebb999425197",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.3b",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij verkoopprijs; de consumentenprijs / winkelprijs is opgebouwd uit de inkoopprijs verhoogd met de bedrijfskosten, een opslag voor de winst, eventueel accijnzen en de BTW.",
+		"id": "0df07f28-d18e-45d7-bc1c-da8122ce5d47",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.4",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij kostprijs; de kostprijs is het totaal aan kosten die gemaakt dienen te worden om een product tot stand te brengen",
+		"id": "b2819c1f-2609-48cb-a954-fee042eb578a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.5a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij bedrijfskosten; voorbeelden van bedrijfskosten: huisvestingskosten, loonkosten, in- en verkoopkosten.",
+		"id": "0ff57fed-36b7-4dfc-a9fa-d905ef952c0e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.6a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij brutowinstopslag; de brutowinst is het verschil tussen de omzet en de inkoopprijs van de verkopen (beide exclusief BTW).",
+		"id": "e9a32eff-22d9-4f60-a3ca-daeeca4bcc6b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.7",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij nettowinst; de brutowinst verminderd met alle bedrijfskosten is de nettowinst.",
+		"id": "2e842f92-3c17-4767-aa9b-a0404f6bf680",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.8a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren; vanuit de verkoopprijs exclusief BTW de verkoopprijs inclusief BTW kunnen bepalen.",
+		"id": "d910eeac-b037-43f4-927f-dd91ed017d93",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.8b",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren; vanuit de verkoopprijs inclusief BTW de verkoopprijs exclusief BTW kunnen bepalen.",
+		"id": "7352303b-0ef6-49af-ad9c-b0e2615f13fd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.8c",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren; verkoopprijs inclusief BTW = inkoopprijs exclusief BTW + brutowinstmarge (in geld) + BTW.",
+		"id": "f69ef564-3160-4081-bcf4-87bb99967e76",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/1.8d",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de BTW: de kandidaat moet de volgende berekeningen kunnen uitvoeren;  verkoopprijs exclusief BTW - inkoopprijs exclusief BTW = brutowinst.",
+		"id": "cd401cab-4e18-48fa-9fda-aa7e2d861292",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/2.1",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij huishoudens, beroepsbevolking",
+		"id": "76d4cad7-91f2-440d-b543-5460e95ae419",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/2.2a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij positieve en negatieve gevolgen van arbeidsverdeling;  de toename van de arbeidsproductiviteit en de welvaartstoename.",
+		"id": "d92b7195-c956-40e8-85c0-de1f006c99f7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/2.3a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsproductiviteit (= productie per werkende per tijdseenheid) factoren die de arbeidsproductiviteit beïnvloeden: arbeidsomstandigheden, scholing, arbeidsverdeling, arbeidsvoorwaarden, nieuwe technieken.",
+		"id": "1e816267-cbf3-4875-831b-f9d383a13a67",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband; het onderscheid tussen betaalde en onbetaalde arbeid.",
+		"id": "92d0c1fd-f3b8-4be3-ac69-96a8c712e715",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.1b",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband; het onderscheid tussen (hoog)geschoolde en ongeschoolde arbeid.",
+		"id": "1c00a0d6-38e4-47df-a5d1-29bb8d088b22",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.1c",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband; het onderscheid tussen uitvoerende en leidinggevende arbeid.",
+		"id": "03860998-af85-426d-99e0-e7d91be042b9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.1d",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de eigen keuze ten aanzien van betaalde en/of onbetaalde arbeid binnen en buiten het samenlevingsverband; de keuze tussen betaald en onbetaald werk die mede afhankelijk is van de mate waarin betaald werk beschikbaar is.",
+		"id": "6865fad4-6d13-48db-88fa-ef4b7cda86ae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; de arbeidsmarkt als het geheel van vraag naar en aanbod van arbeid.",
+		"id": "62635754-2c7a-42ec-8cce-b0de2ebe2f25",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2b",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; de samenstelling van de vraag naar arbeid: - bezette arbeidsplaatsen en vacatures.",
+		"id": "dd6b1415-6a8f-4e85-94bf-3b7a8ea74c38",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2c",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; de vraag naar arbeid van bedrijven en van de overheid.\r\n– het aanbod van arbeid dat bestaat uit werkenden en werkzoekenden, \r\n– een tekort op de arbeidsmarkt dat schaarste aan personeel betekent \r\n– een overschot op de arbeidsmarkt dat werkloosheid betekent",
+		"id": "aacd2697-5155-4e07-99e7-605c0a5c8f5e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2d",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; het aanbod van arbeid dat bestaat uit werkenden en werkzoekenden.",
+		"id": "acd9f3d4-8c30-4ccc-8e65-bc9ff251dcaa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2e",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; een tekort op de arbeidsmarkt dat schaarste aan personeel betekent.",
+		"id": "0a904d30-4b42-49bf-a538-ec9dca07b6c7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/3.2f",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij de arbeidsmarkt, overschotten en tekorten; een overschot op de arbeidsmarkt dat werkloosheid betekent.",
+		"id": "d66f7bb1-fc3a-4608-9c63-9c774399b2de",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/4a.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij stagnatie / daling van de vraag naar goederen en diensten, de conjunctuur; conjuncturele werkloosheid die aan de vraagkant veroorzaakt wordt door daling / stagnatie van de bestedingen (consumptie, investeringen, export, overheidsbestedingen).",
+		"id": "74b76813-000f-484d-a401-feac43bee4c0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/4a.2",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij veranderingen in de aanbodkant, de structuur, van de economie: – oorzaken van structurele werkloosheid aan de aanbodkant zijn bijvoorbeeld: - verplaatsing van productie naar een andere regio of naar het buitenland - vraag en aanbod van arbeid die niet goed op elkaar zijn afgestemd - vervanging van bestaande producten door nieuwe producten met eenzelfde doel - nieuwe technieken die van invloed zijn op de omvang van de productie en de productiviteit - verslechterde internationale concurrentie positie.",
+		"id": "0fee936b-da64-43c6-9671-c82699434b2c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/4a.3",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij gevolgen voor inkomenssituatie, sociale situatie: – inkomensdaling – gemis aan sociale contacten – je niet nuttig voelen in de maatschappij – een breuk in je carrière-opbouw.",
+		"id": "fbe515f7-6bff-416e-8ddb-633f057c0553",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/4a.4",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij kosten van werkloosheidsuitkeringen: – de samenhang tussen de omvang van de werkloosheid en de kosten van de werkloosheidsuitkeringen.",
+		"id": "d4581706-4e8a-4f72-a378-b70509a04373",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/4a.5",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij sociale onrust of onvrede / politieke instabiliteit: – bijvoorbeeld staking van werknemers bij dreiging massaontslag.",
+		"id": "9f8d71b9-1996-4bc6-943c-f5351535ca79",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/5a.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij vergroten van de vraag naar goederen en diensten; toename van de bestedingen door het verhogen van de inkomens, het verlagen van de belastingen en sociale premies.",
+		"id": "f27755b5-7d55-4872-a8a1-52730314e500",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/5a.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij vergroten van de vraag naar goederen en diensten; het verhogen van overheidsuitgaven door het aanbesteden (het laten uitvoeren of het laten aannemen) van werken en het verlenen van subsidies.",
+		"id": "e5c25f01-71ce-4f39-9fd3-a5d7b6564d50",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/5a.1a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij vergroten van de vraag naar goederen en diensten; het verlagen van de prijzen door efficiënter te werken en/of innovatie (de technologische ontwikkelingen).",
+		"id": "e779b8ff-b914-4cf3-a810-cf18ed9f481d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/5a.2a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij maatregelen in het kader van beloningen; relatie tussen loonhoogte en de vraag naar arbeid; beïnvloeding van loonkosten via de belastingen.",
+		"id": "2a0b8f90-e69b-4c7e-9181-b70604bd19fa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5A/5a.3a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt maatregelen in het kader van arbeidstijd / bedrijfstijd; verkorting van de arbeidstijd en verlenging van de bedrijfstijd.",
+		"id": "12279b75-2075-4f1f-b0c5-13f21dc22de3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5a/5a.4a",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij scholing waardoor de mogelijkheid ontstaat vraag en aanbod op deelmarkten beter op elkaar af te stemmen.",
+		"id": "9173e8d9-566c-4011-b139-9f50ac213697",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/5a/5a.5",
+		"examenprogramma_eindterm_id": [
+			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
+		],
+		"title": "De kandidaat betrekt daarbij voorlichting; de kandidaat moet zicht hebben op de inkomensachteruitgang bij werkloosheid en op omscholingsmogelijkheden.",
+		"id": "fc72e7b9-0cf2-4228-b8b3-6f4d9894a129",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1a",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de afhankelijkheid van Nederland van het buitenland voor de consumptie",
+		"id": "9ca89e2a-da56-4c6e-9f45-23eb9ac10848",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1b",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de samenstelling van de Nederlandse import, importwaarde.",
+		"id": "3994ccbf-b976-4cab-8f85-39932d80eb2e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1c",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de betalingsbalans: - de waarde van de import en export van grondstoffen en eindproducten, goederen en diensten.",
+		"id": "93d97b74-dd58-4d34-89b8-834463f81641",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1d",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de factoren die de omvang van de import bepalen: - assortiment, kosten, kwaliteitsverschillen en natuur .",
+		"id": "23884514-917a-4e1d-894d-3bed0839d574",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1e",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; noodzakelijke import.",
+		"id": "6018a6a9-6ae4-4ae8-b3b0-45580765fb33",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1f",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de belangrijkste toeleverende handelspartners van Nederland.",
+		"id": "30b0d773-ce75-47a7-a67e-9aa7d1c67568",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1g",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; het relatief grote aandeel van de Europese Unie in de handel van Nederland, de handelspartners, toetreding tot de EU.",
+		"id": "6a0d867a-4f6b-4fb5-be60-f590d273d2cc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/1h",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de invloed van wisselkoersen op de prijs van de binnenlandse consumptie en het belang van de EMU op de prijsvorming.",
+		"id": "be6b5e83-6fec-4a78-9a31-4d362638065d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/2a",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij productie; de afhankelijkheid van Nederland van het buitenland voor de productie: - de verwerking van buitenlandse grondstoffen en de handel in buitenlandse producten en diensten.",
+		"id": "93f187a2-5710-43d4-92bf-bc9fbb816796",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/2b",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij productie; de samenstelling van de Nederlandse export: - grondstoffen en eindproducten, goederen en diensten.",
+		"id": "408cb829-1db9-4731-a25e-b92920c8c608",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/2c",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij productie; de factoren die de omvang van de export bepalen: - assortiment, kosten en kwaliteitsverschillen, doorvoer.",
+		"id": "5ee4370e-7b53-4ebb-b01e-2acd41342a21",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/2d",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij productie; de invloed van de productie op investeringen, werkgelegenheid en milieu in Nederland: - de belangrijkste handelspartners van Nederland - het relatief grote aandeel van de Europese Unie in de handel van Nederland - de invloed van wisselkoersen op export en import.",
+		"id": "441d9ca3-50f2-45aa-894a-d92d13caa28e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/1/3a",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij werkgelegenheid; de invloed van export en van import op de werkgelegenheid - de invloed van de internationale concurrentiepositie op de werkgelegenheid - Nederland als open economie, (versus een gesloten economie).",
+		"id": "dda9c84d-df04-4cac-820b-214021b45ffc",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/7/2/1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij consumptie; de invloed op de consumptie door vrij verkeer van goederen en diensten binnen de EU - gemeenschappelijke importheffingen - de toenemende concurrentie - het gebruik van de euro binnen de eurozone.",
+		"id": "065404bf-f69a-4f38-b2c0-0cfe50771b6e",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/7/2/2",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij export; de invloed op de export door vrij verkeer van goederen en diensten binnen de EU - de toenemende concurrentie - het gebruik van de euro binnen de eurozone.",
+		"id": "2abe2885-4314-4bca-8768-010c9053b20e",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/7/2/3",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij werkgelegenheid; de invloed op de werkgelegenheid door vrij verkeer van goederen en diensten binnen de EU - gemeenschappelijke importheffingen - de toenemende concurrentie - het gebruik van de euro binnen de eurozone - internationale concurrentievervalsing door subsidies en heffingen van de EU.",
+		"id": "618a7832-ec4c-404a-967e-a113a55bda8b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/3a/1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij kenmerken van economische (onder)ontwikkeling: \r\n– de kenmerken van onderontwikkeling zijn bijvoorbeeld: - laag inkomen per hoofd van de bevolking - grote werkloosheid - ondervoeding - snelle bevolkingsgroei - analfabetisme.",
+		"id": "2778ce8b-7192-4c38-a973-f00774240205",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/3a/2a.1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij oorzaken en gevolgen van economische (onder)ontwikkeling:\r\n– de oorzaken van onderontwikkeling zijn bijvoorbeeld: - tekort aan natuurlijke hulpbronnen - beperkte scholing en technische kennis - gebrekkige infrastructuur - snelle bevolkingsgroei.",
+		"id": "d491e2e8-9316-49a4-8a91-c8e94f106a6a",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/7/3a/2b.1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij oorzaken en gevolgen van economische (onder)ontwikkeling de gevolgen van onderontwikkeling zijn bijvoorbeeld: - armoede - werkloosheid - lage levensverwachting .",
+		"id": "6030edb3-0b9b-4b5c-b665-c054f7d57df3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/3b",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat kan oorzaken en gevolgen van welvaartsverschillen tussen rijke en arme landen beschrijven: \r\n- de oorzaken van de welvaartsverschillen tussen rijke en arme landen zijn bijvoorbeeld: lage wereldmarktprijzen en de invoerrechten van de rijke landen.\r\n- de gevolgen van de welvaarsverschillen tussen rijke en arme landen zijb voorbeeld: de immigratie in de rijke landen.",
+		"id": "1dd76829-07d4-4cd9-bcb9-aa0eda3250ba",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/3b.1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij de hoogte van het nationaal inkomen per hoofd van de bevolking in Nederland in vergelijking met dat van andere landen; nationaal inkomen en nationaal inkomen per hoofd van de bevolking.",
+		"id": "5e7ce19b-c8b6-4645-8d5d-f63807e4d67e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/4a.1",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij werkgelegenheid: \r\n– de invloed op de werkgelegenheid in Nederland en in ontwikkelingslanden bijvoorbeeld door: - vermindering invoerrechten - gebonden hulp - aankoop goederen en diensten uit ontwikkelingslanden.",
+		"id": "ed7e8930-f0f5-40b6-bc6d-c37884a9fd0c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/4a.2a",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij inkomen: \r\n– de invloed op het inkomen in ontwikkelingslanden bijvoorbeeld door: - hulp bij de verbetering van de landbouw en industrie - aankoop van producten in ontwikkelingslanden.",
+		"id": "012188f4-82d9-4239-be25-cd5253282642",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/7/4a.3a",
+		"examenprogramma_eindterm_id": [
+			"bbbaa1ac-2489-412f-9e87-1d936bd7a37a"
+		],
+		"title": "De kandidaat betrekt daarbij bestedingsmogelijkheden: \r\n– de invloed op de bestedingsmogelijkheden in ontwikkelingslanden bijvoorbeeld door: - giften bij acties - noodhulp - buitenlandse investeringen.",
+		"id": "7d98792e-c68b-408f-9d47-ed4f1e9eedcf",
 		"unreleased": true
 	}
 ]
