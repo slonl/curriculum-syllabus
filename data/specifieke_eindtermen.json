@@ -30160,11 +30160,13 @@
 		"title": "Taal",
 		"id": "319bd132-78e6-4608-969b-8c85dff780eb",
 		"syllabus_toelichting_id": [
-			"b3ce09ec-3bf8-4174-9771-03b0ced41234"
+			"6dd65d6e-9c92-42a1-9e06-a6a0f122dd79"
 		],
 		"replaces": [
 			"f4056df1-4c8d-43bd-adbc-447af385773e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -72036,7 +72038,9 @@
 		"id": "191e7d64-2df7-4e43-ac72-e0ed09fb1433",
 		"replaces": [
 			"4efa744e-1a03-42e7-8fca-75aeb3305110"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -80325,6 +80329,21 @@
 		],
 		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
 		"id": "75a70bfa-02c9-4ef8-9ea9-0bade2fc1924",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "GTC/V/DomeinB/1.2",
+		"examenprogramma_domein_id": [
+			"b0e118d7-cc6d-4f8a-8b32-830b0f41455c"
+		],
+		"syllabus_toelichting_id": [
+			"b480705b-add1-4516-aa94-cf7810e43366",
+			"654202a3-baea-4481-8230-4b03dca3376c"
+		],
+		"title": "De historische context",
+		"id": "f9abd5fe-1204-46c1-a2e3-fdeea1e2717f",
 		"unreleased": true
 	}
 ]
