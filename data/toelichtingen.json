@@ -1713,8 +1713,11 @@
 	},
 	{
 		"ce_se": "CE",
-		"title": "De CvTE-minimumlijst vormt het uitgangspunt bij de op het centraal examen gestelde vragen en bij de annotatie van de ongeziene authentieke tekst.",
-		"id": "09718500-c57f-41ff-b661-327a2ff3e399"
+		"title": "Livius’ stijl is in de oudheid wel beschreven met de term lactea ubertas (‘romige overvloedigheid’). In tegenstelling tot enkele voorgangers van Livius, die korte, zakelijke zinnen gebruikten, gebruikt Livius lange, soepel lopende zinnen vol details. Een dergelijke zin wordt een periode genoemd. Door een levendige voorstelling (enargeia) en door een zorgvuldige en geraffineerde opbouw van de verschillende episoden weet hij de lezer geboeid te houden.",
+		"id": "09718500-c57f-41ff-b661-327a2ff3e399",
+		"dirty": true,
+		"description": "",
+		"prefix": ""
 	},
 	{
 		"description": "",
@@ -32492,6 +32495,79 @@
 		"ce_se": "CE",
 		"title": "De politieke situatie. In de tweede helft van de vijfde eeuw nam het onderlinge wantrouwen tussen de twee belangrijkste Griekse poleis, Athene en Sparta, toe. Elk vreesde dat de ander de hegemonie over Griekenland zou krijgen. Dit wantrouwen leidde uiteindelijk tot de Peloponnesisch e Oorlog (431404). Athene verloor de oorlog. De Spartanen stelden in Athene een oligarchisch bewind aan, de zogenaamde regering van de Dertig. Al snel veranderde deze regering in een terreurbewind. In 403 werd het bewind door democratisch gezinde Atheners afgezet. Socrates was vaak kritisch over het functioneren van de democratie, omdat besluiten genomen werden door mensen die geen kennis van zaken hadden. Door zijn contacten met mensen uit aristocratische en antidemocratische kringen werd Socrates ongetwijfeld door tijdgenoten verbonden met de misdaden van het bewind van de Dertig",
 		"id": "654202a3-baea-4481-8230-4b03dca3376c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "",
+		"title": "Kernauteur: Livius; Genre: Historisch proza\r\nTekstedities: Titi Livi Ab Urbe Condita, Tomus I, Libri I–V, R.M. Ogilvie, Oxford 1974 (OCT); Tomus III, Libri XXI-XXV, C.F. Walters, R.S. Conway, Oxford 1929 (OCT); Tomus IV, libri XXVI-XXX, R.S. Conway, S.K. Johnson, Oxford 1935 (OCT). \r\nRode draad: Leiderschap: Hannibal en de Scipio’s",
+		"id": "c83bb0df-0d59-44f0-ad33-efb9ccb6012f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "Het genre historiografie beschrijft de geschiedenis van de mensheid in al haar facetten: politiek, religie, economie, volksaard, maatschappelijke verhoudingen et cetera. Historiografen in de oudheid hechten vooral veel belang aan geschiedschrijving als herinnering aan de glorieuze daden van voorouders; zij leggen de nadruk op oorlogen en politieke ontwikkelingen. Kenmerkend voor het genre in het algemeen zijn de verhalende vorm en het grote aandeel van redevoeringen (in de directe en indirecte rede). Specifieke kenmerken van de Romeinse geschiedschrijving zijn de traditie van ordening in jaarboeken (annales), de politieke inslag, de moraliserende tendens en de concentratie op Rome. Livius’ Ab urbe condita (AUC) is het omvangrijkste overgeleverde Romeinse geschiedwerk.",
+		"id": "d7e497d6-09d9-4312-986b-41485461d9f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De Romeinse geschiedschrijving staat in de traditie van de Griekse geschiedschrijving, zoals die door onder anderen Herodotus en Thucydides was vormgegeven. Livius is daarnaast een schakel in een lange traditie van Romeinse geschiedschrijving. Hij sluit aan bij de Romeinse annalisten (jaarboekenschrijvers), die de geschiedenis van Rome van jaar tot jaar beschreven. Hij gebruikt als bronnen archieven (annales maximi, senatus consulta, familiearchieven) en het werk van oudere geschiedschrijvers. Ten aanzien van zijn bronnen is Livius er soms toe geneigd de narratieve aspecten van zijn geschiedwerk voorrang te geven boven de historische precisie.",
+		"id": "8627e032-2252-4494-8e6a-a0e1a2fe9724",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "In AUC geeft Livius een verslag van de opkomst van Rome en de vestiging van de heerschappij over Italië en de rest van de mediterrane wereld. Livius benadrukt de Romeinse deugden en kwaliteiten (virtutes) die volgens hem tot deze heerschappij hebben geleid: dapperheid (fortitudo), wijsheid (sapientia), rechtvaardigheid (iustitia) en mildheid (clementia). Zoals Livius zelf duidelijk maakt in zijn praefatio, hoopt hij dat het kennisnemen van de heldendaden en de moed en dapperheid van de Romeinen van weleer zijn lezers zal kunnen inspireren tot navolging: door het hele werk heen is Livius bewust bezig met het presenteren van exempla, nastrevenswaardige voorbeelden. Hij is een vaderlandslievende auteur met een sterke neiging tot het idealiseren van de oude Romeinse moraal.",
+		"id": "140a2b42-4baa-4aa1-af40-acf4f5b2742f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "Livius presenteert zijn geschiedwerk als een verhaal met zichzelf als verteller. Naast beschrijvingen van gebeurtenissen levert hij ook regelmatig commentaar op de door hem beschreven gebeurtenissen. Hij vertelt over de handelingen van historische personages, maar laat hen ook veelvuldig aan het woord. Via de woorden van de personages maakt de lezer kennis met hun visie op de gebeurtenissen, of in elk geval met de visie die Livius hun toeschrijft. In de directe rede, met name in speeches, schetst Livius vaak de kern van het karakter van zijn personages. Voor Livius zijn de morele kwaliteiten van de personages bepalend voor de loop van de geschiedenis.",
+		"id": "03fdab2e-69d0-4d86-8cb3-c50e33866c91",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "De structuur van AUC als geheel is chronologisch en volgt de oude Romeinse annalistische traditie. Hierin worden de gebeurtenissen per jaar ingedeeld en verteld, ook al strekten zij zich in feite over een langere periode uit. Livius organiseert de jaren wel op een thematisch overzichtelijke manier in boeken, en presenteert samenhangende boeken vaak in groepen van vijf of tien; zo gaan de boeken 21 t/m 30 over de Tweede Punische Oorlog. De gebruikelijke titel van het geschiedwerk, Ab Urbe Condita, is van later datum; zelf noemt Livius zijn werk Annales.",
+		"id": "37c35a2c-962a-4d96-b56a-5e804de23f30",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "Titus Livius, naar alle waarschijnlijkheid geboren in 64 v. Chr. in Patavium (Padua) en gestorven rond 17 n. Chr., leefde tijdens de historisch belangrijke periode van de overgang van republiek naar keizertijd (het principaat van Augustus). Over zijn leven is weinig bekend. Hij was van gegoede afkomst en moet een gedegen opleiding gehad hebben in de retorica en filosofie, eerst in Patavium en later in Rome. Livius heeft geen politieke of militaire carrière nagestreefd, maar zijn leven geheel aan de literatuur gewijd.  Livius schrijft het grootste deel van AUC ten tijde van het principaat van Augustus. In die tijd bestond er na een langdurige periode van burgeroorlogen een algemeen verlangen naar vrede en welvaart. Augustus voorzag in deze behoefte nadat hij alle macht in handen had gekregen. Livius lijkt zijn geschiedenis van Rome te schrijven als ondersteuning van de hervormingspolitiek van Augustus, die tijdens zijn heerschappij een terugkeer naar traditionele Romeinse waarden voorstond. Tegelijkertijd legt Livius in zijn praefatio uit dat het schrijven over het vroege Rome hem afleiding biedt en hem de aanblik van de ellende en het morele verval van zijn eigen tijd even kan doen vergeten.",
+		"id": "5411360c-633c-4b43-9f76-74600681b3a0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "",
+		"title": "Livius heeft allerlei werken geschreven, zoals brieven, dialogen en filosofische traktaten, die echter geen van alle overgeleverd zijn. Wel overgeleverd zijn delen van het omvangrijke werk Ab Urbe Condita. In 142 boeken behandelt hij de geschiedenis van Rome vanaf de stichting in 753 v. Chr. tot de dood van Augustus’ stiefzoon Drusus de Oudere in 9 v. Chr.  Er is weinig met zekerheid bekend over het ontstaan en de publicatie van AUC. Men gelooft in het algemeen dat het ontstaan samenhangt met de hoop op een betere toekomst na de burgeroorlogen door de vestiging van het principaat van Augustus, die in zijn tijd vaak als tweede Romulus werd voorgesteld. Alleen de boeken 1-10 (koningstijd en vroege republiek tot aan 293 v. Chr.) en 21-45 (Tweede Punische Oorlog, Macedonische en Syrische Oorlogen; 218-167 v. Chr.) zijn in hun geheel bewaard gebleven. Van de rest van het werk zijn slechts fragmenten en latere uittreksels bekend.",
+		"id": "ae5438be-f289-407e-a1c7-e110e5c5089c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"title": "De geschreven bronnen die Livius tot zijn beschikking had over de koningstijd (ca. 750 - ca. 510 v. Chr.) waren sterk gekleurd door legendevorming. Historisch-archeologisch onderzoek toont aan dat Livius de grootheid van het Rome van zijn eigen tijd projecteert op het verre verleden. Rome omvatte oorspronkelijk slechts enkele kleine huttendorpen. Rond 575 v. Chr. ontwikkelt Rome zich van een conglomeraat van dorpen tot stad door de aanleg van een centraal plein, het Forum Romanum. Op politiek gebied schetst Livius het verval van het koningschap. Machtsmisbruik van koning Tarquinius Superbus leidt tot verdrijving van de koningen.",
+		"id": "679f3d3f-85da-4fe1-9fb3-4031d4dbe23a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"title": "De Punische Oorlogen In de vijfde en vierde eeuw v.Chr. was Carthago een grootmacht waarvan de machtspositie vooral op de vloot rustte. De Romeinen sloten verschillende verdragen met de Carthagers, maar uiteindelijk brak in de derde eeuw v. Chr. toch een militair conflict uit: de Eerste Punische Oorlog (264-241 v. Chr.). De Romeinen wonnen deze oorlog.",
+		"id": "1bc00e06-b104-4164-bf5e-9c1dd0ac9a11",
 		"unreleased": true
 	}
 ]
