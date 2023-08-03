@@ -14985,10 +14985,12 @@
 			"4f6c502b-0c95-444b-8031-6516558bf85a"
 		],
 		"syllabus_toelichting_id": [
-			"552b9728-8a13-489a-9b4f-393410380360"
+			"d7e497d6-09d9-4312-986b-41485461d9f0"
 		],
 		"title": "Definitie en kenmerk van het genre",
-		"id": "5c064d64-f32d-4d56-b186-7f21680806c6"
+		"id": "5c064d64-f32d-4d56-b186-7f21680806c6",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -30055,11 +30057,14 @@
 		"title": "Historische context",
 		"id": "5a1b3996-26e6-4e6e-a09c-e94e336059df",
 		"syllabus_toelichting_id": [
-			"82d00962-70f8-44e5-835e-a2f828eb1c93"
+			"679f3d3f-85da-4fe1-9fb3-4031d4dbe23a",
+			"1bc00e06-b104-4164-bf5e-9c1dd0ac9a11"
 		],
 		"replaces": [
 			"ea71230c-98dd-48ee-bce6-82dc852599f0"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -72026,7 +72031,9 @@
 		"id": "fca706a3-9e31-45c8-92a1-9270305f6625",
 		"replaces": [
 			"ecf31667-4b47-4a62-85ce-dd47507fea8d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"ce_se": "CE",
@@ -80344,6 +80351,112 @@
 		],
 		"title": "De historische context",
 		"id": "f9abd5fe-1204-46c1-a2e3-fdeea1e2717f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2",
+		"examenprogramma_domein_id": [
+			"4f6c502b-0c95-444b-8031-6516558bf85a"
+		],
+		"title": "Genre - historiografie",
+		"id": "0ca1f110-cfe4-4358-aa3b-89fdca85d840",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.2",
+		"examenprogramma_domein_id": [
+			"4f6c502b-0c95-444b-8031-6516558bf85a"
+		],
+		"syllabus_toelichting_id": [
+			"8627e032-2252-4494-8e6a-a0e1a2fe9724"
+		],
+		"title": "Livius en de traditie van de geschiedschrijving",
+		"id": "c8bfd45c-e12b-425c-8c52-1c465adbcbb7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.3",
+		"examenprogramma_domein_id": [
+			"4f6c502b-0c95-444b-8031-6516558bf85a"
+		],
+		"syllabus_toelichting_id": [
+			"140a2b42-4baa-4aa1-af40-acf4f5b2742f"
+		],
+		"title": "Centrale thema's van Ab Urbe Condita",
+		"id": "7fd688fa-00fa-40de-94fb-b18e2c618bc6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.4",
+		"examenprogramma_domein_id": [
+			"4f6c502b-0c95-444b-8031-6516558bf85a"
+		],
+		"syllabus_toelichting_id": [
+			"03fdab2e-69d0-4d86-8cb3-c50e33866c91"
+		],
+		"title": "Karakter van Ab Urbe Condita",
+		"id": "9fa55914-da08-4056-a26c-7b33f2fd6a9c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinA/2.5",
+		"examenprogramma_domein_id": [
+			"4f6c502b-0c95-444b-8031-6516558bf85a"
+		],
+		"syllabus_toelichting_id": [
+			"37c35a2c-962a-4d96-b56a-5e804de23f30"
+		],
+		"title": "Structuur van Ab Urbe Condita",
+		"id": "b6a28fc4-33d2-484c-9d5d-6846f715e4f1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1",
+		"examenprogramma_domein_id": [
+			"97e12e2d-77f8-4f87-8d98-8719da19b58c"
+		],
+		"title": "De auteur en zijn werk",
+		"id": "3b9ac7ad-414e-42bd-a366-4a61d0e36c34",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1a",
+		"examenprogramma_domein_id": [
+			"97e12e2d-77f8-4f87-8d98-8719da19b58c"
+		],
+		"syllabus_toelichting_id": [
+			"5411360c-633c-4b43-9f76-74600681b3a0"
+		],
+		"title": "Leven van Livius",
+		"id": "0b07f8d0-ccb2-4c82-943f-14d84906677e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "LTC/V/DomeinB/1.1b",
+		"examenprogramma_domein_id": [
+			"97e12e2d-77f8-4f87-8d98-8719da19b58c"
+		],
+		"syllabus_toelichting_id": [
+			"ae5438be-f289-407e-a1c7-e110e5c5089c"
+		],
+		"title": "Werken van Livius",
+		"id": "f285de39-d143-4871-a874-1c5cf6276239",
 		"unreleased": true
 	}
 ]
