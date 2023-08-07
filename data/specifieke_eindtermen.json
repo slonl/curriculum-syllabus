@@ -20735,7 +20735,7 @@
 	},
 	{
 		"id": "2de83526-e830-4741-b748-48412db3b7c3",
-		"prefix": "EC/K/4A/4",
+		"prefix": "EC/K/4A.4",
 		"title": "De kandidaat kan aan de hand van voorbeelden het belang van geld voor de economie en de huidige vormen van het betalingsverkeer beschrijven.",
 		"description": "",
 		"examenprogramma_eindterm_id": [
@@ -21193,7 +21193,7 @@
 	{
 		"id": "4868de91-1836-4c03-a3ff-4becf4efc79c",
 		"prefix": "EC/K/7.4",
-		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden\r\n– (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden \r\n– grondstofovereenkomsten/buffervoorraden",
+		"title": "De kandidaat kan maatregelen en (eigen) activiteiten beoordelen op hun bijdragen aan de verkleining van de mondiale welvaartsverschillen: \r\r\r\r\r\n– maatregelen zoals: - verhoging/ verbetering ontwikkelingssamenwerking - vermindering invoerrechten rijke landen - contingentering \r\r\r\r\r\n– eigen activiteiten zoals: - giften - aankoop goederen en diensten uit ontwikkelingslanden\r\r\r\r\r\n– (gedeeltelijke) kwijtschelding van schulden van ontwikkelingslanden \r\r\r\r\r\n– grondstofovereenkomsten/buffervoorraden",
 		"syllabus_toelichting_id": [
 			"4a7e4507-83fb-45fc-91f6-b0139b4c567c",
 			"e70e9874-35fa-48f5-b35e-15444717ae2c",
@@ -81662,7 +81662,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij koop en verkoop als vorm van ruil: geld fungeert bij koop en verkoop als ruilmiddel.",
 		"id": "1c22e2b1-2078-4aaf-823b-45bf9ff64e5f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/1.4b",
@@ -81671,7 +81673,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij koop en verkoop als vorm van ruil: directe ruil, indirectie ruil.",
 		"id": "1dc3966e-132b-4bb8-aa4f-ba43542c83d1",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/1.4c",
@@ -81680,7 +81684,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij koop en verkoop als vorm van ruil: chartaal geld en giraal geld.",
 		"id": "8ae37d57-a121-4b56-9aa7-158c297687ce",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/1.5",
@@ -81689,7 +81695,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de samenhang tussen ruil, maatschappelijke arbeidsverdeling en geldgebruik: geldgebruik vergemakkelijkt de ruil, gemakkelijke ruil bevordert de maatschappelijke arbeidsverdeling (het ontstaan van beroepenspecialisatie).",
 		"id": "e634a231-b576-42a5-a491-44262caa8f95",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -81764,7 +81772,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij verschil in machtspositie tussen consument en producent: - aantallen kopers en verkopers - rechten en plichten van koper en verkoper - productkennis - kennis van verkoopbevorderingstechnieken (zie EC/K/4A.3 marketing).",
 		"id": "21fc1da7-e37a-4f32-92da-b5dc255be17c",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/2.5a",
@@ -81773,7 +81783,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de invloed die (jonge) kopers uitoefenen op de omvang en aard van de productie: – die invloed verschilt per doelgroep: - grootte van de groep - de koopkracht - de bestedingen.",
 		"id": "a740aff3-37af-4d14-af48-bf904dd0fea2",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/2.5a",
@@ -81782,7 +81794,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de invloed die (jonge) kopers uitoefenen op de omvang en aard van de productie: jonge kopers hebben een belangrijke invloed vanwege: - de omvang van hun koopkracht - de invloed op de bestedingen bij hen thuis - de vorming van koopgewoonten.",
 		"id": "5790dd19-84a8-4ff9-a1b8-2ad06b06c11c",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/4A/4.2",
@@ -81791,7 +81805,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij debetsaldo/rood staan en creditsaldo/tegoed, debetrente en creditrente",
 		"id": "411419ec-a399-4121-abf2-d2d8673a10ca",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -81976,7 +81992,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de juridische ondernemingsvormen: de eenmanszaak – de VOF (Vennootschap onder Firma, N.B. De commanditaire VOF hoeft niet te worden gekend) – De BV (Besloten Vennootschap) – De NV (Naamloze Vennootschap) – De Stichting N.B. De coöperatie en haar diverse vormen, evenals de vereniging hoeft niet te worden gekend, maar kan wel in een casus ter sprake komen. N.B. ZZP (zelfstandige zonder personeel), geen juridische ondernemersvorm, maar wel een veel voorkomende bedrijfsvorm.",
 		"id": "08d95de1-2135-40c2-8d2e-4f05ccf4b6a1",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/1.10a",
@@ -81985,7 +82003,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de aansprakelijkheid, financiering en belastingregime van de diverse ondernemingsvormen: – verschil in aansprakelijkheid tussen de ondernemingsvormen.",
 		"id": "ef7c6cd3-0dd8-4574-9bcd-934a290d42aa",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/1.10b",
@@ -81994,7 +82014,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de aansprakelijkheid, financiering en belastingregime van de diverse ondernemingsvormen: – verschil in heffingen tussen de ondernemingsvormen.",
 		"id": "2620c9f3-780f-4de5-a4c0-2a64e262b4f0",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/1.10c",
@@ -82003,7 +82025,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de aansprakelijkheid, financiering en belastingregime van de diverse ondernemingsvormen: – vormen van beleggen in effecten (aandelen en obligaties), (meer exotische waardepapieren als opties, warrants en ook futures hoeven niet gekend te worden.)",
 		"id": "54708ebe-34ef-4dd4-8590-6e4836176507",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/1.10d",
@@ -82012,7 +82036,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de aansprakelijkheid, financiering en belastingregime van de diverse ondernemingsvormen: – risico van beleggen.",
 		"id": "d323d8a6-8381-4860-8f3d-30013734cf7a",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/1.11",
@@ -82021,7 +82047,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij vormen van samenwerking tussen ondernemingen: kartel, overname en fusie.",
 		"id": "9600ef30-b8d2-4816-81fa-5046aaf61e05",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -82085,7 +82113,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij emancipatorische aspecten bij arbeidsverdeling: – geen verschillen in toegankelijkheid van beroepen voor mannen en vrouwen geen beloningsverschillen voor dezelfde arbeid, wet gelijke behandeling, arbeidsmotieven, Arbowet, automatisering en mechanisering.",
 		"id": "f5edd7e3-b41a-4902-9323-0108a763bdd9",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/5A/4b",
@@ -82094,16 +82124,20 @@
 		],
 		"title": "De kandidaat betrekt daarbij emancipatorische aspecten bij arbeidsverdeling: mogelijkheden voor deeltijdarbeid, Wet op deeltijdarbeid, kinderopvang, kinderopvang als mogelijkheid om personeel aan te trekken en zodoende de mogelijkheid te bieden om zorg en werk te combineren; de inspanning die de overheid (subsidie) en werkgevers leveren om de kinderopvang te organiseren, verruiming van de bedrijfstijden, thuiswerken.",
 		"id": "78d884ed-ff6b-42cb-8136-ce6675adc917",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
-		"prefix": "EC/K/5A/5",
+		"prefix": "EC/K/5A/2.5",
 		"examenprogramma_eindterm_id": [
 			"8dedc0b5-4834-4e0e-a9ca-40a0b0016158"
 		],
 		"title": "De kandidaat betrekt daarbij interculturele aspecten bij arbeidsverdeling: – integratie van de allochtone beroepsbevolking in verschillende functies in het arbeidsproces.",
 		"id": "f1bae309-1774-4315-b06f-39c4af4f1306",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -82486,7 +82520,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij economische onderontwikkeling als een vicieuze cirkel: – een voorbeeld van een vicieuze cirkel: als gevolg van een laag inkomen per hoofd van de bevolking kan weinig gespaard en geïnvesteerd worden. Hierdoor is slechts een geringe uitbreiding van de productie(capaciteit) mogelijk waardoor het inkomen per hoofd van de bevolking laag blijft.",
 		"id": "949999a4-7838-48c1-a069-daf51712163f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7/3b.2",
@@ -82495,7 +82531,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij het nationaal inkomen per hoofd van de bevolking als gebrekkige maatstaf voor internationale welvaartsvergelijking: – het nationale inkomen (per hoofd van de bevolking) is een gebrekkige maatstaf, er wordt bijvoorbeeld geen rekening gehouden met: - zelfvoorziening - ongelijke inkomensverdeling - onbetaalde productie, zoals vrijwilligerswerk - factoren zoals de situatie in de gezondheidszorg, het analfabetisme - prijspeil van het land.",
 		"id": "8668d089-3677-432d-97e7-c24f29f5d6f6",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -82537,7 +82575,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de maatregelen: internationale hulp.",
 		"id": "ab2d4e99-5fa5-487d-a5dc-cfb67bc55776",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7.5/1c",
@@ -82546,7 +82586,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de maatregelen: (gunstige) voorwaarden bij kredietverlening met zogenoemde zachte leningen en de betekenis van het verstrekken van microkredieten (kredietkosten) in de strijd tegen de armoede.",
 		"id": "e49d8632-a3ea-4615-9eab-ed8877a91126",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7.5/1d",
@@ -82555,7 +82597,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij de maatregelen: bevorderen van vrije wereldhandel – handelsovereenkomsten – grondstofovereenkomsten.",
 		"id": "511e7286-0f44-49a7-9dee-7f6f960ede83",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -82575,7 +82619,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: de genoemde maatregelen en het Nederlandse ontwikkelingsbeleid hebben effecten op: - werkgelegenheid - inkomen - bestedingen.",
 		"id": "70194b99-4f9d-42d9-b7e8-563b4abf5cf0",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7.5/2c",
@@ -82584,7 +82630,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: de overheid is verantwoordelijk voor bijvoorbeeld: - ontwikkelingssamenwerking - internationale overeenkomsten.",
 		"id": "7895be37-c241-4a26-930e-c6584aff79db",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7.5/2d",
@@ -82593,7 +82641,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: particulieren zijn verantwoordelijk voor bijvoorbeeld: - eigen activiteiten.",
 		"id": "6a5ea5b6-b065-48b5-83f8-92428fe8fab0",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"prefix": "EC/K/7.5/2e",
@@ -82602,7 +82652,9 @@
 		],
 		"title": "De kandidaat betrekt daarbij het Nederlandse ontwikkelingsbeleid: non gouvernementele organisaties.",
 		"id": "eb3dc507-32cd-4b2e-91cd-46c18753972c",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"description": "",
@@ -82622,6 +82674,657 @@
 		],
 		"title": "De kandidaat betrekt daarbij invloed op overheid: onderscheid tussen hulp in relatieve en absolute zin en de gevolgen voor de overheid en de ontwikkelingslanden.",
 		"id": "d89976e8-b99d-44bf-8b33-97d20438996f",
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
+	},
+	{
+		"prefix": "EC/K/3.5c",
+		"examenprogramma_eindterm_id": [
+			"3023586d-8685-4f5d-b828-138562e604a8"
+		],
+		"title": "De kandidaat kan rekenvaardigheden toepassen op economische relatie, zoals verhoudingen hanteren (indexcijfers, procenten, breuken, decimalen) toelichting bij de indexcijfers:\r\n- partiële indexcijfers: nieuwjaar/basisjaar*100\r\n- samengestelde ongewogen indexcijfers: ∑ partiële indexcijfers/aantal \r\n- samengestelde gewogen indexcijfer: ∑ (partiële indexcijfers * gewicht)/∑ van de gewichten",
+		"id": "66404ca0-da55-441b-8122-16bb495e3284",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/5.2a",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij financiële instellingen en andere als bemiddelaars tussen vragers en aanbieders van geld: de gezinnen, de bedrijven en de overheid als vrager en aanbieder van geld.",
+		"id": "6885678b-1e59-4a80-914f-dce36ebce754",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/4A/5.2b",
+		"examenprogramma_eindterm_id": [
+			"518b0619-3083-4038-ad2b-e263ec362aaa"
+		],
+		"title": "De kandidaat betrekt daarbij financiële instellingen en andere als bemiddelaars tussen vragers en aanbieders van geld: de financiële instellingen als doorgeefluik van geld en/of bemiddelaars tussen vragers en aanbieders.",
+		"id": "029f5136-1703-4be9-9a1b-397250730a33",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.1a",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid, zowel de rijksoverheid als de lagere overheden, als leverancier of producent van goederen en diensten en als besteder de collectieve sector is het domein waarin de productie en de consumptie van de overheid plaatsvindt, het onderscheid tussen collectief / individueel goed(eren).",
+		"id": "41ef98e1-c0f1-4c32-bc09-310dffd61e40",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/1.1b",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid, zowel de rijksoverheid als de lagere overheden, als leverancier of producent van goederen en diensten en als besteder het parlement is het wetgevend en controlerend orgaan voor de voorbereidende en uitvoerende overheid (rijksbegroting, miljoenennota), waar zaken als de begroting, bezuinigingen, nationalisering, regulering en deregulering en alle andere overheidsplannen worden besproken.",
+		"id": "c35dd2ac-edbf-491a-aa3d-fd033cf48e07",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/1.1c",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid, zowel de rijksoverheid als de lagere overheden, als leverancier of producent van goederen en diensten en als besteder de collectieve sector is onder te verdelen in \r\n- de overheidssector (rijksoverheid en lagere overheden) waarbij inbegrepen de gesubsidieerde sectoren. \r\n- de sociale zekerheid: volksverzekeringen (bijv. AKW, AOW), werknemersverzekeringen ( bijv. WIA), sociale voorzieningen ( bijv. bijstand ) \r\n- bij sociale verzekeringen horen premies (zoals ook bij de pensioenen), sociale voorzieningen worden betaald uit de algemene middelen.\r\n(N.B. Deze definities plegen in de loop van de tijd te veranderen. Er kan verwezen worden naar definities van het CBS en/of CPB.)",
+		"id": "28304910-2c94-4c01-ab2f-13a46c349b93",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.2",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid als werkgever: – in formele zin is de overheid de werkgever van de ambtenaren",
+		"id": "fa41f5ca-24e9-41cb-b5e3-01dbb8ae0c4c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.3",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid heeft een belangrijke invloed in de gesubsidieerde sectoren zoals gezondheidszorg, onderwijs, welzijnswerk, enz.",
+		"id": "ef128be0-293b-4b38-9245-f91143420908",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.4a",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid als verantwoordelijke voor aanvullende, corrigerende en voorwaardenscheppende activiteiten: onderscheid tussen collectieve sector en particuliere sector.",
+		"id": "bc81f4c7-a19a-449f-9fce-2517726a1db1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.4b",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid als verantwoordelijke voor aanvullende, corrigerende en voorwaardenscheppende activiteiten: voorbeelden van aanvullende, corrigerende en voorwaardenscheppende activiteiten: - deelname in of eigenaar van bedrijven, wetgeving en sancties, subsidies en heffingen, infrastructuur, politie, onderwijs, bestedingen in de particuliere sector.",
+		"id": "6cee1b90-c024-4341-b2e9-6c68cf32d74e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.4c",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid als verantwoordelijke voor aanvullende, corrigerende en voorwaardenscheppende activiteiten: de verhouding tussen actieven en niet-actieven (N.B. Het gaat hierbij niet om ingewikkelde berekeningen, maar bijvoorbeeld om interpretaties van wijzigingen.)",
+		"id": "caf28e43-4f27-49aa-a39b-a37810aa41da",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.4d",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de overheid als verantwoordelijke voor aanvullende, corrigerende en voorwaardenscheppende activiteiten: de vrijheid voor consumenten en producenten in de Nederlandse economie binnen de door de overheid gestelde randvoorwaarden zoals de wetgeving voor de productaansprakelijkheid, de kwaliteit van de verkochte goederen, prijsafspraken, het bestemmingsplan van een bepaald gebied en het bevorderen van de concurrentie.",
+		"id": "410d1d02-67e7-436b-839b-6988f0cfa81b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/1.5",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij adviesorganen: – CPB (Centraal Plan Bureau) – CBS (Centraal Bureau voor de Statistiek) – SER (Sociaal Economische Raad)",
+		"id": "db7660fe-a810-45b1-af76-5b18dbc51244",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.1",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij indirecte belastingen: BTW: – BTW als consumentenbelasting die door de leverancier wordt afgedragen – berekeningen met BTW",
+		"id": "86556f9f-ba59-4106-85ed-d55bcf161e3a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.2",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij indirectie belastingen: accijns: – accijns als belasting waarmee de overheid het consumentengedrag kan beïnvloeden en met behulp van verstrekte gegevens kunnen bepalen welk aandeel accijns uitmaakt van de prijs van producten waarop accijns geheven wordt.",
+		"id": "1b00506c-7740-4c6d-8c9c-f66749105361",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.3",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij directe belastingen: loon- en inkomstenbelasting:  een loonstrookje / loonspecificatie kunnen lezen – loonheffing: - loonbelasting en premie volksverzekeringen– loonheffing die de werkgever inhoudt op het loon van de werknemer – ondernemers en zelfstandige beroepsbeoefenaren die inkomstenbelasting afdragen over hun winst.",
+		"id": "61fdd5a6-f1cd-4a3f-93fd-521039e4cb33",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.4",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij houderschapsbelasting: – de motorrijtuigenbelasting als voorbeeld van een houderschapsbelasting – met behulp van tabellen de motorrijtuigenbelasting kunnen bepalen voor voertuigen die gebruikmaken van benzine, diesel, lpg en elektrisch.",
+		"id": "ef4c1054-7a5e-485a-91a2-10467cb796a2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.5",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij gemeentelijke belastingen: – het recht van gemeenten om zelfstandig een aantal belastingen te heffen en de tarieven daarvan vast te stellen en de Onroerende Zaak Belasting (OZB), de Rioolrechten, de Afvalstoffenheffing en andere.",
+		"id": "5be226c9-d84f-4b87-86fe-db2da5459e78",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/2.6",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgaven naar departement: – de kandidaat heeft een globaal inzicht in de taken van de departementen en aan de hand van overzichten, gebaseerd op de miljoenennota, heeft de kandidaat globaal inzicht in de uitgaven van de departementen.",
+		"id": "263b26c6-5b56-4593-bf8c-c96a4613d25a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/K/6/3a",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij het doel van het sociale zekerheidsstelsel: - bestaanszekerheid verschaffen en inkomensherverdeling: secundaire versus primaire inkomensverdeling.",
+		"id": "c47306d2-f99c-48f4-a520-9974c9fc3ae4",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/3b",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij aan de hand van gegeven informatie over één of meer sociale wet(ten) vragen beantwoorden of opdrachten maken over bijvoorbeeld de financiering, het nut, de doelgroep, de verstrekking van de uitkering.",
+		"id": "d016bcf8-a73d-44cf-8640-dc34233b1a6a",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/3c",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij het onderscheid tussen werknemers- en volksverzekeringen.",
+		"id": "fd4f72a0-41c8-4fea-a4e1-94b88b61ca97",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/3d",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij het onderscheid tussen sociale voorzieningen en sociale verzekeringen.",
+		"id": "b7409b74-a92c-49b7-a829-2537d8bafcec",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/3e",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de ontwikkeling van de kosten van het stelsel van sociale zekerheid: de toename van de kosten door de vergrijzing.",
+		"id": "efcb1b2c-1231-4d49-8534-15473bbc0b13",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/K/6/3f",
+		"examenprogramma_eindterm_id": [
+			"5e83446b-83ff-497e-8027-6d7c2c9a7ab8"
+		],
+		"title": "De kandidaat betrekt daarbij de bezuiniging op de kosten door: minder uitkeringen, fraudebestrijding, aanscherpen van de eisen, verlaging van de uitkeringen en de marktwerking waarbij de overheid het stelsel van sociale zekerheid (deels) aan de markt over laat.",
+		"id": "ce4a1f33-c425-4cc2-8e9a-56d68c020d52",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de collectieve lasten: belastingen, niet belastingen en sociale verzekeringspremies de ontvangsten: belastingen op consumentenbestedingen: \r\n- BTW\r\n- de omzetbelasting (BTW) wordt in de EU geheven volgens het systeem van de toegevoegde waarde \r\n- de omzetbelasting moet de kandidaat kunnen noemen: de grondslag, de tarieven, de inningwijze en de wijze van berekenen (zie EC/K/5A.1) \r\n- voor de BTW gelden verschillende tarieven die in de EU-landen onderling nog verschillen en daardoor invloed kunnen hebben op het kooppatroon van de EU-burgers, de ontvangsten van de overheid en de werkgelegenheid in eigen land (N.B. De hoogte van de verschillende tarieven in de verschillende landen worden gegeven.)\r\n- accijns op verbruiksgoederen: de kandidaat moet een (cijfermatig) inzicht hebben in het prijsverhogende effect op producten.",
+		"id": "9bbeb8c9-adca-43cd-a840-a710b7535006",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/1b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de collectieve lasten: belastingen, niet belastingen en sociale verzekeringspremies de ontvangsten belastingen op inkomen en winst:\r\n- loon- en inkomstenbelasting: - loondienst versus zelfstandig ondernemerschap (zelfstandige beroepsbeoefenaren en eenmanszaken)\r\n- vennootschapsbelasting: - de nettowinst van de naamloze en besloten vennootschappen als heffingsgrondslag.",
+		"id": "756a362c-5c1a-4d04-b404-2a32a9848b62",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/1c",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de collectieve lasten: belastingen, niet belastingen en sociale verzekeringspremies de ontvangsten: belastingen op bezit: \r\n- houderschapsbelasting, zoals de motorrijtuigenbelasting: - met behulp van tabellen de hoogte van de motorrijtuigenbelasting kunnen bepalen - het belang van de motorrijtuigenbelasting voor de overheidsbegroting, het profijtbeginsel.",
+		"id": "dcccfa3e-b60a-4f07-a397-39888792cfcc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/1d",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de collectieve lasten: belastingen, niet belastingen en sociale verzekeringspremies de ontvangsten: gemeentelijke belastingen en heffingen:\r\n- onroerende zaakbelasting als belangrijkste component van de gemeentelijke belastingen: - per gemeente een verschil in belastingregime, onder meer tot uiting komend in de WOZ - de basisprincipes van de aanslag, het tarief en de heffing van de onroerende zaakbelasting \r\n- leges.",
+		"id": "f7fb6fbf-8d18-4e35-b56a-e3f0e65fb036",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/1e",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de collectieve lasten: belastingen, niet belastingen en sociale verzekeringspremies de ontvangsten: niet belastingmiddelen, voorbeelden: aardgasbaten, boetes, milieuheffingen, opbrengsten uit deelnemingen in naamloze vennootschappen (bijvoorbeeld De Nederlandse Bank en de Nederlandse Aardolie Maatschappij).",
+		"id": "c313e127-7d8d-40af-b362-ddb17a726a23",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/2a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgaven de indeling van de uitgaven van de overheid: - naar departement: - een globaal inzicht in de taken van de departementen - inzicht in de naar uitgaven vastgestelde rangorde van de departementen aan de hand van overzichten, gebaseerd op de miljoenennota, dient de leerling te bezitten",
+		"id": "2deb0d04-f62e-445c-a700-9b6be7dfeb72",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/1/2b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgaven de ontwikkeling van de omvang van de staatsschuld en de maatregelen om de staatsschuld te verminderen: \r\n- het begrotingstekort/ begrotingsoverschot: \r\n- de ontwikkeling van de staatsschuld in relatie tot het tekort / overschot van de overheid\r\n- de druk van rente en aflossing op de uitgaven van de overheid \r\n- de maatregelen om begrotingstekort en staatsschuld te verminderen, mede in het kader van afspraken in de EMU (zie K7/02/04) (N.B. Binnen een gegeven casus kan gevraagd worden naar dit soort maatregelen. Parate kennis van zaken als het stabiliteitspact wordt niet verondersteld.)\r\n- het begrotingstekort en het financieringstekort en de relatie tussen beide en (de ontwikkeling van) de staatsschuld.",
+		"id": "a7a886ad-5b5a-43f2-aa9b-048aa34e7529",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgangspunten van belastingheffing: draagkrachtbeginsel – profijtbeginsel.",
+		"id": "6af61b96-85ce-4ffd-9da1-1fc579e24104",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/1b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgangspunten van belastingheffing: het draagkrachtbeginsel, het profijtbeginsel en het solidariteitsbeginsel aan de hand van voorbeelden kunnen herkennen.",
+		"id": "f740d0ba-6e3d-4a09-b001-784be3496cb3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/1c",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgangspunten van belastingheffing: de proportionele en progressieve belastingheffing, onder meer tot uiting komend in het schijventarief, verschil met degressieve belastingheffing.",
+		"id": "b741e623-fb6f-4e6d-94d2-9164e6edfcfa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/1d",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de uitgangspunten van belastingheffing: belastingontduiking en belastingontwijking, zwart en grijs circuit, belastingvlucht.",
+		"id": "62cc39af-cf49-42b2-a271-44ac2ba29a0b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/2a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de inningwijze van de loon- en inkomstenbelasting en de premieheffing volksverzekeringen: \r\n– de inning van de loonheffing vindt plaats door de werkgever die aan de hand van tabellen de hoogte van de loonbelasting en de premie voor de volksverzekeringen bepaalt: \r\n- de werkgever draagt de ingehouden loonheffing af aan de belastingdienst - iedere in dienst getreden werknemer dient een loonbelastingverklaring te ondertekenen.",
+		"id": "29526eb3-07b4-4fbb-835a-e329662ae2a1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/2b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de inningwijze van de loon- en inkomstenbelasting en de premieheffing volksverzekeringen: \r\n– de inning van inkomstenbelasting vindt plaats aan de hand van een door de belastingplichtige ingevuld aangifteformulier: - de belastinginspecteur berekent aan de hand van de aangifte de inkomstenbelasting en legt de aanslag op NB: geen berekeningen met het schijventarief.",
+		"id": "12c73301-85fc-4fe2-bf05-ff5cb863e562",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/2c",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de inningwijze van de loon- en inkomstenbelasting en de premieheffing volksverzekeringen: \r\n– elementen die van toepassing zijn bij de belastingheffing zijn bijvoorbeeld aftrekposten, eigenwoningforfait, vermogensrendementsheffing, heffingsgrondslag, verschillende heffingskortingen zoals de arbeidskorting.",
+		"id": "4c2b2a98-19ca-41f6-a81f-5cda7cae2512",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1/2/2d",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de inningwijze van de loon- en inkomstenbelasting en de premieheffing volksverzekeringen: \r\n– verschil tussen belastbaar inkomen, besteedbaar inkomen, bruot inkomen, netto inkomen en koopkracht.",
+		"id": "fccf4836-6fb3-4293-abf2-59f038539fff",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.3/1",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij:  de factoren die de hoogte van het inkomen beïnvloeden: – schaarste – arbeidstijd – productiviteit – macht – scholing – mate van verantwoordelijkheid – leeftijd – zwaarte en (on)aangenaamheid van het werk.",
+		"id": "3ae0db12-e2f5-471c-9478-9424e1b70cc8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.3/2",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de beperkte betekenis van welvaartsvergelijking op basis van het inkomen per hoofd in relatie tot: – inkomen versus vrije tijd – kwaliteit van het bestaan – milieu.",
+		"id": "39115970-b9ad-4864-942e-f35e043b34b8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.4/1",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: nivelleren/denivelleren (N.B. geen berekeningen): \r\r\r\r\n– de begrippen nivelleren en denivelleren als veranderingen in de inkomensverhoudingen: - de verschillende manieren van inkomens(de)nivellering: - subsidies - aftrekposten - de heffing van de loon- en inkomstenbelasting - loonstijging in euro’s versus in procenten - inkomensoverdrachten en sociale zekerheid",
+		"id": "82ab8427-9ef7-4150-b4d2-0e4def6f44ea",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: de meting van inflatie/deflatie met behulp van de consumentenprijsindex, berekeningen met indexcijfers: \r\n– het begrip inflatie in de betekenis van algemene prijsstijging van goederen en diensten.",
+		"id": "cf53b540-1768-40a1-80b4-ade1ddae542e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/1b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: de meting van inflatie/deflatie met behulp van de consumentenprijsindex, berekeningen met indexcijfers: \r\n– de waardevermindering van het geld als gevolg van prijsstijging.",
+		"id": "c50f502d-4be5-45a6-98b7-8e474af81ec4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/1c",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: de meting van inflatie/deflatie met behulp van de consumentenprijsindex, berekeningen met indexcijfers: \r\n– de reden voor en de betekenis van de wegingsfactoren bij het bepalen van de inflatie door middel van het consumentenprijsindexcijfer.",
+		"id": "1d59670d-ef19-403e-87d0-4d701c07a7c0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/1d",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: de meting van inflatie/deflatie met behulp van de consumentenprijsindex, berekeningen met indexcijfers:  \r\n– enkelvoudige indexcijfers berekenen, indices kunnen vergelijken.",
+		"id": "01b874b0-84d8-4e32-abed-3777fe7fb9e3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/1e",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij: de meting van inflatie/deflatie met behulp van de consumentenprijsindex, berekeningen met indexcijfers:  \r\n– berekeningen met samengestelde ongewogen en gewogen indexcijfers.",
+		"id": "6868da4a-b1c0-4df1-a259-372ab229d102",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/2",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij oorzaken van prijsveranderingen, de belangrijkste oorzaken van prijsstijging: - de vraag naar goederen en diensten overtreft het aanbod, productiecapaciteit - daling van het aanbod - stijging van de vraag - als de kosten stijgen (ook stijging van belastingen en prijzen van overheidsdiensten) wordt dit doorberekend in de prijzen - de gestegen prijzen van geïmporteerde goederen worden doorberekend in de prijzen - vergroting van de winstmarges leidt tot hogere prijzen - ontwikkelingen van de bezettingsgraad",
+		"id": "ab88487d-e4cc-4b0d-bd36-6e2ecd1b12c5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.5/3",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij gevolgen van prijsveranderingen, de belangrijkste gevolgen van prijsstijging: - daling koopkracht - geldontwaarding - onzekerheid in het economisch verkeer - verslechtering (internationale) concurrentiepositie - verandering in de vermogensposities - daling besparingen.",
+		"id": "8c9e4dad-cba5-4f8d-a8c4-e5348f6093fe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.6/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij samenhang tussen de begrippen nominaal inkomen, prijscompensatie en reëel inkomen: \r\n– de samenhang tussen de stijging van het nominaal inkomen en de stijging van het reëel inkomen, rekening houdende met inflatie (bij benadering berekenen met de formule: nominale verandering in % - inflatie in % = reële verandering in %).",
+		"id": "95b7b800-fa56-4883-9c0d-902d2dac5bb8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.6/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij samenhang tussen de begrippen nominaal inkomen, prijscompensatie en reëel inkomen: \r\n– het handhaven van de koopkracht door afspraken over de doorberekening van de gestegen prijzen in de nominale lonen (prijscompensatie).",
+		"id": "b17d014d-d2ba-4d9c-b9ed-ad2da45fe263",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– onderscheid concrete markt en abstracte markt- op de markt komen de evenwichtsprijs en evenwichtshoeveelheid tot stand door vraag en aanbod.",
+		"id": "4454796c-507a-4627-a40b-fcf968e42dea",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– onderscheid concrete markt en abstracte markt- op de markt komen de evenwichtsprijs en evenwichtshoeveelheid tot stand door vraag en aanbod",
+		"id": "3e97e48c-1e9d-4ae9-87e8-ab263ea652d0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1c",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– kunnen aflezen van evenwichtsprijs en evenwichtshoeveelheid.",
+		"id": "5a79fd5b-6c24-4fbd-8478-56843ff61a26",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1d",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– verschuivingen kunnen tekenen m.b.v. gegeven coördinaten, lezen en interpreteren van vraag- en aanbodcurves door wijziging voorkeuren, toename aantal aanbieders en vragers, innovaties, etc.",
+		"id": "a45412f0-cb96-49b3-a3a8-2e32390c2c9d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1e",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n- overheidsingrijpen.",
+		"id": "4b54db8a-3586-4f0d-ab74-2d92f94b8363",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1f",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– de marktvorm wordt bepaald door aantal vragers en aanbieders, heterogeniteit of homogeniteit.",
+		"id": "d0baeb99-03be-40fb-a69d-22912afd8aff",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.7/1g",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij de kenmerken: markt en marktvormen \r\n– van het product, de toetredingsmogelijkheden, de transparantie van de markt: - volkomen concurrentie - heterogeen en homogeen oligopolie - monopolistische concurrentie - monopolie (natuurlijk, overheids- en economisch).",
+		"id": "4462b44c-7a6c-458e-ad88-32b4ec891ccc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "",
+		"prefix": "EC/V/1.8/1a",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij het economisch (markt)proces in Nederland vindt plaats in een markteconomie, waarbij ondernemers (producenten) met elkaar concurreren en burgers (consumenten) koopkrachtige vraag uitoefenen.",
+		"id": "aff2a82f-ad0f-4635-89e7-6f9e50546b83",
+		"unreleased": true
+	},
+	{
+		"prefix": "EC/V/1.8/1b",
+		"examenprogramma_eindterm_id": [
+			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc"
+		],
+		"title": "De kandidaat betrekt daarbij als de uitkomst van het economisch proces onacceptabel wordt gevonden, grijpt de overheid in door middel van maximum- of minimumprijzen, sociale wetgeving (wet op het minimumloon) en andere maatregelen.",
+		"id": "87d795de-0193-4add-b59a-2d7968f14710",
 		"unreleased": true
 	}
 ]
