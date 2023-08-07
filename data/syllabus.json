@@ -32370,5 +32370,50 @@
 		"title": "Syllabus Filosofie vwo 2024",
 		"id": "17b028ff-00ca-43f1-80f4-3e6e6667282c",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"b185befa-5240-4a61-847a-7e564c0200bf"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"12ff92a3-5f6c-478d-95dd-ff3a1a06c796",
+			"36337f77-b888-48fa-8935-d94f4a319f44",
+			"4f5cfc02-4a9c-4c67-99c2-d3a0c26e76da",
+			"3870ea6d-8ff3-4318-ae39-cb2a37b6ec57",
+			"e2d28d3e-6733-4565-89ed-f11b19e97df6",
+			"d76c7d4f-86ab-4cc6-81a7-d5cbe70e28ef",
+			"e60648f8-f767-47f5-905f-b3a014f67fe9",
+			"bf170b2e-3bcd-402e-be2f-a06d1160ce4a",
+			"5aec898b-13bc-4a68-93a4-d8777adc730d",
+			"c7aff808-956f-434c-9cea-b033d4eeeb8e",
+			"0f929ec5-5813-4fe9-b681-2cc6e59eddf4",
+			"2fd1719f-48d5-43bf-87e6-c4d8e32cc6e5",
+			"d2335817-062f-4aab-a7c8-1c6c5e6a1544",
+			"3a3f5dae-0fdd-454f-9048-6e8f7ae11f95",
+			"26be1ec8-615e-42d5-b5d8-347f95d690a7",
+			"8c555b28-dd55-4d25-ae30-ff589f4e15ab",
+			"8afa19fa-ed60-4160-bffe-dfd7384494a9",
+			"501fcfa0-d04e-4977-8b1b-6c02e7852ae4",
+			"6b06a891-95dd-491f-bbee-7a64983c597c",
+			"eaa28855-d02f-4238-ad57-7e948ea918d1",
+			"873514d4-7917-4d90-a494-a63723e63bde",
+			"1fdf0f35-8f74-4c64-9e4a-6fbd86834809",
+			"1d97bcb4-212b-42d7-915a-358d780ea54f",
+			"6a21d9a5-57b6-4198-b965-a34df512f57b",
+			"c1fad197-09c1-4890-b00c-f9c157b45267"
+		],
+		"title": "Syllabus Geschiedenis havo 2024",
+		"id": "711f07f6-2e46-47e8-9da4-2d302db403ce",
+		"unreleased": true
 	}
 ]
