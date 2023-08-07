@@ -32415,5 +32415,67 @@
 		"title": "Syllabus Geschiedenis havo 2024",
 		"id": "711f07f6-2e46-47e8-9da4-2d302db403ce",
 		"unreleased": true
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"5fbc4877-8077-4404-988b-f623203730a2"
+		],
+		"syllabus_vakleergebied_id": [
+			"3f00e2d9-72b7-4e7e-83f1-4c4638780f24"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"fe84c32c-0215-450f-848b-f4a105cb122c",
+			"38113410-4677-44bd-a472-d4df8e697ca5",
+			"29be8bb7-8c06-4b79-98d2-4282031239fa",
+			"72f33b41-71e7-44e1-bddd-cf7ea525474d",
+			"5cebfc68-e998-461e-8aa1-fbb36167271d",
+			"6ab8c6de-0186-477b-8323-6144eca536c9",
+			"e517f8ad-3ce0-4a45-b51e-b7d8c0a19c62",
+			"606af8a1-f3ed-491b-8aa6-7305719aa0b0",
+			"aa1007f8-f3f7-4b5e-985b-9a5fd9909335",
+			"bc0eea29-f3f2-44f8-a643-12e7340df933",
+			"d8062386-ec16-4431-87b1-4ca0fe95596c",
+			"8346945c-108f-4c15-86b7-6baa1c19f731",
+			"d8e7ba05-f1b8-4ed8-b702-a4a636a564e5",
+			"e6a07b95-768b-4139-bcc7-1a32f99eaf77",
+			"4e4fcf82-dc0f-4422-a0b2-4f9005d53630",
+			"f35806cc-ef64-448f-85df-70e19246e427",
+			"bb0633aa-0028-46d9-af20-0f049ce3f984",
+			"08308474-23b7-4b3e-b824-c507176ae6c4",
+			"5267dff5-a760-48f9-ac49-cebacdf86c25",
+			"6e956415-d6fd-4b3c-9578-4b5801aa1ec0",
+			"631d3349-8f97-45af-a0e2-c29cc09787ad",
+			"0cd964c8-289b-4007-95c1-6e0521d90745",
+			"67499639-a14f-453a-89dd-21e7f394f3a4",
+			"352d26c5-a801-45ef-8ded-988c73974fda",
+			"2efd590b-002c-4c06-bd84-66600bc23c3f",
+			"27bbdd02-1c59-46e4-8147-4306b37eb1bb",
+			"e7976f78-ecb8-4d7d-ac85-b6ee83690c95",
+			"988b34d3-4d72-47ef-89fc-3958a5e95e65",
+			"319e9543-8766-4bcc-96fe-bd55ef2873b0",
+			"bd81d94d-b9a1-4b81-ad24-239a3b539786",
+			"45f6912b-075b-4ef5-97f0-b3d5108743a8",
+			"118b2d8e-84d3-4693-a05c-af817f368555",
+			"64651605-06b9-454c-9738-32078fc7fbe2",
+			"c3cfe632-c7a6-4a32-8c52-4b1031ab190b",
+			"ac2b4527-1fc8-4a9d-a568-c7dd9eedd12a",
+			"9d84c32b-a8e8-4778-aea9-13e4f0b3a064",
+			"92ebe049-8f2a-4b6a-a902-9a178cfede9b",
+			"9cfb82f4-3f86-4069-bb2a-89c0acf3777f",
+			"4097dc1f-c4b3-4382-b966-8ba1a8c963f7",
+			"5f9a3379-bdc4-42d0-8a55-bf6ce7ace8cf",
+			"5ebc0c8c-9c8b-488d-8b82-276496a6bea2",
+			"56b3ef6d-ba77-4f12-a46e-834db2c5a086"
+		],
+		"title": "Syllabus Geschiedenis en staatsinrichting vmbo tl 2024",
+		"id": "0db73121-d8b0-4780-a206-9d90ca157df5",
+		"unreleased": true
 	}
 ]
