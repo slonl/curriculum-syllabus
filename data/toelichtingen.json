@@ -6339,12 +6339,13 @@
 		"examenprogramma_eindterm_id": [
 			"58e35aac-c580-4da3-9d68-bcd12fb0a42b"
 		],
-		"title": "De toonaangevende visies waarin:\r\r\r\n– geest (ziel) en lichaam tegenover elkaar worden geplaatst (dualisme);\r\r\r\n– door de inwerking van de vorm (ziel) op de stof (lichaam) een betrekkelijke eenheid ontstaat (Aristoteles; Christelijk Aristotelisme);\r\r\r\n– het mens-zijn in verband wordt gebracht met lichamelijke processen, in het bijzonder met hersenprocessen (materialisme, philosophy of mind);\r\r\r\n– de mens wordt beschouwd als een functioneel onderdeel van een dominant systeem (structuralisme);\r\r\r\n– de mens wordt gezien als een onderdeel van de evolutie en als biologisch-genetische eenheid (sociobiologie).",
+		"title": "De toonaangevende visies waarin:\r\r\r\r\n– geest (ziel) en lichaam tegenover elkaar worden geplaatst (dualisme);\r\r\r\r\n– door de inwerking van de vorm (ziel) op de stof (lichaam) een betrekkelijke eenheid ontstaat (Aristoteles; Christelijk Aristotelisme);\r\r\r\r\n– het mens-zijn in verband wordt gebracht met lichamelijke processen, in het bijzonder met hersenprocessen (materialisme, philosophy of mind);\r\r\r\r\n– de mens wordt beschouwd als een functioneel onderdeel van een dominant systeem (structuralisme);\r\r\r\r\n– de mens wordt gezien als een onderdeel van de evolutie en als biologisch-genetische eenheid (sociobiologie).",
 		"id": "546c065f-2f83-411c-9091-308318228de1",
 		"description": "",
 		"replaces": [
 			"1e7c043a-c4a4-4624-ac3e-8c28f1a4c674"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -6352,12 +6353,13 @@
 		"examenprogramma_eindterm_id": [
 			"edc6eeb8-9db0-4fcb-a9de-6472bb5b0460"
 		],
-		"title": "De toonaangevende visies waarin:\r\r\r\n– de mens wezenlijk op het goede betrokken is (Plato);\r\r\r\n– de mens als gemeenschapswezen deugd als uitgangspunt neemt (Aristoteles, Thomas, MacIntyre, Nussbaum);\r\r\r\n– morele afweging altijd uitgaat van principes en/of plicht ongeacht tot welke resultaat deze afweging leidt (Kant);\r\r\r\n– het goede datgene is wat leidt tot de maximalisering van geluk (Mill);\r\r\r\n– waarden door de mens zelf moeten worden gecreëerd (Nietzsche);\r\r\r\n– de ethiek gebaseerd is op communicatief handelen (Habermas).",
+		"title": "De toonaangevende visies waarin:\r\r\r\r\n– de mens wezenlijk op het goede betrokken is (Plato);\r\r\r\r\n– de mens als gemeenschapswezen deugd als uitgangspunt neemt (Aristoteles, Thomas, MacIntyre, Nussbaum);\r\r\r\r\n– morele afweging altijd uitgaat van principes en/of plicht ongeacht tot welke resultaat deze afweging leidt (Kant);\r\r\r\r\n– het goede datgene is wat leidt tot de maximalisering van geluk (Mill);\r\r\r\r\n– waarden door de mens zelf moeten worden gecreëerd (Nietzsche);\r\r\r\r\n– de ethiek gebaseerd is op communicatief handelen (Habermas).",
 		"id": "c08691cb-6e95-4de3-8214-a1be59982465",
 		"description": "",
 		"replaces": [
 			"2d2da5c1-8b9a-415e-8c45-ab19d6089e2c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -6365,12 +6367,13 @@
 		"examenprogramma_eindterm_id": [
 			"9a5e23d2-b4f2-4fdf-8970-3b9af3773969"
 		],
-		"title": "De toonaangevende visies waarin:\r\r\r\n– kennis verband houdt met de kennis van de oervormen (Plato);\r\r\r\n– kennis als uitgangspunt de alledaagse ervaring en waarneming heeft (Aristoteles);\r\r\r\n– kennis primair een proces is van rationeel denken (Descartes);\r\r\r\n– kennis is gebaseerd op zintuiglijke ervaring (Locke, Hume, Nagel);\r\r\r\n– kennis voortkomt uit een synthese van ervaring en denken (Kant, neokantianisme);\r\r\r\n– kennis voortkomt uit verbeeldingskracht (constructivisme, narrativisme).",
+		"title": "De toonaangevende visies waarin:\r\r\r\r\n– kennis verband houdt met de kennis van de oervormen (Plato);\r\r\r\r\n– kennis als uitgangspunt de alledaagse ervaring en waarneming heeft (Aristoteles);\r\r\r\r\n– kennis primair een proces is van rationeel denken (Descartes);\r\r\r\r\n– kennis is gebaseerd op zintuiglijke ervaring (Locke, Hume, Nagel);\r\r\r\r\n– kennis voortkomt uit een synthese van ervaring en denken (Kant, neokantianisme);\r\r\r\r\n– kennis voortkomt uit verbeeldingskracht (constructivisme, narrativisme).",
 		"id": "04664557-9ab4-4651-bd4d-66931af96632",
 		"description": "",
 		"replaces": [
 			"49c71f54-e546-47aa-8a2c-3efb02f346d0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -6378,12 +6381,13 @@
 		"examenprogramma_eindterm_id": [
 			"835eb209-797f-47d9-b48c-2ee0c50f6980"
 		],
-		"title": "De toonaangevende visies waarin:\r\r\r\n– wetenschap gebaseerd is op positieve feiten (Comte, Wiener Kreis);\r\r\r\n– wetenschap gezien wordt als toetsing van theorie aan het experiment (Hempel; Popper);\r\r\r\n– de wetenschappelijke gemeenschap wetenschappelijke denkpatronen (paradigma’s) bepaalt (Kuhn);\r\r\r\n– vele methoden van onderzoek als wetenschappelijk worden beschouwd (Feyerabend);\r\r\r\n– wetenschap als interpretatie wordt benaderd (hermeneutiek);\r\r\r\n– wetenschap als maatschappelijke praktijk wordt gezien (Latour).",
+		"title": "De toonaangevende visies waarin:\r\r\r\r\n– wetenschap gebaseerd is op positieve feiten (Comte, Wiener Kreis);\r\r\r\r\n– wetenschap gezien wordt als toetsing van theorie aan het experiment (Hempel; Popper);\r\r\r\r\n– de wetenschappelijke gemeenschap wetenschappelijke denkpatronen (paradigma’s) bepaalt (Kuhn);\r\r\r\r\n– vele methoden van onderzoek als wetenschappelijk worden beschouwd (Feyerabend);\r\r\r\r\n– wetenschap als interpretatie wordt benaderd (hermeneutiek);\r\r\r\r\n– wetenschap als maatschappelijke praktijk wordt gezien (Latour).",
 		"id": "5591af9f-23cb-4c22-8b3f-2c2d7c25a172",
 		"description": "",
 		"replaces": [
 			"5bf097c3-40f2-4658-a7c3-2708bbb1be6f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -32648,6 +32652,14 @@
 		"ce_se": "CE",
 		"title": "De Punische Oorlogen In de vijfde en vierde eeuw v.Chr. was Carthago een grootmacht waarvan de machtspositie vooral op de vloot rustte. De Romeinen sloten verschillende verdragen met de Carthagers, maar uiteindelijk brak in de derde eeuw v. Chr. toch een militair conflict uit: de Eerste Punische Oorlog (264-241 v. Chr.). De Romeinen wonnen deze oorlog.",
 		"id": "1bc00e06-b104-4164-bf5e-9c1dd0ac9a11",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"ce_se": "CE",
+		"prefix": "FI/V/Onderwerp",
+		"title": "Onderwerp: De vraag naar de mens in relatie tot techniek en wetenschap.",
+		"id": "0308e443-d391-4f86-9f3d-392a4913cc08",
 		"unreleased": true
 	}
 ]
