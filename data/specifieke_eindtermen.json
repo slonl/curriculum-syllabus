@@ -75097,7 +75097,8 @@
 		],
 		"syllabus_toelichting_id": [
 			"08f7bb48-7a5e-4306-8039-a0c5b9031e19"
-		]
+		],
+		"unreleased": true
 	},
 	{
 		"id": "ac47b188-aa77-457a-9097-517ad3e737e9",
@@ -75110,7 +75111,8 @@
 		],
 		"syllabus_toelichting_id": [
 			"728d012d-b859-4f1f-bf03-221186ca21a0"
-		]
+		],
+		"unreleased": true
 	},
 	{
 		"id": "280e1e87-f31c-4a17-888f-9334996ca36f",
@@ -75120,7 +75122,8 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"a9ace1a2-ea8c-40b9-a7f3-b7b2f58b4418"
-		]
+		],
+		"unreleased": true
 	},
 	{
 		"id": "030c8a5a-6d11-4783-9940-fdb5e2591ac7",
@@ -75136,7 +75139,8 @@
 		],
 		"syllabus_toelichting_id": [
 			"07bcb11e-5d7c-4a5b-b463-72ffeba72251"
-		]
+		],
+		"unreleased": true
 	},
 	{
 		"id": "4fd736d5-8cda-4e54-9dea-cacf5d2e5fb5",
@@ -75152,7 +75156,8 @@
 		],
 		"syllabus_toelichting_id": [
 			"a71a888a-d034-4d9c-a88e-df7e1a825936"
-		]
+		],
+		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
