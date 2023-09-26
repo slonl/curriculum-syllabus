@@ -6289,13 +6289,15 @@
 		"description": "Activiteit",
 		"ce_se": "CE",
 		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
-		"id": "b6ae6b53-398e-4b9c-9578-ee85095a1b1d"
+		"id": "b6ae6b53-398e-4b9c-9578-ee85095a1b1d",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
 		"ce_se": "CE",
 		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
-		"id": "b234a14e-9a54-4754-8dbf-269c7df5c576"
+		"id": "b234a14e-9a54-4754-8dbf-269c7df5c576",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6305,7 +6307,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
-		"id": "912020ec-38a3-48e8-ada3-6ed228bfb1ae"
+		"id": "912020ec-38a3-48e8-ada3-6ed228bfb1ae",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6315,7 +6318,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Toepassen - Manieren van uitvoeren van oefeningen of van problemen oplossen, is verwant aan procedurele kennis.",
-		"id": "77effb9f-5744-460d-94c8-ded8ac3d9103"
+		"id": "77effb9f-5744-460d-94c8-ded8ac3d9103",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -6325,7 +6329,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Implementeren: een of meer procedures op een onbekende, nieuwe taak kunnen toepassen.",
-		"id": "c3ba2cfb-4dcb-40cd-906a-973ee1d69783"
+		"id": "c3ba2cfb-4dcb-40cd-906a-973ee1d69783",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6335,7 +6340,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
-		"id": "360277a6-930b-40ec-81ad-c9ea6a3badb3"
+		"id": "360277a6-930b-40ec-81ad-c9ea6a3badb3",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6345,7 +6351,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Evalueren: Het kunnen geven van een oordeel gebaseerd op criteria en standaarden. De criteria die hierbij vaak gebruikt worden zijn kwaliteit, effectiviteit, efficiëntie en consistentie.",
-		"id": "66035b8f-8109-426a-8958-b3c1d7c71040"
+		"id": "66035b8f-8109-426a-8958-b3c1d7c71040",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6355,7 +6362,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
-		"id": "4250e6e2-a6d1-4b2b-986d-a62595bf46c4"
+		"id": "4250e6e2-a6d1-4b2b-986d-a62595bf46c4",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -6365,13 +6373,15 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Produceren: een product kunnen bedenken en uitwerken.",
-		"id": "5e947ea8-944c-4333-9d02-e9f5a60d8515"
+		"id": "5e947ea8-944c-4333-9d02-e9f5a60d8515",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
 		"ce_se": "CE",
 		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
-		"id": "01c24a08-50bb-405f-9724-207c7eacc01c"
+		"id": "01c24a08-50bb-405f-9724-207c7eacc01c",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6381,7 +6391,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
-		"id": "b7f5b8a1-e41c-4ddc-8b1d-a0d8f309d7fd"
+		"id": "b7f5b8a1-e41c-4ddc-8b1d-a0d8f309d7fd",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6391,7 +6402,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Toepassen - Manieren van uitvoeren van oefeningen of van problemen oplossen, is verwant aan procedurele kennis.",
-		"id": "e8db29a5-9142-4aaf-befc-4f15c91a8cde"
+		"id": "e8db29a5-9142-4aaf-befc-4f15c91a8cde",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -6401,7 +6413,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Implementeren: een of meer procedures op een onbekende, nieuwe taak kunnen toepassen.",
-		"id": "a80a85e7-7aad-46cd-b8e7-66965e76d774"
+		"id": "a80a85e7-7aad-46cd-b8e7-66965e76d774",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6411,7 +6424,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
-		"id": "61d245d2-1e3e-42a9-b8c6-f227e85a38fa"
+		"id": "61d245d2-1e3e-42a9-b8c6-f227e85a38fa",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6421,7 +6435,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Evalueren: Het kunnen geven van een oordeel gebaseerd op criteria en standaarden. De criteria die hierbij vaak gebruikt worden zijn kwaliteit, effectiviteit, efficiëntie en consistentie.",
-		"id": "0ebe9da6-f882-4a02-a536-e99684a43fd6"
+		"id": "0ebe9da6-f882-4a02-a536-e99684a43fd6",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -6431,7 +6446,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
-		"id": "026591c3-0315-4417-ba32-74e959153752"
+		"id": "026591c3-0315-4417-ba32-74e959153752",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -6441,7 +6457,8 @@
 			"325ee593-67f6-4910-b495-98e310ca5af8"
 		],
 		"title": "Produceren: een product kunnen bedenken en uitwerken.",
-		"id": "b636d15b-0a40-4273-bf60-c557c1d49444"
+		"id": "b636d15b-0a40-4273-bf60-c557c1d49444",
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -7868,13 +7885,15 @@
 		"prefix": "B1.3b.1b",
 		"title": "De kandidaat kan mondiale spreidingspatronen verklaren.",
 		"description": "",
-		"ce_se": ""
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
 		"ce_se": "CE",
 		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
-		"id": "19cfe707-fecb-4ca7-9f03-4a0ffeda7ed7"
+		"id": "19cfe707-fecb-4ca7-9f03-4a0ffeda7ed7",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -7884,7 +7903,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
-		"id": "0da89bf8-92c3-47c7-a071-d8afe2f7c999"
+		"id": "0da89bf8-92c3-47c7-a071-d8afe2f7c999",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -7894,7 +7914,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Toepassen - Manieren van uitvoeren van oefeningen of van problemen oplossen, is verwant aan procedurele kennis.",
-		"id": "f301ccc0-1bfc-4982-93db-4b8bd1b0b661"
+		"id": "f301ccc0-1bfc-4982-93db-4b8bd1b0b661",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -7904,7 +7925,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Implementeren: een of meer procedures op een onbekende, nieuwe taak kunnen toepassen.",
-		"id": "9a4b2ba5-cc7d-457e-8c8e-d69d8595fc21"
+		"id": "9a4b2ba5-cc7d-457e-8c8e-d69d8595fc21",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -7914,7 +7936,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
-		"id": "c110f8dc-1987-4071-8d66-e4eb775c86a1"
+		"id": "c110f8dc-1987-4071-8d66-e4eb775c86a1",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -7924,7 +7947,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Evalueren: Het kunnen geven van een oordeel gebaseerd op criteria en standaarden. De criteria die hierbij vaak gebruikt worden zijn kwaliteit, effectiviteit, efficiëntie en consistentie.",
-		"id": "e7de4474-f731-4c16-a4df-64f046d24cc5"
+		"id": "e7de4474-f731-4c16-a4df-64f046d24cc5",
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -7934,7 +7958,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
-		"id": "bc45fed0-cfde-4602-aa23-94272d142a33"
+		"id": "bc45fed0-cfde-4602-aa23-94272d142a33",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -7944,7 +7969,8 @@
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf"
 		],
 		"title": "Produceren: een product kunnen bedenken en uitwerken.",
-		"id": "ca42a3b4-5ed2-4c35-a8df-8d559aaaa32d"
+		"id": "ca42a3b4-5ed2-4c35-a8df-8d559aaaa32d",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -8102,7 +8128,8 @@
 		"description": "Activiteit",
 		"ce_se": "CE",
 		"title": "Herkennen (identificeren): kennis uit het lange termijngeheugen vinden, die verbonden kan worden aan het gepresenterde materiaal.",
-		"id": "94c37f87-6ec5-47a6-87f7-6982e2f4df55"
+		"id": "94c37f87-6ec5-47a6-87f7-6982e2f4df55",
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30583,7 +30610,8 @@
 		],
 		"replaces": [
 			"663e802c-7f01-4be0-afca-f0dbd1e7a8d3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30599,7 +30627,8 @@
 		],
 		"replaces": [
 			"6d89620b-ef75-4805-9073-37e6c83f4a07"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30618,7 +30647,8 @@
 		],
 		"replaces": [
 			"49173b4a-bd1e-4230-aaf7-86afb5ecb7c5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30638,7 +30668,8 @@
 		],
 		"replaces": [
 			"0a071461-fbaf-415f-bb2b-7dc36a259d29"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30654,7 +30685,8 @@
 		],
 		"replaces": [
 			"7cb6928c-22b0-4648-a24a-46b5ce4ecf9a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30673,7 +30705,8 @@
 		],
 		"replaces": [
 			"55abf506-1e0b-430a-8ff3-35ab99e6e0ed"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30692,7 +30725,8 @@
 		],
 		"replaces": [
 			"21159e3c-c07b-4293-98fd-0d43b9fa0d8c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30710,7 +30744,8 @@
 		],
 		"replaces": [
 			"0bc3c78d-0b1b-4b0f-962e-9ea9efac60d1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30730,7 +30765,8 @@
 		],
 		"replaces": [
 			"c650564e-0919-4311-af4e-8d48308ee341"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30747,7 +30783,8 @@
 		],
 		"replaces": [
 			"7087363c-16c6-4eab-9d58-67f921d16bc2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30766,7 +30803,8 @@
 		],
 		"replaces": [
 			"09d692cc-65c6-4f8e-a7b8-f951bfb18200"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30785,7 +30823,8 @@
 		],
 		"replaces": [
 			"b0863e65-af08-416e-a211-319acd858012"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30803,7 +30842,8 @@
 		],
 		"replaces": [
 			"cb8f034d-4a93-460c-964c-d00afa792bfb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30820,7 +30860,8 @@
 		],
 		"replaces": [
 			"0542d5af-eb19-4b2e-a5ab-695351e581d5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30840,7 +30881,8 @@
 		],
 		"replaces": [
 			"4cf3cff9-baca-4240-b679-6c027392147b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30858,7 +30900,8 @@
 		],
 		"replaces": [
 			"84398b2c-3c74-4b86-9915-5e666f82e8d7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30878,7 +30921,8 @@
 		],
 		"replaces": [
 			"eb098bf0-7f7c-41f3-a4b6-18314d0236e4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -30893,7 +30937,8 @@
 		],
 		"replaces": [
 			"44f4385a-2049-4faa-971f-f85b64519143"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -30908,7 +30953,8 @@
 		],
 		"replaces": [
 			"3cf18023-8141-469d-9896-339276aece34"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -30924,7 +30970,8 @@
 		],
 		"replaces": [
 			"184ab3e6-3528-46fd-b6b8-6040d4b3c957"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30940,7 +30987,8 @@
 		],
 		"replaces": [
 			"bfa5ac04-42df-4376-8b88-2337061345c2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30959,7 +31007,8 @@
 		],
 		"replaces": [
 			"f3e55085-ec34-465d-905d-9330e6c3299e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30979,7 +31028,8 @@
 		],
 		"replaces": [
 			"1c0d6a73-6441-412f-9adc-1f7111bbe6d6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -30995,7 +31045,8 @@
 		],
 		"replaces": [
 			"4d82d735-e594-4dde-ad2e-9efd3a6a493e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31014,7 +31065,8 @@
 		],
 		"replaces": [
 			"2e2a90a4-ec0c-4798-9364-6f15961b4b46"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31033,7 +31085,8 @@
 		],
 		"replaces": [
 			"6034d728-268b-4257-8015-2abf71044ad0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31051,7 +31104,8 @@
 		],
 		"replaces": [
 			"582263ce-fad5-43c5-bf4f-e2d42a2c8a04"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31071,7 +31125,8 @@
 		],
 		"replaces": [
 			"8398e012-8188-4774-8d68-a660e8461560"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31088,7 +31143,8 @@
 		],
 		"replaces": [
 			"a969a10f-0b52-4009-832d-c5e7face3593"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31107,7 +31163,8 @@
 		],
 		"replaces": [
 			"9a6f4494-5589-488d-95f4-a05387ba389d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31126,7 +31183,8 @@
 		],
 		"replaces": [
 			"4b39755d-4588-43d9-8063-672439d79461"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31144,7 +31202,8 @@
 		],
 		"replaces": [
 			"9c092b0c-2e28-49b0-ba93-f0614fb2a2f6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31161,7 +31220,8 @@
 		],
 		"replaces": [
 			"95b3774b-4f90-452c-9727-3ecce30a2291"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31181,7 +31241,8 @@
 		],
 		"replaces": [
 			"9435c246-9c19-46ce-9094-79c03b4f3393"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31199,7 +31260,8 @@
 		],
 		"replaces": [
 			"0a5aeee4-23be-4431-9410-eeff119f3446"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31219,7 +31281,8 @@
 		],
 		"replaces": [
 			"3ecdbdf3-5941-4b65-bf82-59a9b0511b14"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31234,7 +31297,8 @@
 		],
 		"replaces": [
 			"d47b1b0a-1c9d-4691-a31e-388a0862c51f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31249,7 +31313,8 @@
 		],
 		"replaces": [
 			"363c238e-21fd-4bda-b7c5-4f8f2d684543"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -31265,7 +31330,8 @@
 		],
 		"replaces": [
 			"a1e92d12-caf8-4a36-a649-78f77da4b3ff"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31281,7 +31347,8 @@
 		],
 		"replaces": [
 			"d9e1dd9a-d570-4a5e-bf65-1d5b6c4b62b3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31300,7 +31367,8 @@
 		],
 		"replaces": [
 			"c1a8f645-7780-4d83-9ec8-13a9de63edc5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31320,7 +31388,8 @@
 		],
 		"replaces": [
 			"0e78da91-1aba-4568-bb74-ff84cbd3b009"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31336,7 +31405,8 @@
 		],
 		"replaces": [
 			"ac69f70c-0ee5-4153-a7b0-860c48377ffb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31355,7 +31425,8 @@
 		],
 		"replaces": [
 			"6a4e50f6-ba00-4905-afbd-5a448492e203"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31374,7 +31445,8 @@
 		],
 		"replaces": [
 			"34e9c7fa-21de-4ff0-8636-0129e4aee0ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31392,7 +31464,8 @@
 		],
 		"replaces": [
 			"0c018142-985c-4a75-9371-71de9163ea63"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31412,7 +31485,8 @@
 		],
 		"replaces": [
 			"67b95753-19dd-4ad5-a06d-50762b04f6b6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31429,7 +31503,8 @@
 		],
 		"replaces": [
 			"0ed1f74c-e729-4061-900a-4d459c05d5ea"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31448,7 +31523,8 @@
 		],
 		"replaces": [
 			"6429ca6f-4d19-4f33-8859-a4f84b3c48ee"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31467,7 +31543,8 @@
 		],
 		"replaces": [
 			"4b37b2c7-8a73-41c1-bc24-fd783dbe47a7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31485,7 +31562,8 @@
 		],
 		"replaces": [
 			"01956e4c-1b63-4120-8381-238da79f277e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31502,7 +31580,8 @@
 		],
 		"replaces": [
 			"5e2babef-54bf-4093-b704-c12710335b3c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31522,7 +31601,8 @@
 		],
 		"replaces": [
 			"1674bc00-ea43-41f1-9d5d-3c7f0687170d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31540,7 +31620,8 @@
 		],
 		"replaces": [
 			"b49869e1-9696-46f8-a954-8a2d02349bd4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -31560,7 +31641,8 @@
 		],
 		"replaces": [
 			"9c0a471f-4810-4280-a3f1-b00e67ea6ebd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31575,7 +31657,8 @@
 		],
 		"replaces": [
 			"b7a2a248-cf42-446b-ad2e-bb157f33c2c1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -31590,7 +31673,8 @@
 		],
 		"replaces": [
 			"30243bca-0ab0-4d8c-9357-fcaf7a1dfc9e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Causaliteit",
@@ -37074,7 +37158,8 @@
 		],
 		"replaces": [
 			"cda870e0-d1a1-4d38-988a-e1d46751f05f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37090,7 +37175,8 @@
 		],
 		"replaces": [
 			"08337dd9-e069-4eb5-af2c-937b0869c44a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37109,7 +37195,8 @@
 		],
 		"replaces": [
 			"422c5d17-16c2-4085-8ade-e2f70ea537f5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37129,7 +37216,8 @@
 		],
 		"replaces": [
 			"cf3ffd88-87bc-443d-8a1a-bf906e5ccd9a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37145,7 +37233,8 @@
 		],
 		"replaces": [
 			"37c63657-3f4f-483f-8210-4629322f068f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37164,7 +37253,8 @@
 		],
 		"replaces": [
 			"39058f41-b9b8-465a-bfa5-bee469ec808a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37183,7 +37273,8 @@
 		],
 		"replaces": [
 			"3e7c352e-6c9c-4022-a2ce-985daeff6aa8"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37201,7 +37292,8 @@
 		],
 		"replaces": [
 			"fe1205aa-bff9-492d-84ae-a38576423293"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37221,7 +37313,8 @@
 		],
 		"replaces": [
 			"9120abc5-3cd7-4315-b3ba-31c90605435f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37238,7 +37331,8 @@
 		],
 		"replaces": [
 			"d855ff06-1f0f-48e8-a70d-8a1dd99d9e19"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37257,7 +37351,8 @@
 		],
 		"replaces": [
 			"977be981-d631-49cb-a4ed-f69850009d7b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37276,7 +37371,8 @@
 		],
 		"replaces": [
 			"f45a85ed-bb0f-4ee6-a0e5-dcfbefa4256a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37294,7 +37390,8 @@
 		],
 		"replaces": [
 			"6b3d8f63-6480-4a04-a7ac-151456411fbb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37311,7 +37408,8 @@
 		],
 		"replaces": [
 			"d572d95f-b11a-41c2-97bd-2456a81a01c0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37331,7 +37429,8 @@
 		],
 		"replaces": [
 			"e2ebc42b-7775-4f70-8948-8b3fd44557a5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37349,7 +37448,8 @@
 		],
 		"replaces": [
 			"23f05105-c87b-44d2-97bf-f95c5a86eca3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -37369,7 +37469,8 @@
 		],
 		"replaces": [
 			"eee73c8d-badb-49aa-8ca6-3b61b3269792"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -37384,7 +37485,8 @@
 		],
 		"replaces": [
 			"312ff6e0-b799-4516-8f82-83b1bca666f9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -37399,7 +37501,8 @@
 		],
 		"replaces": [
 			"5bd6aeb4-b8eb-4528-ba00-6981a30650f8"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -38097,7 +38200,8 @@
 		],
 		"replaces": [
 			"795a645d-cd99-4c1a-b9f9-99dbae1ace96"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38113,7 +38217,8 @@
 		],
 		"replaces": [
 			"e5d429d5-06ae-48eb-b4af-82e4db9eb062"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38132,7 +38237,8 @@
 		],
 		"replaces": [
 			"334f63b9-daa8-4e32-bfaa-a894c26aa7c7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38152,7 +38258,8 @@
 		],
 		"replaces": [
 			"6484be1b-d974-4570-9949-2ca79e856118"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38168,7 +38275,8 @@
 		],
 		"replaces": [
 			"5fd6c480-88ef-437a-abd4-c0ef6b11b020"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38187,7 +38295,8 @@
 		],
 		"replaces": [
 			"c06d5988-c296-4d19-a22e-f4a04f32b19e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38206,7 +38315,8 @@
 		],
 		"replaces": [
 			"33e21d2e-289b-40d8-aa94-5ec3ba2b72c6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38224,7 +38334,8 @@
 		],
 		"replaces": [
 			"69d9c96d-5d15-4f9f-b82b-a16ef8c7fd0d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38244,7 +38355,8 @@
 		],
 		"replaces": [
 			"4336321b-1351-42c0-86b4-f4b891a7fab0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38261,7 +38373,8 @@
 		],
 		"replaces": [
 			"ce7abf3a-d539-4fd9-adf8-879510061944"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38280,7 +38393,8 @@
 		],
 		"replaces": [
 			"b104e293-acd5-435f-a366-c2bd3d0df17c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38299,7 +38413,8 @@
 		],
 		"replaces": [
 			"e5669e6a-bfeb-4f60-8302-aa2b204c6e5b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38317,7 +38432,8 @@
 		],
 		"replaces": [
 			"a6521593-9b0a-4877-86fc-25c7eb3dfc45"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38334,7 +38450,8 @@
 		],
 		"replaces": [
 			"16ce763a-1fca-4b32-a7ae-823b57e87d22"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38354,7 +38471,8 @@
 		],
 		"replaces": [
 			"7a41c0c9-dbb1-4645-9db7-006206db5ca4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38372,7 +38490,8 @@
 		],
 		"replaces": [
 			"59195825-0b76-4ccb-8960-4baa76679cda"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -38392,7 +38511,8 @@
 		],
 		"replaces": [
 			"657927f0-4786-42da-bfde-3d15a0959e1f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -38407,7 +38527,8 @@
 		],
 		"replaces": [
 			"25eddc07-860a-491f-9a9c-4e3559b15a86"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -38422,7 +38543,8 @@
 		],
 		"replaces": [
 			"c8f87087-aaba-4cb7-a25a-ce0180de3ef6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -72115,7 +72237,8 @@
 		"id": "1eed9de0-7465-4c3b-8d43-bc7503e9bd56",
 		"replaces": [
 			"544fb4f3-a7f9-43bc-8b3b-a5caa4ca6524"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -72128,7 +72251,8 @@
 		"id": "197c6df1-c1a6-481a-99c1-a040b25b0549",
 		"replaces": [
 			"d90a01be-2ce3-45cf-9276-a41897a2939c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -72141,7 +72265,8 @@
 		"id": "42eb1389-8727-4dad-b337-b2b2f3ed1c7a",
 		"replaces": [
 			"f7292823-8be6-49bc-bc30-d9e1c134c43d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -72154,7 +72279,8 @@
 		"id": "ec33367a-3d07-46af-a87d-073cde0fcf12",
 		"replaces": [
 			"fa9f0d21-ae7a-474b-a415-a4b807a3dc70"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -72167,7 +72293,8 @@
 		"id": "abde9f3b-cc87-4a21-b801-0cf470642e79",
 		"replaces": [
 			"60b51ef9-4b6d-47e3-877b-54d99d282174"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -72180,7 +72307,8 @@
 		"id": "70eb22f5-873d-45a5-9e85-b912be320355",
 		"replaces": [
 			"956a79c3-d863-47e4-bbd0-7d5a14b28ab4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -72193,7 +72321,8 @@
 		"id": "027d79f8-d4cb-4266-bb5e-51f1ccfbea5a",
 		"replaces": [
 			"41e3ba2a-5c3d-4817-8b8e-5e18dee04460"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Tijd en chronologie",
@@ -74653,7 +74782,8 @@
 		"id": "3e560615-aa85-4fd6-b228-0fc714df9141",
 		"replaces": [
 			"93f5d5c5-40ac-424c-9f10-95c6d8c473e6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -74666,7 +74796,8 @@
 		"id": "19254ebe-f50c-4dbc-8ee7-b5b79957c622",
 		"replaces": [
 			"43521f17-8231-471d-bccc-6154818ace09"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -74679,7 +74810,8 @@
 		"id": "17b1494a-e0ee-4a0e-b5ee-04067cd985a6",
 		"replaces": [
 			"eda15941-f228-4e9f-8bc8-87bba601b5f7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -74692,7 +74824,8 @@
 		"id": "3a855d64-b2db-4cd7-864f-7b8f9fec69fe",
 		"replaces": [
 			"0040334c-5435-4111-99db-69d1b5dd451a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -74705,7 +74838,8 @@
 		"id": "788573ae-3811-4640-b5f1-5bc58ff42ee2",
 		"replaces": [
 			"fc76e850-766f-4abf-b253-8d361c439607"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -74718,7 +74852,8 @@
 		"id": "a01bf772-a95a-4d00-b122-635f699c26df",
 		"replaces": [
 			"d5abe9e2-8cb6-4d17-aeeb-c3623d057feb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Activiteit",
@@ -74731,7 +74866,8 @@
 		"id": "a082e113-816d-4ebb-81b4-d6f36c13437e",
 		"replaces": [
 			"f3da8018-d7ff-4168-bcd7-30cefb7f665b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"description": "Beoogd eindgedrag",
@@ -80201,7 +80337,8 @@
 		],
 		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
 		"id": "c759ad87-3142-4cbb-b530-77262933a809",
-		"unreleased": true
+		"unreleased": true,
+		"deleted": 1
 	},
 	{
 		"description": "",
@@ -80243,7 +80380,8 @@
 		],
 		"title": "Onderwerp: Hofcultuur in de zestiende en zeventiende eeuw",
 		"id": "75a70bfa-02c9-4ef8-9ea9-0bade2fc1924",
-		"unreleased": true
+		"unreleased": true,
+		"deleted": 1
 	},
 	{
 		"description": "",
