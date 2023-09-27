@@ -238,26 +238,6 @@
 		]
 	},
 	{
-		"title": "Economie",
-		"id": "e828b483-cf5a-40e5-b54e-c6a7346f3eca",
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
-		],
-		"replaces": [
-			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5"
-		]
-	},
-	{
-		"vakleergebied_id": [
-			"be10bbec-59a9-46a3-8061-43edfce17a76"
-		],
-		"title": "Muziek",
-		"id": "e293b77d-0f2b-4a14-922b-ff51af87158b",
-		"replaces": [
-			"2d2b1c01-2439-4abc-b9d6-22c16642824e"
-		]
-	},
-	{
 		"vakleergebied_id": [
 			"b00a8f97-7d10-41a8-9b84-4e8e82591bfc"
 		],
@@ -305,6 +285,28 @@
 		"id": "aff2f6f2-ff41-468f-ab31-65fd1f6e83d3",
 		"replaces": [
 			"03148f32-44eb-4e69-8758-775dcb674597"
+		]
+	},
+	{
+		"title": "Economie",
+		"id": "88c35ae4-3952-46cb-9663-e6cfcb0d9fbe",
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"replaces": [
+			"d7b5f09e-9774-4e2c-918c-fbbac7dccdf5",
+			"e828b483-cf5a-40e5-b54e-c6a7346f3eca"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"be10bbec-59a9-46a3-8061-43edfce17a76"
+		],
+		"title": "Muziek",
+		"id": "0b2512f8-1663-428a-91e9-a0079bfdc936",
+		"replaces": [
+			"2d2b1c01-2439-4abc-b9d6-22c16642824e",
+			"e293b77d-0f2b-4a14-922b-ff51af87158b"
 		]
 	}
 ]
