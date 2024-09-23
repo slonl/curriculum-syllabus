@@ -19,6 +19,8 @@
 				"examenjaar" : { "type" : "string" },
 				"url" : { "type" : "string" },
 				"versie" : { "type" : "string" },
+				"status" : { "type": "string" },
+				"jaargang": { "type": "string" },
 				"niveau_id" : {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
