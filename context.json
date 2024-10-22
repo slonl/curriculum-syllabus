@@ -64,7 +64,8 @@
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
+				"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"prefix": { "type": "string" },
 				"examenprogramma_eindterm_id" : {
 					"allOf": [
@@ -102,7 +103,8 @@
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
+				"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"prefix": { "type": "string" },
 				"examenprogramma_eindterm_id" : {
 					"allOf": [
@@ -128,7 +130,8 @@
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"description": { "type": "string" },
-				"ce_se": { "type": "string" },
+				"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"prefix": { "type": "string" },
 				"examenprogramma_eindterm_id" : {
 					"allOf": [
