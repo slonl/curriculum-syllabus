@@ -224225,5 +224225,1771 @@
 		"types": [
 			"syllabus"
 		]
+	},
+	{
+		"vakleergebied_id": [
+			"6e29642b-d99d-4085-8dc5-971cabb6b693"
+		],
+		"title": "Friese taal",
+		"id": "c28bbcca-da85-4c09-8024-e3e3d5e56900",
+		"replacedBy": [
+			"ae2c91a6-11da-4dd8-a599-c80ddc57ba2e"
+		],
+		"types": [
+			"syllabus_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
+		],
+		"title": "Italiaans",
+		"id": "93db506e-e09b-4bab-b141-ff3d840ab2d4",
+		"replacedBy": [
+			"1883091a-bac3-4601-8a19-648a966fc85a"
+		],
+		"types": [
+			"syllabus_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
+		],
+		"title": "Duits",
+		"id": "cf54a63e-e0ff-4ed0-bf05-81310f5d9f66",
+		"replacedBy": [
+			"ba49b7db-b827-4431-a661-2aa5cf77e2d8"
+		],
+		"types": [
+			"syllabus_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"73abc618-988a-4409-b2ae-ff16febf68ee"
+		],
+		"title": "Spaans",
+		"id": "6f0d7307-13f9-46db-8690-afbfd0a75e8c",
+		"replacedBy": [
+			"b0a6ac79-29f6-4b8f-8340-e44fd9a68f62"
+		],
+		"types": [
+			"syllabus_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"f851676e-b541-42db-986a-5c468974f65e"
+		],
+		"title": "Frans",
+		"id": "89ff79f7-98ca-4137-b5da-8efa4e08b0ea",
+		"replacedBy": [
+			"7c6108cf-4dbf-4bb2-b086-7b90ffa3253f"
+		],
+		"types": [
+			"syllabus_vakleergebied"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"533d6054-2a6f-46fc-86c9-eded2d404e95"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"846d7662-eb20-4b04-aca8-6073c6f807c7"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits havo 2022",
+		"id": "76e0ed2c-a16b-482e-9d36-c46cb14aa91a",
+		"replacedBy": [
+			"481185ad-ffff-4c12-aa51-d1e27f9de820"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"f69eb17a-edd0-4ca5-8061-ff2037db0686"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"ddca3568-611e-4331-a746-5a5ff4e8f452"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vwo 2022",
+		"id": "67091c48-efb0-4788-95d7-cd6a1de842ec",
+		"replacedBy": [
+			"55446a21-f686-440a-8fbc-49402f93a37c"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"17734e49-c910-4a0e-bea1-e4bd86ca7226",
+			"27ed2008-db7a-47f5-b0e9-8c233298db7b",
+			"c1b07149-63d9-4600-9b22-235852fb98ac",
+			"8406a914-44c5-4805-90c8-637cd40f7db4"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2022",
+		"id": "8761179e-231d-4f1c-ab55-0e5756bdf3e0",
+		"replacedBy": [
+			"76d91bf3-6b7a-4fa2-8caf-52944a7885c0"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"17734e49-c910-4a0e-bea1-e4bd86ca7226",
+			"27ed2008-db7a-47f5-b0e9-8c233298db7b",
+			"c1b07149-63d9-4600-9b22-235852fb98ac",
+			"8406a914-44c5-4805-90c8-637cd40f7db4"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2023",
+		"id": "5d65cf81-b10b-4580-a340-5410ae196247",
+		"replacedBy": [
+			"32517227-1994-4050-bbad-24003a70903e"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"467b67bf-1333-42c5-94f7-e0db714ff6f6"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"5cbf2f00-175b-45da-9286-f37484c4ed24"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans havo 2022",
+		"id": "34934637-860b-4d41-b184-a80e486d9feb",
+		"replacedBy": [
+			"013b1c6f-e026-40fb-b129-c544370a757e"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"de5f51ea-581f-45b4-90d0-d95a0d474433"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"956c0098-5707-492c-b7f8-c257d42da27e"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vwo 2022",
+		"id": "abd52c87-1e15-4bb3-9675-6abf8c970cca",
+		"replacedBy": [
+			"b55b79e1-7d20-4a90-9056-4cba42cd5fbd"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"648e65fd-96ef-4e1a-834c-302a93ce6445"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"cf861a90-ef00-4670-b9f7-f285a7e28ce1"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vwo 2022",
+		"id": "2cc53d20-8b5f-4f05-aea9-e5b2db4ee2da",
+		"replacedBy": [
+			"1a502b56-cb45-44f2-aa77-c648979773df"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"533d6054-2a6f-46fc-86c9-eded2d404e95"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"846d7662-eb20-4b04-aca8-6073c6f807c7"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits havo 2023",
+		"id": "e36d8ed7-56c3-40ac-8fb1-33fcfff5e2af",
+		"replacedBy": [
+			"1bd072e3-a34b-468a-81e7-8c6aa5b1a25f"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"f69eb17a-edd0-4ca5-8061-ff2037db0686"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"ddca3568-611e-4331-a746-5a5ff4e8f452"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vwo 2023",
+		"id": "af82e495-c261-42ea-b385-8fa6872aad0f",
+		"replacedBy": [
+			"2b2a72ef-7bc1-4f95-a30d-a9bdd89cc7f1"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"467b67bf-1333-42c5-94f7-e0db714ff6f6"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"5cbf2f00-175b-45da-9286-f37484c4ed24"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans havo 2023",
+		"id": "66b84be9-292b-4433-b949-c86620f68145",
+		"replacedBy": [
+			"46959c10-3ffd-4a4b-b7f1-d3510002df95"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"de5f51ea-581f-45b4-90d0-d95a0d474433"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"956c0098-5707-492c-b7f8-c257d42da27e"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vwo 2023",
+		"id": "33576d04-835e-462b-8fac-5108080b95a7",
+		"replacedBy": [
+			"470f7703-ad81-4711-97cd-af9636d2aa95"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"387e0a69-80df-4fa4-86de-3ab5085fb50f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans havo 2023",
+		"id": "84f34ec1-7465-464b-aece-a5bd0be2fbf3",
+		"replacedBy": [
+			"04f68c66-9e1b-43f6-9eec-4b032738e4cf"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"648e65fd-96ef-4e1a-834c-302a93ce6445"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"cf861a90-ef00-4670-b9f7-f285a7e28ce1"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vwo 2023",
+		"id": "188772f2-2327-4398-8606-4a09216dcb01",
+		"replacedBy": [
+			"5716275d-d6df-4c83-9d4e-8923cdf76c2b"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"examenprogramma_id": [
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"387e0a69-80df-4fa4-86de-3ab5085fb50f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans havo 2022",
+		"id": "84c187ad-4ccb-43aa-9ac6-690a372f143b",
+		"replacedBy": [
+			"60450d6e-9ca5-47d3-8685-6cabc51c1841"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"17734e49-c910-4a0e-bea1-e4bd86ca7226",
+			"27ed2008-db7a-47f5-b0e9-8c233298db7b",
+			"c1b07149-63d9-4600-9b22-235852fb98ac",
+			"8406a914-44c5-4805-90c8-637cd40f7db4"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2021",
+		"id": "00e36a6f-89bc-4cdf-ab12-30502d2232e6",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"b24a305a-cc34-4325-8250-085e8386a63a"
+		],
+		"replacedBy": [
+			"fe944438-e6cb-44e0-81c0-65255649db07"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"f69eb17a-edd0-4ca5-8061-ff2037db0686"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"ddca3568-611e-4331-a746-5a5ff4e8f452"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vwo 2021",
+		"id": "e50aea20-fe7a-48be-929d-674b6f33028f",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"1da5d8c6-a9b2-4ac4-b12e-537a75face84"
+		],
+		"replacedBy": [
+			"a340fe89-363e-4797-babc-9d79f58eda5a"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"de5f51ea-581f-45b4-90d0-d95a0d474433"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"956c0098-5707-492c-b7f8-c257d42da27e"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vwo 2021",
+		"id": "9a6769f3-1082-4023-a004-3f0feda5ceab",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"880e66c6-5787-4d65-b73b-5f58e77e254e"
+		],
+		"replacedBy": [
+			"140d9840-fbe8-4a4e-a165-72aec6d24a2d"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"648e65fd-96ef-4e1a-834c-302a93ce6445"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"cf861a90-ef00-4670-b9f7-f285a7e28ce1"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vwo 2021",
+		"id": "7b5f5db3-9656-4a1e-aa51-53a5f40ce304",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"734e8982-36ba-4a79-9dbb-0a1588563b28"
+		],
+		"replacedBy": [
+			"0ba2cbcb-c8a1-4605-991d-6b7803cec610"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"d7100858-b25a-4ffc-b57a-ce3797c4e45f"
+		],
+		"title": "Syllabus Moderne vreemde talen Italiaans vwo 2021",
+		"id": "4a9c9924-fc42-4705-b912-e0c51bca53fb",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"syllabus_vakleergebied_id": [
+			"93db506e-e09b-4bab-b141-ff3d840ab2d4"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"f5b4dd1d-83c5-41d8-8db1-ea430131bb1b"
+		],
+		"replacedBy": [
+			"5a6af76b-9e6e-4e5e-a478-517f073bd3df"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"533d6054-2a6f-46fc-86c9-eded2d404e95"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"846d7662-eb20-4b04-aca8-6073c6f807c7"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits havo 2021",
+		"id": "e021b64c-8f02-4d5b-b29c-6e802e764d45",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"44fdf9e4-ce6f-433f-be4b-60243048a003"
+		],
+		"replacedBy": [
+			"bdc2406e-5edd-4ec6-920b-559a97b04cbc"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"467b67bf-1333-42c5-94f7-e0db714ff6f6"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"5cbf2f00-175b-45da-9286-f37484c4ed24"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans havo 2021",
+		"id": "29431b39-25cf-4c6c-b2bb-78fdf767ffc2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"8c5ccfca-d957-4da4-8678-8e4d57901ac2"
+		],
+		"replacedBy": [
+			"d64abf19-305f-4c12-993e-ca3d19b7fd04"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"387e0a69-80df-4fa4-86de-3ab5085fb50f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans havo 2021",
+		"id": "6cd3d8cc-01d6-4bbb-80b0-f1ed243f3457",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"6b3ec012-afd2-49ca-90aa-b4d042df84bb"
+		],
+		"replacedBy": [
+			"6b8862b2-0140-4bb8-9022-f3016037f8e9"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"4271e75e-53f5-4a60-932e-9f7719b0971b"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"8b74f450-4755-46f3-b8c2-46af7e782a83"
+		],
+		"title": "Syllabus Moderne vreemde talen Italiaans havo 2021",
+		"id": "ecde284f-a809-4b2a-83ed-34fd3c26a1b1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"syllabus_vakleergebied_id": [
+			"93db506e-e09b-4bab-b141-ff3d840ab2d4"
+		],
+		"url": "",
+		"ingangsdatum": "",
+		"examenjaar": "2021",
+		"versie": "",
+		"replaces": [
+			"1a041ffa-b1d1-4eab-8491-20f376065663"
+		],
+		"replacedBy": [
+			"b44e0456-87c6-428f-9f52-bf41a9cedb85"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"examenprogramma_id": [
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"17734e49-c910-4a0e-bea1-e4bd86ca7226",
+			"27ed2008-db7a-47f5-b0e9-8c233298db7b",
+			"c1b07149-63d9-4600-9b22-235852fb98ac",
+			"8406a914-44c5-4805-90c8-637cd40f7db4"
+		],
+		"title": "Syllabus Friese taal en cultuur vwo/havo 2024",
+		"id": "cc4c3942-7e6f-425b-85a7-82bbf04aa598",
+		"replacedBy": [
+			"de8cb5e0-9ded-4736-9021-29a06b33ffdb"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"71d47dcd-0ced-46e8-9ace-66c146286c50"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo bb 2022",
+		"id": "e25ed6fc-421f-4c5e-94a3-ec496b47bbbd",
+		"replaces": [
+			"3f55e928-3a10-410e-a638-9b759c40c035"
+		],
+		"replacedBy": [
+			"cbde3a8b-8b75-413f-9f94-d6f604a424c4"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo gl 2022",
+		"id": "19c2c6ad-fa43-4671-be3d-f21d81249f96",
+		"replaces": [
+			"7526b781-9626-4c98-9894-b475ab703fb8"
+		],
+		"replacedBy": [
+			"e85b4eb0-f2f3-46db-83bc-f477229da825"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb 2022",
+		"id": "09004c07-49ab-4440-b4ba-34b51fd7635f",
+		"replaces": [
+			"c3f3cb24-4670-4dbf-b45a-68a1537e7e37"
+		],
+		"replacedBy": [
+			"da735dff-b1f2-480e-9420-b1e60b3b99b9"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo tl 2022",
+		"id": "88603f46-c8b1-48f1-9804-3cffc264f21c",
+		"replaces": [
+			"8a79e44d-47ca-4534-9992-60152fc8b436"
+		],
+		"replacedBy": [
+			"fa18cd84-1ff2-4b8d-8ab1-ce3d1a9c0080"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"93d6dad7-4eaa-4c47-ace0-4f7d759caad4"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo bb 2022",
+		"id": "609283c9-cc5f-4d9e-a6d8-0efd5fc071f0",
+		"replaces": [
+			"7e25bfed-9b15-4207-aa2c-959f740cd2a2"
+		],
+		"replacedBy": [
+			"910b1fad-919b-4221-9e7c-09e6d259b024"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7b6e707b-ba1a-4673-afc0-3a36f78c2ac0"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo kb 2022",
+		"id": "d66a4bd0-fb35-44e6-999f-4ada73877000",
+		"replaces": [
+			"19f834b7-51d2-4b52-af34-19f236ed8a3b"
+		],
+		"replacedBy": [
+			"7b608e1f-8740-461e-af6d-ae101879521c"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"2a073e58-8dbc-4e8e-9273-e48ba16be503"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo gl 2022",
+		"id": "f3e42cc2-6056-440c-9c47-02b359c8ebe4",
+		"replaces": [
+			"7a23fb8a-6c00-4aa3-9db9-9887a0c22774"
+		],
+		"replacedBy": [
+			"dd6588f9-4b66-4f79-91df-1067855a2565"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"2a073e58-8dbc-4e8e-9273-e48ba16be503"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo tl 2022",
+		"id": "c1fe74bb-db3d-4f15-ae20-9d4a9ae4b36f",
+		"replaces": [
+			"cf2846bb-e2c9-4fb2-bd92-a817ee24dbd2"
+		],
+		"replacedBy": [
+			"c4fa229a-38f3-41aa-9896-9ff7e656df27"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"71d47dcd-0ced-46e8-9ace-66c146286c50"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo bb 2023",
+		"id": "96e929c4-d7b2-434b-a4b4-31ad125c06ef",
+		"replaces": [
+			"30b32198-3882-4f64-b4cc-5ae6d1a0c1ea"
+		],
+		"replacedBy": [
+			"30a2983f-d58d-4d8b-a382-448d28ff4f5d"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo gl 2023",
+		"id": "29ced47d-2977-4325-b7b3-66aa02c6502f",
+		"replaces": [
+			"72af2987-31e2-497e-a003-a4094d4df3d1"
+		],
+		"replacedBy": [
+			"b26ed484-0592-4941-852e-2a1f6e6bfc33"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb 2023",
+		"id": "a8c18f46-843e-46c1-b40e-8c08d373847f",
+		"replaces": [
+			"5a08d319-0d94-44f5-b671-5a77a4d59f50"
+		],
+		"replacedBy": [
+			"9c049e91-ca51-454c-9e73-993d577b0afb"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo tl 2023",
+		"id": "636bec4d-9e31-4d54-83d6-230449a82ff6",
+		"replaces": [
+			"cb2f6ec5-51ba-4dfa-9aa7-54d2c63d51cb"
+		],
+		"replacedBy": [
+			"d01accc5-baed-4c92-9478-059d05839813"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"93d6dad7-4eaa-4c47-ace0-4f7d759caad4"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo bb 2023",
+		"id": "371e1e9f-2963-4109-8efe-413fbe67dacc",
+		"replaces": [
+			"f48a719e-288d-4c1d-81da-8a83428d833f"
+		],
+		"replacedBy": [
+			"21567ea3-320b-4dbb-953e-9a6d9729821a"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"2a073e58-8dbc-4e8e-9273-e48ba16be503"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo gl 2023",
+		"id": "0b570451-ff50-4f5d-91a4-4b8c8b2e60b6",
+		"replaces": [
+			"fd84304f-1b72-40a3-b2b9-9455e4c87784"
+		],
+		"replacedBy": [
+			"45b73d57-17cf-485c-acc9-76897a4fd498"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"2a073e58-8dbc-4e8e-9273-e48ba16be503"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo tl 2023",
+		"id": "7361a9f1-d8da-4d52-a23d-468f083fdfd8",
+		"replaces": [
+			"f490b862-438e-48ca-b17f-3f30f37a9c83"
+		],
+		"replacedBy": [
+			"359442f1-8c04-4a27-b49f-87dcfca233e2"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7b6e707b-ba1a-4673-afc0-3a36f78c2ac0"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo kb 2023",
+		"id": "887281ec-7707-4346-9f6f-94f9aaf2aaea",
+		"replaces": [
+			"2c6ab5ca-75bf-4715-abcc-0d8aba1846c2"
+		],
+		"replacedBy": [
+			"881f1e6c-ec54-449b-bf1d-08afc5acfddd"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1c36d02d-7ee2-4c1e-975b-ee4a70fabc7f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb 2023",
+		"id": "2d3693d9-c5a4-41ce-b3f7-6ff685b818e3",
+		"replaces": [
+			"49cec94e-8b30-4257-8b10-1e1c7c4166f5"
+		],
+		"replacedBy": [
+			"de43745b-54e6-43f3-be54-db7335a6cbd3"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9467eef2-1d04-484c-83bf-965e2bc1d5a5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl 2023",
+		"id": "cef8653c-ed76-496e-bb11-a267ce691a32",
+		"replaces": [
+			"24a9e5d0-0e06-4a9e-a7a1-95bd6a877896"
+		],
+		"replacedBy": [
+			"be5c01fc-72a7-4c1f-a340-0a5352525515"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"393317ab-cc12-417a-ae11-a22b4d41df48"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb 2023",
+		"id": "f9a65585-a4ce-455e-9ebe-ae16710102ca",
+		"replaces": [
+			"c1082c88-5478-4622-84ac-48c8f5b0b690"
+		],
+		"replacedBy": [
+			"b7af70cc-1479-4185-8e61-88d843ad2ce1"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9467eef2-1d04-484c-83bf-965e2bc1d5a5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo tl 2023",
+		"id": "1f69e2bd-76e5-4776-b576-804df194cd32",
+		"replaces": [
+			"38d48eaf-883f-4543-82cb-e62d991b71a2"
+		],
+		"replacedBy": [
+			"76cb30cc-d078-44b3-af59-9cf9303b71e3"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1c36d02d-7ee2-4c1e-975b-ee4a70fabc7f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb 2022",
+		"id": "f5c0bee6-ea35-496f-896d-2cf3191901bd",
+		"replaces": [
+			"2786d0f6-7796-4488-901b-5bb601b4773e"
+		],
+		"replacedBy": [
+			"5bd603b1-4495-4f2d-8759-8e01995cb4e2"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9467eef2-1d04-484c-83bf-965e2bc1d5a5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl 2022",
+		"id": "ac01be4f-6aa7-4fbb-8c2b-0002a10de1e7",
+		"replaces": [
+			"a974d4d5-f51d-4755-9478-138a33f06ac6"
+		],
+		"replacedBy": [
+			"96ae4687-cf6e-49b1-ab8c-92bdcc82beb4"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"393317ab-cc12-417a-ae11-a22b4d41df48"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb 2022",
+		"id": "f56077a5-500c-40fd-9938-62dc6658b6cb",
+		"replaces": [
+			"4c4e5ada-62be-49e1-b90d-5ca7611134f6"
+		],
+		"replacedBy": [
+			"cf9e626f-3464-4cab-9d4d-0e62c1a5743b"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"25195764-5ec6-4a4e-8ae7-1ee08ad5c707"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo kb, gl, tl",
+		"id": "3140a2df-824c-4119-9118-8c3a2fb7451b",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"replaces": [
+			"3fa880dc-0c86-41ee-b565-d2e84ce60b20",
+			"3e9b17df-74d5-4189-84d7-19d61ff8ea7e"
+		],
+		"replacedBy": [
+			"56b51ead-8502-4e8b-b7b4-7f147592eddd"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"71d47dcd-0ced-46e8-9ace-66c146286c50"
+		],
+		"title": "Syllabus Moderne vreemde talen Duits vmbo bb",
+		"id": "003a24c1-1264-4745-97f5-61020b181335",
+		"url": "",
+		"ingangsdatum": "",
+		"versie": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"cf54a63e-e0ff-4ed0-bf05-81310f5d9f66"
+		],
+		"replaces": [
+			"443ac44f-a099-40b1-ad73-ed48a73fa92a",
+			"47e85856-a0c6-484a-b2a6-21c4d2897ba5"
+		],
+		"replacedBy": [
+			"abc9c6a0-9053-4efe-990f-06241ff1e267"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"2a073e58-8dbc-4e8e-9273-e48ba16be503"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo gl, tl",
+		"id": "c05488d0-3054-465f-8351-1a91c5c7c068",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"replaces": [
+			"7e6df60b-8050-41fd-9a43-e85bd2c884cf",
+			"a33738d3-e08d-4c11-9d56-5445990fee2d"
+		],
+		"replacedBy": [
+			"0b843920-bbcc-424e-a646-b356c0050fdb"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"7b6e707b-ba1a-4673-afc0-3a36f78c2ac0"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo kb",
+		"id": "aaff2a1d-80be-482e-9fd1-3941d34bebf0",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"replaces": [
+			"d156f8dc-a306-4fa3-bd8e-d561c7dbd421",
+			"51b98651-2a97-40ad-881f-25d0b7ac8498"
+		],
+		"replacedBy": [
+			"dc7d1c0f-1bea-4a97-a77a-ce0b5a0b9a33"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"93d6dad7-4eaa-4c47-ace0-4f7d759caad4"
+		],
+		"title": "Syllabus Moderne vreemde talen Frans vmbo bb",
+		"id": "34afb13a-f8fc-4b91-9bd8-bcdb3a6cd59a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"89ff79f7-98ca-4137-b5da-8efa4e08b0ea"
+		],
+		"replaces": [
+			"159ce633-bf0a-46a0-b604-9a88c17f75c8",
+			"e0957c74-ca7c-4c9f-947b-2779e300e310"
+		],
+		"replacedBy": [
+			"5b105670-ede0-44f4-aedf-6bbeed59d59c"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"393317ab-cc12-417a-ae11-a22b4d41df48"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo kb",
+		"id": "aa1895f4-5e7f-43f5-be92-cedccc0db95b",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"replaces": [
+			"3263f2b0-db5f-4af3-9625-54c8edb96ccd",
+			"e6800d03-c9ba-48cd-b095-f5022c364ebb"
+		],
+		"replacedBy": [
+			"62f3c8b1-e0f4-4f77-b091-18a029abf52f"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"1c36d02d-7ee2-4c1e-975b-ee4a70fabc7f"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo bb",
+		"id": "cde2c49f-9899-449b-8d28-7bc46df488e5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"replaces": [
+			"a34cd4fd-5c15-42be-b129-fbdb080b51e1",
+			"0b4e345a-4d62-46ab-880c-da8344224be5"
+		],
+		"replacedBy": [
+			"6b376e7f-b4aa-4105-86df-b825385f732e"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"examenprogramma_id": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9467eef2-1d04-484c-83bf-965e2bc1d5a5"
+		],
+		"title": "Syllabus Moderne vreemde talen Spaans vmbo gl, tl",
+		"id": "866e71a8-2c18-42a6-b28c-79258454c50a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"syllabus_vakleergebied_id": [
+			"6f0d7307-13f9-46db-8690-afbfd0a75e8c"
+		],
+		"replaces": [
+			"3ccb4772-f5e1-4a7c-befd-22f10725ba0e",
+			"deb9522b-ea2d-499b-ae81-8ffc2b6f6b85"
+		],
+		"replacedBy": [
+			"ddb1b10b-1579-4ce0-beb1-7c18f15b3b5b"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2024",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"f8600316-fcfb-4357-8e2d-4b707f0ff9c6"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9e3165e0-a4a1-42ee-a9a2-4c3a5c89857a",
+			"7efcae7f-ec95-42f3-a5d8-599e3a8b7df0",
+			"90de6426-57c4-40fd-a7e5-0e68a02c98c5",
+			"fd805bd3-b64d-42cd-bcb7-ede02538df3f",
+			"a0754d0f-ad09-42e6-982e-328519d0836f",
+			"b1f15832-f03f-40a5-a5a1-156507477e43",
+			"dd11a5c8-1f2d-4204-956d-2646766b7ef9",
+			"14150c35-fa49-4d31-bad2-3019eefe065f",
+			"df5b91a9-36c4-42ed-8859-67a069e34bf9",
+			"5194eb71-c786-41eb-a462-f8c85f96480c",
+			"e3b233b5-e4c2-43cb-b86e-4122041f716b",
+			"265f70da-a4fb-4763-94ac-5eb332fb1a49",
+			"66a014c9-c419-4862-8be2-e1ce6d47301a",
+			"f751582f-5dbb-419b-b1d0-49ccfc75faa9",
+			"6bb33ad0-fded-4587-823d-0296845775fe",
+			"70b6994d-2e36-43a4-ba2e-60944c79c296",
+			"ac0ae654-ee8f-4c35-96c7-c4aace51cc78",
+			"a9018e06-0516-457c-942e-2c502cde8c3a",
+			"8de358ac-2204-4d87-9fdf-21e411da176b"
+		],
+		"title": "Syllabus Friese taal en cultuur vmbo gl/tl 2024",
+		"id": "d21c230d-b3c4-48fe-b13b-1199a0e4b649",
+		"replaces": [
+			"142f94cf-7ab9-4404-9c6f-6365b8efdfbd"
+		],
+		"replacedBy": [
+			"9ad073b2-390a-45b6-90e4-ec3d5ce36265"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2022",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"f8600316-fcfb-4357-8e2d-4b707f0ff9c6"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9e3165e0-a4a1-42ee-a9a2-4c3a5c89857a",
+			"7efcae7f-ec95-42f3-a5d8-599e3a8b7df0",
+			"90de6426-57c4-40fd-a7e5-0e68a02c98c5",
+			"fd805bd3-b64d-42cd-bcb7-ede02538df3f",
+			"a0754d0f-ad09-42e6-982e-328519d0836f",
+			"b1f15832-f03f-40a5-a5a1-156507477e43",
+			"dd11a5c8-1f2d-4204-956d-2646766b7ef9",
+			"14150c35-fa49-4d31-bad2-3019eefe065f",
+			"df5b91a9-36c4-42ed-8859-67a069e34bf9",
+			"5194eb71-c786-41eb-a462-f8c85f96480c",
+			"e3b233b5-e4c2-43cb-b86e-4122041f716b",
+			"265f70da-a4fb-4763-94ac-5eb332fb1a49",
+			"66a014c9-c419-4862-8be2-e1ce6d47301a",
+			"f751582f-5dbb-419b-b1d0-49ccfc75faa9",
+			"6bb33ad0-fded-4587-823d-0296845775fe",
+			"70b6994d-2e36-43a4-ba2e-60944c79c296",
+			"ac0ae654-ee8f-4c35-96c7-c4aace51cc78",
+			"a9018e06-0516-457c-942e-2c502cde8c3a",
+			"8de358ac-2204-4d87-9fdf-21e411da176b"
+		],
+		"title": "Syllabus Friese taal en cultuur vmbo gl/tl 2022",
+		"id": "6b06b843-4281-40ba-b9d3-31a0e53bfea9",
+		"replaces": [
+			"93425d43-da7a-4947-ae13-f1f3d160f8dc",
+			"cbf62130-ceec-419f-b9db-818a919376c6"
+		],
+		"replacedBy": [
+			"c2f51261-d845-46af-b3db-51a6b3418006"
+		],
+		"types": [
+			"syllabus"
+		]
+	},
+	{
+		"ingangsdatum": "",
+		"examenjaar": "2023",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_id": [
+			"f8600316-fcfb-4357-8e2d-4b707f0ff9c6"
+		],
+		"syllabus_vakleergebied_id": [
+			"c28bbcca-da85-4c09-8024-e3e3d5e56900"
+		],
+		"syllabus_specifieke_eindterm_id": [
+			"9e3165e0-a4a1-42ee-a9a2-4c3a5c89857a",
+			"7efcae7f-ec95-42f3-a5d8-599e3a8b7df0",
+			"90de6426-57c4-40fd-a7e5-0e68a02c98c5",
+			"fd805bd3-b64d-42cd-bcb7-ede02538df3f",
+			"a0754d0f-ad09-42e6-982e-328519d0836f",
+			"b1f15832-f03f-40a5-a5a1-156507477e43",
+			"dd11a5c8-1f2d-4204-956d-2646766b7ef9",
+			"14150c35-fa49-4d31-bad2-3019eefe065f",
+			"df5b91a9-36c4-42ed-8859-67a069e34bf9",
+			"5194eb71-c786-41eb-a462-f8c85f96480c",
+			"e3b233b5-e4c2-43cb-b86e-4122041f716b",
+			"265f70da-a4fb-4763-94ac-5eb332fb1a49",
+			"66a014c9-c419-4862-8be2-e1ce6d47301a",
+			"f751582f-5dbb-419b-b1d0-49ccfc75faa9",
+			"6bb33ad0-fded-4587-823d-0296845775fe",
+			"70b6994d-2e36-43a4-ba2e-60944c79c296",
+			"ac0ae654-ee8f-4c35-96c7-c4aace51cc78",
+			"a9018e06-0516-457c-942e-2c502cde8c3a",
+			"8de358ac-2204-4d87-9fdf-21e411da176b"
+		],
+		"title": "Syllabus Friese taal en cultuur vmbo gl/tl 2023",
+		"id": "51b8b8ec-021a-46a1-aa7b-4f48e3a4a2b6",
+		"replaces": [
+			"e04870e2-7e81-468e-b0ae-f63400e5433a",
+			"43a82483-9cac-435a-9995-ceb30ba5525a"
+		],
+		"replacedBy": [
+			"db7c1ec8-fd54-43f5-a43a-b6edf809ce56"
+		],
+		"types": [
+			"syllabus"
+		]
 	}
 ]
